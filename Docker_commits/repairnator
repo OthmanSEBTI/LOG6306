@@ -1,0 +1,4 @@
+,repo_name,sha,message
+111,repairnator,a3f56b84c51e70241900f64958875b3ec42c4044,refactor: move docker test cases to other repository (#1059)
+189,repairnator,baa4b4aa8f43b4cf8abc0e7063cd3a7f82f4ef50,"refactor: merge dockerpool into ""core"" to prepare release (#953)"
+1132,repairnator,3244c5346e49c0109e95d59e45bf4eefa4a45041,refactoring to launch repairnator using docker images (#111)

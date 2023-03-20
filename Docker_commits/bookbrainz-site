@@ -1,0 +1,11 @@
+,repo_name,sha,message
+3042,bookbrainz-site,9122a22a758254fc5dbb133acac3f63b9237f826,refactor(docker): Corrected issues with dockerisation and init process
+3044,bookbrainz-site,08cca8211043188364eaaebd3111b922a91f3057,refactor(docker): Set up and documented using webpack to watch files in container
+3045,bookbrainz-site,ad6b69c25a63b7286216bd4e401fe0b3ec029e26,refactor(docker): set restart policies for dependencies
+3048,bookbrainz-site,495d2f6063fa67110606509beb5c5b91bd613123,"refactor(docker): Moved compose file to root, added db init script"
+3049,bookbrainz-site,7302921e0f41fdfdf011eecd908c539253a52ab8,"refactor(docker): Sensible defaults using docker services names, fallback to localhost"
+3054,bookbrainz-site,efceb1d059e39161cd5e8893e015a81511cabc7d,"refactor(docker): Consolidated compose files, use named volumes"
+3056,bookbrainz-site,7473ba0a6f77baaf65ce2a944a572df2706badcb,refactor(docker): Working Dockerfile
+3058,bookbrainz-site,a555039185a4e747a7a90afe50a23185e328a17c,refactor(docker): Correction on Dockerfile
+3059,bookbrainz-site,6846f494d0237bee33dc2b7364841dc324dcff13,refactor(docker): Rebuilding dockerfile and docker-compose files
+3061,bookbrainz-site,b0c3093ef40cec8bf21cd8c3caf5ac56e10b5596,refactor(docker): Removing old docker files

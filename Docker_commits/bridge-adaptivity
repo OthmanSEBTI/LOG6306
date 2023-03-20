@@ -1,0 +1,2 @@
+,repo_name,sha,message
+64,bridge-adaptivity,93b5fffb064ff02cbdec8c77077280a7cc401291,refactor: depreciate entrypoint and simplify dockerfile

@@ -1,0 +1,4 @@
+,repo_name,sha,message
+21,geodocker-cluster,8f45e63a881127debdfe643f7e1d4603fec4966f,refactored docker-compose.yml
+114,geodocker-cluster,fdd53ed99e466bd5cceecaa1af94d393de112670,Merge pull request #26 from pomadchin/feature/refactor-dockerfiles
+144,geodocker-cluster,ac88b3e27624f9caa86ab72e37ef53e5d1903bfb,"refactored docker images to avoid ""127 layers / parents"" possible error on some machines"

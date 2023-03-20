@@ -1,0 +1,18 @@
+,repo_name,sha,message
+380,commander,21ae2bfe74f6ed1d1e114cac2f30bd3baad548ea,refactoring; move docker-compose yml files into their own dir
+384,commander,eed59db227e75b967f0549cc79891c25b451f569,refactoring; move [sh] and [update] into individual scripts that are docker-catted out of the commander image (like [start-point create])
+388,commander,b378598021cc8c0b0befbbf6573c518758785cc2,refactoring; extract method up_argument() and use CYBER_DOJO_PORT in docker-compose.yml
+421,commander,ef6884bdb6c7c6a6f812d07a8e0afac061457db7,refactoring; move ports into their own docker-compose .yml file
+422,commander,1ddb805ddd371be3c580f6528952804faa2e70ac,refactoring; move volumes into their own docker-compose .yml file
+424,commander,a572fa01966b33a2966b4133ce668f4383250a76,refactoring; move mem-limits into their own docker-compose .yml file
+425,commander,ed84532d14f0f155be3a777e9c3b84694587b0c1,refactoring; split off cpu-shares and depends-on into their docker-compose .yml files
+507,commander,95f40c68ca4e9dbe3a82883874608d839e769972,refactoring; delete dead entries from .dockerignore file
+558,commander,5de1bb674db943f54a90624971fa2c2752ea3dd2,refactoring; change [docker images] to [docker image ls]
+559,commander,34e7aad289fd3a225882c2ecfbb13fd96fe1e252,refactoring; change [docker images] to [docker image ls]
+623,commander,b2e6f4b67adb16116f46c80d69ae37c57d0ccb03,added singler to docker-compose.yml to help web refactoring
+647,commander,9bf890eccec0b05281548ba1a779033be357e0d0,refactoring; remove dead dependency in docker-compose.yml
+679,commander,55b728f64d41f44146f72fccade615b44113b555,refactoring; drop Dockerfile's tini install and use --init in cyber-dojo script's [docker run] instead
+727,commander,b55b93aa95c3b086631e5e8579dab9d8e7f7c6f8,refactoring; delete dead code in docker-compose.yml
+758,commander,4799f1f9a8d3a601ecb334343ae5fef9957b36c9,refactoring; deleted dead dependencies from docker-compose.yml
+1026,commander,ee5b0ce8a7537678589aedca18c5d47d03d8c839,refactoring; make all image-names and container-names in docker-compose.yml explicit
+1140,commander,84edf651f8075a4b6c04dd6c767fd735dd706f37,refactoring; add .dockerignore and tidy up Dockerfile

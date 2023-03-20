@@ -1,0 +1,9 @@
+,repo_name,sha,message
+195,crunchy-postgresql-manager,0dbc65b4ff4b8eda2839c2e33fe617c98d35dfa1,refactor dockerfile and makefile for cpm-restore-job
+196,crunchy-postgresql-manager,c4d3c82b6fd2bbc7d7bee9d8f43813e161734312,refactor cpm-node-proxy dockerfile and makefile
+197,crunchy-postgresql-manager,da59f56f9c136a1159c09f9a8d6b5b6c27284171,refactor cpm-pgpool dockerile and makefile
+199,crunchy-postgresql-manager,8ba2c4c90fcb3576af50851c3418aea450d77d6d,refactor cpm-node dockerfile and makefile
+200,crunchy-postgresql-manager,9188a91807189f98dd67995b0d8c435c71503a07,refactor dockerfile and makefile
+201,crunchy-postgresql-manager,5bbee94526543fdf72804c0b49b6cef834875016,refactor cpm-backup-job dockerfile and makefile
+208,crunchy-postgresql-manager,05299bfd99d5df3cf62e178438d7d68114511568,refactor cpm-admin dockerfile and makefile
+209,crunchy-postgresql-manager,1960b6d1518c0211fa2ad9dd1bef0d185ada4220,refactored cpm-task dockerfile setup

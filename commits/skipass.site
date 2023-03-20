@@ -1,0 +1,444 @@
+e9d4a42517f551eed87d0c0b265c0ad40653afc3|Update docker-compose version|Sat, 18 Feb 2017 11:55:20 +0200|Sat, 18 Feb 2017 11:55:20 +0200
+57fb358d5b965a3f43a6dc6f21619f0a1de1d8ec|Merge pull request #64 from blobor/develop|Sat, 18 Feb 2017 11:50:57 +0200|Sat, 18 Feb 2017 11:50:57 +0200
+cccb65a53c733cc9f83bf565cd62e704520696db|Merge branch 'master' into develop|Sat, 18 Feb 2017 11:46:08 +0200|Sat, 18 Feb 2017 11:46:08 +0200
+3cf307e8d03548e8eea910d8ab61176d4978ac72|Test letsencrypt|Sat, 18 Feb 2017 11:43:33 +0200|Sat, 18 Feb 2017 11:43:33 +0200
+47c6e750021ea053aac9d132a3fc5048846bd2d6|v0.40 (#63)|Sat, 18 Feb 2017 10:31:41 +0200|Sat, 18 Feb 2017 10:31:41 +0200
+740490b9dfd386bbc8d2f5760ca0333ba4b1907e|Deps update (#62)|Sat, 18 Feb 2017 10:10:39 +0200|Sat, 18 Feb 2017 10:10:39 +0200
+b227e6674da971d94f09af5cd3b7499c539d756b|Add manifest file (#61)|Sun, 12 Feb 2017 17:09:04 +0200|Sun, 12 Feb 2017 17:09:04 +0200
+f7e878fcab160ec89736fa3c99f8dd50c5980fd5|moved `copy-webpack-plugin` package to the deps|Mon, 6 Feb 2017 23:42:18 +0200|Mon, 6 Feb 2017 23:42:18 +0200
+09259a6a219b7e019a6e469dcb13e268ff446100|updated lock file|Mon, 6 Feb 2017 22:48:42 +0200|Mon, 6 Feb 2017 22:48:42 +0200
+795ac3a33f209c54fb2a50013acf70485e5717aa|add favicons images (#60)|Mon, 6 Feb 2017 21:57:28 +0200|Mon, 6 Feb 2017 21:57:28 +0200
+e1a7cf46558529480602bbb2c714080d7315af69|Update docker images (#59)|Sat, 4 Feb 2017 01:17:36 +0200|Sat, 4 Feb 2017 01:17:36 +0200
+fa1e66463447fe799f097fb1811c03fae1a882b3|continue work on codecov integration|Thu, 2 Feb 2017 00:15:24 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+56d5227502a61366ee2eed035597079bc34ba257|minor fix for travis|Thu, 2 Feb 2017 00:07:04 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+2ef986bab96664c8078a12a4ea9f6ccc1c718b75|add codecov support|Wed, 1 Feb 2017 23:58:54 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+b6887c602d33efc0c0c83e3b00febb5a36d586ba|Use yarn for running tets task|Wed, 1 Feb 2017 23:37:50 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+be6502726081e5efd06fe4328b914eb9c0a59a4d|Fixed linting error|Wed, 1 Feb 2017 23:36:56 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+e9c4a76f992dd166f424ebc220646832f9bc1d1f|Updated snapshot|Wed, 1 Feb 2017 16:02:17 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+43518ce8e760d8df71a1c5843c3f737cb9f6c8e0|[gh-48]: renamed label|Wed, 1 Feb 2017 15:48:57 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+d35ee2c68c50f059dc268135411bc103e70c743c|[gh-48]: updated yarn.lock deps|Mon, 16 Jan 2017 18:38:25 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+4f91dcff24dc47c8355f7902a9d7013f656ebe9b|[gh-48]: added `toggleDeveloperMode`|Mon, 16 Jan 2017 18:38:09 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+e7696de8ffe7cb2f0c65a2206d5ae2bf1fe9fdfe|[gh-48]: add snapshot test for `About` component|Mon, 16 Jan 2017 01:27:58 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+d9e7deea489c83794cf65f5c30c3fad2ab51ef47|[gh-48]: use `modulePaths` config for tests|Mon, 16 Jan 2017 01:18:58 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+5af5fdc6074008bfdd43b4e1b0554182e585386a|[gh-48]: show app version|Sun, 15 Jan 2017 15:18:33 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+79793485085931ffef314c57df5f600bf96e391a|[gh-48]: initial work on `About` page|Sun, 15 Jan 2017 14:31:13 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+630130cfa5633dc32d9961ea2317f38f0da80d9b|[gh-48]: add `start:watch` task|Sun, 15 Jan 2017 13:46:57 +0200|Thu, 2 Feb 2017 00:30:32 +0200
+565603323a1578e3a69849ff2de6dcdc78359339|Switch to Jest (#57)|Fri, 13 Jan 2017 14:28:03 +0200|Fri, 13 Jan 2017 14:28:03 +0200
+46b05bc31783b2ea9a7dd0f28fcd43cfc64fccd1|:arrow_up: deps (skipped material-ui due to https://github.com/callemall/material-ui/issues/5855) (#56)|Tue, 10 Jan 2017 01:04:44 +0200|Tue, 10 Jan 2017 01:04:44 +0200
+2ce4227688be50d714cf2a69b730065972723c53|v0.40.0|Mon, 9 Jan 2017 23:28:20 +0200|Mon, 9 Jan 2017 23:28:20 +0200
+c8457e66bf3f0b5681c827689b7b74a5eb7bf5ad|Merge branch 'master' into develop|Mon, 9 Jan 2017 23:27:22 +0200|Mon, 9 Jan 2017 23:27:22 +0200
+58b665b0134b48e057839f553b7c4ef2fe4c965e|docker-compose 0.30.3|Mon, 9 Jan 2017 18:07:39 +0200|Mon, 9 Jan 2017 18:07:39 +0200
+8d9bfa1fe5f2a4f9a9b8d4f96abe7078d89e0d4b|:rocket: 0.30|Mon, 9 Jan 2017 16:25:49 +0200|Mon, 9 Jan 2017 16:25:49 +0200
+36b1cb130d765183174117375858eeabce6b22fb|Merge branch 'master' into develop|Mon, 9 Jan 2017 13:34:36 +0200|Mon, 9 Jan 2017 13:34:36 +0200
+c37bfdeff95a1051b423280d6ed55ee0988f0e95|updated nodejs and nginx versions|Mon, 9 Jan 2017 12:59:38 +0200|Mon, 9 Jan 2017 12:59:38 +0200
+f758425202ec802c0762cd3a82e04d9969743734|skipass-card container should be a link|Mon, 9 Jan 2017 12:35:48 +0200|Mon, 9 Jan 2017 12:36:17 +0200
+83af7fa29af540c0cf035b2f79d890a88afb1c46|:arrow_up: skipass.site@0.30.2|Mon, 9 Jan 2017 02:15:04 +0200|Mon, 9 Jan 2017 02:15:04 +0200
+49dc9ff23f0249c0e74f6d4f93827a45ff67df53|[gh-41]: user should be able to manage stored skipasses (#53)|Mon, 9 Jan 2017 02:13:18 +0200|Mon, 9 Jan 2017 02:13:18 +0200
+0490599f1964966685bfb1d8c23e709c79aa826e|gh-40: added google analytics tracking (#46)|Wed, 28 Dec 2016 23:46:56 +0200|Wed, 28 Dec 2016 23:46:56 +0200
+7eefd4725cac07ec1f01c90d7cb28bb4f76fb7d8|:arrow_up: skipass.site@0.30.1|Mon, 26 Dec 2016 20:13:04 +0200|Mon, 26 Dec 2016 20:13:04 +0200
+f439f170e2a04516d0fba7c029993d03b8af93a4|[gh-38]: configured nginx cache (#45)|Mon, 26 Dec 2016 20:11:52 +0200|Mon, 26 Dec 2016 20:11:52 +0200
+0ba5aefed31fe450d0f520722e0ed2675a11b8d0|set up staging server (#44)|Sun, 25 Dec 2016 21:36:07 +0200|Sun, 25 Dec 2016 21:36:07 +0200
+15cf9ef14fe1dfd1b5375056138eb20f2c1bbc8c|gh-39: remove `material-design-lite` dependency (#43)|Sun, 25 Dec 2016 19:59:41 +0200|Sun, 25 Dec 2016 19:59:41 +0200
+ea7b3df5c59778aed3990584852b3d4c6aaaf8fc|Build updates (#37)|Sat, 24 Dec 2016 16:18:03 +0200|Sat, 24 Dec 2016 16:18:03 +0200
+0f3a2b6dfca7981834ee36cda2db74e378d7c356|Update deps (#36)|Tue, 20 Dec 2016 22:33:39 +0200|Tue, 20 Dec 2016 22:33:39 +0200
+e7155407776f0fb8b9d4c7fb8362af9c5d52804f|:rocket: 0.20.0 (#35)|Tue, 20 Dec 2016 20:56:22 +0200|Tue, 20 Dec 2016 20:56:22 +0200
+aafa51d55a7908a5b643fe577bdc681eec9765cd|:rocket: 0.20.0|Tue, 20 Dec 2016 20:51:08 +0200|Tue, 20 Dec 2016 20:51:08 +0200
+d176d5cb5234c829c11a58988aa1850669092a9d|Dockerizing (#34)|Tue, 20 Dec 2016 20:38:02 +0200|Tue, 20 Dec 2016 20:38:02 +0200
+2fedbf5f8f77a52d50b3320c96457dcf2b22feda|fix(package): update webpack to version 1.14.0 (#11)|Wed, 7 Dec 2016 11:40:10 +0200|Wed, 7 Dec 2016 11:40:10 +0200
+8c8ec7ca98dad2532277233542b0376bf0685459|removed appveyor build config|Sun, 4 Dec 2016 20:51:13 +0200|Sun, 4 Dec 2016 20:51:13 +0200
+94dacb25570a3b800f5422e88e4270f4ffe43b64|Update license|Sun, 4 Dec 2016 20:49:41 +0200|Sun, 4 Dec 2016 20:49:41 +0200
+f66295321cf25ba62bd782e57fcee4886c83039e|switch to yarn (#10)|Sun, 4 Dec 2016 20:48:54 +0200|Sun, 4 Dec 2016 20:48:54 +0200
+25d87d98beaaaf73c52e0926514a284759aa9747|fix(package): update css-loader to version 0.26.1|Fri, 2 Dec 2016 14:05:36 +0000|Sun, 4 Dec 2016 18:09:18 +0200
+92debb150a5962ee655bd0a252ba8930ec952620|fix(package): update postcss-loader to version 1.2.0|Sat, 3 Dec 2016 23:51:29 +0000|Sun, 4 Dec 2016 18:09:01 +0200
+4ff8bef4142ac39031e733a51e897a609bd1bc72|fix(package): update moment to version 2.17.1|Sun, 4 Dec 2016 05:49:41 +0000|Sun, 4 Dec 2016 18:08:06 +0200
+7d991fbba837155bc5fe6aa9e6ec20b46832601a|chore(package): update dependencies (#5)|Mon, 28 Nov 2016 18:50:47 +0200|Mon, 28 Nov 2016 18:50:47 +0200
+3469b8d428ba8bfd5318f57a96baa92b2d07b26b|:arrow_up: ava@0.17.0|Tue, 22 Nov 2016 20:28:50 +0200|Tue, 22 Nov 2016 20:28:50 +0200
+81685782996978fe5647417061e4678b12aa5b12|:arrow_up: deps|Sun, 20 Nov 2016 00:45:07 +0200|Sun, 20 Nov 2016 00:45:07 +0200
+80b03bb3808de46ee5be2985fb8d6967f8682069|:arrow_up: deps|Mon, 14 Nov 2016 23:59:55 +0200|Mon, 14 Nov 2016 23:59:55 +0200
+cfb4b99bb7bf0b5b3fdb4a4e8e21b2b301c819f7|change license `Apache-2.0`|Tue, 8 Nov 2016 22:52:16 +0200|Tue, 8 Nov 2016 22:52:16 +0200
+b03368f63931ca1d9cf69b7659c93919121cd218|change license `Apache-2.0`|Sun, 6 Nov 2016 23:58:39 +0200|Sun, 6 Nov 2016 23:58:39 +0200
+82be6130d5d40740ef3accf561d1443088041d5d|:arrow_up: deps|Sun, 6 Nov 2016 23:37:31 +0200|Sun, 6 Nov 2016 23:37:31 +0200
+b00aad70c8d1287b8eec1f30c57d295e30cb60c8|turn off silent logs|Sun, 6 Nov 2016 23:33:16 +0200|Sun, 6 Nov 2016 23:33:16 +0200
+ae67a3ff10e4021bac8c566217ae84288a00f733|add `npm-shrinkwrap.json` file|Sun, 6 Nov 2016 15:55:22 +0200|Sun, 6 Nov 2016 15:55:22 +0200
+39c2d965ba079f54c5b4c6b182f1d8062ebb3b35|Merge branch 'navigation'|Mon, 31 Oct 2016 15:56:15 +0200|Mon, 31 Oct 2016 15:56:15 +0200
+977606c858ecf860d7c5b7f6b2a055623ea44e45|:arrow_up: deps|Mon, 31 Oct 2016 15:55:29 +0200|Mon, 31 Oct 2016 15:55:29 +0200
+f73431fda1471261c98844f21a4ecdedf5d6f63d|fix aligning of navigation links on FF and Edge|Mon, 31 Oct 2016 10:33:39 +0200|Mon, 31 Oct 2016 10:33:39 +0200
+66b11d096111916d6c99f0f9875cc364c7775a78|Merge branch 'master' into navigation|Mon, 31 Oct 2016 10:48:10 +0300|Mon, 31 Oct 2016 10:48:10 +0300
+0eb2a50b5aa782a69eb4982430a3dedc0216ee46|fixed styles issue in FF|Mon, 31 Oct 2016 10:44:53 +0300|Mon, 31 Oct 2016 10:44:53 +0300
+b34a0172fc3bbcd21e26b7ef29075f79415f30c9|remove unneeded staff|Sun, 30 Oct 2016 03:01:12 +0300|Sun, 30 Oct 2016 03:01:12 +0300
+9ecbd77db3524399dcd0d04f2a3ce69b17322d9a|added `BottomNavigationLink` component|Sun, 30 Oct 2016 02:58:10 +0300|Sun, 30 Oct 2016 02:58:10 +0300
+61ed0cd161377f878edf679c115eab38cd65aa73|added basic bottom navigation|Sun, 30 Oct 2016 02:08:29 +0300|Sun, 30 Oct 2016 02:08:29 +0300
+1a9149215efb96b4d0100c0f6a6ecef1057196fa|removed NavigationDrawer|Sun, 30 Oct 2016 01:26:08 +0300|Sun, 30 Oct 2016 01:34:47 +0300
+c4e0131b7d651cdf5acd80f849386f8642af51de|removed redundant HBS helper, omit preloaded state in window object|Sat, 29 Oct 2016 17:56:09 +0300|Sat, 29 Oct 2016 17:56:09 +0300
+a6d7b18c3b8563654229215bf3f386c6cb560772|added remove button for SkipassCard|Thu, 27 Oct 2016 22:07:33 +0300|Thu, 27 Oct 2016 22:07:33 +0300
+d1bb309b638e96acdac5d0eba9346615a94a05e8|use LTS nodejs version|Thu, 27 Oct 2016 09:53:12 +0300|Thu, 27 Oct 2016 09:53:12 +0300
+fe3a33d7092259e5e1907df0f9f44b6856a4763b|move Material styles into separate file|Tue, 25 Oct 2016 18:27:24 +0300|Tue, 25 Oct 2016 18:27:24 +0300
+a806e5d1c6237459fd66f6c7f829fb0b828a1981|:arrow_up: moment@2.15.2|Mon, 24 Oct 2016 16:54:39 +0300|Mon, 24 Oct 2016 16:54:39 +0300
+593f147c1bdb170f248b50d95770ac44d42045a5|:arrow_up: deps|Mon, 24 Oct 2016 09:57:41 +0300|Mon, 24 Oct 2016 09:57:41 +0300
+0f3528d0c40f4684e6f3f1fef1e00dc2f6cdd6bd|added lifts route for `api`|Sun, 23 Oct 2016 15:20:38 +0300|Sun, 23 Oct 2016 15:20:38 +0300
+7a0d3726e0465cc434e3a30e2ff8d8bb715c5cba|show skipass `balance` on card grid|Sun, 23 Oct 2016 14:59:49 +0300|Sun, 23 Oct 2016 14:59:49 +0300
+12b83b90c4fb8f0f10f331d3f1a232c4144e4270|include `balance` in responce|Sun, 23 Oct 2016 14:13:24 +0300|Sun, 23 Oct 2016 14:51:18 +0300
+e2e891fa3e96aece78710d698561c554058e340e|fixed issue with saving skipass on IE browsers|Sun, 23 Oct 2016 11:24:29 +0300|Sun, 23 Oct 2016 11:24:29 +0300
+7212390f67f9682500f2a5fb45f4d9b7e039148a|continue work on skipass cards|Sat, 22 Oct 2016 17:34:27 +0300|Sat, 22 Oct 2016 17:34:27 +0300
+9def53a61c3b6c5270f2deb45acafa4f04d1480c|skipass-card sizing|Thu, 20 Oct 2016 23:31:31 +0300|Thu, 20 Oct 2016 23:49:35 +0300
+2364fda5cc4d6dba781113852eb970c4f8ad9661|skipass-card sizing|Thu, 20 Oct 2016 23:21:52 +0300|Thu, 20 Oct 2016 23:21:52 +0300
+f72385773702f2806193b2cf5989181f57f0469d|do not disable CardSearch button in case input is not valid, it should notify user with some message|Wed, 19 Oct 2016 18:59:02 +0300|Wed, 19 Oct 2016 18:59:02 +0300
+1117d57ad5666dc491f00c90a408098411f591fb|:arrow_up: deps|Tue, 18 Oct 2016 19:36:59 +0300|Tue, 18 Oct 2016 19:36:59 +0300
+74c7f945047a7b3990b5276e51e24a261dac0874|added `theme_color`|Tue, 18 Oct 2016 17:59:47 +0300|Tue, 18 Oct 2016 17:59:47 +0300
+de9178564c3a0e612b470c0c3934fff69f57050c|disable fix width added `application-name`|Tue, 18 Oct 2016 16:54:01 +0300|Tue, 18 Oct 2016 17:14:03 +0300
+4f54d8522a6121a76d5ad7a20bbf9ea68d7bdb9a|import only used actions|Mon, 17 Oct 2016 22:56:23 +0300|Mon, 17 Oct 2016 22:56:23 +0300
+a34a5d0799351696d7995c95f49273c521e0c335|rename searchSkipass.js -> search-skipass.js|Mon, 17 Oct 2016 11:11:15 +0300|Mon, 17 Oct 2016 11:11:15 +0300
+2e91f45672ac7b1af9160e6bff906ec8be0c20ec|skipass grid list should get 100% of width|Sun, 16 Oct 2016 23:47:04 +0300|Sun, 16 Oct 2016 23:47:04 +0300
+9c684c3ea8dd0ef137df581e2ad3428377fc18e1|added animated state for skipass card|Sun, 16 Oct 2016 23:43:56 +0300|Sun, 16 Oct 2016 23:43:56 +0300
+245b160922b0f8c725ee32d330435db653ab7fd8|always fetch latest stored skipasses|Sun, 16 Oct 2016 14:57:32 +0300|Sun, 16 Oct 2016 14:57:32 +0300
+f2d4a8254f564442973329aab61a76f69ceb141b|use componentDidMount for initialization|Sun, 16 Oct 2016 14:56:16 +0300|Sun, 16 Oct 2016 14:56:16 +0300
+dbedb0f67ff6806015c89141f76e02ae2534045a|added header styles for cards|Sat, 15 Oct 2016 18:40:36 +0300|Sat, 15 Oct 2016 18:40:36 +0300
+9c6fffe439dd7cc2ce50af9b343be818abfef2f1|added some basic styles for SkipassGridList|Sat, 15 Oct 2016 17:51:00 +0300|Sat, 15 Oct 2016 17:51:00 +0300
+1a9b3d2a0d63295a274ce7bc50fc7f43eb626f26|added support for saved skipasses|Sat, 15 Oct 2016 15:17:17 +0300|Sat, 15 Oct 2016 15:17:17 +0300
+6731ae6b7f81165bbae6f536e41c6d0a5ab328f4|move `NavigationDrawer` from main container|Sat, 15 Oct 2016 09:40:52 +0300|Sat, 15 Oct 2016 09:40:52 +0300
+4ccf1dcade1e880df04bf200d7b0d90476af5f30|switch to `babel-plugin-external-helpers`|Fri, 14 Oct 2016 16:17:46 +0300|Fri, 14 Oct 2016 16:17:46 +0300
+5d6f0ad027928c0147bcc402941e016d296b1bcf|send error message in responce|Wed, 12 Oct 2016 22:54:40 +0300|Wed, 12 Oct 2016 22:54:40 +0300
+d54e957a82872b2c57550cb5b05933a9c0fa8052|bind to submit event instead of click|Wed, 12 Oct 2016 22:44:58 +0300|Wed, 12 Oct 2016 22:44:58 +0300
+e7ef96e5291637fa5410ff57276c0595c0c89fb7|use `babel-preset-react-optimize`|Tue, 11 Oct 2016 17:22:16 +0300|Tue, 11 Oct 2016 17:22:16 +0300
+1012b478fbc5c69b6898978a9096513bc95123a6|fix module misspell|Mon, 10 Oct 2016 21:53:03 +0300|Mon, 10 Oct 2016 21:53:03 +0300
+0ab0399b3ee663c4e310955fedff6658dc7b752a|added animation for add button|Mon, 10 Oct 2016 21:07:26 +0300|Mon, 10 Oct 2016 21:07:26 +0300
+00389c221b0fc45913e0dd059c7c3e9be4bf4bb5|toggle visibility of `addSkipassButton` with css class|Mon, 10 Oct 2016 20:17:52 +0300|Mon, 10 Oct 2016 21:05:58 +0300
+68eff204c72bfa714ae561cb66a59d578656a7b1|added `getAll` for skipassRepository|Mon, 10 Oct 2016 18:32:29 +0300|Mon, 10 Oct 2016 18:32:29 +0300
+f97b70164b2ede8f3ede428be50edb3de14a16a5|move `sync` appending to client-side|Mon, 10 Oct 2016 18:26:06 +0300|Mon, 10 Oct 2016 18:29:30 +0300
+9635a59bd91c4b93f7ccc8fa561e2855c2e3fa44|:arrow_up: deps|Mon, 10 Oct 2016 13:14:35 +0300|Mon, 10 Oct 2016 13:14:35 +0300
+c1485292aaf077c0755f9a607a5767608caba8ad|added behavior for storing skipasses localy|Sun, 9 Oct 2016 00:35:25 +0300|Sun, 9 Oct 2016 00:35:25 +0300
+665dbf5be46b5b453cb8c4993e96251dd7f5d371|put correct vendors into vendor.js|Sat, 8 Oct 2016 23:25:27 +0300|Sat, 8 Oct 2016 23:25:27 +0300
+c10b4fe55a658dc231fec083d7c5b1f8ef4342ea|put correct vendors into vendor.js|Sat, 8 Oct 2016 23:24:11 +0300|Sat, 8 Oct 2016 23:24:11 +0300
+ffb7df4073c84a6d72928cbc3a9a2dd4ef4524bf|added `addSkipass` component|Sat, 8 Oct 2016 13:21:37 +0300|Sat, 8 Oct 2016 13:23:00 +0300
+8b46209a063735c4fd82a01dc6cb143e125fc4ea|added `syncDate`|Fri, 7 Oct 2016 23:11:57 +0300|Fri, 7 Oct 2016 23:11:57 +0300
+f7091b66c3e131887f9e229c309c71bbab2f7bb0|added `RaisedButtonLink` component|Fri, 7 Oct 2016 10:50:41 +0300|Fri, 7 Oct 2016 10:50:41 +0300
+024f456cbef594bbe87b0114d249f7378926c3f1|fixed elements color|Thu, 6 Oct 2016 18:40:29 +0300|Thu, 6 Oct 2016 18:59:27 +0300
+149cdb771b584b5a0787c2d84050e2a548700b23|extract `NavigationDrawer` from `Header` component|Wed, 5 Oct 2016 10:20:07 +0300|Wed, 5 Oct 2016 10:20:07 +0300
+6864d24ad732f7bf8d7cc75f66d6b121a56f7ac9|switch `NavigationDrawer` to use redux|Tue, 4 Oct 2016 18:33:06 +0300|Tue, 4 Oct 2016 18:33:06 +0300
+4a10d657511178f1cc08db039b575969eb37f6a5|switch to stateless App component|Tue, 4 Oct 2016 18:10:03 +0300|Tue, 4 Oct 2016 18:10:03 +0300
+d9b8b4598a483c1602367984dc17f5f940a8b536|setup global MUI theme|Tue, 4 Oct 2016 18:05:04 +0300|Tue, 4 Oct 2016 18:05:04 +0300
+658847d50e826e3654d93d262776070fcfad1cf7|close navDrawer on header click|Mon, 3 Oct 2016 18:38:53 +0300|Mon, 3 Oct 2016 18:38:53 +0300
+f26bea61d76e8614b2f8830041d6dcf9887f844b|:arrow_up: react-router@4.0.0-alpha.4|Mon, 3 Oct 2016 18:25:19 +0300|Mon, 3 Oct 2016 18:25:19 +0300
+f24b27e01d49a75196937a0e2a77a57091dedd56|:arrow_up: v0.0.20|Mon, 3 Oct 2016 10:31:12 +0300|Mon, 3 Oct 2016 10:31:58 +0300
+54e76890bd8ab5b954189204b5e384509aafa971|:arrow_up: deps|Mon, 3 Oct 2016 10:30:27 +0300|Mon, 3 Oct 2016 10:30:27 +0300
+9d85c982ba98c3c5da4940f131e86f9747ede510|:arrow_up: standard@8.3.0 and removed `babel-eslint` dep|Mon, 3 Oct 2016 10:23:17 +0300|Mon, 3 Oct 2016 10:23:17 +0300
+14905e179f0f63f9102ddb577740338426c5ec00|added `AppNavDrawer` component|Fri, 30 Sep 2016 18:50:54 +0300|Fri, 30 Sep 2016 18:50:54 +0300
+b00a6148b13b0e283bf561819c81ad0d7ea9c21f|combine some imports|Fri, 30 Sep 2016 09:47:59 +0300|Fri, 30 Sep 2016 09:47:59 +0300
+5c2a83efa83ac2cabbd32ac75f45161f18258a4c|added basic routing|Thu, 29 Sep 2016 19:45:52 +0300|Thu, 29 Sep 2016 19:45:52 +0300
+86f6e315d0bf619597f2497b716a9498ada99174|use absolute path for assets|Thu, 29 Sep 2016 19:28:33 +0300|Thu, 29 Sep 2016 19:28:33 +0300
+20c10ee2bf4aaa664df39359c48749dc717a4a24|move `postcss` configuration into common config|Thu, 29 Sep 2016 19:27:58 +0300|Thu, 29 Sep 2016 19:27:58 +0300
+b30a861dff98a7bada83a9da7017db27dd047696|added installation doc for windows users|Thu, 29 Sep 2016 10:02:22 +0300|Thu, 29 Sep 2016 10:02:22 +0300
+1f6da121496d80dd9d2e2a9f46d12037a0d3e239|refactor client page route, switch to bukovel-tickets API|Wed, 28 Sep 2016 17:37:03 +0300|Wed, 28 Sep 2016 17:37:03 +0300
+943474ea0adca675c169ca6fba27545809a6c509|increase caching time for cardNumber|Tue, 27 Sep 2016 19:01:39 +0300|Tue, 27 Sep 2016 19:01:39 +0300
+14610f37236c1ccb14388066cafa7d0bcfa60bc5|disable `search` button if request is pending|Tue, 27 Sep 2016 18:59:34 +0300|Tue, 27 Sep 2016 18:59:34 +0300
+2fc11fa4e78b284c40c2bb7f50db3a708bdf8537|introduce `getLatest` function for skipass|Tue, 27 Sep 2016 18:34:42 +0300|Tue, 27 Sep 2016 18:34:42 +0300
+bebe2294fdcd28353c70cf1886034ef11b55c603|added basic saving logic for skipass|Tue, 27 Sep 2016 17:38:40 +0300|Tue, 27 Sep 2016 17:38:40 +0300
+c73d4d9c232734f0d38cf8c71765369de6cb995a|added `localstorage` and `memory` adapters for PouchDB|Tue, 27 Sep 2016 09:08:21 +0300|Tue, 27 Sep 2016 09:08:21 +0300
+e73a0b3142a3362dc3236cc70e1ccc0accc0b603|:arrow_up: deps|Mon, 26 Sep 2016 10:55:05 +0300|Mon, 26 Sep 2016 10:55:05 +0300
+8d50eb1d4c2646692dd6e65d223aef7f8580be67|added `PouchDB-client`|Mon, 26 Sep 2016 10:45:13 +0300|Mon, 26 Sep 2016 10:46:28 +0300
+dfc118841988d217e00dd438d305cfaf3b6a6df1|fixed selection sync|Sun, 25 Sep 2016 15:13:39 +0300|Sun, 25 Sep 2016 15:13:39 +0300
+7896f3196668fba7a2b8e5094995adbeda05eb55|added `pouchdb` package|Sun, 25 Sep 2016 14:21:42 +0300|Sun, 25 Sep 2016 14:21:42 +0300
+28a65b5cf83fb8f35db297516352b12f1fea91cc|add prefixing for all browser that have more than 1% market share|Fri, 23 Sep 2016 09:41:58 +0300|Fri, 23 Sep 2016 09:41:58 +0300
+277e1bdba20719132a0c2e25f638911536f942e0|fix minor styling issue for Nexus 6 device|Thu, 22 Sep 2016 18:49:08 +0300|Thu, 22 Sep 2016 18:49:08 +0300
+56bc905679ec0878faafd4583141718f20d819a0|added test for bukovel-ticket that includes purchase date|Wed, 21 Sep 2016 09:55:07 +0300|Wed, 21 Sep 2016 09:55:07 +0300
+2c0156265a510a9b76fd3c9565ce0ef474820266|format response fixture|Wed, 21 Sep 2016 09:14:39 +0300|Wed, 21 Sep 2016 09:26:20 +0300
+7a7af98a6d101ef2baa78ea414d5575864da5ee2|fix linting issue|Tue, 20 Sep 2016 22:50:06 +0300|Tue, 20 Sep 2016 22:50:06 +0300
+2f07a289d1fdb02292be02903a564ae88a97a640|v0.0.19|Tue, 20 Sep 2016 22:42:38 +0300|Tue, 20 Sep 2016 22:42:38 +0300
+73784dbaa0531e8e2579e568076fc53fe44e81b4|[bukovel-ticket]: parse skipass info like key value|Tue, 20 Sep 2016 22:42:14 +0300|Tue, 20 Sep 2016 22:42:14 +0300
+a495237f08e047ae4fe9ae0e6c51b9c0b290bf06|[bukovel-ticket]: change `parseCardNumber` logic, now we are parsing first row|Tue, 20 Sep 2016 14:40:18 +0300|Tue, 20 Sep 2016 14:45:25 +0300
+43fc8dfcc0a42c21c718e135edab820adda87dd9|added error handling for responses|Mon, 19 Sep 2016 16:09:58 +0300|Mon, 19 Sep 2016 16:09:58 +0300
+6d566f0efd21be0899b9e33deb891f32a1b31614|:arrow_up: deps|Mon, 19 Sep 2016 12:19:14 +0300|Mon, 19 Sep 2016 12:19:14 +0300
+a302d0a4aa1d6c5ff8ca3b02837d14e97b0f2883|fix misspell|Sun, 18 Sep 2016 12:41:24 +0300|Sun, 18 Sep 2016 12:41:24 +0300
+da00cfb6e39278b5c328691775ad8f9442155006|v0.0.18|Fri, 16 Sep 2016 18:08:53 +0300|Fri, 16 Sep 2016 18:08:53 +0300
+80760df2baca80ac61f88a53bdd3b91c9fdccf0f|Show `initialLift`, `liftsLeft` props. Align table center|Fri, 16 Sep 2016 18:08:27 +0300|Fri, 16 Sep 2016 18:08:27 +0300
+c62d2aa35c259fb2cef31b37ff0a2d7f30debf5b|format test response|Fri, 16 Sep 2016 17:44:41 +0300|Fri, 16 Sep 2016 17:44:41 +0300
+b87cfcb1e785228a9722067653a494340bba08f9|added `ticketNumber` prop into bukovel-ticket parser|Fri, 16 Sep 2016 17:40:58 +0300|Fri, 16 Sep 2016 17:40:58 +0300
+437c042aedd713e3ede45052109cd8eb91bbaa2d|hide `purchaseDate` in case of null value|Fri, 16 Sep 2016 17:16:41 +0300|Fri, 16 Sep 2016 17:16:41 +0300
+9340d2ce9b6ba3bf42907eefd706f6622087e23a|added `lint` script|Fri, 16 Sep 2016 17:14:22 +0300|Fri, 16 Sep 2016 17:14:22 +0300
+54a0a6521929a884156248513c1a1d68a7861f00|switch to bukovel-ticket data sourse|Thu, 15 Sep 2016 17:59:47 +0300|Thu, 15 Sep 2016 17:59:47 +0300
+90c7f9ec07ced6eef5988898c44dd1656ba73c16|move client route into separate file|Wed, 14 Sep 2016 18:15:14 +0300|Wed, 14 Sep 2016 18:15:14 +0300
+1217fb9deeb0ead2e1ad6ce0a5b780ee4d57d167|downgrade `rollup-stream` package to v1.12.0 until rollup will fix [issue](https://github.com/rollup/rollup/issues/932)|Tue, 13 Sep 2016 12:03:57 +0300|Tue, 13 Sep 2016 12:03:57 +0300
+9b6acc0310f4e81f1971e4df984f0721433a22bf|:arrow_up: deps|Mon, 12 Sep 2016 09:21:24 +0300|Mon, 12 Sep 2016 09:21:24 +0300
+9116fd220375628e2163c58b1f71ade436908406|added test for `bukovel-ticket -> parseSkipass`|Sun, 11 Sep 2016 13:41:29 +0300|Sun, 11 Sep 2016 13:41:29 +0300
+a55e96e17c0be443a197bacee65f31dc15a4b898|fixed server rendering|Sat, 10 Sep 2016 17:58:49 +0300|Sat, 10 Sep 2016 17:58:49 +0300
+af4ba59eefb3dee05012fe80402c1e5d2f97221a|switch to promises `parseSkipass` function|Sat, 10 Sep 2016 15:33:57 +0300|Sat, 10 Sep 2016 15:33:57 +0300
+7ad224a95efc3b3818e3449b241d68d3802ea2b8|move `parseCardNumber` function to use promises|Sat, 10 Sep 2016 15:29:01 +0300|Sat, 10 Sep 2016 15:29:01 +0300
+169629a4eed461f8f6191097a859f344503c19fc|added caching for `getSkipassCardNumber` function|Sat, 10 Sep 2016 15:06:06 +0300|Sat, 10 Sep 2016 15:06:06 +0300
+303ffd90e86e6f3954d235e5420535438d155216|added parse implementation for bukovel-ticket|Fri, 9 Sep 2016 11:10:35 +0300|Fri, 9 Sep 2016 11:10:35 +0300
+7ea2ea3063b73005de8e1c907e3c10dab72f2e9e|move some common parsing logic into `bukovel-utils`|Fri, 9 Sep 2016 10:13:53 +0300|Fri, 9 Sep 2016 10:13:53 +0300
+090aac2d200797f6431e1fe81cd91ce55fc2e20f|export functions instead object from 'bukovelAPI'|Tue, 6 Sep 2016 19:24:24 +0300|Tue, 6 Sep 2016 19:24:24 +0300
+c3418ab478565f9cd23ee5ddd525e4a150528e56|added support for promises in express|Tue, 6 Sep 2016 18:42:54 +0300|Tue, 6 Sep 2016 18:42:54 +0300
+b6eccc018dc10b5d83881e4c05ea0383733df00f|added one test|Mon, 5 Sep 2016 18:41:29 +0300|Tue, 6 Sep 2016 10:49:09 +0300
+9024f139a08ae55ea1d33b8752d379fa73f39951|switch to `isomorphic-fetch` package|Tue, 6 Sep 2016 07:34:09 +0300|Tue, 6 Sep 2016 07:34:09 +0300
+11752f182969fd58a3bdb5fa78632647cc24833c|:arrow_up: deps|Mon, 5 Sep 2016 09:30:24 +0300|Mon, 5 Sep 2016 09:30:24 +0300
+29b8272b4d4b096bae0f99525e322b17df527c2f|:arrow_up: husky@0.11.7|Mon, 5 Sep 2016 09:17:28 +0300|Mon, 5 Sep 2016 09:17:28 +0300
+279d1577eae9aea3e0fff77e498222b061e7b84e|use `isomorphic-fetch` for data fetching|Sun, 4 Sep 2016 13:44:22 +0300|Sun, 4 Sep 2016 13:44:22 +0300
+68fbc712129bd925a23f6718541d5801e8e4e8e0|added meaningful reason for promise rejection|Sun, 4 Sep 2016 13:39:07 +0300|Sun, 4 Sep 2016 13:39:07 +0300
+bc9f8edae9be0a7d8c9119819fc37d3990896cd6|added `getSkipass` function|Sun, 4 Sep 2016 13:17:59 +0300|Sun, 4 Sep 2016 13:17:59 +0300
+ecfc57007adcff543d3ad7addb0f6e84e9d7a00d|minor `bukovel-ticket parser` refactor|Sun, 4 Sep 2016 13:16:59 +0300|Sun, 4 Sep 2016 13:16:59 +0300
+b9afc3bd471ed0d64c0598702a682ef781ec0ae7|added test for `bukovel-shop` parser|Sun, 4 Sep 2016 01:02:48 +0300|Sun, 4 Sep 2016 01:02:48 +0300
+1c1a2436e126da47a0f884e5d95e0742d136c1a7|added test from bukovel-shop parser|Sat, 3 Sep 2016 13:22:48 +0300|Sat, 3 Sep 2016 13:22:48 +0300
+64587a904678fc0c002ba0ec02231080b2df7635|added bukovel-ticket parser|Sat, 3 Sep 2016 12:54:13 +0300|Sat, 3 Sep 2016 12:54:13 +0300
+c29d0881c8f7aa393418dbb4e51e96c02296e0c3|update README file|Fri, 2 Sep 2016 22:20:39 +0300|Fri, 2 Sep 2016 22:20:39 +0300
+c86d0f277d3f71eb326eb45444c0d3567797a5bf|v0.0.17|Thu, 1 Sep 2016 23:32:13 +0300|Thu, 1 Sep 2016 23:32:13 +0300
+6f3e6bbe8fd0ed9638fa2bc942ec29a97a39de48|[bukovel-shop]: added one more method for fetching skipass data, minor refactoring (renamings, etc.)|Thu, 1 Sep 2016 23:31:32 +0300|Thu, 1 Sep 2016 23:31:32 +0300
+c47a0b400be9e99091ccca7743aec1da37e6bb44|moved server.start.js file into src folder (reverted from commit 80c082753d76eae6145bf5d2fd589e6a2dba733d)|Thu, 1 Sep 2016 18:01:31 +0300|Thu, 1 Sep 2016 18:01:31 +0300
+1e2000834d0622038aad0836d78fffc34622d2f4|v0.0.17 (reverted from commit 13cec9c633d38a1d5400c651b88f30881e0830bb)|Thu, 1 Sep 2016 18:01:11 +0300|Thu, 1 Sep 2016 18:01:11 +0300
+086840bb01f84a4f7eb7c305f7b6cde98f75ac9d|test pm2 (reverted from commit e90d7ce55f888f1e501b2a2bef27c6f040974fe2)|Thu, 1 Sep 2016 18:00:32 +0300|Thu, 1 Sep 2016 18:00:32 +0300
+e90d7ce55f888f1e501b2a2bef27c6f040974fe2|test pm2|Thu, 1 Sep 2016 16:29:42 +0300|Thu, 1 Sep 2016 16:29:42 +0300
+13cec9c633d38a1d5400c651b88f30881e0830bb|v0.0.17|Thu, 1 Sep 2016 14:28:34 +0300|Thu, 1 Sep 2016 14:28:34 +0300
+80c082753d76eae6145bf5d2fd589e6a2dba733d|moved server.start.js file into src folder|Thu, 1 Sep 2016 14:28:13 +0300|Thu, 1 Sep 2016 14:28:13 +0300
+b49ddb68807f123fc022a94dc1a79649a4956250|added implementation of skipass route|Wed, 31 Aug 2016 17:55:40 +0300|Wed, 31 Aug 2016 17:55:40 +0300
+7b076af88d0cf1fed9fc149bb60c338942431d64|switch from `gulp-rollup` to `rollup-stream` use babel-plugin-external-helpers-2|Wed, 31 Aug 2016 10:46:20 +0300|Wed, 31 Aug 2016 10:46:20 +0300
+e91cacc1f0b9344145db90ce0950f0081be55982|fix breaking command|Tue, 30 Aug 2016 20:07:23 +0300|Tue, 30 Aug 2016 20:07:23 +0300
+51bc82092d25cf414b5c0f5bfb8500664bc778f7|use pm2 for managing server|Tue, 30 Aug 2016 19:58:13 +0300|Tue, 30 Aug 2016 19:58:13 +0300
+4beab8f9dd684542ac5f1e50018617f1d39d55e7|v0.0.16|Mon, 29 Aug 2016 15:06:47 +0300|Mon, 29 Aug 2016 15:06:47 +0300
+96dee70cc209b6f9d9a45cb667525aa88cec331b|use ES2017 features|Mon, 29 Aug 2016 14:52:00 +0300|Mon, 29 Aug 2016 15:06:32 +0300
+b44a51e1ab24d8877c276f752d241b63d31b0f81|:arrow_up: deps|Mon, 29 Aug 2016 14:41:41 +0300|Mon, 29 Aug 2016 14:41:41 +0300
+3a18ea3b99be68fe9be2a3c56c82076df33d8d1d|use immutablejs for state|Mon, 29 Aug 2016 14:37:07 +0300|Mon, 29 Aug 2016 14:37:07 +0300
+55b23921d1ce26a73aa37e83b93739ecbc859e98|[idea]: update gitignore file for WebStorm|Sun, 28 Aug 2016 09:21:43 +0300|Sun, 28 Aug 2016 09:21:43 +0300
+2e8d8196772a8baff449ca9a6c92125592698587|added handlebars `json` helper|Sat, 27 Aug 2016 23:50:04 +0300|Sat, 27 Aug 2016 23:50:04 +0300
+4694508d641c7a38cfe952f4bd34e44d809de5c5|[Routes]: added some basic api route|Fri, 26 Aug 2016 22:51:59 +0300|Fri, 26 Aug 2016 22:51:59 +0300
+6d0175877e5941d53cba3fd79f4ea33a279b4416|v0.0.15|Thu, 25 Aug 2016 19:01:38 +0300|Thu, 25 Aug 2016 19:01:38 +0300
+ed4e477268a8b79ca638090bec4f48aa9d7666d0|added "route-manager"|Thu, 25 Aug 2016 18:48:35 +0300|Thu, 25 Aug 2016 18:48:58 +0300
+319ee26dd5dd16e7273b4c207280d491ccfb0df2|use "app-root-path" package to resolve root folder|Thu, 25 Aug 2016 18:38:44 +0300|Thu, 25 Aug 2016 18:38:44 +0300
+e2daccc98703ae4eb30c49e8b51c657cbc1a1d2e|added assets manager|Thu, 25 Aug 2016 18:31:41 +0300|Thu, 25 Aug 2016 18:31:41 +0300
+2e741bf3bd55e1f4f474b7fa4b9e531487d0ef9d|temp fix for root folder resolve|Wed, 24 Aug 2016 22:49:32 +0300|Wed, 24 Aug 2016 22:49:32 +0300
+7d5b0c10b8f21c46f5bc1d9d661dcf47452f025c|switch back to gulp#4.0|Wed, 24 Aug 2016 22:22:57 +0300|Wed, 24 Aug 2016 22:22:57 +0300
+3c4c57bda4727b457feece89041960787952ca81|switch to express-handlebars templates|Wed, 24 Aug 2016 11:53:46 +0300|Wed, 24 Aug 2016 11:53:46 +0300
+2a9c01760c59bc0c939a4b5d202cf5ac530e5b6e|moved serve static content logic into manager|Wed, 24 Aug 2016 11:32:01 +0300|Wed, 24 Aug 2016 11:32:01 +0300
+29487165fe8a9808e043fc8a3d5c9d975c2664dd|:arrow_up: dependencies|Wed, 24 Aug 2016 10:41:44 +0300|Wed, 24 Aug 2016 10:41:44 +0300
+57dfc4849371112739317ce83a9342d2fa5b657a|:arrow_up: devDependencies|Wed, 24 Aug 2016 10:32:27 +0300|Wed, 24 Aug 2016 10:32:27 +0300
+0b42c5dc3e98509643ef208e477c51e10068c74d|added logging for DEV|Sat, 13 Aug 2016 15:32:27 +0300|Sat, 13 Aug 2016 15:32:27 +0300
+a5288f1e5f70212963d2107c63dc1abc96b81b2f|use global config|Fri, 12 Aug 2016 19:37:24 +0300|Fri, 12 Aug 2016 19:37:24 +0300
+e4b8bac4af3a4d7f6e1f0f0522aa266a701b95ee|v0.0.14|Fri, 12 Aug 2016 19:33:48 +0300|Fri, 12 Aug 2016 19:33:48 +0300
+5c586f84489a9716854f532a8cbee1612947c86c|[Server]: added `middlewareManager`|Fri, 12 Aug 2016 19:33:18 +0300|Fri, 12 Aug 2016 19:33:18 +0300
+a2b883ed8fa8ecaa1a41aa5bd9cf4f1956abe099|added config.js file|Fri, 12 Aug 2016 18:55:17 +0300|Fri, 12 Aug 2016 18:55:17 +0300
+8e6f26a540edadc585b6fba191281f057f4a6c63|:arrow_up: lodash modules|Tue, 2 Aug 2016 19:34:21 +0300|Tue, 2 Aug 2016 19:34:21 +0300
+3461a13247c49f0ec4f1fadf567e4c4dd3e0e2c0|:arrow_up: helmet@2.1.2|Tue, 2 Aug 2016 19:32:27 +0300|Tue, 2 Aug 2016 19:32:27 +0300
+7598bf4ecea44f471b3027b4b217bc7f100aff5b|:arrow_up: gulp-rollup@2.3.0 :arrow_up: rollup-plugin-commonjs@3.3.1 :arrow_up: rollup-plugin-node-resolve@2.0.0|Tue, 2 Aug 2016 19:30:51 +0300|Tue, 2 Aug 2016 19:30:51 +0300
+f78f4c6093f5abf4f87da216030536b2320396c7|[npm]: enable progress bar|Tue, 2 Aug 2016 19:18:45 +0300|Tue, 2 Aug 2016 19:18:45 +0300
+f8093f21f201eedec3dc3c9e3cffb9b62f580171|:arrow_up: babel-core@6.11.4|Tue, 2 Aug 2016 18:53:56 +0300|Tue, 2 Aug 2016 18:53:56 +0300
+962faa668520baac87e08c421a267034da855487|:arrow_up: devDependencies|Tue, 2 Aug 2016 18:17:25 +0300|Tue, 2 Aug 2016 18:17:25 +0300
+3071d7595592b82890e900f1875a875531552f24|added Search component|Fri, 22 Jul 2016 21:21:53 +0300|Fri, 22 Jul 2016 21:21:53 +0300
+fcb07b8a9b19ff383e16f95a40d65534defd2912|root component should have full height|Fri, 22 Jul 2016 20:51:12 +0300|Fri, 22 Jul 2016 20:51:12 +0300
+f99afc9907d36f7fed79cee3d32082008d13dbc0|added Root component|Fri, 22 Jul 2016 20:39:45 +0300|Fri, 22 Jul 2016 20:39:45 +0300
+b68a19f341fe9160c44d05ddc1ae580dc172362b|renamed main.js -> client.js|Fri, 22 Jul 2016 19:56:43 +0300|Fri, 22 Jul 2016 19:56:43 +0300
+5a07a5a16de0d6136d7db67c6eb082b611bae019|minify server code during build|Fri, 22 Jul 2016 19:46:03 +0300|Fri, 22 Jul 2016 19:46:03 +0300
+cc2d2b4747f4a1e743f6d2957ab1c2c5f23d3f5f|pass userAgent from navigator|Fri, 22 Jul 2016 19:15:12 +0300|Fri, 22 Jul 2016 19:15:12 +0300
+8b87cb2ef5b6ca8573c5372b296717fcd30defcf|[search skipass]: clear error on success responce.|Fri, 22 Jul 2016 18:16:18 +0300|Fri, 22 Jul 2016 18:16:18 +0300
+42c7ee0f8f8c3ded48c8f042dfd898c6878e199a|validate skipass on the server|Thu, 21 Jul 2016 10:15:57 +0300|Thu, 21 Jul 2016 10:15:57 +0300
+5aab732cfd35aa2f8d0291c91fec15543ea5fc04|moved injectTapEventPlugin initialization into App component added default props and prop validation for the App component|Sat, 16 Jul 2016 23:07:51 +0300|Sat, 16 Jul 2016 23:07:51 +0300
+aa94c259fadfbfed6ac52ffee7136090f08e9c17|added props validation for LiftsTable component|Sat, 16 Jul 2016 22:50:09 +0300|Sat, 16 Jul 2016 22:50:09 +0300
+3f15c211c3f2f8d39d70d00d19875b98fd9254de|fixed double rendering of the lifts|Sat, 16 Jul 2016 22:47:51 +0300|Sat, 16 Jul 2016 22:47:51 +0300
+fb4e62865175bc277a2d63c8f3d74d90e5b1a80a|[SkipassInfo]: Do not render lifts table in case there are empty|Fri, 15 Jul 2016 19:49:52 +0300|Fri, 15 Jul 2016 19:49:52 +0300
+9d1381308c71edbb88c63a8cc80c3133d8563657|remove "object-rest-spread" transform|Fri, 15 Jul 2016 19:39:47 +0300|Fri, 15 Jul 2016 19:40:23 +0300
+adbdfba0a1fe831bd7a9bbc16a96974581e04b56|show error message|Fri, 15 Jul 2016 19:32:18 +0300|Fri, 15 Jul 2016 19:32:18 +0300
+1936ea9e415c130dc733d2d66523a917b9e78b26|v0.0.13|Thu, 14 Jul 2016 19:44:14 +0300|Thu, 14 Jul 2016 19:44:14 +0300
+4e599c4c5f31e6f3f0931a0e20dd018da5ec6918|added FAILURE action|Thu, 14 Jul 2016 19:43:35 +0300|Thu, 14 Jul 2016 19:43:35 +0300
+29f0e0e5d1baa7037099322297f54b064eb4f57d|move skipass number validation into action|Thu, 14 Jul 2016 18:27:30 +0300|Thu, 14 Jul 2016 18:27:30 +0300
+3ac76400a5622a919223646225da6c66c36224f5|fixed non-js pattern validation|Thu, 14 Jul 2016 12:15:30 +0300|Thu, 14 Jul 2016 12:15:30 +0300
+295bbcf568a52bc17f305e9dfff958ede74c1930|added searchSkipass reducer|Wed, 13 Jul 2016 16:35:36 +0300|Wed, 13 Jul 2016 16:35:36 +0300
+f160cc7ff7012545043dca7f134a149b611e0cb8|use type='search' for skipass number input|Wed, 13 Jul 2016 10:16:03 +0300|Wed, 13 Jul 2016 10:16:03 +0300
+07be26ea474941e81acc67774d2df58e7a46811f|[styles]: change skipass number input name and class|Wed, 13 Jul 2016 10:06:49 +0300|Wed, 13 Jul 2016 10:06:49 +0300
+dfe0c0e8cd9ebc98f267c5e8c18fcc2c5a46589d|added missing module "gulp-rollup"|Mon, 11 Jul 2016 23:11:22 +0300|Mon, 11 Jul 2016 23:11:22 +0300
+b4c016a8a0f36e4452c3f27e6a1fc96ddc30c4e2|[Header]: remove app name from app bar|Mon, 11 Jul 2016 22:57:53 +0300|Mon, 11 Jul 2016 22:57:53 +0300
+7e3aa761f6d0cf35215e0f2ee55db13b62486fd4|[Bundle] use RollUp for server code bundling|Mon, 11 Jul 2016 22:55:20 +0300|Mon, 11 Jul 2016 22:55:20 +0300
+aa507b4871941ed33891df1045e23056e1fdb5f4|use flexbox for sticky footer added some app info into footer|Mon, 11 Jul 2016 21:39:29 +0300|Mon, 11 Jul 2016 21:40:54 +0300
+80b409cfbe613a9ceb1fb75cea627c3de17a37f4|renamed HeaderContainer -> Header|Mon, 11 Jul 2016 21:36:21 +0300|Mon, 11 Jul 2016 21:40:38 +0300
+1a4bc7f02ea1cbfaac81ba7a8fff844029b48126|added app reducer|Mon, 11 Jul 2016 18:35:49 +0300|Mon, 11 Jul 2016 18:35:49 +0300
+5eb61121b9c5a278027f0a749bba6145ec50dac6|added .npmrc file|Mon, 11 Jul 2016 18:25:23 +0300|Mon, 11 Jul 2016 18:25:23 +0300
+00dcd272b253bdb3bcdf71a165e1e5a3c5a15ed8|omit unknown props in CardNumber component. add test for this case|Sun, 10 Jul 2016 20:19:26 +0300|Sun, 10 Jul 2016 20:19:26 +0300
+e2b6053a57c70c59d511ea88521db5286e2ea13e|include "babel-polyfill" into App component|Sun, 10 Jul 2016 19:02:11 +0300|Sun, 10 Jul 2016 19:02:11 +0300
+14b45875ff38adf858dbc0e6a21d7e75ebe4e0c4|0.0.12|Sun, 10 Jul 2016 00:35:44 +0300|Sun, 10 Jul 2016 00:35:44 +0300
+0e5b73e9774a8273e205d553f45bc7256199313e|:arrow_up: update all deps|Sun, 10 Jul 2016 00:35:21 +0300|Sun, 10 Jul 2016 00:35:21 +0300
+7df643cf7c88e667169d1f8bb2daeb4c22bbd8b5|[Deps]: use strict versioning|Sat, 9 Jul 2016 23:52:48 +0300|Sat, 9 Jul 2016 23:52:48 +0300
+90f484aa6d5e0e3a9933d9a8591423eff74f45a1|Merge remote-tracking branch 'origin/master'|Fri, 8 Jul 2016 08:48:14 +0300|Fri, 8 Jul 2016 08:48:14 +0300
+9bac97be4259155d04378472bfb7827c5eef4263|[Git]: removed .gitattributes file.|Fri, 8 Jul 2016 08:47:20 +0300|Fri, 8 Jul 2016 08:47:20 +0300
+4379d869f892348ba1dc3ece46c7b7ad060f1aed|[CardNumberInput]: fix optional char validation|Wed, 6 Jul 2016 15:35:47 +0300|Wed, 6 Jul 2016 15:35:47 +0300
+7af52fde008b3a81468fa9f6fa42870c24ae130d|[footer]: style footer|Wed, 6 Jul 2016 15:11:57 +0300|Wed, 6 Jul 2016 15:11:57 +0300
+095a7fdf7027a7ebe86958075e21e4d12f1e8036|[SkipassInfo]: use margin instead of <br />|Wed, 6 Jul 2016 09:53:44 +0300|Wed, 6 Jul 2016 09:53:44 +0300
+df1c21d50d11b8db55fb5db5ce7c5fc1a7483c1f|v0.0.11|Fri, 1 Jul 2016 18:40:47 +0300|Fri, 1 Jul 2016 18:40:47 +0300
+eb8c468787b2baec23c32e26d9ad208e9de4c117|align form elements on center|Fri, 1 Jul 2016 18:40:28 +0300|Fri, 1 Jul 2016 18:40:28 +0300
+77f0aca1b7166fe651eb7fc8a7624a164054a1f7|[Validation]: moved card validation to the reducer|Fri, 1 Jul 2016 18:40:06 +0300|Fri, 1 Jul 2016 18:40:06 +0300
+b4413b60f11ce9dcb07405b6cd10ef36693bce97|renamed CardNumberInput -> CardNumberInputContainer|Fri, 1 Jul 2016 18:39:29 +0300|Fri, 1 Jul 2016 18:39:29 +0300
+9bd3a9354c92cbdd73ed315c86eaacea13271251|created CardNumberForm component|Fri, 1 Jul 2016 18:38:32 +0300|Fri, 1 Jul 2016 18:38:45 +0300
+8dbc38630f1ffe0ac5a091b69eb908a49404bc2b|[Validation]: create card number validator|Fri, 1 Jul 2016 18:37:53 +0300|Fri, 1 Jul 2016 18:37:53 +0300
+1beaa3104b640a4d8d189ae1ba3cc0d91893d7a7|v0.0.10|Thu, 30 Jun 2016 17:29:29 +0300|Thu, 30 Jun 2016 17:29:29 +0300
+1b4d08f145ae5c423e84a51bfa721a6e8c278e43|removed "normalize.css" package.|Thu, 30 Jun 2016 17:29:04 +0300|Thu, 30 Jun 2016 17:29:04 +0300
+24801c743d5c1f4ead75077637e814e62602dc79|changed MoreVertIcon icon color to white|Wed, 29 Jun 2016 06:48:42 +0300|Wed, 29 Jun 2016 06:48:42 +0300
+454f3e2d3969ec52dc4814e2b33b7dd4cd8c05d7|added HeaderContainer, moved TestCardNumber component into the header|Wed, 29 Jun 2016 06:42:52 +0300|Wed, 29 Jun 2016 06:42:52 +0300
+8e96fe3c4611a1cf942fbcc92b2636812fe8bcf9|:arrow_up: material-ui@0.15.1|Tue, 28 Jun 2016 08:57:52 +0300|Tue, 28 Jun 2016 08:57:52 +0300
+fff32ada8ebf07c01f7009ed9135a550760e4bbf|:arrow_up: sass-loader@4.0.0 :arrow_up: material-ui@0.15.1|Tue, 28 Jun 2016 08:55:58 +0300|Tue, 28 Jun 2016 08:55:58 +0300
+e45a3938d3ff3087a398b2a2f180195d8481d13b|[CardNumber]: show error line in case not valid input.|Tue, 28 Jun 2016 00:21:28 +0300|Tue, 28 Jun 2016 00:21:28 +0300
+aeafe85cd2767fd811767f350700d24674d77397|[CardInput]: added optional char.|Mon, 27 Jun 2016 23:58:57 +0300|Mon, 27 Jun 2016 23:58:57 +0300
+94ac366a8d4774396205541ccadb865dc383a245|[Server render]: render full table in case cardNumber specified|Thu, 16 Jun 2016 19:22:45 +0300|Thu, 16 Jun 2016 19:22:45 +0300
+609cebead6ce7ba622619f3f19a59b6e2a052569|0.0.9|Thu, 16 Jun 2016 11:16:55 +0300|Thu, 16 Jun 2016 11:16:55 +0300
+8e9f2d22620690928224d6e77722dd0de324c5de|[Server Rendering]: working on integration of server rendering|Thu, 16 Jun 2016 11:14:16 +0300|Thu, 16 Jun 2016 11:14:31 +0300
+58bd080a5895d89df12f330ab6296e90871da611|move webpack-dev-middleware package into deps|Thu, 16 Jun 2016 10:12:00 +0300|Thu, 16 Jun 2016 10:12:00 +0300
+16f677487da95bc5a0b3b65fbde9ebb47da51b1a|Revert "try to use let keyword for tenary operator"|Thu, 16 Jun 2016 10:06:55 +0300|Thu, 16 Jun 2016 10:06:55 +0300
+df1642ce4a95634b3bb0fa6ed9228ec91be4b990|try to use let keyword for tenary operator|Wed, 15 Jun 2016 18:10:45 +0300|Wed, 15 Jun 2016 18:10:45 +0300
+252fc9e18fc907070ff2d8c7f137250104f9c90d|switch to webpack-dev-middleware|Wed, 15 Jun 2016 15:39:33 +0300|Wed, 15 Jun 2016 15:39:33 +0300
+ef714ac53b05fd474c272be0c2c3fb0b05f4a1c2|remove extra spaces around the content|Wed, 15 Jun 2016 15:37:51 +0300|Wed, 15 Jun 2016 15:37:51 +0300
+a99c902d7e0add1d81fea871956c67d5152c5e65|moving to the async functions.|Tue, 14 Jun 2016 21:37:57 +0300|Tue, 14 Jun 2016 21:37:57 +0300
+a30538ba51d5f6c375a2a8298cd3f6d6254d5537|CardNumberInput component should check state value.|Tue, 14 Jun 2016 20:47:16 +0300|Tue, 14 Jun 2016 20:47:16 +0300
+889c2c117e5b66c0a0132f467e6ebcc543f51764|move to usage of async functions|Tue, 14 Jun 2016 20:42:29 +0300|Tue, 14 Jun 2016 20:42:29 +0300
+26da4c034635b129dc3005eed2f7ab4316039557|move actionTypes into separate file.|Tue, 14 Jun 2016 20:36:16 +0300|Tue, 14 Jun 2016 20:36:16 +0300
+61770389a52c78eb4c269586bfd33b7a23dd262b|switch to use async functions, transpile server code for node 6|Tue, 14 Jun 2016 11:41:16 +0300|Tue, 14 Jun 2016 11:41:16 +0300
+594838471fdf88bf48e2cf1c7f6a10bc19fb8f76|update nodejs engine version|Tue, 14 Jun 2016 11:24:33 +0300|Tue, 14 Jun 2016 11:24:33 +0300
+1142b38739e7ab9455a86a3915b7b7d87b388ce1|[Server rendering]: pass userAgent to App props|Mon, 13 Jun 2016 21:59:46 +0300|Mon, 13 Jun 2016 21:59:46 +0300
+110665c3e6341f9cef9e2ccc58346b00389b9760|[Express]: use compression and security middlewares only in prod.|Mon, 13 Jun 2016 21:46:13 +0300|Mon, 13 Jun 2016 21:46:13 +0300
+1300219acd4bba29a8f154a6a27edffd5090b559|0.0.8|Mon, 13 Jun 2016 18:20:19 +0300|Mon, 13 Jun 2016 18:20:19 +0300
+11d3472adac5b83eccc3d706e46ac21364539646|added .gitattributes file|Mon, 13 Jun 2016 18:20:06 +0300|Mon, 13 Jun 2016 18:20:06 +0300
+1c80516bde7410b59369653aebd4e2184472f455|switch to use JavaScript Standard Style|Mon, 13 Jun 2016 18:13:50 +0300|Mon, 13 Jun 2016 18:13:50 +0300
+2a8e6745387494da7a103e2e649b89dd790b478a|fixed issue with broken styles on IE mobile devices|Mon, 13 Jun 2016 17:42:36 +0300|Mon, 13 Jun 2016 17:42:36 +0300
+cc97d083303142ba353175fb3a8ec1f3a5e30a7f|0.0.7|Mon, 13 Jun 2016 17:35:19 +0300|Mon, 13 Jun 2016 17:35:19 +0300
+53ddb0b925f8cdc7052ef5aae6d77670710177de|added Skipass component|Mon, 13 Jun 2016 17:35:06 +0300|Mon, 13 Jun 2016 17:35:06 +0300
+e2e8a7fb5f55c6a7fe130969570511cbcf5c3c64|simplify App container|Mon, 13 Jun 2016 15:57:51 +0300|Mon, 13 Jun 2016 15:57:51 +0300
+e6fc7720b0202ac2d4782fe824b8d0cc64e5ed57|moved purchase date to the left|Mon, 13 Jun 2016 15:15:17 +0300|Mon, 13 Jun 2016 15:15:17 +0300
+3f71e2e51ba0b6bd81bed8004b5a66c270cdac14|move statistics values to the left|Tue, 31 May 2016 18:55:34 +0300|Mon, 13 Jun 2016 10:09:22 +0300
+284ec9edddc99bef58f4b6fe235d3f1c0a9ec244|added CHANGE_CARD_NUMBER action|Sun, 12 Jun 2016 13:37:17 +0300|Sun, 12 Jun 2016 13:37:17 +0300
+18036b5bbb08052d96cf2e31d409b51d6b4dc3c2|0.0.6|Sat, 11 Jun 2016 21:10:25 +0300|Sat, 11 Jun 2016 21:10:25 +0300
+29170dee0733b7fb89e89fd222eccebc05c30217|migrating to redux|Sat, 11 Jun 2016 20:56:33 +0300|Sat, 11 Jun 2016 20:56:33 +0300
+9c3d8ee699f8a6c2229cae52c08d024ae092c8e9|show app version in the header|Sat, 11 Jun 2016 17:56:24 +0300|Sat, 11 Jun 2016 17:56:24 +0300
+2b1745f59da46113cd240b86ac88ab5d205660fb|added Footer component|Sat, 11 Jun 2016 17:48:01 +0300|Sat, 11 Jun 2016 17:48:01 +0300
+9cb17a53437b566886c40d39de6a82547eec7b5e|added Header component|Sat, 11 Jun 2016 17:45:02 +0300|Sat, 11 Jun 2016 17:45:02 +0300
+64e37fc6a46d3851708899ae9c78c0e5e1dd6418|added appveyot badge|Sat, 11 Jun 2016 17:25:51 +0300|Sat, 11 Jun 2016 17:25:51 +0300
+0ec48304181268866d2fddda422fe253410df463|added appveyor.yml file|Sat, 11 Jun 2016 17:17:30 +0300|Sat, 11 Jun 2016 17:17:30 +0300
+2e1756fe0955c9f636911ec4f4abdc46e8c8b0f4|[travis-ci]: update node version|Sat, 11 Jun 2016 17:12:07 +0300|Sat, 11 Jun 2016 17:12:07 +0300
+ac152beb92a67ab956697476f25d8ff46840f433|added redux logging middleware|Sat, 11 Jun 2016 07:54:14 +0300|Sat, 11 Jun 2016 07:54:14 +0300
+9132848f6ba6a85c59a383ae1e24429b44469d95|fixed issue with server rendering|Sat, 4 Jun 2016 13:26:16 +0300|Sat, 4 Jun 2016 13:26:16 +0300
+d1ef53b87bc79196ac5656cb4834ed224db8302a|add some minor redux behavior|Fri, 3 Jun 2016 23:05:56 +0300|Fri, 3 Jun 2016 23:05:56 +0300
+4a133a2538776954b660eb21226fa7dcb75138be|initial redux support|Thu, 2 Jun 2016 23:19:18 +0300|Thu, 2 Jun 2016 23:19:18 +0300
+9820ffb0c5c4bd289a9d68967c3362350dc362f5|fix main script path|Thu, 2 Jun 2016 21:59:22 +0300|Thu, 2 Jun 2016 21:59:22 +0300
+3b731c3c402c5561e0f9cabcc2b96db8c4520a40|moving to use form|Thu, 2 Jun 2016 21:38:59 +0300|Thu, 2 Jun 2016 21:38:59 +0300
+82238b81d1c7446047e355d2099df19261ae221d|0.0.5|Mon, 30 May 2016 22:03:15 +0300|Mon, 30 May 2016 22:03:15 +0300
+1ab01ed4636b9edeee6500d1f23d8b319fcd6bd0|restore accidentally removed package|Mon, 30 May 2016 22:02:36 +0300|Mon, 30 May 2016 22:02:36 +0300
+3f6df5f69e205f81604c78ff552339ffd3054ecf|minor fix for small devices|Mon, 30 May 2016 21:43:08 +0300|Mon, 30 May 2016 21:43:08 +0300
+b083c858b8182416689db1cedecc1b526ebcd5ec|0.0.4|Mon, 30 May 2016 21:22:20 +0300|Mon, 30 May 2016 21:22:20 +0300
+1955e40f13f69ef62f7c4c4123f76bd251bfc5f3|prebuild server code instead of usage of babel-loader|Mon, 30 May 2016 21:20:41 +0300|Mon, 30 May 2016 21:20:41 +0300
+fadbabbe6d75309743bfb2db144be18dae6b10a2|0.0.3|Mon, 30 May 2016 18:34:47 +0300|Mon, 30 May 2016 18:34:47 +0300
+d0541a51ac40a727ca7920d744924a737990b289|added styles for skipass info|Mon, 30 May 2016 18:32:11 +0300|Mon, 30 May 2016 18:32:11 +0300
+d8975b8b62b4d82af247c03d14638ddd80b9f2ae|added SkipassInfo component|Mon, 30 May 2016 17:55:41 +0300|Mon, 30 May 2016 17:55:41 +0300
+85faa1fcde1ddcc4d0ada5bec6bf3c733c21f69c|0.0.2|Mon, 30 May 2016 15:58:07 +0300|Mon, 30 May 2016 15:58:07 +0300
+4319ba98e1751bc3d5a0aef24ae847aab3af543f|move some libs into vendor bundle|Mon, 30 May 2016 15:57:43 +0300|Mon, 30 May 2016 15:57:43 +0300
+3c0a445a219dde6179c014f642e00dae585b40ca|switch to use pify package|Mon, 30 May 2016 15:47:30 +0300|Mon, 30 May 2016 15:47:30 +0300
+d19f9d4d27aafe2f3d6afcd73b4e7b37c9bd6664|added security, ssl, compression middlewares|Sat, 28 May 2016 16:32:56 +0300|Sat, 28 May 2016 16:32:56 +0300
+7c020874804ce1a712b34cb61c9dcefcc26b7064|switch to buka-server api|Sat, 28 May 2016 14:47:31 +0300|Sat, 28 May 2016 14:47:31 +0300
+346098b7c3495ec9a50b3bdbbc3fd0c95f349509|[Procfile]: Use npm command.|Wed, 18 May 2016 20:39:05 +0300|Wed, 18 May 2016 20:39:05 +0300
+7517750c23c9c9975a8f5aab7cb327de0f4e4e29|added simple server-side rendering.|Wed, 11 May 2016 19:00:07 +0300|Wed, 11 May 2016 19:00:07 +0300
+62bcc9f8f8935570e06f27e3a46e1ded849d8727|Create muiTheme in the App constructor.|Wed, 11 May 2016 18:36:00 +0300|Wed, 11 May 2016 18:36:00 +0300
+0e7df0511ea8f963196dac541f709d5d52f2c220|Use babel-register for server.|Tue, 10 May 2016 19:19:25 +0300|Tue, 10 May 2016 19:19:25 +0300
+b9509d3dd93596e8590670a30c072f313e5d58e5|fix procfile|Tue, 10 May 2016 19:05:23 +0300|Tue, 10 May 2016 19:05:23 +0300
+2bf50769eb664634bcf23ba0bf3fcbea28401af4|Project restructuring|Tue, 10 May 2016 18:48:14 +0300|Tue, 10 May 2016 18:48:14 +0300
+00110b2526c901cca72af3038aa19524653fa23a|move server.js file into "src" folder.|Tue, 10 May 2016 18:27:35 +0300|Tue, 10 May 2016 18:27:35 +0300
+5a9c929a8d9ee43259981e969e8030a9ff341bc1|get rid of "X-Powered By" header|Tue, 10 May 2016 18:19:10 +0300|Tue, 10 May 2016 18:19:10 +0300
+1bc91cb4fc2e26483facd59f1f05e82ace7368b1|use padding instead of margin.|Tue, 10 May 2016 13:46:34 +0300|Tue, 10 May 2016 13:46:34 +0300
+ed9e59236b784ecf64ef6a8344b64e1d7544c1e6|align editor input.|Tue, 10 May 2016 10:16:39 +0300|Tue, 10 May 2016 10:16:39 +0300
+25b0e0d87fcdd58df3245be4410c361f12347148|use isomorphic fetch.|Mon, 9 May 2016 16:13:10 +0300|Mon, 9 May 2016 16:13:10 +0300
+eb03998c9ad42b34560333188f79fb34588b90f0|Add .babelrc file.|Mon, 9 May 2016 09:49:54 +0300|Mon, 9 May 2016 09:49:54 +0300
+ba76ab2df4dd5303f47a7409aa9a69ad088c4210|put css fetching before script tag.|Sun, 8 May 2016 16:09:14 +0300|Sun, 8 May 2016 16:09:14 +0300
+670eefca41778d0c95bf9482fed0495a9af7468e|fix input overlap.|Sun, 8 May 2016 16:05:44 +0300|Sun, 8 May 2016 16:05:44 +0300
+053d0049246eb1f59aa4dce362dbb40e34e224b7|Update packages.|Sun, 8 May 2016 15:24:59 +0300|Sun, 8 May 2016 15:24:59 +0300
+558a068b33c0922e357c33d9c0ae8b16188a4f03|create gulp config file.|Sat, 7 May 2016 14:21:55 +0300|Sat, 7 May 2016 14:21:55 +0300
+f0444e6b571bc3744a1ff126b5c76d647cb86867|fix|Sat, 7 May 2016 14:14:18 +0300|Sat, 7 May 2016 14:14:18 +0300
+d9f0df15cc37e9baf506820ecbce0da5d2133518|Extract some common config. Server react and react dom as vendor bundle.|Sat, 7 May 2016 14:13:22 +0300|Sat, 7 May 2016 14:13:22 +0300
+39283a84b79022a70b8d7e740bbc41fe90eadd97|copy index.html file using gulp add minification of html|Sat, 7 May 2016 09:34:27 +0300|Sat, 7 May 2016 09:34:27 +0300
+b5fdc3bff0393f9a364beb3510a7216ed70f79e7|Turn on linting for all files.|Fri, 6 May 2016 19:12:24 +0300|Fri, 6 May 2016 19:12:24 +0300
+0df8355045f70ea12bf5926bbd8e0d41928f6d4c|Switch to use webfontloader for async fonts loading.|Fri, 6 May 2016 18:39:51 +0300|Fri, 6 May 2016 18:39:51 +0300
+4ad85406fdac5a263670e6ec0880ff69e5abd3d3|Lifts table should not render in case empty lifts.|Fri, 6 May 2016 18:11:06 +0300|Fri, 6 May 2016 18:11:06 +0300
+a733ea30c6bd74aed92e7b58752f75634d94f158|Use MDL table instead of material-ui table.|Thu, 5 May 2016 19:52:58 +0300|Thu, 5 May 2016 19:52:58 +0300
+305aa239c978815d1b19111037daf6d3becd068c|Fix issue with browsers that don't support 'KeyboardEvent.key' property.|Wed, 4 May 2016 18:33:31 +0300|Wed, 4 May 2016 18:33:31 +0300
+0a8f1e5704a56eddeac9a7d3ed3e0a0b2e744a29|Add some test card numbers.|Thu, 28 Apr 2016 18:17:10 +0300|Thu, 28 Apr 2016 18:17:10 +0300
+898d5e6b97af885cf87b20e5884800ce3ac0a793|Handle test cards dropdown change.|Thu, 28 Apr 2016 17:23:04 +0300|Thu, 28 Apr 2016 17:23:04 +0300
+0677d948bab44913986f716446ecbf99b023752e|Use dropdown list for test data.|Wed, 27 Apr 2016 19:31:08 +0300|Wed, 27 Apr 2016 19:31:08 +0300
+5bb94aa6f8fc2db4d66f741336ba19eaec3532b3|Remove empty line.|Wed, 27 Apr 2016 19:10:55 +0300|Wed, 27 Apr 2016 19:10:55 +0300
+5ce7a49268107bb8aec4c6900dd041ada60482a3|Use MuiThemeProvider.|Wed, 27 Apr 2016 19:10:06 +0300|Wed, 27 Apr 2016 19:10:06 +0300
+7972fe84cb18da5343df4885f72fe9da0a5d3ddf|Add comment.|Wed, 27 Apr 2016 19:09:43 +0300|Wed, 27 Apr 2016 19:09:43 +0300
+343a0a20459460a4ee29a20b60ce02393c5e7f21|Turn off "selectable" feature on table.|Tue, 26 Apr 2016 19:13:08 +0300|Tue, 26 Apr 2016 19:13:08 +0300
+8c9c8277e877f3ca9a14594c7d416c6e97a4e6c6|Fix z-index for app bar.|Tue, 26 Apr 2016 19:00:20 +0300|Tue, 26 Apr 2016 19:00:20 +0300
+9e13d290dfb6feabe4aa277949e5b8edc7d63cd2|Make header sticky.|Tue, 26 Apr 2016 11:15:16 +0300|Tue, 26 Apr 2016 11:15:37 +0300
+33cc04b6978af9ec9aaa11b4ac73eb7e04d6c8c7|Add AppBar.|Mon, 25 Apr 2016 19:39:01 +0300|Mon, 25 Apr 2016 19:39:01 +0300
+f57df3615954f84118983ec879121d5d50586633|Reverted changes related to TextField.|Mon, 25 Apr 2016 19:38:36 +0300|Mon, 25 Apr 2016 19:38:36 +0300
+db4b6a0dc13b86edaa7c41ccd894f7bcefe1024a|add vscode settings.|Mon, 25 Apr 2016 18:10:44 +0300|Mon, 25 Apr 2016 18:10:44 +0300
+e0957fdf80f7c6c58ad97b7c4716eaa9ef6013e9|Fixed editing issue.|Mon, 25 Apr 2016 17:55:05 +0300|Mon, 25 Apr 2016 17:55:05 +0300
+9de061d93b327d7f2e729ee1b258c2009390e0e8|Add husky package. Run test command on precommit hook.|Mon, 25 Apr 2016 11:01:29 +0300|Mon, 25 Apr 2016 11:01:29 +0300
+06cee0665cb46f90f5cb1ebde6de993d69af6a7c|Added badges for deps status.|Mon, 25 Apr 2016 10:51:01 +0300|Mon, 25 Apr 2016 10:51:01 +0300
+d7455f3b3dbe29182c6842415bd519d2f0ef7cb7|Update node-sass package version.|Mon, 25 Apr 2016 10:47:37 +0300|Mon, 25 Apr 2016 10:47:37 +0300
+d1761947f6d685524816d54a305ffd800681d2b0|Update material-ui library. Use react-tap-event-plugin.|Sun, 24 Apr 2016 11:52:50 +0300|Sun, 24 Apr 2016 11:52:50 +0300
+b628dc655f7c9b1201fb03b3d1ee4f18ca26f08c|Fix issue with displaying input value on editing.|Sun, 24 Apr 2016 11:16:19 +0300|Sun, 24 Apr 2016 11:16:19 +0300
+c571d8859130a05116283d19ea9fbe60a2601800|Use getSelection function from ReactInputSelection.|Sat, 23 Apr 2016 21:14:33 +0300|Sat, 23 Apr 2016 21:55:04 +0300
+126c69cf56f613596eb490fd1698ef33ca677866|Fixed issue with browsers which don't support 'beforeInput' event.|Sat, 23 Apr 2016 11:49:36 +0300|Sat, 23 Apr 2016 11:49:36 +0300
+e92b6cd963ca9dea0e4c9dbe305fa30e3ab655cb|Add build status icon.|Fri, 22 Apr 2016 18:20:13 +0300|Fri, 22 Apr 2016 18:20:13 +0300
+41974800078ba1b6981edc594e3f8c123fb38c11|Fix lint error.|Fri, 22 Apr 2016 18:11:15 +0300|Fri, 22 Apr 2016 18:11:15 +0300
+f177f77c010e23173f4d4d2ed38d0c19d9198b0a|Build c++ compiler.|Fri, 22 Apr 2016 18:11:06 +0300|Fri, 22 Apr 2016 18:11:06 +0300
+848f86583380d752ccc08fbe06bd5fd56fdb862a|Add travis-ci config.|Fri, 22 Apr 2016 18:06:47 +0300|Fri, 22 Apr 2016 18:06:47 +0300
+3cb7f2afee36ff314bd0e159e6b1c33ea2f113b8|[ESlint]: add some more rules.|Fri, 22 Apr 2016 17:56:53 +0300|Fri, 22 Apr 2016 17:56:53 +0300
+6649f8d18e55b89a58a6e32672de1a6a3bd1e659|[ESlint]: Add some rules.|Fri, 22 Apr 2016 17:50:46 +0300|Fri, 22 Apr 2016 17:50:46 +0300
+cba22ee4ebb08c2e40ae89b63d3722d6e658a5bc|Add eslint validation|Fri, 22 Apr 2016 16:54:06 +0300|Fri, 22 Apr 2016 16:54:06 +0300
+364603f2208bb2a4b7eb24efd256320a6e980876|Lint code.|Fri, 22 Apr 2016 16:53:36 +0300|Fri, 22 Apr 2016 16:53:36 +0300
+84135de8d69b505c2e26350f38a6d6f8fcf25966|Minor modification to LICENSE file.|Fri, 22 Apr 2016 10:19:00 +0300|Fri, 22 Apr 2016 10:19:00 +0300
+8895c8f7c080b04041169b2bc35a71b526a500ca|Add some basic table.|Thu, 21 Apr 2016 21:29:31 +0300|Thu, 21 Apr 2016 21:29:31 +0300
+9307eabfc896908446e4ce7eda3166a835f820d5|Add author.|Thu, 21 Apr 2016 19:08:06 +0300|Thu, 21 Apr 2016 19:08:06 +0300
+4cfeacb35c4786a1d005988c20ce96637161ebd6|Use 'beforeInput' event intead 'keyPress'; https://w3c.github.io/uievents/#event-type-keypress|Thu, 21 Apr 2016 18:49:26 +0300|Thu, 21 Apr 2016 18:49:26 +0300
+cce4a322fbdb85cf80a7b074d71362f16ddecf0d|[IE, Paste]: Fix issue with pasting text from clipboard.|Wed, 20 Apr 2016 17:27:02 +0300|Wed, 20 Apr 2016 17:27:02 +0300
+23678847b559ce8f359b85533747fbfd90b7bcc4|[IE, styles]: hide IE "clear button".|Wed, 20 Apr 2016 17:26:13 +0300|Wed, 20 Apr 2016 17:26:13 +0300
+5bfe61c38d0300b537c126343dd62284d3a58106|Fix build crashing.|Wed, 20 Apr 2016 16:19:55 +0300|Wed, 20 Apr 2016 16:19:55 +0300
+484bae53db7709c447318dae1d95e214815d53c8|Move to usage of native DOMParser instead of cheerio library.|Wed, 20 Apr 2016 16:16:52 +0300|Wed, 20 Apr 2016 16:16:52 +0300
+f628d454981145f96d453d40b7cf90e7b630af6b|Changed default port to 3333.|Wed, 20 Apr 2016 10:08:25 +0300|Wed, 20 Apr 2016 10:08:25 +0300
+d7be2f5f05373928b92c7f85988da6504c9c31a9|Minor changes in parser|Tue, 19 Apr 2016 17:58:45 +0300|Tue, 19 Apr 2016 17:58:45 +0300
+48fa9a8c7f7081a23dd304be46ed88498b719440|Parse lift id.|Tue, 19 Apr 2016 09:48:36 +0300|Tue, 19 Apr 2016 09:48:36 +0300
+4853ca160e8d11e536249db120fce4a556be08df|Use eq function to ge element by index.|Tue, 19 Apr 2016 08:08:54 +0300|Tue, 19 Apr 2016 08:08:54 +0300
+f7951a88159d0f9e7478c913d0fab0f786fd8aff|Parse integer values.|Mon, 18 Apr 2016 22:19:36 +0300|Mon, 18 Apr 2016 22:19:36 +0300
+c89b594ef37eda061bfae3fa85f3acfa9c28aea9|Working on bukovel adapter.|Mon, 18 Apr 2016 21:19:53 +0300|Mon, 18 Apr 2016 21:19:53 +0300
+982b09b1ce84265bd3ea5fa4fde70fe652adf7bd|Add postcss loader.|Mon, 18 Apr 2016 20:37:15 +0300|Mon, 18 Apr 2016 20:37:15 +0300
+69cb338e898e25f6303e56ddc4eb72eb3578c335|Fix casing issue.|Mon, 18 Apr 2016 18:36:34 +0300|Mon, 18 Apr 2016 18:36:34 +0300
+d720c3d6e83dcaf790690679cf7032372f7e614c|Upgrade to material-ui v0.15.0-beta.1|Mon, 18 Apr 2016 18:24:49 +0300|Mon, 18 Apr 2016 18:24:49 +0300
+3e0b5b5cb6498083291abe8e0cc0d44556077968|Handle response errors.|Mon, 18 Apr 2016 09:52:48 +0300|Mon, 18 Apr 2016 09:52:48 +0300
+40c19f7d32fd107e53f15de5c71be8e2bd89dc2e|Use text/plain instead of text for getClipboadData.|Sun, 17 Apr 2016 23:24:48 +0300|Sun, 17 Apr 2016 23:24:48 +0300
+d4f8b69524d08473d153627cb8c1c73a3fe7ff32|Use heroku-postbuild instead of postinstall|Sun, 17 Apr 2016 16:49:51 +0300|Sun, 17 Apr 2016 16:49:51 +0300
+3ddaf230736c11dee30e054d14c1ec7a6330b799|added normalize.css package|Sun, 17 Apr 2016 16:47:19 +0300|Sun, 17 Apr 2016 16:47:35 +0300
+baeabeb91aac94525230be87812dc7d951615601|Injecting a variable process.env.NODE_ENV set to "production" at build time.|Sun, 17 Apr 2016 16:43:47 +0300|Sun, 17 Apr 2016 16:43:47 +0300
+2d664f1c4960c3bcf5aead10971b0b8702f482b7|Move some devdeps to deps.|Sun, 17 Apr 2016 16:32:18 +0300|Sun, 17 Apr 2016 16:32:18 +0300
+5e7fbb1cff0f71cf620d8a96d859e27d8be05f12|Fix prebuild command.|Sun, 17 Apr 2016 16:27:51 +0300|Sun, 17 Apr 2016 16:27:51 +0300
+f1a9adde3bc25b72f59b1c03037d25bcd15628d1|Run build after install.|Sun, 17 Apr 2016 16:26:08 +0300|Sun, 17 Apr 2016 16:26:08 +0300
+04c17646c303bfe891bdef25feee3835558e4acd|Added Procfile|Sun, 17 Apr 2016 16:24:20 +0300|Sun, 17 Apr 2016 16:24:20 +0300
+1f5905d5a078254a321c257450d6b4fc3dfa62bf|Specify node engine.|Sun, 17 Apr 2016 16:10:02 +0300|Sun, 17 Apr 2016 16:10:02 +0300
+db875c88a70786bc7f0f89dae7b5eccc273c56e0|added prod. build, serve staic files via express.|Sun, 17 Apr 2016 16:06:46 +0300|Sun, 17 Apr 2016 16:06:53 +0300
+6823bfb48d07d5a620f7a7255c53a12b68e0c5b6|Remove console.log.|Sun, 17 Apr 2016 15:44:15 +0300|Sun, 17 Apr 2016 15:44:15 +0300
+044fc05ddaa0db508b1f41ad58c3b3987e4c34df|Show spinner only in case 100ms delay.|Sun, 17 Apr 2016 13:33:30 +0300|Sun, 17 Apr 2016 13:33:30 +0300
+f4a61161411b1850926eef4cb7262205dd8b1bea|Swap configs.|Sun, 17 Apr 2016 13:33:11 +0300|Sun, 17 Apr 2016 13:33:11 +0300
+5947c2419262fd1512043dba100cf842951cced1|Adding build commands.|Sun, 17 Apr 2016 11:35:30 +0300|Sun, 17 Apr 2016 11:35:30 +0300
+e7dbc837ee21bf09562d2efa6bb5fcba0c8651ff|Add progress loader.|Fri, 15 Apr 2016 17:43:23 +0300|Fri, 15 Apr 2016 17:43:23 +0300
+ed7568544889bfe23be7a4bab386bdb913da450f|Move some logic to TestCardNumber component.|Fri, 15 Apr 2016 17:32:00 +0300|Fri, 15 Apr 2016 17:32:00 +0300
+8b6ad8a9821b802a4ddb7e76253651ce746a95b4|Add help icon.|Thu, 14 Apr 2016 18:55:54 +0300|Thu, 14 Apr 2016 18:55:54 +0300
+9d41c4aabc69ab5e513514e5819b492a078628a9|Minor renaming.|Thu, 14 Apr 2016 18:45:11 +0300|Thu, 14 Apr 2016 18:45:11 +0300
+746400ecaa047a1c0fa259c0ac034234f2663ee2|Switch to use material-ui library.|Wed, 13 Apr 2016 17:50:29 +0300|Wed, 13 Apr 2016 17:50:29 +0300
+b172d2fcd4e559772f57eeee398406fb43c49336|Add babel-polyfill package.|Wed, 13 Apr 2016 17:25:20 +0300|Wed, 13 Apr 2016 17:25:20 +0300
+731f9476eea1462044867180be5e3d846ef0c094|Add some basic styles.|Wed, 13 Apr 2016 15:54:46 +0300|Wed, 13 Apr 2016 15:54:46 +0300
+ec09b7b284452702b6e40586b6694bf40763210c|Configure css loaders.|Wed, 13 Apr 2016 15:38:02 +0300|Wed, 13 Apr 2016 15:38:02 +0300
+83bee4cdf452fff3f61cc05ad020aa85ab45e4b1|[Package]: add material-design-lite library.|Wed, 13 Apr 2016 15:37:46 +0300|Wed, 13 Apr 2016 15:37:46 +0300
+7ecf2a1f70f9b2015388b5e16f7d6f465418392c|[CardNumberInput]: Apply props from top level component.|Wed, 13 Apr 2016 15:37:27 +0300|Wed, 13 Apr 2016 15:37:27 +0300
+1fe48dd8228d78b124852389dbef4b564a124d37|Remove auto insertion of test card number.|Wed, 13 Apr 2016 10:42:07 +0300|Wed, 13 Apr 2016 10:42:07 +0300
+0003d73413199922e94bc420f19a8d84f5a7dc2c|Add placeholder.|Wed, 13 Apr 2016 10:39:34 +0300|Wed, 13 Apr 2016 10:39:34 +0300
+8631ac5719d7d902540114c780793fcf49e2dd26|Remove commented code.|Wed, 13 Apr 2016 10:35:07 +0300|Wed, 13 Apr 2016 10:35:07 +0300
+e34a874de2207edb9776e6550792d42b18da9152|Added missing package.|Tue, 12 Apr 2016 22:10:19 +0300|Tue, 12 Apr 2016 22:10:19 +0300
+750304540b382a23ef76aaa701da994618a2fb4a|Add fetch polifyl.|Tue, 12 Apr 2016 22:09:43 +0300|Tue, 12 Apr 2016 22:09:43 +0300
+2bcbff53f470c418bbe4290c243abf041afb7089|Configure style loaders.|Tue, 12 Apr 2016 18:16:35 +0300|Tue, 12 Apr 2016 18:16:35 +0300
+129aa07f46a036bf03fc2b6b2c43e2591f80107a|Add styles.scss file.|Tue, 12 Apr 2016 18:16:06 +0300|Tue, 12 Apr 2016 18:16:06 +0300
+66f177e80173262ee0d4729f6e17051f0351e8b6|Use Google Roboto font.|Tue, 12 Apr 2016 17:59:07 +0300|Tue, 12 Apr 2016 17:59:07 +0300
+25f43e78568741f865cdb6edbc29f4e831ccbcbd|Added some meta tags.|Tue, 12 Apr 2016 17:37:38 +0300|Tue, 12 Apr 2016 17:37:38 +0300
+4a16cf701bd55d99b7cf14ba7a2dde0b0e546540|Setting The Viewport.|Mon, 11 Apr 2016 16:19:53 +0300|Mon, 11 Apr 2016 16:19:53 +0300
+621c78a218163ae8c51b7ffbc23d66e4d0089d42|Add undo and redo functions.|Sun, 10 Apr 2016 15:44:00 +0300|Sun, 10 Apr 2016 15:44:00 +0300
+bf26eb71c81d04f98772ac4ff39954e8c04ec8f8|Adding functionality for CardNumber component.|Sun, 10 Apr 2016 15:24:46 +0300|Sun, 10 Apr 2016 15:25:07 +0300
+66cb5f6c17c8ee3fcffb972e52b0bd02e9a6f0e7|Remove hardcoded card number.|Sun, 10 Apr 2016 15:24:10 +0300|Sun, 10 Apr 2016 15:24:10 +0300
+04679ae7d5004c299ad8095577cafae98ea80c72|Render component on the page.|Sat, 9 Apr 2016 18:25:50 +0300|Sat, 9 Apr 2016 18:25:50 +0300
+09137db8c6a566f1b0e3be9aa3dd5b2712bb3a3e|Initial commit for CardNumberInput component.|Sat, 9 Apr 2016 18:25:35 +0300|Sat, 9 Apr 2016 18:25:35 +0300
+10a93ab81b6eeb44916664b43f12dcc39d4050cb|Add inputmask library.|Sat, 9 Apr 2016 18:25:03 +0300|Sat, 9 Apr 2016 18:25:03 +0300
+0b098d278975c6cfef25af2745dd91f0a3ad3054|Minor tweak in parsing date.|Fri, 8 Apr 2016 10:24:13 +0300|Fri, 8 Apr 2016 10:24:13 +0300
+e89a236104ebb978222ea30a03098fad550a2f9d|update React library.|Fri, 8 Apr 2016 09:36:50 +0300|Fri, 8 Apr 2016 09:36:50 +0300
+222ca5cbd167e6c747a2ae6ad56e8fd10e2c4813|Parse skileft date.|Thu, 7 Apr 2016 19:33:47 +0300|Thu, 7 Apr 2016 19:33:47 +0300
+2ef42dac48e64f3cb08c5737d7c7280ec0250be1|Use devServer inlining.|Thu, 7 Apr 2016 19:24:56 +0300|Thu, 7 Apr 2016 19:24:56 +0300
+da8c5c13cefb6414c954d4fd54fcf4e3159290b4|Initial work.|Thu, 7 Apr 2016 17:41:14 +0300|Thu, 7 Apr 2016 17:41:14 +0300
+13f8ef525d6144aee1c8ce7546822ccce4b22a7f|Create README.md|Thu, 7 Apr 2016 17:40:02 +0300|Thu, 7 Apr 2016 17:40:02 +0300
+1d71d18f804faa07089021a6f847cfef72f905a9|Initial commit|Thu, 7 Apr 2016 17:24:17 +0300|Thu, 7 Apr 2016 17:24:17 +0300

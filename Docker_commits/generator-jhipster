@@ -1,0 +1,4 @@
+,repo_name,sha,message
+7531,generator-jhipster,797fe2ff6841e453583a4c10865474c450ae185a,refactor prompts to align with docker-compose and auto config shell script
+9442,generator-jhipster,ab7fcb55a533de4a2f38ad6e18179794f870889f,Merge pull request #6094 from stevehouel/refactor-docker
+14512,generator-jhipster,337c67cdbe6308cb13da12ff46a54abf78790784,refactor setup of the jhipster-console in docker-compose subgen (#3644)

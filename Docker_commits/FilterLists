@@ -1,0 +1,12 @@
+,repo_name,sha,message
+721,FilterLists,0f3491192fd5461f045a39bb10a8599f13bed505,refactor(docker): ♻ re-gen some docker config
+1569,FilterLists,5c17cc415bec72686219b0fdd2ae70ce037aa4dd,refactor(docker-compose): ♻ extract docker-compose dir
+1915,FilterLists,b0b1cfdab233f2e385b255ebd9cec247094323af,refactor(archival): ♻ don't expose ports to docker network until required
+1963,FilterLists,ece877e5678ff6ac8cd42daa1bae9062f46e2145,refactor(directory): ♻⚡ extract separate migrate dockerfile for perf
+2018,FilterLists,cba9373bfee95fce7f14c7cb31e00ab75c9304d2,refactor(directory): ♻ exclude data from docker context
+2031,FilterLists,9f4faab1a75a7ae2cbda83deafd90d83b06a1b03,refactor: ♻🔨 update dockerignores
+2032,FilterLists,a5d2aa21ece35ab3ff148ca9027e0df09daa3777,refactor(directory): 🔥 rm dup docker-compose config
+2147,FilterLists,cd43daec3d67d59464a28d49f9dcf3e735520b19,refactor: 🎨 include 'dev' docker-compose in dcproj
+2149,FilterLists,a74e2e76834c0f07cdbbfdd6ea4ae04a2c27d4fb,refactor(sln): 🎨 mv shared dockerignore to 'Solution Items'
+2160,FilterLists,32e11912634ca3919a2d1e3357d2ea3575ed4083,refactor: ♻ ren some docker-compose resources
+2175,FilterLists,526c4f7f2372ca6487f854661a5dfadc57732eab,refactor(directory): ♻ ren docker image

@@ -1,0 +1,14 @@
+,repo_name,sha,message
+121,image_builder,7cfe21ae16cecfae1be52e128c4e65371713c0e6,refactoring; drop unneeded docker run volume-mount
+132,image_builder,350c5bffe859b0df44c8cff6e250e46db7b13493,refactoring; add dir/ structure to dockerfile_augmenter
+191,image_builder,82ce0e8a770d017f6bc8ebd532ca423748ddc622,"[ci skip] refactor new build-script; move docker login,push,logout out of notifier tool and into main script"
+296,image_builder,da252339f858135d6938dfa5ec140a29c75d0f64,"refactoring; dont install tini in Dockerfiles, instead use --init option in docker-compose.yml"
+348,image_builder,34b715a16b0b39dd856198177b922e3791290db1,refactoring; use new [docker build --file -] option to read Dockerfile from stdin so that I can volume mount SRC_DIR read-only
+499,image_builder,28991d202db728bb539e317c2a9a0e2aa4f300de,refactoring; rename method as the intention is for it to check start_point/ which does not have associated docker/ dir
+502,image_builder,fe79ece59bd1cea988d50d7daacf28c2043e4542,refactoring; base inner Dockerfile on docker/latest image
+514,image_builder,475f940f9f227c184b91f756e06bcff13e9e4cac,refactoring; convert dockerhub to module
+703,image_builder,7ad582f0b0047838aed1b6c7bd6e7ad01d7793d7,refactoring; delete check for env-vars which is already in dockerhub class
+753,image_builder,b953be15f9b3c2704977556e362af3ef0c7f7fd4,refactoring; switch to running build_image.rb using [docker-compose run] rather than [docker-compose exec]
+764,image_builder,5aaf740236d2650005190d2d083987ffd59a2907,refactoring; split docker-compose up into 3 separate ups
+800,image_builder,06b29b6236e9c8147f296abe5a1bc1bbce6786b5,refactoring; docker/Dockerfile is required even if it is a single FROM line
+801,image_builder,312716a6937c83b82ca55a1f43b99316c26adb78,refactoring; check env-vars for docker login at point it happens

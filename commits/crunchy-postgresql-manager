@@ -1,0 +1,437 @@
+182d01c626e44caece80e04d8ee9fcdda6d0c228|Update README.md|Thu, 22 Sep 2016 16:07:24 -0500|Thu, 22 Sep 2016 16:07:24 -0500
+3d7db8163938f47c0ec85dc06313dc3eaa6f28f2|update skybridge reference to skybridge2|Mon, 23 May 2016 17:32:53 -0400|Mon, 23 May 2016 17:32:53 -0400
+00ecb92eda81ff4f85f3b49dea2122e254298254|update to remove outdated epel links|Mon, 23 May 2016 17:32:03 -0400|Mon, 23 May 2016 17:32:03 -0400
+afdd6456052d91b984fa153d3f86150da555dd65|updated Dockerfiles to remove outdated epel links|Mon, 23 May 2016 17:30:47 -0400|Mon, 23 May 2016 17:30:47 -0400
+190764a38d2b17fbdecb54c065f10b64efc61981|update vagrantfile|Tue, 16 Feb 2016 15:25:01 -0600|Tue, 16 Feb 2016 15:25:01 -0600
+544402063d5de920367468511dd6f94e2f223cf2|update to vagrant script|Mon, 15 Feb 2016 14:39:36 -0600|Mon, 15 Feb 2016 14:39:36 -0600
+968f21c4c0966ed4b2d56356fc872964c533f4bd|update vagrant script to use mixed case github path for go get command|Fri, 12 Feb 2016 17:21:34 -0600|Fri, 12 Feb 2016 17:21:34 -0600
+9f67f9b8505afc20f1b40fcb144af2d649a71b9a|update dev docs for vagrant|Fri, 12 Feb 2016 17:00:42 -0600|Fri, 12 Feb 2016 17:00:42 -0600
+46eb610ee812cfe65f362edc1c13351c7c111218|initial Vagrantfile|Fri, 12 Feb 2016 15:35:47 -0600|Fri, 12 Feb 2016 15:35:47 -0600
+41a821f05e3301b9ff7163148e7db8ab28cfd673|refix scripts|Fri, 12 Feb 2016 16:32:57 -0500|Fri, 12 Feb 2016 16:32:57 -0500
+6cebb6ffdf6093cdef3482faf417ba688c0917d4|temporary test|Fri, 12 Feb 2016 15:01:45 -0600|Fri, 12 Feb 2016 15:01:45 -0600
+c42ab6c7f00eba0e718434946448e5ddcd1bf9c6|update vagrant script|Fri, 12 Feb 2016 15:35:10 -0500|Fri, 12 Feb 2016 15:35:10 -0500
+16518c1d328acf7223a22a9a2a144ba19bb3f5ff|add script to modify etc resolv.conf file|Fri, 12 Feb 2016 14:59:34 -0500|Fri, 12 Feb 2016 14:59:34 -0500
+1ef8f10297e1c1823f1216b1e417a03bf5e7d3f9|update collect script|Fri, 12 Feb 2016 14:49:21 -0500|Fri, 12 Feb 2016 14:49:21 -0500
+050e4a3647d4f0c0661ab5a73651b47bbd6b9889|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Fri, 12 Feb 2016 13:44:03 -0600|Fri, 12 Feb 2016 13:44:03 -0600
+1a95c6971c944580e37c622be8e44972da3ab3b4|put script for collect back in|Fri, 12 Feb 2016 13:43:53 -0600|Fri, 12 Feb 2016 13:43:53 -0600
+a128edbd8cd6c67fef00997e67ddf9743444da35|update startup scripts for vagrant|Fri, 12 Feb 2016 12:38:28 -0500|Fri, 12 Feb 2016 12:38:28 -0500
+2c9de74ecc630f0b171507ebf7e0fdea929175b4|update startup scripts or vagrant|Fri, 12 Feb 2016 11:15:54 -0500|Fri, 12 Feb 2016 11:15:54 -0500
+c53a6adebd0ed1dd38f8db1318519e8f950e0096|added docker configure script for vagrant|Fri, 12 Feb 2016 11:06:24 -0500|Fri, 12 Feb 2016 11:06:24 -0500
+245823ab82daba0c8441d22c98a8c49b750a9941|update swarm scripts for vagrant|Fri, 12 Feb 2016 10:55:04 -0500|Fri, 12 Feb 2016 10:55:04 -0500
+de6907b097f43ce4e73f47972e767e37c6154cd2|update install swarm script|Fri, 12 Feb 2016 10:36:51 -0500|Fri, 12 Feb 2016 10:36:51 -0500
+021b8a5fb905d82db9971766401c7ac926dca03d|update vagrant to start up skybridge and build swarm|Thu, 11 Feb 2016 13:34:20 -0600|Thu, 11 Feb 2016 13:34:20 -0600
+b92ecbde5f7b42ce487558bcd5923cc5a44577d4|update cpmenv to determine local ip address insteadof hard coded|Thu, 11 Feb 2016 13:28:13 -0600|Thu, 11 Feb 2016 13:28:13 -0600
+f27a1de3406e5dca2bd3c60824aa624ea582c457|initial vagrant install script|Thu, 11 Feb 2016 12:18:34 -0600|Thu, 11 Feb 2016 12:18:34 -0600
+43ec844ae7915537dea97ef27750325fba8e467f|fix proxy status reporting, clean up docs, rebuild docs|Thu, 14 Jan 2016 10:38:43 -0600|Thu, 14 Jan 2016 10:38:43 -0600
+d0654f635ebeab6806b50a6219bafc1205e5be7e|comment out efk and fluent logging|Wed, 13 Jan 2016 17:34:23 -0600|Wed, 13 Jan 2016 17:34:23 -0600
+cf1a51662bae60fd0baa54b5c812b967318b6df2|fix tuning params logic|Wed, 13 Jan 2016 16:17:56 -0600|Wed, 13 Jan 2016 16:17:56 -0600
+c264b28892bae039e8dfc2e1d4beb45dd4eb3bb9|add tuning parms to cluster templates|Tue, 12 Jan 2016 17:31:23 -0600|Tue, 12 Jan 2016 17:31:23 -0600
+0765c9cf8c330c5ae50f9ccf5d205b1080670b98|tuning fix|Tue, 12 Jan 2016 17:13:31 -0600|Tue, 12 Jan 2016 17:13:31 -0600
+6f03faf0c7d8eb2e9acf65b748761a8dde728fab|add clean script and add tuning params|Tue, 12 Jan 2016 16:22:41 -0600|Tue, 12 Jan 2016 16:22:41 -0600
+a8965d791049aac08814f5ce124567876a67a438|add tuning parameters as settings|Tue, 12 Jan 2016 15:04:48 -0600|Tue, 12 Jan 2016 15:04:48 -0600
+11a6dc5112019012a180f787d88eb66e7e6b8606|update add new start and stop scripts|Tue, 12 Jan 2016 13:50:12 -0600|Tue, 12 Jan 2016 13:50:12 -0600
+025bb5a63b248fb27ea7a1edec9f7ea3b04a4c44|last chagnes for pgpool logging to syslog|Tue, 12 Jan 2016 11:06:10 -0600|Tue, 12 Jan 2016 11:06:10 -0600
+7c8ef8c10e7080c101d623a8f1b75a76394b871e|update pgpool to use syslog|Tue, 12 Jan 2016 10:34:51 -0600|Tue, 12 Jan 2016 10:34:51 -0600
+13f95ed2b817343e892e2f82b3ae0418e52f144a|add part of poolhba template logic|Mon, 11 Jan 2016 16:05:51 -0600|Mon, 11 Jan 2016 16:05:51 -0600
+4319db2d269ff04ec054de6d98162cb084bb7526|fix scripts|Mon, 11 Jan 2016 15:21:07 -0600|Mon, 11 Jan 2016 15:21:07 -0600
+f4139bc679733515845cf893ec9dafdc819fb9df|update instal-swarm script|Mon, 11 Jan 2016 14:51:00 -0600|Mon, 11 Jan 2016 14:51:00 -0600
+0eaa7ed60bd51bc14ad6723ed01839869aae5301|initial|Mon, 11 Jan 2016 14:41:32 -0600|Mon, 11 Jan 2016 14:41:32 -0600
+106e4fafaa624b5f7b90a32a3a4ec77673dee595|update dev install doc|Mon, 11 Jan 2016 14:37:32 -0600|Mon, 11 Jan 2016 14:37:32 -0600
+2739d0912b779c87f6de647982fb95a0426af23c|update code to remove redundant or unnecessary logit.Info messages|Fri, 8 Jan 2016 17:11:10 -0600|Fri, 8 Jan 2016 17:11:10 -0600
+7ded7a59af4ea055363263b92caa92c8087cbb70|update tooltip style css and tooltip references in healthcheck and schedule history pages|Fri, 8 Jan 2016 14:37:24 -0600|Fri, 8 Jan 2016 14:37:24 -0600
+7726f39658f011c9e5725a2df4da5f37c58a88ab|fix proxy logic and navigation|Fri, 8 Jan 2016 10:28:41 -0600|Fri, 8 Jan 2016 10:28:41 -0600
+c614be2d6916d460652289a4266175a21d3b409f|add alerts to page|Fri, 8 Jan 2016 08:11:55 -0600|Fri, 8 Jan 2016 08:11:55 -0600
+9d56096c2278bb4a7299ae13a56c54d5b4b35889|refactor NewPing, move to util package, add to proxy get|Thu, 7 Jan 2016 16:03:51 -0600|Thu, 7 Jan 2016 16:03:51 -0600
+67f4fd7e767bbd9b3f7512df8dc11fb89e685915|add field validation to cluster name, proxy name, and database name in forms|Thu, 7 Jan 2016 15:24:38 -0600|Thu, 7 Jan 2016 15:24:38 -0600
+295f9ebdfd6d8e6c16f1368b0321103595d9d4e9|update test for swarmapi|Thu, 7 Jan 2016 13:10:26 -0600|Thu, 7 Jan 2016 13:10:26 -0600
+a758650bd673f59f331eec02b00769edfbf10707|fix error reporting bug when duplicate cluster name|Thu, 7 Jan 2016 12:14:20 -0600|Thu, 7 Jan 2016 12:14:20 -0600
+4acd9d768330e3d2979d8dafbe4950f5b11bfb41|update|Thu, 7 Jan 2016 08:42:27 -0600|Thu, 7 Jan 2016 08:42:27 -0600
+4e3213792ddf2d3f5b1dbdada582b1be9c66326a|update docs|Thu, 7 Jan 2016 08:38:51 -0600|Thu, 7 Jan 2016 08:38:51 -0600
+1606cdd372baf6054a367a941fe4ed9bc2034054|update docs|Thu, 7 Jan 2016 08:36:14 -0600|Thu, 7 Jan 2016 08:36:14 -0600
+1b191039ab456e706d6292cc11b2ae8d9dc8354f|update docs|Thu, 7 Jan 2016 08:34:46 -0600|Thu, 7 Jan 2016 08:34:46 -0600
+2b3af01e59d21b2c02a62666a015b4713b6310ef|update docs|Thu, 7 Jan 2016 08:34:06 -0600|Thu, 7 Jan 2016 08:34:06 -0600
+9fd771c1417288193bd30329289381f22cda783c|new test for swarm api|Wed, 6 Jan 2016 16:46:20 -0600|Wed, 6 Jan 2016 16:46:20 -0600
+ad986fb74ee2b805cf20908b9d99ed41482d6fd4|fix bug in serverid on container detail page|Wed, 6 Jan 2016 09:23:38 -0600|Wed, 6 Jan 2016 09:23:38 -0600
+07a17c99c5461455bb3a9d49c07493b2f4f2b197|update user guide|Tue, 5 Jan 2016 15:18:06 -0600|Tue, 5 Jan 2016 15:18:06 -0600
+f7b3599e096793794d8a0e10757dcf6709729eaf|new user guide|Tue, 5 Jan 2016 15:14:15 -0600|Tue, 5 Jan 2016 15:14:15 -0600
+acdf9b58c2aed17b9bcea9e190eff81c02dc6275|update and rearrange the startup scripts|Wed, 23 Dec 2015 16:11:02 -0600|Wed, 23 Dec 2015 16:11:02 -0600
+27f93dcaef6809cb0e13feaa9b7dd8789c9650c1|update|Wed, 23 Dec 2015 14:46:11 -0600|Wed, 23 Dec 2015 14:46:11 -0600
+23a2469962fa745484c933434e20e4da7164dfbf|some updates for multi-host support|Tue, 22 Dec 2015 17:08:11 -0600|Tue, 22 Dec 2015 17:08:11 -0600
+c78e3e7393e31ae84a26e4c803d03396b8befb37|updates for multi-host|Tue, 22 Dec 2015 14:26:24 -0600|Tue, 22 Dec 2015 14:26:24 -0600
+14e09af19c0e7f72a6fea324feb9bc8dea4c487b|update run-cpm script to go through swarm for docker creates|Mon, 21 Dec 2015 15:35:01 -0600|Mon, 21 Dec 2015 15:35:01 -0600
+88820736e113ab5eb9a6216249578ce5ccbbb503|update run cpm server script|Mon, 21 Dec 2015 15:30:57 -0600|Mon, 21 Dec 2015 15:30:57 -0600
+46d0f9a4a0dfcbb9af53a5a598f1f75630da8357|add swarm secondary script|Mon, 21 Dec 2015 14:41:12 -0600|Mon, 21 Dec 2015 14:41:12 -0600
+30d8ea0262fc41578cea720ce7498b4c4d376f03|update server script to provide more env vars|Mon, 21 Dec 2015 10:15:39 -0600|Mon, 21 Dec 2015 10:15:39 -0600
+a45a7ad6cff017d7cb654640ef63f872053a7cea|update|Mon, 21 Dec 2015 10:11:37 -0600|Mon, 21 Dec 2015 10:11:37 -0600
+1c15e4f22b2ea4b418a5f2fa0630f43205e83187|update run-swarm.sh and multi host docs|Fri, 18 Dec 2015 16:08:26 -0600|Fri, 18 Dec 2015 16:08:26 -0600
+827a5830cf40c921d75ce6839e3ff0a245a9c8c5|update copy script|Fri, 18 Dec 2015 14:49:17 -0600|Fri, 18 Dec 2015 14:49:17 -0600
+a3acb99e37f5dd2679f9e93b3ed866c8ea376017|add script for multi-host support and update docs|Fri, 18 Dec 2015 13:44:12 -0600|Fri, 18 Dec 2015 13:44:12 -0600
+5bb9d25f9d14191c0d6463d3aab3e629f6cca4b2|update doc with picture|Thu, 17 Dec 2015 11:03:56 -0600|Thu, 17 Dec 2015 11:03:56 -0600
+9df23340ef83fcb896b788344a59cfb1fb6ad4b0|update docs|Thu, 17 Dec 2015 11:01:06 -0600|Thu, 17 Dec 2015 11:01:06 -0600
+00ddaf0a9980e75a46a042d78a603a4d4597e592|update docs|Wed, 16 Dec 2015 16:55:21 -0600|Wed, 16 Dec 2015 16:55:21 -0600
+298f1c9c69db5cc7e7eb9668e57a5edbe6ba55a3|add cpm-efk to buildimages target|Wed, 16 Dec 2015 16:10:58 -0600|Wed, 16 Dec 2015 16:10:58 -0600
+e74f6f0b981f6fa0c7478c82c4976ca6bb3e0cf8|update docs|Wed, 16 Dec 2015 16:01:20 -0600|Wed, 16 Dec 2015 16:01:20 -0600
+6f92e7447335ea54105d8d923721d086a552de09|update docs|Wed, 16 Dec 2015 16:01:06 -0600|Wed, 16 Dec 2015 16:01:06 -0600
+26568f82a1050ed3017ace8c43e9cd2313b75321|open up the logs directory so non-root users like cpm-web daemon can write their logs|Wed, 16 Dec 2015 15:35:21 -0600|Wed, 16 Dec 2015 15:35:21 -0600
+110d10b55db01e2e75c4183263aab7226dc5657b|update run-cpm.sh|Wed, 16 Dec 2015 15:27:07 -0600|Wed, 16 Dec 2015 15:27:07 -0600
+06fd8a5a64b0313eaa1d83246c12200625a48e39|fix dev-setup.sh script|Wed, 16 Dec 2015 15:24:24 -0600|Wed, 16 Dec 2015 15:24:24 -0600
+6e1e932063fcb418cdfe519370629e38d77b672b|update server start script|Wed, 16 Dec 2015 15:22:07 -0600|Wed, 16 Dec 2015 15:22:07 -0600
+b786f446ef4557239ffa3d0a69e2af7f2bd6d2ea|fix cpm-efk startup and build|Wed, 16 Dec 2015 15:20:35 -0600|Wed, 16 Dec 2015 15:20:35 -0600
+12161ea616c34532201df11994c554bf55fcbf9e|update start script|Wed, 16 Dec 2015 15:05:41 -0600|Wed, 16 Dec 2015 15:05:41 -0600
+80dad7c5f13f7069aa80ae20f6e23ced36954fa0|update|Wed, 16 Dec 2015 14:55:18 -0600|Wed, 16 Dec 2015 14:55:18 -0600
+5b765486915cfd98a7650e57a29e98dfa765cc78|new file to run swarm|Wed, 16 Dec 2015 14:53:03 -0600|Wed, 16 Dec 2015 14:53:03 -0600
+d51d6f96eeb7ab546a446d1301d9c59847418461|update to cpm-efk build|Wed, 16 Dec 2015 13:32:04 -0600|Wed, 16 Dec 2015 13:32:04 -0600
+0b7067efa46cdb533af88ec0b80e0608f06dc547|add listen.conf|Tue, 15 Dec 2015 16:38:47 -0600|Tue, 15 Dec 2015 16:38:47 -0600
+22d3f47299369be354104737bde2215226d1c23f|update|Tue, 15 Dec 2015 13:10:01 -0600|Tue, 15 Dec 2015 13:10:01 -0600
+25831a7893afb51851992e6f766259c7f18a8659|new script and docs update|Tue, 15 Dec 2015 13:07:53 -0600|Tue, 15 Dec 2015 13:07:53 -0600
+6e22d0afbba7f87e8f8c000ba2c4669c036acb4d|update docs|Tue, 15 Dec 2015 11:55:45 -0600|Tue, 15 Dec 2015 11:55:45 -0600
+dc32dfe87fd6ff3721019c003a29f27d700fa5ef|update docs and  fix cpm-efk|Tue, 15 Dec 2015 10:53:49 -0600|Tue, 15 Dec 2015 10:53:49 -0600
+fccbcab9542fa792623ef2a27f616f4ebcd4e23c|update efk build|Tue, 15 Dec 2015 08:38:50 -0600|Tue, 15 Dec 2015 08:38:50 -0600
+c11bb5e703f6039cf81ab86922302a4f9f2cc933|update docs|Mon, 14 Dec 2015 17:43:43 -0600|Mon, 14 Dec 2015 17:43:43 -0600
+f2bb7a5c42494d868f4a6a6c17a5914e6e739a8d|update docs|Mon, 14 Dec 2015 13:01:12 -0600|Mon, 14 Dec 2015 13:01:12 -0600
+126bac4a9f6323ebd5ebfa7c699acb07bd3d0275|update docs|Mon, 14 Dec 2015 13:00:38 -0600|Mon, 14 Dec 2015 13:00:38 -0600
+0fd318a58782920ec76c45ab4cd1490c7a5f551f|update docs|Mon, 14 Dec 2015 12:45:54 -0600|Mon, 14 Dec 2015 12:45:54 -0600
+720793029fef0c3236a2de22d8a8d2bc44b1fd2d|update docs|Mon, 14 Dec 2015 12:45:14 -0600|Mon, 14 Dec 2015 12:45:14 -0600
+59272412bcc1e341a7b6c800ff7d8f923b37776e|update doc|Mon, 14 Dec 2015 09:55:36 -0600|Mon, 14 Dec 2015 09:55:36 -0600
+df26dd072052c8e660cc28c074f13ca7149385d3|update docs|Mon, 14 Dec 2015 09:53:39 -0600|Mon, 14 Dec 2015 09:53:39 -0600
+f22a654d3f235a9b789bed3940821e9749c69506|update doc|Mon, 14 Dec 2015 09:51:42 -0600|Mon, 14 Dec 2015 09:51:42 -0600
+1a52c7abcfe91c9c7bdc471e0479d2fee19e5982|update doc|Mon, 14 Dec 2015 09:50:46 -0600|Mon, 14 Dec 2015 09:50:46 -0600
+ff82f7dd5799c23687e7790356d0aa7e57d62353|update docs|Mon, 14 Dec 2015 09:48:45 -0600|Mon, 14 Dec 2015 09:48:45 -0600
+0c6df9e8c4d0f37ab3208654a7b04f36d2680664|update docs|Mon, 14 Dec 2015 09:05:07 -0600|Mon, 14 Dec 2015 09:05:07 -0600
+9788fd8dabf5367e0c55ce08c5740fea852a0b56|update docs|Fri, 11 Dec 2015 17:00:31 -0500|Fri, 11 Dec 2015 17:00:31 -0500
+ea06357b6b21f170d600b8bea8eb8a6ac48fd6fe|new docs|Fri, 11 Dec 2015 16:51:35 -0500|Fri, 11 Dec 2015 16:51:35 -0500
+c1b95a87c90fbcb7fe90b197e8ab1c898a67deba|new html docs|Fri, 11 Dec 2015 12:31:30 -0600|Fri, 11 Dec 2015 12:31:30 -0600
+e2101fc63c75d1dd363879e506f9fc15db62e6c4|last cut of efk logging changes|Thu, 10 Dec 2015 16:00:50 -0600|Thu, 10 Dec 2015 16:00:50 -0600
+dfc2165827a8bcbe28cc81ee65456c950da404ae|more efk work|Wed, 9 Dec 2015 17:06:46 -0600|Wed, 9 Dec 2015 17:06:46 -0600
+6cd7f9416550309250768c272196b876b44e870d|log stuff|Tue, 8 Dec 2015 17:38:03 -0600|Tue, 8 Dec 2015 17:38:03 -0600
+8005a68d6475df9b045961ae2ff7590a5dc184e4|stuff|Tue, 8 Dec 2015 17:37:01 -0600|Tue, 8 Dec 2015 17:37:01 -0600
+51cd7173b2209cfb036eb0aabb5bf02e9f838a8c|test efk files for log aggregation|Tue, 8 Dec 2015 17:35:04 -0600|Tue, 8 Dec 2015 17:35:04 -0600
+9440c88a36fdd4a6d9f112a76c703b442eb379bd|unit test for login|Fri, 4 Dec 2015 16:02:38 -0600|Fri, 4 Dec 2015 16:02:38 -0600
+08925cc70d51ae7e8809b174159f99e918467d67|forgot to add this file|Fri, 4 Dec 2015 14:20:37 -0600|Fri, 4 Dec 2015 14:20:37 -0600
+2230182dc93f579e23924cda3217506a2f8aec05|removed Schedule tab from pgpool container types|Fri, 4 Dec 2015 14:02:28 -0600|Fri, 4 Dec 2015 14:02:28 -0600
+5e7ac1522ac8f80d44bad32c0389d9070aa90ebf|fix bug in cpu and mem collection|Fri, 4 Dec 2015 11:04:12 -0600|Fri, 4 Dec 2015 11:04:12 -0600
+2737208a23f87fd3886296e06d08f0c80fbbf2ad|add rest of delete task status logic|Fri, 4 Dec 2015 09:44:36 -0600|Fri, 4 Dec 2015 09:44:36 -0600
+33f9b9381998b80bd2d90823a5de506d17b02fb0|update taskstatus elapsed time formatting|Wed, 2 Dec 2015 15:01:04 -0600|Wed, 2 Dec 2015 15:01:04 -0600
+ea3fc97dbb6186692775c6582147a6ebf1e1b5dd|changes required to get history page refactored and also get restore working|Wed, 2 Dec 2015 14:05:22 -0600|Wed, 2 Dec 2015 14:05:22 -0600
+3b9e17b1b6980be330e0106f0f8da3bbb1fe96e1|fix server containers page and processing|Tue, 1 Dec 2015 15:49:19 -0600|Tue, 1 Dec 2015 15:49:19 -0600
+6d5849fcad4be37bd56424e1407aecb01f785fff|fix server ip labels in UI to  just be address not port|Tue, 1 Dec 2015 09:53:46 -0600|Tue, 1 Dec 2015 09:53:46 -0600
+5cb192ca2b2b5fcb57bc9e4606423cc2cb9fad20|fix in how template for standalone replication was including domain names in pg_hba.conf|Tue, 1 Dec 2015 09:31:04 -0600|Tue, 1 Dec 2015 09:31:04 -0600
+a20d9ef68fac99b76cac34d9e4e316fd7ca0303d|renamed restore job for backrest restore, created shell for basebackup restore job|Mon, 30 Nov 2015 16:44:42 -0600|Mon, 30 Nov 2015 16:44:42 -0600
+009ef7c90bc8c24443eba5c4279eac5701b40960|added serverip to the taskschedule table and related pages|Mon, 30 Nov 2015 16:07:33 -0600|Mon, 30 Nov 2015 16:07:33 -0600
+c2e482542fa3758287584f687596f8ac17b328bb|add new restore UI parts|Fri, 27 Nov 2015 17:33:02 -0600|Fri, 27 Nov 2015 17:33:02 -0600
+28c859fea0ec7e1c5664a07ecf43af9ede194286|update developer  setup docs|Fri, 27 Nov 2015 13:44:34 -0600|Fri, 27 Nov 2015 13:44:34 -0600
+35427a9e89d02e23c2d27ef42cef90550442a179|fix cpm-promdash copy of sqlite config file copy|Fri, 27 Nov 2015 11:57:20 -0600|Fri, 27 Nov 2015 11:57:20 -0600
+f7f60dd24fdf66c097507c339c38d3c0cb354c67|update prometheus.yml to use external_label instead of label due to new release|Fri, 27 Nov 2015 11:46:41 -0600|Fri, 27 Nov 2015 11:46:41 -0600
+1a869b94133ca7b445fb0bc24216b10bce310503|add local host port mapping to cpm-server start script|Fri, 27 Nov 2015 11:02:50 -0600|Fri, 27 Nov 2015 11:02:50 -0600
+87417c2f3c1836f278961a206e8ec95abcb6cdb4|update docs|Wed, 25 Nov 2015 16:27:15 -0600|Wed, 25 Nov 2015 16:27:15 -0600
+e6adf9431cde939f2ea046f9b96a48d1418725f4|update docs|Wed, 25 Nov 2015 15:49:14 -0600|Wed, 25 Nov 2015 15:49:14 -0600
+aace7b4ffff22b0c41c566a9e907ac9926f521ba|update docs|Wed, 25 Nov 2015 15:48:40 -0600|Wed, 25 Nov 2015 15:48:40 -0600
+ea9daff66c7cc87d72f3474bfefab7d82492a379|fix skybridge start script|Wed, 25 Nov 2015 15:46:35 -0600|Wed, 25 Nov 2015 15:46:35 -0600
+ca9d09b8b6e5d11a048e43358bcd1584ac470986|update deps|Wed, 25 Nov 2015 15:30:11 -0600|Wed, 25 Nov 2015 15:30:11 -0600
+a9a7050e1da6900b7f5bea1b18338eddf9c017f5|fix user edit link|Fri, 20 Nov 2015 15:56:02 -0600|Fri, 20 Nov 2015 15:56:02 -0600
+5a8435216f0261fdd2f5f56b22482ebfc347773b|attempt to fix transition after createing new database|Mon, 16 Nov 2015 18:27:50 -0600|Mon, 16 Nov 2015 18:27:50 -0600
+9f67dc0824eb8730bb953faed2d77f74f085ba6b|fix transition after new database is created|Mon, 16 Nov 2015 17:51:24 -0600|Mon, 16 Nov 2015 17:51:24 -0600
+ee561d22fa9bd55ac4a70031d4b79333ddef5efa|attempt to fix sort ordering of tree nodes|Mon, 16 Nov 2015 16:06:29 -0600|Mon, 16 Nov 2015 16:06:29 -0600
+b9d973cb41efb81602e8b4fd875e7406eae2c454|fix ui layout|Mon, 16 Nov 2015 14:49:09 -0600|Mon, 16 Nov 2015 14:49:09 -0600
+bebb2d91a81fa1347e845a057b441681e4ca7c67|fix URLs and bug in proxy logic|Fri, 13 Nov 2015 11:04:26 -0600|Fri, 13 Nov 2015 11:04:26 -0600
+3ed628da9ccc4c877066126f4021e1af9dc8eb7b|bump version of tree control to 0.2.21|Thu, 12 Nov 2015 15:37:22 -0600|Thu, 12 Nov 2015 15:37:22 -0600
+c236f0fcaec308e975f465f106b0ec335fb7e914|replace inhouse guid generator with github.com/rs/xid|Thu, 12 Nov 2015 15:08:05 -0600|Thu, 12 Nov 2015 15:08:05 -0600
+b24f5f0a2d37f9cd994aea6045491bb73b66435f|update docs|Thu, 12 Nov 2015 08:19:17 -0600|Thu, 12 Nov 2015 08:19:17 -0600
+2a8b5c4a343d967d1a1bdc571460cb5c7043c13d|update docs|Tue, 10 Nov 2015 17:15:13 -0600|Tue, 10 Nov 2015 17:15:13 -0600
+064ec47b477ac19ee494793921b4581d8f6464f6|last of swarm integration work|Tue, 10 Nov 2015 16:03:50 -0600|Tue, 10 Nov 2015 16:03:50 -0600
+7089b30e046a8f4b5f58d6ef634c712821ba4207|more swarm integration with monitoring|Mon, 9 Nov 2015 16:21:22 -0600|Mon, 9 Nov 2015 16:21:22 -0600
+f75c411abb333d0424d6bae83ae2027132417340|more swarm integration work|Mon, 9 Nov 2015 15:19:37 -0600|Mon, 9 Nov 2015 15:19:37 -0600
+60413cfcd0cfbdbbe86d14fbd70d4ef8bec3a069|update swarm logic|Fri, 6 Nov 2015 16:13:08 -0600|Fri, 6 Nov 2015 16:13:08 -0600
+86d32e01ca43f92a3794d58269d3e54f99ad1886|more swarm integration|Fri, 6 Nov 2015 14:55:05 -0600|Fri, 6 Nov 2015 14:55:05 -0600
+f51d8b71738de849945ff7d50702e36ed59d55dd|more swarm integration fixes|Fri, 6 Nov 2015 10:48:59 -0600|Fri, 6 Nov 2015 10:48:59 -0600
+48b51325965af6dce4a3a2ba4d82322ede14dc96|docs cleanup and more swarm integration|Thu, 5 Nov 2015 09:23:49 -0600|Thu, 5 Nov 2015 09:23:49 -0600
+b16f9b3adc232fba2bbe8bc6441887715c002906|first cut of swarm api code|Tue, 3 Nov 2015 16:53:26 -0600|Tue, 3 Nov 2015 16:53:26 -0600
+547fbb168e197798bf0872483ce7088e44fed742|update swarm doc|Tue, 3 Nov 2015 11:16:37 -0600|Tue, 3 Nov 2015 11:16:37 -0600
+9d9ae6b474eb2122d4ca8b102eb39cb6536fe7e8|first cut at swarm doc|Mon, 2 Nov 2015 16:49:17 -0600|Mon, 2 Nov 2015 16:49:17 -0600
+935a9a1b0a4af2ac3402676cfe61da5db6ec7d61|update docs|Fri, 30 Oct 2015 16:40:33 -0500|Fri, 30 Oct 2015 16:40:33 -0500
+110a6742523238a4cece7f1277b0004e487fceff|update docs|Fri, 30 Oct 2015 16:28:52 -0500|Fri, 30 Oct 2015 16:28:52 -0500
+a9b886661c2d49011eb5c69abf646c67a3e852ef|update godocs|Tue, 27 Oct 2015 14:52:11 -0500|Tue, 27 Oct 2015 14:52:11 -0500
+03170753780ed266e9b0fb85c1f87dc7dc31d376|update godocs|Mon, 26 Oct 2015 12:03:23 -0500|Mon, 26 Oct 2015 12:03:23 -0500
+e53342aade4e6c479c32de844a3c2c88df9acd80|add package docs|Mon, 26 Oct 2015 11:17:02 -0500|Mon, 26 Oct 2015 11:17:02 -0500
+c75b404967cdc86940e52657e580277ede414820|fix things after refactoring build|Wed, 21 Oct 2015 13:59:15 -0500|Wed, 21 Oct 2015 13:59:15 -0500
+78ccb5b1df3bf366c1d6e30a806dc706648967ec|refactor out server|Wed, 21 Oct 2015 10:49:58 -0500|Wed, 21 Oct 2015 10:49:58 -0500
+da038c6385f691857d58feb658f7b7a2bd033d9a|refactor build locations and makefiles|Wed, 21 Oct 2015 10:00:27 -0500|Wed, 21 Oct 2015 10:00:27 -0500
+32872e99afb6496e4f10f6f5bbd0944c141a5d60|added settings description|Tue, 20 Oct 2015 16:15:04 -0500|Tue, 20 Oct 2015 16:15:04 -0500
+235cbd3309fed47f2b89c081aab23198ace5f948|update docs|Fri, 16 Oct 2015 16:38:54 -0500|Fri, 16 Oct 2015 16:38:54 -0500
+dcfb869f51b943b955ec3a86f47c6f6d248870d4|update docs|Fri, 16 Oct 2015 15:45:36 -0500|Fri, 16 Oct 2015 15:45:36 -0500
+e4cfc9b286a1986d14510bbf035d924d73ea570b|add keys to be copied as part of run|Fri, 16 Oct 2015 15:26:48 -0500|Fri, 16 Oct 2015 15:26:48 -0500
+646fcf4b2cfde93bd6e12e49fd956465d0e2d8bf|reorg run script|Fri, 16 Oct 2015 15:11:53 -0500|Fri, 16 Oct 2015 15:11:53 -0500
+cd492eadabcf84996aa3442f721c429436498f3a|replace foo with cpm-serve|Fri, 16 Oct 2015 14:45:44 -0500|Fri, 16 Oct 2015 14:45:44 -0500
+39f69eef4054e94afeb96eb63c211b6f58e7dacd|forgot about cpm-server in makefile|Fri, 16 Oct 2015 14:42:23 -0500|Fri, 16 Oct 2015 14:42:23 -0500
+4fed0af4dca027e0dfecda2ef851fc1d0e3f0c26|update run script|Fri, 16 Oct 2015 14:39:32 -0500|Fri, 16 Oct 2015 14:39:32 -0500
+d6aa2d65280b57ec216e58f83d73f6e66bd5305b|add skybridge run script|Fri, 16 Oct 2015 14:23:19 -0500|Fri, 16 Oct 2015 14:23:19 -0500
+7f1ad5924a2fbc606a6e9d278eae2b45e43bed04|fix cpm-prometheus makefile to create the local config dir|Fri, 16 Oct 2015 14:14:03 -0500|Fri, 16 Oct 2015 14:14:03 -0500
+d9342ea021d0c644b41b4fe20120722cde11b487|update godeps|Fri, 16 Oct 2015 13:20:35 -0500|Fri, 16 Oct 2015 13:20:35 -0500
+c0c1d27a303c1444e359d5d443b31e206e54ae08|update docs|Fri, 16 Oct 2015 11:16:23 -0500|Fri, 16 Oct 2015 11:16:23 -0500
+b4297e3e4edac0c60480e873da38d7396071054e|remove unused or redundant sbin scripts|Fri, 16 Oct 2015 10:20:18 -0500|Fri, 16 Oct 2015 10:20:18 -0500
+ee1b93861185120f406a6294c74d39d5c9bc5aa4|fix collect to use new cpm-server image, remove redundant sbin scripts after cpm-server refactor, add refresh button on schedule history page|Fri, 16 Oct 2015 09:49:41 -0500|Fri, 16 Oct 2015 09:49:41 -0500
+96d5b8eac5e554b2cea920cf2d59df41499cd959|refactor ping logic|Thu, 15 Oct 2015 16:37:20 -0500|Thu, 15 Oct 2015 16:37:20 -0500
+30a96ba4cbe2d2702e1aba048d253c6eacc1b29c|initial cpm-server image|Thu, 15 Oct 2015 14:45:47 -0500|Thu, 15 Oct 2015 14:45:47 -0500
+264ad3c41f4289c2d61f079577cb3419995c853d|add sort order to the tree|Wed, 14 Oct 2015 17:13:18 -0500|Wed, 14 Oct 2015 17:13:18 -0500
+4899ce941cd03d0e9868d148fb3daa01f4a80fee|update|Wed, 14 Oct 2015 16:44:12 -0500|Wed, 14 Oct 2015 16:44:12 -0500
+052a6804ae27bfe7ddc6e01000024fe622f1d808|add readme to bin|Wed, 14 Oct 2015 16:43:23 -0500|Wed, 14 Oct 2015 16:43:23 -0500
+e97906a28167cf83ec8443521fb2e97553bc7349|add readme to bin|Wed, 14 Oct 2015 16:42:54 -0500|Wed, 14 Oct 2015 16:42:54 -0500
+877d4792599eaf3b19e72c9c2963b5ef80a6d914|add readme to bin|Wed, 14 Oct 2015 16:42:23 -0500|Wed, 14 Oct 2015 16:42:23 -0500
+9fcb3a7bb0a881ca7b903d538698da3abd096db0|add readme to bin|Wed, 14 Oct 2015 16:41:44 -0500|Wed, 14 Oct 2015 16:41:44 -0500
+63892cfe339a7961250196cd1a9904421dfb2d40|add readme to bin|Wed, 14 Oct 2015 16:40:51 -0500|Wed, 14 Oct 2015 16:40:51 -0500
+85e4ddcd6a1d3366225ddcd332e6ae9aee7561ac|add readme to bin|Wed, 14 Oct 2015 16:39:52 -0500|Wed, 14 Oct 2015 16:39:52 -0500
+786563e6a8287ec841d6ecac6215195ec4c45e17|removed bashprofile from bin dir|Wed, 14 Oct 2015 16:38:45 -0500|Wed, 14 Oct 2015 16:38:45 -0500
+31cdafc9dc893398cd92104d926cbe4b9d98e160|add readme|Wed, 14 Oct 2015 16:38:15 -0500|Wed, 14 Oct 2015 16:38:15 -0500
+7f1d5ff91bb9ac4978962b19a88a8fbdef69879a|add README|Wed, 14 Oct 2015 16:35:49 -0500|Wed, 14 Oct 2015 16:35:49 -0500
+ee809839585ec7c356ff3b9928a44f56d5b018fd|fix cpm-node Dockerfile|Wed, 14 Oct 2015 16:30:13 -0500|Wed, 14 Oct 2015 16:30:13 -0500
+d0477e7cfbe5f29c302232413d222f57571ca9e9|remove cpm-base after refactor work|Wed, 14 Oct 2015 16:24:52 -0500|Wed, 14 Oct 2015 16:24:52 -0500
+fd6ab1331df9bd61daf98fdf3949b339647aa711|add bin dir|Wed, 14 Oct 2015 16:07:27 -0500|Wed, 14 Oct 2015 16:07:27 -0500
+ba9a977cd5d639cc9340b333e930ce2d4cf22fb3|add bin dir|Wed, 14 Oct 2015 16:05:00 -0500|Wed, 14 Oct 2015 16:05:00 -0500
+1899495d6939c78c72439704bbf68c55059b6710|add bin dir|Wed, 14 Oct 2015 16:04:27 -0500|Wed, 14 Oct 2015 16:04:27 -0500
+aa0afb48a024764e8333d47e008ff01ccb5b0587|add bin dir|Wed, 14 Oct 2015 15:56:58 -0500|Wed, 14 Oct 2015 15:56:58 -0500
+c915001708ae4eb771b9d47e8f34729df32bd325|add bin dir|Wed, 14 Oct 2015 15:52:55 -0500|Wed, 14 Oct 2015 15:52:55 -0500
+da45d3c4e7061ff5bd8ae3c5cd38d8eca7cbc223|add bin dir|Wed, 14 Oct 2015 15:52:24 -0500|Wed, 14 Oct 2015 15:52:24 -0500
+51c42c7ce0bffd0288f3acbda9c9545c46e13a10|add bin dir|Wed, 14 Oct 2015 15:51:38 -0500|Wed, 14 Oct 2015 15:51:38 -0500
+30de73af495bc9d06195dd3119954637d824eebc|add bin dir to cpm-admin build|Wed, 14 Oct 2015 15:41:03 -0500|Wed, 14 Oct 2015 15:41:03 -0500
+0dbc65b4ff4b8eda2839c2e33fe617c98d35dfa1|refactor dockerfile and makefile for cpm-restore-job|Wed, 14 Oct 2015 11:36:49 -0500|Wed, 14 Oct 2015 11:36:49 -0500
+c4d3c82b6fd2bbc7d7bee9d8f43813e161734312|refactor cpm-node-proxy dockerfile and makefile|Wed, 14 Oct 2015 09:27:14 -0500|Wed, 14 Oct 2015 09:27:14 -0500
+da59f56f9c136a1159c09f9a8d6b5b6c27284171|refactor cpm-pgpool dockerile and makefile|Tue, 13 Oct 2015 17:48:18 -0500|Tue, 13 Oct 2015 17:48:18 -0500
+098f0fc6d2cbf394bd2b263113048bb9cb6f02f7|refactor|Tue, 13 Oct 2015 17:09:01 -0500|Tue, 13 Oct 2015 17:09:01 -0500
+8ba2c4c90fcb3576af50851c3418aea450d77d6d|refactor cpm-node dockerfile and makefile|Tue, 13 Oct 2015 17:07:24 -0500|Tue, 13 Oct 2015 17:07:24 -0500
+9188a91807189f98dd67995b0d8c435c71503a07|refactor dockerfile and makefile|Tue, 13 Oct 2015 15:50:50 -0500|Tue, 13 Oct 2015 15:50:50 -0500
+5bbee94526543fdf72804c0b49b6cef834875016|refactor cpm-backup-job dockerfile and makefile|Tue, 13 Oct 2015 15:34:30 -0500|Tue, 13 Oct 2015 15:34:30 -0500
+aeff0c9ce7c603426cbe2b101fa3c0fc9fc4761a|fix cpm Makefile|Tue, 13 Oct 2015 14:37:32 -0500|Tue, 13 Oct 2015 14:37:32 -0500
+82a6ee4c6009783e6a6d51e69f8fabaec97c721b|added yum clean to cpm-admin|Tue, 13 Oct 2015 14:35:57 -0500|Tue, 13 Oct 2015 14:35:57 -0500
+95dc2d96cffeb9d11bc7d9bacc6ac349ad649ec0|add missing|Tue, 13 Oct 2015 14:16:44 -0500|Tue, 13 Oct 2015 14:16:44 -0500
+e4e3b87b8e553b883136b9cadd8075232ec3a389|add missing file|Tue, 13 Oct 2015 14:16:18 -0500|Tue, 13 Oct 2015 14:16:18 -0500
+5bc4c8b4898bcf795c65621e5666f753c6a3147d|add missing file|Tue, 13 Oct 2015 14:16:01 -0500|Tue, 13 Oct 2015 14:16:01 -0500
+871070eb14ab8bf61a31608674adebcb09fe7e74|add types|Tue, 13 Oct 2015 14:15:19 -0500|Tue, 13 Oct 2015 14:15:19 -0500
+05299bfd99d5df3cf62e178438d7d68114511568|refactor cpm-admin dockerfile and makefile|Tue, 13 Oct 2015 14:13:47 -0500|Tue, 13 Oct 2015 14:13:47 -0500
+1960b6d1518c0211fa2ad9dd1bef0d185ada4220|refactored cpm-task dockerfile setup|Tue, 13 Oct 2015 10:59:37 -0500|Tue, 13 Oct 2015 10:59:37 -0500
+7c790ff54990f57bb9bd92afe10fa818e3130911|last of restore work|Fri, 9 Oct 2015 11:41:37 -0500|Fri, 9 Oct 2015 11:41:37 -0500
+cc01c9731f01bc43d3eed37d9ecc9197773547db|more restore changes|Thu, 8 Oct 2015 16:55:57 -0500|Thu, 8 Oct 2015 16:55:57 -0500
+1cbbed48f85305ca5a4d9ccc610d784a4e83424e|first part of restore job integration|Wed, 7 Oct 2015 17:25:40 -0500|Wed, 7 Oct 2015 17:25:40 -0500
+139eca6c018aa8671316496f5ea093f2e29f7fda|convert provision to POST and convert cpm-node to run as root|Tue, 6 Oct 2015 13:30:14 -0500|Tue, 6 Oct 2015 13:30:14 -0500
+e45bd18a8c8995a46b77b3d34b43ce592fbbf4f7|backend of backrest restore job working|Fri, 2 Oct 2015 08:26:32 -0500|Fri, 2 Oct 2015 08:26:32 -0500
+9a3d9a3cf382154b49344c37ebc8810e935e735a|fixes to backrestrestore|Thu, 1 Oct 2015 09:53:55 -0500|Thu, 1 Oct 2015 09:53:55 -0500
+0c48d565eaf80d65429bd87ebb8f540624df3c87|first set of backrest restore files|Wed, 30 Sep 2015 15:58:18 -0500|Wed, 30 Sep 2015 15:58:18 -0500
+d5dbe9e8ead599df3dfbaee21803d064b820f933|update docs to 0.9.6|Mon, 28 Sep 2015 09:06:00 -0500|Mon, 28 Sep 2015 09:06:00 -0500
+4e61d04beaec8d8267152e8ccc212d90deed4277|cleanup proxy UI|Mon, 28 Sep 2015 09:04:11 -0500|Mon, 28 Sep 2015 09:04:11 -0500
+1e47d01cb77ff837e8a55b8d84a2650e1d17ac6d|proxy fixes|Fri, 25 Sep 2015 17:29:50 -0500|Fri, 25 Sep 2015 17:29:50 -0500
+1e822880544f1c9c7aa7e9396705d27799b7c1db|move GetVersion to the right place|Fri, 25 Sep 2015 14:07:20 -0500|Fri, 25 Sep 2015 14:07:20 -0500
+b64f5eb379692aa86d8745c2236751f192d404e9|fix badger refresh|Fri, 25 Sep 2015 13:55:40 -0500|Fri, 25 Sep 2015 13:55:40 -0500
+02c9e333d8032e3706386768bd3c7864274e3017|update|Fri, 25 Sep 2015 12:18:49 -0500|Fri, 25 Sep 2015 12:18:49 -0500
+e71e4c7b5a1f3d64bea0770f924650fca5d3b849|make sleep times configurable|Fri, 25 Sep 2015 11:20:38 -0500|Fri, 25 Sep 2015 11:20:38 -0500
+42ec66872de88e52f0ea7b68e57b34bcf2c9a5a8|clean up error messages|Thu, 24 Sep 2015 17:19:01 -0500|Thu, 24 Sep 2015 17:19:01 -0500
+ac0dc129d26d75b6b3987715786bf31b934de7d5|readded|Thu, 24 Sep 2015 15:25:35 -0500|Thu, 24 Sep 2015 15:25:35 -0500
+06658e63d65babdab8c90e8210970dc19a50fe4d|rename backup to task|Thu, 24 Sep 2015 15:14:42 -0500|Thu, 24 Sep 2015 15:14:42 -0500
+cd4fcc4945867d9866f18ddb44d90070ba872dfd|updated ping code|Mon, 21 Sep 2015 16:46:44 -0500|Mon, 21 Sep 2015 16:46:44 -0500
+57283143bd1f68c17ef53962830b19ec7a61d3a3|fix admin_url to have a default value|Mon, 21 Sep 2015 16:38:46 -0500|Mon, 21 Sep 2015 16:38:46 -0500
+3d3c1be50bc82643ff2a113482d3f6cf8ac06e93|add start and stop to cluster|Mon, 21 Sep 2015 16:34:43 -0500|Mon, 21 Sep 2015 16:34:43 -0500
+c2a4400e273dafb638bdfd84feb5bc6ec9e7f270|fix users add to refresh users list after an add|Mon, 21 Sep 2015 10:41:16 -0500|Mon, 21 Sep 2015 10:41:16 -0500
+08c6d14e4c178cec5d0c7363cae88de5b7de499c|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Mon, 21 Sep 2015 10:21:08 -0500|Mon, 21 Sep 2015 10:21:08 -0500
+74adc83fac3ba1b48685172003531f55284f7b5c|convert backup to use REST api|Mon, 21 Sep 2015 10:21:01 -0500|Mon, 21 Sep 2015 10:21:01 -0500
+6ec2ec73403c6bdd711210e5b3f868825d373400|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Wed, 16 Sep 2015 15:36:00 -0400|Wed, 16 Sep 2015 15:36:00 -0400
+fede5d5a882a01f372517a7b8607b33fa5040218|fix server add duplicate error handling|Tue, 15 Sep 2015 11:03:59 -0500|Tue, 15 Sep 2015 11:03:59 -0500
+994ff8f7a6cc17c926d5b93727edd7903bc29980|fix pgpool startup bug|Tue, 15 Sep 2015 10:19:55 -0500|Tue, 15 Sep 2015 10:19:55 -0500
+29a8fe5e278a11135a6adff3a526b91367b60428|fix gotocontainer URL|Tue, 15 Sep 2015 09:49:57 -0500|Tue, 15 Sep 2015 09:49:57 -0500
+f187922e52494f61147ac7943d4bfad779611dd7|fix pgpool ui display in containers listing|Tue, 15 Sep 2015 09:48:40 -0500|Tue, 15 Sep 2015 09:48:40 -0500
+9b01dc062a2eb14bbf26b7789734a0825a338a53|fix cluster standby replication logic, part 1|Mon, 14 Sep 2015 17:22:17 -0500|Mon, 14 Sep 2015 17:22:17 -0500
+34b3febbd64a6f1c3e36732b3dbc3deaf6c3cb5a|attempt to fix pgbadger refresh and caching|Mon, 14 Sep 2015 09:35:06 -0500|Mon, 14 Sep 2015 09:35:06 -0500
+7f3b27089434e44e9be7fd36f5fbd9dc2cdc36ae|relocation loader.go|Mon, 14 Sep 2015 08:32:18 -0500|Mon, 14 Sep 2015 08:32:18 -0500
+ef0b4a4bcae412b5bc443eeb250943bdcf4778e0|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Mon, 14 Sep 2015 09:20:44 -0400|Mon, 14 Sep 2015 09:20:44 -0400
+41417edfc2e21e76a791ef1e1441fb8edfb0426b|update|Mon, 14 Sep 2015 09:20:19 -0400|Mon, 14 Sep 2015 09:20:19 -0400
+5b6326110d3c2b85197d0bae53d12befb9d69208|turn on statement logging for badger reports|Fri, 11 Sep 2015 13:26:57 -0500|Fri, 11 Sep 2015 13:26:57 -0500
+60ea8aeb4cdc9640d81f43b8bafbd1e0eec74f8c|fix backup credentials for proxy and non-proxy|Fri, 4 Sep 2015 15:36:01 -0400|Fri, 4 Sep 2015 15:36:01 -0400
+92d1c6f9e04e2a23207ac0308517dd60595fff76|initial proxy schedule backup logic|Thu, 3 Sep 2015 17:06:31 -0400|Thu, 3 Sep 2015 17:06:31 -0400
+725e3d75135557f9a3c74fdbdc181524606e50a3|more proxy schedule logic|Thu, 3 Sep 2015 15:30:28 -0400|Thu, 3 Sep 2015 15:30:28 -0400
+4e6888c2b767d5af60d022de21645ef76d299b58|first part of proxy schedules logic|Thu, 3 Sep 2015 14:40:14 -0400|Thu, 3 Sep 2015 14:40:14 -0400
+ea0e79994552e337cbf7aa9bc1569b3f62505344|user mgmt fixes|Thu, 3 Sep 2015 14:19:37 -0400|Thu, 3 Sep 2015 14:19:37 -0400
+6aa3c0647658a5ac6b6c469e59027e22f99c898b|user mgmt logic for proxies|Thu, 3 Sep 2015 12:13:11 -0400|Thu, 3 Sep 2015 12:13:11 -0400
+09fdbbf49c2489dbbe1f48992b4b8f20bfdddf64|fix dbsize graph references|Wed, 2 Sep 2015 17:08:25 -0400|Wed, 2 Sep 2015 17:08:25 -0400
+2d4875309fc503f48f32779fda7e6fae0e2734f3|fix hyperlinks to proxies and containers|Wed, 2 Sep 2015 16:17:23 -0400|Wed, 2 Sep 2015 16:17:23 -0400
+faee59132ee7417aeb7c72159ef6e1aa436aea70|fix bug in projects tree query|Wed, 2 Sep 2015 15:33:45 -0400|Wed, 2 Sep 2015 15:33:45 -0400
+b7284f1388da8ffb140e7a1853bcd5fb0673f2ab|fix healthcheck bug|Wed, 2 Sep 2015 14:57:27 -0400|Wed, 2 Sep 2015 14:57:27 -0400
+b6bc4516c6e4b0205de0dd34a7f97bb2e10abbae|fix database size|Tue, 1 Sep 2015 16:22:15 -0400|Tue, 1 Sep 2015 16:22:15 -0400
+4b20b77a40dcfd6c0236ec0cd21a2cfc161336c4|proxy monitor logic updates|Tue, 1 Sep 2015 14:42:45 -0400|Tue, 1 Sep 2015 14:42:45 -0400
+a8606e9e45cfd005d242c7c79879cad9f2c7a3da|proxy monitoring work|Tue, 1 Sep 2015 12:19:42 -0400|Tue, 1 Sep 2015 12:19:42 -0400
+feb55c660645c2c17ace394a4af67a753972c9d9|proxy start stop logic|Tue, 1 Sep 2015 11:04:08 -0400|Tue, 1 Sep 2015 11:04:08 -0400
+b9122eb3059541277a02da4f5d2d79f888e4bd2f|add proxy container start and stop|Tue, 1 Sep 2015 10:55:42 -0400|Tue, 1 Sep 2015 10:55:42 -0400
+2b5b437ea99da33f7a8961b69668c895bccdf59d|more proxy UI logic|Mon, 31 Aug 2015 16:45:09 -0400|Mon, 31 Aug 2015 16:45:09 -0400
+d3f8cfe560185bf279961041cfd58da1aed84734|more proxy UI fixes|Mon, 31 Aug 2015 15:57:52 -0400|Mon, 31 Aug 2015 15:57:52 -0400
+cb1d86867dbfdc786239aba80951e67e5e49137c|more proxy logic for UI|Mon, 31 Aug 2015 15:12:01 -0400|Mon, 31 Aug 2015 15:12:01 -0400
+ab1264246541d8608eefab7980310502e3448742|update for proxies|Fri, 28 Aug 2015 17:28:53 -0400|Fri, 28 Aug 2015 17:28:53 -0400
+0e3e6a51018921b3fafb076e8ea6266932745eeb|proxy code|Fri, 28 Aug 2015 17:03:22 -0400|Fri, 28 Aug 2015 17:03:22 -0400
+2ebdb2853acd7ff5fbd57547c80f36feb6b100a8|proxy connection logic|Fri, 28 Aug 2015 16:49:26 -0400|Fri, 28 Aug 2015 16:49:26 -0400
+7fc54223ab8317267f1f8ab4bfa6aa82c07f2591|proxy logic|Fri, 28 Aug 2015 12:55:28 -0400|Fri, 28 Aug 2015 12:55:28 -0400
+738d7dc9ec1d864c3cf064f3bec4f97d26ee49d9|fix projects gotofirst load|Thu, 20 Aug 2015 15:25:45 -0400|Thu, 20 Aug 2015 15:25:45 -0400
+fc73208a690403a57ba4389638933b5d12115817|ui fixes|Wed, 12 Aug 2015 16:33:49 -0400|Wed, 12 Aug 2015 16:33:49 -0400
+06b020b4029a38c2bdbae1a93cbd970eb91a3c5e|fix doc|Wed, 12 Aug 2015 15:35:38 -0400|Wed, 12 Aug 2015 15:35:38 -0400
+f015743228100214f39c4a9b7c16bd0be858a38b|fix server page label|Wed, 12 Aug 2015 15:34:22 -0400|Wed, 12 Aug 2015 15:34:22 -0400
+e18bf2fd6fad804a3f2f816f2b4f9340f20ae4e2|add sample access rule|Wed, 12 Aug 2015 15:31:26 -0400|Wed, 12 Aug 2015 15:31:26 -0400
+1704f0805cdce16a45d6c092e4d32dd6160ed50a|update for 0.9.5|Mon, 27 Jul 2015 22:33:08 -0400|Mon, 27 Jul 2015 22:33:08 -0400
+5cfed3bfcfc3566985c2b2d1db224105e2090298|update docs|Mon, 27 Jul 2015 18:50:50 -0400|Mon, 27 Jul 2015 18:50:50 -0400
+05b623e5cbbd9ddb7c4c5d19051a79de861a0224|update README|Mon, 27 Jul 2015 18:49:57 -0400|Mon, 27 Jul 2015 18:49:57 -0400
+70f85dd233ccb78ab519dc3a3fee1ebdb1eebdfb|update readme|Mon, 27 Jul 2015 18:48:58 -0400|Mon, 27 Jul 2015 18:48:58 -0400
+d739bb13a80bb4c98dff7358dc2dfc8d595f3a32|initial|Mon, 27 Jul 2015 17:17:58 -0400|Mon, 27 Jul 2015 17:17:58 -0400
+e1f21db9471215178c6b97e7626fb6d3074e19b3|initial|Mon, 27 Jul 2015 17:15:24 -0400|Mon, 27 Jul 2015 17:15:24 -0400
+22c0cff51ed9990fedbf5a8b0e2f3f95b69cb17b|initial|Mon, 27 Jul 2015 17:14:47 -0400|Mon, 27 Jul 2015 17:14:47 -0400
+4cf1ea3bf125abeb077ba56ae8721fa703846ae7|removed older v2 user interface|Mon, 27 Jul 2015 08:33:40 -0400|Mon, 27 Jul 2015 08:33:40 -0400
+3c58bdfa808661f100c085431628347913485e31|up|Fri, 24 Jul 2015 15:23:45 -0400|Fri, 24 Jul 2015 15:23:45 -0400
+49d99f9e1b0941a7c95c9c78ffff8d76a91b3f81|up|Fri, 24 Jul 2015 15:23:17 -0400|Fri, 24 Jul 2015 15:23:17 -0400
+8fb302ba622a4eb1a1d644b782289b4a922c9039|update|Fri, 24 Jul 2015 14:34:34 -0400|Fri, 24 Jul 2015 14:34:34 -0400
+9a643c79c84805a4bf125fecc7d4f50a272c012e|initial|Fri, 24 Jul 2015 14:33:06 -0400|Fri, 24 Jul 2015 14:33:06 -0400
+d36a05dbfe0d1b67b36d5e7dace5d82be79368d5|finish access rules initial work|Wed, 22 Jul 2015 20:14:04 -0400|Wed, 22 Jul 2015 20:14:04 -0400
+7301f8de8068bf78b256dd13b4fb1d48aad18e4f|remove kube logic|Wed, 22 Jul 2015 11:24:16 -0400|Wed, 22 Jul 2015 11:24:16 -0400
+9e2321f7a413c7814de91961327c41a6a74ae4c9|removed kube logic|Tue, 21 Jul 2015 21:36:27 -0400|Tue, 21 Jul 2015 21:36:27 -0400
+0dd5522df9b26f0f2079d6b5b48d036c46d5e657|refactor db connection handling and more access rule code|Fri, 17 Jul 2015 00:04:56 -0400|Fri, 17 Jul 2015 00:04:56 -0400
+64f28c10833f0be8d3137ed6e652c16f417cae46|add more logic for access rules function|Thu, 16 Jul 2015 14:37:14 -0400|Thu, 16 Jul 2015 14:37:14 -0400
+0d5d2980c204431122dc32132f17c673e5436928|add initial containerrules table and access to support access rules functionality|Thu, 16 Jul 2015 10:13:24 -0400|Thu, 16 Jul 2015 10:13:24 -0400
+83730dbe47cdd25e1beb79029c3521469d8b1425|increase rules column sizes|Wed, 15 Jul 2015 17:10:39 -0400|Wed, 15 Jul 2015 17:10:39 -0400
+62372f111d4a4d638a565e84e28e18df21626ce4|add first part of access rules logic, this includes just the ability to author a simple pg_hba access rule|Wed, 15 Jul 2015 17:08:31 -0400|Wed, 15 Jul 2015 17:08:31 -0400
+37f741e1ef0508370fc41db48e488f5b9e006e37|pgbadger support|Tue, 14 Jul 2015 21:52:46 -0400|Tue, 14 Jul 2015 21:52:46 -0400
+9dd90075b2e68799e1ab4ef7c50b99ef2ed86f2e|add pg_stat_statements support|Tue, 14 Jul 2015 15:40:21 -0400|Tue, 14 Jul 2015 15:40:21 -0400
+291648caac4d0d1a2904f335acc55a7a14744f1d|replace cpmnodeagent with cpmcontainerapi|Mon, 13 Jul 2015 17:56:14 -0400|Mon, 13 Jul 2015 17:56:14 -0400
+be24617114e04aecd9cff434aaaa529f0a8092e9|update docs|Thu, 2 Jul 2015 20:26:32 -0400|Thu, 2 Jul 2015 20:26:32 -0400
+47af3007e01b88b63214ed099449470cf35ef4b8|fix prom paths|Thu, 2 Jul 2015 20:17:48 -0400|Thu, 2 Jul 2015 20:17:48 -0400
+476bdbab28c7ea6f0011cca37f22893364070add|updated docs|Thu, 2 Jul 2015 18:45:57 -0400|Thu, 2 Jul 2015 18:45:57 -0400
+f8361bc3067a26be095200ccd92e10da8d420194|up|Thu, 2 Jul 2015 15:55:44 -0400|Thu, 2 Jul 2015 15:55:44 -0400
+f0742e92a43bdfaef908ebad19c5cc38c9d6317e|update|Thu, 2 Jul 2015 14:17:56 -0400|Thu, 2 Jul 2015 14:17:56 -0400
+8f333e566fd0b83bcce0aec0b8d708735cd3053b|initial|Thu, 2 Jul 2015 14:05:54 -0400|Thu, 2 Jul 2015 14:05:54 -0400
+15b91594a521fa8b3acf319e204c7ba80ff32f54|initial|Thu, 2 Jul 2015 11:55:19 -0400|Thu, 2 Jul 2015 11:55:19 -0400
+700ba764a757448c4f138ca9b3cfc8f36e6f47cd|fix install script|Thu, 2 Jul 2015 11:37:55 -0400|Thu, 2 Jul 2015 11:37:55 -0400
+946fd64ef884ec150c348ebbaabb4a632a54a84f|add initial promdash database|Thu, 2 Jul 2015 10:09:03 -0400|Thu, 2 Jul 2015 10:09:03 -0400
+8a5effcd1ad8ddc099b0000a85d396073ee2c51a|refactored cpmserveragent...now a REST service called cpmserverapi, also updated all references to it|Thu, 2 Jul 2015 00:02:34 -0400|Thu, 2 Jul 2015 00:02:34 -0400
+d8f2f38b01ccd2cf94d694d07dcec331ef1511ca|fix failover logic|Tue, 30 Jun 2015 17:44:40 -0400|Tue, 30 Jun 2015 17:44:40 -0400
+9879ee64ee32331f064aeba4513ff62847961b5b|added scale up function for cluster|Tue, 30 Jun 2015 13:58:51 -0400|Tue, 30 Jun 2015 13:58:51 -0400
+be4eebc756d02b2aaaaf90df1a4c75f9ef1642fb|added container dbsize graph and removed influxdb and grafana images|Mon, 29 Jun 2015 23:29:51 -0400|Mon, 29 Jun 2015 23:29:51 -0400
+6fe7793bf897b3a76c6120774a068ec81cf6dd41|collect code for container graphs|Fri, 26 Jun 2015 16:26:38 -0400|Fri, 26 Jun 2015 16:26:38 -0400
+76615d6eb53aa8fc7d3d95c877911223321715aa|fix ports|Sat, 20 Jun 2015 11:17:59 -0400|Sat, 20 Jun 2015 11:17:59 -0400
+196885af72562c4ba8273cafdd82ec01969f900e|fix UI bugs|Sat, 20 Jun 2015 11:00:10 -0400|Sat, 20 Jun 2015 11:00:10 -0400
+e73070f1769e70d1a2401c6c5bee4a49a95e68aa|added images for treeview|Sat, 20 Jun 2015 10:36:02 -0400|Sat, 20 Jun 2015 10:36:02 -0400
+abb09d8d8da0e2d0945caaa24e5cf441ff4d535e|update docs|Fri, 19 Jun 2015 18:38:42 -0400|Fri, 19 Jun 2015 18:38:42 -0400
+da825e630c35f43dd1a39b4e41135ea880cc45f2|add tree control|Fri, 19 Jun 2015 18:31:23 -0400|Fri, 19 Jun 2015 18:31:23 -0400
+845e4276063775005264f798f37bed845f111fbc|added tree css|Fri, 19 Jun 2015 18:28:49 -0400|Fri, 19 Jun 2015 18:28:49 -0400
+8a017173d96a217fc80aae92c50424a0f441b48e|Merge branch 'master' of https://github.com/crunchydata/crunchy-postgresql-manager|Fri, 19 Jun 2015 17:18:11 -0400|Fri, 19 Jun 2015 17:18:11 -0400
+de9ee76c2acc1b5533751eda02455089d3d8bcf4|add port forwarding|Fri, 19 Jun 2015 17:17:52 -0400|Fri, 19 Jun 2015 17:17:52 -0400
+afeb39e8f2c2695d1c54e26b5e91b04867ac8f4a|update dev-setup script to require sudo|Fri, 19 Jun 2015 17:03:02 -0400|Fri, 19 Jun 2015 17:03:02 -0400
+c60543046199d725863852fdd5b1c82c323ff209|added cpm-collect image|Fri, 19 Jun 2015 16:56:24 -0400|Fri, 19 Jun 2015 16:56:24 -0400
+89154b6113f7ac04edf4dabf05c94168de907ec6|update Makefile|Fri, 19 Jun 2015 16:54:08 -0400|Fri, 19 Jun 2015 16:54:08 -0400
+ddad8749bf9056b0b058ed8525dc182659441efc|new doc|Fri, 19 Jun 2015 14:10:57 -0400|Fri, 19 Jun 2015 14:10:57 -0400
+1d775a05572d2235c2851de251fcd009449ccdd2|up docs|Wed, 17 Jun 2015 19:00:45 -0400|Wed, 17 Jun 2015 19:00:45 -0400
+7c0d7b6a7cf6f466e9dfede02a561613bd9613fc|add server mem graph iframe|Wed, 17 Jun 2015 18:11:29 -0400|Wed, 17 Jun 2015 18:11:29 -0400
+d8a1f2a988207f67380ec9ddfcbdf948376d8e4b|fix cpu metric collection|Wed, 17 Jun 2015 18:00:19 -0400|Wed, 17 Jun 2015 18:00:19 -0400
+27a63307e72860a426e29d0fc28ccaf4a55ae66f|up|Wed, 17 Jun 2015 17:38:16 -0400|Wed, 17 Jun 2015 17:38:16 -0400
+2f7d010c6c8341763aa12160ddd82faba1debcfa|initial prometheus setup|Wed, 17 Jun 2015 14:22:26 -0400|Wed, 17 Jun 2015 14:22:26 -0400
+f59f1282c050fec1424f0d056a14dcfe3d25b46e|changed project.getall to work with UI tree|Tue, 16 Jun 2015 10:36:50 -0400|Tue, 16 Jun 2015 10:36:50 -0400
+10a5e75567cc4856874a0343fca2d23641ad5415|lots of UI work|Fri, 12 Jun 2015 16:38:54 -0400|Fri, 12 Jun 2015 16:38:54 -0400
+22371f67f36d8b6671ef7c02eb91197b871e616d|more UI fixes|Fri, 12 Jun 2015 14:28:15 -0400|Fri, 12 Jun 2015 14:28:15 -0400
+8e6ac181345eb1c35d30ce8e61f7e5a7bf6bee20|numerous fixes to the UI|Fri, 12 Jun 2015 12:15:54 -0400|Fri, 12 Jun 2015 12:15:54 -0400
+4aeb3fc8c847c8e31955ab73aaa075867355135d|add tree to UI|Thu, 11 Jun 2015 12:32:14 -0400|Thu, 11 Jun 2015 12:32:14 -0400
+0df62d15777dfc576d488abb1a19e6e5c65a4733|fix|Wed, 10 Jun 2015 15:24:30 -0400|Wed, 10 Jun 2015 15:24:30 -0400
+d72199ce079b1ee3ced0f997b61c66fd863a3eb0|fix to show pg_stat_replication menu item|Wed, 10 Jun 2015 15:24:14 -0400|Wed, 10 Jun 2015 15:24:14 -0400
+6458c4db0964ba2197e64cedfcf5008f0d802e36|change cpm web over to use new v3 UI|Wed, 10 Jun 2015 14:39:40 -0400|Wed, 10 Jun 2015 14:39:40 -0400
+c997c6b161469d9c9decdb5860464fa3fc3437fc|up|Wed, 10 Jun 2015 09:09:01 -0400|Wed, 10 Jun 2015 09:09:01 -0400
+b5cf7285dc7038f8c5d2cc60d5aea66485e80bd5|up|Tue, 9 Jun 2015 19:41:34 -0400|Tue, 9 Jun 2015 19:41:34 -0400
+811455cc07feac125a5358ed96e749ed04a9e1d0|added project features to clusters|Tue, 9 Jun 2015 18:23:13 -0400|Tue, 9 Jun 2015 18:23:13 -0400
+1a6b04a7470488890055f0a1b163f11d34884392|add dbuser delete|Tue, 9 Jun 2015 10:00:36 -0400|Tue, 9 Jun 2015 10:00:36 -0400
+462829e97f8dd7fa0a8348e366525164d3406bab|up|Mon, 8 Jun 2015 21:15:02 -0400|Mon, 8 Jun 2015 21:15:02 -0400
+0d01f3ef8b8d4e192b9d068b33011623895295bb|add pgstatreplication|Mon, 8 Jun 2015 16:35:52 -0400|Mon, 8 Jun 2015 16:35:52 -0400
+51ec2ab6054a4e204fbfeb0666061905b348bcc3|add db users add screen logic|Mon, 8 Jun 2015 15:30:04 -0400|Mon, 8 Jun 2015 15:30:04 -0400
+f78af25545f067b68c011a01667f39abfb39e315|added v3 ui plus containeruser changes|Sun, 7 Jun 2015 20:31:24 -0400|Sun, 7 Jun 2015 20:31:24 -0400
+9debefcdf17cfe854504a3a210fa9cafb4c35e9e|fix bugs related to project database changes|Fri, 29 May 2015 11:38:07 -0400|Fri, 29 May 2015 11:38:07 -0400
+5a3c822efdb9a8416156380e41396985d4046d92|fix to allow default project id to propagate|Fri, 29 May 2015 09:33:03 -0400|Fri, 29 May 2015 09:33:03 -0400
+a50681fd529077a3da7211da88a46c34c2a0d07c|add startall and stopall api calls for new ui|Thu, 28 May 2015 21:01:45 -0400|Thu, 28 May 2015 21:01:45 -0400
+8ecee2acb146a13a05bb204a5892f0e9bc9fc8d3|add ServerName and ClusterName and ProjectName to ClusterNode to support new UI|Thu, 28 May 2015 16:59:48 -0400|Thu, 28 May 2015 16:59:48 -0400
+40c82ab0433521a493b2ae70613e069329d1f12b|include container id and names into cluster objects|Wed, 27 May 2015 17:02:51 -0400|Wed, 27 May 2015 17:02:51 -0400
+a269a5b59f6e33bc51759a824743136b3bec1ff3|up|Tue, 26 May 2015 19:05:47 -0400|Tue, 26 May 2015 19:05:47 -0400
+bdfc1953077926b3dfc226b84e218f3cdfc16133|add some extra rest calls to support new UI design|Thu, 21 May 2015 07:37:19 -0400|Thu, 21 May 2015 07:37:19 -0400
+77a3c8ef49f571cb5eabd16de787176d0f586380|allow for listing to http as well as https|Wed, 20 May 2015 09:24:05 -0400|Wed, 20 May 2015 09:24:05 -0400
+7e6c70448a3e3b833162a001f4d1a508c67150a8|fix doc link|Fri, 1 May 2015 09:42:02 -0400|Fri, 1 May 2015 09:42:02 -0400
+d2788066d7012eb2cd99c8ea28da6934139b4823|forgot to add|Tue, 28 Apr 2015 13:18:56 -0400|Tue, 28 Apr 2015 13:18:56 -0400
+cbbf9f288c6bd4ae9ab6a464a94f77f63529ec6a|fix monitoring code to work with db name changes|Wed, 22 Apr 2015 17:04:34 -0400|Wed, 22 Apr 2015 17:04:34 -0400
+758f532e23685780bd88121664f882da35fba852|clean up naming of containers|Wed, 22 Apr 2015 11:29:12 -0400|Wed, 22 Apr 2015 11:29:12 -0400
+71059ca55bc8c61faacc9fdc532eb80a0d49fc83|add postgres superuser credentials lookup|Tue, 21 Apr 2015 16:20:05 -0400|Tue, 21 Apr 2015 16:20:05 -0400
+fd1778bc394b3220afb7187b9b14d81817ac33bf|add nodeuser capability, remove hardcoded pgport values and cpmtest password values|Mon, 20 Apr 2015 14:57:04 -0400|Mon, 20 Apr 2015 14:57:04 -0400
+19a80eb282eb4b8ed7b77a54b9ec42a60ccc0afc|fix pgpool processing including start and stop of container and for restarting pgpool on the container|Fri, 17 Apr 2015 14:00:05 -0400|Fri, 17 Apr 2015 14:00:05 -0400
+383eb22fee641016597c4e14ba5a2637deea82ce|fix cpmnode startup to check for existing postgres database and start it if it exists|Fri, 17 Apr 2015 11:45:28 -0400|Fri, 17 Apr 2015 11:45:28 -0400
+92232f1d089c03ab5bbcc02f0a5913feb3745bde|update|Thu, 16 Apr 2015 15:21:07 -0400|Thu, 16 Apr 2015 15:21:07 -0400
+3fe4b4f955c904095341d65736aef73cde3579d2|update docs|Thu, 16 Apr 2015 15:16:07 -0400|Thu, 16 Apr 2015 15:16:07 -0400
+56b5494d951f1afe5e411ac2f37bc4873d0ff910|update docs|Thu, 16 Apr 2015 15:15:10 -0400|Thu, 16 Apr 2015 15:15:10 -0400
+e95cfe4871f6cd70bd7b13930755b9fa89785f4e|update|Thu, 16 Apr 2015 10:44:32 -0400|Thu, 16 Apr 2015 10:44:32 -0400
+447828fecfdb42ccf8186900218d1af1c30ec72b|update bu-init-cpm.sh script to prompt for domain and ip addresses|Thu, 16 Apr 2015 09:24:37 -0400|Thu, 16 Apr 2015 09:24:37 -0400
+3a7eb8681bac15dcbb437bdee2f68bbfc7a43a45|fix bu-init DBDIR path for cpm-admin|Thu, 16 Apr 2015 09:20:24 -0400|Thu, 16 Apr 2015 09:20:24 -0400
+d99677185e2cf5e11e29572de9b805310c877939|updated user install script for cpmserveragent|Thu, 16 Apr 2015 09:15:05 -0400|Thu, 16 Apr 2015 09:15:05 -0400
+231b4a9057ffa9a5d8e103187b0e49dba7c784f9|update to 0.9.3 version number|Thu, 16 Apr 2015 08:57:38 -0400|Thu, 16 Apr 2015 08:57:38 -0400
+6ebbaf89c281dcd83a4ee5b663aa007a8f783bef|split cpmagent into cpmnodeagent and cpmserveragent, fix UI for container monitoring to be context sensitive to container role|Wed, 15 Apr 2015 18:18:01 -0400|Wed, 15 Apr 2015 18:18:01 -0400
+3c7c1ce23e3db71c2b512660d916392358a9f67a|new doc on packaging|Fri, 10 Apr 2015 15:25:23 -0400|Fri, 10 Apr 2015 15:25:23 -0400
+0ac34f5ff51debf932cdad15e217a080da579881|update docs|Fri, 10 Apr 2015 15:08:33 -0400|Fri, 10 Apr 2015 15:08:33 -0400
+b46071b9fff36031ad6d20148ab03675f1d52382|update|Thu, 9 Apr 2015 16:36:57 -0400|Thu, 9 Apr 2015 16:36:57 -0400
+c5bca8d2683793451ce3ffc67b4c5621844ceefa|fix image name for cluster provisioning to match standalone provisioning|Thu, 9 Apr 2015 15:19:18 -0400|Thu, 9 Apr 2015 15:19:18 -0400
+df60fce9ba532d7a2b40ab16350bd6e04b003c74|fix docs and bump version|Thu, 9 Apr 2015 09:42:32 -0400|Thu, 9 Apr 2015 09:42:32 -0400
+20cd3649a676cdc8cf7e9e10666ee7add252e569|update|Wed, 8 Apr 2015 17:56:33 -0400|Wed, 8 Apr 2015 17:56:33 -0400
+404ebc88a0c763b59ec881bd87ac8775ce35ebee|added godeps|Wed, 8 Apr 2015 17:53:58 -0400|Wed, 8 Apr 2015 17:53:58 -0400
+a0eeb0efbc1a7d7ebd5f316efed9d546baeabc8f|change structure to use godep|Wed, 8 Apr 2015 17:52:06 -0400|Wed, 8 Apr 2015 17:52:06 -0400
+f98c3c5932db2dceb51b9c43309bf1d90f8b47a1|update docs|Wed, 8 Apr 2015 16:57:13 -0400|Wed, 8 Apr 2015 16:57:13 -0400
+90bff957952667751b2b8a6838d84cfaa5b9adb7|update docs|Wed, 8 Apr 2015 16:16:43 -0400|Wed, 8 Apr 2015 16:16:43 -0400
+a252e3f17493aacccaf5ce887d234d68022730e7|refactor loadtest code|Tue, 7 Apr 2015 11:19:41 -0400|Tue, 7 Apr 2015 11:19:41 -0400
+2318e82f1d678cfb0eba45bdc582092f8b1d8aa4|new logging routine|Mon, 6 Apr 2015 14:33:00 -0400|Mon, 6 Apr 2015 14:33:00 -0400
+2db8f30e3c279e42b4dd1d9e2518ac4abc9c05ba|reduce logging messages in sec|Mon, 6 Apr 2015 12:59:30 -0400|Mon, 6 Apr 2015 12:59:30 -0400
+0708a5eaf4ab865bb72f8cc119e5583736c2c4e7|remove glog and convert over to crunchy logit package for logging, also remove use of dummyserver for cpm-admin and cpm-backup|Mon, 6 Apr 2015 12:47:40 -0400|Mon, 6 Apr 2015 12:47:40 -0400
+4d4095a70524412140f9bc3aed65d80ea09cd443|up|Tue, 24 Mar 2015 18:06:36 -0400|Tue, 24 Mar 2015 18:06:36 -0400
+a729df8d7ac4c5706242abfed51e4cae062343f4|fix packaging script|Tue, 24 Mar 2015 17:54:02 -0400|Tue, 24 Mar 2015 17:54:02 -0400
+5cae2402a92447c5a716ddb3e765079ca33c0edd|update|Tue, 24 Mar 2015 17:49:48 -0400|Tue, 24 Mar 2015 17:49:48 -0400
+efb7886506596f367d039c6844f5783c364c60bb|update version|Tue, 24 Mar 2015 16:59:04 -0400|Tue, 24 Mar 2015 16:59:04 -0400
+d3d53e523e7ee272f5561c357eef694299a01b7a|update docs|Tue, 24 Mar 2015 11:43:37 -0400|Tue, 24 Mar 2015 11:43:37 -0400
+769a86c39d740791f52f5afc847dccdea4f1c0c3|bump version|Tue, 24 Mar 2015 10:45:37 -0400|Tue, 24 Mar 2015 10:45:37 -0400
+f73de8aa6441e7f7c3377e9296984a1f3846b54e|bump version to 0.9.1|Tue, 24 Mar 2015 10:40:11 -0400|Tue, 24 Mar 2015 10:40:11 -0400
+6f201c7096a7edfda01036b75c5619228e5016cb|fix influxdb config file to bind to all|Mon, 23 Mar 2015 21:37:43 -0400|Mon, 23 Mar 2015 21:37:43 -0400
+9f07a32c39c1ff556ee2e6b414370e55814e5652|increase image name size to 30|Mon, 23 Mar 2015 21:08:51 -0400|Mon, 23 Mar 2015 21:08:51 -0400
+179ab0eb07ea7fd8c5e4de2e22dc70500e79cc47|fix docker-run-backup.sh to not specify partial image name|Mon, 23 Mar 2015 21:07:27 -0400|Mon, 23 Mar 2015 21:07:27 -0400
+391cad0d7f494da2170ea8b71b454cf08de153d9|fix delete node logic for kube|Mon, 23 Mar 2015 16:37:31 -0400|Mon, 23 Mar 2015 16:37:31 -0400
+f5746f760dba4e9b804f03feb5dfd5b312bbbe05|kube logic for auto clustering and deleteing a cluster|Mon, 23 Mar 2015 16:35:32 -0400|Mon, 23 Mar 2015 16:35:32 -0400
+d247bb0a6b4c12daa1bf8272b89723a4463c1712|fix backup to work in Kube mode|Fri, 20 Mar 2015 17:18:16 -0400|Fri, 20 Mar 2015 17:18:16 -0400
+c36c5e327b975710ee66c0817665d6b5ffb0fad0|fixed kube te|Thu, 19 Mar 2015 17:16:41 -0400|Thu, 19 Mar 2015 17:16:41 -0400
+c44eec21c546d4270e6c2bd691abbe1d57c095e2|kube clustering changes|Thu, 19 Mar 2015 11:25:59 -0400|Thu, 19 Mar 2015 11:25:59 -0400
+eae1563c2481b1a3f813eb2acab4ee93f33e9059|fixes for kube|Wed, 18 Mar 2015 18:53:31 -0400|Wed, 18 Mar 2015 18:53:31 -0400
+5b7e385f4dfd41152b1003624859567508e63ccf|fix services in kube templates|Wed, 18 Mar 2015 17:17:33 -0400|Wed, 18 Mar 2015 17:17:33 -0400
+da558000d8da68925bfba323ed3b127d31b94caa|change cpm-backup to use cpm-admin-db as hostname|Wed, 18 Mar 2015 16:47:42 -0400|Wed, 18 Mar 2015 16:47:42 -0400
+055ebdf2b81c559dd486cabec63c1a725b32d66d|add kube logic for cpm-mon hostname|Wed, 18 Mar 2015 16:46:22 -0400|Wed, 18 Mar 2015 16:46:22 -0400
+fc7de00b4012245cd70be1731782a3a63c3fe750|add kube delete pod logic and clean up kubeurl getenv logic|Wed, 18 Mar 2015 16:03:07 -0400|Wed, 18 Mar 2015 16:03:07 -0400
+a961bd8786c2f93ffd47e89f4bea8165632e95f8|fix hc1 monitor logic to show database up status|Wed, 18 Mar 2015 15:20:10 -0400|Wed, 18 Mar 2015 15:20:10 -0400
+6cfd3cfed3ac42a63a7d3dca250b3b5ea6eee133|fixes to monitoring and js logging|Wed, 18 Mar 2015 14:18:55 -0400|Wed, 18 Mar 2015 14:18:55 -0400
+3ed1e49b463c25c5068655716c8c250dab3e6bff|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Mon, 16 Mar 2015 22:18:50 -0400|Mon, 16 Mar 2015 22:18:50 -0400
+f61aec78f73c01c7795048b19a6fc4473163b24a|added missing cpm-backup-job files|Mon, 16 Mar 2015 22:18:43 -0400|Mon, 16 Mar 2015 22:18:43 -0400
+e5042eb538321bf15dcbef35d90432268ecb64c2|work on creating services for pod|Mon, 16 Mar 2015 20:24:20 -0400|Mon, 16 Mar 2015 20:24:20 -0400
+c9b593fcd2f1e00070d1886fbcc929db574305ff|add logic to call GetPod on container load|Mon, 16 Mar 2015 15:54:43 -0400|Mon, 16 Mar 2015 15:54:43 -0400
+00e5c63292bf611025c26dd0b61055a813bdf77b|update container status logic|Mon, 16 Mar 2015 14:06:47 -0400|Mon, 16 Mar 2015 14:06:47 -0400
+6f29f9a10b21cebf020dcbab79f45b03514b8cf3|Merge branch 'master' of github.com:CrunchyData/crunchy-postgresql-manager|Mon, 16 Mar 2015 09:07:39 -0400|Mon, 16 Mar 2015 09:07:39 -0400
+a6731d963a3337a3f5c2f32734d293513e37cc2f|test combined pod|Fri, 13 Mar 2015 14:46:56 -0400|Fri, 13 Mar 2015 14:46:56 -0400
+6537c6ea28202f2bbdc442f2321ca6442ccf564a|update to specify KUBE_URL|Thu, 12 Mar 2015 12:41:05 -0400|Thu, 12 Mar 2015 12:41:05 -0400
+341da9ea0137af2a22f71584e4f9f25e952d2ffb|add deploy examples|Thu, 12 Mar 2015 10:51:31 -0400|Thu, 12 Mar 2015 10:51:31 -0400
+484502d8d9e51fc55dd0c7ddb6752b6d50714faa|updated kube logic|Thu, 12 Mar 2015 09:31:53 -0400|Thu, 12 Mar 2015 09:31:53 -0400
+066fec4712d55868a4051e6a2dddfa571f5c53ae|remove kubernetes deps|Thu, 12 Mar 2015 09:05:15 -0400|Thu, 12 Mar 2015 09:05:15 -0400
+0bdd021f66b7612cee67dfe80ba817eccc4440b3|add kubekeys volume for cpm-admin|Wed, 11 Mar 2015 14:43:51 -0400|Wed, 11 Mar 2015 14:43:51 -0400
+f04a35f0b1265e88ca982462d96ee37bc823c932|update pod template CPU and MEM fields|Wed, 11 Mar 2015 13:48:15 -0400|Wed, 11 Mar 2015 13:48:15 -0400
+914ec67b7aaf0ba1223ef975ec8747ef0c8ea454|fix mkdir|Wed, 11 Mar 2015 09:46:27 -0400|Wed, 11 Mar 2015 09:46:27 -0400
+d33270c4421f2827e75b21dbeb4a79fccee5c6d3|added mkdir bin|Mon, 9 Mar 2015 17:02:42 -0400|Mon, 9 Mar 2015 17:02:42 -0400
+ad2aef0ce4cda87fe6bed53d9837981447eecd91|init|Mon, 9 Mar 2015 16:53:43 -0400|Mon, 9 Mar 2015 16:53:43 -0400
+48143c6f2430f6d1c98cfb4f9157eb077b5482aa|fix cpm-template.json|Mon, 9 Mar 2015 16:36:01 -0400|Mon, 9 Mar 2015 16:36:01 -0400
+9034a9f4c56c4b6dcd20510004e295ad5e8f6509|updated postgresql.conf templates to 9.4.1|Mon, 9 Mar 2015 11:07:46 -0400|Mon, 9 Mar 2015 11:07:46 -0400
+3b653243537010dd12a293b06dda9b1137e8cb9d|set huge_pages to off to avoid selinux alerts|Mon, 9 Mar 2015 09:39:53 -0400|Mon, 9 Mar 2015 09:39:53 -0400
+0730fc7ebb4fd99e73c77113653b26b9a216f409|update kube json templates|Fri, 6 Mar 2015 17:30:15 -0500|Fri, 6 Mar 2015 17:30:15 -0500
+83dbb2fb2fd8369848fb01674c8faa8d9983d659|adjust look of action drop down menus|Fri, 6 Mar 2015 10:23:04 -0500|Fri, 6 Mar 2015 10:23:04 -0500
+65b8ea57d6933d4d5ead91068f55101cd13c597b|added some sample ose templates|Thu, 5 Mar 2015 17:22:31 -0500|Thu, 5 Mar 2015 17:22:31 -0500
+fc194bd20a3aec08dc1d78e4e29a1b4414750ad3|blank out schedule info when last schedule is deleted|Thu, 5 Mar 2015 10:30:25 -0500|Thu, 5 Mar 2015 10:30:25 -0500
+92428cb14b2753300d737da3af5b36acdd87ee52|fix blanking of UI screens when removing last server, cluster, or container|Thu, 5 Mar 2015 10:21:40 -0500|Thu, 5 Mar 2015 10:21:40 -0500
+7deab235d6ce2b7ab213388c7c26df2691c2497a|update firewall doc|Wed, 4 Mar 2015 14:13:06 -0500|Wed, 4 Mar 2015 14:13:06 -0500
+cf7ed028d7af329a8eaa101e0781f650f47eef33|change pg_hba.conf files to allow bridge ip clients to connect to cpmtest database using md5 and also add a firewall config document|Wed, 4 Mar 2015 13:44:07 -0500|Wed, 4 Mar 2015 13:44:07 -0500
+5b5079bc0386e765c9693dad9054be931b02aeec|add firewall setup docs|Wed, 4 Mar 2015 11:16:14 -0500|Wed, 4 Mar 2015 11:16:14 -0500
+5effa7e0698b42789ae32d39b3638b234686c783|update docs|Tue, 3 Mar 2015 13:19:25 -0500|Tue, 3 Mar 2015 13:19:25 -0500
+d62084c0c8e6b85a10b8adc1342ef106345c80ad|update container monitoring replacing bash scripts with golang code for bgwriter, statrepl, statdatabases|Tue, 3 Mar 2015 11:55:09 -0500|Tue, 3 Mar 2015 11:55:09 -0500
+9a1dbf82af93856ea2fb8adc009af956ac90a878|update docs|Mon, 2 Mar 2015 13:47:53 -0500|Mon, 2 Mar 2015 13:47:53 -0500
+4e9d37cfc3ce71d10a63637017118fe1645f916d|fix logout|Mon, 2 Mar 2015 10:05:54 -0500|Mon, 2 Mar 2015 10:05:54 -0500
+4029c8bbb1166410ff954dc2d18ab93b13a621ba|set version to 0.9.0|Mon, 2 Mar 2015 09:10:34 -0500|Mon, 2 Mar 2015 09:10:34 -0500
+e1f501fdc27907870f9db85815016b9ad0082da8|add new logo|Sun, 1 Mar 2015 18:56:56 -0500|Sun, 1 Mar 2015 18:56:56 -0500
+ac0a39997828e62f41fd992f0040ff746fcd2b5c|update version number|Sun, 1 Mar 2015 18:26:29 -0500|Sun, 1 Mar 2015 18:26:29 -0500
+bbc3368bf697bb914a566b534ed44a62f06859b3|initial beta commit|Sun, 1 Mar 2015 18:20:09 -0500|Sun, 1 Mar 2015 18:20:09 -0500

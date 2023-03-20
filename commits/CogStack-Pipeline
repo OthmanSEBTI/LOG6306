@@ -1,0 +1,636 @@
+c4dc5713ce34c3c10cb8778e8ea67e1b84db0b3c|Update README.md|Fri, 13 Jan 2023 10:15:43 +0000|Fri, 13 Jan 2023 10:15:43 +0000
+7f74db7c1e94dbfabeb3c77d4ab84f09862f941d|Update License|Thu, 4 Aug 2022 14:27:52 +0100|Thu, 4 Aug 2022 14:27:52 +0100
+1bf3c54d629646f1e700ffa34919f341a2b0fdad|Discourse link added|Mon, 25 Jul 2022 15:57:02 +0100|Mon, 25 Jul 2022 15:57:02 +0100
+63f5ef13ffd5ccb5f69606fcef16ee67782aa524|Log4j vuln update.|Tue, 14 Dec 2021 11:38:25 +0000|Tue, 14 Dec 2021 11:38:25 +0000
+5f0b0677290195029f3999ce1ec173e6a827a404|Gradle updates(log4j vuln).|Mon, 13 Dec 2021 13:02:15 +0000|Mon, 13 Dec 2021 13:02:15 +0000
+29484ff34ca72cacb8dc739ac861dc7081e41d52|Gradle update.|Mon, 15 Nov 2021 13:12:49 +0000|Mon, 15 Nov 2021 13:12:49 +0000
+f3c5215334ae26caafc6bfacbecb53802d23aa77|Updated mssql gradle driver.|Mon, 15 Nov 2021 12:45:57 +0000|Mon, 15 Nov 2021 12:45:57 +0000
+169cc182b4a39fe228ab43d828579c853b732877|Dockerfile update.|Mon, 15 Nov 2021 12:33:29 +0000|Mon, 15 Nov 2021 12:33:29 +0000
+1ea5c61de46372a1955c231165a9bfe9dd2f0293|Added docker workflow.|Mon, 15 Nov 2021 11:47:36 +0000|Mon, 15 Nov 2021 11:47:36 +0000
+a41a5cc67e17b0119615196b8d7b1fabc07a8c24|Reversed erroneous commit.|Wed, 10 Nov 2021 17:31:49 +0000|Wed, 10 Nov 2021 17:31:49 +0000
+a847c8e47db00bf8046933b850cdae1a901c3a28|Minor ignore update.|Wed, 10 Nov 2021 17:24:19 +0000|Wed, 10 Nov 2021 17:24:19 +0000
+6f10c3f410c5156d1b7871b13ddf56b851f4ae5e|ES sample config update.|Fri, 22 Oct 2021 15:21:22 +0100|Fri, 22 Oct 2021 15:21:22 +0100
+ad082a310d3f6c759635a3fb4db60abf5ea94022|Fixed medcat models links.|Wed, 23 Jun 2021 09:09:36 +0100|Wed, 23 Jun 2021 09:09:36 +0100
+b4ac558f10f160a79fe008fce1d035e2b5ef39b4|Added sample deployment scripts.|Wed, 23 Jun 2021 09:07:59 +0100|Wed, 23 Jun 2021 09:07:59 +0100
+6e87b29e5772945e907bf80dc750247ad6055676|Added extra soffice OS path variations.|Fri, 16 Apr 2021 11:12:15 +0100|Fri, 16 Apr 2021 11:12:15 +0100
+e8189f0e66b4491bac72b361a8e1c69428c570ee|Added example 10.|Fri, 12 Feb 2021 08:54:04 +0000|Fri, 12 Feb 2021 08:54:04 +0000
+6235ce1a46ab502ac95140e80e48ba7b8d0cc91b|minor: update requirements.txt for tests|Tue, 14 May 2019 13:35:18 +0100|Tue, 14 May 2019 13:35:18 +0100
+00ef0e19556267ae5da190b4dcc56e331c738a09|update changelog|Tue, 14 May 2019 09:34:38 +0100|Tue, 14 May 2019 09:34:38 +0100
+d869887eabff30c52e5959e9856f92e9c84307ba|bump version|Tue, 14 May 2019 09:34:24 +0100|Tue, 14 May 2019 09:34:24 +0100
+fb86ba196519a1cfb38f48463d51779a3a741c63|Minor bugfixes (#76)|Tue, 14 May 2019 09:27:59 +0100|Tue, 14 May 2019 09:27:59 +0100
+8fb9ca3b0872d5a7bc8af0ea7a6d2879b16b3518|Update README.md (#74)|Wed, 12 Dec 2018 22:45:49 +0000|Wed, 12 Dec 2018 22:45:49 +0000
+b7180b3c8f59200f043b4d9372ad0bad1b411532|version bump to 1.3.0|Fri, 30 Nov 2018 11:16:32 +0000|Fri, 30 Nov 2018 11:16:32 +0000
+213a0f8dd4d364623e03a668107675a057b1a6bf|Merge pull request #73 from CogStack/examples-update|Thu, 29 Nov 2018 19:23:39 +0000|Thu, 29 Nov 2018 19:23:39 +0000
+819e18a242d6b266f07762cc87331a0c85823d8a|updating the examples to use the newest version of the docker images from dockerhub|Thu, 29 Nov 2018 18:30:37 +0000|Thu, 29 Nov 2018 18:30:37 +0000
+9726fd11a4414a50136f1eb32f72fc85c135654f|Merge pull request #72 from CogStack/dev|Thu, 29 Nov 2018 18:03:47 +0000|Thu, 29 Nov 2018 18:03:47 +0000
+ae4944939a094b4fb450801b86d2d91b74c12e16|Merge pull request #71 from CogStack/docs-changelog|Thu, 29 Nov 2018 16:55:24 +0000|Thu, 29 Nov 2018 16:55:24 +0000
+ed737a8e20c66d5e1282da7f16d3b4b310bc09df|added changelog|Thu, 29 Nov 2018 16:45:46 +0000|Thu, 29 Nov 2018 16:45:46 +0000
+d1d8413c8da70a95109f99b83d2344298aa80ada|Merge pull request #70 from CogStack/docs-update|Thu, 29 Nov 2018 15:49:08 +0000|Thu, 29 Nov 2018 15:49:08 +0000
+e8dbdfd368e858bd28f42084aaf8d7235f0bcd4a|Update index.md|Thu, 29 Nov 2018 15:45:00 +0000|Thu, 29 Nov 2018 15:45:00 +0000
+091e66e9d06059c3cbcaab5ebf772ae28f067231|Update index.md|Thu, 29 Nov 2018 15:42:12 +0000|Thu, 29 Nov 2018 15:42:12 +0000
+ab19d34bda722612e9949c9b00072284143a2f6e|Merge pull request #69 from CogStack/refactor-tests|Thu, 29 Nov 2018 13:26:34 +0000|Thu, 29 Nov 2018 13:26:34 +0000
+e8f9b1a7f29970472da9c7f6e4365e321dd9b621|changed the db dumps path in s3 from v2 to the original one|Thu, 29 Nov 2018 12:05:21 +0000|Thu, 29 Nov 2018 12:05:21 +0000
+37c94000400ecebd3e3abe440fe46f5d26cc12b9|minor update of logging format|Thu, 29 Nov 2018 12:05:04 +0000|Thu, 29 Nov 2018 12:05:04 +0000
+2ab9bdb2a4f9ac39f6a2871ca3dfd5b06938b7a5|increased the log dump size from travis to 2000 lines|Thu, 29 Nov 2018 11:53:36 +0000|Thu, 29 Nov 2018 11:53:36 +0000
+c83a449a2aa748b4c3756807cdb1ecc7ffcaeb04|increased the max timeout for 600s for testing the single example|Thu, 29 Nov 2018 11:53:09 +0000|Thu, 29 Nov 2018 11:53:09 +0000
+049521541d015c164572e4030ee2efc6be5b7163|a proper fix for integration tests timeout -- wait for ES become ready|Thu, 29 Nov 2018 11:46:11 +0000|Thu, 29 Nov 2018 11:46:11 +0000
+18e862b18e548456aa17ae9366f589d9eac0e2ec|a proper fix for examples tests timeout -- wait for ES/DB become ready|Thu, 29 Nov 2018 11:45:08 +0000|Thu, 29 Nov 2018 11:45:08 +0000
+5b0440922dbf4f2fa3a87175b16c375b925de91f|Merge pull request #67 from CogStack/examples-update|Thu, 29 Nov 2018 09:08:26 +0000|Thu, 29 Nov 2018 09:08:26 +0000
+d4df01229765c585ed6c7cd07488512e39838655|Update examples_tests.py|Thu, 29 Nov 2018 08:19:05 +0000|Thu, 29 Nov 2018 08:19:05 +0000
+a1f1c1fe5e807de3fafdac40c1ea5f6dd10d4901|fix: increase timeout for testing ex. 8|Wed, 28 Nov 2018 23:52:08 +0000|Wed, 28 Nov 2018 23:52:08 +0000
+98d36060a8c47c722445b61074bc875052d8d140|updated the integration tests for examples -- update on build context in docker-compose files|Wed, 28 Nov 2018 23:09:47 +0000|Wed, 28 Nov 2018 23:09:47 +0000
+619c4d5639615cab911db9479918b15764ef4e50|Merge branch 'dev' of https://github.com/CogStack/CogStack-Pipeline into dev|Wed, 28 Nov 2018 18:13:32 +0000|Wed, 28 Nov 2018 18:13:32 +0000
+db999398e2dd78a33c18de927730195fd0e048b9|fix for building cogstack+gate docker image|Wed, 28 Nov 2018 18:13:20 +0000|Wed, 28 Nov 2018 18:13:20 +0000
+1611f74e30b1c3ba4b681aace2c4c860aa54c4ba|fix: the name of base image used in CogStack+GATE image|Wed, 28 Nov 2018 15:56:40 +0000|Wed, 28 Nov 2018 15:56:40 +0000
+a23aa86c208e9f069d56b4a7c35145a46337088c|fix: travis build for examples 6-9|Wed, 28 Nov 2018 15:05:05 +0000|Wed, 28 Nov 2018 15:05:05 +0000
+0ad3bb1edf3f778ea848089a7dc215041b3be4b8|Merge pull request #68 from CogStack/refactor-tests|Wed, 28 Nov 2018 15:00:43 +0000|Wed, 28 Nov 2018 15:00:43 +0000
+d60dd112f8199461d646089e164f5d3676e0e458|Merge branch 'master' into dev|Wed, 28 Nov 2018 14:37:47 +0000|Wed, 28 Nov 2018 14:37:47 +0000
+09349dd8cb46598b649d223da99b1c6736f48bbb|fix: increase timeout in integration tests|Wed, 28 Nov 2018 14:27:38 +0000|Wed, 28 Nov 2018 14:27:38 +0000
+eae8fb8d846cf3a0fb0bd6b3ef5381bef3c4ccb1|minor update of the examples test|Wed, 28 Nov 2018 14:15:19 +0000|Wed, 28 Nov 2018 14:15:19 +0000
+e78967d2551af03a9894689b68f112bbf1ee1491|minor fix for examples test -- older version of docker compose|Wed, 28 Nov 2018 11:20:05 +0000|Wed, 28 Nov 2018 11:20:05 +0000
+a9f3c1eb1b5b5dcf58f9623b3a82bc66f424bd3e|fix for travis and examples test|Wed, 28 Nov 2018 10:45:41 +0000|Wed, 28 Nov 2018 10:45:41 +0000
+aaf68078f221438312b25c029e973344dde669a7|update travis to test the examples too|Wed, 28 Nov 2018 10:30:05 +0000|Wed, 28 Nov 2018 10:30:05 +0000
+20510352045242b183363ffa1666f6c1a17055c2|temporary download the new database dumps|Wed, 28 Nov 2018 10:29:47 +0000|Wed, 28 Nov 2018 10:29:47 +0000
+7ab67d2b63b96543877f57462f61f8ff452b5fd6|minor fix in the examples docker compose files -- to use dev-latest image|Wed, 28 Nov 2018 10:29:14 +0000|Wed, 28 Nov 2018 10:29:14 +0000
+6afedabc15d073efdc50c22705d89554b36e8ac1|updated examples test script|Wed, 28 Nov 2018 10:28:44 +0000|Wed, 28 Nov 2018 10:28:44 +0000
+1c3ab1e5abebf690e4595ed44b674a462b9b90c1|added integration tests for all the examples|Tue, 27 Nov 2018 16:45:37 +0000|Tue, 27 Nov 2018 16:45:37 +0000
+dfeeb8dd105581b4e8e01cb50e5050fe87c29d7e|Merge pull request #66 from CogStack/examples-update|Tue, 27 Nov 2018 10:39:34 +0000|Tue, 27 Nov 2018 10:39:34 +0000
+277a28c94842ce4b1610d4b970f1de87bb23e453|minor sql updates in the generation scripts|Tue, 27 Nov 2018 10:24:43 +0000|Tue, 27 Nov 2018 10:24:43 +0000
+ed1bd3b2dcda4e049b6d7cc54eda56e85b5b7c34|Merge branch 'dev' into examples-update|Mon, 26 Nov 2018 10:06:24 +0000|Mon, 26 Nov 2018 10:06:24 +0000
+f3233586dd06e8ac090107388f8522c75587c70b|updated examples+quickstart description with the costack ecosystem diagrams|Mon, 26 Nov 2018 10:04:08 +0000|Mon, 26 Nov 2018 10:04:08 +0000
+eca986346b0ab8bb07ff225d90425da211d99b44|enabled testParseRequiringOCR test ; with tesseract 4.0 it performs correctly|Mon, 26 Nov 2018 08:45:59 +0000|Mon, 26 Nov 2018 08:45:59 +0000
+7ce634e7ed44951f8ca05893263b7cd229177654|Merge pull request #65 from CogStack/feat-tesseract-4|Fri, 23 Nov 2018 17:33:40 +0000|Fri, 23 Nov 2018 17:33:40 +0000
+79a392f85fc12f41b57e8cdf4a2f9d0b93185321|fixed version for imagemagick for dockerfile|Fri, 23 Nov 2018 16:38:26 +0000|Fri, 23 Nov 2018 16:38:26 +0000
+1b3bd339be43240f23eae7619d3c3aa3f8e1407c|added a fixed version to tesseract application|Fri, 23 Nov 2018 16:22:01 +0000|Fri, 23 Nov 2018 16:22:01 +0000
+db8f5cfb32607d9c967bf188ac0af8de5a5074c4|Merge pull request #64 from CogStack/feat-es-multinode|Fri, 23 Nov 2018 13:49:02 +0000|Fri, 23 Nov 2018 13:49:02 +0000
+bfbd95b77527d16f97f9714b7f041a8556487fc9|fix for tesseract ppa|Thu, 22 Nov 2018 16:10:20 +0000|Thu, 22 Nov 2018 16:10:20 +0000
+4914e2a9c69606c063ebb143e019fcd82b8174fe|fix for tesseract ppa|Thu, 22 Nov 2018 16:06:48 +0000|Thu, 22 Nov 2018 16:06:48 +0000
+1e47314f706dc23b4c0496b82977cb0ae5afad22|fix for tesseract ppa|Thu, 22 Nov 2018 15:59:44 +0000|Thu, 22 Nov 2018 15:59:44 +0000
+49bbbf5e265a65e42bcb6c3d2c45b578ecba9a20|updated travis automated build to use tesseract 4.0; set the travis distro to Xenial|Thu, 22 Nov 2018 15:38:52 +0000|Thu, 22 Nov 2018 15:38:52 +0000
+b1612e7de8097eb52875ca8bcafa2ba67986ba35|updated main Dockerfile to use CogStack Pipeline bundled with the new tesseract|Thu, 22 Nov 2018 15:38:00 +0000|Thu, 22 Nov 2018 15:38:00 +0000
+5531997abb36b0eebaeef17ccd50cd2f261d4128|polishing -- minor updates to the examples sql and properties; updating the documentation + examples|Thu, 22 Nov 2018 13:34:40 +0000|Thu, 22 Nov 2018 13:34:40 +0000
+6b1965b318b18fe33d7b32e02240e15ee876937c|minor improvement in common base docker compose file for examples|Thu, 22 Nov 2018 10:57:35 +0000|Thu, 22 Nov 2018 10:57:35 +0000
+8f26fa6ddb602af7af23686e99949eca3b80697a|updated example 8,9 with simplified document data model; updated db dump sql|Thu, 22 Nov 2018 10:56:14 +0000|Thu, 22 Nov 2018 10:56:14 +0000
+186bc8a5fe787f9dd4b9efd07f07167118983908|Fix for cogstack gate image - proper WORKDIR|Thu, 22 Nov 2018 10:50:54 +0000|Thu, 22 Nov 2018 10:50:54 +0000
+6c13748632a203c11cd0de9f7f4e3e16553e9a79|updated example 5,6,7 with simplified document data model; updated db dump sql|Thu, 22 Nov 2018 10:25:13 +0000|Thu, 22 Nov 2018 10:25:13 +0000
+a4648adfb96d498fbdb5171b617464d270a6eb35|updated example 5 with simplified document data model; updated db dump sql|Wed, 21 Nov 2018 16:39:39 +0000|Wed, 21 Nov 2018 16:39:39 +0000
+a1f8ddcb2df31ae77cbe59f9f25b5287a67cd383|updated example 4 with simplified document data model; updated db dump sql|Wed, 21 Nov 2018 16:26:34 +0000|Wed, 21 Nov 2018 16:26:34 +0000
+c9dff1a57923a13626db96406129ce10da197cbb|updated example 3 with simplified document data model; updated db dump sql|Wed, 21 Nov 2018 16:22:37 +0000|Wed, 21 Nov 2018 16:22:37 +0000
+de56f9ba2d98be131917e120e3a6394bfdf314cf|updated example 2 with simplified document data model; updated db dump sql|Wed, 21 Nov 2018 15:25:41 +0000|Wed, 21 Nov 2018 15:25:41 +0000
+b63c7c3c263d4916580819fcb565baa7ea714080|minor update to ex.2|Wed, 21 Nov 2018 15:24:20 +0000|Wed, 21 Nov 2018 15:24:20 +0000
+b745ffaf04a8674f372db8db951f0a755350e346|updated example 1 with simplified document data model; updated db dump sql|Wed, 21 Nov 2018 15:15:02 +0000|Wed, 21 Nov 2018 15:15:02 +0000
+826bc68f97a872c5da3d66fd6d7a43d847a1a675|Merge branch 'examples-update' of https://github.com/CogStack/CogStack-Pipeline into examples-update|Wed, 21 Nov 2018 11:45:01 +0000|Wed, 21 Nov 2018 11:45:01 +0000
+14ce6fb6bea59e670e561708d33ff9aa1aa1dae6|towards updating the documentation and tailoring examples|Tue, 20 Nov 2018 13:21:43 +0000|Wed, 21 Nov 2018 11:44:53 +0000
+95ae6cec7385ebdbc50ede7383e5a1fb5f9c9228|updated the examples properties file to include upcoming simplification in the document data model|Tue, 20 Nov 2018 11:54:08 +0000|Wed, 21 Nov 2018 11:44:53 +0000
+2a1ef2f550070814b1a0e256c617c6f93f80d164|changed the name of "postgres" directory containing job repository config files to "pgjobrepo"|Mon, 19 Nov 2018 10:24:41 +0000|Wed, 21 Nov 2018 11:44:53 +0000
+8e9a8c371cf7cacbf5936fa1983ed61ab6956f93|updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;|Mon, 19 Nov 2018 10:13:24 +0000|Wed, 21 Nov 2018 11:44:53 +0000
+cc580f3be7821719983a1e5591c9149de0c9382e|updated the kibana + elasticsearch images to v. 6.4.2. using now -oss version without x-pack bundled to avoid problem with license expiration.|Fri, 16 Nov 2018 14:36:02 +0000|Wed, 21 Nov 2018 11:44:52 +0000
+3290d7a0aa31d8f73f8005e6e2705050a8cf06e0|updated postgres images to use postgres v 11.1 . updated postgres script creating db for spring batch|Fri, 16 Nov 2018 14:24:39 +0000|Wed, 21 Nov 2018 11:44:52 +0000
+352fed2dca2694c4ca6c316d46c172d72e01a580|Merge pull request #62 from CogStack/refactor-properties|Wed, 21 Nov 2018 11:41:39 +0000|Wed, 21 Nov 2018 11:41:39 +0000
+05d892bd9e139b00591796182601a415fa09fa0e|Update Document.groovy|Wed, 21 Nov 2018 11:13:31 +0000|Wed, 21 Nov 2018 11:13:31 +0000
+2e08d9b2b971d50efc8d507e66a40376803c4c83|Merge pull request #61 from CogStack/refactor-build|Tue, 20 Nov 2018 17:06:18 +0000|Tue, 20 Nov 2018 17:06:18 +0000
+c54bd5977126ab7850c974b9e95acc3714651446|Update src/main/java/uk/ac/kcl/Main.java|Tue, 20 Nov 2018 16:57:27 +0000|Tue, 20 Nov 2018 16:57:27 +0000
+1c102e37a8a2cdf44dac0357af4fc95aab96938d|Merge pull request #63 from CogStack/refactor-tests|Tue, 20 Nov 2018 16:44:16 +0000|Tue, 20 Nov 2018 16:44:16 +0000
+5f498d8b2708084a405ff7881f0dceaf2c53fe78|Update examples/example3/docker/docker-compose.override.yml|Tue, 20 Nov 2018 16:33:30 +0000|Tue, 20 Nov 2018 16:33:30 +0000
+1e103f522d68ab938450b7c9074fe7482666e05e|missing typo|Tue, 20 Nov 2018 16:12:26 +0000|Tue, 20 Nov 2018 16:12:26 +0000
+9171b2eb81f2d4f80fafafe75dcb4b7c0274961b|added support for multiple ES nodes for ESRestService by introducing property elasticsearch.slaveNodes|Tue, 20 Nov 2018 16:09:59 +0000|Tue, 20 Nov 2018 16:09:59 +0000
+aee2eeb8c8cb8bc99d4a95b4edbd361b4341765e|towards updating the documentation and tailoring examples|Tue, 20 Nov 2018 13:21:43 +0000|Tue, 20 Nov 2018 13:21:43 +0000
+42fb57aa3dc49a80595450132eaa91b9e7927449|updated the examples properties file to include upcoming simplification in the document data model|Tue, 20 Nov 2018 11:54:08 +0000|Tue, 20 Nov 2018 11:54:08 +0000
+da999e179a7997fd55896a014b244482368c4c3f|setting "srcTableName", "srcColumnFieldName" and "primaryKeyFieldName" fields optional during init|Tue, 20 Nov 2018 09:42:01 +0000|Tue, 20 Nov 2018 09:42:01 +0000
+9669678b7ebd1770b93cd2789a184b568959f83e|setting "srcTableName", "srcColumnFieldName" and "primaryKeyFieldName" fields for the Document model will be only obligatory when using "docman" profile -- they are used only for document row mapper, for metadata info|Mon, 19 Nov 2018 16:24:48 +0000|Mon, 19 Nov 2018 16:24:48 +0000
+9b816b192ab6e0fdaea43ad22bb3c48fa86be082|changed timeout for waiting for services from 5000 ms to 10000 ms to prevent occassional tests from failing|Mon, 19 Nov 2018 13:02:22 +0000|Mon, 19 Nov 2018 13:02:22 +0000
+e3920f6af911d03de4d2f591ec937950520ca19d|set "localParitioning" scheme to be the default one when not set; minor polishing of printing exception stack trace in Main|Mon, 19 Nov 2018 12:40:56 +0000|Mon, 19 Nov 2018 12:40:56 +0000
+b1fbd10f06a4b1e0ad266c0bdcf7c849ba3edce2|bumped the version of fluentd from 1.2 to 1.3|Mon, 19 Nov 2018 10:52:25 +0000|Mon, 19 Nov 2018 10:52:25 +0000
+5001fc84cc501eb96c8d84cd1d6a7fd5b1b1a0a0|changed the name of "postgres" directory containing job repository config files to "pgjobrepo"|Mon, 19 Nov 2018 10:24:41 +0000|Mon, 19 Nov 2018 10:24:41 +0000
+cc36a624260bbdbc8a2ab800c927da39f1e03267|updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;|Mon, 19 Nov 2018 10:13:24 +0000|Mon, 19 Nov 2018 10:13:24 +0000
+834647f9e701af0fddf06b75845d67c81f2df4f0|updated the kibana + elasticsearch images to v. 6.4.2. using now -oss version without x-pack bundled to avoid problem with license expiration.|Fri, 16 Nov 2018 14:36:02 +0000|Fri, 16 Nov 2018 14:36:02 +0000
+380b924b9640238222cd151bae4477d5cf691dc5|updated postgres images to use postgres v 11.1 . updated postgres script creating db for spring batch|Fri, 16 Nov 2018 14:24:39 +0000|Fri, 16 Nov 2018 14:24:39 +0000
+07959a43c9273e4fff2d5b189511148f719a7995|minor cleanup|Fri, 16 Nov 2018 12:05:58 +0000|Fri, 16 Nov 2018 12:05:58 +0000
+2b3792aac8119d1551011ccc340cdcdd5cf8aa4e|Update README.md|Fri, 16 Nov 2018 11:51:37 +0000|Fri, 16 Nov 2018 11:51:37 +0000
+a49702e52dc774f2c973ad616b59363a1a0916b6|Delete png.txt|Fri, 16 Nov 2018 11:44:04 +0000|Fri, 16 Nov 2018 11:44:04 +0000
+c0a591eca9c702f639825838934b3de9053dec02|cleanup in the directories ; moved currently used and build images in dockerfiles dir ; moved unused images or locally used to extras ; moved postgres image to test|Thu, 15 Nov 2018 18:18:09 +0000|Thu, 15 Nov 2018 18:18:09 +0000
+cc7c89dd6fab2dd12c2b9ed4677cfc4af6327820|fix for using appropriate cogstack pipeline image|Thu, 15 Nov 2018 17:20:49 +0000|Thu, 15 Nov 2018 17:20:49 +0000
+8c1ae2b32e216e4ff7d39cfb46e3ad87ce36f0d6|changed entrypoint for cogstack docker image for /bin/bash|Thu, 15 Nov 2018 17:08:47 +0000|Thu, 15 Nov 2018 17:08:47 +0000
+0f788c409fee8a137b88297559c0df8ba8ce76f0|updated examples docker files, using overrining|Thu, 15 Nov 2018 16:35:11 +0000|Thu, 15 Nov 2018 16:35:11 +0000
+88474dc9927deb332eb0127092125f8c42102a4a|Merge pull request #60 from CogStack/refactor-build|Wed, 14 Nov 2018 16:55:45 +0000|Wed, 14 Nov 2018 16:55:45 +0000
+5a195a42e0db37c4bc04a18db282d42871faf701|added Dockerfiles for local building images for java dev|Tue, 13 Nov 2018 21:09:52 +0000|Tue, 13 Nov 2018 21:09:52 +0000
+4a4c71798327441d7af9dc1c62e61a10889ae1a5|Merge pull request #59 from CogStack/refactor-java11|Tue, 13 Nov 2018 20:48:20 +0000|Tue, 13 Nov 2018 20:48:20 +0000
+c580dddbbb33ea196573669c8d70ec6d23dc6912|Update build.gradle|Tue, 13 Nov 2018 16:31:56 +0000|Tue, 13 Nov 2018 16:31:56 +0000
+31c20be2d3cdd3b5b1cfe903e482dac01249bd4c|Merge pull request #58 from CogStack/refactor-dependencies|Mon, 12 Nov 2018 18:01:58 +0000|Mon, 12 Nov 2018 18:01:58 +0000
+23631432e340e4f4939616df54c5996d4af10c69|cleanup in the Dockerfile directories to slimmer down the image|Fri, 9 Nov 2018 17:11:11 +0000|Fri, 9 Nov 2018 17:11:11 +0000
+ba9ef0d196cec80ff23a83f11723bf8e968bb7ca|Merge pull request #57 from CogStack/examples-update|Fri, 9 Nov 2018 16:51:45 +0000|Fri, 9 Nov 2018 16:51:45 +0000
+c76a731dc09fbf5e06a7c1486160787def28deb2|refactoring docker image build process -- using multi stage build|Thu, 8 Nov 2018 17:04:23 +0000|Thu, 8 Nov 2018 17:04:23 +0000
+949cbcfa548286ca50ef9fdc814ebf32b407e346|updated travis ci to use java 11 for building|Tue, 6 Nov 2018 14:59:12 +0000|Tue, 6 Nov 2018 14:59:12 +0000
+3a22e591e59edf9688c4328da913a3b728cb3372|updated used java version for building from 8 to 11|Tue, 6 Nov 2018 14:58:23 +0000|Tue, 6 Nov 2018 14:58:23 +0000
+b61bdb29d4c2e175fc614366122717dd3daf4cbc|re-adding missing gradle-wrapper.jar (updated)|Tue, 6 Nov 2018 08:54:23 +0000|Tue, 6 Nov 2018 08:54:23 +0000
+50da589c0073ccac9af54c9439bc1362e313f93d|updated TikaDocumentItemProcessor to display a warning when no text has been extracted from the document|Mon, 5 Nov 2018 16:12:33 +0000|Mon, 5 Nov 2018 16:12:33 +0000
+49e10ad7ae41a62efee237a90456a1ca22b4f768|updated Tika dependencies ; updated gradle build jar|Mon, 5 Nov 2018 16:11:12 +0000|Mon, 5 Nov 2018 16:11:12 +0000
+58647259c77d6f175495f251fc7ed7afebd77fd4|updated groovy dep|Tue, 30 Oct 2018 16:23:42 +0000|Tue, 30 Oct 2018 16:23:42 +0000
+d89fee9dcd4272b469f48ac399eeb1f861518549|updated Spring dependencies|Tue, 30 Oct 2018 15:32:41 +0000|Tue, 30 Oct 2018 15:32:41 +0000
+61c7c877e2ef15d452200f55efcc0673eb98cf08|updated deprecated ElasticSearchDocumentsWritter to be compatible with ES 6.x|Tue, 30 Oct 2018 15:31:53 +0000|Tue, 30 Oct 2018 15:31:53 +0000
+66057f2e42a2998e365001745e1eba8f6030edd7|minor fix in the gradle build script|Tue, 30 Oct 2018 14:22:19 +0000|Tue, 30 Oct 2018 14:22:19 +0000
+9afdf2b9871d90311b9d11055294d53814f178ae|updated mockito dependency (for tests)|Tue, 30 Oct 2018 14:15:09 +0000|Tue, 30 Oct 2018 14:15:09 +0000
+b4517a5a3c1abbe82094166fdae68654148dfc74|updated postgres dependency|Tue, 30 Oct 2018 14:04:38 +0000|Tue, 30 Oct 2018 14:04:38 +0000
+591a1b851d5c7cbb5168e2424580928e45e338f2|updated the ELK images version (5.x - 6.x) used in tests ; a minor fix in test utils needed for ES 6.x|Tue, 30 Oct 2018 13:21:55 +0000|Tue, 30 Oct 2018 13:21:55 +0000
+989e73d6787f5dbb9be644faf158f7f07368249e|updated hsqldb, ms sqlserver and mysql connector deps|Mon, 29 Oct 2018 16:40:02 +0000|Mon, 29 Oct 2018 16:40:02 +0000
+6a57239b4a81acaa9573ca5b8b22cf1a48e24f0c|updated dependencies for apache tika|Mon, 29 Oct 2018 15:20:35 +0000|Mon, 29 Oct 2018 15:20:35 +0000
+d57bd0c2da639a62228c2d7f7568b4bed05898ff|updated dependencies for apache commons, gate core, xml apis|Mon, 29 Oct 2018 14:59:37 +0000|Mon, 29 Oct 2018 14:59:37 +0000
+b40ad58dd86bcb3f98342b1b555b5d0164aec8d3|updated dependencies for logging, gson, commons-io, joda, elasticsearch|Mon, 29 Oct 2018 14:37:10 +0000|Mon, 29 Oct 2018 14:37:10 +0000
+b0d3196a988241fee96257ab569aedb6c2283583|updated examples w.r.t to refactoring of the properties default values|Fri, 19 Oct 2018 16:43:29 +0100|Fri, 19 Oct 2018 16:43:29 +0100
+75a6bd6b2fc379ed24ab4afd1cd0a7094ec55eca|removed unused file|Fri, 19 Oct 2018 14:31:40 +0100|Fri, 19 Oct 2018 14:31:40 +0100
+a6b4f9fef16d14ddc850278ab4729726e9dab3c8|Merge pull request #56 from CogStack/refactor-properties|Thu, 18 Oct 2018 16:03:02 +0100|Thu, 18 Oct 2018 16:03:02 +0100
+b82abddf3a8c0a3db5e63a03cb4cdb02815ea9fd|decoupled scheduler property responsibility; added execution.mode and execution.instanceType properties to handle master-slave execution mdoe configuration|Fri, 12 Oct 2018 13:37:13 +0100|Fri, 12 Oct 2018 13:37:13 +0100
+bcc35ef43b1b95e5c9da5fe6b142f8e3b97eb559|changed the default field name for ES index from defaultIndex to default_index, as it will be easier for applying filtering|Fri, 12 Oct 2018 09:21:18 +0100|Fri, 12 Oct 2018 09:21:18 +0100
+5d1caade12d2b169b4ecd15fda5fa0668b938371|set default output field name for Tika|Fri, 12 Oct 2018 09:20:16 +0100|Fri, 12 Oct 2018 09:20:16 +0100
+e8063d79548b74df03e7dfbde277ca3400cc0280|introduced default prop values for webservice document processor (e.g. for BioYodie, BioLarK, ...)|Thu, 11 Oct 2018 16:39:46 +0100|Thu, 11 Oct 2018 16:39:46 +0100
+aec9ec0ac1b895ac8564a5d129640c42a15cd082|introduced default prop values for GATE service|Thu, 11 Oct 2018 16:38:51 +0100|Thu, 11 Oct 2018 16:38:51 +0100
+2adefbcd42c7628eb6f0a1471c75c2eefdcf84eb|introduced default prop values for DeId Elasticgazetteer|Thu, 11 Oct 2018 16:36:35 +0100|Thu, 11 Oct 2018 16:36:35 +0100
+deb17b35c309bb09ffee517e7dd6a0bd8cdcafbe|forgot to update few missing default values for ES rest service|Thu, 11 Oct 2018 16:35:22 +0100|Thu, 11 Oct 2018 16:35:22 +0100
+239ce5973a275d0ef669efec996efcd5a4fd2b51|introduced default properties values for master-slave execution mode|Thu, 11 Oct 2018 16:34:47 +0100|Thu, 11 Oct 2018 16:34:47 +0100
+62842c28c2db35e086f9219827994ead50edc671|set by default to run with scheduler off|Thu, 11 Oct 2018 16:33:56 +0100|Thu, 11 Oct 2018 16:33:56 +0100
+f42c88caa3810fd0fa3eaff88a3331102f0577fa|updated default properties for batch configurer, job repository and running jobs|Thu, 11 Oct 2018 16:33:18 +0100|Thu, 11 Oct 2018 16:33:18 +0100
+9b8a126f19ad24ac80204c7695e6073bee5bf98f|set default value for partitioner as PKTimeStamp (the only one fully supported for the moment)|Thu, 11 Oct 2018 16:07:23 +0100|Thu, 11 Oct 2018 16:07:23 +0100
+ffe4ca425bfb7a65ebc6224f8f3368cac877d736|set database to be the default source for documents for tika (configurable)|Thu, 11 Oct 2018 16:06:26 +0100|Thu, 11 Oct 2018 16:06:26 +0100
+4ec9fc483f05c0946c90d1a0a98af0e6b09e673b|set default properties for ES Rest Document writer|Thu, 11 Oct 2018 16:05:20 +0100|Thu, 11 Oct 2018 16:05:20 +0100
+5fcfe448d7ba3f78372c63259d8f110bca818c3b|set default properties for tika|Thu, 11 Oct 2018 16:04:44 +0100|Thu, 11 Oct 2018 16:04:44 +0100
+41de8a695536cf5e1eff4be42255f261021a3255|rolled back the modifications to BioYodie and FullPipeline integration tests and disabled them directly in gradle|Thu, 11 Oct 2018 14:34:44 +0100|Thu, 11 Oct 2018 14:34:44 +0100
+d770ca4b40664829feaf1c253e421940da1d4728|increased number of lines reported by travis from build output to 2000 (from 500)|Thu, 11 Oct 2018 13:05:11 +0100|Thu, 11 Oct 2018 13:05:11 +0100
+52ac242eda70fc86b8f4f30f012fcc94a4cdcb66|removed the BioYodie and FullPipeline integration test for MySQL profile|Thu, 11 Oct 2018 13:04:37 +0100|Thu, 11 Oct 2018 13:04:37 +0100
+17603a7eac22b0562cde3bca9fb6dff85621f05e|disabled FullPipeline integration test as it is using BioYodie as a microservice|Thu, 11 Oct 2018 12:19:07 +0100|Thu, 11 Oct 2018 12:19:07 +0100
+918f2b1c1f3bd947c08a6360621bbd7058779b2e|disabled tesing BioYodie webservice inside integration tests (problems with downloading BioYodie image due to UMLS licensing)|Thu, 11 Oct 2018 10:49:01 +0100|Thu, 11 Oct 2018 10:49:01 +0100
+db60ac91452840bd098081e3d4bf9821f1ed217d|fixing ElasticGazetteer acceptance test (required now jdbc_* profile to enable upated target.* annotations)|Thu, 11 Oct 2018 10:18:15 +0100|Thu, 11 Oct 2018 10:18:15 +0100
+9490739d9f4e01bd7a3c4edad5fd9e76a1b13324|setting the default grid size for paritioner to 1|Wed, 10 Oct 2018 16:47:02 +0100|Wed, 10 Oct 2018 16:47:02 +0100
+3c90077738916c4d8c86ddc4db44e783ec1478f1|minor cleanup with properties: setting up optional properties for source DB and setting some of the properties as obligatory (throws exception when not set)|Wed, 10 Oct 2018 16:46:19 +0100|Wed, 10 Oct 2018 16:46:19 +0100
+ff5c2bb7e842eef0c30d0af45c2791370c6830d1|enabled target.* properties only in jdbc_out* profiles; introduced default values|Wed, 10 Oct 2018 16:12:50 +0100|Wed, 10 Oct 2018 16:12:50 +0100
+d74a04c339c339bed25faa9df80c38856d2ec336|fix for downloading db dumps for running example 5|Wed, 10 Oct 2018 13:53:25 +0100|Wed, 10 Oct 2018 13:53:25 +0100
+eebc382f0ad3357d8f382aac289fb71a7989a2fe|minor fix in cobntainer name in example4 docker compose file|Mon, 8 Oct 2018 09:54:15 +0100|Mon, 8 Oct 2018 09:54:15 +0100
+be4496ce919f5b255eb4e2b2cbd7ceb49fbfc023|minor fix for Tika document processor for handling documents without binary content|Mon, 8 Oct 2018 09:49:53 +0100|Mon, 8 Oct 2018 09:49:53 +0100
+6eea03cc88321e9f68a96c6c7a968571ae3f831e|Merge pull request #55 from CogStack/examples-update|Wed, 19 Sep 2018 20:14:19 +0200|Wed, 19 Sep 2018 20:14:19 +0200
+df201cfba89555e529057d687043aa6e560dca26|PR #55 -- applying remarks|Wed, 19 Sep 2018 19:14:54 +0200|Wed, 19 Sep 2018 19:14:54 +0200
+73f2238b054171f37667246da5d0919e1f34c6c5|Merge pull request #54 from CogStack/fix-doc-nullptr|Tue, 18 Sep 2018 18:31:06 +0200|Tue, 18 Sep 2018 18:31:06 +0200
+57b59588f1cc5de46865f835b39706e3eab150f8|updated docs/examples -- minor|Tue, 18 Sep 2018 18:30:28 +0200|Tue, 18 Sep 2018 18:30:28 +0200
+e7c3a0bd377ab6f4ba4e107e29e2d354da0c1c7d|updated docs/examples -- added description of ex.8 and ex.9|Tue, 18 Sep 2018 15:56:39 +0200|Tue, 18 Sep 2018 15:56:39 +0200
+78c4775a6eafb82e7b0da72f7b4fbd3bde691531|fixing nullptr exceptions when processing documents with Tika (no binary doc) and GATE(no text)|Tue, 18 Sep 2018 10:10:40 +0200|Tue, 18 Sep 2018 10:10:40 +0200
+2a090405d9d780fc28ba8707df0fbf1e0b634a50|minor change in ex8 and ex9 docker compose files|Tue, 18 Sep 2018 09:59:39 +0200|Tue, 18 Sep 2018 09:59:39 +0200
+cebc12f28a92eb92cadcf0973f727cd9ed3f27b6|added example 9: full pipeline prototype incl. Tika+GATE|Tue, 18 Sep 2018 09:56:20 +0200|Tue, 18 Sep 2018 09:56:20 +0200
+d389103f99224936369fb5a9004146795012a628|added example 8: using GATE NLP with ANNIE custom Gazetteer for drug annotation|Mon, 17 Sep 2018 17:47:50 +0200|Mon, 17 Sep 2018 17:47:50 +0200
+becda1ebe4c61854d8f1ec3843139fa74e06afb0|Merge pull request #53 from CogStack/examples-update|Wed, 5 Sep 2018 15:30:29 +0100|Wed, 5 Sep 2018 15:30:29 +0100
+8d5488ed153cb32cae6e694f5876ffb869caf361|disabled the ES X-Pack features by default|Fri, 31 Aug 2018 10:14:17 +0100|Fri, 31 Aug 2018 10:14:17 +0100
+2c2d1ce868769572591722639ae78b69d741ab9e|update of documentation: examples + quickstart (used a new, separate example for nginx)|Thu, 30 Aug 2018 16:18:06 +0100|Thu, 30 Aug 2018 16:18:06 +0100
+cfebb3cdf719b8a0e1f62e69c4ac740a40295ff8|minor fix in docker compose files for ex: 6 7|Thu, 30 Aug 2018 14:12:36 +0100|Thu, 30 Aug 2018 14:12:36 +0100
+5c8efe2758d65a6c31d1aef2b3d4fb0fe860a9ac|added a separate example for using nginx|Thu, 30 Aug 2018 11:37:08 +0100|Thu, 30 Aug 2018 11:37:08 +0100
+2184da1c9e72b43fcf5ae054ad5d3dc1b473423a|updating examples: 1-4; removed ngnix and refactored container names to avoid name clash|Wed, 29 Aug 2018 16:43:21 +0100|Wed, 29 Aug 2018 16:43:21 +0100
+a394ce93dcb2c0f211c3877aad4a060fd85d463f|a provisional fix for getting scheduler to work with ES REST service and documents writer (#52)|Thu, 23 Aug 2018 17:53:49 +0100|Thu, 23 Aug 2018 17:53:49 +0100
+ce3de75e30494c7275b536f6de65743f193e5411|Logging using fluentd (#51)|Thu, 23 Aug 2018 17:52:19 +0100|Thu, 23 Aug 2018 17:52:19 +0100
+594821695591fa93d7cd0e62b2cd0f902192f9b8|Setting connection pool size for target and job repo DB (#50)|Wed, 22 Aug 2018 22:36:58 +0100|Wed, 22 Aug 2018 22:36:58 +0100
+5407d2c1d26d0e06182475c823012f21b1c666ca|exposed parameters of Tika components ImageMagick and TesseractOCR -- the timeout value (#49)|Wed, 22 Aug 2018 17:45:56 +0100|Wed, 22 Aug 2018 17:45:56 +0100
+76dba9d61432f8e3add1b449583cfa9903b43940|updated the text of quickstart and example docs|Thu, 16 Aug 2018 09:57:26 +0100|Thu, 16 Aug 2018 09:57:26 +0100
+35d12761ebdef0fd4284780366675d6f29007c38|Merge sample datasets, examples with docs into dev (#48)|Wed, 15 Aug 2018 15:51:27 +0100|Wed, 15 Aug 2018 15:51:27 +0100
+1372d01608f6339600d36554012010e7bbd0a5f3|Test refactor (#47)|Tue, 3 Jul 2018 14:35:30 +0100|Tue, 3 Jul 2018 14:35:30 +0100
+134229169a2cdca050b73f0d857b076696748da5|Merge pull request #44 from CogStack/refactor|Tue, 3 Jul 2018 10:52:55 +0100|Tue, 3 Jul 2018 10:52:55 +0100
+d4606f5bc619acbf0e80a2a83b49c1ad5ea83d39|Use docker cloud images wherever possible|Mon, 21 May 2018 14:50:20 +0100|Mon, 21 May 2018 14:50:20 +0100
+021b74da2112fc254836c7b096decb7af271d914|remove stale code and fixes|Fri, 18 May 2018 15:49:58 +0100|Fri, 18 May 2018 15:49:58 +0100
+259330e1eaee41fa9071ed61dafbb0348c67a4de|Merge branch 'refactor' of https://github.com/CogStack/CogStack-Pipeline into refactor|Thu, 17 May 2018 20:06:36 +0100|Thu, 17 May 2018 20:06:36 +0100
+1cf37d7f06025e264ecee00905cdc8ae5c955485|Update readme|Thu, 17 May 2018 20:06:05 +0100|Thu, 17 May 2018 20:06:05 +0100
+31b9b6d10dae533fba73e59759e09b41bace9a9a|Merge branch 'dev' into refactor|Thu, 17 May 2018 19:49:24 +0100|Thu, 17 May 2018 19:49:24 +0100
+80696db14b892869fa12f0cc503fa858f9b32ce2|Add packages to travis build|Thu, 17 May 2018 19:29:39 +0100|Thu, 17 May 2018 19:29:39 +0100
+5187ba257b589e5e6fc6b85de25947cf727ec915|Refactor profiles and initial travis build|Thu, 17 May 2018 18:59:05 +0100|Thu, 17 May 2018 18:59:05 +0100
+302317018acc22140a510e8ce679a988f1ef17a4|Use latest version of gradle wrapper|Thu, 17 May 2018 18:07:07 +0100|Thu, 17 May 2018 18:07:07 +0100
+d2729f3644d1c909927f3f40ea7e1b96215b927d|minor README change|Thu, 17 May 2018 17:56:59 +0100|Thu, 17 May 2018 17:56:59 +0100
+282d7e6be9a0c1863e1df4100c89509f0c78ec3b|Add basic Authentication to the stack in Lieu of XPACK Auth (#42)|Thu, 17 May 2018 17:43:38 +0100|Thu, 17 May 2018 17:43:38 +0100
+d86a6f6eb10b4a8d139f9f3091c95ee1cd96118c|fix merge conflict|Thu, 17 May 2018 17:28:32 +0100|Thu, 17 May 2018 17:28:32 +0100
+2dcccad0ad08af44f63fc1fd2842e52e62ff9f78|Improve gradle build and use profiles|Thu, 17 May 2018 17:21:55 +0100|Thu, 17 May 2018 17:21:55 +0100
+36f42b5dc7e61e89d48849c1c3d9151851510964|proxy/auth both kibana and elasticsearch as default (drop elastic search proxy for prod)|Thu, 17 May 2018 17:12:15 +0100|Thu, 17 May 2018 17:12:15 +0100
+a72fe87d09f34d82b3fddc8eb2a9bfb4ed8c5663|add basic auth nginx proxy to stack|Thu, 17 May 2018 15:10:09 +0100|Thu, 17 May 2018 15:10:09 +0100
+4da10a3806c6988421cbae9a54ede08655f9294f|Create ELK + CogStack Docker Compose and automated build of Cogstack-Pipeline (#39)|Tue, 15 May 2018 16:58:51 +0100|Tue, 15 May 2018 16:58:51 +0100
+ec0593d452c34c2c33b37ce94737918d6d9d4d93|add docs for multi-node ELK stack cogstack compose|Tue, 15 May 2018 14:32:13 +0100|Tue, 15 May 2018 14:32:13 +0100
+5676c403380e5f69cf49d4a29b9dc4aff4d3dde8|correct typo when copying elasticsearch.yml|Tue, 15 May 2018 12:04:53 +0100|Tue, 15 May 2018 12:04:53 +0100
+edb8ab09aa2329111530d615cd99bc28c42c8fd7|add multi-node ELK Stack and CogStack docker-compose file|Tue, 15 May 2018 11:32:15 +0100|Tue, 15 May 2018 11:32:15 +0100
+f5229109a0c34cd4cf420a014496fd625cf4d4a5|modify CogStack Docker CMD script|Tue, 15 May 2018 11:30:36 +0100|Tue, 15 May 2018 11:30:36 +0100
+6f734ed4b293fb5d14b0814b740a1765b9ff8d17|add automated CogStack container build on cloud.docker.com|Tue, 15 May 2018 11:28:48 +0100|Tue, 15 May 2018 11:28:48 +0100
+a6dc5db12592b799d06fc92731c63fb48d9d6b8b|use es version 6 and put port configuraions|Fri, 4 May 2018 21:07:53 +0000|Fri, 4 May 2018 21:07:53 +0000
+36ed5c74fe6528dccbe1bfcd7f39c24347548258|using new cogstack names|Fri, 4 May 2018 21:04:36 +0000|Fri, 4 May 2018 21:04:36 +0000
+424924b5ec5309e376fd2e0806ae2b4b4e8bfef0|Update postgres_db.properties|Fri, 4 May 2018 18:42:25 +0100|Fri, 4 May 2018 18:42:25 +0100
+b21ce0c60e1ddc4e9c606019905dce6f635c604c|update example configuration with new settings|Fri, 4 May 2018 15:09:38 +0100|Fri, 4 May 2018 15:09:38 +0100
+51b5b33738ea0402c4b883de3ad1068012e7c0c0|minor fixes - not working|Thu, 3 May 2018 17:36:02 +0100|Thu, 3 May 2018 17:36:02 +0100
+3b80be929e915b56b06a5b624ad6a1ed62b2f084|add kibana container, and config to clust, rebuild cogstack and postgres containers|Thu, 3 May 2018 15:53:50 +0100|Thu, 3 May 2018 15:53:50 +0100
+f3e68b73a8293e2841fce47cb87403424fd28253|add multi-node elastic v6 docker-compose.yml|Thu, 3 May 2018 13:44:13 +0100|Thu, 3 May 2018 13:44:13 +0100
+968432a371763ffa5237452e29f9ad32f7d8f696|add RJ repo link|Fri, 23 Mar 2018 17:47:52 +0000|Fri, 23 Mar 2018 17:47:52 +0000
+f37c1281fd8ed669ecc4932fd271699729ba9edc|elasticsearch 6.0.0 transport/bulkresponse libs|Wed, 22 Nov 2017 15:15:32 +0000|Wed, 22 Nov 2017 15:15:32 +0000
+ed77c27258276ea7d94a1ab25da55a307f599210|elasticsearch v6.0.0 update client library|Wed, 22 Nov 2017 15:13:59 +0000|Wed, 22 Nov 2017 15:13:59 +0000
+6c18bf65c42eef2694988f96b965d81cc5b30ec5|xpack setting updated for ES6.0|Tue, 21 Nov 2017 14:32:36 +0000|Tue, 21 Nov 2017 14:32:36 +0000
+83cb7b21a2062926f1978c57ca5877f0adcf190f|Update tikaJob.properties|Mon, 6 Nov 2017 10:26:53 +0000|Mon, 6 Nov 2017 10:26:53 +0000
+68cb059210c87140e1a8c924aec825e566ac9ea6|fixed the issue caused by 'string' field changes|Mon, 2 Oct 2017 09:40:45 +0100|Mon, 2 Oct 2017 09:40:45 +0100
+7ef6fb7a705d4110a62ca2018991e1b40461a35a|set sourceDataSource pool size|Mon, 2 Oct 2017 09:35:23 +0100|Mon, 2 Oct 2017 09:35:23 +0100
+3ef9a0ad7225fa582cd98a0bfb4fc75a3fe53f60|Readme ed (#36)|Mon, 25 Sep 2017 14:55:34 +0100|Mon, 25 Sep 2017 14:55:34 +0100
+f45499c3ab6af19a6e3722d0b6bc1141be02725a|fixed a bug with file extension settings|Wed, 20 Sep 2017 11:59:22 +0100|Wed, 20 Sep 2017 11:59:22 +0100
+e20394f56df9bae0fb18cbe18c2f7f9b0c0c3843|docman file extension|Wed, 20 Sep 2017 11:18:01 +0100|Wed, 20 Sep 2017 11:18:01 +0100
+4ab57610ce37ea3ba3911d6b245451a4104fa2e2|changed log4j|Wed, 20 Sep 2017 10:16:49 +0100|Wed, 20 Sep 2017 10:16:49 +0100
+d9e5f7635ef60ad911ca9402b0fbde563c9dd322|added a test query for OLD mysql server connections|Wed, 20 Sep 2017 10:10:41 +0100|Wed, 20 Sep 2017 10:10:41 +0100
+2e519f53acbf59cc23d8829b7b8892f05c21310c|changed mysql-connector version|Wed, 20 Sep 2017 10:05:50 +0100|Wed, 20 Sep 2017 10:05:50 +0100
+f66e5f3b7b07ada2853ced4cbaebd24ca44693f6|added mysql queries for docman jobs|Wed, 20 Sep 2017 10:03:48 +0100|Wed, 20 Sep 2017 10:03:48 +0100
+82bbc9fbf3904fb7bb642836c3a51392e06c90b6|added mysql queries for docman jobs|Wed, 20 Sep 2017 10:02:52 +0100|Wed, 20 Sep 2017 10:02:52 +0100
+1d1b6881e865dae34597d2e540732f61a21f25c7|added mysql queries for docman jobs|Wed, 20 Sep 2017 10:00:53 +0100|Wed, 20 Sep 2017 10:00:53 +0100
+ca1506b33bb110027204eb7389b08a93d21df199|Fixed the native ES Java client to work with X-Pack|Mon, 10 Jul 2017 13:48:58 +0100|Mon, 10 Jul 2017 13:48:58 +0100
+8f1e2f3d837806b70c5fd5334595d524b129e04c|Added support for converting docx and png to pdf|Tue, 4 Jul 2017 09:55:37 +0100|Tue, 4 Jul 2017 09:55:37 +0100
+fe2a62ce92323bb84539f7952acde571e66cadd1|Support for X-Pack + SSL Fix|Tue, 4 Jul 2017 09:54:15 +0100|Tue, 4 Jul 2017 09:54:15 +0100
+eeffd2a19545940586fa26c1a15f13262708dbc8|Readme ed (#29)|Fri, 16 Jun 2017 16:20:31 +0100|Fri, 16 Jun 2017 16:20:31 +0100
+46f8515d7d007d011efa79a5199cbc6d5c0cbdf2|Ignore the OCR test|Thu, 15 Jun 2017 09:39:01 +0100|Thu, 15 Jun 2017 09:39:01 +0100
+bab54d82dae0f9ca64cc5b71d786965b16ba1583|Merge pull request #27 from jstuczyn/patch-1|Tue, 13 Jun 2017 14:12:11 +0100|Tue, 13 Jun 2017 14:12:11 +0100
+961701b4734ea5263a4e92c8fae114d187d4a046|Fixed outdated tika dependency (described in #3)|Tue, 13 Jun 2017 14:05:30 +0100|Tue, 13 Jun 2017 14:05:30 +0100
+ba8dba6aeea07ea2d001029403edb397bb687d7b|edit contact|Fri, 9 Jun 2017 10:59:45 +0100|Fri, 9 Jun 2017 10:59:45 +0100
+1b59d10db52c05e575b42656537dd26b8b6aa519|Merge pull request #19 from KHP-Informatics/20170509-fix-12-dockerize-libreoffice|Tue, 9 May 2017 14:10:36 +0100|Tue, 9 May 2017 14:10:36 +0100
+d78621c8818d6ec467e14173380c8f77a474d4c7|Improve PDF / Thumbnail generation error handling messages|Tue, 9 May 2017 14:06:45 +0100|Tue, 9 May 2017 14:06:45 +0100
+094ebfc90da274194d59e22ee344eeb62e668fa0|KHP-Informatics/cogstack#12 Dockerize libre office to support multi-threading on Linux|Tue, 9 May 2017 14:05:49 +0100|Tue, 9 May 2017 14:05:49 +0100
+4353a5bf9e1db1cbd609a0cf4cf682217ede5d1f|Merge remote-tracking branch 'upstream/master'|Sun, 23 Apr 2017 16:50:38 +0100|Sun, 23 Apr 2017 16:50:38 +0100
+f17bb52509b2db110401ed41601230038e6bca1e|Merge pull request #65 from KHP-Informatics/20170411-misc-fixes|Sat, 22 Apr 2017 19:02:57 +0100|Sat, 22 Apr 2017 19:02:57 +0100
+f9b8f6b68be2960ef00feea3b072ef4ba1d41f6f|Merge pull request #64 from KHP-Informatics/20170421-fix-54-elasticsearchRest-closing|Sat, 22 Apr 2017 19:02:02 +0100|Sat, 22 Apr 2017 19:02:02 +0100
+ea5e91540679964313e0a027c6542a625df864ba|Merge pull request #57 from KHP-Informatics/20170313-pdf-box-processor|Sat, 22 Apr 2017 18:59:48 +0100|Sat, 22 Apr 2017 18:59:48 +0100
+0fbe9ca64bb6a4069f630a3b91987e8a41c39772|Merge pull request #43 from KHP-Informatics/20170309-ft-sql-param-from-map|Sat, 22 Apr 2017 18:59:28 +0100|Sat, 22 Apr 2017 18:59:28 +0100
+8b3becbe6cfa6ff1c8ebd01347d2380c6e6e2e1d|Merge pull request #63 from KHP-Informatics/20170411-fix-27-gate-blocking|Sat, 22 Apr 2017 18:58:52 +0100|Sat, 22 Apr 2017 18:58:52 +0100
+e1af3d624fbbfc2893a8a3d467239a7b17417494|RichJackson/cogstack#54 close elasticsearch REST service with listener instead of relying on @PreDestroy|Fri, 21 Apr 2017 14:54:48 +0100|Fri, 21 Apr 2017 14:54:48 +0100
+eb4726778063881592a0413efb14cfb7a3636e1a|Log IOException in ElasticsearchRestDocumentWriter.write()|Fri, 21 Apr 2017 14:47:30 +0100|Fri, 21 Apr 2017 14:47:30 +0100
+f608282f1a88cd72d90bd4beee4af94153f85e44|For PDFGenerationItemProcessor, replace existing file at destination to avoid FileAlreadyExistsException|Fri, 21 Apr 2017 14:45:30 +0100|Fri, 21 Apr 2017 14:45:30 +0100
+b452b7517342801ce33975338e5e0e786748688e|RichJackson/cogstack#32 Move PDF / thumbnail file writer to processor|Fri, 21 Apr 2017 10:45:35 +0100|Fri, 21 Apr 2017 10:45:35 +0100
+5518235ad4fd73780bb6932430faa9b37e0f0a14|Merge branch '20170411-fix-27-gate-blocking' into upstream-development|Thu, 20 Apr 2017 17:47:53 +0100|Thu, 20 Apr 2017 17:47:53 +0100
+26efe1c40e2f2f9e376d43f5055806424f494df8|Merge branch '20170309-ft-sql-param-from-map' into upstream-development|Thu, 20 Apr 2017 17:47:29 +0100|Thu, 20 Apr 2017 17:47:29 +0100
+3a89dc08dd06bbc9a9dbd21ff6a51b92257d393c|Merge remote-tracking branch 'upstream/master'|Thu, 20 Apr 2017 17:34:34 +0100|Thu, 20 Apr 2017 17:34:34 +0100
+41cda975115c5c694c677694b707cefae568def8|RichJackson/cogstack#38 integration test for PDF BOX processor (SQL Server)|Thu, 20 Apr 2017 16:01:59 +0100|Thu, 20 Apr 2017 16:01:59 +0100
+9a81e2ca7be4905170abff4508d7804bd0b956f3|KHP-Informatics/cogstack#14 integration test for MapItemSqlParameterSourceProvider|Thu, 20 Apr 2017 15:54:18 +0100|Thu, 20 Apr 2017 15:54:18 +0100
+91b8e7e472ae22dbf1ba17349d59c2f519f15ca7|Merge branch 'upstream' into 20170309-ft-sql-param-from-map|Wed, 12 Apr 2017 15:05:58 +0100|Wed, 12 Apr 2017 15:05:58 +0100
+9a5cc5c3745dd0e285752c763f374f2bbb999d94|RichJackson/cogstack#38 integration test for PDF BOX processor|Wed, 12 Apr 2017 15:01:34 +0100|Wed, 12 Apr 2017 15:01:34 +0100
+01cb7c874ad6d3ed1d968d0d1b321d4fcc2557c3|RichJackson/cogstack#38 Fix: swap order of PDF field name & output field name to align with config file|Wed, 12 Apr 2017 14:59:42 +0100|Wed, 12 Apr 2017 14:59:42 +0100
+f6d89ffdaeff4a78207c9fb6ca695a36068fa304|RichJackson/cogstack#38 Upgrade to tika 1.15 SNAPSHOT|Tue, 11 Apr 2017 11:38:31 +0100|Tue, 11 Apr 2017 11:38:31 +0100
+bd40346c249c3d48dea8909d4b9a9031f4a6e28b|RichJackson/cogstack#38 Add missing build.gradle dependency|Tue, 11 Apr 2017 11:33:45 +0100|Tue, 11 Apr 2017 11:33:45 +0100
+a1ef539a3300ae779dd4b14da55b3ea474acba44|Merge branch 'upstream' into 20170313-pdf-box-processor|Tue, 11 Apr 2017 11:32:08 +0100|Tue, 11 Apr 2017 11:32:08 +0100
+3f5e3975677e44fea4aea58a0fcc2cc84fd937b9|KHP-Informatics/CogStack#14 Handle (skip) exception when MapItemSqlParameterSourceProvider refers to non-existing param. Add skip listener for logging|Tue, 11 Apr 2017 11:27:39 +0100|Tue, 11 Apr 2017 11:27:39 +0100
+c82b6e80689c5f7cb24da1239da532b7d2d10dc6|RichJackson/cogstack#27 Prevent exceptions in GATE blocking CogStack pipeline|Tue, 11 Apr 2017 11:22:33 +0100|Tue, 11 Apr 2017 11:22:33 +0100
+912cf2bbebbdc4f1d898cbd27752fcacdb146be2|Merge pull request #61 from KHP-Informatics/20170317-es-rest-logging|Thu, 23 Mar 2017 16:40:27 +0000|Thu, 23 Mar 2017 16:40:27 +0000
+10ee7581cf08a13c13c8ac19d28abb71bc4f771d|Merge remote-tracking branch 'upstream/master' into 20170317-es-rest-logging|Thu, 23 Mar 2017 16:36:50 +0000|Thu, 23 Mar 2017 16:36:50 +0000
+aa84ab2f4ad3ca8a4cc3f2f373004f8d0b5f0712|Merge remote-tracking branch 'upstream/master'|Thu, 23 Mar 2017 16:30:55 +0000|Thu, 23 Mar 2017 16:30:55 +0000
+9ef3ea429846c447adb6ab2e56d6f3b537bed740|Merge pull request #59 from KHP-Informatics/20170323-fix-scheduling-default|Thu, 23 Mar 2017 16:29:26 +0000|Thu, 23 Mar 2017 16:29:26 +0000
+1c6b80b82c471a4669fdda10f2ec746ce2bf8ecc|Merge pull request #60 from KHP-Informatics/20170323-add-gate-logging|Thu, 23 Mar 2017 16:29:12 +0000|Thu, 23 Mar 2017 16:29:12 +0000
+38dcdf54bed053a2b81dfe613c6d93b17ae17c78|Improve log clarity in GATE processor|Thu, 23 Mar 2017 16:27:01 +0000|Thu, 23 Mar 2017 16:27:01 +0000
+5cf498100a0ae01da23d5fff5486032a0780d0ea|KHP-Informatics/cogstack#16 Fix default scheduler.rate to follow cron syntax|Thu, 23 Mar 2017 16:19:05 +0000|Thu, 23 Mar 2017 16:19:05 +0000
+999ac882585ccf95aeb729c430afcce2c4ee8937|fixed bug on singleJobLauncher and acceptance tests|Mon, 20 Mar 2017 11:28:39 +0000|Mon, 20 Mar 2017 11:28:39 +0000
+f0a357553fb4a29ed1d7eed9ac96fc417f9dfa90|Merge branch 'upstream' into 20170313-pdf-box-processor|Fri, 17 Mar 2017 12:19:37 +0000|Fri, 17 Mar 2017 12:19:37 +0000
+7ede71af597b764c5019d610ec63951cb4dd2ac5|Merge pull request #56 from KHP-Informatics/20170317-code-clean-up|Fri, 17 Mar 2017 12:18:16 +0000|Fri, 17 Mar 2017 12:18:16 +0000
+ba59f102ae594fb85fef7a4a9889f806910140cf|Merge pull request #55 from KHP-Informatics/20170317-fix-log-formatting|Fri, 17 Mar 2017 12:17:57 +0000|Fri, 17 Mar 2017 12:17:57 +0000
+e678ac5d5a0e3d3225e96a9efee28efcb0014e91|Code clean up - remove import for CleanupBean when not needed|Fri, 17 Mar 2017 12:16:45 +0000|Fri, 17 Mar 2017 12:16:45 +0000
+1a2265cd4856666c3af24ca18ee0f2eb3d7963f1|Add newline after log messages in STDOUT|Fri, 17 Mar 2017 12:14:29 +0000|Fri, 17 Mar 2017 12:14:29 +0000
+ffde01cbfa9ed5bcae67981dc1921eba5118130d|ES Rest: improve logging|Fri, 17 Mar 2017 10:16:54 +0000|Fri, 17 Mar 2017 10:16:54 +0000
+b8f805564ecf4e9a63a0692b8aad38c10cdc553f|Merge pull request #53 from KHP-Informatics/20170314-28-fieldsToGate-multiple-fields-support|Fri, 17 Mar 2017 08:48:28 +0000|Fri, 17 Mar 2017 08:48:28 +0000
+0f8d36a1d6de07c99cfb0d85d6ea7c7eb0ec6a21|Merge pull request #52 from KHP-Informatics/20170313-fix-property-defaults|Fri, 17 Mar 2017 08:48:00 +0000|Fri, 17 Mar 2017 08:48:00 +0000
+b377238cd860c23aad125f8de31ec44aa2e14609|RichJackson/cogstack#28 fieldsToGate supports multiple fields as map|Tue, 14 Mar 2017 15:46:57 +0000|Tue, 14 Mar 2017 15:46:57 +0000
+3817102b036447546dce55d0e28dba9fa329b87e|Merge branch 'development' into 20170313-pdf-box-processor|Tue, 14 Mar 2017 12:04:57 +0000|Tue, 14 Mar 2017 12:04:57 +0000
+86652c3801c10e9229ee29cc07f16ad2058da61e|Merge branch 'upstream' into development|Tue, 14 Mar 2017 11:59:15 +0000|Tue, 14 Mar 2017 11:59:15 +0000
+9a94b62d2074f29cd413edff36737dc69986d02d|fixed bug in partitioner regarding name of pkColumn|Mon, 13 Mar 2017 19:21:41 +0000|Mon, 13 Mar 2017 19:21:41 +0000
+658457cf0c6330f79e53c65ad6d5f1880b2484e5|Merge pull request #51 from KHP-Informatics/20170313-fix-48-single-job-launcher-clean-up|Mon, 13 Mar 2017 18:58:58 +0000|Mon, 13 Mar 2017 18:58:58 +0000
+45d12afd8377dc6bc7930c52516d817a0e64fe1a|changed integration test code into services, so that different DBMSs can be tested independently. see gradle tasks sqlServerIntegTest and postgresIntegTest for details|Mon, 13 Mar 2017 18:58:23 +0000|Mon, 13 Mar 2017 18:58:23 +0000
+e9562106bb854a61da5e15747c242cba30cdbe37|Environment Properties: give elasticsearch.excludeFromIndexing a default in DocumentRowMapper so elasticsearch.properties file can be truly optional|Mon, 13 Mar 2017 16:10:54 +0000|Mon, 13 Mar 2017 16:10:54 +0000
+1cbec0a3e3597ae68fcb9b181df8d3a635fe0b73|Environment Properties: metadata.eagerGetPageCount|Mon, 13 Mar 2017 16:06:50 +0000|Mon, 13 Mar 2017 16:06:50 +0000
+18f68c257e960f23d9322691c0a574d7f11b969b|KHP-Informatics/cogstack#13 RichJackson/cogstack#38 Initial PDF form parsing with PDF BOX|Mon, 13 Mar 2017 15:27:10 +0000|Mon, 13 Mar 2017 15:27:10 +0000
+53c57d0ef02f1b6caed4f478023df87fa3bc7dde|RichJackson/cogstack#48 Remove targetDataSource and sourceDataSource from SingleJobLauncher|Mon, 13 Mar 2017 15:20:42 +0000|Mon, 13 Mar 2017 15:20:42 +0000
+7a9beb7ee2b67e3a058361630ccd3f5535ccf41e|Merge remote-tracking branch 'upstream/master' into development|Mon, 13 Mar 2017 14:22:45 +0000|Mon, 13 Mar 2017 14:22:45 +0000
+669750cec2af0d08cb1621b9bffb6e74debe8236|Merge pull request #15 from RichJackson/master|Mon, 13 Mar 2017 10:18:06 +0000|Mon, 13 Mar 2017 10:18:06 +0000
+7520391dfdbc7f88a03a38013393801a1c6c5bdf|fixed gradle-wrapper.jar issue|Fri, 10 Mar 2017 00:24:47 +0000|Fri, 10 Mar 2017 00:24:47 +0000
+68e04fd174df29b7134c9feb3b39fdae7e1cc951|Merge pull request #44 from KHP-Informatics/20170309-config-cleanup|Fri, 10 Mar 2017 00:07:34 +0000|Fri, 10 Mar 2017 00:07:34 +0000
+05d68a595cb3c1131ece97413bdd70f47e116cbe|Merge pull request #45 from KHP-Informatics/20170309-rename-jsonFileWriter-profile|Thu, 9 Mar 2017 23:27:32 +0000|Thu, 9 Mar 2017 23:27:32 +0000
+4b2b1222f128bab69e061cde4892d70641602fee|Merge branch '20170309-rename-jsonFileWriter-profile' into development|Thu, 9 Mar 2017 23:23:48 +0000|Thu, 9 Mar 2017 23:23:48 +0000
+68616384c42f09cd08486f62b15de72f824139b3|RichJackson/cogstack#42 Rename profile jsonFileWriter to jsonFileItemWriter|Thu, 9 Mar 2017 23:23:17 +0000|Thu, 9 Mar 2017 23:23:17 +0000
+876b05df6decf3d816198d68417151f1c88550d9|Merge branch '20170309-config-cleanup' into development|Thu, 9 Mar 2017 23:20:16 +0000|Thu, 9 Mar 2017 23:20:16 +0000
+6f4318f6955567ba6d5db4abd078fcdc6d9b2c19|Remove gate.otherFieldsList configuration property, which doesn't seem to be used|Thu, 9 Mar 2017 23:15:44 +0000|Thu, 9 Mar 2017 23:16:19 +0000
+55449daf23e2f2e9d3738f74b1330f7668f6adb0|Rename gateAnnotationSets configuration property (became gate.gateAnnotationSets)|Thu, 9 Mar 2017 23:13:47 +0000|Thu, 9 Mar 2017 23:13:47 +0000
+aaeee009e1a0b875af3006f1da3dd5461cdf53bc|Rename dbmsToJavaSqlTimestampType configuration property (became source.dbmsToJavaSqlTimestampType)|Thu, 9 Mar 2017 23:10:39 +0000|Thu, 9 Mar 2017 23:10:39 +0000
+416262b2028f289bcf6df2037b0d4964565b01dd|Remove renamed pkColumnNameToPartition configuration property (became partitioner.pkColumnNameToPartition)|Thu, 9 Mar 2017 23:03:26 +0000|Thu, 9 Mar 2017 23:03:26 +0000
+54204651f7d968228a09fcc30e0813003ac63618|Remove renamed tableToPartition configuration property (became partitioner.tableToPartition)|Thu, 9 Mar 2017 23:00:18 +0000|Thu, 9 Mar 2017 23:00:18 +0000
+e414fa726fa8e7be48c8e740f6cf3d1c49f1e05c|Remove renamed partitionerPreFieldsSQL configuration property (became partitioner.preFieldsSQL)|Thu, 9 Mar 2017 22:56:37 +0000|Thu, 9 Mar 2017 22:56:37 +0000
+9cccfab6c3f7b5582f760e2ac4f1402387974f8a|Remove depreciated columnToProcess configuration property|Thu, 9 Mar 2017 22:53:05 +0000|Thu, 9 Mar 2017 22:53:05 +0000
+206b9d53c592cc7d93dc1b90ac742b2510235e82|Remove depreciated datePatternForScheduling|Thu, 9 Mar 2017 22:24:44 +0000|Thu, 9 Mar 2017 22:24:44 +0000
+0bd92014a55ac1050979537a424f0a1a3fbd3435|Add default for elasticsearch.datePattern so that elasticsearch.properties file is included only if needed|Thu, 9 Mar 2017 22:19:10 +0000|Thu, 9 Mar 2017 22:19:10 +0000
+ce5e6ef35f18f2d1d2c9ac094621ef6018b33195|KHP-Informatics/turbo-laser#14 Add documentation to MapItemSqlParameterSourceProvider|Thu, 9 Mar 2017 11:44:56 +0000|Thu, 9 Mar 2017 11:44:56 +0000
+c39b3b7b305922b1a74f1d9ef283e8f3b1df6465|KHP-Informatics/turbo-laser#14 Introduce new profile 'jdbc_out_map' making use of the new MapItemSqlParameterSourceProvider|Thu, 9 Mar 2017 11:40:01 +0000|Thu, 9 Mar 2017 11:40:01 +0000
+e573e089d66598675c482482f5a359dd1f8988d9|KHP-Informatics/turbo-laser#14 Implement our own map equivalent of BeanPropertyItemSqlParameterSourceProvider|Thu, 9 Mar 2017 11:35:35 +0000|Thu, 9 Mar 2017 11:35:35 +0000
+d161440530c01fc6f2ca392f62a601eca809a7eb|version 1.2.0 release candidate|Tue, 7 Mar 2017 17:00:14 +0000|Tue, 7 Mar 2017 17:00:14 +0000
+29dbd3c04ef484edeaca8cd4cf87ee7106a2834e|working yml for simple and nlp|Tue, 7 Mar 2017 12:38:02 +0000|Tue, 7 Mar 2017 12:38:02 +0000
+fc5ecb3e1c97ce5cbfa716fd1d13ff0c28ca2387|investigating other partition configurations|Mon, 6 Mar 2017 00:48:46 +0000|Mon, 6 Mar 2017 00:48:46 +0000
+6a48ed751de00dd4318c7ccfd05591600625dbc9| replaced rest template with Rest service in testUtils|Sun, 5 Mar 2017 19:54:49 +0000|Sun, 5 Mar 2017 19:54:49 +0000
+03fe5c7f715b81e45d27380ce981bfd27736bb14|added new ESRestDocumentWriter|Sun, 5 Mar 2017 17:04:10 +0000|Sun, 5 Mar 2017 17:04:10 +0000
+d30375a4ab1d7be4aaad9118d4051ec23a849ff5|cleaned up documentrowmapper|Sun, 5 Mar 2017 12:38:00 +0000|Sun, 5 Mar 2017 12:38:00 +0000
+dccbe56f8e92bc9729efe9ce5b5e9fa685d88f4f|switched to cleaner @Value injectors|Thu, 2 Mar 2017 00:49:56 +0000|Thu, 2 Mar 2017 00:49:56 +0000
+9e7c512c05eba4a363bb62a2697066306d39632c|refactoring jobpartitioner|Wed, 1 Mar 2017 20:23:08 +0000|Wed, 1 Mar 2017 20:23:08 +0000
+78b802313f2ff95727fa10f6d5d205ef6d845294|code cleaning on partitioners and docker-compose|Wed, 1 Mar 2017 01:21:26 +0000|Wed, 1 Mar 2017 01:21:26 +0000
+357fe0fecd6f68f2d9e7a92330f00e67f2150719|updates to build file|Tue, 28 Feb 2017 16:05:51 +0000|Tue, 28 Feb 2017 16:05:51 +0000
+6b01247ca5bb0bd46b631f5a37e245216cb1b3f2|renamed to cogstack|Fri, 24 Feb 2017 16:34:53 +0000|Fri, 24 Feb 2017 16:34:53 +0000
+000b5f23105fd3ff5692b810e6f3a3c0b611673b|fixed bioyoide endpoint|Mon, 20 Feb 2017 20:32:12 +0000|Mon, 20 Feb 2017 20:32:12 +0000
+63c0693e5660259ffc1fdef17d6dd6cda5285f06|Added working bioyodie file|Mon, 20 Feb 2017 20:30:54 +0000|Mon, 20 Feb 2017 20:30:54 +0000
+bddc81ab783fd16821f93f1249ed628958aa0a09|some refactoring work done|Sat, 18 Feb 2017 00:26:33 +0000|Sat, 18 Feb 2017 00:26:33 +0000
+2ecf609bedffa5feceb9e8fb928abacf97d0ceaa|added bioyodie build file and container. Note - download link is currently broken|Fri, 17 Feb 2017 19:06:54 +0000|Fri, 17 Feb 2017 19:06:54 +0000
+a58f07eec5c803ff762f77261a7c10b3668a0510|added more comments to configs. Removed obsolete columnToProcess parameter|Fri, 10 Feb 2017 15:19:31 +0000|Fri, 10 Feb 2017 15:19:31 +0000
+e8ec628cb671e16df80b8f60c7df73ad50d9aaff|added gradle wrapper|Tue, 7 Feb 2017 11:20:17 +0000|Tue, 7 Feb 2017 11:20:17 +0000
+9f2a23934824dae42ae259e12fb098065ab18dff|merging|Tue, 7 Feb 2017 01:02:29 +0000|Tue, 7 Feb 2017 01:02:29 +0000
+9a83e4a8ae144a43ecdc57fee7cf6349faef0c78|tinkering and checking test classes|Tue, 7 Feb 2017 00:53:45 +0000|Tue, 7 Feb 2017 00:53:45 +0000
+ed4d92fc9e6dc9d8667deae846d018a9c74e50a6|added mysql driver|Mon, 6 Feb 2017 13:57:07 +0000|Mon, 6 Feb 2017 13:57:07 +0000
+f384613d0a995bfe58e2e48903690812f54e5133|minor documentation edits|Mon, 6 Feb 2017 01:12:31 +0000|Mon, 6 Feb 2017 01:12:31 +0000
+368fbac6a338efa9a570e970815866472269a602|working docman reader|Mon, 6 Feb 2017 01:05:55 +0000|Mon, 6 Feb 2017 01:05:55 +0000
+8d529bf7929f60c16980fcc5b4017a0f1982c29e|cool acceptance tests|Tue, 17 Jan 2017 00:21:22 +0000|Tue, 17 Jan 2017 00:21:22 +0000
+ddcfbe23bb9d619556fa45c5bd57232d2b9d6ec4|seperated acceptance test|Mon, 16 Jan 2017 15:37:40 +0000|Mon, 16 Jan 2017 15:37:40 +0000
+06f3179cbd2126eb9c3ab8ffe5e22e07f1adfb53|Merge pull request #31 from KHP-Informatics/20170111-integration|Wed, 11 Jan 2017 23:40:50 +0000|Wed, 11 Jan 2017 23:40:50 +0000
+bc9f3c6e1346cda6220b2a16eed6619e7b6e569f|#23 Unit test for extracting page number from TIFF - fix scope of countPageInTiff(Document) method|Wed, 11 Jan 2017 16:45:06 +0000|Wed, 11 Jan 2017 16:45:48 +0000
+191616bb3ab31c6284d2cbd2a60c54ae019b3677|#23 Unit test for extracting page number from TIFF|Fri, 6 Jan 2017 16:20:04 +0000|Fri, 6 Jan 2017 16:20:04 +0000
+9817c1c09a18716e2c06542d1906dcc8b18bc9e8|#30 Fix the unit test which is supposed to catch the multipage PDF OCR problem|Fri, 6 Jan 2017 12:48:01 +0000|Fri, 6 Jan 2017 12:48:01 +0000
+80aed9fcc0a6b1b5c09377f0a79a1b8d368cdaa5|Merge branch '20161202-fix-30-ocr-multi-page' into 20161202-integration|Sat, 3 Dec 2016 00:53:59 +0000|Sat, 3 Dec 2016 00:53:59 +0000
+245f209cef7b958ff45f1493b99a064adec29a06|#30 Remove -flatten flag from imagemagick command used in PDF OCR process|Sat, 3 Dec 2016 00:46:39 +0000|Sat, 3 Dec 2016 00:46:39 +0000
+fd6cd3d51868d5be717434984e28adb085221eb6|Merge branch '20161202-fix-29-fieldsToBioLark' into 20161202-integration|Fri, 2 Dec 2016 06:16:39 +0000|Fri, 2 Dec 2016 06:16:39 +0000
+e0ad7a581bb27431ff66674b15208144501770ba|#29 fix fieldsToBioLark configuration to work for upper case character|Fri, 2 Dec 2016 06:15:54 +0000|Fri, 2 Dec 2016 06:15:54 +0000
+c50245bb973ce52c2a5b3d421b9c8e0307011fbd|Merge branch '20161202-ft-26-gate-tracking' into 20161202-integration|Fri, 2 Dec 2016 05:51:45 +0000|Fri, 2 Dec 2016 05:51:45 +0000
+fb322fac805e4ff8ae8d35aad79f4d8356624db0|#26 Improve logging and track time spent on GATE per document|Fri, 2 Dec 2016 05:51:01 +0000|Fri, 2 Dec 2016 05:51:01 +0000
+4fb6ada15f5cb802fda6a45c57d0169dd7271e01|Merge branches '20161130-fix-24-fieldsToGate', '20161201-fix-25-gateAnnotationSets' and '20161201-fix-27-gate-LinkedBlockingQueue' into 20161202-integration|Fri, 2 Dec 2016 05:02:45 +0000|Fri, 2 Dec 2016 05:02:45 +0000
+3381081a6e10a5ac605e118ab79a2b61662b95e7|#27 When GateService caught ExecutionException, attempt to unblock LinkedBlockingQueue|Fri, 2 Dec 2016 05:00:24 +0000|Fri, 2 Dec 2016 05:00:24 +0000
+fe8c65b314c00e36302da53d55e73b4bc8f34d80|#25 convertDocToJSON() respects gateAnnotationSets configuration|Fri, 2 Dec 2016 04:58:07 +0000|Fri, 2 Dec 2016 04:58:07 +0000
+3230eb1fc8cdd82533e3241f2c3abee388741ffc|#24 GateDocumentItemProcessor: fix fieldsToGate configuration for upper case character|Thu, 1 Dec 2016 13:29:43 +0000|Thu, 1 Dec 2016 13:29:43 +0000
+90ba401ed60e1ce5753f0bdefb89613a4f9c9bae|Merge remote-tracking branch 'origin/20161114-ft-10-pdf-export-more-file-types'|Thu, 1 Dec 2016 00:45:53 +0000|Thu, 1 Dec 2016 00:45:53 +0000
+aa97e16c5720b4cb34973771a85123c7f9434bca|fixed asynchtaskexecutor bug in local configuration|Mon, 21 Nov 2016 22:25:44 +0000|Mon, 21 Nov 2016 22:25:44 +0000
+ea2c0aac3ca209a7858ae5629cb4ceeffb302a93|#10 PDF export supports HTML files|Mon, 14 Nov 2016 15:54:30 +0000|Mon, 14 Nov 2016 15:54:30 +0000
+7d8b97911b295b498931f75e62640cb956b839f3|#10 PDF export supports powerpoint ppt files|Mon, 14 Nov 2016 15:54:10 +0000|Mon, 14 Nov 2016 15:54:10 +0000
+deeaac05d2f0ac1f5f58a55a05b2fe588f5005bb|#10 PDF export supports excel XLS files|Mon, 14 Nov 2016 15:31:32 +0000|Mon, 14 Nov 2016 15:31:32 +0000
+092ff1190f1994acbc5ab3875b3829516101ef36|#10 PDF export supports JPG|Mon, 14 Nov 2016 15:22:22 +0000|Mon, 14 Nov 2016 15:22:22 +0000
+9784486788f1dd9085b2c66355d7d3c68cfedfdf|#10 PDF export supports txt or message/rfc822 (email) files|Mon, 14 Nov 2016 14:34:08 +0000|Mon, 14 Nov 2016 14:34:08 +0000
+27c0d5b953627afa21731aa8d070b380401ba13b|#10 PDF export supports RTF file|Mon, 14 Nov 2016 13:59:24 +0000|Mon, 14 Nov 2016 13:59:24 +0000
+a9031c3c55efe5af2fa5fdffc8cdaff94e2e2cac|Merge branch '20161111-fix-7-pdfitemwriter-error' into 20161107-integration|Fri, 11 Nov 2016 15:38:41 +0000|Fri, 11 Nov 2016 15:38:41 +0000
+411f3e827637d65135d64b95b5c276a0238e8c85|#7 Improve error handling and logging in PDFFileItemWriter|Fri, 11 Nov 2016 15:38:08 +0000|Fri, 11 Nov 2016 15:38:08 +0000
+d1e85ef0b7aeb3d6f98431ecbe56bd7616ab3ee3|Merge branches '20161026-ft-6-num-pages' and '20161107-ft-4-logging' into 20161107-integration|Mon, 7 Nov 2016 17:56:34 +0000|Mon, 7 Nov 2016 17:56:34 +0000
+d23153bbc3fc3302d88b069b03fe455d498dd045|Include metadataItemProcessor in list of ItemHandlers|Mon, 7 Nov 2016 17:44:36 +0000|Mon, 7 Nov 2016 17:44:36 +0000
+6934288ad06bcef9ac2e987ef738adbd586c3429|#4 Timing for Tika, PDF output and thumbnail output|Mon, 7 Nov 2016 17:40:55 +0000|Mon, 7 Nov 2016 17:40:55 +0000
+0401b7ec2396735d22b2b30f57125d7e589c32b0|#6 Use ImageMagick identify to get page count for TIFF|Wed, 26 Oct 2016 14:34:05 +0100|Wed, 26 Oct 2016 14:34:05 +0100
+5b604d36ea4ea1303824e80b9f9d58c9c249c7e5|#6 Skeleton to extract page count from TIFF using MetadataItemProcessor|Wed, 26 Oct 2016 13:38:06 +0100|Wed, 26 Oct 2016 13:38:06 +0100
+f125eb16a7f7d62f1da961f947a99b933dd05c3a|#6 Extract page count from Tika metadata|Wed, 26 Oct 2016 12:26:19 +0100|Wed, 26 Oct 2016 12:26:19 +0100
+f081d0d93cfaa41fe3dc92812806055112545f3a|#6 Refactor metadata extraction code in TikaDocumentItemProcessor|Wed, 26 Oct 2016 12:09:14 +0100|Wed, 26 Oct 2016 12:09:14 +0100
+1b82212c478f76fb45452465b0897392d78907e2|Merge pull request #21 from KHP-Informatics/20161024-ft-2-thumbnail-item-writer|Tue, 25 Oct 2016 16:23:18 +0100|Tue, 25 Oct 2016 16:23:18 +0100
+63a481662a6d0f2620c27cd398b5f08ded2a9211|Merge pull request #20 from KHP-Informatics/20161024-ft-1-pdf-item-writer|Tue, 25 Oct 2016 16:20:15 +0100|Tue, 25 Oct 2016 16:20:15 +0100
+a3dc93fba4625683c91a0515405e0246e94b01b4|Merge pull request #19 from KHP-Informatics/20161024-ft-5-detect-media-type|Tue, 25 Oct 2016 16:16:30 +0100|Tue, 25 Oct 2016 16:16:30 +0100
+22ca311e1608ddb5b3f59bc8679f2654c179d162|#2 Update ThumbnailFileItemWriter to output png from pdf|Mon, 24 Oct 2016 17:46:00 +0100|Mon, 24 Oct 2016 17:46:00 +0100
+b44bf8ff5998250c9be154021d4eb95eeea4df59|Update property name for file output dir for PDF|Mon, 24 Oct 2016 17:11:17 +0100|Mon, 24 Oct 2016 17:11:17 +0100
+669a2462ff85d6f26a34b9283e999befdd271968|Merge branch '20160929-ft-thumbnail-item-writer' into 20161024-integration|Mon, 24 Oct 2016 17:10:19 +0100|Mon, 24 Oct 2016 17:10:19 +0100
+b87a64747a49a1d06258bf1792ef790f29e5bcd3|#1 PDFFileItemWriter Tiff file logic added|Mon, 24 Oct 2016 17:05:53 +0100|Mon, 24 Oct 2016 17:05:53 +0100
+541f4a0c59b6f04516fc41cbcf15cc52779ff093|#1 PDFFileItemWriter MS Word file logic added error handling|Mon, 24 Oct 2016 16:30:50 +0100|Mon, 24 Oct 2016 16:30:50 +0100
+a7b12e41eef250841ac145c6e3ed4f6d14b701fd|PDFFileItemWriter for MS Word documents (logic from timeline-preprocess project)|Mon, 24 Oct 2016 16:04:52 +0100|Mon, 24 Oct 2016 16:04:52 +0100
+77af5c66bb51a3175838feecc19f7d41ae76b39f|#1 PDFFileItemWriter for pdf content only|Mon, 24 Oct 2016 13:51:41 +0100|Mon, 24 Oct 2016 13:51:41 +0100
+fa3a4b70a6a4e422164594981ef1b4d490a28456|Detect content type from tika metadata|Mon, 24 Oct 2016 13:11:55 +0100|Mon, 24 Oct 2016 13:11:55 +0100
+5e05f59b2bf3102e868d6d21cd2b95c1f202fb0b|Merge pull request #18 from KHP-Informatics/20161006-ft-3-improve-tika-for-scan-doc|Thu, 13 Oct 2016 10:35:48 +0100|Thu, 13 Oct 2016 10:35:48 +0100
+eef41a5e83d1cf8f3ee9f57e969795c5386e5ea5|Specify ImageMagick options to improve OCR rate|Mon, 10 Oct 2016 09:27:41 +0100|Mon, 10 Oct 2016 09:27:41 +0100
+13dcc0a13c04e677982822c3cbe5949cb950c958|Specify the use of tika config (so that customized PDF parser is used for OCR) in TikaDocumentItemProcessor|Thu, 6 Oct 2016 19:13:12 +0100|Thu, 6 Oct 2016 19:13:12 +0100
+6f166657a922799aac0bd79eedd3cd6c959eca28|PDFPreprocessorParser will write information to metadata for more transparency|Thu, 6 Oct 2016 19:11:51 +0100|Thu, 6 Oct 2016 19:11:51 +0100
+e158ab050f21f430662511f9f19e40c9ae299920|#3 Fix java file style|Tue, 4 Oct 2016 18:04:11 +0100|Tue, 4 Oct 2016 18:04:11 +0100
+c81381df2151e28bbcef4a0bf1db2cb5b759cb96|Initial version of ThumbnailFileItemWriter|Thu, 29 Sep 2016 13:34:28 +0100|Thu, 29 Sep 2016 13:34:28 +0100
+68e72c9c286bfc86f1e603f38bf6cc829ce41464|version 1.0.0 is out!|Mon, 15 Aug 2016 19:59:18 +0100|Mon, 15 Aug 2016 19:59:18 +0100
+0a5883e2f421abe0df7d2014a1f95bd23b9ec5bd|fixed additional GATE support for indexing JSONS and added more assertions to integration tests|Mon, 15 Aug 2016 19:36:33 +0100|Mon, 15 Aug 2016 19:36:33 +0100
+8bc4cb7fc81aa94b917917ec5b97aa24a6d0f762|biolark fixed for the compose stack. awesome!|Fri, 12 Aug 2016 20:10:24 +0100|Fri, 12 Aug 2016 20:10:24 +0100
+9415d89569b41b62f519909ab8958195a9c5e6c5|fixed biolark dockerfile for remote build|Fri, 12 Aug 2016 16:20:37 +0100|Fri, 12 Aug 2016 16:20:37 +0100
+aee9bd8a3a872967248edf52ef11ee2ece4abfdb|removed timeout on shutdown beans as it didnt work|Tue, 2 Aug 2016 10:54:45 +0100|Tue, 2 Aug 2016 10:54:45 +0100
+7e1271980277a14fd6ef0c31e90fae16d5acdb7c|minor mods|Fri, 22 Jul 2016 13:58:06 +0100|Fri, 22 Jul 2016 13:58:06 +0100
+4e0595b48022d045d1de97e3ec2cf71ba8b5834f|fixed biolark container build|Fri, 22 Jul 2016 13:47:33 +0100|Fri, 22 Jul 2016 13:47:33 +0100
+ec16f960cb2369ee474aa257db1dacf4eb184d58|working compose stack now available|Fri, 22 Jul 2016 12:36:47 +0100|Fri, 22 Jul 2016 12:36:47 +0100
+785280c0f91df1b3aaa90b5928b44345115217ba|docker files|Fri, 22 Jul 2016 01:25:49 +0100|Fri, 22 Jul 2016 01:25:49 +0100
+d63d1b7f3278073cf7b4d1c8a81a140cff153f77|added docker compose support|Fri, 22 Jul 2016 01:22:04 +0100|Fri, 22 Jul 2016 01:22:04 +0100
+a10117081da240a158b6b5b35d9805f88e15ff0c|added better stop logic|Thu, 21 Jul 2016 18:01:45 +0100|Thu, 21 Jul 2016 18:01:45 +0100
+ab0739861069eeac4c3988c4d6742c5acd32ab7f|added remapping of serialsed JSON back into Map<string, object>|Thu, 21 Jul 2016 16:03:58 +0100|Thu, 21 Jul 2016 16:03:58 +0100
+70cb8a3339b82d6036fc607d3bc9c4f132ed02e5|fixed replace Fields bug|Fri, 15 Jul 2016 15:38:00 +0100|Fri, 15 Jul 2016 15:38:00 +0100
+6a9e79c2421ccfb74c98b087b9c8566129502d6b|removed biolark exception throwing|Fri, 15 Jul 2016 11:10:17 +0100|Fri, 15 Jul 2016 11:10:17 +0100
+978b30ea93c9b05bdaa468e2580f60c4490c71f0|removed biolark exception throwing|Fri, 15 Jul 2016 11:09:25 +0100|Fri, 15 Jul 2016 11:09:25 +0100
+1e984687aa0beb0d992e417c49cdcf66a2a738d3|minor bugs and doc improvements|Fri, 15 Jul 2016 10:00:42 +0100|Fri, 15 Jul 2016 10:00:42 +0100
+ccd996bf744d16506654dc4dc2b00d2cbee431f7|added biolark exception trhowing for retry logic|Thu, 14 Jul 2016 15:26:49 +0100|Thu, 14 Jul 2016 15:26:49 +0100
+eebe7d9f6389c7dd1a1d1d7a91375ef899865c0a|added biolark exception trhowing for retry logic|Thu, 14 Jul 2016 15:23:45 +0100|Thu, 14 Jul 2016 15:23:45 +0100
+98d93de6ee1891a7e63582fe2eb9db7ef10e6ff8|added biolark exception trhowing for retry logic|Thu, 14 Jul 2016 15:04:26 +0100|Thu, 14 Jul 2016 15:04:26 +0100
+76e0ba39e2cbdb110bfa7194ee3a53631dd91fe2|added biolark exception trhowing for retry logic|Thu, 14 Jul 2016 15:01:30 +0100|Thu, 14 Jul 2016 15:01:30 +0100
+53988a2ad89248ca0bf81802c453e19c40f9b176|added biolark exception trhowing for retry logic|Thu, 14 Jul 2016 11:26:12 +0100|Thu, 14 Jul 2016 11:26:12 +0100
+a09c0b14d52e93343fbd841dfcdaf16ea319206b|build update|Thu, 14 Jul 2016 10:39:34 +0100|Thu, 14 Jul 2016 10:39:34 +0100
+ca1803c4498a8296edea781a1a7331a4ae0ecff0|updated example configs|Wed, 13 Jul 2016 15:38:43 +0100|Wed, 13 Jul 2016 15:38:43 +0100
+a289dd8b5eb7ab79415d2fb2c3f45de57e6ede07|finished refactoring tests|Wed, 13 Jul 2016 12:25:34 +0100|Wed, 13 Jul 2016 12:25:34 +0100
+73baac09fa3c9246fddee3e5dc22e07e12235f42|more IT refactoring|Wed, 13 Jul 2016 10:27:12 +0100|Wed, 13 Jul 2016 10:27:12 +0100
+c0c2f2b2928c9db5426602868b6b02eb2044c7e2|in the process of refactoring IT's to something more sensible|Wed, 13 Jul 2016 01:54:08 +0100|Wed, 13 Jul 2016 01:54:08 +0100
+56750cae3b27fefc0814b47bc6bfb754636e6ded|added retry logic to biolark for stability|Tue, 12 Jul 2016 19:43:43 +0100|Tue, 12 Jul 2016 19:43:43 +0100
+c4623c720405ea2b53da5e93a13fc9d076efa93a|added debug logging to all itemprocessors|Mon, 11 Jul 2016 17:27:27 +0100|Mon, 11 Jul 2016 17:27:27 +0100
+a2340d0762980f77dda6bd025dbe05fd1240cf44|externalised config of mutator tests to elasticgazetteer_test.properties|Thu, 7 Jul 2016 14:43:41 +0100|Thu, 7 Jul 2016 14:43:41 +0100
+85f8bbcafc2456ff6e5d9c251b9200a826487081|added file output for simulated data|Thu, 7 Jul 2016 14:30:26 +0100|Thu, 7 Jul 2016 14:30:26 +0100
+79698821ca5bed401ce954743d3edc714947c4c0|added file output for simulated data|Thu, 7 Jul 2016 14:29:47 +0100|Thu, 7 Jul 2016 14:29:47 +0100
+1cffed2d7f846d625a4f6aa2a441ad2554febcbb|fixed all string mutators to work with elasticgazetter test class|Thu, 7 Jul 2016 14:13:30 +0100|Thu, 7 Jul 2016 14:13:30 +0100
+2d3cd3e4a1081592c9e4ef4055b542eaeb290d7b|fixed minor bug in elasticgazetter test performance class|Thu, 7 Jul 2016 11:54:32 +0100|Thu, 7 Jul 2016 11:54:32 +0100
+504bbcdc9bf15cf67012c15428297f5e54863ea6|added replace string option for deidentifier|Wed, 6 Jul 2016 12:33:22 +0100|Wed, 6 Jul 2016 12:33:22 +0100
+11b6af218b76b217b1f2bd3afbf03b2bcac7503d|Added FileOutputWriter|Wed, 6 Jul 2016 12:16:38 +0100|Wed, 6 Jul 2016 12:16:38 +0100
+f31d4d01eaf5c1755753f061a4f20819fc06b49e|biolark fieldname now fixed.|Tue, 5 Jul 2016 23:49:03 +0100|Tue, 5 Jul 2016 23:49:03 +0100
+743590b8c1e69aa4c3cbb85a5025e1a1041dffe3|added automated precision and recall calculation test for simulated data for the ElasticGazetteer|Tue, 5 Jul 2016 23:45:03 +0100|Tue, 5 Jul 2016 23:45:03 +0100
+e96d71201628a58b9cae4aa22e4b978784fc9171|added upgrades to elasticgazetteer and automated testing. needs some more work|Tue, 5 Jul 2016 21:22:59 +0100|Tue, 5 Jul 2016 21:22:59 +0100
+b364ad7381fd1330a49a0708e936847f5989d462|fixed minor efficinecy issue|Tue, 5 Jul 2016 18:23:23 +0100|Tue, 5 Jul 2016 18:23:23 +0100
+951f1f15c06214956b0982c4a06975de3901c66a|refactored mutator classes to support automated testing of elasticgazetteer|Tue, 5 Jul 2016 18:15:23 +0100|Tue, 5 Jul 2016 18:15:23 +0100
+7d7b783509ecb6d91ba37f8707ba9fe1b076abf8|added full pipeline test|Tue, 5 Jul 2016 13:14:08 +0100|Tue, 5 Jul 2016 13:14:08 +0100
+d655fff8553fe3f414bc4d2afc88ddcc58e2c701|fixed targetSize bug for max partition size|Thu, 30 Jun 2016 09:36:48 +0100|Thu, 30 Jun 2016 09:36:48 +0100
+0e2bc95526ece9655263a33000c353193cac0af7|added checkForEmptyPartitions option|Wed, 29 Jun 2016 14:53:43 +0100|Wed, 29 Jun 2016 14:53:43 +0100
+e01aff8e12cf94ac7933c1e855dcacf315d1bfb8|added large deid doc  method to testutils for testing memory issues with deid|Wed, 29 Jun 2016 14:43:54 +0100|Wed, 29 Jun 2016 14:43:54 +0100
+96991db8fe2c8d2eb59480860aa78153680b4fa4|Merge remote-tracking branch 'origin/master'|Wed, 29 Jun 2016 14:42:06 +0100|Wed, 29 Jun 2016 14:42:06 +0100
+42853af567eec05e26a9972a649a15ad9e7cdc88|added large deid doc  method to testutils for testing memory issues with deid|Wed, 29 Jun 2016 14:41:45 +0100|Wed, 29 Jun 2016 14:41:45 +0100
+53d8301eaaf803ee266ae2d413531ac27686871e|added large deid doc  method to testutils for testing memory issues with deid|Wed, 29 Jun 2016 14:38:36 +0100|Wed, 29 Jun 2016 14:38:36 +0100
+8c064bc2b5061278fce2b38f5c67e8ad511f6cc3|added extra log message to partitioner|Tue, 28 Jun 2016 15:58:18 +0100|Tue, 28 Jun 2016 15:58:18 +0100
+3fed9fbed89fa5d7c037101b72a1e0e32b258c29|fixed partitioner bug|Tue, 28 Jun 2016 15:06:34 +0100|Tue, 28 Jun 2016 15:06:34 +0100
+c5dbb82a1e465141efae6be770e9e179e5cdadc8|reduced logging level on partitioner|Tue, 28 Jun 2016 13:46:46 +0100|Tue, 28 Jun 2016 13:46:46 +0100
+04ca01cac962ea6a92ad64be31f6e5056ff36524|added maxPartitionSize clause to prevent massive partitions causing issues with intermittent network connections|Tue, 28 Jun 2016 13:45:37 +0100|Tue, 28 Jun 2016 13:45:37 +0100
+1967c6e5d07b35710a96383267e1d43217c2a49c|added maxPartitionSize clause to prevent massive partitions causing issues with intermittent network connections|Tue, 28 Jun 2016 13:26:42 +0100|Tue, 28 Jun 2016 13:26:42 +0100
+4b2232f5e04d7446b519797a806738985a355577|added maxPartitionSize clause to prevent massive partitions causing issues with intermittent network connections|Tue, 28 Jun 2016 12:32:34 +0100|Tue, 28 Jun 2016 12:32:34 +0100
+c17f58040126b904cffe857a689f09a3884a98af|fixed memory issue in elasticgazetteer|Mon, 27 Jun 2016 16:20:19 +0100|Mon, 27 Jun 2016 16:20:19 +0100
+4380261e616ca39c7bc5fe4c3587c4480369730f|added proper exception catch for BIolark|Tue, 21 Jun 2016 09:52:23 +0100|Tue, 21 Jun 2016 09:52:23 +0100
+56371435efc04d28033e79877be8e2af9e0744a4|added proper exception catch for BIolark|Mon, 20 Jun 2016 16:13:01 +0100|Mon, 20 Jun 2016 16:13:01 +0100
+6fb00ef6b2d0a9f235396b7e96d845d3932f768b|added null check on elasticgazetteer|Mon, 20 Jun 2016 12:41:02 +0100|Mon, 20 Jun 2016 12:41:02 +0100
+5eee91f195f7791bfe36c13f5d8f7c98050cd375|added configurable jobShutdown timeout|Mon, 20 Jun 2016 11:54:00 +0100|Mon, 20 Jun 2016 11:54:00 +0100
+f9f4a04794b83c92654c4381bd8bbd696d93e353|sensible json for ES after biolark failure|Mon, 20 Jun 2016 11:30:00 +0100|Mon, 20 Jun 2016 11:30:00 +0100
+4fa1c916285cd8ad4af8f005afbb2f8eb6df8a1d|added 400 execption catch to biolark|Mon, 20 Jun 2016 10:40:39 +0100|Mon, 20 Jun 2016 10:40:39 +0100
+53226ff75544a9793d44729c94f9eb517da5a638|added history to readme|Sun, 19 Jun 2016 14:00:04 +0100|Sun, 19 Jun 2016 14:00:04 +0100
+8bf45f69d4d5e0b1a959157a809ccc6106e5a5ab|added postgres biolark test and fixed field name bug|Fri, 17 Jun 2016 14:44:01 +0100|Fri, 17 Jun 2016 14:44:01 +0100
+355f31afe8544be7aab201244f18926061e06b51|updated readme and example configs|Thu, 16 Jun 2016 18:56:38 +0100|Thu, 16 Jun 2016 18:56:38 +0100
+187a458c2da9846aa457dddbafab3072a34ab49a|added more info to config files|Thu, 16 Jun 2016 18:55:53 +0100|Thu, 16 Jun 2016 18:55:53 +0100
+864ea601bbe517335654732ab40ce1b1f7a52d53|added reindexing option|Thu, 16 Jun 2016 18:25:00 +0100|Thu, 16 Jun 2016 18:25:00 +0100
+aa876f81cbeb706064f98c2289ddc6551e6d9e04|fixed a first run bug|Thu, 16 Jun 2016 14:22:15 +0100|Thu, 16 Jun 2016 14:22:15 +0100
+cd043c59277c0aa202b0d4e844be0152e3b8d033|sorted a bug with partitioner|Thu, 16 Jun 2016 12:41:36 +0100|Thu, 16 Jun 2016 12:41:36 +0100
+44e185ec959320bef2bc69cc5e38eed89401403f|sorted a bug with partitioner|Thu, 16 Jun 2016 12:12:30 +0100|Thu, 16 Jun 2016 12:12:30 +0100
+a312991add1b342a39d50d2016ff54a02f20c24f|added SmartLifeCycle bean to fix bug in shutdown sequence|Wed, 15 Jun 2016 16:40:56 +0100|Wed, 15 Jun 2016 16:40:56 +0100
+6b12c43ea88b6417070cbe6a60ffd03ac22ed5e0|added global socket timeout|Wed, 15 Jun 2016 14:44:40 +0100|Wed, 15 Jun 2016 14:44:40 +0100
+5bbeec58952504989b297bd21805f385875add78|added global socket timeout|Wed, 15 Jun 2016 14:38:21 +0100|Wed, 15 Jun 2016 14:38:21 +0100
+e6eeb5f0f75a4ee9b38cd5c4f566c41441e8c43c|minor fix|Wed, 15 Jun 2016 01:38:45 +0100|Wed, 15 Jun 2016 01:38:45 +0100
+66295637b1c18a7f0dfdae59cda66fc3f8f3e1f9|Added graceful job stopping mechanism|Tue, 14 Jun 2016 23:23:52 +0100|Tue, 14 Jun 2016 23:23:52 +0100
+59becf3545bee186517861eb907596a67285cc16|Added graceful job stopping mechanism|Tue, 14 Jun 2016 20:57:17 +0100|Tue, 14 Jun 2016 20:57:17 +0100
+6769b81543ea2b24f076cc286436bafc706c59e8|added date masking to ElasticGazetteer|Tue, 14 Jun 2016 01:31:51 +0100|Tue, 14 Jun 2016 01:31:51 +0100
+9d95696daf1a44d28c574944ef89e977c6d8459d|added test for deid. new test util string mutator. well good.|Mon, 13 Jun 2016 23:41:24 +0100|Mon, 13 Jun 2016 23:41:24 +0100
+b94c38576beec05309edb94b4dc4a69bbd58cad1|abstracted getMap method to abstract partitioner class|Mon, 13 Jun 2016 15:20:38 +0100|Mon, 13 Jun 2016 15:20:38 +0100
+3c1f2f1eba1fac3bf982218cc5ad2cebc8197d49|added timestamp to PK only partitioner to stop unnecessary processing|Mon, 13 Jun 2016 14:58:40 +0100|Mon, 13 Jun 2016 14:58:40 +0100
+0c89b1e05365d6e24a04ffd6f78d84f44764ce4f|code analysis|Mon, 13 Jun 2016 00:46:51 +0100|Mon, 13 Jun 2016 00:46:51 +0100
+7c99bb74a25de065da96efe503c1563916e37b43|code analysis|Mon, 13 Jun 2016 00:46:23 +0100|Mon, 13 Jun 2016 00:46:23 +0100
+f12b2a058da0fa96b4802cf0adbd822439e7f738|updated readme|Mon, 13 Jun 2016 00:08:36 +0100|Mon, 13 Jun 2016 00:08:36 +0100
+d80d8b782147b59e5f303a0dd5fcee0eb127c501|updated readme|Mon, 13 Jun 2016 00:01:35 +0100|Mon, 13 Jun 2016 00:01:35 +0100
+46eb62934dd6ac3e9b8e539a9268e1b1df32d91b|moved some beans to new proper class|Sun, 12 Jun 2016 20:39:16 +0100|Sun, 12 Jun 2016 20:39:16 +0100
+145559d70e777b930ad70423823830d0cee6f115|added support for localPartitioning|Sun, 12 Jun 2016 19:40:22 +0100|Sun, 12 Jun 2016 19:40:22 +0100
+93a78c6bc08f2b033a7b53a50e282f4983b02df3|fixed fieldname exclusion bug|Fri, 10 Jun 2016 19:30:37 +0100|Fri, 10 Jun 2016 19:30:37 +0100
+3cee9ef27f363ae7f3a86a647567ff084eaa34a8|fixed column name and lable check on skippable fields|Fri, 10 Jun 2016 17:41:17 +0100|Fri, 10 Jun 2016 17:41:17 +0100
+97d52908295a278bc7600e68ad53c561fd8886e9|attempted some work on transaction management|Fri, 10 Jun 2016 01:26:42 +0100|Fri, 10 Jun 2016 01:26:42 +0100
+10a045092386d879c67525d810d0d4e2e6315a57|attempted some work on transaction management|Fri, 10 Jun 2016 01:25:16 +0100|Fri, 10 Jun 2016 01:25:16 +0100
+7942dab07b216472ba9bb1c5507f1afca68c95ab|updated readme|Thu, 9 Jun 2016 20:53:24 +0100|Thu, 9 Jun 2016 20:53:24 +0100
+4d61127b62306f4ba1893663e6fbe3116d9d7fb0|updated readme|Thu, 9 Jun 2016 20:49:17 +0100|Thu, 9 Jun 2016 20:49:17 +0100
+ac6d59753ecfe07640a48ac04ff4a048fd1246c5|added better log messaging to logback|Thu, 9 Jun 2016 20:30:47 +0100|Thu, 9 Jun 2016 20:30:47 +0100
+d15ce13b387c643aca95cc03a2e4242c4ed05867|added contextLogger|Thu, 9 Jun 2016 18:58:32 +0100|Thu, 9 Jun 2016 18:58:32 +0100
+5afa48781d8c14760032d6dea9e58afefc955a9b|got rid of idea|Thu, 9 Jun 2016 18:12:36 +0100|Thu, 9 Jun 2016 18:12:36 +0100
+76d9f1ab7bf0e6594cc4435571d236d8ba337941|added new biolark itemprocessor|Thu, 9 Jun 2016 18:09:53 +0100|Thu, 9 Jun 2016 18:09:53 +0100
+f66c918e448db85b0c62cc669a1ecf5e587cfd13|updated tests. all passing for postgres and sql server|Thu, 9 Jun 2016 16:59:43 +0100|Thu, 9 Jun 2016 16:59:43 +0100
+28df98eb8e3b24ac1ab701a16fe4160e24052a12|more bug fixes|Thu, 9 Jun 2016 14:32:16 +0100|Thu, 9 Jun 2016 14:32:16 +0100
+aef16eb3978bcb7a3f7387e14c589a85a1186285|more bug fixes|Thu, 9 Jun 2016 13:46:02 +0100|Thu, 9 Jun 2016 13:46:02 +0100
+b67790bd7e8642ccc50978298049116c9f5d596a|fixed some issues with the data model|Thu, 9 Jun 2016 13:12:39 +0100|Thu, 9 Jun 2016 13:12:39 +0100
+0cd36e9f803127d7d7ea945277eaac757d067b23|fixed fieldname bug|Thu, 9 Jun 2016 11:46:41 +0100|Thu, 9 Jun 2016 11:46:41 +0100
+bf15b10da8a3483e851b2643f7dd7319d85a5b15|upgraded to 2.3.3 plugins|Thu, 9 Jun 2016 09:54:09 +0100|Thu, 9 Jun 2016 09:54:09 +0100
+7122d53660ab52490a5131814daef32a01147fa6|removed unnesessary config opt|Thu, 9 Jun 2016 09:35:04 +0100|Thu, 9 Jun 2016 09:35:04 +0100
+7a9c7c5e40749fb9c51613619aac3d5058f03af4|cae insensitive pattern matching added|Mon, 6 Jun 2016 12:08:39 +0100|Mon, 6 Jun 2016 12:08:39 +0100
+fa36c194df557dbd2c4ae379baffe76a917c7dc5|first implementation of elasticgazetteer. needs work on additional string matching|Mon, 6 Jun 2016 01:58:48 +0100|Mon, 6 Jun 2016 01:58:48 +0100
+a3fab72dc18f5c374c0d582128978cb4adfbf731|sql server tests passing. Not checked postgres|Sun, 5 Jun 2016 23:51:23 +0100|Sun, 5 Jun 2016 23:51:23 +0100
+303a69b27b57313c20fc7402eae4b5b4198195b5|major reworking of partitioners for better code quality|Sun, 5 Jun 2016 18:00:30 +0100|Sun, 5 Jun 2016 18:00:30 +0100
+f8878586f23466c8a8e8a6875aa93b0985e22c8a|timestamp partitioner needs work|Sat, 4 Jun 2016 03:29:09 +0100|Sat, 4 Jun 2016 03:29:09 +0100
+b8802fab074bc73a3fdf156f374f552e2f0bd115|seperated partioner implementations properly. Timestamp one currently broken|Fri, 3 Jun 2016 19:53:57 +0100|Fri, 3 Jun 2016 19:53:57 +0100
+53411d49ceeed3d30b55f1849a53af8d09b45f2c|seperated partioner implementations properly. Timestamp one currently broken|Fri, 3 Jun 2016 19:53:21 +0100|Fri, 3 Jun 2016 19:53:21 +0100
+132d3dfdbf6f3495d37eaf3b89b5aa30377e3dbb|added execution listeners to spring tests. currently passing for sql server. postgres needs a look|Fri, 3 Jun 2016 14:34:57 +0100|Fri, 3 Jun 2016 14:34:57 +0100
+8776b3db850773ed2e0a613b830b035b0af3f982|minor adjustments. partitioners need more testing|Fri, 3 Jun 2016 02:51:56 +0100|Fri, 3 Jun 2016 02:51:56 +0100
+4c7464b4e1851df8085e1e17b3c42805e7ae6814|added new scheduling based on PK only partitions, now that partition restarts are available|Fri, 3 Jun 2016 02:22:52 +0100|Fri, 3 Jun 2016 02:22:52 +0100
+03364f6008e57cb106a728c2993035c18242558b|come tests completed|Thu, 2 Jun 2016 20:05:43 +0100|Thu, 2 Jun 2016 20:05:43 +0100
+99ca91eff20fa315709e1304b5929e593c4200d8|added some more tests|Thu, 2 Jun 2016 19:54:05 +0100|Thu, 2 Jun 2016 19:54:05 +0100
+44c699fe0bbe9c29256f9b6247989cd104af8e1d|testing of jobincrementer|Thu, 2 Jun 2016 15:50:12 +0100|Thu, 2 Jun 2016 15:50:12 +0100
+0b93632153a1efdbcd0bdd8e9f5d7e4e4e973c05|implemented custom job incrementer|Thu, 2 Jun 2016 13:26:08 +0100|Thu, 2 Jun 2016 13:26:08 +0100
+43f3168494f08acb88c0a7df4ceaea8b7bacd461|quite heavy refactoring to remove unnecessary classes and work towards multiple parrallel application contexts|Thu, 2 Jun 2016 02:35:26 +0100|Thu, 2 Jun 2016 02:35:26 +0100
+e8d6cf35823f1647318d10b4b66bfe8f55584aaa|needs work on managing GATE failures|Wed, 1 Jun 2016 20:44:39 +0100|Wed, 1 Jun 2016 20:44:39 +0100
+89e871b5722780c5c9b4d9ae0dd283267cbbe544|upgraded to ES client 2.3.1|Wed, 1 Jun 2016 14:15:02 +0100|Wed, 1 Jun 2016 14:15:02 +0100
+805494e14ba98c13dfd92d4b49c11dec71ff57c1|fixed bug in batchjobutils with differnt job repo|Wed, 1 Jun 2016 13:51:16 +0100|Wed, 1 Jun 2016 13:51:16 +0100
+5b2ee324962fd41c7a3938fc55ebe4f8f6d34efc|fixed a small logging problem|Wed, 1 Jun 2016 13:09:51 +0100|Wed, 1 Jun 2016 13:09:51 +0100
+7527ccac973cf08d7f7c976fd11341a0bef2c23a|fixed a small logging problem|Wed, 1 Jun 2016 13:08:19 +0100|Wed, 1 Jun 2016 13:08:19 +0100
+b472147a037f34cf1a39e036ef3c7defaa26344f|changed default logging to 7 days|Wed, 1 Jun 2016 12:46:46 +0100|Wed, 1 Jun 2016 12:46:46 +0100
+94a1ae65f4166c558325a562afc60b6b072f2c40|RELEASE CANDIDATE. minor updates. Issues with Exceptions and GATE|Wed, 1 Jun 2016 01:00:53 +0100|Wed, 1 Jun 2016 01:00:53 +0100
+f364b6681f16f92bdd330daef890a1d74287c9d0|RELEASE CANDIDATE. All ITs working and html logging options set up|Tue, 31 May 2016 23:53:12 +0100|Tue, 31 May 2016 23:53:12 +0100
+3600eb87e0ae2809bf7bb2eb21da67af02fdbfbb|added static IP for SQL server|Mon, 30 May 2016 12:24:33 +0100|Mon, 30 May 2016 12:24:33 +0100
+3d0dbafd7cd631942de7ca1bb93f37eb30e1fcb7|first working implementation of deid|Fri, 27 May 2016 19:41:17 +0100|Fri, 27 May 2016 19:41:17 +0100
+68e83ef0958621a2bd99f8cce4cb7237b7f1a91b|corrected delegate order for itemprocessing|Fri, 27 May 2016 14:48:21 +0100|Fri, 27 May 2016 14:48:21 +0100
+bd64844fb2a5c59d0ebebe00b90c52fbd2100168|added hikari properties|Fri, 27 May 2016 13:52:45 +0100|Fri, 27 May 2016 13:52:45 +0100
+d8f68e59397193ccfe72b34426abe62aed2a7e07|bit more work on composite item processing|Wed, 25 May 2016 18:21:55 +0100|Wed, 25 May 2016 18:21:55 +0100
+adaf2051c45d56bf1dbecb1a32d184c3b0a0cd2b|added support for compositeItemProcessor to support DEID. Needs more testing|Wed, 25 May 2016 14:55:58 +0100|Wed, 25 May 2016 14:55:58 +0100
+f4a39f1c1f1dcde7b62fb1c69d8645e2d909bff1|changed skippable exceptions to pessamistic|Wed, 25 May 2016 11:38:45 +0100|Wed, 25 May 2016 11:38:45 +0100
+0955024569e2b41318fbf71ec8537a6ced799187|minor updates|Fri, 13 May 2016 18:02:08 +0100|Fri, 13 May 2016 18:02:08 +0100
+372e587696e8828fa4d1e2854ed72aa029c7510a|cleaned up columnPartitioner|Fri, 13 May 2016 17:11:20 +0100|Fri, 13 May 2016 17:11:20 +0100
+7088387006023d36e792c522ea83445cc7137f64|added connection eviction timeout|Fri, 13 May 2016 13:21:05 +0100|Fri, 13 May 2016 13:21:05 +0100
+8734518ede16af20ffffb641bca37d20bd1cdcc3|updated tests. much more sensible now|Fri, 13 May 2016 13:11:23 +0100|Fri, 13 May 2016 13:11:23 +0100
+caa2221269602ed349d843242874fa2d699f10e3|added catch all exception for job launcher. needs more testing|Thu, 12 May 2016 17:21:32 +0100|Thu, 12 May 2016 17:21:32 +0100
+1c12177538010ac371f841819c922bb3cb1e72a9|added catch all exception for job launcher. needs more testing|Thu, 12 May 2016 17:06:33 +0100|Thu, 12 May 2016 17:06:33 +0100
+e9b67da8e0eea17339d80583d0021839ea53b316| added SQL connection validation check before job launcher|Thu, 12 May 2016 15:29:22 +0100|Thu, 12 May 2016 15:29:22 +0100
+a719d0ffe3e6032e2775ede051b9c65d44a57fbc| added easier first job start config and fixed bug where only one step might be generated|Thu, 12 May 2016 14:50:32 +0100|Thu, 12 May 2016 14:50:32 +0100
+a46f61a530ce62f996b8b3815f8783f14fda57e9| added easier first job start config and fixed bug where only one step might be generated|Thu, 12 May 2016 14:49:59 +0100|Thu, 12 May 2016 14:49:59 +0100
+a1882ce8ec556f967df94e9bd7c8d4ecdcc52ab8|added validation query configurable and test on return for DBCP|Thu, 12 May 2016 10:47:50 +0100|Thu, 12 May 2016 10:47:50 +0100
+e8c1729ca048b8392a18ff5256a3f93617ce818c|added transientdataaccesresourceexception to noSkip policy|Wed, 11 May 2016 16:25:54 +0100|Wed, 11 May 2016 16:25:54 +0100
+8eb2172a66d14bd0e60120be895ba85bf5b15d2d|added clause to not throw exceptions if certain documents dont get indexed, but log them as warnings instead|Wed, 11 May 2016 15:32:54 +0100|Wed, 11 May 2016 15:32:54 +0100
+057fe8d92c19837ca0f84eb4e8280bd98ad9e057|added line fixer example|Tue, 10 May 2016 13:37:35 +0100|Tue, 10 May 2016 13:37:35 +0100
+8dba57e6eb830bbefdb8d8cff7bc9525289e28dc|fixed seconds in date issue|Tue, 10 May 2016 13:24:45 +0100|Tue, 10 May 2016 13:24:45 +0100
+e8b809a42cca5ebf3ef9ccada5edbf4a16a82fe6|added Exception noSkip classes to jobs|Mon, 9 May 2016 23:29:01 +0100|Mon, 9 May 2016 23:29:01 +0100
+b3638676f4662bfc14c05456a97a0e60af02e5cc|added proper paging|Mon, 9 May 2016 14:03:48 +0100|Mon, 9 May 2016 14:03:48 +0100
+0d6e4ccc8b353897cbdec2686ab6b9523311390e|added configurable logging level|Mon, 9 May 2016 11:21:40 +0100|Mon, 9 May 2016 11:21:40 +0100
+d67c591e1bcfee0cab3dd2193a5591c6a215964f|added real time tests (sort of) to showcase real time synching|Mon, 9 May 2016 00:00:57 +0100|Mon, 9 May 2016 00:00:57 +0100
+0a02753ff886aa8eb43cf282f387b4ea905cdd0c|fixed profile based remote partitioning. Note new paramenter slave|Sun, 8 May 2016 21:34:43 +0100|Sun, 8 May 2016 21:34:43 +0100
+9581eb2cc9b7cd3be96e05f113c815edaad50ecb|updated docs and added better logging options|Sun, 8 May 2016 20:06:26 +0100|Sun, 8 May 2016 20:06:26 +0100
+d9f71f0dc4647267bc6dd1bee9f968f13e552d21|updated docs and added better logging options|Sun, 8 May 2016 20:03:32 +0100|Sun, 8 May 2016 20:03:32 +0100
+b200b155c703ce96b1b15ec4a4fd820bb94ebb52|updated docs and added better logging options|Sun, 8 May 2016 20:02:17 +0100|Sun, 8 May 2016 20:02:17 +0100
+1d2d232f8f52be1213231c0b7c1b46ac636b890c|updated docs and added better logging options|Sun, 8 May 2016 20:01:53 +0100|Sun, 8 May 2016 20:01:53 +0100
+ad8b7a884080fe56f44f8f24284f905240cf23e2|added jobClass param to allow similar job types in same job repository|Sun, 8 May 2016 18:31:29 +0100|Sun, 8 May 2016 18:31:29 +0100
+2e751eb72fc0ab965cd3e714d106dad05ba37b86|added ability to name timestamp column in partitioner|Fri, 6 May 2016 16:07:30 +0100|Fri, 6 May 2016 16:07:30 +0100
+af28b7bec2bf71632286679d7b68abd940320dd6|logback returns???|Fri, 6 May 2016 12:07:05 +0100|Fri, 6 May 2016 12:07:05 +0100
+4b0eb6e520d855830ba297492076a2efda17c4a3|logback returns???|Fri, 6 May 2016 11:52:26 +0100|Fri, 6 May 2016 11:52:26 +0100
+932fd06122e69a25f9ccffb82185f63bd0f6e954|file gone missing? part 2|Fri, 6 May 2016 11:41:05 +0100|Fri, 6 May 2016 11:41:05 +0100
+012d902388ae1f2e24146f5c7495a886becc896c|file gone missing?|Fri, 6 May 2016 11:37:12 +0100|Fri, 6 May 2016 11:37:12 +0100
+ab3a212c717b7ac520d2aff74cd498181fbbce05|logback back in|Fri, 6 May 2016 11:32:04 +0100|Fri, 6 May 2016 11:32:04 +0100
+5ec312787d230a16f078c460cd05d7414bcb578f|logback back in|Fri, 6 May 2016 11:31:14 +0100|Fri, 6 May 2016 11:31:14 +0100
+ce38f7fac0c6f53a3440d9f542f11c31873027c2|back to placeholder to configs|Fri, 6 May 2016 11:21:45 +0100|Fri, 6 May 2016 11:21:45 +0100
+78b268bd3d2a78a6b37c06502a0d64cde788cd13|re applied asynch TE for basic job|Fri, 6 May 2016 02:49:08 +0100|Fri, 6 May 2016 02:49:08 +0100
+fff848478c57c866b83e00e70692faaa5e477ebb|added option for MS SQL SERVER jdbc driver instead of JTDS|Fri, 6 May 2016 02:30:29 +0100|Fri, 6 May 2016 02:30:29 +0100
+742307ebdf4191658a49988e81fca074b55b1087|logback to be added at cp variable in future executions|Fri, 6 May 2016 02:06:00 +0100|Fri, 6 May 2016 02:06:00 +0100
+999b1c11ab4557edc0b1a2458b55a1f7da71da3a|added new tests and profiles. cleaned up some code|Fri, 6 May 2016 02:05:20 +0100|Fri, 6 May 2016 02:05:20 +0100
+3e0a1ea5dd4936d69fe1e0de9b5fd42d4074f08d|added two new profiles, elasticsearch and jdbc to selectively control outputs|Thu, 5 May 2016 21:58:28 +0100|Thu, 5 May 2016 21:58:28 +0100
+863fb31565392b29baa850969c470301495db562|added option to prevent JDBC output|Thu, 5 May 2016 11:50:23 +0100|Thu, 5 May 2016 11:50:23 +0100
+8e03d18ab4355b96cc71b97235ae0cac3b133bbf|fixed Naming bug|Wed, 4 May 2016 15:38:27 +0100|Wed, 4 May 2016 15:38:27 +0100
+fd0dfdb808a1e9add9aaa6b48f8b73921c69f0d7|made a bit of a mess. cleaning up|Wed, 4 May 2016 13:54:56 +0100|Wed, 4 May 2016 13:54:56 +0100
+44b08a3576b0f06d6cf5701e674e2434239281db|made a bit of a mess. cleaning up|Wed, 4 May 2016 13:42:00 +0100|Wed, 4 May 2016 13:42:00 +0100
+39ed06115f09f3e9b51b7fb06acaa069d1930505|made a bit of a mess. cleaning up|Wed, 4 May 2016 12:54:43 +0100|Wed, 4 May 2016 12:54:43 +0100
+fe5e6f06bbdb5acea5f6ce00852516495e1105c5|minor updates|Wed, 4 May 2016 12:15:28 +0100|Wed, 4 May 2016 12:15:28 +0100
+d192efcbd877e5ad8b86620fb9439b81ca47062d|added example configs to gradle build script|Wed, 4 May 2016 00:23:24 +0100|Wed, 4 May 2016 00:23:24 +0100
+e8c967ad1c3275e6f26a366b54d2b97be6f2b88c|added large batch ligic|Tue, 3 May 2016 23:24:51 +0100|Tue, 3 May 2016 23:24:51 +0100
+b4655889c7cb8f96b261e45ecbacdf4b2fff1a2b|attempting to get logging properly set up|Tue, 3 May 2016 11:15:34 +0100|Tue, 3 May 2016 11:15:34 +0100
+8145c58389a195bd7478b988af8c9916beb863b8|added init sql statement capability|Tue, 3 May 2016 00:14:58 +0100|Tue, 3 May 2016 00:14:58 +0100
+c92de4061e04da251224de0c3331e3bbb272082a|connection session scripts added|Fri, 29 Apr 2016 18:22:49 +0100|Fri, 29 Apr 2016 18:22:49 +0100
+e549f40878ea1f31da67c5198404b85a8ad55d8d|various bug fixes for SQL server. needs ability to execute session script for SET DATEFORMAT|Fri, 29 Apr 2016 17:16:27 +0100|Fri, 29 Apr 2016 17:16:27 +0100
+1b76c9cf8bcc3baf83649a1f975a94667e69bd3b|added optional sql syntax for partitioner, custom date sql mapping and fixed ES date issue|Fri, 29 Apr 2016 12:58:34 +0100|Fri, 29 Apr 2016 12:58:34 +0100
+a8a059734408f58622d713c0739c059b629e85ec|added more appropriate logging for synch messages|Thu, 28 Apr 2016 16:29:39 +0100|Thu, 28 Apr 2016 16:29:39 +0100
+7920686af4dff6a7f1fc06d67c77cfe08ae0e8e8|first tests of real time synching successful. Needs further testing|Wed, 27 Apr 2016 20:38:52 +0100|Wed, 27 Apr 2016 20:38:52 +0100
+6bae6c7a8790b24dbadcacd2c0edba856ce92192|first tests of real time synching successful. Needs further testing|Wed, 27 Apr 2016 20:16:39 +0100|Wed, 27 Apr 2016 20:16:39 +0100
+9de99a09f16d3063a5353bdda9386852a2a79a13|emergency laptop death|Wed, 27 Apr 2016 19:54:19 +0100|Wed, 27 Apr 2016 19:54:19 +0100
+9cdcc9e50f13d4aab63034cf58800ade7710fe45|added work on realtime partition handler|Wed, 27 Apr 2016 16:17:42 +0100|Wed, 27 Apr 2016 16:17:42 +0100
+cec94d3f8245fae3d66757702d0274e0b93af2c7|fixed scheduling for rolling updates|Wed, 27 Apr 2016 09:45:46 +0100|Wed, 27 Apr 2016 09:45:46 +0100
+a64c092059cb11cdbabdd8e8a76724ddccd13544|adjusting column partitioner|Wed, 27 Apr 2016 00:43:52 +0100|Wed, 27 Apr 2016 00:43:52 +0100
+6c96de8563a6be0e583535e43b74e1540d5fce68|added added linked hashmap to preserve field ordering|Fri, 22 Apr 2016 15:29:14 +0100|Fri, 22 Apr 2016 15:29:14 +0100
+67c8e0c8568f6366a1ee6a47b6b73645373e93a3|added forced start time for scheduler|Fri, 22 Apr 2016 14:05:04 +0100|Fri, 22 Apr 2016 14:05:04 +0100
+d8dd2f189c049138d50ebaf737ba7a2cb7c6fb68|minor bug fix|Fri, 22 Apr 2016 11:44:43 +0100|Fri, 22 Apr 2016 11:44:43 +0100
+b14ea24f79d83ac1ed223586a3da3508f21667e4|added time based scheduling based on previously successful item|Fri, 22 Apr 2016 11:34:06 +0100|Fri, 22 Apr 2016 11:34:06 +0100
+4795d46f79c87f35c4dab4a889c5cab19a4709da|almost there|Fri, 22 Apr 2016 11:28:41 +0100|Fri, 22 Apr 2016 11:28:41 +0100
+573bcf4aeea72384a2c1fdde1d5142e56871101f|almost there with scheduling|Fri, 22 Apr 2016 01:23:30 +0100|Fri, 22 Apr 2016 01:23:30 +0100
+c3d49ea8c4d3a60f7a4fa2eae60675f0dd816151|added complete configuration example for GATE|Fri, 22 Apr 2016 00:14:15 +0100|Fri, 22 Apr 2016 00:14:15 +0100
+7bc3e1d2867fc62be80e924db1396f154e6fe6dc|first stab at JobExplorer style scheduling|Thu, 21 Apr 2016 23:55:47 +0100|Thu, 21 Apr 2016 23:55:47 +0100
+bfd6fcdb20882a1866d2544103bdbe5923d79966|added exclude from ES export and custon procedded field name features|Thu, 21 Apr 2016 22:04:52 +0100|Thu, 21 Apr 2016 22:04:52 +0100
+8d129e5edd1b56815e176661a6f468999b146fc7|code cleaning for composite writer for DB line fixer|Thu, 21 Apr 2016 21:37:16 +0100|Thu, 21 Apr 2016 21:37:16 +0100
+c95add914c3d043e015f4e840b73326bcd318a67|ssl issue fixed. added composite item writer for dual output|Thu, 21 Apr 2016 20:03:55 +0100|Thu, 21 Apr 2016 20:03:55 +0100
+d49ae16e89f8f7fd87bc58c97724940fa81fc73b|added ShieldPlugin.class still have CA issues|Thu, 21 Apr 2016 15:31:41 +0100|Thu, 21 Apr 2016 15:31:41 +0100
+a517e6f3ee6912233cc3960655743a0ae71e5cec|minor bug fig|Thu, 21 Apr 2016 14:11:57 +0100|Thu, 21 Apr 2016 14:11:57 +0100
+c683146de9f05b316168a2af086d45075bd9034e|added first attempt at es writer with shield support|Thu, 21 Apr 2016 14:03:23 +0100|Thu, 21 Apr 2016 14:03:23 +0100
+34694390097b7a36dd24b44b2e45a177c0b511d6|added first attempt at es writer with shield support|Thu, 21 Apr 2016 13:42:36 +0100|Thu, 21 Apr 2016 13:42:36 +0100
+a7d3c6ddb311321477d090eb8da9ae20b2da780e|reverted to seperate source sets for unit and IT tests. started adding ES components|Thu, 21 Apr 2016 00:54:17 +0100|Thu, 21 Apr 2016 00:54:17 +0100
+48228c0510e87aa50dcc4fbc1d9f68c9c0af3e31|added hashmap to Document and rowmapper to suppoer es exports|Wed, 20 Apr 2016 23:41:28 +0100|Wed, 20 Apr 2016 23:41:28 +0100
+9f704a83d6614374a4a253ad06cbc6d4744cdd1d|added more documentation|Wed, 20 Apr 2016 14:06:00 +0100|Wed, 20 Apr 2016 14:06:00 +0100
+992d08170503c3285ef69bb1b08b9f8a5779b269|code cleaning and implementation of service annotations|Wed, 20 Apr 2016 13:44:39 +0100|Wed, 20 Apr 2016 13:44:39 +0100
+c401fdfad64b8f740adc7a914bdf946cdfdf125c|refactoring|Sat, 16 Apr 2016 01:55:23 +0100|Sat, 16 Apr 2016 01:55:23 +0100
+c364fc9148189dea0a5292ee3ea05a452b73330b|minor fixes|Fri, 15 Apr 2016 19:36:34 +0100|Fri, 15 Apr 2016 19:36:34 +0100
+fd4978d3cb2a683a417eed04e0a43e2c2e09a1dd|added sensible integration test routine|Fri, 15 Apr 2016 19:26:42 +0100|Fri, 15 Apr 2016 19:26:42 +0100
+a0c35b26631f4e0262c3d3f2d405bba09b7c46df|added experimental columnValuePartitioner and various bits of code cleaning|Fri, 15 Apr 2016 18:55:59 +0100|Fri, 15 Apr 2016 18:55:59 +0100
+65e978b2c622dc0eb2d68ece5cdbc0d1a71ba04f|added groovy support for POGOs in model class|Thu, 14 Apr 2016 16:39:24 +0100|Thu, 14 Apr 2016 16:39:24 +0100
+c97666653c9f4bd1ca446eaad902cbe711c5d485|added groovy support for POGOs in model class|Thu, 14 Apr 2016 16:38:41 +0100|Thu, 14 Apr 2016 16:38:41 +0100
+d961019d434a1b6d2f08a8d52b0f679e57d2a005|minor fix|Wed, 13 Apr 2016 00:14:07 +0100|Wed, 13 Apr 2016 00:14:07 +0100
+22bf76c1914ba9f0a49f6d301ca280fd80857f35|fixed autowiring of username/passwords issue|Wed, 13 Apr 2016 00:10:17 +0100|Wed, 13 Apr 2016 00:10:17 +0100
+2580b8bcdc7939a202b7f257d41a5b32cfc1e50f|updating test configs to something more manageable|Tue, 12 Apr 2016 23:16:20 +0100|Tue, 12 Apr 2016 23:16:20 +0100
+a6098bd43e84d9338818ae6a379a8e29b03d011d|fixed minor bug|Mon, 11 Apr 2016 14:48:05 +0100|Mon, 11 Apr 2016 14:48:05 +0100
+8c0a8a0c88f6222916e46a464353e336a67d42b6|added job timeout|Mon, 11 Apr 2016 13:26:06 +0100|Mon, 11 Apr 2016 13:26:06 +0100
+ea0c54f30a61cb78f0fa3fab6ada32d1fd0f6f64|added queue naming config|Mon, 11 Apr 2016 00:26:04 +0100|Mon, 11 Apr 2016 00:26:04 +0100
+1f743dbf38d438ec67af64fc02739c3340859a64|updated licence|Fri, 8 Apr 2016 15:58:12 +0100|Fri, 8 Apr 2016 15:58:12 +0100
+8ba049f1aaca383967db7adcc439a287ee6dc8c9|made config much easier - now entirely controlled by profiles|Fri, 8 Apr 2016 12:44:16 +0100|Fri, 8 Apr 2016 12:44:16 +0100
+1f2fd41018038ad46d56a178a99d5b192390cf71|separating slave and master config classes|Thu, 7 Apr 2016 23:59:47 +0100|Thu, 7 Apr 2016 23:59:47 +0100
+dd06a8484601c02dd2fbc359f4e911fc1df63a50|added jtds|Thu, 7 Apr 2016 11:04:01 +0100|Thu, 7 Apr 2016 11:04:01 +0100
+72ac14c83e7fec79dc08b7c1f561a82e90d4353c|added keepTags param for Tika|Thu, 7 Apr 2016 10:27:29 +0100|Thu, 7 Apr 2016 10:27:29 +0100
+c77034f467824f3f641db5bbad23953599e29c9a|added tika job and integration tests. Really ought to get travis set up next|Wed, 6 Apr 2016 23:54:55 +0100|Wed, 6 Apr 2016 23:54:55 +0100
+01f609643664fd656bcaf62a7a35d313d0935fb1|tika added|Wed, 6 Apr 2016 23:09:32 +0100|Wed, 6 Apr 2016 23:09:32 +0100
+b8d5bcf7b7c6d2324efe81aa357505af55bfc24d|added first scheduler|Wed, 6 Apr 2016 20:44:57 +0100|Wed, 6 Apr 2016 20:44:57 +0100
+145d68819149152e5f315546c65b8f97aa9d2e07|separating IT for builds|Wed, 6 Apr 2016 17:30:46 +0100|Wed, 6 Apr 2016 17:30:46 +0100
+d74c78974e165a7791e1386238da8a992093d57a|Update README.md|Tue, 5 Apr 2016 20:55:22 +0100|Tue, 5 Apr 2016 20:55:22 +0100
+fdab1c1ad432ec8219cf5358660eca4b330587ff|need to find an OCR breaker document for testing|Thu, 3 Mar 2016 22:12:30 +0000|Thu, 3 Mar 2016 22:12:30 +0000
+87513088350d22b011aee5fd394d0c3c82f38764|added tika job. Needs more tests|Thu, 3 Mar 2016 21:59:33 +0000|Thu, 3 Mar 2016 21:59:33 +0000
+c0671214d0d41b4082b726b1875414c3802f3e53|README updated|Thu, 3 Mar 2016 18:46:51 +0000|Thu, 3 Mar 2016 18:46:51 +0000
+415c9acb9433c73bf93e4ffc1a7da6e7e27c8c55|fixed profiles for production use|Thu, 3 Mar 2016 18:17:51 +0000|Thu, 3 Mar 2016 18:17:51 +0000
+b54510a591d63295ab39b490a7a0f595ca7c28d7|seperated integration tests in a sensible fashion|Mon, 29 Feb 2016 18:55:09 +0000|Mon, 29 Feb 2016 18:55:09 +0000
+f801961e4a251d4331cd5799fe8a974331dbb9ed|broke up integration tests into sensible classes|Tue, 23 Feb 2016 21:48:18 +0000|Tue, 23 Feb 2016 21:48:18 +0000
+548f632cd8c09e04555baee519d76b026432f3a0|minor fixes|Mon, 22 Feb 2016 15:06:22 +0000|Mon, 22 Feb 2016 15:06:22 +0000
+ddc78b22945243216b7231f0e663d8ea15be9367|added readme|Wed, 17 Feb 2016 16:35:01 +0000|Wed, 17 Feb 2016 16:35:01 +0000
+e535ec1756d0565d5941b5ab2e94a808b53cd5d6|implemented CommandLineJobRunner|Wed, 17 Feb 2016 15:46:27 +0000|Wed, 17 Feb 2016 15:46:27 +0000
+d12a3df2110c4e980c50241b89f204851286f3aa|channels fixed. In future watch for wayward Spring class annotations!|Wed, 17 Feb 2016 11:44:10 +0000|Wed, 17 Feb 2016 11:44:10 +0000
+d9d6ce279fcd0a141f68c6deb21e634032c3f1bd|issue with channels|Tue, 16 Feb 2016 20:51:05 +0000|Tue, 16 Feb 2016 20:51:05 +0000
+4f0df0ca627f704b9d7a25c0f20d86d7f7290caa|reorganising configs to support commandline runner (currently broken)|Tue, 16 Feb 2016 13:50:06 +0000|Tue, 16 Feb 2016 13:50:06 +0000
+7447bcc0bc328b5ad1c4698d1b87dfa606f6d2f5|added more javaconfig, less xml|Mon, 15 Feb 2016 12:39:54 +0000|Mon, 15 Feb 2016 12:39:54 +0000
+43d11b0591c70e95b926d0b37889a176ec1f8652|line fixer finished|Sun, 14 Feb 2016 19:15:01 +0000|Sun, 14 Feb 2016 19:15:01 +0000
+950425cd861b5c18c5f91a03781a0c92438fed13|line fixer finished|Sun, 14 Feb 2016 18:53:50 +0000|Sun, 14 Feb 2016 18:53:50 +0000
+0d0e0a9d5d7caf3b55bf844823a1f6962378d78d|started to refine tests and add support for a DBLineFixer|Sun, 14 Feb 2016 17:37:26 +0000|Sun, 14 Feb 2016 17:37:26 +0000
+d2a3173841c52f5214cf359c8ddd5665c4dcec1b|remote partitioning online|Fri, 12 Feb 2016 23:00:57 +0000|Fri, 12 Feb 2016 23:00:57 +0000
+f1f38ba1ea886e661f9ac1b63374673c67c4f881|todays lesson - ensure queue is empty before restarting integration tests|Fri, 12 Feb 2016 22:08:23 +0000|Fri, 12 Feb 2016 22:08:23 +0000
+58be3f3fea3bf8a30286b3d7e7d4cd6bb513133b|tickering with the job config|Fri, 12 Feb 2016 19:22:18 +0000|Fri, 12 Feb 2016 19:22:18 +0000
+80bb3e72805fa09bf36b6020459cb6b2b26bb5e5|renamed project|Fri, 12 Feb 2016 13:29:04 +0000|Fri, 12 Feb 2016 13:29:04 +0000
+3d6b1a7021440b2eb6603d825be80c3dcc66f8eb|removed error file|Fri, 12 Feb 2016 13:28:01 +0000|Fri, 12 Feb 2016 13:28:01 +0000
+5831fd3bd3013e91d9be18c442c8e4d1e28cdf17|first|Fri, 12 Feb 2016 12:56:13 +0000|Fri, 12 Feb 2016 12:56:13 +0000

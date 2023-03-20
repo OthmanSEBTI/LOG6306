@@ -1,0 +1,33 @@
+,repo_name,sha,message
+385,cyber-dojo-web,44e7022d0f27a460601b09f397c59f4d0f39150a,refactoring; added missing mem-swap limits for starter in docker-compose.yml
+392,cyber-dojo-web,ca436d5f29ae28215934d637a82dd7c23831c054,refactoring; switched to docker-compose.yml restart:'no' so failures hang-around and you have a chance to get information from them when debugging
+423,cyber-dojo-web,bfabc1e2e9e95ed7349e3e8c9d324041e405825e,[ci skip] refactoring; deleted dead lines from .dockerignore
+449,cyber-dojo-web,6edcc2e476a16901a1880c10b3b373a25cfc8300,refactoring; kata_ids are now based on test's hex-id and not random-uuid; tests no longer leak docker volumes from runner-stateful
+659,cyber-dojo-web,5d8215c530bd8cf74e119692798bd6f4655ec8be,refactoring; added comment on way to improve docker-container-up script file
+844,cyber-dojo-web,f1fac6e9da02138fb36c41d304746bb078cc3b92,refactoring; create execute-around method in app-controller tests to reduce chance of leaking docker volumes
+1433,cyber-dojo-web,a4ad258dc6c7ca72ab730c6ac337d87255d3a49b,refactoring; use nearest-ancestors in docker-tar-pipe-runner
+1473,cyber-dojo-web,16fb884ce91eb72ca80fc6b74f720bdeb3c9965a,refactoring; put external-handling into own module; provide production defaults for ENV vars; lose ENV-vars from cyber-dojo.sh and docker-compose.yml
+1676,cyber-dojo-web,0d3258faf093618f1dfbf3f30e206b13ad32f75e,minor refactoring; still no way to filter on label on [docker volume ls]
+1900,cyber-dojo-web,2ca8f35e157df25390f53ff82b09f5283877f03b,[docker pull] on first use in setup page javascript refactoring
+1923,cyber-dojo-web,0fdd3df7096c891bb009939a3d821bc73c1c0321,refactoring - moved docker_runner.rb into docker_tar_pipe_runner.rb
+2239,cyber-dojo-web,0988fbae9a3b194e5556c87b42d13388b5883f46,.gitignore and .dockerignore refactoring
+2783,cyber-dojo-web,75e7634b867854ad2491b80409afb8b0bffe6a2f,docker_tmp_runner.sh refactoring
+2936,cyber-dojo-web,8676681c5985d2b8f553c6a3dd70397d940cf7e0,refactor duplication now docker client is inside web image
+2949,cyber-dojo-web,ae7fc78bd1b5d2b90d6c64c462a721fbba005be8,refactor docker-compose yml files; volumes-from cannot be split across extension yml files but volumes can
+3004,cyber-dojo-web,5e63add2a4b41d34c25c97d71e10944e8b6d1d6f,refactored docker image cleanup file
+3011,cyber-dojo-web,6b643ac4b026c17b7f1d5d7055682271635e55b3,refactored hard-coded dir name in docker scripts
+3376,cyber-dojo-web,50f4bc8ad11109f9360e7b993185bad2a3a591d8,moved katas-image and dev-image Dockerfiles into dedicated directories so there is no extra docker-context; refactored Dockerfiles to fewer RUN commands
+3572,cyber-dojo-web,88e8dd3840395aeaf655a83e1c368a8d971e009e,refactor hard-codes node names in admin_scripts/docker_machine/tail_rsync_logs.sh
+3598,cyber-dojo-web,faebfa77a3e43310f363cd49229eb2db8b4d6a08,refactor cdf_docker_update_all.rb
+3616,cyber-dojo-web,d5bd56ad0e339682be00e5667337e249a0743a6f,refactor docker_rebuild_all.sh now no language depends on another
+3646,cyber-dojo-web,0ef4f4fc8c9da48f76da12c0a87ac6bef3171249,refactor test/lib/test_docker_runner.rb
+3907,cyber-dojo-web,b77e371a0d7f733e3b05b80f8478f3738ef204e9,refactor lib/docker volume-mount/rsync tests
+3968,cyber-dojo-web,cf6ccc4011c6ae1eb88f7536759cabd137254413,refactor docker_pull_all duplication
+4068,cyber-dojo-web,b51960629f056e87584aa88f55899f2f0940dcd0,updated refactoring_dojos.tgz after docker-container updates
+4140,cyber-dojo-web,b3bb9b8900c66331dbb297bfafc6df9e3c76870f,refactored cyberdojofoundation_docker_update_all.rb so it does not issue docker-pull unless old-container is present and new-container is not (should be much faster when only doing update on some containers)
+4155,cyber-dojo-web,80f06d75a6f5d04f4d580637d587b9743c830c1e,refactoring - admin_script docker_update_all is not used and is the same as docker_pull_all anyway so I moved it into dead sub folder
+4558,cyber-dojo-web,3626bcc5fe8534a6f55a37cef4a61b09a3692de8,Merge branch 'master' into docker-test-runner-refactor
+4561,cyber-dojo-web,d146aff300fd6bddba3185a65f1169cae3cdfca1,Merge branch 'master' into docker-test-runner-refactor
+7116,cyber-dojo-web,19aec25b30280d585afabf6ebc63017b8afd0a76,refactor admin_scripts/docker_pull_all.rb so it gets docker image-names from languages' manifest.json files
+7186,cyber-dojo-web,d0a779ff2b3c6a738ec3b30bb43ebe337ea243be,refactoring dockerfile so all language-tests have version-number
+7435,cyber-dojo-web,cc4da8770b2ba10ce37beb913dacbdc67d8f9521,made a start at refactoring test/installation/one-language-checker to know about new manifest.json keys and docker-runner

@@ -1,0 +1,1052 @@
+042ff98509ef3a4e4b176730440a1e6bc6fc8c82|NOISSUE - Fix retrieving all users (#1477)|Mon, 18 Oct 2021 18:00:15 +0300|Mon, 18 Oct 2021 17:00:15 +0200
+5e9a91bd03e947aed48fcd8e94475404145238e9|MF-1468 - Fix ThingsURL in Certs Service (#1474)|Sat, 16 Oct 2021 00:26:18 +0200|Sat, 16 Oct 2021 00:26:18 +0200
+39ae7bdfa119b720e9fd2735da1e0c675c5c6a89|NOISSUE - Refactor single-user mode (#1471)|Mon, 11 Oct 2021 16:08:26 +0200|Mon, 11 Oct 2021 16:08:26 +0200
+94cba4aab20b489f2936e99630bb207122dc5ab5|Fix UpdateChannelHandler for Redis producer (#1473)|Mon, 11 Oct 2021 15:36:35 +0200|Mon, 11 Oct 2021 15:36:35 +0200
+66d3da0531121901278509936da14e8606da1ca2|NOISSUE - Add SMPP notifier (#1464)|Wed, 6 Oct 2021 14:34:23 +0200|Wed, 6 Oct 2021 14:34:23 +0200
+f4312aef8ac288f97c4db0e2dcb4e70475e620bf|NOISSUE - Update dependencies (#1453)|Tue, 24 Aug 2021 13:41:57 +0200|Tue, 24 Aug 2021 13:41:57 +0200
+caa4bda1a1dc28c924273378406d36065e43f182|NOISSUE - Fix security warnings for dependencies (#1452)|Mon, 23 Aug 2021 15:26:35 +0200|Mon, 23 Aug 2021 15:26:35 +0200
+e1a66b32687b94f0628d858b131647d1bc9ab7a9|Bump docker-compose version in prereq (#1449)|Fri, 13 Aug 2021 18:30:14 +0200|Fri, 13 Aug 2021 18:30:14 +0200
+7b3c26f60fdad53a4c5a20e2aa85eaacbd567838|NOISSUE - Fix bootstraping (#1448)|Fri, 13 Aug 2021 13:56:05 +0200|Fri, 13 Aug 2021 13:56:05 +0200
+d73a5d53fec0313a51ca933321ea75de7ad0c90e|MF 1413 - Use per-service URL in SDK (#1444)|Wed, 11 Aug 2021 16:58:10 +0200|Wed, 11 Aug 2021 16:58:10 +0200
+d6a3830ef4ff7f43db35550a05390626d982a8a7|MF-1439 - Add support for Basic Authentication in HTTP Adapter (#1441)|Thu, 22 Jul 2021 15:47:55 +0200|Thu, 22 Jul 2021 15:47:55 +0200
+5ac1203b55cb9b4dcd6eae70a3228bd0b07f8a0a|MF-1421 - Make flattening of JSON transformer only available on InfluxDB (#1432)|Thu, 22 Jul 2021 12:20:47 +0300|Thu, 22 Jul 2021 11:20:47 +0200
+19f0437f577fa24ae0fe280fda3a0cf0a6a1c674|NOISSUE - Update the /disconnect endpoint HTTP method as PUT (#1438)|Tue, 13 Jul 2021 14:31:20 +0300|Tue, 13 Jul 2021 13:31:20 +0200
+2cfff01979cb1a0f0f9d84534c6c608284b80dfe|MF-1389 - Add /disconnect endpoint in Things service (#1433)|Sat, 10 Jul 2021 01:59:12 +0300|Sat, 10 Jul 2021 00:59:12 +0200
+bb072b8ad2386f5da4ca46eab6bf6fd1680b8678|NOISSUE - Fix httputil implementation in users service (#1434)|Thu, 8 Jul 2021 16:14:49 +0200|Thu, 8 Jul 2021 16:14:49 +0200
+af0162f0dfcee57d4b572df5bb4d4a0b15887adc|Fix fetching user members of an empty group (#1436)|Thu, 8 Jul 2021 14:51:37 +0300|Thu, 8 Jul 2021 13:51:37 +0200
+68af0e32b5521f8a53b267a0a33eba8babfe3b42|Change to user friendly docs urls (#1430)|Wed, 23 Jun 2021 14:52:29 +0200|Wed, 23 Jun 2021 14:52:29 +0200
+cddfdf403809736313d37af0cd706e4191104bd0|NOISSUE - Use github action for showing OpenAPI spec with Swagger UI (#1427)|Wed, 23 Jun 2021 13:31:46 +0200|Wed, 23 Jun 2021 13:31:46 +0200
+0a89f1dae1764178a4d3a990d0f58b47de20102f|Fix JSON Transformer empty format handling (#1429)|Tue, 22 Jun 2021 12:32:16 +0200|Tue, 22 Jun 2021 12:32:16 +0200
+d3e34b16629e38710d1dc960fabc3f3fbfdb0bed|Update README|Mon, 14 Jun 2021 23:34:27 +0200|Mon, 14 Jun 2021 23:39:05 +0200
+9e5e50b3475e9c435d6ee7409638e914a9800e13|NOISSUE - Update docker-compose images to latest release (#1419)|Mon, 24 May 2021 18:35:07 +0200|Mon, 24 May 2021 18:35:07 +0200
+516c02bebecc9aeafb1614a6f4e4e67615b84b69|MF-1378 - Update dependencies (#1379)|Thu, 20 May 2021 20:53:56 +0200|Thu, 20 May 2021 20:53:56 +0200
+38ca7f761beb5acd234fbaa7c99d0a73ee3234c9|NOISSUE - Update version.go with 0.12.1 (#1418)|Tue, 11 May 2021 11:49:41 +0200|Tue, 11 May 2021 11:49:41 +0200
+9ce31b65a639c88acd3b5095d0bf500130f82c67|NOISSUE - Update CHANGELOG for release 0.12.1 (#1415)|Fri, 7 May 2021 09:55:10 +0200|Fri, 7 May 2021 09:55:10 +0200
+79af1ba9a88fe011c881096bbfe13c72e7692291|NOISSUE - Refactor SDK memberships and fix openapi for memberships. (#1412)|Mon, 3 May 2021 22:27:10 +0200|Mon, 3 May 2021 22:27:10 +0200
+e04d94ecc7f5980b8debfca958859b8bfd810aa0|MF-1288 - Add tests for JSON messages in message writers and readers (#1407)|Tue, 20 Apr 2021 21:33:26 +0200|Tue, 20 Apr 2021 21:33:26 +0200
+e02e9c238749ccee720f8d74225e970a026890cb|MF-1408-Fix error handling for Thing update SQL(#1408) (#1409)|Tue, 20 Apr 2021 20:26:16 +0800|Tue, 20 Apr 2021 14:26:16 +0200
+063f73076d0087ef835e845a10735d41606d3a9a|fix influx pass (#1410)|Tue, 20 Apr 2021 12:11:42 +0200|Tue, 20 Apr 2021 12:11:42 +0200
+84978c034b509e53f69f8353372d46227393cf20|Fix order (#1406)|Mon, 19 Apr 2021 11:54:08 +0200|Mon, 19 Apr 2021 11:54:08 +0200
+0fe9f55bae8d0887d5ea2d7be9fb483c6b0bfafc|NOISSUE - Add tests and connection route-map to lora-adapter (#1404)|Wed, 14 Apr 2021 22:26:49 +0200|Wed, 14 Apr 2021 22:26:49 +0200
+00dc197fa60d7bb82892069fcbef04c57a8bf896|NOISSUE - Fix nginx configuration for groups (#1405)|Fri, 9 Apr 2021 17:25:20 +0200|Fri, 9 Apr 2021 17:25:20 +0200
+cd117280730246b087eb436f03f656619d37303b|Change vernemq building source revision (#1402)|Thu, 8 Apr 2021 18:16:21 +0200|Thu, 8 Apr 2021 18:16:21 +0200
+6770c192794969ce0de7a4698362aa24ce4f0964|NOISSUE - Rm content-type check from list endpoint (#1400)|Tue, 30 Mar 2021 11:32:28 +0200|Tue, 30 Mar 2021 11:32:28 +0200
+4efd25eed5b931902ad14aa06537ff5f15459a65|Bump Mainflux version to 0.12.0 (#1399)|Mon, 29 Mar 2021 12:13:20 +0200|Mon, 29 Mar 2021 12:13:20 +0200
+6b6f18317fff4b63b4eb5cc03f4e4536097d7c75|Add CHANGELOG for 0.12.0 (#1398)|Mon, 29 Mar 2021 00:57:08 +0200|Mon, 29 Mar 2021 00:57:08 +0200
+0cdcf28683cca940f84d6b648ca9a82f14dfb204|MF-1394 - SDK groups (#1396)|Fri, 26 Mar 2021 22:51:02 +0100|Fri, 26 Mar 2021 22:51:02 +0100
+f9f51470b1865830c820addb382f6594c790cef0|NOISSUE - fix response for passwd endpoints (#1393)|Tue, 23 Mar 2021 17:43:06 +0100|Tue, 23 Mar 2021 17:43:06 +0100
+e87715ba315d6e39fb0f0ebea58c59bfa3233f8d|dont retrieve groups (#1392)|Tue, 23 Mar 2021 12:20:56 +0100|Tue, 23 Mar 2021 12:20:56 +0100
+9245e2593bdf368ae07bbb8ac9bdd889350be35b|MF-1368 - Add internal http api package for query params reading  (#1384)|Tue, 23 Mar 2021 11:48:05 +0100|Tue, 23 Mar 2021 11:48:05 +0100
+bcdc6d21f64a77920e1b88f6c4ba64d4e8fa3b64|MF-1390 - Fix docker-compose env_file (#1391)|Tue, 23 Mar 2021 11:39:40 +0100|Tue, 23 Mar 2021 11:39:40 +0100
+0f3a262ca31680bd874e1fcee692fba14a5a359d|put order direction in response body (#1387)|Mon, 15 Mar 2021 19:55:57 +0100|Mon, 15 Mar 2021 19:55:57 +0100
+74aa93fbb63c26a7900d06a46310c62facba0325|NOISSUE - Certs service refactor (#1369)|Mon, 15 Mar 2021 12:27:32 +0100|Mon, 15 Mar 2021 12:27:32 +0100
+30ba38c919b5209f8391e76704a85cdc91858fff|MF-1357 - Add new endpoint for searching things (#1383)|Thu, 11 Mar 2021 10:28:44 +0100|Thu, 11 Mar 2021 10:28:44 +0100
+a1e18a770aaebaf2b75ff6380eb4f20807507811|init commmit (#1385)|Wed, 10 Mar 2021 11:52:33 +0100|Wed, 10 Mar 2021 11:52:33 +0100
+259950b009e844bf24eb1c41756caa3f36641da2|NOISSUE - Add missing auth port in nginx enrypoint.sh (#1380)|Thu, 4 Mar 2021 19:02:59 +0100|Thu, 4 Mar 2021 19:02:59 +0100
+530f925c4d7e9c222cd04468751b1763f896519c|MF-1346 - Create Groups API - add grouping of entities (#1334)|Thu, 4 Mar 2021 10:29:03 +0100|Thu, 4 Mar 2021 10:29:03 +0100
+6b1f4d54f89713c2bf0f6c9d65cb2548e6e74a5e|NOISSUE - Fix certs and vault deployment, reorganize and remove unnecessary vars (#1368)|Tue, 2 Mar 2021 12:20:52 +0100|Tue, 2 Mar 2021 12:20:52 +0100
+7bcaa323d463afcc8154ccee550b27036827cff0|MF-1317 - Configurable regexp rule for password (#1355)|Mon, 1 Mar 2021 15:22:57 +0100|Mon, 1 Mar 2021 15:22:57 +0100
+e334569d8111c6ed1c5ea851f82f15c634fa08c8|Fix CoAP Adapter README (#1376)|Mon, 1 Mar 2021 12:25:39 +0100|Mon, 1 Mar 2021 12:25:39 +0100
+0432b2aa03debd4611e10c34b02a0593f4da33d3|NOISSUE - Fix default values for port and x509 provision (#1367)|Sat, 27 Feb 2021 01:01:48 +0100|Sat, 27 Feb 2021 01:01:48 +0100
+56d04cda649a930e3638bc584c9c6b09b263d73a|NOISSUE - Added missing endpoints for users service (#1372)|Thu, 25 Feb 2021 17:19:35 +0100|Thu, 25 Feb 2021 17:19:35 +0100
+e01874e5572c626442e214a27f458baf7ea07d78|MF-1365 - Add ADOPTERS.md file (#1371)|Thu, 25 Feb 2021 13:46:07 +0100|Thu, 25 Feb 2021 13:46:07 +0100
+9e532d2a7290bc2ea9e2dec821b70f68beb8fe77|Fix grpc endpoint parameter permutation (#1370)|Wed, 24 Feb 2021 13:23:50 +0100|Wed, 24 Feb 2021 13:23:50 +0100
+7ba3fdb3bff43e88498f5f8548e8e91ec0dcefc3|NOISSUE - Add IsChannelOwner grpc endpoint (#1366)|Mon, 22 Feb 2021 19:41:59 +0100|Mon, 22 Feb 2021 19:41:59 +0100
+7834cc48b3190d83ddac7069e00d33fec1cd22db|MF-1362 - Sort Things and Channels connections by name  (#1363)|Wed, 17 Feb 2021 16:21:40 +0100|Wed, 17 Feb 2021 16:21:40 +0100
+f0f60e2d2a2cf1b2ffb3aec89ca1881055a5459c|MF-1314 - Add value comparison filters for readers (#1353)|Tue, 9 Feb 2021 22:44:04 +0100|Tue, 9 Feb 2021 22:44:04 +0100
+24b902d049c64cdec7fdc2f7cfe265a46704b815|Fix env configuration and documentation (#1360)|Mon, 8 Feb 2021 22:38:52 +0100|Mon, 8 Feb 2021 22:38:52 +0100
+13c426c09c3dfd0e6be9bc03bfbae9ea2b8304eb|NOISSUE - Support disabling Email Agent authentication (#1356)|Mon, 8 Feb 2021 13:21:52 +0100|Mon, 8 Feb 2021 13:21:52 +0100
+ca5ff63dfb77333bbcc1a7b7e547621fa7b25d52|NOISSUE - Upgrade Mongo, Cassandra and Influx docker images (#1354)|Fri, 5 Feb 2021 12:32:21 +0100|Fri, 5 Feb 2021 12:32:21 +0100
+8b2ae463246b1040f2ba92c13fda7fff841c9eb4|Add READMEs to pkg packages (#1352)|Thu, 4 Feb 2021 20:04:41 +0100|Thu, 4 Feb 2021 20:04:41 +0100
+241ccf8fb4540431ed506f87d1eff2d3cf848058|Correct README (#1349)|Tue, 2 Feb 2021 17:18:12 +0100|Tue, 2 Feb 2021 17:18:12 +0100
+39a649c1bb467ccf4a37133930e1b0ea13c64608|MF-1342 - Use environment variables in docker-compose to use tagged version of image (#1343)|Tue, 2 Feb 2021 16:26:02 +0100|Tue, 2 Feb 2021 16:26:02 +0100
+a3dbfecb2dc80e5b1f7603009b692b88f0a95f9b|MF-1311 - Add Notifications service (#1324)|Mon, 1 Feb 2021 14:08:10 +0100|Mon, 1 Feb 2021 14:08:10 +0100
+73c175020ede6cc2dc2a3ed51281a8faf01cc458|MF-1344 - Fix links to API documentations #1345|Sun, 31 Jan 2021 20:25:19 +0100|Sun, 31 Jan 2021 20:25:19 +0100
+1bf485b71bd41fee81416e0d4b7f58b80e420737|NOISSUE - Upgrade influxdb and postgres docker images (#1341)|Fri, 29 Jan 2021 12:37:50 +0100|Fri, 29 Jan 2021 12:37:50 +0100
+8c87ee8328e32b162d5fd81fb546026ac6f4a9b3|NOISSUE - Revert cli to use user token from command args (#1339)|Thu, 28 Jan 2021 11:29:32 +0100|Thu, 28 Jan 2021 11:29:32 +0100
+0631900d5c57ce357b3b09e74cd72af724161598|MF-1276 - Fix openapi IDs and Keys format (#1338)|Wed, 27 Jan 2021 11:42:55 +0100|Wed, 27 Jan 2021 11:42:55 +0100
+4619576e9468cbb98ea17e636b522a941c2b35bd|MF-1061 - Add PageMetadata to readers (#1333)|Tue, 26 Jan 2021 12:23:15 +0100|Tue, 26 Jan 2021 12:23:15 +0100
+31f5bf714a427443d67540f59ccc567a0ec531cb|NOISSUE - Fix run script and compiler warnings (#1336)|Tue, 26 Jan 2021 01:07:06 +0100|Tue, 26 Jan 2021 01:07:06 +0100
+bf5ede086a85cfc8a069fd9baf1ac90117228ddd|Fix Postgres writer transaction handling (#1335)|Sat, 23 Jan 2021 02:03:33 +0100|Sat, 23 Jan 2021 02:03:33 +0100
+5cfc9305e5fcfbfa0fefa0d5017099c08b812aa2|Make Transformer type configurable (#1331)|Wed, 20 Jan 2021 13:10:40 +0100|Wed, 20 Jan 2021 13:10:40 +0100
+85f73a87b637c2decc92a39bb05714476759e958|MF-1061 - Implement v, vb, vs, vd and from/to mongodb-reader filters (#1326)|Tue, 19 Jan 2021 09:30:48 +0100|Tue, 19 Jan 2021 09:30:48 +0100
+0f856f5667e51e33e8619c17d6ac2614b3ea3462|NOISSUE - Rename package aliases uuidProvider into uuid (#1323)|Sun, 17 Jan 2021 23:12:45 +0100|Sun, 17 Jan 2021 23:12:45 +0100
+0516fe2fd726c2330524b89c30f4670588e31cf9|MF-1034 - Wrapping MQTT client (#1318)|Fri, 15 Jan 2021 23:22:18 +0100|Fri, 15 Jan 2021 23:22:18 +0100
+a8c652f96c5e1ecdf8cf7128d538eb54921306cd|MF-1061 - Fix cassandra-reader count for json format (#1327)|Wed, 13 Jan 2021 10:23:05 +0100|Wed, 13 Jan 2021 10:23:05 +0100
+8e5a9cfc9acd664c08ae0152058ff4cba0f286d8|MF-1061 - Implement v, vb, vs, vd and from/to cassandra-reader filters (#1325)|Tue, 12 Jan 2021 20:39:31 +0100|Tue, 12 Jan 2021 20:39:31 +0100
+6b7dc54c8b83612ea449b495c862d414b0be05cd|NOISSUE - Switch to Consumers interface (#1316)|Mon, 11 Jan 2021 23:55:34 +0100|Mon, 11 Jan 2021 23:55:34 +0100
+973ca177ea313417a683be7ba2522eaf8e361a05|MF-1061 - Implement protocol, name, v, vb, vs, vd and from/to Postgres reader… (#1322)|Mon, 11 Jan 2021 13:17:12 +0100|Mon, 11 Jan 2021 13:17:12 +0100
+a185855c06701d620a70d02bfe36011f6b603cdd|MF-1061 - Add name, protocol and publisher tests to influxdb-reader (#1320)|Mon, 11 Jan 2021 10:53:38 +0100|Mon, 11 Jan 2021 10:53:38 +0100
+ac09815457c5e2c2beb6422d62e70a024c45f3d3|NOISSUE - Fix Auth typo (#1319)|Mon, 11 Jan 2021 10:00:13 +0100|Mon, 11 Jan 2021 10:00:13 +0100
+3eca6920e1c3bc07176f59ffbd4f0c81edb22305|NOISSUE - Add health check for MQTT broker (#1305)|Tue, 5 Jan 2021 19:45:09 +0100|Tue, 5 Jan 2021 19:45:09 +0100
+e326494166dab3d6373c4cadb9df1bbedd25a25b|MF-1264 - Add support for JSON readers (#1295)|Wed, 30 Dec 2020 15:43:04 +0100|Wed, 30 Dec 2020 15:43:04 +0100
+47217cb5b93f48715f03c8e9b688eb228a44ae5a|NOISSUE - Merge authz and authn into new service auth (#1313)|Tue, 29 Dec 2020 23:02:35 +0100|Tue, 29 Dec 2020 23:02:35 +0100
+b2ccbaec2724e848a50ea53445d09145c271285f|MF-1061 - Implement InfluxDB filters value, v, vb, vs, vd, from, to (#1312)|Fri, 25 Dec 2020 19:23:54 +0100|Fri, 25 Dec 2020 19:23:54 +0100
+cb9985d16005756db27eb37efe0553ca51cbd5e0|NOISSUE - Correct readers openapi.yml (#1310)|Mon, 21 Dec 2020 11:45:37 +0100|Mon, 21 Dec 2020 11:45:37 +0100
+1810cec82b02d4da38f18803d65e99846dcaaf96|NOISSUE - Fix MQTT Forwarder client id (#1309)|Thu, 17 Dec 2020 17:17:33 +0100|Thu, 17 Dec 2020 17:17:33 +0100
+d2af0602a0805b6e5f8c14cdff435dfdec3771bb|NOISSUE - Fix dates not being init properly on save, change path construction, replace UUID with ULID for group ID (#1300)|Thu, 17 Dec 2020 17:08:28 +0100|Thu, 17 Dec 2020 17:08:28 +0100
+8aadc0ff402eb42cfa55528a7d768bbb2829e52a|NOISSUE - Remove authz from docker comp (#1307)|Wed, 16 Dec 2020 18:15:27 +0100|Wed, 16 Dec 2020 18:15:27 +0100
+c7d2feb434347a907785928e54cb384b80879ec6|Shorten descriptions and add formats (#1306)|Wed, 16 Dec 2020 16:00:56 +0100|Wed, 16 Dec 2020 16:00:56 +0100
+18dd8967cc3ea9d4152f907b25aec26cffe495e6|NOISSUE - remove owner id from user table and object (#1303)|Tue, 15 Dec 2020 15:57:37 +0100|Tue, 15 Dec 2020 15:57:37 +0100
+9864b2727173f215f2e1915ef4ce30f399cd2d55|NOISSUE - Add missing fields to openapi specs and enclose http codes in single quotes (#1302)|Tue, 15 Dec 2020 00:20:42 +0100|Tue, 15 Dec 2020 00:20:42 +0100
+3653e6b5d2a856ab84afa2b51d85f669dfa57ef5|MF-1290 - Sort Things and Channels by name (#1293)|Tue, 8 Dec 2020 21:30:47 +0100|Tue, 8 Dec 2020 21:30:47 +0100
+fbba7aaa1a5a86706b9935564d0ef32d0ca62270|MF-1248 - Add access policies for users (#1246)|Tue, 8 Dec 2020 17:04:09 +0100|Tue, 8 Dec 2020 17:04:09 +0100
+20f5290d7abb803ad34502117f4c8808bf949c10|Fixes, without spaces. (#1296)|Fri, 4 Dec 2020 18:59:16 +0100|Fri, 4 Dec 2020 18:59:16 +0100
+23bc822433a55ec8592d4b7105eb39760eec6be8|Add different CNs for CA and certs (#1292)|Thu, 26 Nov 2020 15:32:52 +0100|Thu, 26 Nov 2020 15:32:52 +0100
+7195cad0f6226c837ae5761eb32af15f07afec85|MF-397 - Introduce Thing Groups (#1259)|Mon, 23 Nov 2020 11:34:29 +0100|Mon, 23 Nov 2020 11:34:29 +0100
+663bd4e18d714b34097c5616a9d8402d8233f7c6|Add Enhancement section to the issue template (#1284)|Tue, 17 Nov 2020 22:52:56 +0100|Tue, 17 Nov 2020 22:52:56 +0100
+c03644524e1e04a41c74006b0a13f1276d6730e1|Fix hardcoded env var values (#1283)|Mon, 16 Nov 2020 20:44:25 +0100|Mon, 16 Nov 2020 20:44:25 +0100
+f1aa32d89cf36b5d56988c46b7c34896575d5d5e|NOISSUE - Improve AuthN service docs (#1282)|Fri, 13 Nov 2020 21:46:04 +0100|Fri, 13 Nov 2020 21:46:04 +0100
+3273c30d8b70d5808c69d9541b99b8fc27eaf3ea|MF-1268 - CLI improvements (#1274)|Sat, 31 Oct 2020 23:29:06 +0000|Sun, 1 Nov 2020 00:29:06 +0100
+46c675cd5fa694d1e2632d9a9051b2926f3d4ab5|NOISSSUE - Vault integration as an addon. (#1266)|Sat, 31 Oct 2020 20:44:25 +0000|Sat, 31 Oct 2020 21:44:25 +0100
+02db4066b1a382bedfd30f3f3eeb40e845a5984f|Fix naming in Authn API tests (#1275)|Tue, 27 Oct 2020 20:08:16 +0100|Tue, 27 Oct 2020 20:08:16 +0100
+f6b1ae735c850261b98d852150a3715810e645ed|MF-1244 - Return UserID alongside with user Email in Identify response (#1245)|Tue, 27 Oct 2020 19:42:53 +0100|Tue, 27 Oct 2020 19:42:53 +0100
+926e9799d6eee5be28a8561c78eea2577214f652|NOISSUE - Fix ViewGroup and UpdateGroup (#1269)|Tue, 27 Oct 2020 11:26:32 +0100|Tue, 27 Oct 2020 11:26:32 +0100
+1c298d8f27ea58db38ef0bfd68e726e3b68ecadb|NOISSUE - Add ListUsers, ViewUser and ViewProfile methods  (#1262)|Mon, 26 Oct 2020 10:17:08 +0100|Mon, 26 Oct 2020 10:17:08 +0100
+420b598ac711e56e6d4d86987f8dd0e1caeb9532|NOISSUE - Rm users http package (#1256)|Fri, 16 Oct 2020 18:00:24 +0200|Fri, 16 Oct 2020 18:00:24 +0200
+86fe3f7cdb6c2346f1628e6478854eb3574bc0da|NOISSUE - Remove content-type check from decodeListUserGroupsRequest (#1255)|Fri, 16 Oct 2020 12:54:27 +0200|Fri, 16 Oct 2020 12:54:27 +0200
+3c794d4a03334241737916e088ae36b3d783c0b0|NOISSUE - Migrate swaggers to openapi 3 spec (#1250)|Fri, 9 Oct 2020 15:25:09 +0200|Fri, 9 Oct 2020 15:25:09 +0200
+8dd59f855717f87948c6f50fc0924ff6ca3932b4|Update MQTT Broker Docker scripts (#1253)|Fri, 9 Oct 2020 11:57:08 +0200|Fri, 9 Oct 2020 11:57:08 +0200
+bc41c32cf58c8448370b566c1949e9715ee41d39|update mproxy version (#1251)|Fri, 9 Oct 2020 01:55:09 +0200|Fri, 9 Oct 2020 01:55:09 +0200
+42e4e054c26d7bc69b161fc6c8b1871a7126f1d3|NOISSUE - Fix group retrieval when parent id is not specified (#1247)|Thu, 1 Oct 2020 17:03:35 +0200|Thu, 1 Oct 2020 17:03:35 +0200
+9ed5f8334f87e08ca506f8bdc2c53bf9064388e3|NOISSUE - Add new endpoint to retrieve configuration to be used as a template. (#1242)|Tue, 29 Sep 2020 10:25:26 +0200|Tue, 29 Sep 2020 10:25:26 +0200
+8ea26c5ab7998350171925e37ce45086471f212d|NOISSUE - Add user groups (#1228)|Wed, 23 Sep 2020 23:18:53 +0200|Wed, 23 Sep 2020 23:18:53 +0200
+043d1e0aac77d037720a2b915ea898aa21215a9e|MF-1237 - Return to transport only things service errors (#1236)|Wed, 23 Sep 2020 15:44:39 +0200|Wed, 23 Sep 2020 15:44:39 +0200
+f10e49e6b53c4c299cba430255cc73a6a0076730|MF-928 - Change CoAP lib (#1233)|Tue, 22 Sep 2020 11:59:10 +0200|Tue, 22 Sep 2020 11:59:10 +0200
+f18f2c1c98c9ff4384e9c7f7c5fc129818c379c4|NOISSUE - Simplify make cleandocker (#1230)|Wed, 9 Sep 2020 22:32:05 +0200|Wed, 9 Sep 2020 22:32:05 +0200
+dfa6d8ba0dd04ae7659c9ca0895d040d89e573d1|[NOISSUE] - Fix malformed Swagger API specs (#1229)|Wed, 9 Sep 2020 13:05:36 +0200|Wed, 9 Sep 2020 13:05:36 +0200
+e272d9f7ad39eda5c97d3c4a34b0e80521c55f27|MF-435 - Add support for env file loading (#1223)|Mon, 7 Sep 2020 08:45:36 -0500|Mon, 7 Sep 2020 15:45:36 +0200
+26c944b5c3fd9804fd3761de2385ecd39bb8421e|update certs docs (#1227)|Fri, 7 Aug 2020 17:35:11 +0200|Fri, 7 Aug 2020 17:35:11 +0200
+3694a82de64b7c5c551f85f6551bd60420fa3e2b|NOISSUE - Fix certs update in bootstrap config and make content handling in config.toml user friendly (#1221)|Wed, 29 Jul 2020 14:20:43 +0200|Wed, 29 Jul 2020 14:20:43 +0200
+930f8beb29bb2422fde3275233ca4070261b7e3e|NOISSUE - Fix typo in authorization.js (#1226)|Tue, 28 Jul 2020 11:09:18 +0200|Tue, 28 Jul 2020 11:09:18 +0200
+9334568ba298d544c862c5b13e13123c6199c9de|MF-983 - Add HTTP query param to connections list endpoints to fetch disconnected Things or Channels (#1217)|Sun, 26 Jul 2020 22:47:15 +0200|Sun, 26 Jul 2020 22:47:15 +0200
+b91024465c9cb4010ff24becdf60326d9de3869f|MF-1179 - Add a certificate service and certs endpoint to SDK (#1188)|Tue, 21 Jul 2020 12:53:21 +0200|Tue, 21 Jul 2020 12:53:21 +0200
+be1361311d772d93c23e9e6e52a9b3f936ae89b0|NOISUE - Fix cache error when key is not in Redis (#1220)|Tue, 14 Jul 2020 22:54:33 +0200|Tue, 14 Jul 2020 22:54:33 +0200
+c1088b93151af2d703f6ea96076d1ccf6a8d95da|MF-1199 - Add NATS messaging tests (#1209)|Tue, 14 Jul 2020 18:11:27 +0200|Tue, 14 Jul 2020 18:11:27 +0200
+2453cd75ed377753731a2798ff7bb83e477ea56f|NOISSUE: Fix emailer (#1219)|Tue, 14 Jul 2020 03:06:13 +0200|Tue, 14 Jul 2020 03:06:13 +0200
+7dc6b0d87958c3e180d997fa68c6e79d23663367|NOISSUE - Update dependencies (#1218)|Mon, 13 Jul 2020 15:24:55 +0200|Mon, 13 Jul 2020 15:24:55 +0200
+381ebb1e517789359007e500e038f48afaf5b1c3|NOISSUE - Add subtopic wildcard for twin attribute's definition (#1214)|Thu, 9 Jul 2020 12:18:19 +0200|Thu, 9 Jul 2020 12:18:19 +0200
+09d09c6ef55f5bb10aa53348255b209710a990be|fix envs for nginx (#1215)|Wed, 8 Jul 2020 10:42:33 +0200|Wed, 8 Jul 2020 10:42:33 +0200
+a7eee53dfb907343fee512b4ab8e7ef56e5d1131|Remove twin mqtt related obsolete var and fix es-redis address (#1213)|Thu, 2 Jul 2020 18:03:59 +0200|Thu, 2 Jul 2020 18:03:59 +0200
+e6b7fd818b6d9bc6a20e0d1f677c334082598d9a|NOISSUE - Remove unused `MF_THINGS_SECRET` env var (#1211)|Mon, 29 Jun 2020 23:28:20 +0300|Mon, 29 Jun 2020 22:28:20 +0200
+ecff0664218356f5ddbad32a7b8cacafbcaa8be2|NOISSUE - Fix some typos (#1212)|Mon, 29 Jun 2020 21:48:14 +0300|Mon, 29 Jun 2020 20:48:14 +0200
+8d33285489c4b08b61df2a95ebae72b2e3835aa7|NOISSUE - Remove unknown Bootstrap requests (#1210)|Fri, 26 Jun 2020 13:24:56 +0200|Fri, 26 Jun 2020 13:24:56 +0200
+ee5c76395ae6fdc8f32b22a6201987b339fc7ca3|NOISSUE — Use `pgcrypto` instead `uuid-ossp` for UUIDs generation (version 4) (#1208)|Fri, 19 Jun 2020 01:37:54 +0300|Fri, 19 Jun 2020 00:37:54 +0200
+4a9c7403d88736e8844ff79d7c677b83ef672b68|MF-1198 - Add errors package tests (#1207)|Fri, 12 Jun 2020 12:13:23 +0200|Fri, 12 Jun 2020 12:13:23 +0200
+381a15a6956056d8ad31afed28b61389c742d5d8|MF-1025 - timeout env in sec, use parseduration (#1206)|Mon, 8 Jun 2020 18:17:16 +0200|Mon, 8 Jun 2020 18:17:16 +0200
+a7b81dc37af06614a7dd8efe5089f84dcc04f562|MF-1201 - Fix MF_THINGS_AUTH_GRPC_URL mongo reader ENVAR (#1203)|Fri, 5 Jun 2020 17:39:22 +0200|Fri, 5 Jun 2020 17:39:22 +0200
+a1643b1e7eb91ca0b5c429751cb97a60f9ff616b|NOISSUE - Fix CI (#1204)|Fri, 5 Jun 2020 17:29:24 +0200|Fri, 5 Jun 2020 17:29:24 +0200
+340e685d70ac95bc93c822c4ea3e90b9e97fbb58|MF-1180 - Add redis based twins and states cache (#1184)|Fri, 5 Jun 2020 11:42:16 +0200|Fri, 5 Jun 2020 11:42:16 +0200
+97f8d65885252318e702d1ceb976bf864f8a2da6|MF-739 - Add ID to the User entity (#1152)|Thu, 4 Jun 2020 22:29:16 +0200|Thu, 4 Jun 2020 22:29:16 +0200
+7f3e2c1b21ed572892987c7642e9ef60d39ff8e7|NOISSUE - Fix default db name for storage databases (#1194)|Wed, 3 Jun 2020 20:33:52 +0200|Wed, 3 Jun 2020 20:33:52 +0200
+8b004b3dafbf2985a7f374bc61ccdfc3cc32a736|NOISSUE - Add `MF_DOCKER_IMAGE_NAME_PREFIX` to Makefile (#1173)|Wed, 3 Jun 2020 21:27:09 +0300|Wed, 3 Jun 2020 20:27:09 +0200
+a7c3cfcf1cb7c34a4d96245362ac1381f6ccd94d|MF-1154 - Move UUID provider to project root (#1172)|Wed, 3 Jun 2020 18:49:44 +0200|Wed, 3 Jun 2020 18:49:44 +0200
+f1ee9d0665531131d1b98150283494f6a3ae2800|Fix typo in error messages (#1193)|Wed, 3 Jun 2020 17:34:01 +0200|Wed, 3 Jun 2020 17:34:01 +0200
+ea3a891c9130c520b2ada103e004656125d0a63a|MF-1190 - Add pkg for library packages (#1191)|Wed, 3 Jun 2020 15:16:19 +0200|Wed, 3 Jun 2020 15:16:19 +0200
+c26c7f34cd6ccfda07ba3f8c1dd4cd0d093bf6a7|MF-1177 - Implement caching in MQTT adapter (#1187)|Tue, 2 Jun 2020 21:21:30 +0200|Tue, 2 Jun 2020 21:21:30 +0200
+a5fb55c328a270f4cdf7cc45caff2dff98deeb7b|NOISSUE - Refactor provision tool (#1189)|Mon, 1 Jun 2020 17:34:10 +0200|Mon, 1 Jun 2020 17:34:10 +0200
+8906943d1dee354594e7c9f95966727b3c5b7cb0|Prepare 0.11.0 release (#1186)|Fri, 29 May 2020 16:05:55 +0200|Fri, 29 May 2020 16:05:55 +0200
+a57fb03c01404cc3774079f4b40a7c020bdc80da|Add VerneMQ docker image build from source (#1178)|Mon, 25 May 2020 12:24:21 +0200|Mon, 25 May 2020 12:24:21 +0200
+877005538c47543c20ddad0707873f10a6d89ecd|MF-994 - Add tracing middleware for twins and states repos (#1181)|Thu, 21 May 2020 13:06:31 +0200|Thu, 21 May 2020 13:06:31 +0200
+b4c80132e623af8b5c626e25bcd1cc6536094c51|MF-995 - Add Twins tests for endpoint list twins and list states (#1174)|Mon, 18 May 2020 18:46:50 +0200|Mon, 18 May 2020 18:46:50 +0200
+d7670e7adba3cd32276b485220f3c653515e76ec|NOISSUE - Update dependencies (#1176)|Thu, 14 May 2020 19:09:55 +0200|Thu, 14 May 2020 19:09:55 +0200
+df6f5adff8e4670bb41083203e59f479914b2751|MF-1163 - Fix influxdb-reader to use nanoseconds precision (#1171)|Tue, 12 May 2020 18:19:04 +0200|Tue, 12 May 2020 18:19:04 +0200
+5089fccf3619978e4778e09b8c04230e3c9b8ab6|Rename environment variable MF_MQTT_ADAPTER_PORT to MF_MQTT_ADAPTER_MQTT_PORT in docker environment (#1170)|Tue, 12 May 2020 14:28:59 +0200|Tue, 12 May 2020 14:28:59 +0200
+b13a3135ddf0b74290af4dffe532d7d5fe0ae0ce|Remove thing related code from twins service (#1169)|Thu, 7 May 2020 17:26:34 +0200|Thu, 7 May 2020 17:26:34 +0200
+4d9694c0275a32953a9a44a2b908a5fb7854b0b0|MF-997 - Add twins service swagger file (#1167)|Thu, 7 May 2020 14:58:23 +0200|Thu, 7 May 2020 14:58:23 +0200
+b8be18129cf703e5eaa65611e3b9483673e7e54a|MF-1079 - Add MQTT forwarder (#1164)|Thu, 7 May 2020 09:34:09 +0200|Thu, 7 May 2020 09:34:09 +0200
+f9432c6525817a2d9d47317226678f1fcf8379ee|MF-1159 - add gateway metadata update in provision method (#1160)|Wed, 6 May 2020 16:53:32 +0200|Wed, 6 May 2020 16:53:32 +0200
+f482df903319fddd4a265a6f5356989e0e1c990e|MF-1055 - rollback/release transaction on error (#1166)|Wed, 6 May 2020 15:15:19 +0200|Wed, 6 May 2020 15:15:19 +0200
+16ac44f3772c499e0da2914bf6a3f6665454af9b|NOISSUE - Use log level error for VermeMQ docker (#1162)|Tue, 5 May 2020 16:44:06 +0200|Tue, 5 May 2020 16:44:06 +0200
+2b4cf8a99013668cab3c4031197a487b82ab3f7b|NOISSUE - Fix default nats pubsub subject (#1153)|Mon, 4 May 2020 13:14:06 +0200|Mon, 4 May 2020 13:14:06 +0200
+0c016cd7cec59b938fa1716a324622f50f4c3944|MF-1125 - Document Provision service (#1143)|Fri, 1 May 2020 01:31:02 +0200|Fri, 1 May 2020 01:31:02 +0200
+f872546925ba92a975e8dbc2d2f39d330554e7e7|NOISSUE - Fix bootstrap SDK args naming (#1151)|Wed, 29 Apr 2020 20:05:08 +0200|Wed, 29 Apr 2020 20:05:08 +0200
+9d5202c46b585ac40b448ced29b03abc2ed0184b|Use VerneMQ default log level (#1150)|Wed, 29 Apr 2020 13:13:40 +0200|Wed, 29 Apr 2020 13:13:40 +0200
+bf189fbd237e846cf2f9e3a0fbcb2c5e1d803a27|NOISSUE - Update provision service (#1133)|Wed, 29 Apr 2020 00:39:23 +0200|Wed, 29 Apr 2020 00:39:23 +0200
+c3019fffb69727dd2262f42a2640515a82898f7b|NOISSUE - Refactor messaging (#1141)|Tue, 28 Apr 2020 11:02:35 +0200|Tue, 28 Apr 2020 11:02:35 +0200
+36d00d8b9eeb01b31167ccceee8af9d439f1db00|Add JSON tags to SDK entities (#1146)|Mon, 27 Apr 2020 18:49:09 +0200|Mon, 27 Apr 2020 18:49:09 +0200
+9b4eb7056f85ef6a9b6b370085a13b5fd8641da8|NOISSUE - Update CLI README.md (#1139)|Thu, 23 Apr 2020 10:24:42 +0200|Thu, 23 Apr 2020 10:24:42 +0200
+cb3b70d567bf9e695b2bef7d223f4269dcd1975a|NOISSUE - Update mProxy version (#1137)|Wed, 22 Apr 2020 20:41:51 +0200|Wed, 22 Apr 2020 20:41:51 +0200
+c7a8e753537eeb663e848327bcc4905a04392d06|fix nginx, channel connect (#1136)|Wed, 22 Apr 2020 18:59:50 +0200|Wed, 22 Apr 2020 18:59:50 +0200
+9d430fa02c5cb0e80a2fc1fa3c2419fb36741207|Remove concurrency flag for golangci-lint (#1134)|Tue, 21 Apr 2020 19:49:37 +0200|Tue, 21 Apr 2020 19:49:37 +0200
+7a18d3fa56e21d8b71e3c5fee1a955e3bb58439f|MF-1088 - Remove message payload content type (#1121)|Tue, 21 Apr 2020 19:33:11 +0200|Tue, 21 Apr 2020 19:33:11 +0200
+ccbfe2060710ce8e8656855449a8abfbcb2c34b5|MF-1129 - Use snake_case for Lora and OPC-UA metadata fields (#1130)|Tue, 21 Apr 2020 17:49:17 +0200|Tue, 21 Apr 2020 17:49:17 +0200
+eb9092494e9c744009fd6589d5a4f482836ed662|MF-1128 - Add golangci-linter to a CI script (#1131)|Tue, 21 Apr 2020 17:05:19 +0200|Tue, 21 Apr 2020 17:05:19 +0200
+88fa724fc3038d44de1e4b70e0da4f0c4f8339b0|MF-1123 - Move Provision service to monorepo (#1132)|Tue, 21 Apr 2020 16:05:11 +0200|Tue, 21 Apr 2020 16:05:11 +0200
+7910d64ad4dd8705e5245024820d607eef5090b7|MF-845 - Add FOSSA badge for licensing (#1127)|Mon, 20 Apr 2020 18:21:55 +0200|Mon, 20 Apr 2020 18:21:55 +0200
+01aa4190c59040817a98d0af6594273fe178c2d8|MF-1087 - Remove WebSocket adapter (#1120)|Fri, 17 Apr 2020 13:16:21 +0200|Fri, 17 Apr 2020 13:16:21 +0200
+f982b8ccc6113bc49fa9c859f07aa5fadaf30c03|NOISSUE - Use HTTP Status in SDK error messages (#1119)|Thu, 16 Apr 2020 14:45:28 +0200|Thu, 16 Apr 2020 14:45:28 +0200
+7d839b7b61f20ef3bc764eda17e711ec74178b17|NOISSUE - Fix bootstrap token naming and interfaces named args (#1117)|Thu, 16 Apr 2020 12:32:21 +0200|Thu, 16 Apr 2020 12:32:21 +0200
+6bd74575ff83217f5fca040ac153bbee8a175131|MF-1115 - Improve the SDK error encoding (#1118)|Wed, 15 Apr 2020 23:41:31 +0200|Wed, 15 Apr 2020 23:41:31 +0200
+4c970a807946ddd5dc93e014fa7b07a11a742201|MF-862 - Add boostrap CRUD to SDK and CLI (#1114)|Wed, 15 Apr 2020 17:38:20 +0200|Wed, 15 Apr 2020 17:38:20 +0200
+b8bd011f9d855f92c40bbe3de1461e7ebf04aa6f|NOISSUE - Update coding style in Things service (#1116)|Wed, 15 Apr 2020 15:15:30 +0200|Wed, 15 Apr 2020 15:15:30 +0200
+fbbf2c07a5f0510ce53be0cbf7cd6a4d55f8caa5|NOISSUE - Remove defers from TestMain (#1111)|Tue, 14 Apr 2020 15:47:34 +0300|Tue, 14 Apr 2020 14:47:34 +0200
+5b5229975bc0c83cf13fb588bdd5c637cf953494|NOISSUE - Create func to encode SDK errors (#1110)|Tue, 14 Apr 2020 11:04:33 +0200|Tue, 14 Apr 2020 11:04:33 +0200
+d8dca28072693374a0941e106cb337ac01793123|MF-1078 - Add timestamp to published messages and use it in Transformer (#1106)|Mon, 13 Apr 2020 15:05:05 +0200|Mon, 13 Apr 2020 15:05:05 +0200
+537d73d0c6f402a808fb0a273d6359a7d6857919|Fix prometheus namespace in postgres reader & writer (#1109)|Mon, 13 Apr 2020 14:01:59 +0200|Mon, 13 Apr 2020 14:01:59 +0200
+880e193b0a2f3597c7675d7c7293563da9b50b0a|NOISSUE - Implement errors package in senml transformer, readers and writers (#1108)|Mon, 13 Apr 2020 12:57:53 +0200|Mon, 13 Apr 2020 12:57:53 +0200
+e438be42508750c771c36f675af2b383e603b556|NOISSUE - Implement errors package in Authentication service (#1105)|Fri, 10 Apr 2020 17:43:42 +0200|Fri, 10 Apr 2020 17:43:42 +0200
+57f7ee25950548aa4a1e4cfddd35db2f7e5ed051|MF-1103 - API key should ignore empty expiration time (#1104)|Tue, 7 Apr 2020 14:32:02 +0200|Tue, 7 Apr 2020 14:32:02 +0200
+6c39c85cc89f4f2b15d19ff8f365604feecccb22|MF-1096 - Fix AuthN and Things Auth ENVARS (#1066)|Tue, 7 Apr 2020 12:02:17 +0200|Tue, 7 Apr 2020 12:02:17 +0200
+338c55e554af1a47a5218adbfcfc2464b7fe11ca|fix Contains function for nil arguments (#1102)|Tue, 7 Apr 2020 10:35:38 +0200|Tue, 7 Apr 2020 10:35:38 +0200
+382bc8916121049babe0f42ba949dc4fe45d2679|MF-1099 - Add email subdomain validator (#1101)|Tue, 7 Apr 2020 10:16:46 +0200|Tue, 7 Apr 2020 10:16:46 +0200
+8325c1caf632505f73dbdabd993f4742e10cb407|MF-1091 - Use channels. as broker prefix (#1098)|Mon, 6 Apr 2020 12:30:26 +0200|Mon, 6 Apr 2020 12:30:26 +0200
+1d78233fe6edca33f57a160d5313b1cfdefd7621|MF-1090 - Use named Interfaces args (#1097)|Sun, 5 Apr 2020 13:15:47 +0200|Sun, 5 Apr 2020 13:15:47 +0200
+fff492bd50810e4f3dd3a8d7b1fbe374d32797a5|NOISSUE - Create broker package for NATS (#1080)|Wed, 1 Apr 2020 21:22:13 +0200|Wed, 1 Apr 2020 21:22:13 +0200
+51ec2566648188686ba37557734e6a49e7672136|NOISSUE - Implement errors package in bootstrap service (#1093)|Wed, 1 Apr 2020 15:54:26 +0200|Wed, 1 Apr 2020 15:54:26 +0200
+c20b43ed4197968cd9753cfaef7abdde4d181a8b|NOISSUE - Fix writers loadSubjectsConfig if file is missing (#1094)|Wed, 1 Apr 2020 14:40:59 +0200|Wed, 1 Apr 2020 14:40:59 +0200
+46aadcfd9dc2203c8bba2c42cbcb5d070fd637ec|NOISSUE - Adding subtopics filtering in writer services (#1072)|Mon, 30 Mar 2020 18:24:27 +0200|Mon, 30 Mar 2020 18:24:27 +0200
+d2153a88465cfceaef6631afa1063c1c691fc071|[NOISSUE] - Improve errors package (#1086)|Mon, 30 Mar 2020 15:22:18 +0200|Mon, 30 Mar 2020 15:22:18 +0200
+70955d1937759a634df1b2f00f301bd7637b0563|NOISSUE - Enable MQTT over WS in docker composition (#1085)|Wed, 25 Mar 2020 22:26:50 +0100|Wed, 25 Mar 2020 22:26:50 +0100
+c1df2cb21c84e9c3175894316a316e313955f3b4|NOISSUE - Rm unused opc-ua envars (#1083)|Wed, 25 Mar 2020 16:56:57 +0100|Wed, 25 Mar 2020 16:56:57 +0100
+b8818c4dd28bc426b011e2b35583b960efcec9e0|MF-798 - Add utf8 support for email validation (#1082)|Wed, 25 Mar 2020 17:30:20 +0300|Wed, 25 Mar 2020 15:30:20 +0100
+a2d70c890753fa3719e5363c16dd87c04fc9d767|Remove unused Tokenizer interface (#1084)|Wed, 25 Mar 2020 10:29:48 +0100|Wed, 25 Mar 2020 10:29:48 +0100
+6ffa916ed2296c12fd6fc848927c8879b04b35a1|Update mqtt adapter imports (#1081)|Tue, 24 Mar 2020 11:07:41 +0100|Tue, 24 Mar 2020 11:07:41 +0100
+19503742a6bbacdea8b0b327bcdc27a474e0902c|NOISSUE - Update state based on SenML time value (#1075)|Wed, 18 Mar 2020 19:56:39 +0100|Wed, 18 Mar 2020 19:56:39 +0100
+c91fe0d453536622d3da2d4a01738b529a3dc2ab|NOISSUE - Fix StatusBadDecodingError for opc-ua browse (#1074)|Sat, 14 Mar 2020 20:09:02 +0100|Sat, 14 Mar 2020 20:09:02 +0100
+3e4a9eb16aa702e43068249504d8f4dff1284863|Save senml array msg to multiple states (#1073)|Fri, 13 Mar 2020 16:20:57 +0100|Fri, 13 Mar 2020 16:20:57 +0100
+b3f91f5c9efdb055697be4a6e85d38315e6604ed|NOISSUE - Fix opc-ua message type handling (#1071)|Thu, 12 Mar 2020 11:20:05 +0100|Thu, 12 Mar 2020 11:20:05 +0100
+ba97e865a48d81bdff189bde6710cc0978f045b0|NOISSUE - Add Publisher field to MQTT adapter (#1067)|Tue, 10 Mar 2020 11:44:48 +0100|Tue, 10 Mar 2020 11:44:48 +0100
+cc5e0288df00b6a7df39d23517b2ba03740980a7|NOISSUE - Fix users CLI (#1062)|Mon, 9 Mar 2020 11:31:19 +0100|Mon, 9 Mar 2020 11:31:19 +0100
+6e4e5b351a782112a24435d5667dacda05a33a2a|NOISSUE - Fix SDK Messages response (#1064)|Sat, 7 Mar 2020 05:02:26 +0100|Sat, 7 Mar 2020 05:02:26 +0100
+d587921eda84c58378e8551b669dbdc3e23db853|Merged MQTT docker compose in core composition file (#1060)|Thu, 5 Mar 2020 13:34:07 +0100|Thu, 5 Mar 2020 13:34:07 +0100
+7df2ababc429788b202e47234d9fd411c7edab71|MF-1016 - Add UserUpdate and UpdatePassword to sdk and CLI (#1057)|Wed, 4 Mar 2020 18:37:41 +0100|Wed, 4 Mar 2020 18:37:41 +0100
+63dc1f69b685dffa6789c31121f541e8f0e35868|Update mProxy (#1058)|Wed, 4 Mar 2020 15:25:09 +0100|Wed, 4 Mar 2020 15:25:09 +0100
+1c6f12406269f5b6469ebfc888c547ee3f89f9e2|MF-1053 - Add disconnect event to MQTT adapter (#1056)|Tue, 3 Mar 2020 19:23:57 +0100|Tue, 3 Mar 2020 19:23:57 +0100
+cc90f568b6f16ccbe7064f122d6a8c6d2212d3df|Fix data type for data_value in databases (#1054)|Tue, 3 Mar 2020 15:35:26 +0100|Tue, 3 Mar 2020 15:35:26 +0100
+5e145858f1c55e05c3f036e518b8da58a425212d|NOISSUE - Fix opc-ua subscriptions store (#1052)|Tue, 3 Mar 2020 15:05:22 +0100|Tue, 3 Mar 2020 15:05:22 +0100
+9e2bb4933acf0b7f411e0fd9f9ca358d79f06bd0|NOISSUE - Fix connect CLI command and remove ConnectThing func from SDK (#1051)|Tue, 3 Mar 2020 10:58:30 +0100|Tue, 3 Mar 2020 10:58:30 +0100
+3f77b87a918dcabf1ef9fc5a8039f96443781e77|NOISSUE - Update Vernemq image repository (#1050)|Mon, 2 Mar 2020 18:21:44 +0100|Mon, 2 Mar 2020 18:21:44 +0100
+dcba41e8c4b41233be6cd375d57f4e5748f42deb|Removed VerneMQ auth plugin, Aedes impl. Added mproxy support in docker (#1049)|Sun, 1 Mar 2020 23:55:43 +0100|Sun, 1 Mar 2020 23:55:43 +0100
+f6c813ea8c58f787c51e3c4b23f05b17f4a1ef14|NOISSUE - Add default subscription nodeID and Interval ENVAR (#1046)|Thu, 27 Feb 2020 01:06:14 +0100|Thu, 27 Feb 2020 01:06:14 +0100
+42b368235291e7ed42f9096b516c87ca29e94bbd|MF-415 - Merge mProxy support  (#1045)|Wed, 26 Feb 2020 17:14:16 +0100|Wed, 26 Feb 2020 17:14:16 +0100
+3b5d51276f3113aa2c0d071b88f0a39fddcdbc98|NOISSUE - Remove twins-service mqtt dependency and publish notifs to nats (#1042)|Thu, 20 Feb 2020 00:10:10 +0100|Thu, 20 Feb 2020 00:10:10 +0100
+a30a3b906367ed8e19ac7929dbb9f3de1d93452b|Add arbitrary SenML value type saving to twin state (#1039)|Tue, 18 Feb 2020 19:56:39 +0100|Tue, 18 Feb 2020 19:56:39 +0100
+e22d1fbbb46f9c54e2e36742466126a9250cadde|Fixed Aedes dependencies (#1036)|Thu, 13 Feb 2020 14:37:16 +0100|Thu, 13 Feb 2020 14:37:16 +0100
+51cd0524a11eccccd95f8a2d236a774636a0d963|MF-998 - Add Twins service to Makefile and docker-compose.yml (#1035)|Wed, 12 Feb 2020 18:34:48 +0100|Wed, 12 Feb 2020 18:34:48 +0100
+1c2c86b0309c006cec56d0252020a89748cb3af3|MF-1032 - Fix redis docker volume of opcua-adapter (#1033)|Fri, 7 Feb 2020 17:13:37 +0100|Fri, 7 Feb 2020 17:13:37 +0100
+a1078e6999b430b15dd9c048b9ec5375acee9f45|NOISSUE - add nats conf (#1031)|Thu, 6 Feb 2020 18:44:29 +0100|Thu, 6 Feb 2020 18:44:29 +0100
+b8138fac326e57d4d91138d940dafefb932d6b77|MF-442 - Add SSL encryption to the MongoDB, InfluxDB and Cassanda readers (#1024)|Wed, 5 Feb 2020 20:24:36 +0100|Wed, 5 Feb 2020 20:24:36 +0100
+2b7637fd7523840ad52e5bccc6360c67f3cb6c26|NOISSUE - Add opc-ua type handling and unsubscription (#1029)|Wed, 5 Feb 2020 17:16:45 +0100|Wed, 5 Feb 2020 17:16:45 +0100
+f785116a6fd62564d3a5509304d184f75fc2eb47|NOISSUE - Add aggregate attribute-based search for twin retrieval (#1027)|Tue, 4 Feb 2020 23:25:51 +0100|Tue, 4 Feb 2020 23:25:51 +0100
+3f6a0cd14bd48311fe36e75da334b43302163a07|NOISSUE - Fix metadata in add Things endpoint (#1028)|Tue, 4 Feb 2020 12:33:28 +0100|Tue, 4 Feb 2020 12:33:28 +0100
+269fe89a429783b0ac270f4267068c354b1a72f6|NOISSUE - Fix minimal password length (#1023)|Wed, 29 Jan 2020 18:54:34 +0100|Wed, 29 Jan 2020 18:54:34 +0100
+bdf1326933e4120ba689b2d07766423b118be160|MF-1020 - Change default password for CLI provision test (#1021)|Wed, 29 Jan 2020 12:31:15 +0100|Wed, 29 Jan 2020 12:31:15 +0100
+a96db05cc04e36f7f250192d16af22e0ad67dbfd|NOISSUE - Add subtopic to opcua messages (#1022)|Tue, 28 Jan 2020 23:30:55 +0100|Tue, 28 Jan 2020 23:30:55 +0100
+7b62f1ce8a36414f6206e938d5f65e91ba41b5fa|NOISSUE - Add details to browsed OPC-UA nodes (#1019)|Mon, 27 Jan 2020 12:25:16 +0100|Mon, 27 Jan 2020 12:25:16 +0100
+575d1d6bbffebcef7d1b1d0b74f3c3baa6b11f4f|NOISSUE Fix obsolete attribute persistance (#1018)|Mon, 27 Jan 2020 02:15:10 +0100|Mon, 27 Jan 2020 02:15:10 +0100
+0d361f3df158ed2aa31d5c9f90215f626ca4b054|Fix twins update revision counter (#1011)|Wed, 22 Jan 2020 15:58:24 +0100|Wed, 22 Jan 2020 15:58:24 +0100
+5714a6dfcb088ad8b3aa9fe2428aa18dad880dea|Fixed docs instructions in README (#1010)|Fri, 17 Jan 2020 14:44:13 +0100|Fri, 17 Jan 2020 14:44:13 +0100
+decfae9c9d5aec5f95898ffd130f1c1bb39c7169|Fix copyright year (#1009)|Fri, 17 Jan 2020 12:51:01 +0100|Fri, 17 Jan 2020 12:51:01 +0100
+c4fa27fd7e31abe578067b7c766d53ca211d2cd3|Fix issuing recovery key (#1007)|Thu, 16 Jan 2020 18:43:06 +0100|Thu, 16 Jan 2020 18:43:06 +0100
+8475e87fe780ed97185f570f9c5fb83ff712ab7c|Removed gatling load-test (#1005)|Thu, 16 Jan 2020 11:57:34 +0100|Thu, 16 Jan 2020 11:57:34 +0100
+0d3adfdc5c812d38eebbc675186c864fbe8490aa|Removed old k8s manifests (#1004)|Thu, 16 Jan 2020 11:37:07 +0100|Thu, 16 Jan 2020 11:37:07 +0100
+160fda4d376f8fb525c0c856cb0fb4876796ed91|NOISSUE - Remove UI from docker-compose (#1001)|Wed, 15 Jan 2020 15:27:24 +0100|Wed, 15 Jan 2020 15:27:24 +0100
+4ba17175821eb9d47a6dc0ecfd1a67445e0ff060|NOISSUE - Store successfull OPC-UA subscriptions (#999)|Fri, 10 Jan 2020 17:56:03 +0100|Fri, 10 Jan 2020 17:56:03 +0100
+b3991b849739f9c496d053c3bcf4b1cfe7ade130|MF-730 - Add digital twin service for things (#855)|Fri, 10 Jan 2020 17:25:36 +0100|Fri, 10 Jan 2020 17:25:36 +0100
+5834d364adf59c1f11d13c06138062f7c685b332|Fix Redis event naming (#996)|Thu, 9 Jan 2020 14:18:23 +0100|Thu, 9 Jan 2020 14:18:23 +0100
+f42f2095bab4486dcc1fa35516b69ad3506c17f2|NOISSUE - Add a Browse endpoint in opcua-adapter (#988)|Mon, 23 Dec 2019 17:30:44 +0100|Mon, 23 Dec 2019 17:30:44 +0100
+60a90d84d51ee60d62d0726fa44f63b3ff862c1f|NOISSUE - Add Redis ES Username/Pass for VerneMQ (#991)|Mon, 23 Dec 2019 00:17:40 +0100|Mon, 23 Dec 2019 00:17:39 +0100
+887bc2d9c0aef657d3ecbef1d4d3054754151453|MF-982 - Add error when connecting empty channels or things (#985)|Tue, 17 Dec 2019 11:53:45 -0700|Tue, 17 Dec 2019 19:53:45 +0100
+2080ee8afa28a9e2c1db1798683a03d4377b14de|Added changelog for 0.10.0 release (#984)|Tue, 17 Dec 2019 17:32:27 +0100|Tue, 17 Dec 2019 17:32:27 +0100
+9c1743c080604d5d5d7e925d18e83f5916d5260f|Fix MQTT protobuf file name (#981)|Mon, 16 Dec 2019 18:05:59 +0100|Mon, 16 Dec 2019 18:05:59 +0100
+9f37927dec6e63ae440557ad09e1b1019fb10918|MF-932 - User API keys (#941)|Mon, 16 Dec 2019 16:22:09 +0100|Mon, 16 Dec 2019 16:22:09 +0100
+bdeb7711ce5251c9a49be67291bd5e08f7f0d97b|NOISSUE - Use opcua server timestamp in opcua-adapter messages (#980)|Mon, 16 Dec 2019 16:06:37 +0100|Mon, 16 Dec 2019 16:06:37 +0100
+e960004b44dd833e86c7bd333096929e5603e38d|Simplify CI script (#979)|Tue, 10 Dec 2019 18:53:14 +0100|Tue, 10 Dec 2019 18:53:14 +0100
+76b68e10a8518e412e4eb86904d90f60fcf602bd|NOISSUE - Add opcua-adapter conn route-map, use ServerURI and NodeID (#975)|Mon, 9 Dec 2019 23:16:18 +0100|Mon, 9 Dec 2019 23:16:18 +0100
+5120a71595dbda29867faba22aadbc3bd4120894|Move docs to a separate repo (#976)|Wed, 4 Dec 2019 13:31:23 +0100|Wed, 4 Dec 2019 13:31:23 +0100
+8c4da8503963ce2659059be7cfc7cd79cb8f9a5d|MF-950 - Runtime error in normalizer - CBOR SenML (#974)|Fri, 29 Nov 2019 20:47:28 +0100|Fri, 29 Nov 2019 20:47:28 +0100
+237514ee33d69dc153ddf083e600f04b7b15a1dc|NOISSUE - Support multiple types values in opcua-adapter (#973)|Thu, 28 Nov 2019 18:08:43 +0100|Thu, 28 Nov 2019 18:08:43 +0100
+263108cc85f5dbd7206f8478062dddc83011f0e0|Migrate from dep to go modules (#971)|Wed, 27 Nov 2019 15:29:34 +0100|Wed, 27 Nov 2019 15:29:34 +0100
+277342b8cacafed8bdef21cf093c9a5d300eafc8|NOISSUE - Add Node IdentifierType config in opcua-adapter (#967)|Tue, 26 Nov 2019 20:07:04 +0100|Tue, 26 Nov 2019 20:07:04 +0100
+87dd91e328080303c3c8f3731e14b37c82beaa1d|NOISSUE - Remove messages limit in influxdb-reader (#968)|Tue, 26 Nov 2019 18:58:45 +0100|Tue, 26 Nov 2019 18:58:45 +0100
+6da650645fc9bff59fb7f71afddc4c13eb177079|NOISSUE - Fix opcua-adapter events warnings (#965)|Mon, 25 Nov 2019 17:53:18 +0100|Mon, 25 Nov 2019 17:53:18 +0100
+8602185b74cdb1f22bfb86b31de5333d934e98da|NOISSUE - Fix opcua-adapter events decode (#951)|Mon, 25 Nov 2019 14:14:57 +0100|Mon, 25 Nov 2019 14:14:57 +0100
+b8ac6ca2bf9b81e65d4611759e7527d690daf7d5|Fix subtopic handling in VerneMQ (#962)|Sun, 24 Nov 2019 18:21:00 +0100|Sun, 24 Nov 2019 18:21:00 +0100
+76908d7c8bdb37b98e1516338c64ecb0929ae622|MF-898 - Add bulk connect to CLI and SDK (#956)|Thu, 21 Nov 2019 04:29:37 -0700|Thu, 21 Nov 2019 12:29:37 +0100
+0ab627730ff5c1ba2c977978819e0fadd2f6be8d|MF-538 - Improve logging and API errors (#866)|Wed, 20 Nov 2019 14:43:41 +0100|Wed, 20 Nov 2019 14:43:41 +0100
+1b427f4396eda6d2a10bc186ecc4de0f6cbc2beb|NOISSUE - Fix Update User (#959)|Wed, 20 Nov 2019 14:03:17 +0100|Wed, 20 Nov 2019 14:03:17 +0100
+52c4d4a824335d417a5919e155375fc023dc2c8f|NOISSUE - Fix make dockers (#957)|Wed, 20 Nov 2019 09:24:58 +0100|Wed, 20 Nov 2019 09:24:58 +0100
+ced90b21a408379423351716e2fa688c47f6faea|Add dev_ back to make dockers_dev (#955)|Tue, 19 Nov 2019 09:21:13 -0700|Tue, 19 Nov 2019 17:21:13 +0100
+ac3ff5221a27740db0d6f57797610da91cbc45b2|NOISSUE - Remove Elm UI (#953)|Tue, 19 Nov 2019 09:31:41 +0100|Tue, 19 Nov 2019 09:31:41 +0100
+5e35cbe06b547b2d533f2b2c001fec0349c93291|NOISSUE - Fix docs (#952)|Sat, 16 Nov 2019 16:20:29 +0100|Sat, 16 Nov 2019 16:20:29 +0100
+894e1b83ecccdea639ca55cf4dcb15736ac77c43|MF-898 - Add bulk connections endpoint (#948)|Fri, 15 Nov 2019 10:44:31 -0700|Fri, 15 Nov 2019 18:44:31 +0100
+afeec81a5ee059074934c20d627270a11d7818c0|MF-916 - Fix Things and Channels counters (#947)|Wed, 13 Nov 2019 15:26:57 +0100|Wed, 13 Nov 2019 15:26:57 +0100
+67d518821a61bbd219f6b25a5407f56d15f7dc80|MF-898 - Change thing's service to use bulk connect (#946)|Mon, 11 Nov 2019 17:24:29 -0700|Tue, 12 Nov 2019 01:24:29 +0100
+5446d88abfd81984aeb839b09bf068bc0c136581|MF-898 - Add transactions to postgres connect (#940)|Mon, 11 Nov 2019 06:22:30 -0700|Mon, 11 Nov 2019 14:22:30 +0100
+9e8dd4b149296b1a8a56fa87f58c6d04699844ea|MF-942 - Fix email template logic  (#944)|Mon, 11 Nov 2019 12:13:48 +0100|Mon, 11 Nov 2019 12:13:48 +0100
+e735e5c01ba2cf6681a6b89fd6945d45825e96d0|add missing user service tests (#945)|Sun, 10 Nov 2019 02:47:14 +0100|Sun, 10 Nov 2019 02:47:14 +0100
+841b9437184015415181c23f689f2cc38e33b8ef|NOISSUE - Fix HTTP header for Things and Channels creation (#939)|Thu, 7 Nov 2019 13:57:47 +0100|Thu, 7 Nov 2019 13:57:47 +0100
+3bfdcfe83c6a643a7b2c7e60f012f85b5565b425|NOISSUE - Fix docker ui image name (#938)|Wed, 6 Nov 2019 13:44:58 +0100|Wed, 6 Nov 2019 13:44:58 +0100
+66f2332674a27352d64d649722d14bc1b71d99a9|Remove Normalizer service from compose (#937)|Tue, 5 Nov 2019 12:34:36 +0100|Tue, 5 Nov 2019 12:34:36 +0100
+f50335ab33129db8c33d9db6b616cd559a7a5461|MF-919 - Mainflux message updates (#924)|Tue, 5 Nov 2019 11:57:16 +0100|Tue, 5 Nov 2019 11:57:16 +0100
+d7dc836714159d9cab5b4da0ff8619c09e04ee3f|NOISSUE - Fix lora-adapter (#936)|Tue, 5 Nov 2019 11:49:39 +0100|Tue, 5 Nov 2019 11:49:39 +0100
+887542aab33dbca1b5a7ba486a8191420c186e82|NOISSUE - Fix lora creation events (#933)|Tue, 5 Nov 2019 10:23:30 +0100|Tue, 5 Nov 2019 10:23:30 +0100
+1d2c8b25a12532a667c3b59d81b9fbb2c17dfba6|NOISSUE - Remove ARM multi-arch images (#929)|Tue, 5 Nov 2019 10:12:49 +0100|Tue, 5 Nov 2019 10:12:49 +0100
+1a31ecd0448d119a244605d417f054c40c3d483f|MF-906 - Change single creation endpoints to use bulk service calls (#927)|Mon, 4 Nov 2019 13:14:17 -0700|Mon, 4 Nov 2019 21:14:17 +0100
+28a176ac1dfb4facd45afeb92b2e1a68aa1c3d32|MF-922 - Add UpdateUser endpoint (#923)|Thu, 31 Oct 2019 16:36:19 +0100|Thu, 31 Oct 2019 16:36:19 +0100
+8be2516321fa21d16a7bff3bf0d9384906fe15e2|MF-780 - Use Normalizer as a lib (#915)|Thu, 31 Oct 2019 14:04:47 +0100|Thu, 31 Oct 2019 14:04:47 +0100
+380af878d26ec3556104f10d4422cecc84f5c44d|Fix doc for ENV vars in README (#920)|Tue, 29 Oct 2019 21:28:59 +0100|Tue, 29 Oct 2019 21:28:59 +0100
+da4fc624400d5a5172b2bf91a06369e7ed3d5176|NOISSUE - Switch to grpcbox for VerneMQ (#914)|Tue, 29 Oct 2019 20:35:09 +0100|Tue, 29 Oct 2019 20:35:09 +0100
+426813cec48e3aa65b9cd4e42ccb05dd60621b9a|Change channels to chs (#918)|Tue, 29 Oct 2019 12:06:48 -0600|Tue, 29 Oct 2019 19:06:48 +0100
+8f3dff837b9a539230c1682952c567f4556f52c9|MF-484 - Add bulk provisioning for things and channels (#889)|Tue, 29 Oct 2019 05:59:54 -0600|Tue, 29 Oct 2019 12:59:54 +0100
+5f5d7e4cfafb575681446e17cf1f3b73b70fc37e|MF-899 - Update README and official docs (#910)|Tue, 29 Oct 2019 03:22:41 -0600|Tue, 29 Oct 2019 10:22:41 +0100
+fec058c6147ed5a14a097a3d1a0e6ccac6eaa83c|NOISSUE - Fix Redis envars (#903)|Mon, 28 Oct 2019 09:49:34 +0100|Mon, 28 Oct 2019 09:49:34 +0100
+613e75f7ee93f46795f08f86f6524920978bd626|Add disconnect on gen_server terminate() (#913)|Sun, 27 Oct 2019 17:57:43 +0100|Sun, 27 Oct 2019 17:57:43 +0100
+7499f8deea809e11bb28b7ee52fddc12a7990c9c|Fix compilation (#911)|Sat, 26 Oct 2019 17:46:23 +0200|Sat, 26 Oct 2019 17:46:23 +0200
+02fd49210540b647fc2f4d37329a3bb4f651f798|Revert "NOISSUE - Make event sourcing optional (#907)" (#909)|Fri, 25 Oct 2019 13:57:41 +0200|Fri, 25 Oct 2019 13:57:41 +0200
+d309973a23c31ff1328cb82b0c6e49121de9e832|NOISSUE - Make event sourcing optional (#907)|Fri, 25 Oct 2019 00:12:31 +0200|Fri, 25 Oct 2019 00:12:31 +0200
+e45e0ab307b12d554247b6e2d9ea93296e076aee|NOISSUE - Fix InfluxDB env vars (#908)|Thu, 24 Oct 2019 18:52:53 +0200|Thu, 24 Oct 2019 18:52:53 +0200
+dea7c67ddb51d34561f4222942132d55ff85a699|MF-890 - Add OPC-UA docs  (#904)|Thu, 24 Oct 2019 09:49:11 +0200|Thu, 24 Oct 2019 09:49:11 +0200
+2e664ffe1022dcf452c6e052cff73264f5911451|Fix Elm version for ARM Docker images (#905)|Wed, 23 Oct 2019 18:08:38 +0200|Wed, 23 Oct 2019 18:08:38 +0200
+cdf9347b015d06520d997019917ad0391b6e63d0|NOISSUE - Update Protobuf version (#902)|Tue, 22 Oct 2019 20:33:44 +0200|Tue, 22 Oct 2019 20:33:44 +0200
+e16a025fba7df0457b70f25dd6e33e2b1baed200|MF-886 - Add OPC-UA adapter (#878)|Tue, 22 Oct 2019 17:44:19 +0200|Tue, 22 Oct 2019 17:44:19 +0200
+8ab0b08c3973acd230bd5bff48fc78146c0df2f9|Fix Elm version in Dockerfile (#901)|Tue, 22 Oct 2019 17:30:09 +0200|Tue, 22 Oct 2019 17:30:09 +0200
+f4f938a7305d35477bb91fe942a0c8167403579c|MF-532 - Password reset (#873)|Tue, 22 Oct 2019 14:53:14 +0200|Tue, 22 Oct 2019 14:53:14 +0200
+6687a738ceb97663e415985ecf76183bdec4eab4|MF-785 - Change CanAccess to CanAccessByKey (#894)|Mon, 21 Oct 2019 15:24:45 -0600|Mon, 21 Oct 2019 23:24:45 +0200
+1da48afc4c27bf0809cd732958d5bb917da2d58f|NOISSUE - fix security doc (#897)|Mon, 21 Oct 2019 15:02:21 +0200|Mon, 21 Oct 2019 15:02:21 +0200
+ddbf172ed5220d4afb834f0aec95ae2621508c2d|NOISSUE - Fix typo in docs and README (#891)|Thu, 17 Oct 2019 22:15:45 +0200|Thu, 17 Oct 2019 22:15:45 +0200
+df2cb80f12fe434bba0f1d776e594fea343640da|Fix Nginx mTLS configuration (#885)|Tue, 15 Oct 2019 16:39:46 +0200|Tue, 15 Oct 2019 16:39:46 +0200
+b3ce48aca6e69a08fc2ad5b3a177f1b148bac3c3|NOISSUE - Add MQTT UserName check on register and InstanceId in Redis (#884)|Mon, 14 Oct 2019 15:09:53 +0200|Mon, 14 Oct 2019 15:09:53 +0200
+351b04cd2e6acbda7053164f278fc728c6469bd2|Add MQTT troubleshooting section (#882)|Mon, 14 Oct 2019 09:18:29 +0200|Mon, 14 Oct 2019 09:18:29 +0200
+23b421bdc58ffab2425ba7cfde0bf3e9dc5d0189|Fix provision tool connect error handling (#879)|Tue, 8 Oct 2019 19:31:14 +0200|Tue, 8 Oct 2019 19:31:13 +0200
+93d939ea521defea184b8f25e0b2a6aa6c0f0c19|MF-875 - Add tracing to official documentation (#877)|Mon, 7 Oct 2019 09:49:29 -0600|Mon, 7 Oct 2019 17:49:29 +0200
+66487eda42075be546d3c0ee8e372115ef1f9626|MF-788 - Remove date and minimize copyright comments (#876)|Mon, 7 Oct 2019 08:14:47 -0600|Mon, 7 Oct 2019 16:14:47 +0200
+23dff53a08b88934591577bc466e49d5b104bba2|MF-787 - Add tags to user, thing, and channel spans (#869)|Mon, 7 Oct 2019 05:32:09 -0600|Mon, 7 Oct 2019 13:32:09 +0200
+19f8922a9ed7ed1bb85c46e3fbec51c1f692c56d|Update docker-compose version for addons (#874)|Wed, 2 Oct 2019 11:57:12 +0200|Wed, 2 Oct 2019 11:57:12 +0200
+ecc15b64b61b77eee9b5f848a28a988d952de4ea|MF-859 - Channels metadata search (#867)|Tue, 1 Oct 2019 14:12:52 +0200|Tue, 1 Oct 2019 14:12:52 +0200
+92a640f6fc7bbdbebcb3bf817305f162e60b0124|MF-858 Users metadata (#861)|Sat, 28 Sep 2019 11:15:41 +0000|Sat, 28 Sep 2019 13:15:41 +0200
+873ef4c96f746b5c009752bbf4bac5107c3b7bf3|NOISSUE - Simplify MQTT benchmarking tool (#852)|Wed, 25 Sep 2019 19:02:29 +0200|Wed, 25 Sep 2019 19:02:29 +0200
+5e3bb270a30cfebc8b8e889643003892fbda7a13|NOISSUE - Upgrade Go version to 1.13 in container images (#868)|Mon, 23 Sep 2019 21:43:21 +0200|Mon, 23 Sep 2019 21:43:21 +0200
+c8cb2655c01a645f5e32189697b13d8e074ffebc|MF-820 - Fetch messages for a particular device (#843)|Sat, 21 Sep 2019 02:50:09 +0430|Sat, 21 Sep 2019 00:20:09 +0200
+b83439fcc2b48d5682441fd1b6f43e5687b9db00|Update gorilla websocket version (#865)|Wed, 18 Sep 2019 18:25:18 +0200|Wed, 18 Sep 2019 18:25:18 +0200
+08105205e100978c24869461e665c0ce47aa9c01|NOISSUE - Update aedes version and fix Dockerfile (#863)|Tue, 17 Sep 2019 20:25:38 +0200|Tue, 17 Sep 2019 20:25:38 +0200
+d20dfa84bc9272735c392729ae0dbb0296c91966|NOISSUE - Search by metadata (#849)|Tue, 17 Sep 2019 13:46:24 +0000|Tue, 17 Sep 2019 15:46:24 +0200
+a6cf76709dbfa9dbbfbb3f5fdf9d80030e643a95|MF-846 - Install python in docker build for aedes mqtt image (#860)|Mon, 16 Sep 2019 18:25:34 +0200|Mon, 16 Sep 2019 18:25:34 +0200
+5ef6aa84de949b704911db05746a2d170fe0639c|NOISSUE - Clean NginX files, move .gitignores to dirs (#853)|Mon, 16 Sep 2019 11:47:34 +0200|Mon, 16 Sep 2019 11:47:34 +0200
+3b1929296686b452cac37db657893a0596c09b9d|NOISSUE - Add docker-compose for MQTT cluster (#841)|Thu, 12 Sep 2019 16:55:24 +0200|Thu, 12 Sep 2019 16:55:24 +0200
+48701192706a65afb3aa9d508be41f228a136bc8|Add debug logs to the WS adapter (#848)|Wed, 11 Sep 2019 15:34:04 +0200|Wed, 11 Sep 2019 15:34:04 +0200
+97327ab05fc4426569843c36077f581029291741|NOISSUE - Add measuring time from pub to sub (#839)|Fri, 6 Sep 2019 12:59:35 +0000|Fri, 6 Sep 2019 14:59:35 +0200
+115d94bd1b65a5159ee22784be2fdb33deca020a|fix: Correct 404 and Content-Type Issues in MQTT Version Endpoint (#837)|Thu, 5 Sep 2019 17:40:18 +0430|Thu, 5 Sep 2019 15:10:18 +0200
+640dfb7e19f18bcaa017f3fe20d4c640495d6b31|NOISSUE - update mqtt prov tool and some refactor (#831)|Thu, 5 Sep 2019 11:39:58 +0000|Thu, 5 Sep 2019 13:39:58 +0200
+e17a3de1d0be79baf5d26b33ede4c2652397c07d|NOISSUE - Use Thing ID to update certs data (#827)|Tue, 3 Sep 2019 13:54:56 +0200|Tue, 3 Sep 2019 13:54:56 +0200
+ec4b46b6698d58925fb96c8d9bf0761629d502f6|NOISSUE - Improve VerneMQ plugin code, add configurable gRPC pool size (#836)|Tue, 3 Sep 2019 01:05:36 +0200|Tue, 3 Sep 2019 01:05:36 +0200
+38d85ae03ba6e8102dc732cf96d9ea05a12ba408|NOISSUE - Use gRPC for VerneMQ (#835)|Mon, 2 Sep 2019 23:22:46 +0200|Mon, 2 Sep 2019 23:22:46 +0200
+655f421ca93a33e05d35ee08ffea72f6851a9958|NOISSUE - Fix proto files in VerneMQ (#834)|Mon, 2 Sep 2019 21:20:18 +0200|Mon, 2 Sep 2019 21:20:18 +0200
+9ccc37c4b1a04466866438c778bc0b26eaee868b|NOISSUE - Fix hackney HTTP request (#833)|Mon, 2 Sep 2019 18:11:58 +0200|Mon, 2 Sep 2019 18:11:58 +0200
+a8836d67e0fa78e4a111b8b63557ca90396ab40b|Add socket pool and fix pattern matching (#830)|Sun, 1 Sep 2019 21:53:04 +0200|Sun, 1 Sep 2019 21:53:04 +0200
+2d1347eee38bb7ebbd6a24d6f00a8aa87d3729cc|Switch secure of WS connection according to secure of http connection of UI (#829)|Fri, 30 Aug 2019 16:23:28 +0200|Fri, 30 Aug 2019 16:23:28 +0200
+1a4844cee1d12b282ddb1a3b9c76eeac3e474745|NOISSUE - Use current hostname instead of localhost for a WebSocket connection in the UI (#826)|Fri, 30 Aug 2019 15:21:29 +0300|Fri, 30 Aug 2019 14:21:29 +0200
+f0905735674a37a292712536d8e5f468542324a6|NOISSUE - Improve MQTT benchmarking tools (#828)|Fri, 30 Aug 2019 14:09:12 +0200|Fri, 30 Aug 2019 14:09:12 +0200
+bfd12304ace5d58e7d6ee5107b9685e9ff50159e|NOISSUE - update mqtt benchmark (#824)|Tue, 27 Aug 2019 12:21:39 +0000|Tue, 27 Aug 2019 14:21:39 +0200
+e7891ec6abc46720924bbb58296a3d74ac9a08d9|Add encryption key to env vars table (#823)|Thu, 15 Aug 2019 16:26:31 +0200|Thu, 15 Aug 2019 16:26:31 +0200
+5c924bd5a3619dfaacf5910ac134fbfbced18e1d|NOISSUE - Add version endpoint to MQTT adapter (#816)|Wed, 14 Aug 2019 01:07:11 +0200|Wed, 14 Aug 2019 01:07:11 +0200
+19834dfc51faa9ad3bd72f64963f394b010eb376|MF-295 add mqtt benchmark tool (#817)|Tue, 13 Aug 2019 10:56:31 +0000|Tue, 13 Aug 2019 12:56:31 +0200
+9a78b1111f30fc3e0a7058a7a918e3d26dfc4fb8|update mqtts commands (#815)|Mon, 5 Aug 2019 09:43:05 +0000|Mon, 5 Aug 2019 11:43:05 +0200
+9c52c3816afcce48a4625e1ed272da5967d99580|Fix typo (#814)|Fri, 2 Aug 2019 13:22:28 +0000|Fri, 2 Aug 2019 15:22:28 +0200
+f03949a003db4b87c2f3c29635dc0fba849a8bc1|NOISSUE - Support encrypted bootstrap (#796)|Fri, 2 Aug 2019 14:35:31 +0200|Fri, 2 Aug 2019 14:35:31 +0200
+68e8eda92d7afe0c6788692cf7e433e30398ef9f|Add config to writers docs (#812)|Thu, 1 Aug 2019 13:13:24 +0200|Thu, 1 Aug 2019 13:13:24 +0200
+c751d0e656785126e636fa66abe18cd1e11ba51f|NOISSUE - Add VerneMQ support (#809)|Thu, 1 Aug 2019 12:40:49 +0200|Thu, 1 Aug 2019 12:40:49 +0200
+55d03ecddadd3ef1ea0fd24ec3c94c8cb6587879|NOISSUE - Add content type as part of MQTT subscription topic (#810)|Mon, 29 Jul 2019 17:42:04 +0200|Mon, 29 Jul 2019 17:42:04 +0200
+2996193a50367821abc8e6142226288eaefcb731|Updated Readme (#808)|Thu, 25 Jul 2019 19:20:11 +0200|Thu, 25 Jul 2019 19:20:11 +0200
+6d2aa71ccc46768cc749d3a40468774c377a4204|NOISSUE - Add rungw command to Makefile (#805)|Thu, 25 Jul 2019 17:24:26 +0200|Thu, 25 Jul 2019 17:24:26 +0200
+54823bed25d1f53b790422789bf5226e891b04b4|NOISSUE - Fix building UI docker image for arm (#806)|Thu, 25 Jul 2019 17:15:06 +0200|Thu, 25 Jul 2019 17:15:06 +0200
+649986b19faad871678d27a061e55cf4775bcac5|MF-757 - Add support for explicit content type (#771)|Thu, 25 Jul 2019 02:22:28 +0200|Thu, 25 Jul 2019 02:22:28 +0200
+99ced38229d270094ff5a52863e10ab8e42c3278|Updated Readme (#807)|Wed, 24 Jul 2019 15:02:21 +0200|Wed, 24 Jul 2019 15:02:21 +0200
+8efcaee350cd8ac41ae52808d85cc2502c4dfd63|NOISSUE - make correct reference to MF_UI_PORT (#804)|Wed, 24 Jul 2019 10:44:39 +0000|Wed, 24 Jul 2019 12:44:39 +0200
+a3de6953f8efda9d30ece6f8b0badac90349cb64|Add support for optional Jaeger (#801)|Tue, 23 Jul 2019 14:31:02 +0200|Tue, 23 Jul 2019 14:31:02 +0200
+748b7c1ee853607420c8ae6997d43589da63d5dc|Fix CoAP adapter subtopics (#797)|Mon, 22 Jul 2019 13:24:50 +0200|Mon, 22 Jul 2019 13:24:50 +0200
+6af65ea1599acaa88837aacf247991242b94f635|Added changelog for 0.9.0 release (#799)|Fri, 19 Jul 2019 17:56:23 +0200|Fri, 19 Jul 2019 17:56:23 +0200
+b95bb82e0bb94c0a2bb978f72af15b6972fae59f|Fix users service to work in offline mode (#795)|Fri, 19 Jul 2019 12:28:45 +0200|Fri, 19 Jul 2019 12:28:45 +0200
+8bda799ef934fde6b91ae3ded6c2d70b70e17b0a|Create and push docker manifest for new release from Makefile (#794)|Thu, 18 Jul 2019 17:31:37 +0200|Thu, 18 Jul 2019 17:31:37 +0200
+61f1c2e379289e240b221ffce8ff695f24060f9e|MF-399 - Add open tracing support (#782)|Thu, 18 Jul 2019 15:01:09 +0200|Thu, 18 Jul 2019 15:01:09 +0200
+1ad14e7fd30c85a5819380edc58e3411b89d524b|fix mainflux_id parameter in bootstrap swagger (#789)|Tue, 16 Jul 2019 16:21:37 +0200|Tue, 16 Jul 2019 16:21:37 +0200
+a6a8648e4f5b10b675f78fe2eef9c7dc4f3b7f5a|MF-783 - Allow access checking by a thing ID (#784)|Mon, 15 Jul 2019 18:28:15 +0200|Mon, 15 Jul 2019 18:28:15 +0200
+4a7af7c0b3c0de60b482009875d09ff95f807e24|NOISSUE - Fix CoAP adapter (#779)|Mon, 15 Jul 2019 17:49:02 +0200|Mon, 15 Jul 2019 17:49:02 +0200
+b0a79436b8bb0cf87a8d935601cbcbadabffb6a6|Fix MF_THINGS_AUTH_GRPC_PORT in addons' docker-compose files (#781)|Thu, 11 Jul 2019 23:19:08 +0200|Thu, 11 Jul 2019 23:19:08 +0200
+4ab2e396c26c8d6c1a5c170696344752f5917da8|NOISSUE - Add authorization HTTP API to things service (#772)|Thu, 4 Jul 2019 17:06:56 +0200|Thu, 4 Jul 2019 17:06:55 +0200
+22a3b881fd4e37784e177ae59b340f2907946e04|NOISSUE - Typo fix (#777)|Thu, 4 Jul 2019 09:57:03 +0200|Thu, 4 Jul 2019 09:57:03 +0200
+aeebf06799fa679619c3cd23279448c559b4f466|Remove cli executable from repo (#776)|Wed, 3 Jul 2019 23:19:49 +0200|Thu, 4 Jul 2019 05:19:49 +0800
+c396e6ded8e8cdb073011750fd36e18333d36f68|fix docker-compose env (#775)|Wed, 3 Jul 2019 18:50:28 +0000|Wed, 3 Jul 2019 20:50:28 +0200
+f5b6c63cca4eadb00040c4a23cac801b8655e14c|NOISSUE - Use .env vars in docker-compose (#770)|Tue, 2 Jul 2019 14:22:12 +0200|Tue, 2 Jul 2019 14:22:12 +0200
+81cd73e277b90b648d24ec43b8e8a38e8efaddef|Use errors and null packets in authorized pub/sub (#773)|Mon, 1 Jul 2019 11:22:31 +0200|Mon, 1 Jul 2019 11:22:31 +0200
+204aec6171645a01fc674463ba1f0cbc30c77245|MF-663 - enable nginx port conf from docker env (#769)|Mon, 24 Jun 2019 18:13:02 +0000|Mon, 24 Jun 2019 20:13:02 +0200
+aa219b6f9980b878d40949c034347b515ba90b79|NOISSUE - Fix count when search by name is performed (#767)|Mon, 24 Jun 2019 14:03:48 +0200|Mon, 24 Jun 2019 14:03:48 +0200
+f27cb1d019e652b71d4edde6b4a4461638531b40|Update docs (#766)|Fri, 21 Jun 2019 14:07:24 +0200|Fri, 21 Jun 2019 14:07:24 +0200
+41897cee113ab4381dae5b0f47220a3c3722e81b|fix variant option for manifest annotate (#765)|Thu, 20 Jun 2019 15:31:56 +0200|Thu, 20 Jun 2019 15:31:56 +0200
+91274aca9be6ece3875e8687713305f181938b09|NOISSUE - Fix Docker for ARM (#760)|Thu, 20 Jun 2019 14:14:06 +0200|Thu, 20 Jun 2019 14:14:06 +0200
+b53979104c6d3be0d84f626316e30970cf816efb|NOISSUE - Remove installing non-existent package in ci (#758)|Wed, 12 Jun 2019 21:11:45 +0200|Wed, 12 Jun 2019 21:11:45 +0200
+63de955a7c22591e7b5eed1c86147db4b3f8342f| NOISSUE - Add searchable Channels name  (#754)|Tue, 11 Jun 2019 10:37:25 +0200|Tue, 11 Jun 2019 10:37:25 +0200
+44cc20b9caa4dd2efd1877006e8fd5a91232a1cf|MF-466 - ARM docker deployment (#756)|Tue, 11 Jun 2019 02:14:05 +0200|Tue, 11 Jun 2019 02:14:05 +0200
+62e7d69f7b5b0b3b762c5161c351d04fee3044b8|Add missing Websocket.js into docker ui image (#755)|Mon, 10 Jun 2019 00:15:12 +0200|Mon, 10 Jun 2019 00:15:12 +0200
+c8979ac2974fcc4d5fca9022169e9b4fa9fc3392|NOISSUE - Add searchable Things name (#750)|Thu, 30 May 2019 15:33:49 +0200|Thu, 30 May 2019 15:33:49 +0200
+cac1e35b587e3cbbe7ab118cb6f2d9e9209ad4da|NOISSUE - Add certificate fields to the Bootstrap service (#752)|Wed, 22 May 2019 23:22:19 +0200|Wed, 22 May 2019 23:22:19 +0200
+6d6f3cc85852363ce69409ad5e12c6c4ea09531d|Fix MQTT raw message deserialization (#753)|Tue, 21 May 2019 11:27:26 +0200|Tue, 21 May 2019 11:27:26 +0200
+066057d9143dfe643fe6dc9b07f3121dbd035996|Update grpc and protobuf deps in mqtt adapter (#751)|Fri, 17 May 2019 16:51:22 +0200|Fri, 17 May 2019 16:51:22 +0200
+f9093413ee9ea2c86219dae2a66c18c839c72ee6|MF-742 - Things to support single user scenario (#749)|Fri, 17 May 2019 16:06:21 +0200|Fri, 17 May 2019 16:06:21 +0200
+5fec0a9e92fc5c853a75e0bcfd2061119177470f|MF-732 - Add Postgres reader (#740)|Thu, 16 May 2019 18:00:19 +0200|Thu, 16 May 2019 18:00:19 +0200
+3125f0bbc2911cbccc26da2e952836515c847229|MF-722 - Change UUID lib (#746)|Thu, 16 May 2019 13:35:13 +0200|Thu, 16 May 2019 13:35:13 +0200
+0dc4d12e73f0b030082a1078c17009160e949bc5|Add performance improvement to writer filtering (#744)|Thu, 16 May 2019 13:19:06 +0200|Thu, 16 May 2019 13:19:05 +0200
+9d30006d311f23e54d05b3a93ec38bd7b6088d82|NOISSUE - Update nginx version (#748)|Thu, 16 May 2019 11:59:23 +0200|Thu, 16 May 2019 11:59:23 +0200
+5202d734c90a13fd151a745584fe8e0813486f80|MF-574 - Add missing environment variables to Cassandra writer (#745)|Wed, 15 May 2019 23:31:41 +0200|Wed, 15 May 2019 23:31:40 +0200
+cc5c66bfbae6ddf145290608b9c0e60760163c59|Fix CI with fixed plugin versions (#747)|Wed, 15 May 2019 17:41:18 +0200|Wed, 15 May 2019 17:41:18 +0200
+f5bb65d0e4d3f2f6b654687b35971f25b314d4b6|NOISSUE - Add compile test to CI (#743)|Mon, 13 May 2019 14:48:54 +0200|Mon, 13 May 2019 14:48:54 +0200
+e46164f93f4be09e5232ecc200b6e51b510f28f4|fix building problems (#741)|Sat, 11 May 2019 17:16:25 +0200|Sat, 11 May 2019 17:16:25 +0200
+d2fc379e3fd6a4e2a7ed943114e1a7495a413b0b|NOISSUE - Fix Postgres logs in Things service (#734)|Fri, 10 May 2019 18:55:13 +0200|Fri, 10 May 2019 18:55:13 +0200
+5e5fe889273fd3a819bc1c9feef269de6180cc5f|MF-708 - Assign Writer(s) to a channel (#737)|Fri, 10 May 2019 14:36:27 +0200|Fri, 10 May 2019 14:36:27 +0200
+886c8b246733aa9460754af142d9cec38e5ada5a|MF-732 - Add PostgreSQL writer (#733)|Tue, 7 May 2019 19:09:28 +0200|Tue, 7 May 2019 19:09:28 +0200
+138dae9277d792da5d6b5e54387fae913efbd847|NOISSUE - Fix Readers logs (#735)|Tue, 7 May 2019 15:59:18 +0200|Tue, 7 May 2019 15:59:18 +0200
+9f1151b8dc68d1d521d6f032d75469e7e20e5f5b|NOISSUE - Add readers pagination in SDK (#736)|Tue, 7 May 2019 15:10:02 +0200|Tue, 7 May 2019 15:10:02 +0200
+700cfdf6f3d0494983052983454a0e7c318c3de0|Add UI websocket open/close and send/receive (#728)|Fri, 26 Apr 2019 19:17:04 +0200|Fri, 26 Apr 2019 19:17:04 +0200
+dc9333237fac67a72b27f8afe078d0b5dbce493e|MF-707 - Allow custom Thing key (#726)|Thu, 25 Apr 2019 14:37:51 +0200|Thu, 25 Apr 2019 14:37:51 +0200
+aba7d909ede791f1fd4ed478042266d09e656b58|MF-525 - Add pagination response to the readers (#729)|Thu, 25 Apr 2019 00:18:43 +0200|Thu, 25 Apr 2019 00:18:43 +0200
+04281f238890680d33275458a3edb28b375b41fd|NOISSUE - Rm Things type from lora-adapter (#727)|Mon, 22 Apr 2019 21:31:08 +0200|Mon, 22 Apr 2019 21:31:08 +0200
+08f2545df9dd111a6c314191a532ac5c363dd4f2|fix to makefile for OSX/Darwin (#724)|Mon, 22 Apr 2019 14:03:05 -0500|Mon, 22 Apr 2019 21:03:05 +0200
+64f154dcc9ee48451a9e849c47c4dce2cea5fbc1|Fix .dockerignore file by removing index.html (#725)|Sun, 21 Apr 2019 20:10:24 +0200|Sun, 21 Apr 2019 20:10:24 +0200
+9688fc316af1fd036acf5ce261989be5951aa224|Fix things and channels metadata create and edit & remove thing type (#721)|Sun, 21 Apr 2019 02:40:14 +0200|Sun, 21 Apr 2019 02:40:14 +0200
+5b66b6e169c8665d5ba6909ee5d92f62a0afa9e4|skip deleting of persistent volumes by default (#723)|Sat, 20 Apr 2019 17:56:51 +0200|Sat, 20 Apr 2019 17:56:51 +0200
+b97deb50b2e072b89e606caa00e264279a5480e0|MF-488 - Remove Thing type (app or device) (#718)|Sat, 20 Apr 2019 14:09:11 +0200|Sat, 20 Apr 2019 14:09:11 +0200
+44615c5ff0bdb885f61128ba244e71c5c6acbe08|Remove empty channels check (#720)|Thu, 18 Apr 2019 18:02:20 +0200|Thu, 18 Apr 2019 18:02:20 +0200
+a30666d99911366eb241b5e2cc1a275a57492984|MF-655 Proper usage of docker volumes (#657)|Thu, 18 Apr 2019 17:31:24 +0200|Thu, 18 Apr 2019 17:31:24 +0200
+baebe8abc170eb988ede56e44e0b261ae00a45af|NOISSUE - Improve UI styling (#719)|Thu, 18 Apr 2019 13:29:38 +0200|Thu, 18 Apr 2019 13:29:38 +0200
+d9d9da49a8cc6a816f933e1c29fe86d01da61065|MF-715 - Conflict on updating connection with a valid list of channels (#716)|Wed, 17 Apr 2019 19:41:37 +0200|Wed, 17 Apr 2019 19:41:37 +0200
+2f17a05b3e195afdd9a38706be3cecfd353bc3b8|MF-711 - Create separate Redis instance for ES (#717)|Wed, 17 Apr 2019 12:39:47 +0200|Wed, 17 Apr 2019 12:39:47 +0200
+fe9f4dca8ea5b44a85de53e599d71685ad7a9818|NOISSUE - Update event fields naming (#713)|Tue, 16 Apr 2019 18:32:05 +0200|Tue, 16 Apr 2019 18:32:05 +0200
+de736a5c47b0bbed362c4b2efa721d270adf6ee5|MF-698 - Add missing info and docs about sys event sourcing (#712)|Tue, 16 Apr 2019 17:28:43 +0200|Tue, 16 Apr 2019 17:28:43 +0200
+5799356b1454b421f579bf4681c6eef36f61e352|MF-549 - Change metadata format from JSON string to JSON object (#706)|Tue, 16 Apr 2019 14:58:56 +0200|Tue, 16 Apr 2019 14:58:56 +0200
+0bbc4f54abfb2fa7677de90c5476934ecf10f8a3|Fix Bootstrap service event map keys (#705)|Thu, 11 Apr 2019 13:55:21 +0200|Thu, 11 Apr 2019 13:55:21 +0200
+0b89975947302468046d99ed75340c2c9399b027|NOISSUE - Replace repeating code by card gen func (#697)|Tue, 9 Apr 2019 16:21:26 +0200|Tue, 9 Apr 2019 16:21:26 +0200
+df11a20a32c08f5df7726f44a05a6e7eaedb8dbe|Update Bootstrap service docker-compose.yml (#700)|Tue, 9 Apr 2019 11:44:50 +0200|Tue, 9 Apr 2019 02:44:50 -0700
+77ce0f9fab12a025463317abe499b018ee9877bc|Remove Debug function (#699)|Tue, 9 Apr 2019 10:50:23 +0200|Tue, 9 Apr 2019 01:50:23 -0700
+6ebc758f89609b21b7fbef8649635f1e8831d49b|MF-687 - Add event sourcing to Bootstrap service (#695)|Mon, 8 Apr 2019 17:46:07 +0200|Mon, 8 Apr 2019 08:46:07 -0700
+98d588e8ef30852ac43b4de56eeacebfc4236045|NOISSUE - Remove debugging message from response of handle error function (#696)|Mon, 8 Apr 2019 13:44:11 +0200|Mon, 8 Apr 2019 13:44:11 +0200
+12a85f565ccf11c0755118c25d24736af7625414|Fix logging in publish event callback (#694)|Fri, 5 Apr 2019 17:29:43 +0200|Fri, 5 Apr 2019 17:29:43 +0200
+5fcf0aa22987074990e52a879c614011db5f9b69|Add event stream to MQTT adapter for conn status (#692)|Fri, 5 Apr 2019 11:25:39 +0200|Fri, 5 Apr 2019 11:25:39 +0200
+9b41c2db3ae05ff9ce41575968b409a54d934e11|NOISSUE - Improve UI style (#691)|Thu, 4 Apr 2019 20:28:56 +0200|Thu, 4 Apr 2019 20:28:56 +0200
+e4d3b1d8c313f294db2350984baf14695586f556|Fix InfluxDB time bug (#689)|Thu, 4 Apr 2019 18:10:01 +0200|Thu, 4 Apr 2019 18:10:01 +0200
+4f62f89b87d2c0b17819e9a6fd6f1282ca815464|Update docs structure (#686)|Thu, 4 Apr 2019 12:10:46 +0200|Thu, 4 Apr 2019 12:10:46 +0200
+06f4c6e059cee7bac497cde7e199a08dad859760|Use images instead of carousel (#685)|Thu, 4 Apr 2019 11:19:43 +0200|Thu, 4 Apr 2019 11:19:43 +0200
+25d9783514238184eaf52251841be4528d37fff3|NOISSUE - Update docs (#683)|Thu, 4 Apr 2019 10:22:09 +0200|Thu, 4 Apr 2019 10:22:09 +0200
+56a50962b695f7f3cc84a7631b4ba0321a04c4af|MF-662 - Change menu style (#678)|Tue, 2 Apr 2019 19:17:28 +0200|Tue, 2 Apr 2019 19:17:28 +0200
+f9b17d5f24e5cd59129cf0d22ec8628f5c24fb65|MF-651 - X509 Mutual TLS authentication (#676)|Tue, 2 Apr 2019 17:54:24 +0200|Tue, 2 Apr 2019 17:54:24 +0200
+bc49f6a5438370d54ad320360969a0f4aa3dee58|Fix offset calculation after deleting thing/channel, not to go to negative offset after deleting last thing/channel (#679)|Mon, 1 Apr 2019 17:49:10 +0200|Mon, 1 Apr 2019 17:49:10 +0200
+83cafeb6bef21d86e7ffc83a9484fbc4b02a3935|Update Aedes version for MQTT adapter (#677)|Fri, 29 Mar 2019 14:04:02 +0100|Fri, 29 Mar 2019 14:04:02 +0100
+c634bf8c7db81a236a335b6b1f79bd4acf793c0f|MF-661 - Bootstrap pagination in UI (#672)|Thu, 28 Mar 2019 10:20:15 +0100|Thu, 28 Mar 2019 10:20:15 +0100
+86a31158040d3898bf0757b2bd401daa8ee3c4a9|Update subtopics section in documentation (#670)|Fri, 22 Mar 2019 16:47:30 +0100|Fri, 22 Mar 2019 16:47:30 +0100
+4a31f11615e7ea5e162171f25dece6a10d9de28b|Remove default base URL value (#671)|Fri, 22 Mar 2019 14:53:03 +0100|Fri, 22 Mar 2019 14:53:03 +0100
+ea79f222695dd1031804db46407c396e28e9a0b1|Changelog updates regarding to 0.8 Milestone (#669)|Wed, 20 Mar 2019 18:10:32 +0100|Wed, 20 Mar 2019 18:10:32 +0100
+767c900c48ae405a56a48bfa57188d33535db378|Bump version to 0.8 (#668)|Wed, 20 Mar 2019 17:44:38 +0100|Wed, 20 Mar 2019 17:44:38 +0100
+d504c4f67d2da3aaecabe5bdf780ca6b15025ef2|MF-571 - Add Env.elm to set custom base URL (#654)|Wed, 20 Mar 2019 14:30:38 +0100|Wed, 20 Mar 2019 14:30:38 +0100
+e95e010a3a4c748c38490a94277ef9bcd055d624|added docs about docker-compose config overriding (#653)|Tue, 19 Mar 2019 22:32:07 +0100|Tue, 19 Mar 2019 22:32:07 +0100
+a09e3e214a3e8a691d4aee941466c48879c26e13|NOISSUE - Fix subtopic regex and restrict empty subtopic parts (#659)|Tue, 19 Mar 2019 16:05:56 +0100|Tue, 19 Mar 2019 16:05:56 +0100
+7c4c6109f40f04d4fbc1f8b087d9e7974a6f4237|MF-639 Split Content-Type header field on semicolon and evaluate all substrings (#644)|Tue, 19 Mar 2019 22:00:11 +1100|Tue, 19 Mar 2019 12:00:11 +0100
+8c3bff5f4b7a3543d5ce838d21eab9ce507b1071|MF-656 - Change bootstrap service port to 8200 (#658)|Mon, 18 Mar 2019 13:50:44 +0100|Mon, 18 Mar 2019 13:50:44 +0100
+2ed1471d5f57c06d07342be2b026179aee22a997|MF-539 - Improve Bootstrap Service documentation (#646)|Fri, 15 Mar 2019 19:11:26 +0100|Fri, 15 Mar 2019 19:11:26 +0100
+61b2d6b87bca7e6afed9ab6bbdb5ede9a7c8f6ce|MF-596 - Add subtopic to RawMessage (#642)|Fri, 15 Mar 2019 18:38:07 +0100|Fri, 15 Mar 2019 18:38:07 +0100
+2f09701028c68f2ff6ea81e9de5b7fe29a0e50fd|NOISSUE - Prevent infinite loop in lora-adapter if Redis init fail (#647)|Thu, 14 Mar 2019 18:10:51 +0100|Thu, 14 Mar 2019 18:10:51 +0100
+a0ed73d09b6997c7b96edcc304cb5c75c7da4ba2|Replace crossOrigin with relative path and fix messaging bug (#645)|Wed, 13 Mar 2019 13:58:03 +0100|Wed, 13 Mar 2019 13:58:03 +0100
+74dfd69767cd0b131cdd1a0af740c493289ec39e|Corrected grammar and rephrased a few sentences to read nicely (#641)|Thu, 7 Mar 2019 20:55:37 +0530|Thu, 7 Mar 2019 16:25:37 +0100
+b2ce9f5597a252e0e3fd9081f07acb0e0a0c6bdc|Fix missing css in container ui (#638)|Thu, 7 Mar 2019 13:39:35 +0100|Thu, 7 Mar 2019 13:39:35 +0100
+3255f32a9ce4782976a858f23b649109c221e494|MF-571 - Elm UI (#632)|Wed, 6 Mar 2019 16:21:09 +0100|Wed, 6 Mar 2019 16:21:09 +0100
+dbd8f9be23808eda29cba84a595e358d00b89775|MF-579 Things & Channels returns 404 when not found or ID is malformed, not 500 (#633)|Wed, 6 Mar 2019 14:10:01 +0100|Wed, 6 Mar 2019 14:10:01 +0100
+33008140268cc3d9f5edd3394dce8cbc37f31956|MF-552 - Use event sourcing to keep Bootstrap service in sync with Things service (#603)|Mon, 4 Mar 2019 17:41:38 +0100|Mon, 4 Mar 2019 17:41:38 +0100
+a60a5c1ba1b9c39c96fefd7734c62332e5e94b1f|NOISSUE - Fix lora-adapter Object decode (#610)|Fri, 22 Feb 2019 15:30:37 +0100|Fri, 22 Feb 2019 15:30:37 +0100
+fa7d638453ddd512a716744c563bf08c1f2c6df6|MF-540 - Add pagination in API responses for Bootstrap service (#575)|Fri, 22 Feb 2019 14:54:09 +0100|Fri, 22 Feb 2019 14:54:09 +0100
+1c09632671ebe7ab26d5d56a9380de9004ae3b3e|MF-600 - Handle custom LoRa Server application decoder (#608)|Fri, 22 Feb 2019 09:31:44 +0100|Fri, 22 Feb 2019 09:31:44 +0100
+06921fbee66d303828af520bb0f9152f4fc785e9|Fix run command in dev guide (#605)|Thu, 21 Feb 2019 15:56:51 +0100|Thu, 21 Feb 2019 15:56:51 +0100
+b69d31817d53533a1d5aaa6e8195417b9fbb1738|update docker-compose (#590)|Wed, 20 Feb 2019 04:47:13 +0530|Wed, 20 Feb 2019 00:17:13 +0100
+225f56fc3ec7f09a21e47ad96b236d6d45ac8754|Update generated code (#602)|Mon, 18 Feb 2019 17:10:25 +0100|Mon, 18 Feb 2019 17:10:25 +0100
+133383ecb78c4f03b0518ae86d27f6ebe30e4fee|Add generated files check (#601)|Sun, 17 Feb 2019 18:40:30 +0100|Sun, 17 Feb 2019 18:40:30 +0100
+2ee0ed18e0c90e5a116606e6606ed1efb4e85636|MF-597 - Removed legacy code as not needed anymore (#598)|Fri, 15 Feb 2019 18:35:52 +0100|Fri, 15 Feb 2019 18:35:52 +0100
+c418a9a4cf8ac954235116da67be006436bc4b2b|NOISSUE - Added normalizer service to run script (#594)|Wed, 13 Feb 2019 12:05:29 +0100|Wed, 13 Feb 2019 12:05:29 +0100
+351d6e7bfbecf84875e45aae6b3fff814c3f072e|MF-583 - Correct cmd/mongodb-reader HTTPServer log Info (#584)|Tue, 12 Feb 2019 18:36:58 +0800|Tue, 12 Feb 2019 11:36:58 +0100
+434a57d8e10b9a166c2d5a090bfbd08dd39430fa|Changed RawMessage (#587)|Mon, 11 Feb 2019 14:27:56 +0100|Mon, 11 Feb 2019 14:27:56 +0100
+94574e3707479a4364b965fd26901ce7f604bd17|NOISSUE - fix CLI log (#581)|Fri, 8 Feb 2019 15:38:07 +0100|Fri, 8 Feb 2019 15:38:07 +0100
+b12bb3374bf230c0317f3c1abf8e393a348c4a5e|NOISSUE - Fix users logs in main.go (#577)|Thu, 7 Feb 2019 08:43:43 +0100|Thu, 7 Feb 2019 08:43:43 +0100
+3f3b42b511de60fb6d7a5f6389569c4521daa09d|MF-519 - Refine Message (#567)|Wed, 6 Feb 2019 13:57:12 +0100|Wed, 6 Feb 2019 13:57:12 +0100
+1df4dcd7b7bd77e7995b4a62b7d3db7b6d2c6f6f|NOISSUE - Add name field for Bootstrap Config (#564)|Wed, 6 Feb 2019 10:28:54 +0100|Wed, 6 Feb 2019 10:28:54 +0100
+8966a13760548db7fc063debc41ff3bf84a04369|Fix non-SenML message routing in normalizer (#573)|Mon, 4 Feb 2019 13:07:05 +0100|Mon, 4 Feb 2019 13:07:05 +0100
+0fbb21c3fb67de6f3a2be3f1d0440ffa58254c29|Fix Dusan Maldenovic GitHub (#570)|Sun, 3 Feb 2019 09:12:40 +0100|Sun, 3 Feb 2019 09:12:40 +0100
+998c7ef9ef968c909cee126e5b3931670257a6da|NOISSUE - Update authors list (#569)|Sat, 2 Feb 2019 22:21:33 +0100|Sat, 2 Feb 2019 22:21:33 +0100
+dc16eb545137bd186d025421f7ae7ae62d653576|Update lora.md (#568)|Fri, 1 Feb 2019 23:46:02 +0100|Fri, 1 Feb 2019 23:46:02 +0100
+53036b5ae73bf19b93e31a0cd9608af1a347fe2b|Fix CLI docs (#566)|Fri, 1 Feb 2019 23:17:09 +0100|Fri, 1 Feb 2019 23:17:09 +0100
+c04909d6459e84e17b9741a2c3c92eafd229974c|NOISSUE- Improve LoRa doc (#562)|Thu, 31 Jan 2019 18:26:01 +0100|Thu, 31 Jan 2019 18:26:00 +0100
+bf9e1481206e6b2253cceb25a0a77e2034963011|MF-551 - Add metadata fields to Bootstrap Channels (#563)|Wed, 30 Jan 2019 16:40:37 +0100|Wed, 30 Jan 2019 16:40:37 +0100
+330545ad38bc54b172439105c92c9b848e4e4c91|Fix MQTT adapter by setting subscription queue (#561)|Mon, 28 Jan 2019 22:55:14 +0100|Mon, 28 Jan 2019 22:55:14 +0100
+1947d39119d0cce8c64170527f064b2d70bff1c7|MF-558 - Add MQTT subtopics documentation (#559)|Mon, 28 Jan 2019 14:36:29 +0100|Mon, 28 Jan 2019 14:36:29 +0100
+0b770ce49eb46c355e257e21cc76d05f18d1b879|Fix regexp for SUB (#557)|Sat, 26 Jan 2019 20:53:35 +0100|Sat, 26 Jan 2019 20:53:35 +0100
+2c6379f823525662f1b13f6d2dafbddf306747b4|Simplify MQTT topipc regexp (#555)|Sat, 26 Jan 2019 19:53:01 +0100|Sat, 26 Jan 2019 19:53:01 +0100
+c8e7a97122bc3f7873780b6459abda45af484f4c|MF-429 -Enabled MQTT subtopic's (#554)|Fri, 25 Jan 2019 22:22:36 +0100|Fri, 25 Jan 2019 22:22:36 +0100
+6bc287e028281091c7b562fb80cf24ef15abe288|NOISSUE - Fix normalizer exposed port in docker-compose (#548)|Mon, 21 Jan 2019 09:28:50 +0100|Mon, 21 Jan 2019 09:28:50 +0100
+f9f25e2d2f0281d58dfbb47d834874dcbfcc8ebd|Fix pagination response for empty page (#547)|Thu, 17 Jan 2019 17:31:30 +0100|Thu, 17 Jan 2019 17:31:30 +0100
+ca6968f8d0f6da0f2cf3c80123ddd4830e6623ad|Fix swagger and provisioning docs (#546)|Thu, 17 Jan 2019 16:56:03 +0100|Thu, 17 Jan 2019 16:56:03 +0100
+a61862759993d4a2a8e22d240cdad00111a5a386|Add env var for number of concurrent messages (#545)|Thu, 17 Jan 2019 02:26:58 +0100|Thu, 17 Jan 2019 02:26:58 +0100
+fedbe1c422ff49229d425d449c64062199ab6bb4|NOISSUE - Update doc and fix empty key bug (#544)|Tue, 15 Jan 2019 18:51:06 +0100|Tue, 15 Jan 2019 18:51:06 +0100
+7ff738360b81816a31b967d0a255456c5429186b|MF-370 - Simplify and refine CI (#541)|Fri, 11 Jan 2019 13:57:47 +0100|Fri, 11 Jan 2019 13:57:47 +0100
+a0505e0eebe746225d218bccbb065ed68ccfd636|NOISSUE - Add connection commands to CLI (#542)|Thu, 10 Jan 2019 21:42:31 +0100|Thu, 10 Jan 2019 21:42:31 +0100
+3bbd21f583ea5a681a025f00d505194ae114128d|NOISSUE - Refine docs (#537)|Wed, 9 Jan 2019 17:04:34 +0100|Wed, 9 Jan 2019 17:04:34 +0100
+c788ef64c0e061946349f186966f78d0ecfd43bb|Update licnese year (#533)|Wed, 9 Jan 2019 16:23:30 +0100|Wed, 9 Jan 2019 16:23:30 +0100
+22fc26b3759cf9bc20c760c275f2463e35b49574|MF-513 - Add Bootstrapping service (#524)|Wed, 9 Jan 2019 15:42:23 +0100|Wed, 9 Jan 2019 15:42:23 +0100
+8dbe2f40665997a27486ab1baf7fe5105fd9b78b|Add dedicated env vars for event sourcing (#536)|Tue, 8 Jan 2019 22:08:24 +0100|Tue, 8 Jan 2019 22:08:24 +0100
+72fa9db93977c0f796a21614b5d919c4076bd179|NOISSUE - Fix docs (#535)|Tue, 8 Jan 2019 21:15:00 +0100|Tue, 8 Jan 2019 21:15:00 +0100
+7a3d7fa8ecb9acbab0c84b550f387b72f4ed32ae|Add lora doc to getting-started.md (#529)|Tue, 8 Jan 2019 12:25:13 +0100|Tue, 8 Jan 2019 12:25:13 +0100
+ea1993665d002725cc151037ae2710e0332f888d|MF-483 - Enable channels and devices corresponding lists in backend (#520)|Tue, 8 Jan 2019 11:53:24 +0100|Tue, 8 Jan 2019 11:53:24 +0100
+bd00c5fa13e8789a26fd61ec6dfb73f4b2101adb|NOISSUE - Fix event sourcing client on LoRa adapter (#527)|Tue, 8 Jan 2019 02:54:18 +0100|Mon, 7 Jan 2019 23:54:18 -0200
+c75aaa9d4580d6ffa781638ab5c1bdf2542b9f44|Add missing components doc to architecture.md (#531)|Sat, 29 Dec 2018 22:17:35 +0100|Sat, 29 Dec 2018 22:17:35 +0100
+cdd2eb4bc799dd5b9d6ebe80bf143ab5a3fe830e|Fix MQTT adapter scaling issue (#526)|Thu, 27 Dec 2018 10:44:57 +0100|Thu, 27 Dec 2018 10:44:57 +0100
+584c8591adb15c481fde5f27fac9c4f9dd0e5b5b|Fix logging level in MQTT adapter (#522)|Fri, 21 Dec 2018 17:45:50 +0100|Fri, 21 Dec 2018 17:45:49 +0100
+643dc12408309434f1c9803f6567b702e1423875|Remove heartbeat log from MQTT broker (#521)|Fri, 21 Dec 2018 16:14:54 +0100|Fri, 21 Dec 2018 16:14:54 +0100
+655141e941aa1ef462defda260e3c2a76c9a31b7| MF-433 - Add method for reading messages from readers to SDK. (#511)|Tue, 18 Dec 2018 22:04:34 +0100|Tue, 18 Dec 2018 22:04:34 +0100
+c8069827bb3c68798d052e4ccc9da807239eaf58|MF-506 - Fix influx & mongo readers queries to return most recent messages (#510)|Tue, 18 Dec 2018 15:17:55 +0100|Tue, 18 Dec 2018 15:17:55 +0100
+1e017bdbcc0d17bab8edc1bae291ed71c90102d8|Fix data scheme in cassandra writer (#514)|Mon, 17 Dec 2018 20:41:11 +0100|Mon, 17 Dec 2018 20:41:11 +0100
+5f6bbf4b0a50917c5666208fe3d06f1ced1e6c60|MF-419 - Use JSON for CLI commands output (#504)|Sun, 16 Dec 2018 20:01:37 +0100|Sun, 16 Dec 2018 14:01:37 -0500
+49a41d909e64a24b4ddba6d5b7565d3e1ce6c7bd|MF-448 - Add option to connect to DB with verify-ca and verify-full (#500)|Sat, 15 Dec 2018 17:28:22 -0600|Sun, 16 Dec 2018 00:28:22 +0100
+d1012d14c7b1f5c659e81aac73e897bccd3aefe6|Add name to influx tagset (#501)|Tue, 11 Dec 2018 17:32:10 +0100|Tue, 11 Dec 2018 08:32:10 -0800
+8a2734d12242383c2944727cb67b393ae546946f|NOISSUE - Housekeeping. Update README. (#497)|Sun, 9 Dec 2018 20:06:20 +0100|Sun, 9 Dec 2018 20:06:20 +0100
+399cc051b3022958cddd5b15ebb55180a892c56b|NOISSUE - Fix CHANGELOG (#496)|Sat, 8 Dec 2018 21:47:19 +0100|Sat, 8 Dec 2018 21:47:19 +0100
+179471d4d74f500202fc002f57c9f07f12a8f5da|NOISSUE - Fix CHANGLEONG link (#495)|Sat, 8 Dec 2018 20:58:28 +0100|Sat, 8 Dec 2018 20:58:28 +0100
+607a0b22e0da64784ca3fe476c5ed00397e49dee|Add CHANGELOG. Bump version. (#494)|Sat, 8 Dec 2018 20:53:39 +0100|Sat, 8 Dec 2018 20:53:39 +0100
+f354332fa16609e682a096cd2768276d72d13882|NOISSUE - Add changelog target to Makefile (#493)|Sat, 8 Dec 2018 20:12:24 +0100|Sat, 8 Dec 2018 20:12:24 +0100
+9725c2723d2b568424d379bd81f49b9fbff69842|MF-486 - Add provisioning command to CLI (#487)|Sat, 8 Dec 2018 16:59:55 +0100|Sat, 8 Dec 2018 16:59:55 +0100
+61eed0c72d1d115755f805405afeec0d488b6cf4|Fix lora-adapter event store handlers (#492)|Wed, 5 Dec 2018 19:57:23 +0100|Wed, 5 Dec 2018 19:57:23 +0100
+715a662f0d5659ff9b392991324d7178d554a19b|NOISSUE - Add LoRa route map validation and fix LoRa messages URL (#491)|Wed, 5 Dec 2018 15:15:15 +0100|Wed, 5 Dec 2018 15:15:15 +0100
+b9bf63e3772760d8acce2bf7a31888ae89e54941|MF-475 - Replace increment ID with UUID (#490)|Wed, 5 Dec 2018 13:09:25 +0100|Wed, 5 Dec 2018 13:09:25 +0100
+21ab52576c0a60df8f03706074718242cc382373|MF-166 - Add lora-adapter service (#481)|Tue, 4 Dec 2018 20:08:30 +0100|Tue, 4 Dec 2018 20:08:30 +0100
+7db3b295be8428882bed3008127a0094432db750|NOISSUE - Add Makefile target to clean old imgs (#485)|Mon, 3 Dec 2018 16:19:09 +0100|Mon, 3 Dec 2018 16:19:09 +0100
+671c32affe452d3fde74e23e484f219d2fdfdcc2|MF-473 -  Add metadata field to channel (#476)|Wed, 28 Nov 2018 15:58:48 +0100|Wed, 28 Nov 2018 15:58:48 +0100
+bcadd7c47b235b42faa1114963dd630aaa9bc18b|Make CoAP ping period configurable (#469)|Tue, 27 Nov 2018 14:02:30 +0100|Tue, 27 Nov 2018 14:02:30 +0100
+59c5e350e1567521c24e20b8684d8015e95fe2d1|Add nginx ingress config to k8s services (#472)|Tue, 27 Nov 2018 12:56:36 +0100|Tue, 27 Nov 2018 12:56:36 +0100
+6cd11536a003e925c83389ac6727b3203d23051e|Add CoAP section in getting-started (#468)|Tue, 27 Nov 2018 12:46:18 +0100|Tue, 27 Nov 2018 12:46:18 +0100
+4f01c0aa7a35b1b5de6a6436e229341d187e792b|NOISSUE - Move CLI documentation from getting started guide to separate page (#470)|Tue, 27 Nov 2018 08:40:56 +0100|Tue, 27 Nov 2018 08:40:56 +0100
+15667120b75a393b0da5735b42303fc82bd02ef6|NOISSUE - Update Getting Started doc with CLI usage (#465)|Mon, 26 Nov 2018 12:50:32 +0100|Mon, 26 Nov 2018 12:50:32 +0100
+9ede8c70b9d21a102e203225abee3c8bde98356f|Update CoAP docs with URL example (#463)|Thu, 22 Nov 2018 18:27:01 +0100|Thu, 22 Nov 2018 18:27:01 +0100
+a680fa35d2a5a85f9072a3c2eb03ad037d27b0a3|MF-447 - Add event sourcing to things service (#460)|Tue, 20 Nov 2018 19:46:33 +0100|Tue, 20 Nov 2018 19:46:33 +0100
+8ddd78c81801f5576ce9ef047aae3e4cb4e8ec6d|Add TLS support to CoAP adapter and all readers (#459)|Tue, 20 Nov 2018 12:52:28 +0100|Tue, 20 Nov 2018 12:52:28 +0100
+ee262b964706cb10d5493aab5293cd68a8dff0fd|MF-417 - Implement SDK tests (#438)|Mon, 19 Nov 2018 21:27:01 +0100|Mon, 19 Nov 2018 21:27:01 +0100
+0379eb6c0fc041933dfc7b8a3fdad406ad956559|MF-454 - Use message Time field as a time for InfluxDB points (#455)|Sun, 18 Nov 2018 16:42:39 +0100|Sun, 18 Nov 2018 16:42:39 +0100
+bf299a01432193450d6fa81b753512a83716fc7e|NOISSUE - Add .dockerignore to project root (#457)|Tue, 13 Nov 2018 22:31:13 +0100|Tue, 13 Nov 2018 22:31:13 +0100
+ba4b166c96a31a8fac62feebb45c1509bba0dd78|Update docker-compose so that every service has debug log level (#453)|Thu, 8 Nov 2018 21:22:59 +0100|Thu, 8 Nov 2018 21:22:59 +0100
+c058cf95e4f4eb23f46123218093fcebe9344ed3|NOISSUE - Add TLS flag for Mainflux services (#452)|Thu, 8 Nov 2018 19:29:58 +0100|Thu, 8 Nov 2018 19:29:58 +0100
+bd3c24ed83330a1266f781e83a0bdc54fd662301|Version updated (#450)|Thu, 8 Nov 2018 10:44:12 +0100|Thu, 8 Nov 2018 10:44:12 +0100
+eb38c36f809fd78530878eb9f9cb0ca379ffe5d4|MF-448 - Option for Postgres SSL Mode (#449)|Wed, 7 Nov 2018 14:54:51 -0600|Wed, 7 Nov 2018 21:54:51 +0100
+ec0a148ad40c6f14b21abd9afda63bee3e7afa51|MF-443 Update project dependencies (#444)|Wed, 7 Nov 2018 10:18:57 +0100|Wed, 7 Nov 2018 10:18:57 +0100
+260df3ae406dacf92c6e713725e6f499b18d3e52|MF-426 - Add optional MF_CA_CERTS env variable to allow GRPC client to use TLS certs (#430)|Tue, 6 Nov 2018 14:09:17 -0600|Tue, 6 Nov 2018 21:09:17 +0100
+dfa766e0139b21fb604a2d9a46f3c1d12f0ec32d|MF-407 - Values of zero are being omitted  (#434)|Mon, 5 Nov 2018 19:18:51 +0100|Mon, 5 Nov 2018 19:18:51 +0100
+8c0c9943858305ae195bc4ad8c2a4219b510845f|Expose the InfluxDB and Cassandra ports to host (#441)|Fri, 2 Nov 2018 09:58:27 +0100|Fri, 2 Nov 2018 09:58:27 +0100
+694d67ada293324836ca3fd23d349aa0e43423fc|fix: add missing ThingsURL back (#440)|Thu, 1 Nov 2018 17:20:43 +0800|Thu, 1 Nov 2018 10:20:43 +0100
+d6755e4a72cd2d027defac22f6e56d2c4532b55e|MF-374 - Bring back CoAP adapter (#413)|Wed, 31 Oct 2018 18:53:25 +0100|Wed, 31 Oct 2018 18:53:25 +0100
+9cacf5708b1d5ae94d4a4cf554a20ce560506206|NOISSUE - Add info log-level for development (#427)|Wed, 24 Oct 2018 16:13:29 +0100|Wed, 24 Oct 2018 17:13:29 +0200
+ad5c66fad2659e63d895b59d6a472c217d2bfb64|NOISSUE - Refactor SDK and things service (#420)|Wed, 24 Oct 2018 11:21:03 +0200|Wed, 24 Oct 2018 10:21:03 +0100
+d89e91143bd23bf723ef2c6a27719ff628432260|Fix NATS install instruction (#423)|Sun, 21 Oct 2018 22:47:53 +0200|Sun, 21 Oct 2018 22:47:53 +0200
+96bcc4cff4c57541d977c497409988af6814d45f|Update NATS docker image to newer version in docker-compose (#418)|Mon, 15 Oct 2018 11:05:14 +0200|Mon, 15 Oct 2018 11:05:14 +0200
+a8eb7ae0392d6c4f6821c65b647dbbd85693cc39|MF-354 - Add Go SDK (#357)|Sun, 14 Oct 2018 16:44:21 +0200|Sun, 14 Oct 2018 16:44:21 +0200
+6eade2c1d066ea47355af6702bacf18387c012d8|NOISSUE - Add pull request template (#414)|Thu, 4 Oct 2018 10:04:58 +0200|Thu, 4 Oct 2018 10:04:58 +0200
+148c1aca0a22ae2fe9ce3d61c91b9428430baedc|MF-404 - InfluxDB batch size and timeout zero values (#411)|Mon, 1 Oct 2018 17:36:53 +0200|Mon, 1 Oct 2018 17:36:53 +0200
+70517bd907f36064566a953badc92ca0a0b7877d|Update mqtt to mqtt communication to support full protocol (#408)|Sun, 30 Sep 2018 19:00:21 +0200|Sun, 30 Sep 2018 19:00:21 +0200
+d5f0d7d225dd4c6eba4d616a1882a8050929e699|MF-384 - Add test for Redis cache (#405)|Sun, 30 Sep 2018 02:03:00 +0200|Sun, 30 Sep 2018 02:03:00 +0200
+b20a846071db99e424229993eb475a64fc8d8b38|Fixing level_test.go (#406)|Wed, 26 Sep 2018 13:22:26 -0500|Wed, 26 Sep 2018 20:22:26 +0200
+6600d26ef13a88544d57a8e7f2abeaa8bf8cfcd2|MF-379 - Log Level Option (#402)|Wed, 26 Sep 2018 11:58:51 -0500|Wed, 26 Sep 2018 18:58:51 +0200
+3de34062dbaa4c29aac8c68e631e52b19ebacff3|NOISSUE - Influxdb batch add (#394)|Sun, 23 Sep 2018 01:53:03 +0200|Sun, 23 Sep 2018 01:53:03 +0200
+8e9d7b4fdb16d6b2c967aa4816f42bc2eb6b80d1|MF-389 - Add documentation for Writers and Readers (#398)|Thu, 20 Sep 2018 15:32:50 +0200|Thu, 20 Sep 2018 15:32:50 +0200
+5757380a63e54504380e939a8f33f275d341a4cb|NOISSUE - Dev dockers (#392)|Wed, 19 Sep 2018 20:20:12 +0200|Wed, 19 Sep 2018 20:20:12 +0200
+c94420508050d929c3556c6ea4c9df15f9acf48c|dev guide spelling and formatting fixes (#393)|Mon, 17 Sep 2018 21:32:13 +0200|Mon, 17 Sep 2018 21:32:13 +0200
+d825174ccbf0f2f38e8c46f1fb7e6f9ded2cf530|NOISSUE - Separate docker-push into function (#386)|Thu, 13 Sep 2018 15:40:40 +0200|Thu, 13 Sep 2018 15:40:40 +0200
+6408b8a9d3743d09d803734f6f2d6780b3b4f0da|Fix NATS subscription bug in writers (#391)|Thu, 13 Sep 2018 10:06:34 +0200|Thu, 13 Sep 2018 10:06:34 +0200
+845b69a4acaeb78d1bfdd0125c0607965574275b|Bump version to 0.5.1 (#385)|Tue, 4 Sep 2018 23:32:04 +0200|Tue, 4 Sep 2018 23:32:04 +0200
+0c77d84176d99eb43651963d8083990623c3fecb|MF-382 - Improve performance by adding Redis cache for message auth (#383)|Tue, 4 Sep 2018 22:19:43 +0200|Tue, 4 Sep 2018 22:19:43 +0200
+970c1c86ca0d9b7840b5e7f8e64985431c7b1a08|Fix topic to channel parsing (#381)|Tue, 4 Sep 2018 14:07:51 +0200|Tue, 4 Sep 2018 14:07:51 +0200
+902630fb14d9dcd9d65ba582a2e35860e981ce30|Fix type and name switching in connected things (#376)|Wed, 29 Aug 2018 14:28:56 +0200|Wed, 29 Aug 2018 14:28:56 +0200
+4ca443038ddc61906ef2a36940ca4b9de01ddeb5|Update MAINTAINERS|Tue, 28 Aug 2018 22:42:47 +0200|Tue, 28 Aug 2018 22:42:47 +0200
+47c56cbac927e37f33dde1287fc37b3baa19a6cc|Update MAINTAINERS (#373)|Tue, 28 Aug 2018 22:41:25 +0200|Tue, 28 Aug 2018 22:41:25 +0200
+0fd0e6a13f48dbdaf58e11e4fd640cce25ddf67c|Initial user, device, channel provisioning script used to speed up testing on a fresh Mainflux installation. Accepts email, password, device name, channel name as arguments. (#369)|Mon, 27 Aug 2018 20:51:17 +0200|Mon, 27 Aug 2018 20:51:17 +0200
+8a86593dc37179ab901643e74a9e51ea2048ca9f|NOISSUE - Makefile test target, CREATE TABLE and dev guide enhancements (#359)|Mon, 27 Aug 2018 12:17:41 +0200|Mon, 27 Aug 2018 12:17:41 +0200
+effade00aa34b62e54328063407201e0164a234f|MF-325 - Add SPDX license and copyright headers (#362)|Sun, 26 Aug 2018 13:15:48 +0200|Sun, 26 Aug 2018 13:15:48 +0200
+8edf6907bc4f84f3d96e1db6107cd5f492969152|Change project retrieval procedure from git clone to go get (#366)|Sat, 25 Aug 2018 14:39:30 +0200|Sat, 25 Aug 2018 14:39:30 +0200
+507bd2ee841526780db5165d859ba4062da8dca9|MF-311 - Implement basic InfluxDB reader (#365)|Sat, 25 Aug 2018 12:48:03 +0200|Sat, 25 Aug 2018 12:48:03 +0200
+86f0d8e0d654652a6ae22f5165ac78b302d05464|MF-363 - Add compiled .proto files (#364)|Fri, 24 Aug 2018 15:33:40 +0200|Fri, 24 Aug 2018 15:33:40 +0200
+6461761985d18138bfea7196815750ea1c60ba52|Add logging middleware to normalizer service (#360)|Tue, 21 Aug 2018 10:15:50 +0200|Tue, 21 Aug 2018 10:15:50 +0200
+ec03d877f0d38cd73abf9c31dfa1d4a072260329|Declare docker_mainflux-base-net as external and add it to all services (#361)|Mon, 20 Aug 2018 22:00:45 +0200|Mon, 20 Aug 2018 22:00:45 +0200
+4e137a321420c53304bafff922ef7a5c2ebe9a4e|MF-343 - Thing Model: rename the Payload Field to Metadata  (#358)|Fri, 17 Aug 2018 16:20:35 +0200|Fri, 17 Aug 2018 16:20:35 +0200
+af281da430cba399be2d4ab8c9128f6ca44da7b2|NOISSUE - Add `insecure` param to cli (#356)|Fri, 17 Aug 2018 04:58:09 +0200|Fri, 17 Aug 2018 04:58:09 +0200
+1683d17830863d91f4a9c3226f3560b804c0a472|Add some make command info (#353)|Thu, 16 Aug 2018 21:51:49 +0200|Thu, 16 Aug 2018 21:51:49 +0200
+7e83b2d612119112b9e773c2dc074ad1ef51dfb2|NOISSUE - Add system run script (#350)|Thu, 16 Aug 2018 19:52:43 +0200|Thu, 16 Aug 2018 19:52:43 +0200
+312d30fd69513d550ff15f38a242def85edef0d3|NOISSUE - Add Development Guide doc (#351)|Thu, 16 Aug 2018 19:44:11 +0200|Thu, 16 Aug 2018 19:44:11 +0200
+2c988c19b07ae5f51e64f0dca07b98a49fe5d946|NOISSUE - Rename bashflux to cli and fix cert path (#349)|Thu, 16 Aug 2018 13:41:27 +0200|Thu, 16 Aug 2018 13:41:27 +0200
+455fedf0758acb1e892f0ade8e5f6acc768de280|Fix the influxdb hostname. Fix #346 (#348)|Thu, 16 Aug 2018 04:06:25 +0200|Thu, 16 Aug 2018 04:06:25 +0200
+58cdf2cddc58a2657664103dca757d54d7bc7641|MF-312 - Implement basic MongoDB reader (#344)|Wed, 8 Aug 2018 13:38:34 +0200|Wed, 8 Aug 2018 13:38:34 +0200
+6d48446c169f0bf13264a959d8b4d0d67f459abf|MF-313 - Implement basic Cassandra reader (#331)|Mon, 6 Aug 2018 17:06:55 +0200|Mon, 6 Aug 2018 17:06:55 +0200
+29d146636aa79131b92fbd20d7a289690c8bbbb2|Change favicon on Dashflux (#341)|Wed, 1 Aug 2018 23:11:40 +0200|Wed, 1 Aug 2018 23:11:40 +0200
+f3f14e803d5e2930be615747e594de3c4cdd2c42|Improved getting started docs (#339)|Wed, 25 Jul 2018 11:12:31 +0200|Wed, 25 Jul 2018 11:12:31 +0200
+b090aa3e0276225fd175da8676857c88d4168ba3| MF-216 - Integrate Bashflux into monorepo  (#308)|Wed, 11 Jul 2018 13:53:37 +0200|Wed, 11 Jul 2018 13:53:37 +0200
+0b954847fd9721c5221e6148387d72729aadf7aa|MF-334 - Correct normalizer k8 port (#335)|Mon, 2 Jul 2018 14:53:16 +0200|Mon, 2 Jul 2018 14:53:16 +0200
+44f5a7241f9d302617c98c47fbed9292b7b7b512|NOISSUE - Expose SenML subject from Normalizer service (#330)|Tue, 19 Jun 2018 00:37:04 +0200|Tue, 19 Jun 2018 00:37:04 +0200
+b694f08ea25e2aa4afc88f288edbb485b0365ff9|Inteface implementation files match interface name (#329)|Mon, 18 Jun 2018 10:51:30 +0200|Mon, 18 Jun 2018 10:51:30 +0200
+f1537528f915a9aee4138e6f4277d1cb8585b010|NOISSUE - Raise test coverage (#324)|Sat, 16 Jun 2018 02:30:46 +0200|Sat, 16 Jun 2018 02:30:46 +0200
+344eed79764826f278d894ef6d9738c1caeae95f|NOISSUE - Add exported metrics visualization for grafana (#326)|Fri, 15 Jun 2018 17:08:49 +0200|Fri, 15 Jun 2018 17:08:49 +0200
+d8357b500c6f4dc305a1f799cdb4a591829e3b10|MF-328 - Add message persistence support for MQTT (#327)|Fri, 15 Jun 2018 16:27:23 +0200|Fri, 15 Jun 2018 07:27:23 -0700
+993398b8aba9bce3cb0d9f52b6ce576f51c9d58e|NOISSUE - Update Kubernetes setup (#322)|Fri, 15 Jun 2018 13:04:52 +0200|Fri, 15 Jun 2018 13:04:52 +0200
+426f59d392ae75e6246556a87865c74fde767d8e|MF-235 - Add support for storing messages in Cassandra (#321)|Fri, 8 Jun 2018 14:25:55 +0200|Fri, 8 Jun 2018 14:25:55 +0200
+2b393ad50f63b87fba51d5fb9e8413942221b6e2|MF-237 - Add support for storing messages in MongoDB (#307)|Fri, 1 Jun 2018 15:50:23 +0200|Fri, 1 Jun 2018 15:50:23 +0200
+9d7f4544c7d140e66c74a5a503834e01866d1559|MF-296 - Create docker-compose with InfluxDB and Grafana (#306)|Fri, 1 Jun 2018 11:20:44 +0200|Fri, 1 Jun 2018 11:20:44 +0200
+781d358f3868e127a838ab6d367d8ff4d93201ee|Add app prefix to dashflux (#320)|Thu, 31 May 2018 17:24:23 +0200|Thu, 31 May 2018 17:24:23 +0200
+7b6030d8aded7e73a1db9d4ae9c957ce23511fb8|NOISSUE - Rename path veriables in InfluxDB wirter (#315)|Thu, 31 May 2018 12:28:00 +0200|Thu, 31 May 2018 12:28:00 +0200
+89e69d132a128e0a61bc4a0b97fbd5ba993df225|Fix MQTT client id bug (#319)|Wed, 30 May 2018 13:48:40 +0200|Wed, 30 May 2018 13:48:40 +0200
+7590578745939bd86cf8f704e14a23c2ccc5f3ee|Change clients to things in documentation (#318)|Tue, 29 May 2018 16:00:18 +0200|Tue, 29 May 2018 16:00:18 +0200
+97c2d9c30a540627c7bc5203a705150e3126407c|NOISSUE - Update dashflux port on kubernetes configuration (#317)|Tue, 29 May 2018 10:47:27 +0200|Tue, 29 May 2018 10:47:27 +0200
+c38a032fa54d0bccf9ca192affe93ce70cbb7dc7|Add version endpoint to nginx configuration (#316)|Mon, 28 May 2018 19:20:17 +0200|Mon, 28 May 2018 19:20:17 +0200
+1d75268ffad7ece4a94d5beedf5be05aa1ffe10b|NOISSUE - Fix channel closing bug in WebSocket adapter (#309)|Mon, 28 May 2018 12:47:20 +0200|Mon, 28 May 2018 12:47:20 +0200
+ef3627f4eeb38334ce410d0d9176b0973ab87d5c|NOISSUE - Add test suite for WebSocket adapter (#299)|Fri, 25 May 2018 11:53:45 +0200|Fri, 25 May 2018 11:53:45 +0200
+808ac5079289fefe364fc40e41f4520df05b2bad|MF-282 - Rename clients to things in Dashflux (#305)|Thu, 24 May 2018 15:26:03 +0200|Thu, 24 May 2018 15:26:03 +0200
+4c8aeb395c0cdf233f28424a15cf721228f93aca|Fix WebSocket mock (#300)|Wed, 23 May 2018 23:33:15 +0200|Wed, 23 May 2018 23:33:15 +0200
+64e71edf9500965a65fe12a3dffc7eadca5a8032|NOISSUE - Add mutex to WebSocket service mock (#294)|Mon, 21 May 2018 23:12:21 +0200|Mon, 21 May 2018 23:12:21 +0200
+c5a40aeffa15e98f058e39b07e33a2bc94beed98|NOISSUE - Remove redundant error check (#292)|Mon, 21 May 2018 20:11:04 +0200|Mon, 21 May 2018 20:11:04 +0200
+3d134d52a6d3d548652fa947c754f1d30d08efb4|NOISSUE - Add MQTT to kubernetes nginx (#293)|Mon, 21 May 2018 18:18:13 +0200|Mon, 21 May 2018 18:18:13 +0200
+f0cbc47ee62876f09deb3bc04709cfff9dad5a97|MF-236 - Add support for storing messages in InfluxDB (#283)|Mon, 21 May 2018 16:28:52 +0200|Mon, 21 May 2018 16:28:52 +0200
+e0e2b2aad0a84a1bc699a34bbaf6976e5408bcdc|MF-269 - Replace UUID with BIGSERIAL as primary key (#291)|Mon, 21 May 2018 12:51:46 +0200|Mon, 21 May 2018 12:51:46 +0200
+bbf2d5560c6c8ec13b4d7e701f0666d69337677b|MF-165 - Add gRPC authorization calls to MQTT adapter (#285)|Sun, 20 May 2018 09:29:19 +0200|Sun, 20 May 2018 09:29:19 +0200
+69bfb8668ef266400e2b4614097d4bd2206896bd|NOISSUE - Fix potential race in gRPC tests (#290)|Fri, 18 May 2018 13:27:21 +0200|Fri, 18 May 2018 13:27:21 +0200
+7043dea81a022581ada89cb6c69a8e04c2d1c420|NOISSUE - Add Identify gRPC method (#288)|Thu, 17 May 2018 20:17:02 +0200|Thu, 17 May 2018 20:17:02 +0200
+e04d0aeafff67a7502d8e594a7ccd836eb8eebea|NOISSUE - Drop $PWD from docker-compose (#286)|Thu, 17 May 2018 18:08:16 +0530|Thu, 17 May 2018 14:38:16 +0200
+9c6904d9b3f2d8cf4b496217295f17c7fd4fb32e|NOISSUE - Update load tests (#287)|Thu, 17 May 2018 14:21:08 +0200|Thu, 17 May 2018 14:21:08 +0200
+38a107919a2f6e4eef72ce4aa132dcac69d8f272|MF-268 - Replace JWTs with UUIDs as thing's access keys (#284)|Wed, 16 May 2018 14:28:41 +0200|Wed, 16 May 2018 14:28:41 +0200
+48484210c244b68980669009db770c7a82321a0c|NOISSUE - Rename clients to things (#281)|Tue, 15 May 2018 17:13:09 +0200|Tue, 15 May 2018 17:13:09 +0200
+ceb630c782f0e232797b953c443ec56f94165af6|NOISSUE - Emit non-SenML messages (#279)|Mon, 14 May 2018 22:15:12 +0200|Mon, 14 May 2018 22:15:12 +0200
+570ebc1c729e4a535e6adee4ab7548af94a253e5|NOISSUE - Sync docker compose service ports with k8s settings (#278)|Mon, 14 May 2018 17:21:06 +0200|Mon, 14 May 2018 17:21:06 +0200
+50e14f0c65afd5044c374a45e45cce980813b3af|NOISSUE - Add CoAP adapter version endpoint (#277)|Mon, 14 May 2018 13:21:49 +0200|Mon, 14 May 2018 13:21:49 +0200
+d2bce84c0633a9afef59339f78a1b1cf8315b8f7|NOISSUE - Update Docker compose (#274)|Mon, 14 May 2018 13:11:29 +0200|Mon, 14 May 2018 13:11:29 +0200
+89aa9603ecde2199aa9af9ea353dddfe93f794de|NOISSUE - Replace manager with users and clients services (#276)|Mon, 14 May 2018 12:18:01 +0200|Mon, 14 May 2018 12:18:01 +0200
+2ae581368feb865508586e1721bb29f69e4d4fc3|NOISSUE - Add WebSocket and CoAP services to kubernetes config (#275)|Mon, 14 May 2018 12:13:04 +0200|Mon, 14 May 2018 12:13:04 +0200
+99a3ec5d2df459589eecb42b90e3c1e1c6d612e9|NOISSUE - Fix kubernetes configuration (#273)|Fri, 11 May 2018 16:41:25 +0200|Fri, 11 May 2018 16:41:25 +0200
+89a0fa3e9c41bbf1cecb64bba1d0bfb0729e0bff|NOISSUE - Handle authorization errors other than unauthorize (#264)|Fri, 11 May 2018 16:37:32 +0200|Fri, 11 May 2018 16:37:32 +0200
+1bc4dc9575bd220f9d4730e0be14d89650128b71|NOISSUE - Add MQTT build steps into Makefile (#267)|Fri, 11 May 2018 01:13:33 +0200|Fri, 11 May 2018 01:13:33 +0200
+bca3d0774f595b8cbddbd78b5464e77c28e1ef5e|MF-201 - Replace ORM with SQL (#265)|Fri, 11 May 2018 01:00:10 +0200|Fri, 11 May 2018 01:00:10 +0200
+816c172823753abcc3602250c6647c94fcca2f18|MF-164 - Split manager service (#266)|Thu, 10 May 2018 23:53:25 +0200|Thu, 10 May 2018 23:53:25 +0200
+6a361209c83897cd4b058c0c497747dfb9d28954|NOISSUE - Automate Dashflux container deployment (#261)|Thu, 10 May 2018 10:39:48 +0200|Thu, 10 May 2018 10:39:48 +0200
+27e1be23f5180f690013b8e24db2d8bc1abd9535|NOISSUE - Integrate MQTT adapter to monorepo (#260)|Wed, 9 May 2018 14:22:03 +0200|Wed, 9 May 2018 14:22:03 +0200
+c9bf245010ae4aa46a71114a635126fa454bbf5f|NOISSUE - Update CoAP docs (#257)|Wed, 9 May 2018 12:56:20 +0200|Wed, 9 May 2018 12:56:20 +0200
+ff309576145f211e17294647acf3619c7a774f61|MF-244 - Integrate Dashflux (#258)|Wed, 9 May 2018 12:32:49 +0200|Wed, 9 May 2018 12:32:49 +0200
+db6165aa6be8840a10eb7f3b048757f4782d7040|MF-168 - Refactor CoAP adapter (#186)|Tue, 8 May 2018 16:00:25 +0200|Tue, 8 May 2018 16:00:25 +0200
+c088e664c33cf42e094325d5ad9e6cff5ef7d12c|NOISSUE - Fix run and compile commands in README files (#249)|Wed, 2 May 2018 09:41:21 +0200|Wed, 2 May 2018 09:41:21 +0200
+d499068e43ed9914d48eb348577b45aeeed29fe2|Update protobuf to 1.1.0 (#251)|Wed, 2 May 2018 08:49:39 +0200|Wed, 2 May 2018 08:49:39 +0200
+38d4c3fcea27f1ae825dfbd6c08652dfb646925c|MF-136 - Setup staging and test environments (#226)|Mon, 30 Apr 2018 13:32:38 +0200|Mon, 30 Apr 2018 13:32:38 +0200
+aea7db14b7bfcde2ecf23d34f7007d0064371fec|NOISSUE - Raise code coverage in ws adapter (#242)|Tue, 24 Apr 2018 13:56:13 +0200|Tue, 24 Apr 2018 13:56:13 +0200
+58f3c735a07c0032cfbdb6cd1be3eaee9963895e|NOISSUE - Fix Content-Type in examples (#243)|Tue, 24 Apr 2018 13:42:36 +0200|Tue, 24 Apr 2018 13:42:36 +0200
+789963447a5f057b6e11f40bca027dd06b91df6c|Add service name to version response (#241)|Tue, 24 Apr 2018 13:39:15 +0200|Tue, 24 Apr 2018 13:39:15 +0200
+2dc7f3eea1ff0a365de8979e694011c692b3cc6c|NOISSUE - Raise endpoint test coverage (#240)|Mon, 23 Apr 2018 15:17:30 +0200|Mon, 23 Apr 2018 15:17:30 +0200
+62297fedec8e264cb9cefa57049819cd53675909|MF-134 - Evaluate system's performance (#225)|Mon, 23 Apr 2018 15:13:43 +0200|Mon, 23 Apr 2018 15:13:43 +0200
+f449f8b9c87eb2a543e7c13d52e803e8c8caac51|NOISSUE - Fix Content-Type header check (#238)|Sun, 22 Apr 2018 16:48:06 +0200|Sun, 22 Apr 2018 16:48:06 +0200
+544ba57850ccc764a4f1a84c5c349e9105553bd0|NOISSUE - Ignore logging & metrics for code coverage (#233)|Thu, 19 Apr 2018 13:40:22 +0200|Thu, 19 Apr 2018 13:40:22 +0200
+e858e86ed94d2def61852ddeef2f299800ed18dd|NOISSUE - Fix paging (#232)|Wed, 18 Apr 2018 23:06:11 +0200|Wed, 18 Apr 2018 23:06:11 +0200
+84679ed42a38e8d2c91274e87b7fc1cd42f70373|MF-200 - Enable pagination of result sets (#227)|Wed, 18 Apr 2018 22:36:24 +0200|Wed, 18 Apr 2018 22:36:24 +0200
+b0610f034c8e216f550f928d5c6717323826c2e7|Fix http publish example in docs (#231)|Wed, 18 Apr 2018 16:49:10 +0200|Wed, 18 Apr 2018 16:49:10 +0200
+cb9c0ee32aa265db470bf0ea9012908ff9e158e7|Specify targets for releasing docker containers (#230)|Wed, 18 Apr 2018 14:13:38 +0200|Wed, 18 Apr 2018 14:13:38 +0200
+3a5f4395e40960df69af9fec712a4ab31ac48afb|MF-171 - Extract websocket adapter as separate service (#188)|Wed, 18 Apr 2018 13:09:01 +0200|Wed, 18 Apr 2018 13:09:01 +0200
+36a00f3464ce4f83dca38dce2852869393371c4c|Update project documentation with example requests and responses (#220)|Wed, 11 Apr 2018 14:30:37 +0200|Wed, 11 Apr 2018 14:30:37 +0200
+703d0543af57cf65245b9c1dafb7d874f153842a|Add HTTP adapter API test (#224)|Wed, 11 Apr 2018 14:29:04 +0200|Wed, 11 Apr 2018 14:29:04 +0200
+fb3619645db908a9d34bc9d3b56d7784306c5d94|Add channel Id validation (#223)|Wed, 11 Apr 2018 13:48:09 +0200|Wed, 11 Apr 2018 13:48:09 +0200
+46a9cc086dcd480a31e85cee58d94e08e4e268df|Remove unhandled missing key error (#222)|Wed, 11 Apr 2018 11:44:15 +0200|Wed, 11 Apr 2018 11:44:15 +0200
+367d3edbefd90a2b90e3225e37c8aebca92d15bb|Set JWT provider secret (#221)|Tue, 10 Apr 2018 17:30:13 +0200|Tue, 10 Apr 2018 17:30:13 +0200
+d5b913d432d94d07c43222cec936d09a612e1025|MF-199 - Create documentation skeleton (#218)|Sun, 8 Apr 2018 23:03:12 +0200|Sun, 8 Apr 2018 23:03:12 +0200
+2dace5564f6ebf6e36829bc44aac27854ae46277|MF-170 - Add manager API unit tests (#211)|Sun, 8 Apr 2018 22:57:56 +0200|Sun, 8 Apr 2018 22:57:56 +0200
+88b30626ddaae6ffe11afd99516392ebd3a8db11|MF-174 - Add logger interface and go-kit logger implementation (#212)|Wed, 4 Apr 2018 10:15:23 +0200|Wed, 4 Apr 2018 10:15:23 +0200
+301d855015dfaa9ee85e4a7f9209ddc7ac8222d6|Add CA cert (#215)|Wed, 4 Apr 2018 02:29:29 +0200|Wed, 4 Apr 2018 02:29:29 +0200
+7a193829f4dc4ae5d8e09413c3041ce0f66bb2bd|MF-139 - Expose metrics from all services (#213)|Tue, 3 Apr 2018 20:25:49 +0200|Tue, 3 Apr 2018 20:25:49 +0200
+523716b09085cfd73bbcbfe3955b0ddf6c3c2f48|Rename NATS subjects for HTTP & normalizer (#207)|Thu, 22 Mar 2018 23:59:15 +0100|Thu, 22 Mar 2018 23:59:15 +0100
+36ca9015ff88fd7351ef110544f97773d9ff2685|Handle wrong type unmarshalling (#206)|Thu, 22 Mar 2018 23:53:43 +0100|Thu, 22 Mar 2018 23:53:43 +0100
+a6dfc26959ab12f155309ae569561ae68c052073|Simplify Makefile (#205)|Thu, 22 Mar 2018 13:10:11 +0100|Thu, 22 Mar 2018 13:10:11 +0100
+924f6f120ae80e3d7472abdfca6f2acf6502d0b2|Fix blinker tests (#193)|Tue, 20 Mar 2018 09:14:54 +0100|Tue, 20 Mar 2018 09:14:54 +0100
+2c1c94af9b24d7bea6ad3a22e842ffb28fdfea85|Fix #195 (#196)|Tue, 20 Mar 2018 00:09:44 +0100|Tue, 20 Mar 2018 00:09:44 +0100
+f5fbd6f22a563eeac0797d9fc816c5d59ec4024b|Add protobuf (#192)|Mon, 19 Mar 2018 10:14:43 +0100|Mon, 19 Mar 2018 10:14:43 +0100
+55bdc029c3f674158765717a11ac4932a7bf24a7|Add service startup message (#190)|Sun, 18 Mar 2018 13:54:54 +0100|Sun, 18 Mar 2018 13:54:54 +0100
+e42d422410c39c80ae7d0a8a4bbef94cc43379a0|Fix golint warnings (#189)|Fri, 16 Mar 2018 14:06:12 +0100|Fri, 16 Mar 2018 14:06:12 +0100
+bf5d1544b636ad5b5d86eb2c96cd562824dd9594|Fixed docker composition (#187)|Fri, 16 Mar 2018 13:52:51 +0100|Fri, 16 Mar 2018 13:52:51 +0100
+8876acbfec9a860f8d6e14659bd52eecdbfe114c|Fix docker compose failing start issue (#185)|Fri, 16 Mar 2018 04:59:13 -0400|Fri, 16 Mar 2018 09:59:13 +0100
+250505700b5a98818dc33fc288b4ec317fbf0292|Fix normalizer output queue (#184)|Thu, 15 Mar 2018 14:23:20 +0100|Thu, 15 Mar 2018 14:23:20 +0100
+5cb169f7f8bb2b240efeb67d7d1b283a18f644ae|Add Makefile and ARM support (#178)|Tue, 13 Mar 2018 09:26:59 +0100|Tue, 13 Mar 2018 09:26:59 +0100
+ccd8965d6fffb62152cc36c82f6df1a15517e851|Use PostgreSQL as primary persistence solution (#175)|Sun, 11 Mar 2018 18:06:01 +0100|Sun, 11 Mar 2018 18:06:01 +0100
+b23ecb64e55097966531435b3c1e842cc081d7a2|Merge pull request #167 from mainflux/coap|Sat, 17 Feb 2018 16:15:26 +0100|Sat, 17 Feb 2018 16:15:26 +0100
+03b020ae87f115fba2a1bf0300a07a687c93500c|Update CoAP README|Sat, 17 Feb 2018 16:14:28 +0100|Sat, 17 Feb 2018 16:14:28 +0100
+255d1c03b105968abca9e66216a1c0e2739ed2ec|Merge pull request #162 from chombium/mainflux-161|Wed, 14 Feb 2018 22:23:58 +0100|Wed, 14 Feb 2018 22:23:58 +0100
+7fe8100d6b01c28f40e1d2d86642c778ba5b560c|replaced glide with dep dependency manager|Wed, 14 Feb 2018 01:36:56 +0100|Wed, 14 Feb 2018 18:28:42 +0100
+6d9c92596c439566e523ac304dcfce88cba5ac34|Merge pull request #158 from bblagojevic94/mainflux-157|Sat, 10 Feb 2018 17:50:18 +0100|Sat, 10 Feb 2018 17:50:18 +0100
+3ac88b05a803afe36284ce4e70b3a0f632818804|Export normalize method from writer service inside cassandra package|Sat, 10 Feb 2018 15:45:53 +0100|Sat, 10 Feb 2018 15:45:53 +0100
+f84958834e4425c480140f0c4033f9b783011163|Merge pull request #148 from chombium/mainflux-147|Tue, 6 Feb 2018 10:44:02 +0100|Tue, 6 Feb 2018 10:44:02 +0100
+7723b92ba71d5bdbd9a9db996eadb49e762741b2|added the CoAP server|Tue, 6 Feb 2018 02:14:22 +0100|Tue, 6 Feb 2018 02:14:22 +0100
+3072d054ee7f2d832f4bf61d0b9a5cfcc36877a9|added back the coap service|Tue, 6 Feb 2018 02:13:22 +0100|Tue, 6 Feb 2018 02:13:22 +0100
+b4a51ae0a2ae5f423dbdbf0d96d8970eb64c62d3|reverted the removal of the coap service|Tue, 6 Feb 2018 01:47:08 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+f277074d4252bb209ed8c7501cffe81bdbb73fcd|added desc. of the Cassandra create keyspaces cmd|Sun, 28 Jan 2018 23:53:42 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+2f1b999727140e0fb094389bb0c36adf9c5a921b|removed the cleaning|Sun, 28 Jan 2018 23:07:16 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+ce86fbbe9074a77bfdc4a50f9e4048362381eb92|added desc. how to create the Cassandra keyspaces|Sat, 27 Jan 2018 14:04:30 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+615ba9267d7962ee0b457a3e460ffdba9352e293|clean up before/after compile and installation|Sat, 27 Jan 2018 01:54:54 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+10113bd354709e5568dbe52e29bd71fea5c8e863|fixed the link to the contribution guide|Sat, 27 Jan 2018 00:50:37 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+c691ee06f0537ebd67102838b200af71077034f6|show help and exit if no argument is provided|Sat, 27 Jan 2018 00:02:48 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+23a3a5f19464635f3a828e084ef5dcbb3bb374d2|added a .gitignore file|Fri, 26 Jan 2018 23:54:18 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+6f202a9f8398ec0b8dfdb1ce555d01700044a921|#105 removed the Coap service from the build|Fri, 26 Jan 2018 23:47:36 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+74f890128dbee86469898eb9d5eb7a0866a79a6e|fixed a typo|Fri, 26 Jan 2018 23:33:26 +0100|Tue, 6 Feb 2018 01:48:38 +0100
+6099da59e65bf70904b03838b9971c3c950706a4|Merge pull request #154 from mainflux/docker-clean|Mon, 5 Feb 2018 10:47:31 +0100|Mon, 5 Feb 2018 10:47:31 +0100
+0255a4cd616ef5466a862d50619f0ddd43bc0909|Add `clean` function to docker-compose script|Mon, 5 Feb 2018 02:33:51 +0100|Mon, 5 Feb 2018 02:33:51 +0100
+411cbf575aa925139ccbe816dd2f0cf45cc9b9ec|Merge pull request #146 from mainflux/issue-145|Fri, 26 Jan 2018 20:56:05 +0100|Fri, 26 Jan 2018 20:56:05 +0100
+5d715aa98474b1860d49a34840400e3a6ca75726|Fix 403 errors handling|Fri, 26 Jan 2018 20:50:31 +0100|Fri, 26 Jan 2018 20:50:31 +0100
+30f7dda49150ca27541fe34ebf82a89540ad1358|Merge pull request #144 from kelvinji2009/master|Thu, 18 Jan 2018 17:45:27 +0100|Thu, 18 Jan 2018 17:45:27 +0100
+ff5d77722c95a5cd08f647694eadbb5490f414f4|fix external_link dependency for http adaptor service|Sun, 14 Jan 2018 18:40:20 +0800|Sun, 14 Jan 2018 18:40:20 +0800
+b6eac477b4dba903d1850f5f49b823113bb775db|Fix code linting|Sat, 13 Jan 2018 18:23:47 +0100|Sat, 13 Jan 2018 18:25:58 +0100
+7cc03be424dea34fe477fa2d8e6b627fc9367117|Close response body properly (#143)|Sat, 13 Jan 2018 18:15:41 +0100|Sat, 13 Jan 2018 18:15:41 +0100
+4f467dcdded5efbf0e2abd36cb22af9a88957e98|Add HTTP auth check (#128)|Sun, 7 Jan 2018 14:42:38 +0100|Sun, 7 Jan 2018 14:42:38 +0100
+d413508b2547cfbcf7a15a307d97edd2c5f3b89c|Fix #116: remove base values from C* tables (#140)|Sat, 6 Jan 2018 22:36:44 +0100|Sat, 6 Jan 2018 22:36:44 +0100
+8036c7420758feef36177bf2c44b311946261c39|Merge pull request #138 from mainflux/mainflux-137|Fri, 5 Jan 2018 09:11:10 +0100|Fri, 5 Jan 2018 09:11:10 +0100
+3b57ebf53286f62295e6bcf79e87fc7f7a50522d|Fix manager client implementation|Fri, 29 Dec 2017 11:09:08 +0100|Fri, 29 Dec 2017 11:10:31 +0100
+15e9745517ec0a006a2029d5e995531a05a06a7c|Fix middleware method signature|Fri, 29 Dec 2017 10:52:13 +0100|Fri, 29 Dec 2017 10:56:59 +0100
+f30c9725aa59bd335e8a4fded27c890a249637d5|Move contributing guide to .github folder|Fri, 29 Dec 2017 10:48:24 +0100|Fri, 29 Dec 2017 10:49:03 +0100
+4c97094427bc05758f0797fbec5d26c4c3197af8|Update the API handlers|Fri, 29 Dec 2017 10:47:43 +0100|Fri, 29 Dec 2017 10:47:43 +0100
+253a7afcf7b1ba48c847399c0a62cfa612130a04|Implement access check based on the API spec|Fri, 29 Dec 2017 10:40:44 +0100|Fri, 29 Dec 2017 10:40:44 +0100
+52ab91c275c79570d12f23bc699ed1f3185e6231|Update the API documentation of manager service|Fri, 29 Dec 2017 10:22:37 +0100|Fri, 29 Dec 2017 10:22:37 +0100
+5899177f5793c7f6aaa18a3f9eefbb43cbec55cd|change the order of message table and remove the time to live (#132)|Sun, 24 Dec 2017 05:03:04 +0800|Sat, 23 Dec 2017 22:03:04 +0100
+3e11147ab591d77f0b3a8a064ea7701ae973ffa1|Merge pull request #131 from bzub/130-docker-script-fix|Mon, 18 Dec 2017 14:49:53 +0100|Mon, 18 Dec 2017 14:49:53 +0100
+c57c9f0a3c75e107ed3e496599e4e94dc40df31a|Search for "mainflux-nginx" instead of "nginx"|Thu, 14 Dec 2017 13:22:07 -0600|Sat, 16 Dec 2017 17:02:10 -0600
+b6b997237eb60157e03df0c35f7f4f38eda8b950|Merge pull request #129 from mainflux/feature-manager-client|Tue, 12 Dec 2017 11:57:16 +0100|Tue, 12 Dec 2017 11:57:16 +0100
+c11cf5820c81ca0b252ea44e024d54f77a83f67b|Add circuit breaker toward the manager service|Tue, 12 Dec 2017 11:11:01 +0100|Tue, 12 Dec 2017 11:20:57 +0100
+28bff54ea629573c83e22aa77c9532000fb02043|Add authentication client|Mon, 11 Dec 2017 15:11:45 +0100|Mon, 11 Dec 2017 15:22:42 +0100
+00117519c409d96ecf8c8970a97ac435cd8b7310|Update HTTP adapter's configuration docs|Mon, 11 Dec 2017 14:18:42 +0100|Mon, 11 Dec 2017 14:18:42 +0100
+238394e0a70210d48ec7530099ba15a6953d3fc1|Merge pull request #125 from manuIO/master|Thu, 23 Nov 2017 18:03:56 +0100|Thu, 23 Nov 2017 18:03:56 +0100
+7eb12015c047ed638f431cddf83c2cfdbd95f935|Fix README|Wed, 22 Nov 2017 12:51:32 +0100|Wed, 22 Nov 2017 12:51:32 +0100
+46a7341ebafb60c9ad01e735bd4726408c7af88e|Merge pull request #121 from mainflux/revert-120-mainflux-83|Mon, 16 Oct 2017 11:28:12 +0200|Mon, 16 Oct 2017 11:28:12 +0200
+b651537ba9b361717fdbd9ab53810c2946bf233d|Revert "Consul integration"|Mon, 16 Oct 2017 11:27:11 +0200|Mon, 16 Oct 2017 11:27:11 +0200
+b9e1c0da816b02f39c5468170e902b28205da78d|Merge pull request #120 from mainflux/mainflux-83|Sun, 15 Oct 2017 20:05:03 +0200|Sun, 15 Oct 2017 20:05:03 +0200
+34667761521aca75defcac54b17dd3b755ee51e2|Register CoAP adapter to Consul|Sun, 15 Oct 2017 18:19:23 +0200|Sun, 15 Oct 2017 18:19:23 +0200
+3f9f56d0d401b71b50cc9075d25b35417051126d|Register http adapter to consul|Sun, 15 Oct 2017 18:07:29 +0200|Sun, 15 Oct 2017 18:08:01 +0200
+2e5316e3fdf742664e5dc8f4e69072a6bd72c4f4|Register writer to consul|Sun, 15 Oct 2017 17:45:55 +0200|Sun, 15 Oct 2017 18:07:52 +0200
+9c429d142d8c75eb5b3ca6639da9dfab9e0f1a50|Register manager to Consul|Sun, 15 Oct 2017 15:23:14 +0200|Sun, 15 Oct 2017 15:25:55 +0200
+11eed2aa2c3b39deb3094b7498aee9202914cacf|Format the startup logs|Sun, 15 Oct 2017 14:05:05 +0200|Sun, 15 Oct 2017 14:05:05 +0200
+8019cd731e9094a1a5fc950b95c0871765539082|Merge pull request #101 from mainflux/coap|Sun, 8 Oct 2017 10:37:01 +0200|Sun, 8 Oct 2017 10:37:01 +0200
+923a5aefaeb36dd46cd111de901cdb0c560bb96e|Remove println|Sun, 8 Oct 2017 03:04:49 +0200|Sun, 8 Oct 2017 03:04:49 +0200
+89015b02927b1dbc8a582ab4e17c5957d3d36d54|Merge pull request #112 from mainflux/readme|Sat, 7 Oct 2017 22:39:05 +0200|Sat, 7 Oct 2017 22:39:05 +0200
+c7054a07f229271ce02cc700102a533dd677383b|Remove comments, clean code|Sat, 7 Oct 2017 19:11:19 +0200|Sat, 7 Oct 2017 19:13:20 +0200
+c2d6cc511c9a31aa91d80c4ce48c21a5446d46bf|Ensure codestyle adherence|Fri, 6 Oct 2017 23:03:24 +0200|Sat, 7 Oct 2017 19:13:20 +0200
+8d4543873f6aeaa57dd826ff1221fbe67a2d451d|Add features|Sun, 1 Oct 2017 20:40:19 +0200|Sat, 7 Oct 2017 18:44:12 +0200
+288f437b4d72bd06be1ecb5eb438924b3797509b|Merge pull request #114 from mainflux/godoc-fixes|Fri, 6 Oct 2017 23:12:42 +0200|Fri, 6 Oct 2017 23:12:42 +0200
+86f563ee1024f9c46e91e0d15967a77f25bbbc03|Ensure codestyle adherence|Fri, 6 Oct 2017 23:03:24 +0200|Fri, 6 Oct 2017 23:03:24 +0200
+dd874008b2f4b78dcd5e13609215ecb5a955539e|Initialize properly NATS in CoAP adapter|Sun, 1 Oct 2017 18:33:55 +0200|Sun, 1 Oct 2017 18:33:55 +0200
+9cec19896efb5c2253b0ddf61725a3f793f1f5bf|Simplify functions|Sun, 1 Oct 2017 17:00:01 +0200|Sun, 1 Oct 2017 17:01:50 +0200
+a79a9012e410a16ff52fe1cf3a6dcfacd622da73|Add coap support|Mon, 25 Sep 2017 17:56:28 +0200|Sun, 1 Oct 2017 16:38:32 +0200
+7c48c1cd78e881efc2edc3b815f642494b48505e|Remove unused service references|Sun, 1 Oct 2017 02:17:13 +0200|Sun, 1 Oct 2017 02:18:03 +0200
+13e9b440fe5f4ed24752478ac2084ff6be0f7443|Merge pull request #111 from mainflux/mainflux-106|Sun, 1 Oct 2017 01:48:22 +0200|Sun, 1 Oct 2017 01:48:22 +0200
+481b5b230d2e2474af9a74b49e2476945ebc7768|Validate incoming requests|Sun, 1 Oct 2017 01:07:37 +0200|Sun, 1 Oct 2017 01:12:06 +0200
+da3089cf879dc660359c9fbf76a2188bc1a93a55|Ensure service interface is properly implemented|Sat, 30 Sep 2017 19:58:08 +0200|Sun, 1 Oct 2017 01:12:06 +0200
+eb99ef97e3013046ea819a6cec8be5d446fc98ea|Merge pull request #110 from mainflux/compose-fix|Sat, 30 Sep 2017 22:38:45 +0200|Sat, 30 Sep 2017 22:38:45 +0200
+1c664a002e5b783cb76e5a8883c693ed645ccf69|Fixed compose file, added env var for mqtt-adapter|Sat, 30 Sep 2017 19:44:11 +0200|Sat, 30 Sep 2017 19:44:11 +0200
+23111608c86333bbe9856e2d0b7c722b3280b7bf|Merge pull request #109 from mainflux/raw|Fri, 29 Sep 2017 16:35:26 +0200|Fri, 29 Sep 2017 16:35:26 +0200
+199a44b0a015663864e95f3da6244b63ba7a342b|Change writer message format - accept raw messages|Fri, 29 Sep 2017 00:42:45 +0200|Fri, 29 Sep 2017 16:18:41 +0200
+ea3fb4b781e04ecde82e2f871243ded50e98c774|Merge pull request #107 from mainflux/launch|Wed, 27 Sep 2017 20:02:55 +0200|Wed, 27 Sep 2017 20:02:55 +0200
+778685fca0d2f359e0f6b5fb1b288ba81a18de08|Fix mainflux-launch.sh script|Wed, 27 Sep 2017 18:49:52 +0200|Wed, 27 Sep 2017 19:03:32 +0200
+df61bdccad783b4dd89bcf1d3579e502140c64da|Merge pull request #99 from mainflux/identity|Wed, 27 Sep 2017 15:07:22 +0200|Wed, 27 Sep 2017 15:07:22 +0200
+82aa89397ea270b8441d6b0e89105a3ade981d80|Add /identity|Sun, 24 Sep 2017 19:44:58 +0200|Wed, 27 Sep 2017 14:31:57 +0200
+0f2020aeeec194a27f20f6667a924f24f11a9627|Merge pull request #105 from mainflux/install|Tue, 26 Sep 2017 18:17:04 +0200|Tue, 26 Sep 2017 18:17:04 +0200
+499b44fae24586972b5c656dc34b536289a5b23f|Fix installation and remove coap from Makefile|Tue, 26 Sep 2017 16:58:36 +0200|Tue, 26 Sep 2017 16:58:36 +0200
+7721b61fa283ff1284e5d89db66c1ec266761fd0|Merge pull request #104 from mainflux/install|Tue, 26 Sep 2017 16:51:14 +0200|Tue, 26 Sep 2017 16:51:14 +0200
+f2aa007fabd34363b46ccf83edaebe53c3415cb6|Add Makefile and fix installation from sources|Tue, 26 Sep 2017 16:43:01 +0200|Tue, 26 Sep 2017 16:50:14 +0200
+3ecc79375d0432a8fcfa916cf6d5443cc76cfff1|Fixed docker-compose.nginx, wrong path maping|Tue, 26 Sep 2017 12:57:58 +0200|Tue, 26 Sep 2017 12:57:58 +0200
+f8c41caeb380bed9e3b2e379bae7aa4abb5bf37f|Fix documentation links|Mon, 25 Sep 2017 13:50:23 +0200|Mon, 25 Sep 2017 13:50:23 +0200
+0c92be51c8b559112bf5cedd1ffb965d44599d73|Merge pull request #100 from mainflux/mainflux-98|Mon, 25 Sep 2017 13:18:40 +0200|Mon, 25 Sep 2017 13:18:40 +0200
+6347d6cbf3bca691e80380f58affb115308ed495|Reorganize utility scripts|Mon, 25 Sep 2017 12:00:28 +0200|Mon, 25 Sep 2017 12:29:48 +0200
+0c629cce47187e9d4bf294d635ec98cb34ae41c2|Merge pull request #95 from mainflux/normalizer|Sun, 24 Sep 2017 18:50:02 +0200|Sun, 24 Sep 2017 18:50:02 +0200
+2554adcc1e8850bd02b2cbcfba27edca75a9b6be|Use interface|Sun, 24 Sep 2017 17:19:42 +0200|Sun, 24 Sep 2017 17:19:42 +0200
+3494c7a5e1227c9b815665013686664fc9a084de|Add normalizer|Sun, 24 Sep 2017 03:46:56 +0200|Sun, 24 Sep 2017 15:33:58 +0200
+9afaea24c2d6e9b68a8d11c752f87036459187c6|Merge pull request #97 from mainflux/mainflux-96|Sun, 24 Sep 2017 13:41:49 +0200|Sun, 24 Sep 2017 13:41:49 +0200
+7ea0d444bf1a9f23b08d9ffecfeb5145df567e89|Fix inconsisent label cardinality error|Sun, 24 Sep 2017 07:33:21 +0200|Sun, 24 Sep 2017 07:39:31 +0200
+6dc67f66da1b3e73643719381efde6f832a91909|Replace travis with semaphore|Sat, 23 Sep 2017 17:41:08 +0200|Sat, 23 Sep 2017 18:20:53 +0200
+c60b124ad282c69d457da86b73c2473b6454b0a5|Merge pull request #94 from mainflux/travis-ci-integration|Sat, 23 Sep 2017 17:13:53 +0200|Sat, 23 Sep 2017 17:13:53 +0200
+6f97c4588ebac94ea9cec0d53c0f513448da46ed|Add CI script|Sat, 23 Sep 2017 17:08:03 +0200|Sat, 23 Sep 2017 17:10:31 +0200
+75a8cdfe3fa4fa0245e30722e29f836df41c5066|Unify service versioning|Sat, 23 Sep 2017 15:52:39 +0200|Sat, 23 Sep 2017 15:52:39 +0200
+bdf50010724672eb49eb96e8abd56e2a939724f2|Merge pull request #93 from mainflux/feature-monorepo-migration|Sat, 23 Sep 2017 14:18:30 +0200|Sat, 23 Sep 2017 14:18:30 +0200
+40d4dd5f2d7eb7bd0796e701f6350efe01f4bdf3|Fix contributing guide|Sat, 23 Sep 2017 13:43:23 +0200|Sat, 23 Sep 2017 13:44:25 +0200
+4132a5c01708b4be7855ab42ce8133a1fdb720e3|Update readme files for monorepo|Sat, 23 Sep 2017 02:27:49 +0200|Sat, 23 Sep 2017 02:27:49 +0200
+26a2ea1ce151103e98699540dfcd8791f2867de3|Integrate http adapter service|Sat, 23 Sep 2017 01:55:29 +0200|Sat, 23 Sep 2017 01:57:14 +0200
+bcc0bfdc3d1da2eba9e5d34874764d30aa570e45|Integrate message writer service|Sat, 23 Sep 2017 01:22:21 +0200|Sat, 23 Sep 2017 01:22:21 +0200
+c966a7802df2a714aa02f78eb338bc60b6127c79|Integrate manager service|Sat, 23 Sep 2017 01:03:27 +0200|Sat, 23 Sep 2017 01:03:27 +0200
+311fe29dc4ca718f1989535c997cb084f712d557|Remove lora-related artifacts|Fri, 22 Sep 2017 23:16:39 +0200|Fri, 22 Sep 2017 23:17:04 +0200
+623f9b1951138aa452e9a7d6e54b2926a7a59a47|Added db, persistence data from docker shared volume|Fri, 22 Sep 2017 12:19:13 +0200|Fri, 22 Sep 2017 12:19:13 +0200
+e47e5ffc22738c6084a997252aa11a403c0cb777|Merge pull request #92 from mainflux/docker-cassandra-persistency|Fri, 22 Sep 2017 12:16:09 +0200|Fri, 22 Sep 2017 12:16:09 +0200
+3d7c341c5e02dabf0adad6baff5ec4f120e3a0d4|Added volume to docker-compose-cassandra in order to support data persistency|Fri, 22 Sep 2017 12:11:16 +0200|Fri, 22 Sep 2017 12:11:16 +0200
+6fb3c3f5945afe1fb771c3ffabfb5527c63e04dd|Merge pull request #89 from mainflux/nginx-reverse-proxy|Thu, 21 Sep 2017 23:49:38 +0200|Thu, 21 Sep 2017 23:49:38 +0200
+79a6fc158bd4f1c3e93834c255efaf98ebc9eb15|Added Nginx as revrse proxy, Traefik removed. CORS enabled|Thu, 21 Sep 2017 18:50:00 +0200|Thu, 21 Sep 2017 18:50:00 +0200
+cc3283c32b6a928212814db8848c3cb2e95eede2|Add NGINX Docker support|Tue, 19 Sep 2017 00:28:14 +0200|Tue, 19 Sep 2017 00:28:31 +0200
+fe3ecd5c78d616b4131e610d10dfe78e386ab5bc|Update README.md|Tue, 19 Sep 2017 00:02:46 +0200|Tue, 19 Sep 2017 00:02:46 +0200
+763f9aa0b772b083d425139c663281939ead4bc2|Update README.md|Mon, 18 Sep 2017 21:44:13 +0200|Mon, 18 Sep 2017 21:44:13 +0200
+0e5f97a8a8dc3362c85c734aeed3af5ae8380d2d|Update README.md|Mon, 18 Sep 2017 21:41:57 +0200|Mon, 18 Sep 2017 21:41:57 +0200
+3eeb2ef10ed07e317199316aac84a9da65fb75ce|Add info about mainflux_docker.sh|Mon, 18 Sep 2017 21:38:06 +0200|Mon, 18 Sep 2017 21:38:06 +0200
+eff9f62b8b4e85b25bbb4522959d8be7a9f2a97f|Add monitoring composition|Mon, 18 Sep 2017 21:28:21 +0200|Mon, 18 Sep 2017 21:28:21 +0200
+5cebacdd354623ff732a4d8b4acd3fb571d7f691|Fix Traefik|Mon, 18 Sep 2017 16:33:27 +0200|Mon, 18 Sep 2017 16:33:27 +0200
+0d3934e9a65754b669424e63bc0d1ed214bcb052|Fix manager bridge network|Mon, 18 Sep 2017 15:43:42 +0200|Mon, 18 Sep 2017 15:43:42 +0200
+01bd08d5b8f2867d829175af9c979a49890a2a75|Add traefik support|Mon, 18 Sep 2017 00:52:16 +0200|Mon, 18 Sep 2017 00:52:16 +0200
+11f28ef754636b5fa39e6001a780e409bc15d0af|Poll on Cassandra ready|Sun, 17 Sep 2017 17:23:35 +0200|Sun, 17 Sep 2017 17:23:35 +0200
+717da672ac672cad121bc71b43bdcb0c95c223af|Add docker-compose helper script|Sun, 17 Sep 2017 03:35:06 +0200|Sun, 17 Sep 2017 03:35:06 +0200
+f21c36fcf6ece6dc3690ce334cd84574ff631b5f|Update CONTRIBUTING.md|Mon, 11 Sep 2017 14:06:01 +0200|Mon, 11 Sep 2017 14:06:01 +0200
+b7863f171ca03d724baba51d3cc1539ecee4c4c1|Fix dead link|Mon, 11 Sep 2017 14:04:40 +0200|Mon, 11 Sep 2017 14:04:40 +0200
+b7c5f1423651ec4f1f58039f0fb8d63e863f37ae|Update ISSUE_TEMPLATE.md|Mon, 11 Sep 2017 11:55:32 +0200|Mon, 11 Sep 2017 11:55:32 +0200
+25a8d94e8a9bc7177a899a9515858dd66bbe2474|Update ISSUE_TEMPLATE.md|Mon, 11 Sep 2017 11:54:44 +0200|Mon, 11 Sep 2017 11:54:44 +0200
+d9ef55069728947293d746af73ddf71a782581bb|Update README.md|Mon, 11 Sep 2017 11:41:43 +0200|Mon, 11 Sep 2017 11:41:43 +0200
+e967cfe5df4ac80d0be1a22a72041988456b1b25|Update ISSUE_TEMPLATE.md|Mon, 11 Sep 2017 11:02:40 +0200|Mon, 11 Sep 2017 11:02:40 +0200
+478d22a0d6ef9ec676baac7ab5d9257ec30c650c|Update README.md|Mon, 11 Sep 2017 10:37:32 +0200|Mon, 11 Sep 2017 10:37:32 +0200
+d1e450c75247c0aff5344b876e3d0d54753b0a13|Update README.md|Mon, 11 Sep 2017 10:15:22 +0200|Mon, 11 Sep 2017 10:15:22 +0200
+4a9f1b1414b38faf40a433722a10d1a42a8982f6|Update README.md|Mon, 11 Sep 2017 09:56:30 +0200|Mon, 11 Sep 2017 09:56:30 +0200
+656add84f1a6b93165ed74718be78b8406e7cbec|Remove depricated auth|Tue, 5 Sep 2017 01:40:31 +0200|Tue, 5 Sep 2017 01:40:31 +0200
+90a141ea4166eed14a3f0448b2595bd90685d835|Fix scripts to use new service names|Tue, 5 Sep 2017 01:37:28 +0200|Tue, 5 Sep 2017 01:37:28 +0200
+e297ab46078dfe40482273bcd7d82015f02d5d27|Change install script to use new repo names|Tue, 5 Sep 2017 01:34:25 +0200|Tue, 5 Sep 2017 01:34:25 +0200
+f8ee020c2257a2e996d288fa6995458427a0a08e|Update README.md|Mon, 4 Sep 2017 16:40:14 +0200|Mon, 4 Sep 2017 16:40:14 +0200
+67844820c3532290fc602057129761105f096450|Update README.md|Sun, 3 Sep 2017 01:04:31 +0200|Sun, 3 Sep 2017 01:04:31 +0200
+a473d16cd3f52d36325d9fda6400189cf6ff5244|Update README.md|Sun, 3 Sep 2017 00:16:10 +0200|Sun, 3 Sep 2017 00:16:10 +0200
+8c2726200f582cd85bed53465735a2708a33ea88|Update README.md|Sat, 2 Sep 2017 23:33:58 +0200|Sat, 2 Sep 2017 23:33:58 +0200
+e93c447d0aa70d156f7881f515fc48c137c6a3cf|Update README.md|Sat, 2 Sep 2017 23:32:18 +0200|Sat, 2 Sep 2017 23:32:18 +0200
+79a6683406e842d61346b632f8f763e90a3a91fa|Update README.md|Sat, 2 Sep 2017 22:29:46 +0200|Sat, 2 Sep 2017 22:29:46 +0200
+bc55890dc048eee1316e0d8b0778d521b5f12e2f|Update README.md|Sat, 2 Sep 2017 22:28:23 +0200|Sat, 2 Sep 2017 22:28:23 +0200
+e44b035343e0d3d8af456469cf61484c13e7736f|Move to new services|Sat, 2 Sep 2017 22:22:00 +0200|Sat, 2 Sep 2017 22:22:00 +0200
+04586424b31b711323b480748901ad76d1a17776|Add composition - towards 1.0.0|Sat, 2 Sep 2017 02:39:37 +0200|Sat, 2 Sep 2017 02:39:37 +0200
+1ce3f72d875586c96d901445bd1cba2480937aef|Update README.md|Wed, 23 Aug 2017 23:35:43 +0200|Wed, 23 Aug 2017 23:35:43 +0200
+367871d268fcdb788c834cfc3559817f36a6a602|Update README.md|Wed, 23 Aug 2017 23:34:18 +0200|Wed, 23 Aug 2017 23:34:18 +0200
+b8a67898cc190f6d113a81a25efa3853cc22fb53|Update README.md|Sat, 8 Jul 2017 17:04:35 +0200|Sat, 8 Jul 2017 17:04:35 +0200
+db361038af3bbfc1deb815df04e2b8f195ff5519|Update README.md|Sat, 8 Jul 2017 17:04:01 +0200|Sat, 8 Jul 2017 17:04:01 +0200
+b71de906b3904fb9a490b1e19bab478f59f79c12|Update CONTRIBUTING.md|Mon, 5 Jun 2017 21:55:07 +0200|Mon, 5 Jun 2017 21:55:07 +0200
+43f1f119646a6154a17edb22403e708e8afe21a4|Update README.md|Sat, 3 Jun 2017 21:22:17 +0200|Sat, 3 Jun 2017 21:22:17 +0200
+704b523a2209d56921f594ce51a5b5126fc7a9e3|Update README.md|Sat, 3 Jun 2017 21:09:26 +0200|Sat, 3 Jun 2017 21:09:26 +0200
+890785baa19cd736fa9a498dfb0b5b9c31da986d|Add script that stops system services|Sat, 3 Jun 2017 01:35:42 +0200|Sat, 3 Jun 2017 01:35:42 +0200
+d9cad2b4b39249e322d2cbc50b8ec533abf07765|Add comments|Sat, 3 Jun 2017 01:29:56 +0200|Sat, 3 Jun 2017 01:29:56 +0200
+c657eedb6c9cdc749a7e665b563b61bd02fbd070|Add script to launch Go binaries|Sat, 3 Jun 2017 01:19:35 +0200|Sat, 3 Jun 2017 01:20:10 +0200
+0a825bcce94a801667dd1d9d8a9cc9acecfdcb39|Update README.md|Fri, 2 Jun 2017 12:01:18 +0200|Fri, 2 Jun 2017 12:01:18 +0200
+5ac6ddb3e31ddcf19e7378a5d8a38e82b4a9b4ad|Update README.md|Fri, 2 Jun 2017 11:35:41 +0200|Fri, 2 Jun 2017 11:35:41 +0200
+4fa1f7c6a5b4870b7635903d5f17a3c0a1ec0e1c|Update README.md|Wed, 24 May 2017 19:25:14 +0200|Wed, 24 May 2017 19:25:14 +0200
+85093c0b4b0a800ae2189448adda2cfd9501c425|Update README.md|Wed, 24 May 2017 14:56:56 +0200|Wed, 24 May 2017 14:56:56 +0200
+80edbada706c678fe8fbdd7afef8252f4fbc8766|Update README.md|Wed, 24 May 2017 00:42:55 +0200|Wed, 24 May 2017 00:42:55 +0200
+f93c6a42491472236c1267e955a2387d8b671d54|Correct auth docker-compose|Wed, 24 May 2017 00:36:59 +0200|Wed, 24 May 2017 00:37:21 +0200
+49249f08e2a1b5e69e4cd0846d4b6496bb87ac99|Update README.md|Wed, 24 May 2017 00:13:35 +0200|Wed, 24 May 2017 00:13:35 +0200
+33ff1e752959d02eec994c479597b9f065bf331d|Update README.md|Wed, 24 May 2017 00:12:12 +0200|Wed, 24 May 2017 00:12:12 +0200
+d9df54046c639ef7df087f4c708573ec7589fe17|Update README.md|Wed, 24 May 2017 00:10:56 +0200|Wed, 24 May 2017 00:10:56 +0200
+e73132e748ff911e92591308853380b933741068|Switch to new architecture|Wed, 24 May 2017 00:02:53 +0200|Wed, 24 May 2017 00:02:53 +0200
+23c8f1f53f728c4ee4cabfc1a99d6d6260c0a285|Add mainflux-manager docker container|Tue, 23 May 2017 20:01:10 +0200|Tue, 23 May 2017 20:01:10 +0200
+811b5b787bda72612d5cfe7a278443fd59a471fb|Add coap server|Mon, 1 May 2017 02:36:25 +0200|Mon, 1 May 2017 02:36:25 +0200
+4332a5ea4b41186ee38a35878d0af432a3e634dd|Fix docker-compose|Mon, 24 Apr 2017 00:46:36 +0200|Mon, 24 Apr 2017 00:46:36 +0200
+6e3b8407d9c5431c9a64a00629ab56a1555df2ee|Add support for new architecture|Sun, 23 Apr 2017 19:57:59 +0200|Sun, 23 Apr 2017 19:57:59 +0200
+2f96df1c35ee2ee9e1c078602fc9e43b9007e0d8|Use dockers from loraserver-docker|Tue, 28 Mar 2017 01:16:33 +0200|Tue, 28 Mar 2017 01:16:33 +0200
+90cdfb300e5a77fd9c3a63a694578b2440d399ae|Add LoRaWAN Server written in Erlang|Mon, 20 Mar 2017 01:21:40 +0100|Mon, 20 Mar 2017 01:21:40 +0100
+318292703a7c6467bbed36cd999dd825c4e59bfb|Add port mapping|Sun, 19 Mar 2017 03:13:12 +0100|Sun, 19 Mar 2017 03:13:48 +0100
+ce40a0a7a5244c35efd9d16dadeb936690fa82a9|Update README.md|Sat, 11 Mar 2017 01:39:05 +0100|Sat, 11 Mar 2017 01:39:05 +0100
+9f4acaf7a88a7f2af422eca4174ac23b4f5b6c82|Update README.md|Wed, 1 Mar 2017 23:58:00 +0100|Wed, 1 Mar 2017 23:58:00 +0100
+068d3b660206834a03cee4378d5a18fb7352542a|Add lora http certs, fix docekr-compose|Sat, 11 Feb 2017 18:53:30 +0100|Sat, 11 Feb 2017 18:53:30 +0100
+09c063496b6c65f364461f4551b5308279493d0c|Add dockerize|Fri, 10 Feb 2017 01:42:43 +0100|Fri, 10 Feb 2017 01:42:43 +0100
+56286610d925847ac309e8dec693a7834b3104c4|Switch to version 2 to avoid circular dependencies|Fri, 10 Feb 2017 00:28:20 +0100|Fri, 10 Feb 2017 00:28:20 +0100
+669a3b67e5a23678c382a94e94871539e4d13212|Add preliminary LoRa Server support|Thu, 9 Feb 2017 23:26:09 +0100|Thu, 9 Feb 2017 23:26:09 +0100
+3d4d5291c342a1d68dc5a153218815b27087dd70|Change links|Fri, 3 Feb 2017 19:30:44 +0100|Fri, 3 Feb 2017 19:30:44 +0100
+b84f268e1477ab8c63f56c41911e5aa438d73a5c|Add GitHub admin files|Wed, 1 Feb 2017 22:56:06 +0100|Wed, 1 Feb 2017 22:56:06 +0100
+637eb34178df4545631403803cf7ee56ebdfb01c|Merge pull request #76 from darkodraskovic/master|Wed, 18 Jan 2017 00:14:42 +0100|Wed, 18 Jan 2017 00:14:42 +0100
+e0fbc05c4d87a2f3065baf41e317efae83e7a052|Fix typo|Wed, 18 Jan 2017 00:01:23 +0100|Wed, 18 Jan 2017 00:01:23 +0100
+c64337bf03c2996db1336f447f377024e0c4f758|Update README.md|Sun, 15 Jan 2017 00:57:59 +0100|Sun, 15 Jan 2017 00:57:59 +0100
+ad91c25082036f692b378cf205b05c9fcc039289|Update README.md|Fri, 30 Dec 2016 20:41:40 +0100|Fri, 30 Dec 2016 20:41:40 +0100
+e775c2a94b1a93801c4400b9c8c0d29ae00f185f|Kill whitespaces|Fri, 30 Dec 2016 18:18:09 +0100|Fri, 30 Dec 2016 18:18:09 +0100
+cfa40c70fb0bb4211ab533dadc61397be690d242|Fix comments|Fri, 30 Dec 2016 18:15:45 +0100|Fri, 30 Dec 2016 18:15:45 +0100
+691dcbeb8083028b2942eb561fa1482ca29134e2|Add script to install from sources|Fri, 30 Dec 2016 18:09:58 +0100|Fri, 30 Dec 2016 18:09:58 +0100
+2a07613c75576d75e093753da0c944089aaa669d|Add Redis, correct Nginx|Wed, 28 Dec 2016 22:54:22 +0100|Wed, 28 Dec 2016 22:54:22 +0100
+abd8c9b6c9d6e9c76cfe2f3a5507943f51c91e03|Add docker-compose with Auth and NGINX|Wed, 28 Dec 2016 18:17:40 +0100|Wed, 28 Dec 2016 18:17:40 +0100
+b60341db1d2b4cded7901cecf1eac2ae96b933b0|Add NATS info|Sun, 4 Dec 2016 20:32:20 +0100|Sun, 4 Dec 2016 20:32:20 +0100
+b2417b9bd6fd45a59ccb27625e798bedfcee5fef|Use correct NATS Docker image|Sun, 4 Dec 2016 20:06:06 +0100|Sun, 4 Dec 2016 20:06:06 +0100
+ad0278005c6c27794494d8e24e3df4f35d1c67b6|Lock NATS version to latest stable|Sun, 4 Dec 2016 19:36:28 +0100|Sun, 4 Dec 2016 19:36:28 +0100
+ff238a3491841c90035c5033b0d7ff1097278b1c|Update README.md|Sat, 3 Dec 2016 18:49:41 +0100|Sat, 3 Dec 2016 18:49:41 +0100
+15240dc3918a5698ee8d876af542921ed3aa71a7| Added mainflux-mqtt links in compose file.|Sun, 27 Nov 2016 19:49:02 +0100|Sun, 27 Nov 2016 19:49:02 +0100
+4e8e7dbf4ee4df6a40a37637c0b4ea30613f0a57|Change NATS monitoring port|Sun, 27 Nov 2016 16:11:42 +0100|Sun, 27 Nov 2016 16:11:42 +0100
+e0e17f0e18db92b8f2398ca7b26405da6e635806|Go NATS|Sun, 27 Nov 2016 12:56:52 +0100|Sun, 27 Nov 2016 12:56:52 +0100
+e389395d4e508dab5737bc24464241ed02e02840|Add Redis|Sat, 26 Nov 2016 01:44:35 +0100|Sat, 26 Nov 2016 01:44:35 +0100
+38ad5172e1091a017ac89a6f2ad55c59255eab89|Update README.md|Thu, 24 Nov 2016 02:23:24 +0100|Thu, 24 Nov 2016 02:23:24 +0100
+8e98cb5e0c3035ca849be1d771ff759e7f399ef7|Update README.md|Thu, 24 Nov 2016 02:22:40 +0100|Thu, 24 Nov 2016 02:22:40 +0100
+939f2612dd9f76ca509894ed3913c4d55640b7e5|Update README.md|Thu, 24 Nov 2016 02:19:06 +0100|Thu, 24 Nov 2016 02:19:06 +0100
+133ca7116a4a0c6ddb5a6148f5d1c0e3bfd8bb7f|Update docker-compose.yml|Mon, 21 Nov 2016 22:53:26 +0100|Mon, 21 Nov 2016 22:53:26 +0100
+a005fd8398f14ef59a7e92969d915280eaee0b48|Use mainflux-mqtt|Mon, 21 Nov 2016 22:52:14 +0100|Mon, 21 Nov 2016 22:52:14 +0100
+13417691adb8e1aeaaef2fcaf3eb4b28c29beafc|Update|Sat, 12 Nov 2016 19:49:58 +0100|Sat, 12 Nov 2016 19:49:58 +0100
+d71eb8b20fe3d4ea88d998f213b4874c939fd42b|Update README.md|Sat, 12 Nov 2016 19:49:23 +0100|Sat, 12 Nov 2016 19:49:23 +0100
+f90d043b2944c3c440db1e95dd606b68f38c9599|Update README.md|Sat, 12 Nov 2016 19:44:51 +0100|Sat, 12 Nov 2016 19:44:51 +0100
+d647f62a270c9082a8aa82bbcc13a6dd646f2b64|Update README.md|Sat, 12 Nov 2016 19:39:53 +0100|Sat, 12 Nov 2016 19:39:53 +0100
+1b938002b5f2f2a940e0304f451b22e745a7dd5b|Update README.md|Sat, 12 Nov 2016 19:39:18 +0100|Sat, 12 Nov 2016 19:39:18 +0100
+0e34885c733afe221681ea4b354f85bec283c045|Update README.md|Sat, 12 Nov 2016 19:29:14 +0100|Sat, 12 Nov 2016 19:29:14 +0100
+f58915dd794942c5b8c4884479eebad41499527f|Remove not-needed badges|Sat, 12 Nov 2016 19:16:27 +0100|Sat, 12 Nov 2016 19:16:27 +0100
+ed7b6407000769196d34fc6fb16ad625d77858dc|Not needed any more|Sat, 12 Nov 2016 19:15:55 +0100|Sat, 12 Nov 2016 19:15:55 +0100
+9363cb68042ae431075c28d71ac92d859693930c|Correct docker-compose for core microservice|Sat, 12 Nov 2016 19:13:10 +0100|Sat, 12 Nov 2016 19:13:10 +0100
+48779e856fe2a9f8e98356e7829cd2f5e257c0f0|Remove all from main repo|Sat, 12 Nov 2016 19:08:33 +0100|Sat, 12 Nov 2016 19:11:40 +0100
+20ce5268d422a6c4b3b9bf602a4c6ed6193d3162|Update README.md|Sun, 6 Nov 2016 16:44:59 +0100|Sun, 6 Nov 2016 16:44:59 +0100
+a6aca347694d5998df2db5572a7847bdc284f4fa|Update README.md|Sat, 5 Nov 2016 23:33:21 +0100|Sat, 5 Nov 2016 23:33:21 +0100
+722381a6370cf7316aeed2fca5c9554bcd245de6|Update README.md|Sat, 5 Nov 2016 23:25:48 +0100|Sat, 5 Nov 2016 23:25:48 +0100
+a93de22af787b5618b4b3b1cf8433d86b5bfcae7|Update README.md|Sat, 5 Nov 2016 02:51:13 +0100|Sat, 5 Nov 2016 02:51:13 +0100
+9561949e601d88c81e1124199623d646c3f60712|Fix Go report|Sat, 5 Nov 2016 01:36:12 +0100|Sat, 5 Nov 2016 01:36:12 +0100
+a3886c64e97c373339a499bca49d802cfcd8bc8f|Improve Go report|Sat, 5 Nov 2016 00:51:26 +0100|Sat, 5 Nov 2016 00:51:26 +0100
+d38ea79dde748a12ac5da327cb429c3b21c4b783|Gofmt|Fri, 4 Nov 2016 23:10:13 +0100|Fri, 4 Nov 2016 23:10:13 +0100
+c12a88d12fef863e5341b00ebbb836e4a7ec09ff|Fix typo|Fri, 4 Nov 2016 22:30:19 +0100|Fri, 4 Nov 2016 22:30:19 +0100
+6b54d38d53c0d93b4ffd0b1ddad853c9f17914d8|Add dockerize to docker-commpose.yml|Wed, 2 Nov 2016 22:55:04 +0100|Wed, 2 Nov 2016 22:55:04 +0100
+ad6f9ee7219d8df1977d7262ac219897278749cd|Update README.md|Wed, 2 Nov 2016 01:31:07 +0100|Wed, 2 Nov 2016 01:31:07 +0100
+d0ff0356880c27fb4c87c9a4d495a1eaaa5cd033|Update README.md|Wed, 2 Nov 2016 01:30:46 +0100|Wed, 2 Nov 2016 01:30:46 +0100
+fa9bc4748208f8da8461eea5b35b90760006c0bc|Update README.md|Wed, 2 Nov 2016 01:29:33 +0100|Wed, 2 Nov 2016 01:29:33 +0100
+b605341f7338c0045a826c38a17c304e5e44dc35|Update MAINTAINERS|Sat, 29 Oct 2016 20:15:38 +0200|Sat, 29 Oct 2016 20:15:38 +0200
+c9e7fb112ad846e55659c387fb1d01aa708d30a9|Update README.md|Sat, 29 Oct 2016 20:07:58 +0200|Sat, 29 Oct 2016 20:07:58 +0200
+1b2b58f6b0addd9718bf9326cc398260aa0751ff|Update README.md|Tue, 25 Oct 2016 01:58:34 +0200|Tue, 25 Oct 2016 01:58:34 +0200
+73f7af3eeb728fac25786a56db7a83a5d9b1ab6d|Expose HTTP ports|Mon, 17 Oct 2016 22:06:04 +0200|Mon, 17 Oct 2016 22:06:04 +0200
+cc50880217f1fa0dea2c84b40913d15e81dc22a1|Fix MQTT port|Mon, 17 Oct 2016 20:18:46 +0200|Mon, 17 Oct 2016 20:18:46 +0200
+bbc66553b23f87c469886ed5545ddf0378cdd852|Fix Glide installation|Thu, 13 Oct 2016 22:55:00 +0200|Thu, 13 Oct 2016 22:55:20 +0200
+3f0eaaec31efc3e7cd5ca100b7193f396b51baac|Use Glide's novendor|Thu, 13 Oct 2016 22:46:58 +0200|Thu, 13 Oct 2016 22:47:22 +0200
+1a6102c5fe7a4c8b571910bb748966253ffb7897|Update README.md|Thu, 13 Oct 2016 00:25:31 +0200|Thu, 13 Oct 2016 00:25:31 +0200
+d2b03d09aeea314926215b3d9f3bbfc10a242644|Update .travis.yml|Thu, 13 Oct 2016 00:08:49 +0200|Thu, 13 Oct 2016 00:08:49 +0200
+2cd0e70d801a3252c53ced23e262de66397cbf40|Update .travis.yml|Thu, 13 Oct 2016 00:05:05 +0200|Thu, 13 Oct 2016 00:05:05 +0200
+05f0fc776d2cd815a0409c449f20292b5dc15a81|Update .travis.yml|Wed, 12 Oct 2016 23:59:13 +0200|Wed, 12 Oct 2016 23:59:13 +0200
+f7a21d43dae70fd2d7ad26e1bb52b531450826aa|Fix typo|Wed, 12 Oct 2016 23:57:03 +0200|Wed, 12 Oct 2016 23:57:03 +0200
+520006f06d0db15be4063b42195e8a7f84748e95|Add comment for .travis.yml|Wed, 12 Oct 2016 23:54:39 +0200|Wed, 12 Oct 2016 23:54:39 +0200
+180aaeae6f1d1581fc3d8c06f830457276493f7e|Remove vendor before build|Wed, 12 Oct 2016 23:45:26 +0200|Wed, 12 Oct 2016 23:45:26 +0200
+e847ac251a87ebce5245d797ed3e8bb0818b328c|Bump Go version in Travis to 1.7|Wed, 12 Oct 2016 23:31:25 +0200|Wed, 12 Oct 2016 23:31:25 +0200
+808dbb82dff92dffc89106fd9a7cdc695b8f8365|Updated vendor packages|Wed, 12 Oct 2016 21:55:14 +0200|Wed, 12 Oct 2016 21:55:14 +0200
+1cf4558d118bf216bd7149caea6712e85aa4c2d0|Merge pull request #65 from nmarcetic/master|Wed, 12 Oct 2016 19:41:47 +0200|Wed, 12 Oct 2016 19:41:47 +0200
+b1fab11c32a7f7fee5a565d5391b5f49d68e53f5|Pulled latest master branch version of paho mqtt with glide|Wed, 12 Oct 2016 17:45:05 +0200|Wed, 12 Oct 2016 17:45:05 +0200
+63a97748b6be33256daaf0c9c9afaf6e197844df|Changed glide.yml, set  master branch for version|Wed, 12 Oct 2016 17:43:37 +0200|Wed, 12 Oct 2016 17:43:37 +0200
+122179b8c50c4787b5ef7143d3697e78d0fd323e|Merge pull request #63 from nmarcetic/master|Wed, 12 Oct 2016 16:56:28 +0200|Wed, 12 Oct 2016 16:56:28 +0200
+bb5f4c1196023e2ca231af7c9b67e2f728bfd16f|Updated paho package, to resolve travis issue|Wed, 12 Oct 2016 15:26:27 +0200|Wed, 12 Oct 2016 15:26:27 +0200
+4f5ef30b30d11b48975460e5d6d39438ee3b2839|Merge branch 'master' of https://github.com/mainflux/mainflux|Wed, 12 Oct 2016 15:22:04 +0200|Wed, 12 Oct 2016 15:22:04 +0200
+d1c44a54139460309772f4a7f30cc009a874e268|Removed Sevice field - we do not need it for now|Mon, 10 Oct 2016 20:28:51 +0200|Mon, 10 Oct 2016 20:28:51 +0200
+1d7404615417da6a25fb2656d67ec4561443c902|Add Glide and vendoring|Sun, 9 Oct 2016 20:48:34 +0200|Sun, 9 Oct 2016 20:48:34 +0200
+de236fcc90a4afba95340c63c52b728666d05bcf|Fixed docker-compose|Sat, 8 Oct 2016 16:48:27 +0200|Sat, 8 Oct 2016 16:48:27 +0200
+9de6bc14481c8de945179438f99fc01b502c2cf7|Prefix DB entries with channel name and unit|Sat, 8 Oct 2016 02:42:07 +0200|Sat, 8 Oct 2016 02:42:07 +0200
+ce928986ba1716a813a667d0291ba8e9fb417a8b|Initialize `service` and `online` params|Sat, 8 Oct 2016 02:39:30 +0200|Sat, 8 Oct 2016 02:39:30 +0200
+37399c894401b767aa5896731ac4a8c8ca579888|Limit the GET counts. Use service.|Sat, 8 Oct 2016 02:37:09 +0200|Sat, 8 Oct 2016 02:37:09 +0200
+849ce6e1ad346ecf7b5234ca66b6db5fa60d92cc|Add channel name and unit (used as bn and bu)|Sat, 8 Oct 2016 02:35:30 +0200|Sat, 8 Oct 2016 02:35:30 +0200
+96fd2bf2b57d842d3412d89b79f4b07be46e3249|Added `service` field. Simplified `device` model.|Sat, 8 Oct 2016 02:34:19 +0200|Sat, 8 Oct 2016 02:34:19 +0200
+62c43f1ba41d0b46d647b7210641e624bbfece1d|Move "device" param to payload|Wed, 5 Oct 2016 20:16:23 +0200|Wed, 5 Oct 2016 20:16:23 +0200
+3db4ab8440f2f54069edfad25f548c295092b4d4|Move Dockerfile to root folder|Tue, 4 Oct 2016 23:51:44 +0200|Tue, 4 Oct 2016 23:51:44 +0200
+5d7d5d43ff273c3c982f608a0bc74c9baa59946e|Update Dockerfile|Tue, 4 Oct 2016 23:44:40 +0200|Tue, 4 Oct 2016 23:44:40 +0200
+2d8ddd7b0cd05b2e2e9d4247cf0d33ed7f81c97f|Organize Docker stuff|Tue, 4 Oct 2016 23:28:08 +0200|Tue, 4 Oct 2016 23:28:08 +0200
+779b254c04a3f35359ab7f6895648f74064c4e27|Correct test to use stdlib approach|Tue, 4 Oct 2016 23:06:55 +0200|Tue, 4 Oct 2016 23:06:55 +0200
+f3f2586f03764123b467f27342dc33b75b6ca192|Remove Iris, part 2|Tue, 4 Oct 2016 22:47:47 +0200|Tue, 4 Oct 2016 22:47:47 +0200
+d02009744e0f479267e67aa0e868a46bd2b2b61d|Remove Iris, part 1|Tue, 4 Oct 2016 21:55:07 +0200|Tue, 4 Oct 2016 21:55:07 +0200
+d38b125fb7dfc2d797b6bc7c5aeb9a9a90980d1e|Remove print of config|Sun, 2 Oct 2016 22:57:06 +0200|Sun, 2 Oct 2016 22:57:06 +0200
+551172ed0a2760a7f3180240a4d8955ab5d9c64e|Abandon YAML and switch to TOML|Sun, 2 Oct 2016 21:20:56 +0200|Sun, 2 Oct 2016 21:20:56 +0200
+04710ad0195cbff952324033131df208a06caa37|Remove `lite`, correct `/channels`|Tue, 20 Sep 2016 23:48:01 +0200|Tue, 20 Sep 2016 23:48:01 +0200
+57a4535bc441883041ef79eee542c6c614cf131b|Change `/channels` API|Tue, 20 Sep 2016 23:03:54 +0200|Tue, 20 Sep 2016 23:03:54 +0200
+52f0017be50b28a25164ced1a068d6d6c51f714c|Correct banner|Tue, 20 Sep 2016 22:47:55 +0200|Tue, 20 Sep 2016 22:47:55 +0200
+2074bac535fd56ee117b6510b83bcdd203c7ff60|Correct banner|Tue, 20 Sep 2016 21:56:01 +0200|Tue, 20 Sep 2016 21:56:01 +0200
+106c8996d40ab0b63d69150c36ea82efc2f7f201|Add schema|Tue, 20 Sep 2016 21:54:42 +0200|Tue, 20 Sep 2016 21:55:48 +0200
+fd0ca0e6d616adfae800f40a94688114ea01cda6|Add Travis|Tue, 20 Sep 2016 21:28:33 +0200|Tue, 20 Sep 2016 21:28:42 +0200
+bd4a97fdbe7b3c381b8d8e387c0f7d6f43c6e3e8|Add .dockerignore|Tue, 20 Sep 2016 21:28:17 +0200|Tue, 20 Sep 2016 21:28:42 +0200
+120acd856473e279cab821ad5d7b6c4d897b20a3|Update README.md|Tue, 20 Sep 2016 21:25:46 +0200|Tue, 20 Sep 2016 21:25:46 +0200
+566d8ea254428c830b34c524363196619fab86db|Update README.md|Tue, 20 Sep 2016 21:24:27 +0200|Tue, 20 Sep 2016 21:24:27 +0200
+aa3e23906f8c9339ef5254a26ff367b601892890|Correct MAINTAINERS|Tue, 20 Sep 2016 21:21:06 +0200|Tue, 20 Sep 2016 21:21:25 +0200
+be956accd6e0b2cd060fe6f43233cd9f941228f7|Update README.md|Tue, 20 Sep 2016 21:01:33 +0200|Tue, 20 Sep 2016 21:01:33 +0200
+c06d62a8a7e41320987ec532c7a60ba28421e90d|Update README.md|Tue, 20 Sep 2016 20:07:54 +0200|Tue, 20 Sep 2016 20:07:54 +0200
+20b0207a3ccd1ec20735a862b1cf9d034421abd6|Update README.md|Tue, 20 Sep 2016 20:03:31 +0200|Tue, 20 Sep 2016 20:03:31 +0200
+469b8f0c794d3fb1212f6c77694812dae793ae53|:mouse: GO GO GO!|Tue, 20 Sep 2016 19:24:54 +0200|Tue, 20 Sep 2016 19:24:54 +0200
+f3dfcd7e7e400f9fe453b7e23d9b18081f15e457|Update README.md|Tue, 23 Aug 2016 10:50:31 +0200|Tue, 23 Aug 2016 10:50:31 +0200
+b8f938e1807c5a5f787639efe90072e723c4f2af|Update README.md|Tue, 23 Aug 2016 00:35:56 +0200|Tue, 23 Aug 2016 00:35:56 +0200
+bbc45150cc3717ab481a475f142afb8e6eb767c3|Update README.md|Tue, 23 Aug 2016 00:24:31 +0200|Tue, 23 Aug 2016 00:24:31 +0200
+d429dec1d83f614f78c0c747b8dd5c70fb49c68f|Update README.md|Tue, 23 Aug 2016 00:21:32 +0200|Tue, 23 Aug 2016 00:21:32 +0200
+eaf6863d1c22d2992002c994f50b9ff1a5600b23|Update README.md|Mon, 22 Aug 2016 23:54:41 +0200|Mon, 22 Aug 2016 23:54:41 +0200
+0bc2fd8ff683a87d53174e6fa7304307d20c6c4a|Update configs to use `docker-compose` hostnames|Sun, 14 Aug 2016 20:07:20 +0200|Sun, 14 Aug 2016 20:07:20 +0200
+2afd866ec391a0d581d8d972110ca76d10d5ede7|Add InfluxDB|Sun, 14 Aug 2016 20:06:59 +0200|Sun, 14 Aug 2016 20:06:59 +0200
+9e64f3a7d339a5add457e9dad6c1448aa3fea5e0|Migrate to Go|Tue, 9 Aug 2016 21:27:33 +0200|Tue, 9 Aug 2016 21:28:44 +0200
+3ef7035689cfc61f348e87df98ebc17013f46130|Update README.md|Mon, 8 Aug 2016 23:38:08 +0200|Mon, 8 Aug 2016 23:38:08 +0200
+b7be831b8b7933d884a322ce32ae6d5ebfb4f535|Update README.md|Mon, 8 Aug 2016 23:37:24 +0200|Mon, 8 Aug 2016 23:37:24 +0200
+6a24aa91e6af0ba92640206be53b02bed92abf1b|Update README.md|Wed, 18 May 2016 23:20:39 +0200|Wed, 18 May 2016 23:20:39 +0200
+b88fc346d08c049085bdd6db6b151cdb84a4ec4c|Update README.md|Wed, 18 May 2016 23:18:40 +0200|Wed, 18 May 2016 23:18:40 +0200
+fb4140d69c1c0b4f285b17c6748d62ac0b279f73|Add Locust test template|Wed, 18 May 2016 20:41:21 +0200|Wed, 18 May 2016 20:41:21 +0200
+f92db09290edc936d949fff7e0fdbd9581152951|Add Postman HTTP RESTful API testing collections|Wed, 18 May 2016 20:38:36 +0200|Wed, 18 May 2016 20:38:36 +0200
+b76461e77308c3d49a2b87a614aa262be9925584|Add Vim ignore|Wed, 18 May 2016 20:37:46 +0200|Wed, 18 May 2016 20:37:46 +0200
+bc54a9ad6add9dea2f7a97b3bbbb3c0046bda8be|Fix Docker host names|Wed, 18 May 2016 20:35:58 +0200|Wed, 18 May 2016 20:35:58 +0200
+3bb18620b2ea731f8c46ff7f00b32e662c90487c|Add NATS configs|Tue, 17 May 2016 23:24:19 +0200|Tue, 17 May 2016 23:24:19 +0200
+2f1e5163b512f0cb149c730f323d5e33c505c897|Update README.md|Tue, 10 May 2016 22:32:09 +0200|Tue, 10 May 2016 22:32:09 +0200
+f06687e2f4d295f5eb8e60b294b116a1d8177cfe|Update README.md|Tue, 10 May 2016 22:30:43 +0200|Tue, 10 May 2016 22:30:43 +0200
+460874b9abf6d6f60a494e76847105021b1342e4|Add docker-compose with local config|Thu, 28 Apr 2016 23:53:26 +0200|Thu, 28 Apr 2016 23:58:57 +0200
+fc4c658ff2701aaba3d8e9dc88690dc7279b76d5|Add docker-compose with local config|Thu, 28 Apr 2016 23:53:26 +0200|Thu, 28 Apr 2016 23:53:26 +0200
+8f4ef8464eb75e4229a76798d85b22d972045992|Correct docker-compose configs|Thu, 28 Apr 2016 23:50:18 +0200|Thu, 28 Apr 2016 23:50:18 +0200
+454760e62e5c87e22d57a4ca5556a15fc1d1b873|Add microservices local configurations|Thu, 28 Apr 2016 23:46:29 +0200|Thu, 28 Apr 2016 23:46:29 +0200
+797a804cda387e62a463087ae734654115c281d4|Use microservices|Thu, 28 Apr 2016 23:36:20 +0200|Thu, 28 Apr 2016 23:36:20 +0200
+8aa4bbc0538125a2de9ba9d447d51857d6344d74|Update README.md|Thu, 28 Apr 2016 22:57:41 +0200|Thu, 28 Apr 2016 22:57:41 +0200
+0934fbe8341e1507e52406da7ffc336ba80b717d|Update README.md|Thu, 28 Apr 2016 22:56:58 +0200|Thu, 28 Apr 2016 22:56:58 +0200
+09907fd78fa0fd84b4001032fac1534d40b094e1|Update README.md|Thu, 28 Apr 2016 22:25:08 +0200|Thu, 28 Apr 2016 22:25:08 +0200
+dcd45d8bda994252257faa8ba74e905cc175d8d5|Remove .dockerignore and .travis.yml|Thu, 28 Apr 2016 22:21:37 +0200|Thu, 28 Apr 2016 22:23:05 +0200
+daf9f39a119a1ea277b8fdd739f31679190a1c1a|Update README.md|Thu, 28 Apr 2016 22:19:08 +0200|Thu, 28 Apr 2016 22:19:08 +0200
+17503952408cd4199af83edde22d2d010339a820|Update README.md|Thu, 28 Apr 2016 22:16:01 +0200|Thu, 28 Apr 2016 22:16:01 +0200
+4c013fac6fa51cf28415a9264dc16e633c56fd39|Update README.md|Thu, 28 Apr 2016 22:07:16 +0200|Thu, 28 Apr 2016 22:07:16 +0200
+d950002593d49fe0d7c4604375f523eb892e7274|Refractored in Microservices|Thu, 28 Apr 2016 21:49:54 +0200|Thu, 28 Apr 2016 21:49:54 +0200
+0dca37b6565a382dfa64fda3f27866f5aa524c92|Correct Gulpfile|Wed, 27 Apr 2016 23:12:31 +0200|Wed, 27 Apr 2016 23:12:31 +0200
+cf17b53bb61544631f33bd4401eb04a081457386|Add MQTT, HTTP and WS API servers|Wed, 27 Apr 2016 23:02:28 +0200|Wed, 27 Apr 2016 23:05:42 +0200
+8fee81d8bc83c021291012d4da105338bcea1d9f|Move config.js in root dir, add MQTT and HTTP conf|Wed, 27 Apr 2016 23:01:30 +0200|Wed, 27 Apr 2016 23:05:42 +0200
+eff9fd241136d6f818ce15738880c605fe1f5cb3|Add NATS broker client|Wed, 27 Apr 2016 23:00:20 +0200|Wed, 27 Apr 2016 23:05:42 +0200
+396727b4d557d05e5b82b0a82ada9263cf3c0033|Add MQTT and WS server|Wed, 27 Apr 2016 22:55:41 +0200|Wed, 27 Apr 2016 23:05:42 +0200
+2fb79f1a191787a081295eb42e24f5bc56757692|--Readme changed|Fri, 22 Apr 2016 10:59:42 +0200|Fri, 22 Apr 2016 10:59:42 +0200
+7d332297fca572bc7cac9338e5a25b8e6ad284b3|Change compostion ports|Wed, 20 Apr 2016 21:00:38 +0200|Wed, 20 Apr 2016 21:00:38 +0200
+bb0ead885f121ca425daf6556cb3ccea4410bebf|Make app port more configurable|Wed, 20 Apr 2016 20:58:41 +0200|Wed, 20 Apr 2016 20:58:41 +0200
+00c6cb77c6c115bb78ae40a957c16408c194e699|Revert "Move back to mongoose. Remove JWT."|Wed, 20 Apr 2016 20:28:39 +0200|Wed, 20 Apr 2016 20:28:39 +0200
+021427431ac79df798fd5d6de3e6327b148c3194|Correct Docker files|Wed, 20 Apr 2016 00:20:57 +0200|Wed, 20 Apr 2016 00:20:57 +0200
+129e911652dee3ac75f1ba6e39fe7d723ec039e9|Move back to mongoose. Remove JWT.|Tue, 19 Apr 2016 23:09:16 +0200|Tue, 19 Apr 2016 23:14:28 +0200
+41c1bc03b499b8c3be1a6cd516c693e56b00f13f|Update README.md|Mon, 15 Feb 2016 20:06:54 +0100|Mon, 15 Feb 2016 20:06:54 +0100
+88405089f68230fbc2f949d20e4df79df9f95951|Update README.md|Mon, 15 Feb 2016 01:12:00 +0100|Mon, 15 Feb 2016 01:12:00 +0100
+9e8888fdff83381cf4dfc6674d1e9f10cf74f8f7|Merge pull request #41 from drasko/master|Tue, 8 Dec 2015 02:44:50 +0100|Tue, 8 Dec 2015 02:44:50 +0100
+bd16fa26169ffbb9d1d92bad2e894b31b6acb369|Correct GET on single device|Tue, 8 Dec 2015 02:38:01 +0100|Tue, 8 Dec 2015 02:39:16 +0100
+8eee6f1bcf983cb63857bb938c0cbe2e5684ef2d|Merge pull request #40 from drasko/master|Mon, 7 Dec 2015 01:33:12 +0100|Mon, 7 Dec 2015 01:33:12 +0100
+fbb527b43586163b69df5e16521b7511d0407cbf|Update README.md|Mon, 7 Dec 2015 01:29:56 +0100|Mon, 7 Dec 2015 01:29:56 +0100
+b046ce5dd7920fb4900f17d56b65bedbbe4da2f8|Merge pull request #39 from drasko/master|Mon, 7 Dec 2015 01:19:44 +0100|Mon, 7 Dec 2015 01:19:44 +0100
+08c3bac64e1a79341c0a45ed8347dcc709dbe030|Update README.md|Mon, 7 Dec 2015 01:03:28 +0100|Mon, 7 Dec 2015 01:03:28 +0100
+f88a913333b3f7828983d94dffabf2a53ab05858|Merge pull request #38 from drasko/master|Mon, 7 Dec 2015 00:34:35 +0100|Mon, 7 Dec 2015 00:34:35 +0100
+ef00dac107a4fedaeb3424190c87eca22ad5d16f|Correct Docker stuff|Mon, 7 Dec 2015 00:26:15 +0100|Mon, 7 Dec 2015 00:27:52 +0100
+87fa44f9c957f4fc9690b9118645a6dc0a5762f2|Merge pull request #37 from drasko/master|Sun, 6 Dec 2015 19:48:04 +0100|Sun, 6 Dec 2015 19:48:04 +0100
+7eb4c34ab1333bf308886bf2a555b9047cf6108c|Cosmetics|Sun, 6 Dec 2015 19:41:46 +0100|Sun, 6 Dec 2015 19:42:27 +0100
+f3fd6893054385da1ffba7e33c7d04db7f969bf8|Merge pull request #36 from drasko/master|Sun, 6 Dec 2015 19:42:13 +0100|Sun, 6 Dec 2015 19:42:13 +0100
+55b28f90f00b5f42fc35bb07d031174669376627|Add JWT data in the signature|Sun, 6 Dec 2015 14:56:33 +0100|Sun, 6 Dec 2015 14:57:40 +0100
+40194aeb9bf9ebe73016bb782af76dab1983bf0c|Create logger as a separate file|Sun, 6 Dec 2015 14:53:42 +0100|Sun, 6 Dec 2015 14:57:40 +0100
+b930a8f75f168d53a932a6d90fe5d2b5810621d7|Add `utils` dir and generateToken.js utility|Sat, 5 Dec 2015 19:04:42 +0100|Sun, 6 Dec 2015 14:57:40 +0100
+469880a3fa613482dcc27e269dee37a258279910|Merge pull request #35 from drasko/master|Sun, 6 Dec 2015 14:54:26 +0100|Sun, 6 Dec 2015 14:54:26 +0100
+5efcacc731d6d8106e28b522d24ffc07913264b1|Add `bunyan` logger|Sat, 5 Dec 2015 19:01:40 +0100|Sat, 5 Dec 2015 19:02:49 +0100
+7382ab907329a3062bcf476f1e72cdce76f1ae2f|Merge pull request #34 from drasko/master|Sat, 5 Dec 2015 19:02:41 +0100|Sat, 5 Dec 2015 19:02:41 +0100
+0faf6d85c0ca708095429fbf03b2dbd4d9fdab9b|Update swagger.yaml|Sat, 5 Dec 2015 01:23:59 +0100|Sat, 5 Dec 2015 01:23:59 +0100
+e2ab3e19e6126a73357b53930279c8ff5c4d0304|Correct Swagger|Sat, 5 Dec 2015 01:15:00 +0100|Sat, 5 Dec 2015 01:15:29 +0100
+980f6ac5257aa3525183c85469e073d0604d7cdd|Merge pull request #33 from drasko/master|Fri, 4 Dec 2015 01:16:44 +0100|Fri, 4 Dec 2015 01:16:44 +0100
+e7e4da29bbe841eeec68255e236b3975d85a0ae5|Add jwt|Fri, 4 Dec 2015 00:53:30 +0100|Fri, 4 Dec 2015 00:54:39 +0100
+54913c7d2378927150f1625a09263ec707331cec|Correct Swagger file|Wed, 2 Dec 2015 22:20:22 +0100|Fri, 4 Dec 2015 00:54:39 +0100
+be79cae443433e3b1b5909c53d8370666d64c064|Merge pull request #32 from drasko/master|Wed, 2 Dec 2015 22:21:10 +0100|Wed, 2 Dec 2015 22:21:10 +0100
+59da29ff2b9d0d7c93515af7e1d8c4c3295e5460|Use restify and mongojs. Change structure.|Wed, 2 Dec 2015 00:12:57 +0100|Wed, 2 Dec 2015 00:17:10 +0100
+744068bda8602eae2ec3bf79b0d037ba485c0b00|Correct README|Tue, 1 Dec 2015 20:13:53 +0100|Wed, 2 Dec 2015 00:17:10 +0100
+122c02769d66def5687327cd19eff170ff45e223|Merge pull request #31 from drasko/master|Mon, 2 Nov 2015 10:55:44 +0100|Mon, 2 Nov 2015 10:55:44 +0100
+276a505eebf86b95c3db1e0ff560483579491a2f|Add gulp-exit - gulp exits after finished tests|Mon, 2 Nov 2015 01:42:12 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+2e27375adb34625191a344b1ec5b2d36839dd373|Add server.close() in apiTest.js|Mon, 2 Nov 2015 01:38:51 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+38311af348c90439b6072219310660d4d0d415f9|Add mongodb in Travis build|Mon, 2 Nov 2015 01:09:40 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+455b469bc2b595f7f2cc77da7ec745e0a52c60fc|Add gulp locally|Mon, 2 Nov 2015 00:55:29 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+63281acac52b18966964eead49da1ffa13357565|Add local mocha and fix .travis.yml|Mon, 2 Nov 2015 00:04:22 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+253495d5bb878b752f7d9b0a04d372a2f0a12045|Launch test with `npm test`|Sun, 1 Nov 2015 16:06:44 +0100|Mon, 2 Nov 2015 01:49:39 +0100
+66ef92dbf7e9a82ae4b40679a7d9448e82c4a6e2|Merge pull request #30 from drasko/master|Sun, 1 Nov 2015 15:54:21 +0100|Sun, 1 Nov 2015 15:54:21 +0100
+f2fd735dbd7909df326aa2e5181252ae886ab027|Add Travis YAML|Sun, 1 Nov 2015 15:51:39 +0100|Sun, 1 Nov 2015 15:51:39 +0100
+4e5edad061e41b5b75dd8d7cbbb76701dd00665e|Merge pull request #29 from drasko/master|Sun, 1 Nov 2015 15:33:52 +0100|Sun, 1 Nov 2015 15:33:52 +0100
+cb6471790b915c83f47279a01b3e5d82f1769196|Add test task in gulp|Sun, 1 Nov 2015 15:27:49 +0100|Sun, 1 Nov 2015 15:27:49 +0100
+5e31f45b277c82678f49c5a809ce43e561e5c606|Add Mocha, Chai and Supertest combo for testing|Sun, 1 Nov 2015 03:25:29 +0100|Sun, 1 Nov 2015 03:43:23 +0100
+51898276f3729bba06acec01696d4041fb955661|Add Community links|Sat, 17 Oct 2015 00:03:21 +0200|Sat, 17 Oct 2015 00:03:21 +0200
+9f3a728ccb121432f1f5324dfb9025c478e4012c|Merge pull request #25 from nmarcetic/master|Tue, 13 Oct 2015 16:47:58 +0200|Tue, 13 Oct 2015 16:47:58 +0200
+f36013016e9f1ec0a8a9c40a294581f570b0c454|-- Hello JWT|Wed, 23 Sep 2015 20:44:06 +0200|Tue, 13 Oct 2015 16:35:32 +0200
+b5202163519f49458ba8abf1ef1dda61a548d19f|Merge pull request #21 from drasko/master|Mon, 12 Oct 2015 20:48:08 +0200|Mon, 12 Oct 2015 20:48:08 +0200
+92b4a70528a380e039f4ca6a5a3b141d30e8ac93|Correct headers for token. Send full device JSON on creation, update and delete|Sun, 11 Oct 2015 22:34:48 +0200|Sun, 11 Oct 2015 22:35:05 +0200
+fafa62368086efc0ca36b86538dc1ddd60f6400b|Add license to package.json|Sun, 11 Oct 2015 22:32:54 +0200|Sun, 11 Oct 2015 22:35:05 +0200
+e6203967bba7a63a52c9c21516ca344af65b7bae|Merge pull request #17 from drasko/master|Sat, 10 Oct 2015 01:40:52 +0200|Sat, 10 Oct 2015 01:40:52 +0200
+3b86bf249c1e462925420435b17f242ba2a416c2|Add comments for device model, fix typos|Sat, 10 Oct 2015 01:17:44 +0200|Sat, 10 Oct 2015 01:37:50 +0200
+700a34b589d5819b9573ab4cbf844b42dde42ee4|Merge pull request #16 from drasko/master|Sat, 10 Oct 2015 01:11:01 +0200|Sat, 10 Oct 2015 01:11:01 +0200
+a3a2c1f4492d1384009d126ec3fcbd898e5aa658|Update README.md|Sat, 10 Oct 2015 01:06:40 +0200|Sat, 10 Oct 2015 01:06:40 +0200
+910791c8fa5166fbb1b34a3ddafe89e7c3e725d5|Merge pull request #15 from drasko/master|Sat, 10 Oct 2015 00:56:17 +0200|Sat, 10 Oct 2015 00:56:17 +0200
+dd806d2a2e185eac7b28d3118dacd2e0577b50fe|Update README.md|Sat, 10 Oct 2015 00:55:04 +0200|Sat, 10 Oct 2015 00:55:04 +0200
+83e439bb5aa035ed1f88ce3954a3483d712e1ed2|Merge pull request #14 from drasko/master|Fri, 9 Oct 2015 23:40:59 +0200|Fri, 9 Oct 2015 23:40:59 +0200
+45451c8266639004acd43e28447d5d0854989b9c|Switch LICENSE to Apache v2.0|Fri, 9 Oct 2015 22:35:20 +0200|Fri, 9 Oct 2015 23:35:23 +0200
+47597331f172e897e0e948589b82dff8777c5298|Add NodeJS styleguide|Mon, 5 Oct 2015 20:07:01 +0200|Mon, 5 Oct 2015 20:07:01 +0200
+8d914647c8381f4eeaedef465225dafd81d82052|Corrected typo|Mon, 5 Oct 2015 20:04:33 +0200|Mon, 5 Oct 2015 20:04:33 +0200
+4c7b046824a6a0db34fdd300fc03cb512fa4fc6f|Merge pull request #13 from drasko/master|Sun, 4 Oct 2015 05:14:16 +0200|Sun, 4 Oct 2015 05:14:16 +0200
+46498c152f64224dae4961baf6cd9f946c5a00f3|LICENSE, CONTRIBUTING and MAINTAINERS files|Sun, 4 Oct 2015 04:22:24 +0200|Sun, 4 Oct 2015 05:10:45 +0200
+427d03fa0a35a882e095d5151470173240596f4c|Update README.md|Fri, 2 Oct 2015 16:18:35 +0200|Sat, 3 Oct 2015 01:56:02 +0200
+1c9c5e66058ec8930ce29d456dbdcdb8b60b17d4|Add Gitter badge|Fri, 2 Oct 2015 14:15:46 +0000|Sat, 3 Oct 2015 01:56:02 +0200
+014d13298a6a679685f5ffdd25f7549e0e7a9c2e|Correct comments|Sat, 26 Sep 2015 02:01:41 +0200|Sat, 3 Oct 2015 01:56:02 +0200
+9d8004ee4cf04ea2554fa8d91923a3824f91f0da|Add device schema mock-up|Wed, 23 Sep 2015 22:45:15 +0200|Sat, 3 Oct 2015 01:56:02 +0200
+a2d57cae38e2c26bc56d2b46eece3e39fb45a803|Added Visual Studio files to .gitignore|Thu, 30 Jul 2015 12:16:29 +0200|Sat, 3 Oct 2015 01:56:02 +0200
+3e5a93efbf51d0507b35b3c8408d7a54db2fe198|Docker file fix|Tue, 28 Jul 2015 01:10:32 +0200|Tue, 28 Jul 2015 01:10:32 +0200
+c137bda7c493d5b479a319dc31f88ba73f56e9f3|-- Readme update|Tue, 28 Jul 2015 01:01:00 +0200|Tue, 28 Jul 2015 01:01:00 +0200
+70805a0b2acdcceea7895d5a98afcfd4fc2876b3|-- Hello docker-compose|Tue, 28 Jul 2015 00:50:20 +0200|Tue, 28 Jul 2015 00:50:20 +0200
+8979bb96db900d1b781b520014a3c4c0e839d970|Merge pull request #2 from drasko/master|Mon, 27 Jul 2015 12:50:45 +0200|Mon, 27 Jul 2015 12:50:45 +0200
+fc410bd89fa8091dae1516ff4a0e6493bda7984c|Added Docker file|Sun, 26 Jul 2015 23:39:09 +0200|Sun, 26 Jul 2015 23:39:09 +0200
+c8c61bfe4a508449258b416a935a81899969e6a0|Added config and routes dirs|Sun, 26 Jul 2015 23:37:22 +0200|Sun, 26 Jul 2015 23:37:22 +0200
+ac018a665cc6f1c49b3d92730fc3d5e4d6c872c5|Merge pull request #1 from drasko/master|Tue, 7 Jul 2015 11:50:51 +0200|Tue, 7 Jul 2015 11:50:51 +0200
+17adff355cd0764fe0d1a7fdfa6f1ceb7b11434d|Added gulpfile|Tue, 7 Jul 2015 00:31:31 +0200|Tue, 7 Jul 2015 00:31:31 +0200
+38c08359a98e0057428b345f6cde75579c39a5c7|Added MIT LICENSE.md file|Mon, 6 Jul 2015 23:51:10 +0200|Mon, 6 Jul 2015 23:51:10 +0200
+12fc1e4bcce86c177979a7a3d6573b8cf6ba6cf9|Added README.md file|Mon, 6 Jul 2015 23:43:19 +0200|Mon, 6 Jul 2015 23:43:19 +0200
+5711803c8d15455dbee92f50d4f3aad2ff68d27c|Added more stuff to .gitignore|Mon, 6 Jul 2015 23:33:01 +0200|Mon, 6 Jul 2015 23:33:01 +0200
+7d5b901dc93a561c5144989b60e0db3af4ae39d7|Initial commit|Mon, 6 Jul 2015 22:32:02 +0200|Mon, 6 Jul 2015 22:32:02 +0200

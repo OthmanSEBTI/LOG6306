@@ -1,0 +1,619 @@
+bfe930e1038e9e0d6c4bb327474766e85b2190cb|add create_project_dir command|Mon, 21 Aug 2017 12:00:41 -0400|Mon, 21 Aug 2017 12:00:41 -0400
+bdc24487e9f1721bc0f7165d74af15fee02b6b74|add repo link to docs|Fri, 18 Aug 2017 15:20:54 -0400|Fri, 18 Aug 2017 15:20:54 -0400
+4635352d6b370cf55b4cdb9b0212dc9e7d1544ce|add docs link|Fri, 18 Aug 2017 15:19:11 -0400|Fri, 18 Aug 2017 15:19:11 -0400
+422554235295c334595ae7f54b5c9cf2e8bdccd5|change github link|Fri, 18 Aug 2017 15:17:36 -0400|Fri, 18 Aug 2017 15:17:36 -0400
+0ce0ba50ae1c624378b773d5f8e210cd71fca0a0|updating docs|Fri, 18 Aug 2017 15:14:22 -0400|Fri, 18 Aug 2017 15:14:22 -0400
+100c46abb9a9cef672c4a29a1746d507e6e0bf24|trimming down docs|Fri, 18 Aug 2017 14:44:18 -0400|Fri, 18 Aug 2017 14:44:18 -0400
+eec7f7a07cbdacee533a8bbe8773464bf994c057|adding github links|Fri, 18 Aug 2017 13:14:07 -0400|Fri, 18 Aug 2017 13:14:07 -0400
+591c2cbd1c184d1908d13b5bb5ebef02cab3d4ad|really added .nojekyll?|Fri, 18 Aug 2017 12:17:52 -0400|Fri, 18 Aug 2017 12:17:52 -0400
+c16cbc542eb9aaf51c159fa33db2a08e0a197d1d|added .nojekyll|Fri, 18 Aug 2017 12:16:56 -0400|Fri, 18 Aug 2017 12:16:56 -0400
+10459adcd31c0ffa96aa9d8e63e73edc0b4168a3|changing docs structure for gh pages|Fri, 18 Aug 2017 12:14:30 -0400|Fri, 18 Aug 2017 12:14:30 -0400
+4220c5f1edee9653fb2cfda2612d5e1b0458f504|move nojekyll|Fri, 18 Aug 2017 12:04:00 -0400|Fri, 18 Aug 2017 12:04:00 -0400
+9ff544818fa43e1b5c0b0469e3e7a05207f80296|takign out mathjax, adding doc pages|Fri, 18 Aug 2017 11:55:05 -0400|Fri, 18 Aug 2017 11:55:05 -0400
+315e2f7b6c967f9f89b216da9e63db6c4a1e7927|adding requests|Thu, 17 Aug 2017 15:20:43 -0400|Thu, 17 Aug 2017 15:20:43 -0400
+a12345b44ae216dfc0a044f68d66ef5a7a3b02e7|entity db docs|Thu, 17 Aug 2017 14:38:23 -0400|Thu, 17 Aug 2017 14:38:23 -0400
+9ef639aad8ec5bdec7e75abe51e3aa4a0da4bd94|adding lineage docs|Thu, 17 Aug 2017 14:14:19 -0400|Thu, 17 Aug 2017 14:14:19 -0400
+da366a7aeb5f54ed49d82e392ff5858e5d527d93|adding entity db docs|Thu, 17 Aug 2017 13:28:00 -0400|Thu, 17 Aug 2017 13:28:00 -0400
+6d6cfb35010dfbad04b923e61feb2fe3894d4801|more tasks docs|Thu, 17 Aug 2017 10:05:46 -0400|Thu, 17 Aug 2017 10:05:46 -0400
+782fe77e80b1b842df4a024e9e05559e8556c678|skeleton for interpolation/wirings|Thu, 17 Aug 2017 09:47:51 -0400|Thu, 17 Aug 2017 09:47:51 -0400
+9c7255f1f1a65c8091c825381d1a611c79d4a3b7|fleshing out tasks|Wed, 16 Aug 2017 16:47:57 -0400|Wed, 16 Aug 2017 16:47:57 -0400
+6fb233a15cc1f6f1b89834cbe286dc3171676fe1|filling out task docs|Wed, 16 Aug 2017 14:43:21 -0400|Wed, 16 Aug 2017 14:43:21 -0400
+52bb2c3e1e48233b608b4f3565d8f2358f7ce178|task handler api changes, doc updates|Wed, 16 Aug 2017 14:01:10 -0400|Wed, 16 Aug 2017 14:01:10 -0400
+53a153a0a5a6d95972fcdb946017c69aeaaaaabd|filling out flow docs|Wed, 16 Aug 2017 11:37:30 -0400|Wed, 16 Aug 2017 11:37:30 -0400
+a4e1f1c73f1db0ec25216e57143ed243460f4d29|fleshing out flows|Tue, 15 Aug 2017 14:59:02 -0400|Tue, 15 Aug 2017 14:59:02 -0400
+42909d6200ad31a7c2ec855fef9945eddb61b687|start of houston docs|Tue, 15 Aug 2017 14:24:23 -0400|Tue, 15 Aug 2017 14:24:23 -0400
+eeae3750351382d1cbbe4601c5719e63c17b37a3|adding to jobs docs|Tue, 15 Aug 2017 12:15:20 -0400|Tue, 15 Aug 2017 12:15:20 -0400
+7e507843af6bdd6f80dc85937c03da7e9f791450|fleshing out job docs|Tue, 15 Aug 2017 11:45:45 -0400|Tue, 15 Aug 2017 11:45:45 -0400
+882d480d80fc7f32e6e6a1af868da3aacba09109|filling out job docs|Mon, 14 Aug 2017 16:26:52 -0400|Mon, 14 Aug 2017 16:26:52 -0400
+3789b8afa19589bdc47a8719464c42df49aa6e9b|add section on config specs|Mon, 14 Aug 2017 15:57:39 -0400|Mon, 14 Aug 2017 15:57:39 -0400
+71bdeee7d08394901818c670ff6d2c9112688b28|adding build_work_dir_fn param, fleshing out job docs|Mon, 14 Aug 2017 15:07:44 -0400|Mon, 14 Aug 2017 15:07:44 -0400
+5ef3dad64a85285b1b7fdb00a41c009a5d7a0cd6|starting jobs documentation|Mon, 14 Aug 2017 14:09:38 -0400|Mon, 14 Aug 2017 14:09:38 -0400
+d9b14560557b526a0f8c662c482d5bcb3348a5ec|fleshing out docs|Mon, 14 Aug 2017 12:59:03 -0400|Mon, 14 Aug 2017 12:59:03 -0400
+b391800b47ebc210cc663e2bff96625ed2fea85f|fixing up sanity check|Mon, 14 Aug 2017 11:21:47 -0400|Mon, 14 Aug 2017 11:21:47 -0400
+58ca8a3eb2810ccd87dc3473c2f7122f3fd3d25e|take out explicit jobman dependency|Mon, 14 Aug 2017 10:59:38 -0400|Mon, 14 Aug 2017 10:59:38 -0400
+ba7260b7720eea7fa6b49fda9baea795e89c04c8|fleshing out quickstart|Mon, 14 Aug 2017 10:57:02 -0400|Mon, 14 Aug 2017 10:57:02 -0400
+e9d9b83837756f53c491a887dc5a0386af99073d|Merge branch 'adorsk__docs' of ssh://bitbucket.org/adorsk-fas/mission_control into adorsk__docs|Mon, 14 Aug 2017 10:31:50 -0400|Mon, 14 Aug 2017 10:31:50 -0400
+fbe8f289d0624fb4b73ec80472901f42b0dd621b|installation docs|Mon, 14 Aug 2017 09:35:21 -0400|Mon, 14 Aug 2017 09:35:21 -0400
+94961818302cc0108d174a20618600dc2dd72498|merge new docs|Mon, 14 Aug 2017 09:07:24 -0400|Mon, 14 Aug 2017 09:07:24 -0400
+112ff5e855d91c0d15bd5b0138ef7dfc9c766c27|stubbing out index|Mon, 14 Aug 2017 09:00:32 -0400|Mon, 14 Aug 2017 09:00:32 -0400
+ed063a129c7a68d374c0896e20617430d027a2ba|fix archiver path splitting|Mon, 14 Aug 2017 08:12:21 -0400|Mon, 14 Aug 2017 08:12:21 -0400
+4d5e8dc71f3971f5ef42400f6604fc60ea061118|fixups from code migration|Sun, 13 Aug 2017 18:18:21 -0400|Sun, 13 Aug 2017 18:18:21 -0400
+d3fa532a9f79c0cf59420afdecc34025adb8b090|better houston import|Sun, 13 Aug 2017 17:35:14 -0400|Sun, 13 Aug 2017 17:35:14 -0400
+7b3665e18c542b97b547a44247cd808314294f95|fixing namespaces|Sun, 13 Aug 2017 17:22:44 -0400|Sun, 13 Aug 2017 17:22:44 -0400
+3cd4d05eeaf0da8b513813af2d7824d754acdb1a|add test utils, take out obsolete quickstart|Sun, 13 Aug 2017 17:15:44 -0400|Sun, 13 Aug 2017 17:15:44 -0400
+2ba5d269280e5d0a9d759d9f4b581a37f3872a3a|adding commands, selectors, archivers, examples|Sun, 13 Aug 2017 15:21:59 -0400|Sun, 13 Aug 2017 15:28:12 -0400
+3a504c306a8725555ac17bed637e7877ce6f3fb0|bring in ent model, requests model, update helper|Sun, 13 Aug 2017 14:49:13 -0400|Sun, 13 Aug 2017 14:49:17 -0400
+d3c0a906ca82a3e978877d3dadb2bc04e674cddd|pre-merge w/ general ent stuff, requests|Sun, 13 Aug 2017 13:37:52 -0400|Sun, 13 Aug 2017 13:37:52 -0400
+208585d15048013bb5a574cc8fb80c7bc823f289|adding db commands|Sun, 13 Aug 2017 11:45:57 -0400|Sun, 13 Aug 2017 11:45:57 -0400
+a218677c801ea2fdd84cb6bf262d1c9f03bcd827|get_items => query_items|Sun, 13 Aug 2017 11:05:20 -0400|Sun, 13 Aug 2017 11:05:20 -0400
+369da545ea2bb093ecc35d8026127e55cccd1721|jobman api change|Sun, 13 Aug 2017 11:02:15 -0400|Sun, 13 Aug 2017 11:02:15 -0400
+d35790c55569fdd7bf5948df87244e1d5fd1cd1c|partway through jobs refactor|Fri, 11 Aug 2017 16:53:52 -0400|Fri, 11 Aug 2017 16:53:52 -0400
+bcf0398a5f03be62b33d7ec0a32cdff1ec60161d|move artifact processors into utils|Fri, 11 Aug 2017 14:40:19 -0400|Fri, 11 Aug 2017 14:40:19 -0400
+fc240841d931166fc1974805962e622286050305|simplifying db, pep8 fixups, jobman api changes|Fri, 11 Aug 2017 14:30:34 -0400|Fri, 11 Aug 2017 14:30:34 -0400
+2c97258e58a3c018994bf43d7d9ed369f2e12cdf|db refactor|Fri, 11 Aug 2017 13:55:22 -0400|Fri, 11 Aug 2017 13:55:22 -0400
+7ce828841b8ee57b564ca7efa4a9f494bbf3a6e0|partway through db reactor, adding query builder|Fri, 11 Aug 2017 12:02:24 -0400|Fri, 11 Aug 2017 12:02:24 -0400
+f5c7e292a79d5c006e525eda0c7aa5acd5238403|small refactor tweaks|Fri, 11 Aug 2017 09:12:25 -0400|Fri, 11 Aug 2017 09:12:25 -0400
+e9939bf0dcf9e76f49284d6363bdec2797144e41|commands refactor|Tue, 18 Jul 2017 13:38:25 -0400|Tue, 18 Jul 2017 13:38:25 -0400
+599faebd71aea1aaab09a764dfa82d5d4a8bbee2|take out unused noop_ctx|Tue, 18 Jul 2017 12:13:05 -0400|Tue, 18 Jul 2017 12:13:05 -0400
+38872a560345072af281b1d6af08744f1cb020b1|make houston_cfg generic|Tue, 18 Jul 2017 12:11:03 -0400|Tue, 18 Jul 2017 12:11:03 -0400
+f86d84f2b89b32ae62fb90a998d65e70df5fe48d|add ensure queues subcommand|Tue, 18 Jul 2017 12:08:02 -0400|Tue, 18 Jul 2017 12:08:02 -0400
+1144634a11c44e378b4e2a9ff64fcfdc23ee906e|add init to mc.utils.commands|Mon, 17 Jul 2017 11:19:47 -0400|Mon, 17 Jul 2017 11:19:47 -0400
+6fde87c0fe670abadfb0ebb076ab47b787cd57d9|fixing up subcommands|Fri, 14 Jul 2017 14:54:33 -0400|Fri, 14 Jul 2017 14:54:33 -0400
+6326e73ff7fc4455a024fdb2d8160f1c71d16d2e|add ensure_db command, fix up cfg loading in command|Fri, 14 Jul 2017 12:52:09 -0400|Fri, 14 Jul 2017 12:52:09 -0400
+f8a78a7c3ee3fb3117f0828db91afe24d9b77662|skipping test for now|Fri, 14 Jul 2017 11:29:00 -0400|Fri, 14 Jul 2017 11:29:00 -0400
+5537a6ee684b83aa178b24242f97fea8c907dd29|adding houston tick functions|Fri, 14 Jul 2017 11:27:42 -0400|Fri, 14 Jul 2017 11:27:42 -0400
+6ef4f74c32f8ae13824d98100b750dd6fd36f7b2|add flow_runner ticking|Fri, 14 Jul 2017 11:11:42 -0400|Fri, 14 Jul 2017 11:11:42 -0400
+cbe71efcb7eb7a94eab8a502f794af5242abe031|partway through houston tick|Fri, 14 Jul 2017 10:44:37 -0400|Fri, 14 Jul 2017 10:44:37 -0400
+e584b4372f4a8908d3e1e091efb0ff3a0c14abe0|adding tick options|Fri, 14 Jul 2017 07:44:24 -0400|Fri, 14 Jul 2017 07:44:24 -0400
+6509ce6e8c5a0d52ecd193cb884901c138e8dd8e|adding info command logic|Fri, 14 Jul 2017 06:58:52 -0400|Fri, 14 Jul 2017 06:58:52 -0400
+72c80e68d326f3a97b0c952b028d68477fdae7e8|change item types to lowercase|Fri, 14 Jul 2017 06:36:30 -0400|Fri, 14 Jul 2017 06:36:30 -0400
+31197e76d384643be6a1cbc649d34d4186927e9b|add key prefix|Fri, 14 Jul 2017 06:22:43 -0400|Fri, 14 Jul 2017 06:22:43 -0400
+b1e206fae30c435165bae939776e44c4b7738734|start of info|Thu, 13 Jul 2017 23:48:42 -0400|Thu, 13 Jul 2017 23:48:42 -0400
+e4a15521b9ce4b12cc9d401c0f4dd5383197b082|separating houston into api and command parts|Thu, 13 Jul 2017 22:18:18 -0400|Thu, 13 Jul 2017 22:18:18 -0400
+145cc7b3df5a1f919056f511e0d38eccf6711540|adding utils for reading jobdir metas|Thu, 13 Jul 2017 21:06:23 -0400|Thu, 13 Jul 2017 21:06:23 -0400
+22545872120a064a682676f53563d270f3960dac|fixing up examples|Thu, 13 Jul 2017 11:17:27 -0400|Thu, 13 Jul 2017 11:17:27 -0400
+bf5309085153cb7f292f4e55e78cb7a291e3b0f0|fixups for api changes|Thu, 13 Jul 2017 11:12:22 -0400|Thu, 13 Jul 2017 11:12:22 -0400
+139a9e364a902fc1761807811bdadbb993b17297|take out obsolete cfgs|Thu, 13 Jul 2017 08:30:30 -0400|Thu, 13 Jul 2017 08:30:30 -0400
+99f10526d21604ff3667d7f1a0a4180e75368eb3|tweaks to get quickstart working|Wed, 12 Jul 2017 17:20:48 -0400|Wed, 12 Jul 2017 17:20:48 -0400
+ed31b3acb1b14cedb38aefe0447ad3994f1a2386|cleaning up job_module utils|Wed, 12 Jul 2017 10:47:05 -0400|Wed, 12 Jul 2017 10:47:05 -0400
+7fd28e154166001085cc4db9f05e5d4f61b174fb|partway through quickstart fixups|Tue, 11 Jul 2017 16:43:39 -0400|Tue, 11 Jul 2017 16:43:39 -0400
+a962d39f2b2ddaf6550dc0f203357cd0f9bcc684|add default value for json columns|Tue, 11 Jul 2017 16:33:32 -0400|Tue, 11 Jul 2017 16:33:32 -0400
+5da332183870105f76471a5ddd3290094dedd454|update job runner to use jobman source_tag, purgeable fields|Tue, 11 Jul 2017 15:54:44 -0400|Tue, 11 Jul 2017 15:54:44 -0400
+ffd5fc8accdf055aaa139d6e2535f2e69853607c|tweaks to get tick working|Tue, 11 Jul 2017 15:12:24 -0400|Tue, 11 Jul 2017 15:12:24 -0400
+ce49c7aa3758b6e146282d1c832599f469f2b928|fleshing out utils + tests|Tue, 11 Jul 2017 13:04:10 -0400|Tue, 11 Jul 2017 13:04:10 -0400
+603293d8c77a5158bd4befef099b0cd3df6e43af|fleshing out tick, starting subcommand utils|Tue, 11 Jul 2017 11:27:32 -0400|Tue, 11 Jul 2017 11:27:32 -0400
+d5db6292befadcdb9bc61ef29003d86c106474a0|flesh out subcommands registry|Tue, 11 Jul 2017 10:39:18 -0400|Tue, 11 Jul 2017 10:39:18 -0400
+826b98184aea5af5a85880feeee1106ea5c43f2b|breaking down houston|Tue, 11 Jul 2017 10:01:44 -0400|Tue, 11 Jul 2017 10:01:44 -0400
+39dc89fa6cae6701c71937e9cc0ad57cc7bfbbc0|partway through refactor...|Sun, 9 Jul 2017 14:38:06 -0400|Sun, 9 Jul 2017 14:38:06 -0400
+42591804e0e2066d5413a144adcbaa84c232dc4c|partway through flattening job_spec refactor, flattening parent_keys|Sun, 9 Jul 2017 09:15:10 -0400|Sun, 9 Jul 2017 09:15:10 -0400
+4582805cdef69d8cff45315323ea34627644131e|partway through job_engine => job_module_utils cleanup, still more to go|Sat, 8 Jul 2017 23:36:12 -0400|Sat, 8 Jul 2017 23:36:12 -0400
+7e581c521c64140e249721072fc99a1c53abe8ad|consolidating cfgs for quickstart|Wed, 5 Jul 2017 17:10:47 -0400|Wed, 5 Jul 2017 17:10:47 -0400
+98f9e192c0d9628ac133d424b9f3acd56d92e712|breaking up job_engine, changing quickstart to use job_submission_runner cfg|Wed, 5 Jul 2017 16:49:40 -0400|Wed, 5 Jul 2017 16:49:40 -0400
+b0a49f254e017683dcd267c384f37081a0009fe1|pre breaking apart of job_engine|Wed, 5 Jul 2017 13:57:30 -0400|Wed, 5 Jul 2017 13:57:30 -0400
+0d4c2a6aa2d7d17580b7f621551969077e76f316|pre run_job_submission wrapper|Wed, 5 Jul 2017 10:25:43 -0400|Wed, 5 Jul 2017 10:25:43 -0400
+144fee51bb65899369faec9c92af3de51ba2a422|add example task|Mon, 3 Jul 2017 14:50:25 -0400|Mon, 3 Jul 2017 14:50:25 -0400
+3179efcfa4281997786b06a908d406f775542a8f|add run_until_logic subcommand to quickstart.houston|Mon, 3 Jul 2017 14:26:29 -0400|Mon, 3 Jul 2017 14:26:29 -0400
+0c717fe6dd42ad6ae55bac016ad7be3df45d43e4|Merge branch 'master' into adorsk__quickstart|Mon, 3 Jul 2017 13:42:37 -0400|Mon, 3 Jul 2017 13:42:37 -0400
+d8d7944aa74146237abcf92c0c0060a40391e20d|fix dependency location|Mon, 3 Jul 2017 11:37:23 -0400|Mon, 3 Jul 2017 11:37:23 -0400
+ff81852faece29f3e962651098462879b2004838|move readme to rst|Mon, 3 Jul 2017 11:32:00 -0400|Mon, 3 Jul 2017 11:32:00 -0400
+be8771a620d28139354cba5070ed223a3e7d0d42|add jobman job runner|Mon, 3 Jul 2017 11:17:40 -0400|Mon, 3 Jul 2017 11:17:40 -0400
+360f9aabfc923f53bbd5b044afd1cc65cc33cd9b|fleshing out quickstart|Mon, 3 Jul 2017 11:04:44 -0400|Mon, 3 Jul 2017 11:04:44 -0400
+30b2a337f08158f8f1f2ba55668079c591d5f91d|starting quickstart 'houston' command|Fri, 30 Jun 2017 16:12:58 -0400|Fri, 30 Jun 2017 16:12:58 -0400
+809a768ef81e4a7bf2b6ebef32120dfbdda26c21|add base command, version|Fri, 30 Jun 2017 14:01:03 -0400|Fri, 30 Jun 2017 14:01:03 -0400
+a3023744fac3a8d0cfc0aeebd8717cd4694aea81|add note to implementing task doc|Fri, 30 Jun 2017 13:22:01 -0400|Fri, 30 Jun 2017 13:22:01 -0400
+18619e57357d87b13c509523cea81d1a3856c14c|fleshing out docs|Fri, 30 Jun 2017 10:23:55 -0400|Fri, 30 Jun 2017 10:23:55 -0400
+dc1545c9929e7f222299d531fa4ed83ac7f7e230|start of user guide|Fri, 30 Jun 2017 09:01:02 -0400|Fri, 30 Jun 2017 09:01:02 -0400
+f4c31f0cd29579e4f7081095ad28326281b2cad6|fix indentation|Fri, 30 Jun 2017 09:00:16 -0400|Fri, 30 Jun 2017 09:00:16 -0400
+de6a5bc163a8490f014c95d2c5c4eba2ac395563|add spread task|Thu, 29 Jun 2017 17:49:52 -0400|Thu, 29 Jun 2017 17:49:52 -0400
+8cc126727691b1d9269a35866086b721e0c56d87|License name change|Thu, 29 Jun 2017 16:59:49 -0400|Thu, 29 Jun 2017 16:59:49 -0400
+9480b4b99ac35a9ed698ea3fdf20cbdfe814ae0c|fix up examples|Thu, 29 Jun 2017 14:02:07 -0400|Thu, 29 Jun 2017 14:02:07 -0400
+00dfd6d778edb9429da9d12eba29c22c603d5ec2|fleshing out docs|Thu, 29 Jun 2017 13:41:28 -0400|Thu, 29 Jun 2017 13:41:28 -0400
+98acf000abac68f1d6e0530df2630f0b7fb7c247|doc utils|Thu, 29 Jun 2017 12:37:43 -0400|Thu, 29 Jun 2017 12:37:43 -0400
+a508d53d0e967235483eda8151cefd56d4103fa1|document task handlers, add validators|Thu, 29 Jun 2017 12:21:33 -0400|Thu, 29 Jun 2017 12:21:33 -0400
+faf380131f4849857d59ce1f8beae987c32ac992|documenting flow runners|Thu, 29 Jun 2017 09:32:44 -0400|Thu, 29 Jun 2017 09:32:44 -0400
+9cc2d903619431b24ff7d9adcd43ce4f66280080|add orm doc note|Thu, 29 Jun 2017 09:25:05 -0400|Thu, 29 Jun 2017 09:25:05 -0400
+87350b2a07838e0c0e5d0691078e454f998859de|document job_engines|Thu, 29 Jun 2017 09:21:58 -0400|Thu, 29 Jun 2017 09:21:58 -0400
+21437c2393bf3222ae1787f2c7cb7cf90ee43f13|add docs|Thu, 29 Jun 2017 08:32:30 -0400|Thu, 29 Jun 2017 08:32:30 -0400
+1c83bf03bc4801f1bed0f464708f421b2d9e7f37|refactoring daos, adding doc strings|Wed, 28 Jun 2017 16:34:20 -0400|Wed, 28 Jun 2017 16:34:20 -0400
+be0c16ce0c68db32726fcb15e7677d7eb0757d0e|start of docs|Tue, 27 Jun 2017 16:53:45 -0400|Tue, 27 Jun 2017 16:53:45 -0400
+ef778376a23acbd192cb6d48619067401ea8d02d|add doc strings|Tue, 27 Jun 2017 15:40:31 -0400|Tue, 27 Jun 2017 15:40:31 -0400
+dfeeb91e4198e33cf344b3e8789b9f2619690c34|fix tests|Mon, 26 Jun 2017 00:27:29 -0400|Mon, 26 Jun 2017 00:27:29 -0400
+c40a921b8acd3bed7d96398adf5e14b1298b0aef|tweaks for examples, adding debug utils|Sun, 25 Jun 2017 16:37:41 -0400|Sun, 25 Jun 2017 16:37:41 -0400
+7f94ce1fa00fa2e1f258ae0bc2bfd423f0a3b3f7|from_flow_spec logic into flow|Sat, 24 Jun 2017 18:46:34 -0400|Sat, 24 Jun 2017 18:46:34 -0400
+6624f7fabc2bdbff1cf730f3d8a1ea577ff60339|rename flow engines, add default connections for adding tasks to flow object|Sat, 24 Jun 2017 18:14:20 -0400|Sat, 24 Jun 2017 18:14:20 -0400
+609ccf0c9a7f935de2264860cebc7a4861fbe421|add module stub for submission builders|Sat, 24 Jun 2017 13:36:38 -0400|Sat, 24 Jun 2017 13:36:38 -0400
+c3869781794b9bed747c2d3a3232dca5f2d0de5f|rename readmes|Sat, 24 Jun 2017 12:59:12 -0400|Sat, 24 Jun 2017 12:59:12 -0400
+a1264ce6af509dc8619d68f0f7869b6d595928a8|change setup.py info|Sat, 24 Jun 2017 10:46:34 -0400|Sat, 24 Jun 2017 10:46:34 -0400
+bcda5f197796e6c136f9faaf3bfdf55821efc029|molto test fixups, refactors to use sandbox|Fri, 23 Jun 2017 23:56:21 -0400|Fri, 23 Jun 2017 23:56:21 -0400
+5c3918c413ecf0fd91b072eb2ddf42ba8ea5b1c6|pre test-fixups, post locks refactor|Fri, 23 Jun 2017 16:28:02 -0400|Fri, 23 Jun 2017 16:28:02 -0400
+605eb0025f5563ad954b1b36b97f6aaf9b593842|before flow dict refactor|Fri, 23 Jun 2017 14:31:49 -0400|Fri, 23 Jun 2017 14:31:49 -0400
+062c0e1f36fb53ccad83abf196b24fd2c8122a8e|add parent key to job|Fri, 23 Jun 2017 09:57:11 -0400|Fri, 23 Jun 2017 09:57:11 -0400
+249c6862c416ef40f4513f7902e03de95a0c189b|add create_lock fn|Fri, 23 Jun 2017 09:45:01 -0400|Fri, 23 Jun 2017 09:45:01 -0400
+f8bfc89c5fc4ff5cce1a627020fcb1f93a145f6e|pluralize locker_keys arg for release locks|Fri, 23 Jun 2017 09:33:08 -0400|Fri, 23 Jun 2017 09:33:08 -0400
+5669f49f55799a4b0bb49c4d8a6687437d76b026|adding flow key, better checking for lock fns|Fri, 23 Jun 2017 09:25:12 -0400|Fri, 23 Jun 2017 09:25:12 -0400
+87e8be95d7403ab93b83817659b1c98d1ace966b|adding lock logic to flows|Fri, 23 Jun 2017 08:37:04 -0400|Fri, 23 Jun 2017 08:37:04 -0400
+7655613038672a272751894de6acbad9c392c81c|fix up tests|Thu, 22 Jun 2017 16:13:03 -0400|Thu, 22 Jun 2017 16:13:03 -0400
+59286f82bdc599e9a9beff548adc89a4120035ab|better handling for dict mapping views|Wed, 21 Jun 2017 10:42:11 -0400|Wed, 21 Jun 2017 10:42:11 -0400
+439a92a4d7f4f81b7130b1bfc892bec75939d229|add logic for callables, dictviews, and tests for dot_spec_loader|Wed, 21 Jun 2017 10:01:30 -0400|Wed, 21 Jun 2017 10:01:30 -0400
+2930fc42c04bac90941140189f24d37f0c5298b8|stubbing out example test for switch task|Tue, 20 Jun 2017 15:28:30 -0400|Tue, 20 Jun 2017 15:28:35 -0400
+e384f9782deaeacf10c9980aee0be86d7bc20180|fixup switch task|Tue, 20 Jun 2017 15:27:49 -0400|Tue, 20 Jun 2017 15:27:49 -0400
+232280d9dce2a9239ee01d9de86cbe21cd95e579|add switch task handler|Tue, 20 Jun 2017 14:46:23 -0400|Tue, 20 Jun 2017 14:46:23 -0400
+aa05ba029ba96a27750bc37fb17c8c5188149ad2|better proxied task handling|Tue, 20 Jun 2017 13:53:11 -0400|Tue, 20 Jun 2017 13:53:11 -0400
+89886f4fab9825689dd4751af935022a8896b79d|take out extensions, add setup.py|Mon, 19 Jun 2017 13:28:31 -0400|Mon, 19 Jun 2017 13:28:31 -0400
+c2a419da26894fd7586dff90d092b32900edf2b7|interpolation fixups|Fri, 16 Jun 2017 18:51:37 -0400|Fri, 16 Jun 2017 18:52:39 -0400
+5d1de9cf4d73404600a2bbfe9c7c03f6b3150235|add task interpolation|Fri, 16 Jun 2017 15:25:22 -0400|Fri, 16 Jun 2017 15:25:22 -0400
+563d0c7c5bd780a52f2fb3612ae004511dda3f4e|add default precursor behavior|Fri, 16 Jun 2017 10:25:57 -0400|Fri, 16 Jun 2017 10:25:57 -0400
+d9804468507233cd579c2adbe84f6e731f29164d|flow task tweaks|Thu, 15 Jun 2017 17:02:25 -0400|Thu, 15 Jun 2017 17:02:25 -0400
+ca7a49bcfbd6cf81c89adafb35b10a9dc2b8e0c4|adding inline, external flow task handlers|Thu, 15 Jun 2017 16:10:53 -0400|Thu, 15 Jun 2017 16:10:53 -0400
+6aaacdae2dcef1e98cce8413395b431326689a68|changing api for task handlers, to be initialied w/ task_ctx, consolidating task into task_ctx|Thu, 15 Jun 2017 14:47:34 -0400|Thu, 15 Jun 2017 14:47:34 -0400
+8d7cfb5ffcf571dc35647eddbf47b000d3ef2f9b|add proxying task handling, example|Thu, 15 Jun 2017 08:39:35 -0400|Thu, 15 Jun 2017 08:39:35 -0400
+2a7d2cd54ca20d4ce7a72d0ad1f37950f3771621|add tick_until_no_pending to engine, fixing flow task handler to tick flow|Thu, 15 Jun 2017 08:06:42 -0400|Thu, 15 Jun 2017 08:06:42 -0400
+4c2b3f7abcecdbb76ccc20f3529f206c2aed7579|better iterator handling for mapping wiring|Wed, 14 Jun 2017 11:33:59 -0400|Wed, 14 Jun 2017 11:33:59 -0400
+e2184fae8c0be8c6a9bd0d37f2e124f9d5d6713b|add shorthand for value spec for wiring|Wed, 14 Jun 2017 10:11:45 -0400|Wed, 14 Jun 2017 10:11:45 -0400
+69c6bb2697da1f83870fcb1552788a6e7daf5473|reduce nesting in flow api, task_specs => tasks|Wed, 14 Jun 2017 09:42:31 -0400|Wed, 14 Jun 2017 09:42:31 -0400
+f68568d75ad3133d56191992cf169c24c2013c66|change mapping api|Wed, 14 Jun 2017 09:19:29 -0400|Wed, 14 Jun 2017 09:19:29 -0400
+795598c7d7c03e16bc544aea1a88d06f6d5342cb|add inline flow task|Tue, 13 Jun 2017 13:01:32 -0400|Tue, 13 Jun 2017 13:01:32 -0400
+ce483017e7c47cc517ba3cd5331ca4c029fb4e06|move utils, add mapping transform to context value setter|Tue, 13 Jun 2017 11:48:50 -0400|Tue, 13 Jun 2017 11:48:50 -0400
+9720cca89d652a2410d1656d55a98f888602222a|fix submission tests for _dir => dir_ change|Tue, 13 Jun 2017 10:01:07 -0400|Tue, 13 Jun 2017 10:01:07 -0400
+d4a76c53e616c7e9c5147224e53714bac396f115|fixups, taking out fstrings|Tue, 13 Jun 2017 09:08:06 -0400|Tue, 13 Jun 2017 09:08:06 -0400
+7408b40f5f9052d8708bd5c5f3e80dc1f17cd643|better type handling for attr getting|Fri, 9 Jun 2017 08:38:26 -0400|Fri, 9 Jun 2017 08:38:26 -0400
+554739014caa336212edb08eb4c0b4855ab41772|add local, dispatch artifact processors|Wed, 7 Jun 2017 09:14:03 -0400|Wed, 7 Jun 2017 09:14:03 -0400
+0c7c814a398de8ab06d14f321448d81c997a88cf|tweak api for job engine|Wed, 7 Jun 2017 08:58:10 -0400|Wed, 7 Jun 2017 08:58:10 -0400
+c558f6f18336a823092f5b792c8dabad83d2650b|flow api tweaks|Tue, 6 Jun 2017 12:24:37 -0400|Tue, 6 Jun 2017 12:24:37 -0400
+a8bafc3f4b1755508593608239861ed7cc5613d3|add artifact processors|Fri, 2 Jun 2017 16:39:10 -0400|Fri, 2 Jun 2017 16:39:10 -0400
+779e8b32487db6e5788c9bfea24b4ee5b2a0c1a9|add option to load engine cfg from dill file|Fri, 2 Jun 2017 16:37:43 -0400|Fri, 2 Jun 2017 16:37:43 -0400
+f60face030b4158e456d5b8363108d7ba18e60f6|bash builder tweaks|Fri, 2 Jun 2017 16:37:31 -0400|Fri, 2 Jun 2017 16:37:31 -0400
+14a592fda3f96b02f8d69e31f5c2136f114a9ea0|fixing examples|Fri, 2 Jun 2017 11:06:32 -0400|Fri, 2 Jun 2017 11:06:32 -0400
+3dfce44d2b4a5982879c695bd0f9069ca850346a|fix up sa_dao for new job schema|Fri, 2 Jun 2017 10:57:32 -0400|Fri, 2 Jun 2017 10:57:32 -0400
+a471fcd3bb0e0308892b06dd86a1a753dca79235|moving dj-specific stuff out, taking out a2g2 legacy|Fri, 2 Jun 2017 10:51:34 -0400|Fri, 2 Jun 2017 10:51:34 -0400
+f1562e2080ebcfb04b9c8a914b3126343138e52e|add overrides option to module loader|Thu, 1 Jun 2017 14:37:12 -0400|Thu, 1 Jun 2017 14:37:12 -0400
+fcfcee7b54bf7c104a8547b9e9eb0b412f99a02c|add drop_tables method|Thu, 1 Jun 2017 14:37:00 -0400|Thu, 1 Jun 2017 14:37:00 -0400
+ea61f39c0ac9beaf2cc2cbe0bd7220e59b4e62ea|prefix a2g2 dir (should be moving it out later anyway)|Thu, 1 Jun 2017 13:23:49 -0400|Thu, 1 Jun 2017 13:23:49 -0400
+76ef5f622f8a01417218c2a5d59329e80c6557c2|fleshing out submission_builder example, and slurm_builder|Thu, 25 May 2017 14:04:25 -0400|Thu, 25 May 2017 14:04:25 -0400
+dca479235d7292a05b76c2799ae3d2cff759cba3|add submission_builder example|Thu, 25 May 2017 13:14:46 -0400|Thu, 25 May 2017 13:14:46 -0400
+2cc95bb8dd1df98a0b86a2d21644a95109a1e6de|add external job module example|Thu, 25 May 2017 10:41:06 -0400|Thu, 25 May 2017 10:41:06 -0400
+4dc1101202108575463772e66b22fa8395cfa380|add basic job engine test|Thu, 25 May 2017 10:31:06 -0400|Thu, 25 May 2017 10:31:06 -0400
+3175a6a9acbf5a25ab6b8d13cd70d4ed1ebabba2|adding example for queued jobs|Wed, 24 May 2017 16:49:05 -0400|Wed, 24 May 2017 16:49:05 -0400
+35c2cdc4280e672f9250699cda74b903b6beb6b5|adding basic persistent job example|Wed, 24 May 2017 14:33:00 -0400|Wed, 24 May 2017 14:33:00 -0400
+7b77e752b65b6e1c61f1cac1ea839271e5fa4be8|basic job example|Wed, 24 May 2017 14:06:30 -0400|Wed, 24 May 2017 14:06:30 -0400
+8c79ccd7308aa4da487eb714fb0c09342fe5a180|change flow_ctx => task_context|Wed, 24 May 2017 13:41:38 -0400|Wed, 24 May 2017 13:41:38 -0400
+b7332a0c9ef574ba2d21ed13c22aea800ffbccae|add flow_runner example|Wed, 24 May 2017 11:29:04 -0400|Wed, 24 May 2017 11:29:04 -0400
+abb343b4f9b49978ed5143b40b7196b5d2fcd92c|add tick stats to flow_runner|Wed, 24 May 2017 10:58:17 -0400|Wed, 24 May 2017 10:58:17 -0400
+5ac68348ceebdf73b454623cbe516c97b175cf9c|take out flow_client coupling in flow_runner, change patch => patch_and_release|Wed, 24 May 2017 10:17:50 -0400|Wed, 24 May 2017 10:17:50 -0400
+306251d728330b60af1c271fdbf864e9a53a4250|move a2g2_runner into mc, consolidate w/ base_flow_runner|Wed, 24 May 2017 10:12:44 -0400|Wed, 24 May 2017 10:12:44 -0400
+6a247b0f233909072b877fa8d1f7d791c0afdec7|add basic queued flows example|Wed, 24 May 2017 09:30:44 -0400|Wed, 24 May 2017 09:30:44 -0400
+f2ad0c9303035c1762aa0d435cd960b6e1637da1|add persistent flows example|Tue, 23 May 2017 15:44:53 -0400|Tue, 23 May 2017 15:44:53 -0400
+3a6f86c04e9ee95be823fd9499be22962dd3c947|take out mc_client, replace w/ just daos|Tue, 23 May 2017 15:23:05 -0400|Tue, 23 May 2017 15:23:05 -0400
+8a6717c3c3daebf2cffe06c3bb94a933543f93c3|syncing daos|Tue, 23 May 2017 15:05:12 -0400|Tue, 23 May 2017 15:05:12 -0400
+5746357bce82e224ff59113bfbbfc360ddad0d05|pre-marshmallow|Tue, 23 May 2017 13:29:50 -0400|Tue, 23 May 2017 13:29:50 -0400
+5d689adb8cc3574a5cf6ba5c2eeaeb155029d069|change uuid => key|Mon, 22 May 2017 16:51:04 -0400|Mon, 22 May 2017 16:51:04 -0400
+3c048b959e059e4195e9c77ec098252df0c5bea3|partway through sa_dao refactor|Mon, 22 May 2017 16:46:48 -0400|Mon, 22 May 2017 16:46:48 -0400
+8d466c00ef4ee823e7a2bdf7d3069ab9718827f1|making generic/model serializers|Mon, 22 May 2017 14:43:09 -0400|Mon, 22 May 2017 14:43:09 -0400
+3411760343a781a48746c96b10944087220322fc|moving queue_utils logic into dao|Mon, 22 May 2017 13:43:08 -0400|Mon, 22 May 2017 13:43:08 -0400
+52f9534482430874a1aff8ded00765166e8669bb|add 'using' tests to dj dao, take out ctx stuff|Mon, 22 May 2017 10:19:32 -0400|Mon, 22 May 2017 10:19:32 -0400
+44e9c756e890825879a4181a4193d5224aef9aca|changing queue_utils to use dao|Mon, 22 May 2017 09:45:16 -0400|Mon, 22 May 2017 09:45:16 -0400
+81dac418389752f853a353e1e3b0dfe164820243|explicit models|Fri, 19 May 2017 15:13:27 -0400|Fri, 19 May 2017 15:13:27 -0400
+aed2ff90330b576ead399b95616d9d7f54a3ecb7|failed attempt to do programmatic mapping from sa => dj model, too much magic|Fri, 19 May 2017 14:39:51 -0400|Fri, 19 May 2017 14:39:51 -0400
+81460423063168a8584a022f8ff73952c0b6944b|before changing to sa+dj orm|Fri, 19 May 2017 12:06:39 -0400|Fri, 19 May 2017 12:06:39 -0400
+5df4dc26154b4529b89b86734acde7b1bf0fc04f|partway through dj dao|Fri, 19 May 2017 10:27:34 -0400|Fri, 19 May 2017 10:27:34 -0400
+095a2ff243c3faed1de06e0726ed5cae8c039990|fixing up missions dj app config|Thu, 18 May 2017 14:26:02 -0400|Thu, 18 May 2017 14:26:02 -0400
+c6e42ad53b96d9bd5777c4b499884856dea18040|add custom task example|Thu, 18 May 2017 13:20:50 -0400|Thu, 18 May 2017 13:20:50 -0400
+6d50855bdb31655a33d141ae221cd00371f0b7bf|rename example dirs|Thu, 18 May 2017 12:58:57 -0400|Thu, 18 May 2017 12:58:57 -0400
+fd56a1809a408ba26e0f3138e0d4b353a8e64dae|add example_1, renaming set_value_task to wire_task|Thu, 18 May 2017 12:57:49 -0400|Thu, 18 May 2017 12:57:49 -0400
+6d940ed94515bafaeab2bd6e7834ebecd2943f5d|add example_0, tweak flow api|Thu, 18 May 2017 12:33:26 -0400|Thu, 18 May 2017 12:33:26 -0400
+586b5c9da860d32ea91733ba12bbd27d8cb9db91|std_log api tweaks|Thu, 18 May 2017 11:47:23 -0400|Thu, 18 May 2017 11:47:23 -0400
+95abc18459a69c645aea1068a87af132aa473739|splitting out artifact processors|Tue, 16 May 2017 14:45:49 -0400|Tue, 16 May 2017 14:45:49 -0400
+353893a7ee2fa2a28f31f8b04aabbd025d507b42|decoupling runner from artifact processors|Tue, 16 May 2017 14:37:29 -0400|Tue, 16 May 2017 14:37:29 -0400
+5f914da206814879cfeea60ecbd0d2dd515703ab|pulling out artifacts, simplifying apis for submission_builders|Tue, 16 May 2017 13:32:07 -0400|Tue, 16 May 2017 13:32:07 -0400
+c94364daa872a2b06ce30c4a081b765102f2403d|adding submission builders|Tue, 16 May 2017 09:53:02 -0400|Tue, 16 May 2017 09:53:02 -0400
+4fc78aed8404f18f7172c891932b64b8646c3a39|fix tests for e2e fixups, moving of log file reading into job_runner|Fri, 12 May 2017 13:57:18 -0400|Fri, 12 May 2017 13:57:18 -0400
+ac4ffea2fa70162e6551c87b7458769bd7f2479c|tweak submission call|Fri, 12 May 2017 11:21:53 -0400|Fri, 12 May 2017 11:21:53 -0400
+247175d3c2296e684f1f08b271f0d0edf4481ee0|moving a2g2 out of mc|Fri, 12 May 2017 11:16:19 -0400|Fri, 12 May 2017 11:16:19 -0400
+07cdda24b8455d24a3dd98e947a8f5d2ff6aa4d0|taking out obsolete e2e app|Fri, 12 May 2017 11:12:13 -0400|Fri, 12 May 2017 11:12:13 -0400
+517119c587d604801d1b83ef4d4247e977aa6d4f|generalizing and refactoring job_engine + cli|Fri, 12 May 2017 11:11:58 -0400|Fri, 12 May 2017 11:11:58 -0400
+9a83702a1874bb6ed71c5cfdac2f956023ac98bf|changing flows to use one level of tasks instead of nodes, removing obsolete parts of code|Thu, 11 May 2017 16:22:30 -0400|Thu, 11 May 2017 16:36:01 -0400
+47cafdaa87807a6018fa72512abcd41d23f585dd|better job serialziation handling|Thu, 11 May 2017 11:28:30 -0400|Thu, 11 May 2017 11:28:30 -0400
+1a0f1ec16a8416356a3a3ff527b23a7cd835a127|api tweaks for local e2e tests|Thu, 11 May 2017 10:34:53 -0400|Thu, 11 May 2017 10:34:53 -0400
+cb2acbbb7070782340895499537233738840b75f|adding dj_dao, refactoring queue_utils to avoid having to load serializers, models at import|Wed, 10 May 2017 14:44:28 -0400|Wed, 10 May 2017 14:44:28 -0400
+08bf98ffce55e52130845de73344e07716e5abc7|breaking up mc_client into client + dao|Wed, 10 May 2017 12:03:48 -0400|Wed, 10 May 2017 12:03:48 -0400
+6744dce13d99e68757ce2902b83cb035cb5bdf79|cleaning up missions models|Tue, 9 May 2017 09:01:10 -0400|Tue, 9 May 2017 09:01:10 -0400
+87190f191eca28fb2d3f43a019f1c9cd4c7e7190|updates for jobman/flow runners|Mon, 8 May 2017 16:08:38 -0400|Mon, 8 May 2017 16:08:38 -0400
+5139cb5abf463ad97aa3c9f8ae2bb2b3af276ed8|simplifying base job runner|Thu, 4 May 2017 15:20:07 -0400|Thu, 4 May 2017 15:20:07 -0400
+d9875a075d679707a0f4e6b23324aa8c7af5fed4|fixing settings to get dj_filter templates, constraining errors from json_raise|Wed, 3 May 2017 14:52:47 -0400|Wed, 3 May 2017 14:52:47 -0400
+2d90f7bf0aae2c9de93d36747a0a7828469348ca|add in flow queue|Tue, 25 Apr 2017 17:13:55 -0400|Tue, 25 Apr 2017 17:13:55 -0400
+40cc7f4bfcea8833d9d6f0673718b09abf7b0279|changing job runner to pull from job queue|Tue, 25 Apr 2017 16:28:26 -0400|Tue, 25 Apr 2017 16:28:26 -0400
+eb6104c61b9354e9be57b4385b0a9d52cb618de9|changet get_queue_items to claim_queue_items|Tue, 25 Apr 2017 14:00:08 -0400|Tue, 25 Apr 2017 14:00:08 -0400
+f3a8a8207912bf10b70a2eb77c3c33bf60ae7e97|add create_queue, get_queue_items to client, and json field handling to queeu serializer|Tue, 25 Apr 2017 11:14:34 -0400|Tue, 25 Apr 2017 11:14:34 -0400
+8464cfb6bbbdd81b230176aeaecdcc63f532b224|add client method for getting queue items|Tue, 25 Apr 2017 11:02:56 -0400|Tue, 25 Apr 2017 11:02:56 -0400
+952a50ca9dce3442c3dd1a8fdded1b8fe2e5ca96|fixing pip install for mc_shell docker|Tue, 25 Apr 2017 10:44:48 -0400|Tue, 25 Apr 2017 10:44:48 -0400
+75fbf588cc5903c1b09cfe80cc41fa6204cea9cd|basic endpoint for queue items|Tue, 25 Apr 2017 10:44:32 -0400|Tue, 25 Apr 2017 10:44:32 -0400
+2a1a8541de992eca7b21988d6523deade6a84bc0|partway through queue_spec processor|Mon, 24 Apr 2017 16:38:54 -0400|Mon, 24 Apr 2017 16:38:54 -0400
+25a3f96d1d84c523a1d1586f1145b6df511a7850|add start of queue model|Mon, 24 Apr 2017 15:54:46 -0400|Mon, 24 Apr 2017 16:01:23 -0400
+ee0437159d04a9c4f0f5156d8a98dbc34959fa16|fixing up tests|Mon, 24 Apr 2017 15:20:47 -0400|Mon, 24 Apr 2017 15:20:47 -0400
+d2f12d352f6447793fbe3a2fa965e15666fe58e6|touch up job_module tests|Mon, 24 Apr 2017 14:01:08 -0400|Mon, 24 Apr 2017 14:01:08 -0400
+f30a98fe116a63658845075817e754436fd6b5de|fix up flow task tests|Mon, 24 Apr 2017 13:55:54 -0400|Mon, 24 Apr 2017 13:55:54 -0400
+46a35b1e22681e0497e8a60aa1ee6c03a9c9342b|clean up uploader tests|Mon, 24 Apr 2017 13:45:48 -0400|Mon, 24 Apr 2017 13:45:48 -0400
+ea80719cef6483b633282773e45f62da4a059ff1|take out ody runner commands|Mon, 24 Apr 2017 13:36:04 -0400|Mon, 24 Apr 2017 13:36:04 -0400
+8acb658ca2af2220382927cca702cf60491f26b6|add task compilation|Mon, 24 Apr 2017 08:41:35 -0400|Mon, 24 Apr 2017 08:41:35 -0400
+111ce98c30f3a53efad3a5402db78cc3fb57d2c5|take out obsolete task runner|Mon, 24 Apr 2017 08:03:32 -0400|Mon, 24 Apr 2017 08:03:32 -0400
+d583f6c1754c7bcba43672b3196c239a55e03565|partway through, flow runs, need to trim down, fix up tests|Fri, 21 Apr 2017 17:36:15 -0400|Fri, 21 Apr 2017 17:36:15 -0400
+82679b9bc712e12d23ab290ad50f5fa9bc014782|docker/conda/pip tweaks|Fri, 21 Apr 2017 15:04:19 -0400|Fri, 21 Apr 2017 15:04:19 -0400
+dcc648969b8a065eb26979111ac767e139a312c0|add handling for tags in chemthing action|Fri, 21 Apr 2017 13:44:13 -0400|Fri, 21 Apr 2017 13:44:13 -0400
+6677deb0ace55982497449173cee2d1ae751f1e1|pass query_params to a2g2_client in a2g2_db module|Fri, 21 Apr 2017 10:35:40 -0400|Fri, 21 Apr 2017 10:35:40 -0400
+2e5c1a9084bcfadb29dde571176180ba046b7629|add filter parameters to a2g2_client|Fri, 21 Apr 2017 10:34:16 -0400|Fri, 21 Apr 2017 10:34:16 -0400
+6cc526640f475cbfaa40c5bf0b05161e4291e5a7|add tagging with tests for filtering|Fri, 21 Apr 2017 10:30:08 -0400|Fri, 21 Apr 2017 10:30:08 -0400
+294e429c82ef254dc4e82a07ec34aebd3e722327|adding taggit|Fri, 21 Apr 2017 10:01:42 -0400|Fri, 21 Apr 2017 10:01:42 -0400
+0b37eb0ed39735b7caf73c1e1eb4fd14f0c6bda3|adding tests for filtering|Fri, 21 Apr 2017 09:58:56 -0400|Fri, 21 Apr 2017 09:58:56 -0400
+fc6c77ff2fda01f06139220f5bd4d578a579ec1e|fixup failing tests|Fri, 21 Apr 2017 09:32:08 -0400|Fri, 21 Apr 2017 09:32:08 -0400
+63735aef6cb743e0683d7ac19198f39b5b7ddba7|partway through propagating keys|Fri, 21 Apr 2017 09:29:50 -0400|Fri, 21 Apr 2017 09:29:50 -0400
+15952aa360b0ee3dcce743f882e4db59109a7feb|fix up precursor propagation|Thu, 20 Apr 2017 16:51:07 -0400|Thu, 20 Apr 2017 16:51:07 -0400
+cf5b55d78499f03631de48e8d88d3c49a81d2715|simplifying tasks, getting flow to go forward|Thu, 20 Apr 2017 13:37:17 -0400|Thu, 20 Apr 2017 13:37:17 -0400
+276ae23fe879e6c389e34ea9b446243926c978ad|Revert "partial yamlifying"|Thu, 20 Apr 2017 10:37:25 -0400|Thu, 20 Apr 2017 10:37:25 -0400
+c890ca13ad5a76411ef731cf56bd59c7375ea289|partial yamlifying|Thu, 20 Apr 2017 10:37:18 -0400|Thu, 20 Apr 2017 10:37:18 -0400
+0b5cdde8502ce1c2d8a62d0479ea60fac48469de|simplifiying tasks, to use convention for mapping task_types to handler modules|Thu, 20 Apr 2017 10:19:33 -0400|Thu, 20 Apr 2017 10:21:42 -0400
+bb2753c7a9f0c352beabc08cc0f107c62db672eb|take out nesting of value specs|Thu, 20 Apr 2017 09:39:52 -0400|Thu, 20 Apr 2017 09:39:52 -0400
+1d87336edc6b938e3aba40863f6dc94cf4c10786|expose set_single_value cmd|Thu, 20 Apr 2017 09:36:36 -0400|Thu, 20 Apr 2017 09:36:36 -0400
+29fa5327f236e0ef23b3b1bcf753920d39d8605b|roughing out parse tasks, additive parsing. still need to fix tests, clean up API a bit|Wed, 19 Apr 2017 16:08:40 -0400|Wed, 19 Apr 2017 16:08:40 -0400
+afb65e6a6bb519f88142eaf6583e54d28ee1978c|add chemthing collector task|Wed, 19 Apr 2017 15:31:05 -0400|Wed, 19 Apr 2017 15:31:05 -0400
+530a7737f575614aeda4e0e2398c069c95c12149|add chemthign_action_processor|Wed, 19 Apr 2017 14:47:57 -0400|Wed, 19 Apr 2017 14:47:57 -0400
+7576679a27bad69fb95ea4015682cc8ce9b223f8|add chemthigns bulk actions method|Wed, 19 Apr 2017 09:27:18 -0400|Wed, 19 Apr 2017 09:27:18 -0400
+13f9fa01057be7bb352e9676a1e6a2093051c09a|add post_chemthing_actions task handler|Wed, 19 Apr 2017 09:07:40 -0400|Wed, 19 Apr 2017 09:07:40 -0400
+81f5a1a48400cf45f626519520259b846bd182ba|partway through refactoring reaxys flow to use flow_job for parse_load, super-kludgy right now|Tue, 18 Apr 2017 15:58:28 -0400|Tue, 18 Apr 2017 15:58:28 -0400
+cbedad1029b727014505193d74d2d9d3cbd62319|partway through qchem parser|Tue, 18 Apr 2017 10:12:57 -0400|Tue, 18 Apr 2017 10:12:57 -0400
+909e21b150dc4aa8a905f8d6478526557bba715c|closer to full reaxys flow|Fri, 14 Apr 2017 17:03:41 -0400|Fri, 14 Apr 2017 17:03:41 -0400
+77693a62ef470de7a0a01a7db5098440a3dcbda9|silence pushd/popd, interferes w/ stdout capture|Fri, 14 Apr 2017 15:52:19 -0400|Fri, 14 Apr 2017 15:52:19 -0400
+b5f6ab78f6428bdcbdb8ea62f6f3998d8dd0d3fc|start of stdout via execution client|Fri, 14 Apr 2017 11:15:46 -0400|Fri, 14 Apr 2017 11:15:46 -0400
+cc7408a0ab74e366cec7ba0a8d7974e6702c1854|start of query job module|Fri, 14 Apr 2017 10:59:11 -0400|Fri, 14 Apr 2017 10:59:11 -0400
+7b33a28a9c3e6339704854976ea637bd8d075b64|take out 'as_root' parameter for flows, simplify to just use convention for root key|Fri, 14 Apr 2017 09:44:35 -0400|Fri, 14 Apr 2017 09:44:35 -0400
+b25651842b27a1a1c10d8b8f4aa7839093167e0c|remove flow_spec after flow creation|Fri, 14 Apr 2017 09:09:59 -0400|Fri, 14 Apr 2017 09:09:59 -0400
+071f5f4f82a7672f934e75f15a8ea387f024b741|add fail_fast logic for flows, and specify root_node/precursor convention for demux|Thu, 13 Apr 2017 15:18:48 -0400|Thu, 13 Apr 2017 15:18:48 -0400
+d84ad54148304bebf0dbf24d5a25467d56d256c0|partway through demux flows w/ reaxys|Thu, 13 Apr 2017 14:20:16 -0400|Thu, 13 Apr 2017 14:20:16 -0400
+1fbd560198148d93562242cc2dc65417bc84405a|add class method for engine stuff|Wed, 12 Apr 2017 15:32:31 -0400|Wed, 12 Apr 2017 15:32:31 -0400
+7cf49aab4e868f0e217060d8f5e8599158a3ff88|add basic test for flow gneration via engine|Wed, 12 Apr 2017 15:32:12 -0400|Wed, 12 Apr 2017 15:32:12 -0400
+ed886214e0ecd1df931051c19ab4ff4009c9f485|take out legacy flow_engine registry stuff, add generate_flow|Wed, 12 Apr 2017 14:55:45 -0400|Wed, 12 Apr 2017 14:55:45 -0400
+3f5b6f81620a67330c22140605afc0805237bbcc|simplify flow_engine|Wed, 12 Apr 2017 14:44:25 -0400|Wed, 12 Apr 2017 14:44:25 -0400
+86055634581eed6161594a8e2469c1baf1823c0e|first draft of demux task handler|Wed, 12 Apr 2017 14:14:01 -0400|Wed, 12 Apr 2017 14:14:01 -0400
+c101a79f35227440a51fe398c4b51dcd40ecdd98|factor out context_value_setter logic|Wed, 12 Apr 2017 13:06:56 -0400|Wed, 12 Apr 2017 13:06:56 -0400
+934fefaef362caaf92d2ca10572c0e48441f05a9|add run_flow_task_handler, fixups for run_job handler|Wed, 12 Apr 2017 11:30:39 -0400|Wed, 12 Apr 2017 11:30:39 -0400
+b963fe548d3b343f53d8074b16da54d993310829|tweak flow engine api|Wed, 12 Apr 2017 11:18:49 -0400|Wed, 12 Apr 2017 11:18:49 -0400
+f3ff5093ddfb2d1b11cfbfeae2161031e1e3684f|drafting reaxys flow generator|Wed, 12 Apr 2017 10:25:27 -0400|Wed, 12 Apr 2017 10:25:27 -0400
+7bef61e9d0ef2f60da980d5c86cd4cdb8ddfc1b9|fleshing out qchem e2e test|Tue, 11 Apr 2017 09:06:41 -0400|Tue, 11 Apr 2017 09:06:41 -0400
+a98eddc810512777d34ffafa05c55c22749b4884|1st draft of qchem parser|Mon, 10 Apr 2017 14:07:22 -0400|Mon, 10 Apr 2017 14:07:22 -0400
+1ac5fa6d22dfe84b3beaa2ec58fddac865c19e36|start of qchem qchem module|Mon, 10 Apr 2017 08:56:21 -0400|Mon, 10 Apr 2017 08:56:21 -0400
+5e4c9d3da7bb90c21c012af55c22ea936f806a60|take out old qchem|Thu, 6 Apr 2017 13:43:34 -0400|Thu, 6 Apr 2017 13:43:34 -0400
+1aef7e1122f2ddf4f0f7ab21ebc017ae799c8b53|fix task_runner for 'key' => 'task_key' change|Thu, 6 Apr 2017 13:04:58 -0400|Thu, 6 Apr 2017 13:04:58 -0400
+ae136246767ff8134dbeaf342bfd19d78a67f0a1|fix mc client tests to account for fetched job formatting|Thu, 6 Apr 2017 13:03:16 -0400|Thu, 6 Apr 2017 13:03:16 -0400
+a5445a5afd46b7038041dc68b7fe9eef7ac0beba|update tests for base_job_runner api changes|Thu, 6 Apr 2017 12:46:31 -0400|Thu, 6 Apr 2017 12:49:24 -0400
+8b909420b9ceb41fed638a379bc654f520775701|take out obsolete test|Thu, 6 Apr 2017 12:05:10 -0400|Thu, 6 Apr 2017 12:05:10 -0400
+b373d1a669abc7328edf1ea6a0d0c4bbe5b0d4e6|fix workdir tmp creation|Thu, 6 Apr 2017 11:43:54 -0400|Thu, 6 Apr 2017 11:43:54 -0400
+6f95797e3de833382f5528d9536209f9131d66c1|simplify tests to check that aliases job commands|Thu, 6 Apr 2017 11:20:50 -0400|Thu, 6 Apr 2017 11:20:50 -0400
+d8958f599e56386b15b45ae378d65dee7faffe8b|fix test file name|Thu, 6 Apr 2017 11:14:18 -0400|Thu, 6 Apr 2017 11:14:18 -0400
+03ba56242ffa4d76c6e413a918d36ee2e07c8504|fixing tests for api updates|Thu, 6 Apr 2017 11:12:00 -0400|Thu, 6 Apr 2017 11:12:00 -0400
+8f87790a31eef0a8f0a09660e9092d80ec95cdab|simplifying test|Thu, 6 Apr 2017 10:37:54 -0400|Thu, 6 Apr 2017 10:37:54 -0400
+0845e8a11ee7343a9af8995c36b40e6c9f629d7e|fixing unittest for api changes|Thu, 6 Apr 2017 10:37:45 -0400|Thu, 6 Apr 2017 10:37:45 -0400
+3f51023f8dcb847122590916fadb5b83c212fbe7|fix up confgen tests, output params file|Wed, 5 Apr 2017 14:13:36 -0400|Wed, 5 Apr 2017 14:13:36 -0400
+c8a3f7081ffaa036502d02923c5d243c102ef3af|tweaks to get full e2e test to pass|Tue, 4 Apr 2017 16:29:07 -0400|Tue, 4 Apr 2017 16:29:07 -0400
+0c726f18d1e2f67de96e7b16826fa7dc8e8932dc|add chemthing types field, take out cml|Tue, 4 Apr 2017 09:38:14 -0400|Tue, 4 Apr 2017 09:38:14 -0400
+98544ca2dd0045ce4d102d736025769f6356f9b4|getting confgen flow to go through|Mon, 3 Apr 2017 16:16:44 -0400|Mon, 3 Apr 2017 16:16:44 -0400
+654a8c6b8fa02f93f5956f9caa5b5902f8baad59|tweaking to get chemthings to parse|Mon, 3 Apr 2017 15:20:24 -0400|Mon, 3 Apr 2017 15:20:24 -0400
+af84bb7e6104c5e777e9e981ccbd4271eec92745|tweaks for confgen parse|Mon, 3 Apr 2017 13:46:14 -0400|Mon, 3 Apr 2017 13:46:14 -0400
+78f01f04e1b94528d9e40d23e7b76b8ce75e3223|more robust slurm execution, to account for paths with shell expansions/shell vars|Mon, 3 Apr 2017 10:56:34 -0400|Mon, 3 Apr 2017 10:56:34 -0400
+976ddda154e2e5ef5779d75235de8d77015a5400|partially through wiring parsers|Fri, 31 Mar 2017 17:18:01 -0400|Fri, 31 Mar 2017 17:18:01 -0400
+2d83c33f816c2467b173568ec968886a2f271d04|refactoring job modules to share common logic|Fri, 31 Mar 2017 16:10:13 -0400|Fri, 31 Mar 2017 16:10:13 -0400
+c167f8ac97a6ea70ecac07aa39793a72eb8ed84d|copy default tasks rather than using reference|Fri, 31 Mar 2017 12:13:00 -0400|Fri, 31 Mar 2017 12:13:00 -0400
+a69078c63197b77d873cff80325b9de259ce6d63|sundry tweaks|Fri, 31 Mar 2017 10:54:33 -0400|Fri, 31 Mar 2017 10:54:33 -0400
+b9dd4387ee8f167ae0803f920150f75b541f4f44|creating ody-specific execution client, fixing up execution client tests|Fri, 31 Mar 2017 10:32:12 -0400|Fri, 31 Mar 2017 10:32:12 -0400
+76963d4a22aeca7cd478fc38e9372b33a9540916|better mocking for executables in e2e tests|Thu, 30 Mar 2017 16:20:08 -0400|Thu, 30 Mar 2017 16:20:08 -0400
+50d1a780f140ba3fa1dae8637b97fbff34ec70b7|mend|Thu, 30 Mar 2017 15:52:33 -0400|Thu, 30 Mar 2017 15:52:33 -0400
+fb63fc835524cb06afcc2beb53182ae84fc50ba8|better job dir building/testing|Thu, 30 Mar 2017 15:29:31 -0400|Thu, 30 Mar 2017 15:29:31 -0400
+b576779d33b3584e8de7ae6dc060ab82a577fc04|wiring up job modules, job engine to use submissions|Thu, 30 Mar 2017 14:07:36 -0400|Thu, 30 Mar 2017 14:07:36 -0400
+38f47b346f8e31d2662ed3658fe8cf97362cc17d|bump postgres waittime|Thu, 30 Mar 2017 14:00:13 -0400|Thu, 30 Mar 2017 14:00:13 -0400
+aeeb274edb86ad1191834258ee171f99f5f7e9e3|fix order of params for job engine subcommands|Thu, 30 Mar 2017 13:59:59 -0400|Thu, 30 Mar 2017 13:59:59 -0400
+97a85e8ccef947769fd47ea2b883d73834c182e4|fixing up job engine commands, removing job/cfg from workdir building|Thu, 30 Mar 2017 13:26:17 -0400|Thu, 30 Mar 2017 13:26:17 -0400
+c9468f896542a6670fd229176ef515887798854f|add submission meta to submission dir|Thu, 30 Mar 2017 12:45:56 -0400|Thu, 30 Mar 2017 12:45:56 -0400
+80f95553685b750fda58b159ac1d17b8f4c7b6e8|adding workdir logic to submission runner|Thu, 30 Mar 2017 11:41:51 -0400|Thu, 30 Mar 2017 11:41:51 -0400
+59f1b3f92844ccd451155b496156c4314da66458|adding workdir builder|Thu, 30 Mar 2017 10:38:49 -0400|Thu, 30 Mar 2017 10:38:49 -0400
+407cd7e1cadb61f3e5e35dd84e2186e8793afcba|fix submission_builder tests for dispatching to ody builder|Thu, 30 Mar 2017 10:17:59 -0400|Thu, 30 Mar 2017 10:17:59 -0400
+41589962143768e981a9b6f0aa8ee3f02a57eaf0|hacking on e2e, to get it working up to fake confgen|Wed, 29 Mar 2017 16:23:13 -0400|Wed, 29 Mar 2017 16:23:13 -0400
+04c5a32f91c79d9b54c0a772fd8654331dfe74fa|add fail_node method, for better error handling|Wed, 29 Mar 2017 14:04:22 -0400|Wed, 29 Mar 2017 14:04:22 -0400
+06786d9a03a4348c6235e07c5b2b25fb1b35c111|partway through refactor|Mon, 27 Mar 2017 15:06:56 -0400|Mon, 27 Mar 2017 15:06:56 -0400
+0579ec75d6e8c59d4a3cb103e805681d190dc61c|add pyyaml|Sat, 25 Mar 2017 22:45:44 -0400|Sat, 25 Mar 2017 22:47:04 -0400
+a03e07356b1671b391fbae4b1e3e2ea5bc2306a2|adding default data, failed status for flows|Sat, 25 Mar 2017 22:42:52 -0400|Sat, 25 Mar 2017 22:42:52 -0400
+81923dd5d740ac5b1e16989d01d258a6daf1cc54|add checkpoint file reporting to execution clients|Sat, 25 Mar 2017 22:41:24 -0400|Sat, 25 Mar 2017 22:41:24 -0400
+a18f593aafde9d27e3377704a5310dcaf48d903d|rename execute_job task_handler|Fri, 24 Mar 2017 10:32:59 -0400|Fri, 24 Mar 2017 10:32:59 -0400
+688e02b8fe4638680b52baf6bfa5d1afd56695a0|take out obsolete get_dependencies|Fri, 24 Mar 2017 09:31:40 -0400|Fri, 24 Mar 2017 09:31:40 -0400
+60540811ce380a5541ed4189aa9c8c033fec2bf6|job_config => job_params|Fri, 24 Mar 2017 09:28:32 -0400|Fri, 24 Mar 2017 09:28:32 -0400
+7773601e84bc7a78567ab302965648c19c6b6376|task_runner => task_handler|Fri, 24 Mar 2017 09:28:03 -0400|Fri, 24 Mar 2017 09:28:03 -0400
+2e76110ab249374b366a8b14106d74a8b657bf9e|adding logger to base task runner|Fri, 24 Mar 2017 09:27:18 -0400|Fri, 24 Mar 2017 09:27:18 -0400
+dee42661c7f95a0a7cb3c08f20807437056b325d|moving job_node_engine to task handler|Fri, 24 Mar 2017 09:26:37 -0400|Fri, 24 Mar 2017 09:26:37 -0400
+a14eb20ff2651f0029bed00accd727eb22fff3d5|fix task_runner creation for flow_engine, add test|Thu, 23 Mar 2017 15:45:44 -0400|Thu, 23 Mar 2017 15:45:44 -0400
+9d735ee4c45283e0cac37c2fc91a963738ab5141|take out obsolete execution_client kwarg|Thu, 23 Mar 2017 15:32:45 -0400|Thu, 23 Mar 2017 15:32:45 -0400
+50c2bb1322c0676080c65777e1bfa238d01ebc1b|remove obsolete odyssey_push_job_runner|Thu, 23 Mar 2017 15:32:32 -0400|Thu, 23 Mar 2017 15:32:32 -0400
+32f0d03fcfc5930e69de7802f14f5b321b09899e|changing format of flow spec|Thu, 23 Mar 2017 15:02:42 -0400|Thu, 23 Mar 2017 15:02:42 -0400
+20969709fd522a2af03e91c8304b8c23895662b5|expose execution artifact in task output|Thu, 23 Mar 2017 09:13:58 -0400|Thu, 23 Mar 2017 09:13:58 -0400
+0d1dc9c39082a36e5bca44243d0aa5a6765bf19a|change task_runner to put keyed_tasks at 'tasks'|Thu, 23 Mar 2017 09:10:50 -0400|Thu, 23 Mar 2017 09:10:50 -0400
+431d464027103cd095c14536e0372e9e0978da01|change set_values task_handler to use explicit ctx|Thu, 23 Mar 2017 09:07:23 -0400|Thu, 23 Mar 2017 09:10:28 -0400
+7c3e347848ec0af3cde48f3406cb38a7a4ca856e|target => dest|Wed, 22 Mar 2017 16:51:13 -0400|Wed, 22 Mar 2017 16:51:13 -0400
+93fae62eb3c3fd76c8289cd9e7e3d8f3106711d9|refactoring flow engine, job_runner to use task_runner|Wed, 22 Mar 2017 14:46:42 -0400|Wed, 22 Mar 2017 14:46:42 -0400
+ecd8c4819a8b9695eef6d61e22413670be89cb59|put task_context logic into job runner|Wed, 22 Mar 2017 11:45:40 -0400|Wed, 22 Mar 2017 11:45:40 -0400
+cb9cdb615d63446120e7e6f1c3784b4c9374aca5|update task handlers for generic task_context|Wed, 22 Mar 2017 11:31:31 -0400|Wed, 22 Mar 2017 11:33:21 -0400
+d27c7307223eefb2d70b548caa5262e09aea50f8|touching up tests, for new naming scheme|Tue, 21 Mar 2017 16:20:02 -0400|Tue, 21 Mar 2017 16:24:43 -0400
+51a89dc91677e3422a832b71d9d93bf45af982cf|changing flow spec|Tue, 21 Mar 2017 15:33:54 -0400|Tue, 21 Mar 2017 15:33:54 -0400
+78e0ec12fc993b740a47c4a5438b1c658eecd670|action handlers => task handlers|Tue, 21 Mar 2017 09:28:53 -0400|Tue, 21 Mar 2017 09:28:53 -0400
+71d86425fb6ef53c88d2f2bc70fb3fdefb2a3d57|fleshing out set_values task handler|Mon, 20 Mar 2017 16:36:21 -0400|Mon, 20 Mar 2017 16:36:21 -0400
+e886111a9a7b2a078b86027e2b563f1573216de2|fleshing out execution handler|Mon, 20 Mar 2017 16:36:09 -0400|Mon, 20 Mar 2017 16:36:09 -0400
+63b8ab46debd6169789bf0f9676c3b93123ea21c|move out execution to separate task handelr, move execution clients out of job_runners|Thu, 16 Mar 2017 13:41:25 -0400|Thu, 16 Mar 2017 13:41:25 -0400
+2c8a09c915e0a45056517113b480a7802cdf8958|add stub for action processor|Wed, 15 Mar 2017 16:17:49 -0400|Wed, 15 Mar 2017 16:17:49 -0400
+004a9690531142569b284ba22afec8f14f3fc5a3|switching to tasks rather than actions|Wed, 15 Mar 2017 15:53:54 -0400|Wed, 15 Mar 2017 15:53:54 -0400
+361c1e04becf0e80abfbb6cd6fea87de331c7d38|task_engines => node_engines|Wed, 15 Mar 2017 11:24:33 -0400|Wed, 15 Mar 2017 11:24:33 -0400
+67a1ad8f9986d5fcb65a17547e2b636972445652|task => node|Wed, 15 Mar 2017 11:20:25 -0400|Wed, 15 Mar 2017 11:20:25 -0400
+1a7e5f83c3898c1588f0fa30e2fee65f9411c1f0|fixing flow generators to use concat, rather than extend|Mon, 13 Mar 2017 16:38:00 -0400|Mon, 13 Mar 2017 16:38:00 -0400
+66b8a51fc3cc43a85f83e58ff35f62d2791ff31e|refactoring job modules|Mon, 13 Mar 2017 16:37:46 -0400|Mon, 13 Mar 2017 16:37:46 -0400
+4280d21fb358d1cdfe51954b7b03e968ff20be14|fleshing out tests for confgen parser v2|Fri, 10 Mar 2017 13:02:51 -0500|Fri, 10 Mar 2017 13:02:51 -0500
+8949ed33b06bcf9cd05986741d77eaafb6d2bbc7|refactoring, for job_modules|Fri, 10 Mar 2017 09:56:33 -0500|Fri, 10 Mar 2017 09:56:33 -0500
+96f06974094be926a50a6bb0e31d07eb95f308d5|fleshing out confgen confgen handler|Mon, 6 Mar 2017 16:44:44 -0500|Mon, 6 Mar 2017 16:44:44 -0500
+b6f1944864784a183a14fa036d5334b7c97c3072|change spec format for running jobs through job engine|Mon, 6 Mar 2017 16:38:13 -0500|Mon, 6 Mar 2017 16:38:13 -0500
+fbd97777cd177781e13dc32def447c5fa3f334e6|fix compute_parse_load to wire task outputs accurately|Mon, 6 Mar 2017 15:41:35 -0500|Mon, 6 Mar 2017 15:41:35 -0500
+b45edce668e5eab305a8f93fdd87c5f92e12d3b6|factoring common flow test utils|Mon, 6 Mar 2017 15:07:24 -0500|Mon, 6 Mar 2017 15:07:24 -0500
+745523d50810439fd6d826e9005d4dd2442944a7|refactoring e2e tests, w/ docker|Mon, 6 Mar 2017 14:42:50 -0500|Mon, 6 Mar 2017 14:42:50 -0500
+efc9b9a00aea472b692460478f49a0b385e05c47|flesh out compute_parse_load flow generator|Mon, 6 Mar 2017 13:46:10 -0500|Mon, 6 Mar 2017 13:46:10 -0500
+a022a04f190afa673a13deca41392322df4e6355|flesh out compute_parse_load flow generator|Mon, 6 Mar 2017 13:44:08 -0500|Mon, 6 Mar 2017 13:44:08 -0500
+a342a94520b7f136263de0420e2830085c53b642|take out extraneous test|Thu, 2 Mar 2017 13:45:58 -0500|Thu, 2 Mar 2017 13:45:58 -0500
+f7f9ea48e37ec44d7f30aa9f44889346609fcb8f|start of qchem builder|Mon, 27 Feb 2017 16:58:04 -0500|Mon, 27 Feb 2017 17:14:06 -0500
+4ad21307e4f8a337e9326e45e5f3ccf0a5ab182a|start of qchem builder|Mon, 27 Feb 2017 16:58:04 -0500|Mon, 27 Feb 2017 16:59:48 -0500
+5a5bc07ff7c80c3f687794b9d92d00ee5e8385b1|fixing tests|Fri, 24 Feb 2017 16:20:24 -0500|Fri, 24 Feb 2017 16:20:24 -0500
+9a52c566373b165491c43473b631d94cbd92518a|syncinc up chemthings counts w/ expected mols, conformers|Fri, 24 Feb 2017 14:43:47 -0500|Fri, 24 Feb 2017 14:43:47 -0500
+4e358dc089273b4882bae9504056df15f5243c8d|partway through harmonizing e2e tests|Fri, 24 Feb 2017 11:47:09 -0500|Fri, 24 Feb 2017 11:47:09 -0500
+2a5f809f0b99707949057f878144f8c236dceb9e|create job dir before building submission|Fri, 24 Feb 2017 09:39:21 -0500|Fri, 24 Feb 2017 09:40:46 -0500
+2fc28452a9bdee13f4eda45b87a4dd4cb28a8850|fix concat for job error file|Fri, 24 Feb 2017 09:05:05 -0500|Fri, 24 Feb 2017 09:05:43 -0500
+21fdb5a8aa7e7b149e09a453c9674df31e0141cd|dir refactor|Thu, 23 Feb 2017 16:54:46 -0500|Thu, 23 Feb 2017 16:57:13 -0500
+1c42d6a4c92e207080b3b1784cdd49e695e0e4ac|partway through job engine testing|Thu, 23 Feb 2017 14:38:37 -0500|Thu, 23 Feb 2017 14:38:37 -0500
+36007f7d62647ffcbba718f8ecadcc9366ef9f1a|tweaks for e2e tests|Wed, 22 Feb 2017 16:03:19 -0500|Wed, 22 Feb 2017 16:03:19 -0500
+f59102131365c3a02eb0f0b8ab74581759f8dee7|makeing docker test startup more robust|Wed, 22 Feb 2017 14:38:10 -0500|Wed, 22 Feb 2017 14:38:10 -0500
+73c4212027a59e91d81992f37c61d090a0f1be0e|start of a2g2_job_engine|Tue, 21 Feb 2017 13:43:47 -0500|Tue, 21 Feb 2017 13:43:47 -0500
+49fbf5d723f097bb1127c505b2e1dd5ad6e0e8a1|changing module path for conformer generator|Tue, 21 Feb 2017 10:48:57 -0500|Tue, 21 Feb 2017 10:48:57 -0500
+509d470e9fd670d3046ccafe6ec80c9ae6f07a40|add a2g2_utils code in|Tue, 21 Feb 2017 09:52:28 -0500|Tue, 21 Feb 2017 09:52:28 -0500
+646a6f7fa10e91521934761abf92998254bff935|take out conda module, activate directly from custom env|Tue, 21 Feb 2017 09:46:06 -0500|Tue, 21 Feb 2017 09:46:06 -0500
+117f0b33b431a50d8cc5a9c8c875e523484eefa7|add scratch dir to odyssey dockerfile|Tue, 21 Feb 2017 09:44:24 -0500|Tue, 21 Feb 2017 09:44:24 -0500
+a98cbfb31814009b5270390f5c63a82db3b70e50|refactoring docker test setup|Tue, 21 Feb 2017 09:26:56 -0500|Tue, 21 Feb 2017 09:26:56 -0500
+c8a9ade40ac9347702aa67997794ce7e6f5b9e65|udpate job dir builder tests for new job format|Fri, 17 Feb 2017 11:26:30 -0500|Fri, 17 Feb 2017 11:26:30 -0500
+49d5b701e798eda5cd2c1701ec95a60f55a27c91|update tests for command changes|Fri, 17 Feb 2017 11:19:44 -0500|Fri, 17 Feb 2017 11:19:44 -0500
+611a6bf2af8ea59b3f43b822a9a13bdc12631111|change mc install to use conda env file|Fri, 17 Feb 2017 10:33:56 -0500|Fri, 17 Feb 2017 10:33:56 -0500
+f0ff6515e9242d8b1f1ecd0c9b1ea59e5416a9d9|better job error reporting|Thu, 16 Feb 2017 14:50:37 -0500|Thu, 16 Feb 2017 14:50:37 -0500
+af51f231a474607963f93c3e901ff178a46e316a|add error field to job model|Thu, 16 Feb 2017 14:09:48 -0500|Thu, 16 Feb 2017 14:09:48 -0500
+cc8d58272b70bcf525a8b1cd17bc08ddc549ec40|fix up storage tests for inclusion of url in return|Thu, 16 Feb 2017 11:37:45 -0500|Thu, 16 Feb 2017 11:45:26 -0500
+091c84b2e5ad178c920d6ec239de0b21afb1ed94|fix typo|Wed, 15 Feb 2017 15:53:08 -0500|Wed, 15 Feb 2017 15:53:08 -0500
+b3362271d095e09fcba2e15b977d3e6f1acf8bc2|fix up tests|Wed, 15 Feb 2017 15:40:07 -0500|Wed, 15 Feb 2017 15:40:07 -0500
+bd81fed78688b3a4db03831d46f82913b36620d9|consolidating jobs/missions|Wed, 15 Feb 2017 14:59:33 -0500|Wed, 15 Feb 2017 14:59:33 -0500
+9b836a483fcc657853913bf9d51edab6830e2c2a|add flush endpoint for missions|Wed, 15 Feb 2017 14:12:45 -0500|Wed, 15 Feb 2017 14:12:45 -0500
+5c1ecb930428353dc08a4a3c7a26aefc88adf06c|libXRender hack for openbabel|Wed, 15 Feb 2017 13:46:49 -0500|Wed, 15 Feb 2017 13:46:49 -0500
+d29b679757108d8e120ae4438b89627dc6122ca3|add option to dump raw template w/out rendering for ody dir builder|Wed, 15 Feb 2017 13:46:09 -0500|Wed, 15 Feb 2017 13:46:14 -0500
+6f5cf7040c42380be7e576d1f87badf8d9134358|job_dir => job_submission|Wed, 15 Feb 2017 13:02:37 -0500|Wed, 15 Feb 2017 13:02:37 -0500
+995299f1013e0ae18e8e801961badc210f8a39ca|get a2g2_cfg from env, as json|Wed, 15 Feb 2017 10:59:48 -0500|Wed, 15 Feb 2017 10:59:48 -0500
+210bfe7c5f9ec97c46e7156da21971a238a24548|stubbing out confgen_load dir builder|Wed, 15 Feb 2017 10:34:11 -0500|Wed, 15 Feb 2017 10:34:11 -0500
+848f806dea6644eedf762b3065dd0cdc93fef231|add command for confgen_load_job_engine|Wed, 15 Feb 2017 10:21:39 -0500|Wed, 15 Feb 2017 10:21:39 -0500
+995fb658667e19104c02391e554fdf2e1ef6aeea|fix rsync setup in docker, tweaks for integration tests|Tue, 14 Feb 2017 15:14:43 -0500|Tue, 14 Feb 2017 15:14:43 -0500
+22e6fe9d147c8a5ab8b37803b5807be6b86c98ec|tweaks for integration tests|Tue, 14 Feb 2017 14:35:52 -0500|Tue, 14 Feb 2017 14:35:52 -0500
+14acaa2c7949b17c210b95edfb4d9f6a6406af96|add fake 2factor auth to odyssey container|Tue, 14 Feb 2017 10:03:15 -0500|Tue, 14 Feb 2017 10:03:15 -0500
+352d7f45be9e0821d7293784aeba29e62733bd90|add flush endpoint for a2g2 objects|Mon, 13 Feb 2017 11:53:14 -0500|Mon, 13 Feb 2017 11:56:23 -0500
+4a328b31d6d4c523c743d9cceaed75e012aba01f|tweaks for integration tests|Mon, 13 Feb 2017 11:34:08 -0500|Mon, 13 Feb 2017 11:34:08 -0500
+1049518b4ee204687d64ee4c57ff871c70140f31|tweaking json parameters for using requests lib|Fri, 10 Feb 2017 15:54:31 -0500|Fri, 10 Feb 2017 15:54:31 -0500
+a41d4bb90ec846975a14c43e65ccad022d1c1f1e|proof-of-concept for running ody/mc cluster for tests|Fri, 10 Feb 2017 13:43:12 -0500|Fri, 10 Feb 2017 13:43:12 -0500
+a4c606a08891da8b0b1d4bee6acad81f6d22a6fb|start of setting up ody test env|Wed, 8 Feb 2017 14:59:11 -0500|Wed, 8 Feb 2017 14:59:11 -0500
+a34b3dab1dc6ced4188bbd106e57694d1e3c8533|fleshing out load engine|Fri, 3 Feb 2017 16:28:29 -0500|Fri, 3 Feb 2017 16:28:29 -0500
+bd1491226f08808413c23138240c3b81a99d40e9|add logic to parse raw data to chemthing_dict|Fri, 3 Feb 2017 15:59:01 -0500|Fri, 3 Feb 2017 15:59:01 -0500
+67ca74bd8148e0d2fdda4af905960fbfa6dc4296|rename mol => chemthing|Fri, 3 Feb 2017 13:48:54 -0500|Fri, 3 Feb 2017 13:50:38 -0500
+27a14ebb90697038bc6e01b354a0dc51c726b5c2|add rdkit, openbabel|Fri, 3 Feb 2017 13:44:40 -0500|Fri, 3 Feb 2017 13:44:40 -0500
+d68e9d9c8ddfa132845b5c2819ba8fcafb1cb8d9|start of load job engine|Fri, 3 Feb 2017 13:42:57 -0500|Fri, 3 Feb 2017 13:42:57 -0500
+653692ff28cd98f4a5d37ad2c4b0cbc90df25679|starting to stub out job dirs|Thu, 2 Feb 2017 13:36:04 -0500|Thu, 2 Feb 2017 13:36:04 -0500
+a9c3570cdee4fd291d43df157f2e0f5f09d25f6e|change storage client to post raw bytes|Thu, 2 Feb 2017 11:29:24 -0500|Thu, 2 Feb 2017 11:32:35 -0500
+734a4b24f1c8e816b2cabcca19847d073da21a7e|return data from storage_client|Thu, 2 Feb 2017 09:56:32 -0500|Thu, 2 Feb 2017 09:56:32 -0500
+a5fb045cabf241309df153342ec508219ef48e84|change to return params from storage_client.post_data|Thu, 2 Feb 2017 09:40:17 -0500|Thu, 2 Feb 2017 09:40:17 -0500
+2b7e88dbac6276a20c90358a544e46c6dbc16ace|change to use ctx.transform_value, instead of render template|Thu, 2 Feb 2017 09:39:56 -0500|Thu, 2 Feb 2017 09:39:56 -0500
+d0f144ba82115a04a0eaa8ca50aa881c9aa7e853|add template checking for action processor set_ctx|Thu, 2 Feb 2017 09:01:40 -0500|Thu, 2 Feb 2017 09:01:40 -0500
+614a44a3b266ef7f4b06e1571dd4e399367ae189|fleshing out confgen flow test, w/ storage|Wed, 1 Feb 2017 17:06:16 -0500|Wed, 1 Feb 2017 17:06:16 -0500
+82c19cd860ed859edb8bae64d43ea6954a426119|rename job.spec to job.job_spec|Wed, 1 Feb 2017 16:39:11 -0500|Wed, 1 Feb 2017 16:39:11 -0500
+05312d0af450949c085cbd229cec7866bf98697a|converting over to new flow_runnre api|Wed, 1 Feb 2017 14:49:40 -0500|Wed, 1 Feb 2017 14:49:40 -0500
+ec22286d8d8c99713e9ff43b23aa497b6c4820b1|update flow_runner test for new flow_engine api changes|Wed, 1 Feb 2017 14:05:04 -0500|Wed, 1 Feb 2017 14:05:04 -0500
+44372cee740728e20ed49d2d402745732785faca|add action processing logic to flow_engine|Wed, 1 Feb 2017 13:44:40 -0500|Wed, 1 Feb 2017 13:44:40 -0500
+dcc44e284ac9f5d2b8deb178a2f8f8c35efa43bb|changing flow engine api, to add tasks, in prep for adding actions to tasks|Wed, 1 Feb 2017 12:35:38 -0500|Wed, 1 Feb 2017 12:35:38 -0500
+05997e3fc693511c4035a6c0f346524a703cc3c5|take out precursor outputs, and set_input logic|Wed, 1 Feb 2017 09:01:26 -0500|Wed, 1 Feb 2017 09:01:26 -0500
+d22e049b77565cb686fb14267c2688ff006cf0e3|add precursor_outputs to task|Tue, 31 Jan 2017 15:46:14 -0500|Tue, 31 Jan 2017 15:50:07 -0500
+16d3350307eb372a205084837e977c2aa4bc4e57|adding in template rendering for upload/download handlers|Tue, 31 Jan 2017 15:03:37 -0500|Tue, 31 Jan 2017 15:03:37 -0500
+ca8b89236d794bf0160331a8c6ba4ca9dffdcd42|use explicit content types for json requests|Tue, 31 Jan 2017 14:15:28 -0500|Tue, 31 Jan 2017 14:17:03 -0500
+34dc0fcbafe52e24abee6737dae1603353a6577e|partway through storage action handlers|Tue, 31 Jan 2017 12:16:14 -0500|Tue, 31 Jan 2017 12:16:14 -0500
+e8c42cece62ad96a390b189d5bc3f667198c326b|move bytes encoding/decoding into storage views|Tue, 31 Jan 2017 10:46:42 -0500|Tue, 31 Jan 2017 10:46:42 -0500
+d91de7da425c10c55ffc732752ca50589aeb559c|encode strings to bytes, fix name of post_data, get_data mocks|Tue, 31 Jan 2017 10:37:09 -0500|Tue, 31 Jan 2017 10:37:09 -0500
+31e9921f4d35eb30b5a1b2cd9da275ad1958d02d|get default base dir from settings|Tue, 31 Jan 2017 09:47:50 -0500|Tue, 31 Jan 2017 09:47:50 -0500
+3ee9ab5500502fe0d902d9476bd6ae691c8ffb27|serialize/deserialize storage params|Tue, 31 Jan 2017 09:34:28 -0500|Tue, 31 Jan 2017 09:34:28 -0500
+37d55858f83264dcf6ee23e563f9ba333cb7343e|add storage client|Tue, 31 Jan 2017 09:06:17 -0500|Tue, 31 Jan 2017 09:06:17 -0500
+aefa9ee00c259c6545d2e8fa29a984608e46b9cc|start of storage api|Mon, 30 Jan 2017 16:33:33 -0500|Mon, 30 Jan 2017 16:33:33 -0500
+f85c3c5b1ffafe63d7e32e27abbf5a46e9b06c88|start of storage app|Mon, 30 Jan 2017 15:02:17 -0500|Mon, 30 Jan 2017 15:02:17 -0500
+01c57762333d79e2a4681e8ddba958e77b58645e|partway through confgen e2e test|Mon, 30 Jan 2017 14:40:29 -0500|Mon, 30 Jan 2017 14:40:29 -0500
+cdcec134841e65588ffe349fdeac30216fb0e0ee|partway through serialized job data|Mon, 30 Jan 2017 13:46:48 -0500|Mon, 30 Jan 2017 13:46:48 -0500
+0a58d88c1b36175a86bcbae36ab53f5c7381a0c7|change job, job_client to use serialized data attribute|Mon, 30 Jan 2017 13:32:07 -0500|Mon, 30 Jan 2017 13:32:07 -0500
+6b10ddbf09936a7ed6c3edf295e2257bfcf3cac3|partway through action processor|Mon, 30 Jan 2017 09:25:36 -0500|Mon, 30 Jan 2017 09:25:36 -0500
+9dc5aca85d58b5173a3675166ce68c00bbde2872|fix up set_ctx handler|Mon, 23 Jan 2017 16:59:36 -0500|Mon, 23 Jan 2017 16:59:36 -0500
+a3d6a279c4e733b260785a667116997227c45227|add uuid filter jobs api|Mon, 23 Jan 2017 16:25:35 -0500|Mon, 23 Jan 2017 16:25:35 -0500
+e7e477af4c8c3076f3e3b52b92b37c7f4a1f88b2|Moving fetch_tickable_flows into flow_client|Mon, 23 Jan 2017 13:00:09 -0500|Mon, 23 Jan 2017 13:00:09 -0500
+b8d139f9a72d7b51e35af86fb837043749200615|add query method to a2g2_client|Mon, 23 Jan 2017 12:47:22 -0500|Mon, 23 Jan 2017 12:47:22 -0500
+0d548796b39028127d5e79dd4528f736b78ac955|fix when parent flow completion is tested|Mon, 23 Jan 2017 12:34:29 -0500|Mon, 23 Jan 2017 12:34:29 -0500
+79a646281201b156bf6d2694f7bbcaa2cdede8bf|remove obsolete job_runner test|Mon, 23 Jan 2017 12:31:11 -0500|Mon, 23 Jan 2017 12:31:11 -0500
+9a4390472ceedabf07565f78e05ddb4745878f62|flesh out transfer client|Mon, 23 Jan 2017 12:15:26 -0500|Mon, 23 Jan 2017 12:15:26 -0500
+94ef7b069c42315e53713340373b140bbe45e462|tweaking tests for removing trnasfer_client|Fri, 20 Jan 2017 16:55:27 -0500|Fri, 20 Jan 2017 16:55:27 -0500
+36561fc2dbc9bb3ae864eb57e20aa4f870eff311|stubbing out trnasfer client, copy action handler|Fri, 20 Jan 2017 16:34:19 -0500|Fri, 20 Jan 2017 16:34:19 -0500
+a48e4f269f36f5beaea8ad87c497b395d85c1978|stub copy action handler|Fri, 20 Jan 2017 15:46:20 -0500|Fri, 20 Jan 2017 15:46:20 -0500
+e52fa9a76c801fcdb97c57c039b13e0ade8c3f99|stubbing out post_exec_actions|Fri, 20 Jan 2017 11:58:08 -0500|Fri, 20 Jan 2017 11:58:08 -0500
+26ba4ce20af1ca979196de8848ba5f61ee6473e9|first pas at pre_build_actions|Fri, 20 Jan 2017 11:50:33 -0500|Fri, 20 Jan 2017 11:50:33 -0500
+0ed3be006f6781a218f0599fd81377199f7b3f28|refactor tests|Fri, 20 Jan 2017 11:13:07 -0500|Fri, 20 Jan 2017 11:13:07 -0500
+c224e62f24c910fc056aa3376c20775a4f7c86bc|take out transfer client|Fri, 20 Jan 2017 11:04:41 -0500|Fri, 20 Jan 2017 11:04:41 -0500
+58ea892d4db2a4b7c6df2aeea2d1b2f11abdd153|add action processor|Fri, 20 Jan 2017 10:39:10 -0500|Fri, 20 Jan 2017 10:39:10 -0500
+861913553d8cf23710038a24dd480b552bb86408|fix typo|Fri, 20 Jan 2017 09:58:21 -0500|Fri, 20 Jan 2017 09:58:21 -0500
+06fa59a7bd4bf8f1c351a8d3e8408700115e81c3|fleshing out e2e flow tests|Thu, 19 Jan 2017 11:14:37 -0500|Thu, 19 Jan 2017 11:14:37 -0500
+848133097d7852955960fe5dcdfba54ee88c9d87|add a2g2_client e2e|Wed, 18 Jan 2017 15:55:20 -0500|Wed, 18 Jan 2017 15:55:20 -0500
+68858666478952acc8d6748f60a27bc317d1a34f|add a2g2_dj app|Wed, 18 Jan 2017 15:40:18 -0500|Wed, 18 Jan 2017 15:40:18 -0500
+d7ed397b4d5aa40d26457bab6bf8ea4e450eb907|refactoring test client patching, starting e2e tests for a2g2_client|Wed, 18 Jan 2017 14:46:49 -0500|Wed, 18 Jan 2017 14:46:49 -0500
+bed77afcc25f5464f82306f1e46dd57525f73ba6|add start of a2g2_client|Wed, 18 Jan 2017 14:46:06 -0500|Wed, 18 Jan 2017 14:46:06 -0500
+eaa8cf3cc3688bb04f784696f8d380f792f92b89|odyssey_push_runner_e2e test passes, w/ mocked clients|Wed, 18 Jan 2017 09:37:06 -0500|Wed, 18 Jan 2017 09:37:06 -0500
+ee9fffdd57c0010936ea0eebf315ef6e384091c7|change job status names for consistency w/ flows|Wed, 18 Jan 2017 09:17:59 -0500|Wed, 18 Jan 2017 09:17:59 -0500
+edff4a71324e643b74f07610f4ae534d9c9ce54c|capitalize statuses|Wed, 18 Jan 2017 09:09:31 -0500|Wed, 18 Jan 2017 09:09:31 -0500
+7bfa4e172daab2924db2ca0fa985c6c345a8fb9d|test refactors, for api tweaks|Wed, 18 Jan 2017 09:04:48 -0500|Wed, 18 Jan 2017 09:04:48 -0500
+2d405f3bdcf8ac16c547d6f816eca2e8db24dea2|partway through push_runner_e2e|Tue, 17 Jan 2017 16:50:49 -0500|Tue, 17 Jan 2017 16:50:49 -0500
+ad7429350fd9a92047fa2c0e4c7287e7f6e07d5d|stubbing out job dir factory|Tue, 17 Jan 2017 16:13:05 -0500|Tue, 17 Jan 2017 16:13:05 -0500
+48cc7e9ac04f123d05598d37d947c7f31be95418|fixing arg name|Tue, 17 Jan 2017 15:51:17 -0500|Tue, 17 Jan 2017 15:51:17 -0500
+134560b9f8785c155cb53e3544c9d6c8b29ccd8c|factoring out common e2e stuff, starting runner e2e test|Tue, 17 Jan 2017 15:51:09 -0500|Tue, 17 Jan 2017 15:51:09 -0500
+0a1bc5bb4e39d1d8bf6bc3d73a7fee4792ebe34e|tweak input for create_flow call in flow task|Tue, 17 Jan 2017 15:10:16 -0500|Tue, 17 Jan 2017 15:18:51 -0500
+5cd065499feb52e2016050c095d6065f1af9c3d4|deserialize flow specs|Tue, 17 Jan 2017 15:05:19 -0500|Tue, 17 Jan 2017 15:05:19 -0500
+92bbea47f4fe40eae450489555a85e8a24fdd1e7|change mc api to use json for claim endpoints|Tue, 17 Jan 2017 14:53:52 -0500|Tue, 17 Jan 2017 14:53:52 -0500
+da09b41ca5a5ee909432b364892d0ffbe7db5878|fixups for create_flow_record e2e test|Tue, 17 Jan 2017 09:55:06 -0500|Tue, 17 Jan 2017 09:55:06 -0500
+8dcad96e0c3d95502ef48f597d8e480f2749e0af|fleshing out tests for e2e create_flow, making tests more robust|Fri, 13 Jan 2017 10:51:53 -0500|Fri, 13 Jan 2017 10:51:53 -0500
+222de98132fd4e52f7d6d85807f3cf4eb21cc50e|tweak api for create_flow => create_flow_record|Fri, 13 Jan 2017 08:42:28 -0500|Fri, 13 Jan 2017 08:42:28 -0500
+718e2bc27d01429facfd1a247ff6d0b78f7f3610|fixing up commands, decoupling from models|Thu, 12 Jan 2017 16:55:13 -0500|Thu, 12 Jan 2017 16:55:13 -0500
+f283363544fb9df134e489d3f9213d9bb342608a|add logic to generate flow from spec in runner|Thu, 12 Jan 2017 16:47:09 -0500|Thu, 12 Jan 2017 16:47:09 -0500
+38937fdcdceaaa7e0f6e10a4ae3f5112136c6d83|add server urls for job/flow clients|Thu, 12 Jan 2017 15:49:18 -0500|Thu, 12 Jan 2017 15:49:18 -0500
+2e7505f9530a03978c75bbbcca565afabf9fa447|make api server a separate container|Thu, 12 Jan 2017 15:06:27 -0500|Thu, 12 Jan 2017 15:06:27 -0500
+942f34e20421c01c6c5301f1d565460e03971a33|pass down login params via command|Thu, 12 Jan 2017 14:42:05 -0500|Thu, 12 Jan 2017 14:42:12 -0500
+1045218c7936644fc736297d58adeb6c482a8e89|fill out odyssey_push_job_runner, pass down user/host from parnet runner to push_job_runner|Thu, 12 Jan 2017 14:26:46 -0500|Thu, 12 Jan 2017 14:26:46 -0500
+d6dabb75e8e433cb5ce084c58370456e69d75c6b|job_spec => job rename|Thu, 12 Jan 2017 13:14:08 -0500|Thu, 12 Jan 2017 13:14:08 -0500
+998e577f40283b85d78a7140f5da2d7363bc2277|cosmetics|Thu, 12 Jan 2017 11:51:25 -0500|Thu, 12 Jan 2017 11:51:25 -0500
+027b63ce31f2dd5a719da6803e2e51ce455440ef|cleaning up tests for odyssey_push_runner|Thu, 12 Jan 2017 11:51:15 -0500|Thu, 12 Jan 2017 11:51:15 -0500
+685b9be2e05ccbef990c48aec01302656622a44d|more tests for subcomponent generators, stubbing out odysse_push_job_runner|Thu, 12 Jan 2017 11:08:53 -0500|Thu, 12 Jan 2017 11:08:53 -0500
+b56aff8028ee9680c8031133b883f2484ba460f1|add tests for generation of flow_generator_classes, flow_engine|Thu, 12 Jan 2017 10:36:05 -0500|Thu, 12 Jan 2017 10:36:05 -0500
+651103415cc44e270268f31946806315594f089b|adding tests for subcomponents|Wed, 11 Jan 2017 16:42:58 -0500|Wed, 11 Jan 2017 16:42:58 -0500
+43ac20f0c275a509214e3926d0a095aa92360d20|fleshing out odyssey push runner|Wed, 11 Jan 2017 16:15:38 -0500|Wed, 11 Jan 2017 16:15:38 -0500
+a2e0c8c0704c934b079a39d211bcc62789077db1|tweak confgen job dir builder|Wed, 11 Jan 2017 11:32:52 -0500|Wed, 11 Jan 2017 11:32:52 -0500
+dea408cb0b4fe2b1de590f511df0cc037dcf0062|fleshing out confgen dir builder|Tue, 10 Jan 2017 16:36:09 -0500|Tue, 10 Jan 2017 16:36:09 -0500
+8711ef52b341a64266c8d817e1317add161fc45c|fleshing out confgen job dir builder|Tue, 10 Jan 2017 16:23:39 -0500|Tue, 10 Jan 2017 16:23:39 -0500
+6ae42d0e1f452e2d13ed19b6f9dd58b935c67b6d|add template logic to ody builder|Tue, 10 Jan 2017 15:53:34 -0500|Tue, 10 Jan 2017 15:53:34 -0500
+dcf3964507586451f09d9597d566c51bd1efc189|take out default sbatch params|Tue, 10 Jan 2017 14:22:04 -0500|Tue, 10 Jan 2017 14:22:04 -0500
+beb4e086312f3f92b36e8c24705bd988fd33c993|move odyssey dir builder tests|Tue, 10 Jan 2017 14:12:26 -0500|Tue, 10 Jan 2017 14:15:20 -0500
+07498f9e5be6fb3267a539eceff9cbb1f1524d0e|Restructing tests|Mon, 9 Jan 2017 16:42:44 -0500|Mon, 9 Jan 2017 16:43:17 -0500
+635299104518f12da4182c4785e3e61c3b0f1b35|rename a2g2_flows to a2g2|Mon, 9 Jan 2017 16:40:06 -0500|Mon, 9 Jan 2017 16:40:06 -0500
+a982864d0e88772a19e4fec9f642a929c16ea06b|flesh out test for reaxys e2e|Mon, 9 Jan 2017 16:22:44 -0500|Mon, 9 Jan 2017 16:22:44 -0500
+ec4fc5ae0228f3a170b4228bfe9d674f36415113|mark flows as started when ticked|Mon, 9 Jan 2017 16:14:10 -0500|Mon, 9 Jan 2017 16:14:10 -0500
+1d140b0e2c702763e6824dee3b841369fe7d9e34|clarify signature for create_job|Mon, 9 Jan 2017 16:04:05 -0500|Mon, 9 Jan 2017 16:04:05 -0500
+54ae1c4007a4a37901d8d6986620cd8870fff304|add filtering by uuid|Mon, 9 Jan 2017 15:56:37 -0500|Mon, 9 Jan 2017 15:56:37 -0500
+7588cb6c4e2a313aa5e53705d69541e699c66bfc|fixing retrieval of single items for client fetch methods|Mon, 9 Jan 2017 15:30:59 -0500|Mon, 9 Jan 2017 15:30:59 -0500
+ff88b2cadff657a87ca51d280266824f510a4ca2|fix setting of data on flow objects at init|Mon, 9 Jan 2017 15:19:49 -0500|Mon, 9 Jan 2017 15:19:49 -0500
+81e4c889a1ee294e3e417b125325a52aff0e4b7e|use input instead of static input|Mon, 9 Jan 2017 11:44:33 -0500|Mon, 9 Jan 2017 11:44:33 -0500
+7ad6a3e8983c82085f27d72539cec554771b193e|adding fetch_job_spec_by_uuid method|Mon, 9 Jan 2017 09:48:43 -0500|Mon, 9 Jan 2017 09:48:43 -0500
+d018cabaa9b6ed60bfc392453d80ada5caf749c4|add get_flow_by_uuid method|Mon, 9 Jan 2017 09:42:24 -0500|Mon, 9 Jan 2017 09:42:24 -0500
+dd6efa44f6a18e7d8f19218c291531bf616498f3|adding create_flow wrapping logic|Fri, 6 Jan 2017 16:58:46 -0500|Fri, 6 Jan 2017 16:58:46 -0500
+8a5153608991f087fd851ac68a85ccd8609231b1|stubbing out tick ctx|Fri, 6 Jan 2017 16:52:44 -0500|Fri, 6 Jan 2017 16:52:44 -0500
+7f45f8d38bc69236e65251478e345ed17131013e|add create_job method to job_spec_client|Fri, 6 Jan 2017 16:49:19 -0500|Fri, 6 Jan 2017 16:49:19 -0500
+47f0b0087e6b5fa94f2871e0216df57f95271fbc|add flow_client.create_flow|Fri, 6 Jan 2017 16:45:26 -0500|Fri, 6 Jan 2017 16:45:26 -0500
+52dcf147ae31554d46ba7e9920318b9b66af654d|pass task error logging up to engine|Fri, 6 Jan 2017 16:23:50 -0500|Fri, 6 Jan 2017 16:23:50 -0500
+877993b5bd91dff5fb319c74a5c6838f47e8b878|init task key if provided|Fri, 6 Jan 2017 16:22:36 -0500|Fri, 6 Jan 2017 16:22:36 -0500
+a2afb1ff9828ad28aa517d65b73365cc60d7d3f7|pass tick context to flow runner|Fri, 6 Jan 2017 16:22:18 -0500|Fri, 6 Jan 2017 16:22:18 -0500
+01a3b4d9109d7b3fd837573593870f6b1bf7a93c|simplify registration of task classes, generator classes|Fri, 6 Jan 2017 16:02:48 -0500|Fri, 6 Jan 2017 16:02:48 -0500
+726d77ab829305e3a817a47010886b2af112af2c|add recursive registration of flow genreator dependnecies|Fri, 6 Jan 2017 15:05:41 -0500|Fri, 6 Jan 2017 15:05:41 -0500
+ddca443af3ed2ebf8bbd6b5e922e8f4bc57deff9|fix flow serialization|Fri, 6 Jan 2017 14:21:06 -0500|Fri, 6 Jan 2017 14:21:06 -0500
+3c168043eec5f430eaffe1b7fd0aafe253fa2912|fix flow test case|Fri, 6 Jan 2017 14:16:49 -0500|Fri, 6 Jan 2017 14:16:49 -0500
+68f02a359bfbb74d64b53ccd32c5a7e3e9767207|paring down reaxys flow to basic skeleton for confgen|Fri, 6 Jan 2017 13:57:50 -0500|Fri, 6 Jan 2017 13:57:50 -0500
+baa9100031dba0f89afcb8718ea8f4ec2b832b13|take out old-style of passing down jobs w/ flow|Fri, 6 Jan 2017 13:50:47 -0500|Fri, 6 Jan 2017 13:50:47 -0500
+522ea25f38acf1328219266caf8cecb19fa1319f|add logic to generate flows from specs|Fri, 6 Jan 2017 13:21:38 -0500|Fri, 6 Jan 2017 13:21:38 -0500
+611d5f18256de4c9f4cde7969ccdceabedf04704|partway through run_and_load flow|Fri, 6 Jan 2017 11:38:57 -0500|Fri, 6 Jan 2017 11:38:57 -0500
+3c3a43d20c6531a5d39a773a3ac42dd5a43c9806|add logic for getting tail nodes, by better grouping of edges for tasks|Fri, 6 Jan 2017 11:37:44 -0500|Fri, 6 Jan 2017 11:37:44 -0500
+50293f5b974c697d79d6764f84134d4651a3e90a|add input/output to flow|Fri, 6 Jan 2017 10:49:01 -0500|Fri, 6 Jan 2017 10:49:01 -0500
+506714f7cc1ddcbbb6e4e65e42b55684b186a323|better error reporting for bad ticks|Fri, 6 Jan 2017 10:33:43 -0500|Fri, 6 Jan 2017 10:33:43 -0500
+2d68ff0eaa01d29a7a78165c26b69750bebe9697|add static_input param to add_task|Fri, 6 Jan 2017 10:18:16 -0500|Fri, 6 Jan 2017 10:18:16 -0500
+32aa6eadefbee92b0a35d81dc475333f89065a7e|add data to flow object|Fri, 6 Jan 2017 10:15:15 -0500|Fri, 6 Jan 2017 10:15:15 -0500
+aaf4ae3d49ea1d4f73e0feb483c907cad4099a5d|tweaking api for adding task, to set workflow key on task|Fri, 6 Jan 2017 09:46:02 -0500|Fri, 6 Jan 2017 09:46:02 -0500
+2ddfc23677abea7e71f415b1afeac665e32c446a|cleanup input/output/error on states, disable logging for expected exceptions during tests|Thu, 5 Jan 2017 15:30:55 -0500|Thu, 5 Jan 2017 15:30:55 -0500
+489591528d7697a0a2777bb8de3fbf350b8729a1|add static input, better sorting for flow engine tests|Thu, 5 Jan 2017 14:25:32 -0500|Thu, 5 Jan 2017 14:25:32 -0500
+808b16de05770392b99fbea98ea8f9d5e48e73a3|change api for getting child tasks, starting tasks|Thu, 5 Jan 2017 11:45:28 -0500|Thu, 5 Jan 2017 11:45:28 -0500
+291a37297fd28a033a1f0c53b05dead166094575|more renaming, node => task|Thu, 5 Jan 2017 10:45:34 -0500|Thu, 5 Jan 2017 10:45:34 -0500
+7eb341e926253fa32777507366eeb6509c0ff7ba|rename workflow => flow|Thu, 5 Jan 2017 10:33:15 -0500|Thu, 5 Jan 2017 10:33:15 -0500
+d390d6ebdfd509fc34e8710622ff5337481aa69f|fleshing out confgen part of workflow|Wed, 4 Jan 2017 10:01:41 -0500|Wed, 4 Jan 2017 10:01:41 -0500
+ef5760a577c3cd0ea90edf2d6b88a21363a40dd8|partway through draft of reaxys workflow|Tue, 3 Jan 2017 15:49:53 -0500|Tue, 3 Jan 2017 15:49:53 -0500
+f4f274b9d198caf9664e3af140d25e8e2756e331|add args, kwargs to job, job_wrapper tick|Tue, 3 Jan 2017 11:54:23 -0500|Tue, 3 Jan 2017 11:54:23 -0500
+93e991a734174f3647d79fe75f723bbe3f09acbe|rename class|Tue, 3 Jan 2017 11:39:13 -0500|Tue, 3 Jan 2017 11:39:13 -0500
+dbb0908b1916c20fbb28900382e2c53fe6c318fa|inherit from base node|Tue, 3 Jan 2017 11:38:45 -0500|Tue, 3 Jan 2017 11:38:45 -0500
+303618361d93a7dfe0ef67bd1ac476324e687e60|set default node status to pending|Tue, 3 Jan 2017 11:38:37 -0500|Tue, 3 Jan 2017 11:38:37 -0500
+844b4b16d27c4b2eac44b8783bc0ce81b81a1718|init job input in tick for job wrapper, fix input key in jobs test|Tue, 3 Jan 2017 11:26:59 -0500|Tue, 3 Jan 2017 11:26:59 -0500
+39406e4d0688f193a7c13b64caa66f7f63ba9457|add string check for adding precusor/successor by id|Tue, 3 Jan 2017 09:14:51 -0500|Tue, 3 Jan 2017 09:14:51 -0500
+c01e20ab5c567afb3658386319a3ff76e0adf1ef|change api to allow list or single item for precusor/successor kwargs to add_node|Tue, 3 Jan 2017 08:56:07 -0500|Tue, 3 Jan 2017 08:56:07 -0500
+a54f5336cc1dcbb9d96b991b0fcc5dfcaf6be720|updating add_node api|Fri, 23 Dec 2016 16:20:43 -0500|Fri, 23 Dec 2016 16:20:43 -0500
+751e40854b2761f413faaf7bdeb2b2213407bb4a|pre-switch to pure graph branch|Fri, 23 Dec 2016 10:42:46 -0500|Fri, 23 Dec 2016 10:42:46 -0500
+e85d5316939c72ad7d16756201926ddd3102e4a6|first draft of testing workflow...feels kludgy still|Thu, 22 Dec 2016 14:39:12 -0500|Thu, 22 Dec 2016 14:39:12 -0500
+1058189a69ebcec5d1eda4892ecd257d31471065|refactoring to use jobwrapper node|Thu, 22 Dec 2016 10:51:23 -0500|Thu, 22 Dec 2016 10:51:23 -0500
+bf2d09f41eeafac203c7355a686084b2956d3a47|add generic job node|Wed, 21 Dec 2016 17:06:50 -0500|Wed, 21 Dec 2016 17:06:50 -0500
+712110e485aafe8e324ba8447222b58ccd4a71f0|add b3lyp node|Wed, 21 Dec 2016 16:59:07 -0500|Wed, 21 Dec 2016 16:59:07 -0500
+0dff97efb2cc03381b2891e361e3ff4136b571b2|start of confgen node|Wed, 21 Dec 2016 14:21:48 -0500|Wed, 21 Dec 2016 14:21:48 -0500
+2fc90b08cd8f484b8054361f69ed389cb9cd60ac|tweaks for workflow e2e tests|Wed, 21 Dec 2016 10:33:57 -0500|Wed, 21 Dec 2016 10:33:57 -0500
+ddfbb3d73869fcf546b9c4285c6194d8d9eff82d|tweaking workflow runner e2e test|Tue, 20 Dec 2016 18:20:15 -0500|Tue, 20 Dec 2016 18:20:15 -0500
+91f4ca9e427a29830efd19e35283fadbd2c51d00|attach workflow to node when node is added to workflow|Tue, 20 Dec 2016 12:28:46 -0500|Tue, 20 Dec 2016 12:28:46 -0500
+7c9c0ffaf7c21eeb16162d314c065bf75b22f88e|add node_type attribute|Tue, 20 Dec 2016 12:05:42 -0500|Tue, 20 Dec 2016 12:05:42 -0500
+aec4607face12dfce1cd985e1f0fbeb2cc276ddc|serialize root node id|Tue, 20 Dec 2016 11:57:05 -0500|Tue, 20 Dec 2016 11:57:05 -0500
+f939141be8937ff762b93e0b48178754b7819813|add workflow client|Tue, 20 Dec 2016 09:50:12 -0500|Tue, 20 Dec 2016 09:50:12 -0500
+7910f46712dbbf24a6e8e61413617eb987b4215c|take out spiff workflow, add in workflow api|Tue, 20 Dec 2016 08:49:38 -0500|Tue, 20 Dec 2016 08:49:38 -0500
+a9507899d4f25b1fdca18a814ab5134c7e89af80|start of workflows api|Mon, 19 Dec 2016 16:36:11 -0500|Mon, 19 Dec 2016 16:36:11 -0500
+202c013c9dd2f8aa6d04d2fee2a662b14b1864a3|add workflow_runners to workflow_engines branch|Mon, 19 Dec 2016 16:24:01 -0500|Mon, 19 Dec 2016 16:24:01 -0500
+4d46f696434c8bf57516a70101ba3218f88eb2f8|rename workflow_runner => workflow_engine|Mon, 19 Dec 2016 14:50:04 -0500|Mon, 19 Dec 2016 14:50:04 -0500
+d17af7f88479db5f5c5b444f9934babade67b84a|add default test_fn to workflow_runner|Mon, 19 Dec 2016 14:33:12 -0500|Mon, 19 Dec 2016 14:33:12 -0500
+03d0fd121bd62984db7a2ee8d4cfab9483376ca8|change workflow runners to use filter functions, add update to workflow status when no more incomplete nodes|Mon, 19 Dec 2016 13:14:39 -0500|Mon, 19 Dec 2016 13:14:39 -0500
+6d27b152a83ab2d1cbfe51c4b24430609a30ea63|filling out tick test cases|Mon, 19 Dec 2016 11:43:39 -0500|Mon, 19 Dec 2016 11:43:39 -0500
+c890f14015c0b45e8b3fc95d475a677b14c5d221|adding child node methods, get_nearest_incomplete to workflow|Mon, 19 Dec 2016 11:07:48 -0500|Mon, 19 Dec 2016 11:07:48 -0500
+92525dea5fb16b544e22f464d484d88280477eb8|fill out basic workflow tests|Fri, 16 Dec 2016 14:41:41 -0500|Fri, 16 Dec 2016 14:41:41 -0500
+112f57b87ff95f6743c772030b3b949ba69837e7|fleshing out serialization/deserialization|Fri, 16 Dec 2016 14:21:22 -0500|Fri, 16 Dec 2016 14:21:22 -0500
+28bccc7e5e23d222ad70bc670627e1d6be47239e|start of workflow runner|Fri, 16 Dec 2016 12:06:05 -0500|Fri, 16 Dec 2016 12:06:05 -0500
+c99488ce3b2c0749f721414c9b98d2f46c3c51a9|pass in handlers to dir builder|Mon, 12 Dec 2016 16:32:20 -0500|Mon, 12 Dec 2016 16:32:20 -0500
+ebf6ceb54766f48575a58398f263139bf4f39f26|fleshing out odyssey job dir builder, for rdkit_conformer_generator|Mon, 12 Dec 2016 16:07:50 -0500|Mon, 12 Dec 2016 16:07:50 -0500
+18ce43c2c072fe5d5b8793bc1a19b6a307821295|starting odyssey job dir builder|Fri, 9 Dec 2016 16:29:57 -0500|Fri, 9 Dec 2016 16:29:57 -0500
+f0de1bffc2b4282c80925d21e96713ba67c31e21|add command to create job from spec|Thu, 8 Dec 2016 11:44:20 -0500|Thu, 8 Dec 2016 11:44:20 -0500
+d413efedbe75199c55e255b75aae1e6568f3b3ec|merge in code from workflow branch|Thu, 8 Dec 2016 10:02:33 -0500|Thu, 8 Dec 2016 10:02:33 -0500
+57638e254a02da4df51398aa4612d1867e67d552|take out celery, fireworks, mongo stuff|Thu, 8 Dec 2016 09:54:01 -0500|Thu, 8 Dec 2016 09:55:45 -0500
+2600fa04218747bdbb723cdcc7694ea0780f229a|ignore mockups dir|Thu, 8 Dec 2016 09:50:24 -0500|Thu, 8 Dec 2016 09:50:24 -0500
+5fd95b1b55e5739e874defa6d496418141b458bc|spiff workflow test, w/ e2e|Tue, 6 Dec 2016 14:30:07 -0500|Tue, 6 Dec 2016 14:30:07 -0500
+68790254f06c56ecc41003c4aff410997b41c0f0|add create spec command|Mon, 5 Dec 2016 15:55:19 -0500|Mon, 5 Dec 2016 15:55:19 -0500
+a0cf7d517099f869caa156c275f3bbca9a4254e8|partway through spiff engine|Mon, 5 Dec 2016 15:09:24 -0500|Mon, 5 Dec 2016 15:09:24 -0500
+f8a506ac9d9846884a3432aa229902e5b2151d9d|switching towards spiff workflow engine|Fri, 2 Dec 2016 16:59:52 -0500|Fri, 2 Dec 2016 16:59:52 -0500
+2eeb739b87752cc6e8f935ea72d6ab6af1dcb0f9|before taking out old runner registration code|Fri, 2 Dec 2016 14:15:39 -0500|Fri, 2 Dec 2016 14:30:28 -0500
+ea13d6939f2ff840cc38259f90681286fc52768b|preparing for using spiff workflows|Fri, 2 Dec 2016 14:15:27 -0500|Fri, 2 Dec 2016 14:15:27 -0500
+017efcc1da4647fae8d39d7def05985932ec8a51|add tests for default runner dirs|Wed, 30 Nov 2016 15:00:48 -0500|Wed, 30 Nov 2016 15:00:48 -0500
+6145809c1f6c8098bbe701f66d15f5595cb5775c|fleshing out workflow registration|Wed, 30 Nov 2016 14:29:00 -0500|Wed, 30 Nov 2016 14:29:00 -0500
+787e3453f2cdd07b12e1d3dc2f542a42a304ca27|add workflow runner model|Wed, 30 Nov 2016 12:56:13 -0500|Wed, 30 Nov 2016 12:56:13 -0500
+10d0274eb8901d5a85a0c015bb98c3ca1cb82937|fleshing out e2e test for workflow, w/ poll workflow jobs task|Wed, 30 Nov 2016 11:16:54 -0500|Wed, 30 Nov 2016 11:16:54 -0500
+16ad9028fa9cc60efc956a61ff3453179acc2b72|fleshing out workflow logic|Wed, 30 Nov 2016 11:02:52 -0500|Wed, 30 Nov 2016 11:02:52 -0500
+b2cad97ca96874dfeb29498629312a93c4e729d4|sketching on workflow definitions|Tue, 29 Nov 2016 14:05:01 -0500|Tue, 29 Nov 2016 14:05:01 -0500
+57a322b57964f354f7714b1ce0149b51a4f2b646|fix up slurm clients, for running manual test|Mon, 28 Nov 2016 15:59:48 -0500|Mon, 28 Nov 2016 15:59:48 -0500
+c9025fbb9f02f7bf70b0aa41ac6d2e7fd16740dd|change to use rsync for syncing remote dir|Mon, 28 Nov 2016 13:29:39 -0500|Mon, 28 Nov 2016 13:29:39 -0500
+f27714487b2d3a1070a8499e44493bce71c2c5a0|add remote slurm execution client|Wed, 23 Nov 2016 16:35:24 -0500|Wed, 23 Nov 2016 16:35:24 -0500
+827aca43a0ee6a256494bf1ea0b330cd0f3a328f|add execution error check to base runner|Wed, 23 Nov 2016 14:32:49 -0500|Wed, 23 Nov 2016 14:32:49 -0500
+ef5663b651884be1a468f993548d145460f6cc46|add slurm execution client|Wed, 23 Nov 2016 14:16:27 -0500|Wed, 23 Nov 2016 14:16:27 -0500
+8e1ee4b8c0b955fa0836def643a118837fb82aa7|rename daemon to jobrunner|Wed, 23 Nov 2016 12:29:36 -0500|Wed, 23 Nov 2016 12:29:36 -0500
+133245a9d86c93a02dcaa08499fb358e600b7497|fleshing out e2e tests|Wed, 23 Nov 2016 10:59:03 -0500|Wed, 23 Nov 2016 10:59:03 -0500
+166c1652777c7f0818401c94c529f18611afd471|change organization of statuses, change claim jobs to return claimed spec rather than true/false|Wed, 23 Nov 2016 10:03:55 -0500|Wed, 23 Nov 2016 10:03:55 -0500
+55b19bbe1d31bb343b0669a14f9ad508eb08a364|partway through e2e tests for jobs api|Tue, 22 Nov 2016 17:26:12 -0500|Tue, 22 Nov 2016 17:26:12 -0500
+3dc07083805495b6002b242ea915467d2ed6bf33|add fetch_claimable_job_specs to client|Tue, 22 Nov 2016 17:24:29 -0500|Tue, 22 Nov 2016 17:24:29 -0500
+71955f271a9e009bb4e30000963339a86173760d|add filtering to jobs view|Tue, 22 Nov 2016 17:12:14 -0500|Tue, 22 Nov 2016 17:12:14 -0500
+fa6f859514ddcbdc21baf6a7c91f9490490593b1|change job uuid to charfield|Tue, 22 Nov 2016 13:35:55 -0500|Tue, 22 Nov 2016 13:35:55 -0500
+2199ab56e5cd97989f3fe7a5ca21efbd9958e6ed|fix requirements to includ requests lib|Tue, 22 Nov 2016 09:57:38 -0500|Tue, 22 Nov 2016 09:57:38 -0500
+f2e661386ad31a8acca72ee83425d934c485e76b|add e2e tests, change base daemon to use execution client for testing|Tue, 22 Nov 2016 09:51:47 -0500|Tue, 22 Nov 2016 09:51:47 -0500
+cd7781c290ae8ee30aea262a013b864732d10e9f|fleshing out mission control api client|Mon, 21 Nov 2016 16:09:50 -0500|Mon, 21 Nov 2016 16:09:50 -0500
+227d84c1ffb75e3c1010ce16e9eb6a0f24b4ab0e|fix filesystem storage client test to use string uuid|Mon, 21 Nov 2016 14:52:00 -0500|Mon, 21 Nov 2016 14:52:00 -0500
+76ff3da5495a7740be4e22561d5d79e177cd1946|tweaking process run state checking|Mon, 21 Nov 2016 14:48:37 -0500|Mon, 21 Nov 2016 14:48:37 -0500
+e7ba4a7344e76e2cc5f5c8058aa3b6fe096068a1|first pass at filesystem storage client|Mon, 21 Nov 2016 11:17:27 -0500|Mon, 21 Nov 2016 11:17:27 -0500
+af3fa5aa1f7507969caa84241f5d4b21f40b55fa|partway through stub local runner|Fri, 18 Nov 2016 17:15:58 -0500|Fri, 18 Nov 2016 17:15:58 -0500
+cb4204f3b96fac4830a52b9476fbcd1cc712ebe7|basic stubs for job spec client|Fri, 18 Nov 2016 14:17:08 -0500|Fri, 18 Nov 2016 14:17:08 -0500
+a616f40113cfc04070d0716e2838a316c8bd160e|change job_spec_client api a little|Fri, 18 Nov 2016 14:16:55 -0500|Fri, 18 Nov 2016 14:16:55 -0500
+4828debf290d78b3c05d4500a00be73850e02103|rename job_client to job_spec_client|Fri, 18 Nov 2016 14:04:33 -0500|Fri, 18 Nov 2016 14:04:33 -0500
+7c4c9a7e2acfbcb675dfc1cc012a791e3d8c4a3a|rename to base daemon|Fri, 18 Nov 2016 14:00:55 -0500|Fri, 18 Nov 2016 14:00:55 -0500
+3bc953a78cd0b303f01124b3464e1035179c1199|rename run => execute|Fri, 18 Nov 2016 11:40:41 -0500|Fri, 18 Nov 2016 11:40:41 -0500
+b6561018a4f58bf9ead0afb939fb90e53f4d3703|fleshing out transfer logic|Fri, 18 Nov 2016 11:34:13 -0500|Fri, 18 Nov 2016 11:34:13 -0500
+79a291cabc4605434bc24c13133e8e03af634e24|fleshing out local runner daemon|Fri, 18 Nov 2016 10:16:29 -0500|Fri, 18 Nov 2016 10:16:29 -0500
+2b4db913cdde9f0cb09b24e97c833156c297566c|fleshing out local job runner|Thu, 17 Nov 2016 09:43:14 -0500|Thu, 17 Nov 2016 09:43:14 -0500
+9652e6f7792be7fefc1497bfa7cd0ee5519d5cc9|add patch endpoint for jobs|Wed, 16 Nov 2016 14:15:03 -0500|Wed, 16 Nov 2016 14:15:03 -0500
+c37d60c9b1ec2dc71f7cb20c6e39c229bc339229|add endpoint to claim jobs|Wed, 16 Nov 2016 11:50:19 -0500|Wed, 16 Nov 2016 11:50:19 -0500
+d1e45ca68998b39f845efd9dc1f8a734ce5d93df|start of jobs listing endpoint|Wed, 16 Nov 2016 10:54:04 -0500|Wed, 16 Nov 2016 10:54:04 -0500
+f0b07171b052006f4d39ed8943ff01b1ce75e797|start of job model|Wed, 16 Nov 2016 10:12:19 -0500|Wed, 16 Nov 2016 10:12:19 -0500
+a0b118160ca8c474dda5a4584d781d2c6d5e3ecf|take out firetasks, add start of jobs|Wed, 16 Nov 2016 10:08:18 -0500|Wed, 16 Nov 2016 10:08:18 -0500
+27544c50137c545bc3c42b4ef02aa6a4eef3d5fa|poc for full request cycle, w/ stubs for processing|Tue, 15 Nov 2016 16:07:05 -0500|Tue, 15 Nov 2016 16:07:05 -0500
+a4d8deb9e13e6d14df35618fad956ab499b85cc7|poc for polling jobs|Tue, 15 Nov 2016 15:37:21 -0500|Tue, 15 Nov 2016 15:37:21 -0500
+3042eaab034a13886fd5772122d61a6ee3e1de4f|poc w/ categorized workers|Tue, 15 Nov 2016 13:38:54 -0500|Tue, 15 Nov 2016 13:38:54 -0500
+97acf6c3368df28072e84ba77f02189f7d6b5b53|poc for creating fireworks from celery task|Tue, 15 Nov 2016 10:23:44 -0500|Tue, 15 Nov 2016 10:23:44 -0500
+a2d021255804022d3e0d78fb0067356011d3c34b|add fireworks setup|Tue, 15 Nov 2016 09:09:24 -0500|Tue, 15 Nov 2016 09:09:24 -0500
+a213ebd3db14db734bc1ca275bcbc81abfcc4314|start of missions app|Mon, 14 Nov 2016 16:00:05 -0500|Mon, 14 Nov 2016 16:00:05 -0500
+ac8f6cd8f57a52750523f2b53c7fc707c6f69f96|partial fireworks implementation|Mon, 14 Nov 2016 12:01:41 -0500|Mon, 14 Nov 2016 12:01:41 -0500
+9922891b5286c2fb2c117b22f169063fc8b101d0|setting up django project|Mon, 14 Nov 2016 10:29:14 -0500|Mon, 14 Nov 2016 10:29:14 -0500
+d49055832d06917d44c722c6ba6197e411bc2b90|init repo|Mon, 14 Nov 2016 09:03:06 -0500|Mon, 14 Nov 2016 09:03:06 -0500

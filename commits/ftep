@@ -1,0 +1,1124 @@
+4c9b928e48bb1b4161d23d64053e5c9f6aa14799|Release notes for v3.5.3|Tue, 6 Jul 2021 15:48:53 +0100|Tue, 6 Jul 2021 15:48:53 +0100
+69b61a23bc94507873ebcf10cfc8e6d770d21536|Ensure L2A ordering is properly handled via L1C-based URIs|Tue, 6 Jul 2021 15:46:25 +0100|Tue, 6 Jul 2021 15:46:25 +0100
+bebdbb501f3866faa3f96528c384dca451ee06ef|Release notes for v3.5.2|Tue, 6 Jul 2021 11:43:28 +0100|Tue, 6 Jul 2021 11:43:28 +0100
+13dc5dc60a8c6d5e8f188578a72b29aa1d2ca44b|Display processing level in the search results tab|Fri, 25 Jun 2021 15:26:09 +0300|Tue, 6 Jul 2021 10:30:21 +0000
+ab534922463f14295058dab7c43f250b17c7fd52|Replace whitespace characters in output file names with underscores for ingestion|Fri, 25 Jun 2021 14:53:16 +0300|Tue, 6 Jul 2021 10:30:21 +0000
+1bb6eed0b0832e4b95764fff79d1ee9a9f08cfe7|Add new trial users to a configurable group|Tue, 6 Jul 2021 09:40:46 +0100|Tue, 6 Jul 2021 09:40:58 +0100
+cdc4b99a012445878271e03fc6bd832b26a328b6|Fix showing job outputs|Fri, 25 Jun 2021 11:14:50 +0300|Mon, 5 Jul 2021 09:19:39 +0000
+ff332c4e311ef33c0b6578ef5256adb274e00db2|Release notes for v3.5.1|Wed, 23 Jun 2021 16:48:11 +0100|Wed, 23 Jun 2021 16:48:11 +0100
+556ef088f96046d1712c924b5527581ede70a806|Bump Puppet module version|Wed, 23 Jun 2021 10:42:50 +0100|Wed, 23 Jun 2021 10:42:50 +0100
+8669592a18a65b17cb6e5fe099ed4804fbfbcab4|Provide s3fs option for eodata mounting|Wed, 23 Jun 2021 10:20:33 +0100|Wed, 23 Jun 2021 10:20:33 +0100
+7f8debc2dc20e2088fdfe0b7d30dba77904b3c6a|Update ftep-worker-base to Ubuntu 20.04|Wed, 23 Jun 2021 10:20:13 +0100|Wed, 23 Jun 2021 10:20:13 +0100
+9420600044706c2c600bf6ddb0c0ddcf9e1fd567|Dev version 3.6.0-SNAPSHOT|Mon, 21 Jun 2021 15:03:26 +0100|Mon, 21 Jun 2021 15:03:26 +0100
+bd3166ebe96e3baf4723f1758f18a627ff54b1a5|Release notes for v3.5.0|Mon, 21 Jun 2021 14:03:31 +0100|Mon, 21 Jun 2021 15:02:10 +0100
+05521138833087bb5ea6b7f1b6e288a9786e6182|NullPointerException fix|Mon, 21 Jun 2021 16:25:07 +0300|Mon, 21 Jun 2021 13:33:23 +0000
+a0b1ea48ff5866ddd5babd5cbd67866dc65a950d|Allow special characters in service files|Mon, 21 Jun 2021 15:51:30 +0300|Mon, 21 Jun 2021 13:05:11 +0000
+9b31074ae1723ac7247c1b454bd381b3c21938b0|Synchronise Puppet ftep::monitoring changes, fix Jolokia metrics|Mon, 21 Jun 2021 09:05:58 +0100|Mon, 21 Jun 2021 13:04:49 +0000
+02e90cb38abe2a7d23459cb5c1750c570ef64360|Implement Sentinel-2 L2A product searches via L1C|Mon, 21 Jun 2021 02:40:22 +0300|Mon, 21 Jun 2021 12:16:49 +0000
+2d19d99b66df63089e9d12492bdf5e8b88b610fc|Improve Orchestrator reliability|Tue, 8 Jun 2021 11:01:02 +0100|Mon, 21 Jun 2021 12:14:04 +0000
+2230a3a6ab6fb62eb29f0339f9154fac2927e3fb|Optimise job lists|Thu, 10 Jun 2021 14:31:01 +0300|Mon, 21 Jun 2021 12:14:04 +0000
+459ab38d77963993ae345c4fb00ac2ada7b2b1c2|Add user's first name and last name from Shibboleth|Mon, 3 May 2021 14:24:40 +0300|Wed, 16 Jun 2021 08:42:03 +0000
+aaf2eb5be929c30194bda6c26b610e07ead31ad2|Prevent multiple image build statuses from being shown at the same time|Fri, 11 Jun 2021 14:25:39 +0300|Wed, 16 Jun 2021 08:41:39 +0000
+dd5cf9fad91ab37a3aa6a7715fe186025de18726|Type change for processing quota|Fri, 11 Jun 2021 14:23:03 +0300|Wed, 16 Jun 2021 08:41:39 +0000
+fda6ecb55c7e5fc2902b17c6107146e5a956a9ae|Add cancelled icon for jobs and image builds|Thu, 10 Jun 2021 16:30:05 +0300|Wed, 16 Jun 2021 08:41:04 +0000
+e7f1c14e1b7a368ef76029277deef34d4fd1dd4c|Specify SSH connection timeout for node provisioning|Wed, 9 Jun 2021 14:13:08 +0100|Fri, 11 Jun 2021 08:13:59 +0000
+0714f6e0fc43233e937d1ccdecf11dc28fb56366|Fix eodata mount parameters|Wed, 9 Jun 2021 14:15:58 +0100|Wed, 9 Jun 2021 13:44:44 +0000
+a32da36a11813e0673889999defd563fe4f348d7|Add logging for SSH commands|Wed, 9 Jun 2021 11:30:45 +0300|Wed, 9 Jun 2021 12:30:35 +0300
+21abb6cf90ff151f5a2c595a1e51161004df0151|Update Puppet module|Thu, 3 Jun 2021 09:12:25 +0100|Thu, 3 Jun 2021 09:12:25 +0100
+b00c1cb20260134878b2b2ae6af322e519f25f7a|Dev version 3.5.0-SNAPSHOT|Thu, 3 Jun 2021 08:58:38 +0100|Thu, 3 Jun 2021 08:58:38 +0100
+3850243a1ecf7fadc80d9ada1d4a2553ee0cff50|Release notes for v3.4.0|Thu, 3 Jun 2021 08:58:29 +0100|Thu, 3 Jun 2021 08:58:29 +0100
+74b167f418f70d0891629fac3798e37dbef9e132|Provide Traefik alternative for GUI proxying|Mon, 17 May 2021 16:32:13 +0100|Thu, 3 Jun 2021 07:50:10 +0000
+3daf9bf744ad8b7d5dad75aadb9a2251457047a5|Give services read access to /eodata|Fri, 28 May 2021 11:21:59 +0300|Wed, 2 Jun 2021 23:05:04 +0300
+0441b037fdebd027e614d9c168aadd50d3a38427|Add admin UI for subscriptions|Tue, 1 Jun 2021 13:00:17 +0300|Wed, 2 Jun 2021 16:11:33 +0300
+330050a27cfeee04f621e3a78957b68488bba3a5|Add user UI for subscriptions|Fri, 28 May 2021 14:50:47 +0300|Mon, 31 May 2021 14:51:51 +0300
+5b22ce134a284862aacbe2867b77c24a68fda5ed|Subscription data model|Tue, 25 May 2021 10:17:39 +0300|Mon, 31 May 2021 14:51:29 +0300
+3364913f6bc0e4f063fffed38abb6fef389f8cf5|Allow users with USER role to create new services|Fri, 28 May 2021 16:12:45 +0300|Fri, 28 May 2021 16:13:00 +0300
+737acc6fcd9ff0bfe21e11dff9b4784705417ace|Release notes for v3.3.0|Tue, 25 May 2021 14:01:27 +0100|Tue, 25 May 2021 14:23:31 +0100
+4ea2121c7b610ab6adb4ced32f459d7128832c0b|Safely tear down Jobs no longer attached to a container|Thu, 20 May 2021 13:31:43 +0100|Tue, 25 May 2021 14:22:50 +0100
+372e12e7d8c4a7bf0ea5b6d51bd75e08b2ab9a84|Enable stopping service image builds|Tue, 25 May 2021 15:36:40 +0300|Tue, 25 May 2021 12:57:18 +0000
+8c2858509f95d869ff61c78e36c354edb11af71a|Fix adding files to baskets|Mon, 17 May 2021 15:22:08 +0300|Tue, 25 May 2021 10:27:04 +0300
+f8c8c1ab58ba046a366807c1e71187e542a71b9e|Remove bulk processing|Thu, 13 May 2021 14:13:41 +0300|Fri, 21 May 2021 06:49:14 +0000
+86318eecf6d7aef53918440ebe2561505180584a|Fix manually adding values to single-value input fields|Tue, 18 May 2021 10:59:05 +0300|Thu, 20 May 2021 06:47:03 +0000
+b54e1acd36c8e99cdc235b9970d52a1fed0c5aa7|Add validation for service name uniqueness|Tue, 11 May 2021 14:36:09 +0300|Thu, 20 May 2021 06:46:47 +0000
+88ff54be55703bc649a92858ecdbc5e086a1f823|Add MapBox attribution|Wed, 12 May 2021 12:08:00 +0300|Fri, 14 May 2021 14:55:58 +0300
+2b9d222ec895ca0979a4f2448533822710a8e3a6|Add MapBox satellite and terrain maps|Thu, 13 May 2021 17:29:16 +0300|Fri, 14 May 2021 12:27:22 +0300
+1ce8dd1f96a2e89ac8e822f93fde0a5c45df2c02|Remove helpdesk page, link to an external helpdesk page|Mon, 10 May 2021 11:23:06 +0300|Thu, 13 May 2021 13:42:23 +0000
+fb48d9e95c96efd6eab39aac607b3b593af6dd44|Release notes for v3.2.2|Tue, 11 May 2021 15:48:52 +0100|Tue, 11 May 2021 15:48:52 +0100
+e835d82759640ee812b479d113126bcfa729ddba|Fix scaling down count behaviour|Tue, 11 May 2021 09:17:54 +0100|Tue, 11 May 2021 10:57:20 +0000
+b0da38969eb4de4b83f2b26b392d9479f8126053|Fix a typo in ACL listener|Tue, 11 May 2021 11:50:12 +0300|Tue, 11 May 2021 11:50:12 +0300
+ddaf30e6deaee27917c60cefdddcaa5e8d04f034|Update hasPermission directive with new permissions|Mon, 10 May 2021 17:14:02 +0300|Tue, 11 May 2021 10:58:01 +0300
+85a6b6e3cfb0a5ed967b34c83d66c4b8ce4e23a0|Release notes for v3.2.1|Fri, 7 May 2021 13:53:02 +0100|Fri, 7 May 2021 13:53:02 +0100
+8a14df63fbf1d9f032100150dd25e3ae4f014ab0|Upgrade permissions for existing services|Thu, 6 May 2021 15:33:58 +0300|Fri, 7 May 2021 09:46:48 +0000
+b555504f0dec20e052c47ca905b6cb903215aabd|Add ACTIVE condition to CREODIAS node listing, tear down more safely|Wed, 5 May 2021 12:55:40 +0100|Wed, 5 May 2021 13:04:29 +0100
+27e39181b051c4836edadbd454ef126eab1cf65b|Dev version 3.3.0-SNAPSHOT|Wed, 5 May 2021 08:48:38 +0100|Wed, 5 May 2021 08:48:38 +0100
+8df9532255efa3c0de27ca2b698be0d0ad9d2c2c|Release notes for v3.2.0|Wed, 5 May 2021 08:47:58 +0100|Wed, 5 May 2021 08:47:58 +0100
+e133b12da279c9316a4e84b28d2e866aecc8518f|Front-end support for new service permissions|Wed, 5 May 2021 10:30:10 +0300|Wed, 5 May 2021 07:39:57 +0000
+6d3b0a982aee4bd31abec6f4481c8df17ea2eb26|Fix Worker integration tests|Tue, 4 May 2021 17:24:49 +0100|Wed, 5 May 2021 07:25:01 +0000
+86ceb04f97db01dc8a909ca29961ed952d77806c|Clean the worker cache upon file deletion|Mon, 26 Apr 2021 12:46:56 +0300|Tue, 4 May 2021 19:25:04 +0000
+3c447150abda090f6e8d2e16313f8c9f68832e2f|Split permissions for viewing and launching services|Tue, 27 Apr 2021 10:27:41 +0300|Tue, 4 May 2021 19:24:45 +0000
+59f65d41b9b7aedb1339579a810c34c4c7ef75c1|Ensure only users with WRITE permission can modify service files|Wed, 21 Apr 2021 12:49:13 +0300|Tue, 4 May 2021 19:24:45 +0000
+7d2795d38e0a41301e9fab43768259efb5d7e86b|Expose the Developer tab to all users|Thu, 15 Apr 2021 15:50:37 +0300|Tue, 4 May 2021 19:24:45 +0000
+69116be801e5aca413004f59f005f629027928a2|Dev version 3.2.0-SNAPSHOT|Tue, 4 May 2021 10:32:22 +0100|Tue, 4 May 2021 16:49:00 +0100
+5d7e8d67f7a4d9810adab221add98cb2fdbe502b|Prompt when changing services with changed file contents|Fri, 30 Apr 2021 15:16:49 +0300|Tue, 4 May 2021 12:57:22 +0000
+45a0bad310f309c4b15940218118d4a63de2558e|Introduce randomness to symlink directory names to prevent collisions|Fri, 30 Apr 2021 12:39:49 +0300|Tue, 4 May 2021 12:57:00 +0000
+dff6f289c12c189b615ca9ee8a54e4febab98d0e|Enforce input multiplicity checks for single input fields|Wed, 14 Apr 2021 17:52:46 +0300|Tue, 4 May 2021 11:12:00 +0000
+0a8451f1e6b8fe9701f91df394c612d82691ad6a|Correct autoscaling target logic|Wed, 28 Apr 2021 16:50:56 +0100|Wed, 28 Apr 2021 16:51:16 +0100
+dfe45c24d6319b240c2ea851fe9c6e3508b1c28e|Release notes for v3.1.3|Tue, 27 Apr 2021 11:14:58 +0100|Wed, 28 Apr 2021 10:16:30 +0100
+4aa9b92514edf8c3f76913d5548265499e653154|Correctly tag processing image before pushing|Wed, 28 Apr 2021 10:15:57 +0100|Wed, 28 Apr 2021 10:16:07 +0100
+76ecd8f75ca2a69e91e33df7abb61b2122ecf87f|Ensure scale-down operations proceed|Tue, 27 Apr 2021 10:44:52 +0100|Tue, 27 Apr 2021 10:44:56 +0100
+012d29862ce150f128ee0672ab7a270d619f8f6d|Maximise Worker concurrency|Mon, 26 Apr 2021 22:17:51 +0100|Mon, 26 Apr 2021 22:17:51 +0100
+902c54c924759eddb9c7cb458cd077110e0aeca9|Release notes for v3.1.2|Mon, 26 Apr 2021 19:14:13 +0100|Mon, 26 Apr 2021 19:14:13 +0100
+4db53fd18f6f3954daf11687fe2aac71a24b4dec|Refactor FtepWorkerNodeManager and Autoscaler|Fri, 23 Apr 2021 11:58:45 +0100|Mon, 26 Apr 2021 15:44:17 +0100
+459457bd74c4b852eb9228c47c528b4e668d916d|Prevent storing Worker references in FtepJobLauncher|Fri, 23 Apr 2021 11:58:09 +0100|Fri, 23 Apr 2021 11:58:11 +0100
+bd896f5a1e7c1894fa85b39ad34818559319900d|Release notes for v3.1.1|Wed, 21 Apr 2021 07:22:41 +0100|Wed, 21 Apr 2021 07:22:41 +0100
+e2e67358150e01b820f821be0266c58603cef8f9|Improve autoscaling responsiveness|Mon, 19 Apr 2021 17:20:35 +0100|Tue, 20 Apr 2021 13:16:50 +0100
+fc4848c3f3eb251a44befd6c8abc286c9a8e3a92|Release notes for v3.1.0|Mon, 12 Apr 2021 09:45:11 +0100|Mon, 12 Apr 2021 09:45:11 +0100
+389935374056fce4cd7a00a59e91d61ee765f677|Fix concurrency issues in FtepWorker|Fri, 9 Apr 2021 09:31:54 +0100|Fri, 9 Apr 2021 09:41:58 +0000
+8d8ce5f12a950efed2ad31b4154ab19ab79805a7|Synchronise IPT nodes|Tue, 6 Apr 2021 17:27:25 +0300|Fri, 9 Apr 2021 08:50:28 +0000
+a201190c0950e226ba658a54339021d6e997e670|Display new user fields in users collection|Tue, 6 Apr 2021 15:00:23 +0300|Wed, 7 Apr 2021 11:07:55 +0000
+c6144c879ec81095b60db061a62cee0a8edd221b|Release notes for v3.0.0|Tue, 6 Apr 2021 10:04:18 +0100|Tue, 6 Apr 2021 10:05:37 +0100
+c03ba383f1ef3d5702f1c269feea2fbedef5cfc4|Refactor worker|Fri, 26 Mar 2021 11:43:14 +0200|Tue, 6 Apr 2021 07:39:00 +0000
+bead892da92b428a742ddcf46bfd12bb0fa37426|Release notes for v2.16.0|Thu, 1 Apr 2021 15:45:11 +0100|Thu, 1 Apr 2021 15:45:11 +0100
+9d2588e266cb7c9a868a3ed417963756d3e412eb|Secure REST API endpoints to admins and subscribed users|Thu, 1 Apr 2021 12:27:19 +0300|Thu, 1 Apr 2021 12:27:19 +0300
+c1087ad9a0a9aeeec4570b4cb075fdbaabb70d21|Initial support for subscription|Thu, 25 Mar 2021 10:12:51 +0200|Thu, 1 Apr 2021 10:51:17 +0300
+ca74a4ab9cce2270a5e30086e54cb6242daa1a8f|Fix ZOO-Project URL|Thu, 1 Apr 2021 08:39:22 +0100|Thu, 1 Apr 2021 08:39:22 +0100
+d227d9d823a7e11cefff3ffa786ae6f365b0d5a0|Optimise job orchestration, eagerly release gRPC response observer|Tue, 23 Mar 2021 16:39:10 +0000|Thu, 25 Mar 2021 09:25:28 +0000
+d7c0fc6ac7724e4e598aafed51467d1d94aae697|Add job recovery to worker|Wed, 17 Mar 2021 12:30:09 +0200|Thu, 18 Mar 2021 15:58:09 +0200
+cea431fac7561bd3211df54b3eba6310d55414c9|build.gradle.ktsDev version 3.0.0-SNAPSHOT|Fri, 12 Mar 2021 09:52:07 +0000|Fri, 12 Mar 2021 09:52:07 +0000
+faeac30ed2a06d9be6031b54924f3b280d6d86bd|release-notes/Release notes for v2.15.0|Fri, 12 Mar 2021 09:50:59 +0000|Fri, 12 Mar 2021 09:50:59 +0000
+62120caaaa4f2f5599ad2b9503ba13e6e7d0e898|Store and publish Docker image build logs|Thu, 11 Mar 2021 13:51:42 +0000|Thu, 11 Mar 2021 15:53:43 +0000
+f8d78a93ad7e9889dd0783c2b30b40346581eb62|Update Docker API client|Wed, 10 Mar 2021 09:43:27 +0000|Thu, 11 Mar 2021 13:52:40 +0000
+67042e6e1e46dfa79b6b2ce64a4e048490317a9f|Separate filtering methods for users and allow non-admins to query users by ID|Wed, 10 Mar 2021 15:35:12 +0200|Wed, 10 Mar 2021 15:43:04 +0000
+8e44e89129d06898012d5fe54a8b64c73edf6e14|Release notes for v2.14.0|Tue, 9 Mar 2021 13:44:10 +0000|Tue, 9 Mar 2021 13:44:10 +0000
+e1a2e4ce682f34cf8b9177bb6bd671086ac2f9e9|Store user's country code from IdP|Tue, 9 Mar 2021 09:31:58 +0000|Tue, 9 Mar 2021 09:31:58 +0000
+ffca624f2f67cb98d18ab84a6815c8ffb948685a|Registry image tag fix|Thu, 4 Mar 2021 16:06:18 +0200|Thu, 4 Mar 2021 16:06:18 +0200
+24e2fea4cea494ebed5c329b02399f7b8010657f|Remove emails from add person to group form|Wed, 3 Mar 2021 11:59:56 +0200|Wed, 3 Mar 2021 14:15:24 +0000
+06570bb5bbc2817e8fbfaeacf8eb1523a5fa5204|Restrict users endpoint to admins only|Tue, 2 Mar 2021 14:33:36 +0200|Wed, 3 Mar 2021 14:15:24 +0000
+0e498205ae17a150fd11edc1cfe438d3b164db67|Release notes for v2.13.0|Mon, 1 Mar 2021 16:48:52 +0000|Mon, 1 Mar 2021 16:48:52 +0000
+62d9b60f50c424f8fde2e8266359b7d3b13d54a3|Update VegetationIndices default service|Tue, 23 Feb 2021 10:15:23 +0000|Fri, 26 Feb 2021 13:27:50 +0000
+e7c319c66127e321eca04972af3a7ef348745bd1|Hide coin-related info from Admin and My Account tabs|Fri, 26 Feb 2021 11:54:11 +0200|Fri, 26 Feb 2021 11:57:09 +0000
+ed1c71473f75c3146adca3404879023d19629102|Hide coin cost prompts from UI|Thu, 25 Feb 2021 15:07:12 +0200|Fri, 26 Feb 2021 11:57:09 +0000
+b3ec1ee87bf848b05a68ee3b03224bf322a4f252|Allow coin charging to be disabled|Fri, 26 Feb 2021 09:25:12 +0000|Fri, 26 Feb 2021 10:54:41 +0000
+ea8d998a05d129252110412a393aac5757716cb0|Update Puppet module|Fri, 26 Feb 2021 09:18:28 +0000|Fri, 26 Feb 2021 09:18:55 +0000
+2f722393b89abe36b4e9663ea4369a6e4935faa0|Push Docker images to registry after building if applicable|Thu, 25 Feb 2021 10:48:53 +0200|Thu, 25 Feb 2021 12:27:13 +0200
+2270d779c20714610e9cc12c97a7c46cf8354720|Frontend support for viewing and triggering Docker image builds|Thu, 18 Feb 2021 16:23:34 +0200|Thu, 25 Feb 2021 08:53:09 +0000
+40bd160b3a8e9174c987fa205d54199634f9d78b|Implement Docker image building flow via JMS queues|Mon, 15 Feb 2021 17:37:39 +0200|Thu, 18 Feb 2021 11:04:50 +0000
+450d89cea853aea9481c52d6be238dc99ae10d6e|Update Puppet module for EO-IAM|Wed, 10 Feb 2021 17:58:42 +0000|Fri, 12 Feb 2021 11:47:48 +0000
+74416360569b29498a3e8fd4701f5916e5095e6c|Fix Vagrantfile r10k install for outdated ruby|Wed, 10 Feb 2021 17:58:21 +0000|Fri, 12 Feb 2021 11:26:08 +0000
+6e7f81e4561d95dd5a3a809b0dce8d63646aa636|Replace SSO references|Wed, 10 Feb 2021 11:36:10 +0200|Fri, 12 Feb 2021 10:39:54 +0000
+0983b1f3c5a7e437876163c49e62a511d42fa536|Fix osgeo and geosolutions repo urls|Tue, 9 Feb 2021 19:24:15 +0000|Wed, 10 Feb 2021 13:11:02 +0000
+7a412cce05c52a1d4952a90c76cd04624a963522|Update Gradle and plugins|Tue, 9 Feb 2021 19:56:12 +0000|Tue, 9 Feb 2021 20:53:32 +0000
+89995a9057dadb1d6fd300c911ff72191983ec53|Release notes for v2.12.0, systematic-processing docs|Thu, 10 Oct 2019 10:11:01 +0100|Thu, 10 Oct 2019 09:21:59 +0000
+7bdd13b13c2a252becd030fdbb3666e9bd3b4136|Hide systematic processing in simple config mode|Thu, 10 Oct 2019 09:46:34 +0100|Thu, 10 Oct 2019 09:46:34 +0100
+e5d694c80325a615e150839c57042ff18a5a9ec0|Bump Puppet module version|Sun, 22 Sep 2019 15:10:10 +0100|Mon, 7 Oct 2019 12:52:59 +0000
+b1ab5eae3b902fbc9b8d84e2352f0a2b75b18dd8|Make dynamic node prefix configurable|Fri, 20 Sep 2019 14:55:15 +0100|Mon, 7 Oct 2019 12:52:54 +0000
+66fa9ce49a3afccb5e746aa6b1dd8e8e5882b6b9|Systematic processing integration|Fri, 26 Jul 2019 16:03:06 +0300|Mon, 7 Oct 2019 12:52:39 +0000
+c214319d73d479392d113084a1e7773c500a791d|Implement Systematic Processing persistence|Fri, 21 Jun 2019 11:03:47 +0100|Mon, 7 Oct 2019 12:52:39 +0000
+61fbac5fa36b8f06a43ec1ff791a8461d59c784c|Initial implemention of sys monitoring|Tue, 4 Jun 2019 09:16:48 +0100|Mon, 7 Oct 2019 12:52:39 +0000
+54aedcd8742a1b839aeb0769ee838bcd676e2a5a|Prevent invalid ordering of uncatalogued L2A products|Thu, 3 Oct 2019 15:17:38 +0100|Thu, 3 Oct 2019 15:17:38 +0100
+a846e554d82c4779564a776f0ac677f528841cdc|Dev version 2.12.0-SNAPSHOT|Fri, 20 Sep 2019 14:43:27 +0100|Fri, 20 Sep 2019 14:43:27 +0100
+b1502bcfbec58b8616a6a8d932e8781fa7537246|Release notes for v2.11.0|Thu, 19 Sep 2019 11:52:22 +0100|Thu, 19 Sep 2019 13:11:54 +0000
+9ab119de31c327027f27b8c97ae78e650742a05d|Improve resilience of CREODIAS L2A product ordering|Thu, 19 Sep 2019 11:36:19 +0100|Thu, 19 Sep 2019 13:11:47 +0000
+43a79896c7d71d2bd91afe0c77fad6c0ded475b0|Add Packer config to build dynamic worker base image|Fri, 23 Aug 2019 09:59:29 +0100|Thu, 19 Sep 2019 12:46:08 +0000
+63b4352f859bbed3b56387cfc239b729c898bc6d|Update cloud configuration for dynamic worker VMs at CREODIAS|Thu, 22 Aug 2019 15:50:31 +0100|Thu, 19 Sep 2019 12:45:03 +0000
+dce848a1f002ddeeb368c3af768741b7d03e4ec7|Fix default IptEodataServer search URL|Tue, 17 Sep 2019 09:46:07 +0100|Thu, 19 Sep 2019 12:44:51 +0000
+ff1ac0d02f6434e8be8f66c2cb8eddbc2d255082|Fix service creation with default files|Thu, 12 Sep 2019 11:42:48 +0100|Thu, 19 Sep 2019 12:44:39 +0000
+396baed9e714c213fee8fbe79117d89fc1e7230a|API key generation (docs)|Tue, 10 Sep 2019 14:01:38 +0100|Tue, 10 Sep 2019 14:01:38 +0100
+68088b781353e9ad537f54a5b609f01991593e94|API key generation (puppet module)|Tue, 10 Sep 2019 13:52:33 +0100|Tue, 10 Sep 2019 13:52:33 +0100
+77b32ce9b341f32ad332df6ead6cfab58366b14e|API key generation (front-end)|Thu, 1 Aug 2019 11:14:06 +0300|Tue, 10 Sep 2019 12:32:25 +0100
+7b008f5b531b1c0eb26f3313b254c5d4ea28e447|API key generation (back-end)|Tue, 10 Sep 2019 11:20:19 +0100|Tue, 10 Sep 2019 12:04:29 +0100
+d674cc2566cd9a5e8f3a09c447fd425dc609aee5|Dev version 2.11.0-SNAPSHOT|Fri, 9 Aug 2019 17:21:25 +0100|Fri, 9 Aug 2019 17:21:25 +0100
+7fe293a55e4a4b2e766dc2c4e67fee522864695c|CREODIAS product ordering|Tue, 2 Jul 2019 11:57:17 +0300|Fri, 9 Aug 2019 16:20:22 +0000
+c65ff0d49d7aca18fb4b0bc91472e14e6fa3ce0c|Release notes for v2.10.0|Fri, 9 Aug 2019 09:40:36 +0100|Fri, 9 Aug 2019 09:40:36 +0100
+d6db55af5360ed4a8857dfe63ba928cba7950cb2|Deletion of files (front-end)|Wed, 31 Jul 2019 09:50:06 +0300|Wed, 31 Jul 2019 09:50:06 +0300
+35c814437504838b468d4823d0a7b0fed41b8f4d|Deletion of files prompt for broken associations|Mon, 1 Jul 2019 12:20:41 +0300|Wed, 31 Jul 2019 09:34:53 +0300
+6aed421b9c3955c0dd2eb133e0dc9438a09c9f2d|Release notes v2.9.1|Wed, 10 Jul 2019 12:29:38 +0100|Wed, 10 Jul 2019 12:29:38 +0100
+2089bc14f784f712a6d262277a3660fdebc32188|Allow worker specification in queue|Wed, 10 Jul 2019 11:00:16 +0100|Wed, 10 Jul 2019 12:25:36 +0100
+b4fcf6fe773a3a38b303a68bbe72b0543288bf5d|Fix deprecated URL in portal pages|Mon, 8 Jul 2019 16:21:10 +0100|Mon, 8 Jul 2019 16:21:10 +0100
+d16733b2dbf4f1ceca5eeb8b234760b0f9f8fd23|Dev version 2.10.0-SNAPSHOT|Tue, 2 Jul 2019 17:17:43 +0100|Tue, 2 Jul 2019 17:17:43 +0100
+034727facf56c10480d1188c1df3e6f704cc924f|Use GML to parse FIS, store FIS geometry as envelope|Mon, 1 Jul 2019 15:43:22 +0100|Tue, 2 Jul 2019 14:22:42 +0000
+a6aa3428dcae0b3d13fb410a9cd941bb683f888b|Bump Puppet module revision|Mon, 1 Jul 2019 15:34:12 +0100|Tue, 2 Jul 2019 14:22:42 +0000
+de361445dbfff3882fb997c684222c753cb3cb32|Fix Files view filter refresh|Mon, 1 Jul 2019 12:16:48 +0100|Tue, 2 Jul 2019 14:22:42 +0000
+bc05c138074ce2cdffde93e85a01deb2e8161940|Prevent duplicate mount point in Docker containers|Mon, 24 Jun 2019 10:17:05 +0100|Tue, 2 Jul 2019 14:22:42 +0000
+1c2d89a93367a3b77c0c839696f33636fc091071|Add local documentation for REST API and dynamic service parameters|Mon, 1 Jul 2019 17:40:51 +0100|Tue, 2 Jul 2019 14:22:39 +0000
+b56436eaaacccb83101ebf85487d200f207efdf0|Release notes for v2.9.0|Tue, 2 Jul 2019 09:08:24 +0100|Tue, 2 Jul 2019 14:22:36 +0000
+02b0fc27be87b7df0f3c12287650b20a6f79d30c|Publish Files view for all users|Tue, 2 Jul 2019 08:42:28 +0100|Tue, 2 Jul 2019 17:16:23 +0300
+8ef8cad1d1e0e2782877d3ef0e9b4bc808f885eb|Geometry extraction for the FIS file type|Tue, 11 Jun 2019 18:10:31 +0300|Tue, 25 Jun 2019 12:16:31 +0000
+79d3ea0d157c535c13f2c83408d7ed69cc324531|Update dependency versions|Tue, 11 Jun 2019 14:28:25 +0100|Tue, 25 Jun 2019 12:08:02 +0000
+6561fdcd3a0b2e73461153fc62b83837efa33511|Fix sticky search parameters|Mon, 10 Jun 2019 11:39:34 +0100|Tue, 25 Jun 2019 10:21:35 +0000
+ac856ee9f89ac6019cd8f5fb1b31cbff2ae25658|Development files|Fri, 24 May 2019 09:55:54 +0100|Mon, 24 Jun 2019 08:24:39 +0000
+7afc6e3a654741623c45a9ce7c4ee95776a62cae|Reference data upload improvements in the Files tab|Wed, 19 Jun 2019 11:37:06 +0300|Fri, 21 Jun 2019 08:57:53 +0000
+ce1f702de3ce315589017116fed312408cb925e4|Minify JavaScript resources|Thu, 6 Jun 2019 11:39:59 +0100|Wed, 19 Jun 2019 12:01:56 +0000
+1ecd1e0b8d3740d8bdd903584882fcc811abbf29|Work around active.user vs. Files API call race condition|Thu, 6 Jun 2019 10:53:56 +0100|Wed, 19 Jun 2019 12:01:37 +0000
+c37465792e37310e2ccd5dfc81309c855e45cbd6|File type and geometry auto-detection for reference data|Tue, 28 May 2019 11:32:02 +0300|Mon, 17 Jun 2019 11:20:56 +0000
+1fb1678fb3e2a19e30a47f10860b021e4cd6f3a7|Allow the value 0 for integer type search fields|Fri, 14 Jun 2019 14:56:37 +0300|Mon, 17 Jun 2019 06:48:27 +0000
+22932308ab3beb17f776a0c66de6adce2342c36c|Undefined AOI parameter fix|Fri, 14 Jun 2019 11:44:37 +0300|Mon, 17 Jun 2019 06:35:26 +0000
+489b9dc9e158fa0d59244edd705b74110de65008|Generating per-user usage reports|Wed, 5 Jun 2019 11:50:48 +0300|Fri, 14 Jun 2019 14:27:44 +0000
+a7fbab9df6af7646c44bf9799cd1f8c874c321c2|Fix findAll FtepFiles query performance|Thu, 6 Jun 2019 13:27:40 +0100|Fri, 14 Jun 2019 14:15:35 +0000
+0cabb94556b7405b3fc65f207cd182fb6a41914c|Search databaskets by the ID|Wed, 12 Jun 2019 17:32:26 +0300|Fri, 14 Jun 2019 13:05:18 +0000
+69fb06be65493b9df616883d18d57cfd5a17870a|Mount "procDir" workspace to host volume|Fri, 7 Jun 2019 09:35:00 +0300|Wed, 12 Jun 2019 12:48:55 +0000
+c081aad7f2854c5aa12f2c2b06d6079c37132448|Export data usage report in JSON format|Fri, 17 May 2019 13:29:45 +0300|Wed, 12 Jun 2019 06:37:07 +0000
+7a14bdcae03c2c35f53b7e5314408517dc2825bb|Release notes for v2.8.1|Wed, 5 Jun 2019 15:26:02 +0100|Wed, 5 Jun 2019 15:26:02 +0100
+301b548b04b5dd5cea00c82325764141a74717ed|Fix and tidy Files view and API usage|Tue, 4 Jun 2019 15:10:04 +0100|Wed, 5 Jun 2019 14:21:00 +0000
+c859ff5842880f5242b5b2b37755187bb8cf12cf|Fix detailed Files view template path|Tue, 4 Jun 2019 10:46:32 +0100|Wed, 5 Jun 2019 14:21:00 +0000
+3e06a1a0bcff4e9dbbf8be1772b42a5ba2163ca8|Bump puppet module revision|Wed, 5 Jun 2019 09:19:46 +0100|Wed, 5 Jun 2019 14:06:19 +0000
+d6277f505f4eb1333f3d8f2ddfd9156a337dfaed|Safely handle missing geometry in Files view|Tue, 4 Jun 2019 11:41:24 +0100|Tue, 4 Jun 2019 15:04:28 +0000
+53f39c7960594273ff7eacaa2b1e85561c8d9c9e|Dev version 2.9.0-SNAPSHOT|Tue, 4 Jun 2019 10:29:38 +0100|Tue, 4 Jun 2019 10:29:38 +0100
+ee9089a77ce8109dd87b8150e212b1863c17dad8|Add User Data Workspace resource processors|Mon, 3 Jun 2019 12:44:25 +0100|Mon, 3 Jun 2019 14:38:54 +0000
+84fd699581a37c124e19519b8ef5c4f954f3c83d|Release notes for 2.8.0|Mon, 3 Jun 2019 11:15:17 +0100|Mon, 3 Jun 2019 14:38:43 +0000
+c648bd338b2438e4c97755f5c82082656e42826c|Service Docker containers are launched with specific inputs (not entire cache).|Fri, 17 May 2019 18:39:37 +0300|Mon, 3 Jun 2019 11:41:38 +0000
+7c1606e0b2fc46fa92351ef11b6396f165a870c4|Fix files styling, sorting, parameter function|Wed, 29 May 2019 14:06:13 +0100|Mon, 3 Jun 2019 11:41:16 +0000
+164affd831a932e5cabe1dd127fa4d1d7fb8c7f2|Add User Data Workspace API endpoints and projections|Thu, 23 May 2019 16:03:23 +0100|Mon, 3 Jun 2019 11:40:42 +0000
+4a8921aeeca2f248bea744e5eb630f822490cf6d|Added delete easy mode option, improved zero product error, improved styling|Wed, 22 May 2019 12:04:26 +0100|Mon, 3 Jun 2019 10:14:32 +0000
+e3681d688836e911b6e65fdc58e4981fb233561b|Propagate JobExpasionException to cost estimation API|Wed, 22 May 2019 12:17:16 +0100|Mon, 3 Jun 2019 11:14:17 +0100
+e75acbea8d3fe0c3d253a1305c7a199afb429d81|Handle search parameter expansion resulting in no input products|Mon, 20 May 2019 09:15:57 +0100|Mon, 3 Jun 2019 09:14:26 +0000
+55b8b55eb199f548ba8371dfdf4b11daeedc0df2|Add filesize to FtepFile excerpt projection|Mon, 20 May 2019 09:15:24 +0100|Mon, 3 Jun 2019 09:14:16 +0000
+d589bf194a3d54b7e1d9dfe6146d26c5302f7e4b|Add initial functionality to User Data Workspace Tab|Wed, 1 May 2019 16:18:01 +0100|Fri, 24 May 2019 17:14:09 +0100
+536c1a31525cd707102951180ee3191338060d1b|Fix search date values|Fri, 17 May 2019 08:23:12 +0100|Tue, 21 May 2019 08:50:18 +0000
+9a7749ae0353a83318c62126e177bf3af2825c9d|Add User Data Workspace tab|Wed, 1 May 2019 16:18:01 +0100|Mon, 20 May 2019 11:15:39 +0000
+52cfc36740394da44bd33bda82a401841355aecc|Extract JobSpecFactory for cost estimation|Wed, 8 May 2019 13:11:54 +0300|Fri, 17 May 2019 09:54:05 +0000
+7243e24a72c9be8448b565abd3498af95d23e760|Added 'Simple Mode' to developer page|Wed, 24 Apr 2019 17:06:49 +0100|Thu, 16 May 2019 09:20:32 +0000
+89f47d4f39144e7f6c02341402a786b02ba2b0c9|Improve developer definition tabs layouts|Wed, 3 Apr 2019 19:21:40 +0100|Thu, 16 May 2019 09:20:32 +0000
+c4d0f0508b558e558d826d3f27cbe502a203825d|Download button for all job outputs|Fri, 10 May 2019 11:08:33 +0300|Wed, 15 May 2019 11:06:33 +0000
+10377d3e10cc59aecb4da7e9c70910f600235183|Allow definition of 'easy-mode' service parameters|Mon, 15 Apr 2019 13:18:04 +0100|Wed, 15 May 2019 08:26:12 +0000
+99d7fd686675fa9c7288c8e76a82b900cf59d33a|Add enumeration of known catalogue filetypes|Mon, 13 May 2019 14:43:58 +0100|Wed, 15 May 2019 08:26:06 +0000
+945d1390b60caf6451b4ee8ac0a354a5ed1a9825|Make search reusable, simplify logic and improve performance|Wed, 10 Apr 2019 18:15:42 +0100|Tue, 14 May 2019 16:16:06 +0000
+204f1dfee4fd4b702b13a1ca75a14db070f404b8|Evaluating databasket contents changes|Thu, 2 May 2019 12:58:46 +0300|Fri, 3 May 2019 15:39:43 +0300
+3f74718b2dcd844a11090db3bac6fce3beadcec8|Fix missing test reports in Jenkins|Mon, 15 Apr 2019 13:59:23 +0100|Wed, 17 Apr 2019 08:38:53 +0000
+1ae7aff2f3e334c7b7e46e8b2f6607a3043e9bc3|Bump Puppet module version|Tue, 9 Apr 2019 10:42:05 +0100|Mon, 15 Apr 2019 14:59:07 +0000
+4b1508720e8e02876a37a3213cce52358df2024e|Dev version 2.8.0-SNAPSHOT|Tue, 9 Apr 2019 13:23:01 +0100|Mon, 15 Apr 2019 13:15:28 +0000
+4486092ad81a23a1f61ca40862863b54e727f9d6|Add missing f-tep-zoomanager dependencies|Mon, 15 Apr 2019 10:54:08 +0100|Mon, 15 Apr 2019 10:54:08 +0100
+9977784ebba637776c5d3263fa5621153a2f8004|Release notes for F-TEP 2.7.2|Thu, 28 Mar 2019 13:05:16 +0000|Tue, 2 Apr 2019 12:22:31 +0000
+d512b0388dc9baa300bd228e9296335b30a8af0d|Fix default parameter values in Workspace|Thu, 28 Mar 2019 12:57:51 +0000|Tue, 2 Apr 2019 12:22:26 +0000
+7cabd16e4c973981853fd4f09a3c413277035bc2|Update default services|Thu, 28 Mar 2019 11:42:23 +0000|Tue, 2 Apr 2019 12:22:22 +0000
+22b126723d003dc5237a478b207e7525b330646c|Add Download method to Jobs API|Tue, 26 Mar 2019 15:53:47 +0000|Tue, 2 Apr 2019 12:22:16 +0000
+147f041cd3e52deabbff94ff2bd6ef4384862964|Add Sentinel-5P search and download support|Wed, 20 Mar 2019 16:57:54 +0200|Tue, 2 Apr 2019 12:22:00 +0000
+a6bb6a733159812123a8158630ae539d424ea87f|Fix job rerun input population|Tue, 2 Apr 2019 11:30:12 +0100|Tue, 2 Apr 2019 12:07:54 +0100
+f359a7b26ab276a1a869e6e488183b24799ef782|Release notes for F-TEP 2.7.1|Fri, 15 Mar 2019 17:08:23 +0000|Fri, 15 Mar 2019 17:08:23 +0000
+5a7ab23f9e6a0448938638663d3f4171c71ba1e0|Add required dataReference parameter to service editor|Fri, 15 Mar 2019 17:07:11 +0000|Fri, 15 Mar 2019 17:07:11 +0000
+84e93672764cfb0e67199f7ba401db5e5d827634|Release notes for F-TEP 2.7.0|Fri, 15 Mar 2019 13:10:10 +0000|Fri, 15 Mar 2019 13:10:10 +0000
+a994e8c7eeab990336e4a5592af6d98f1e3f106a|Ensure additional jobConfig parameters are propagated via gRPC|Fri, 15 Mar 2019 11:21:03 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+3989fe13c4047a45c5f778ed7c9a22b4d00929a2|Increase timeouts for CREODIAS auth flow|Fri, 15 Mar 2019 11:02:39 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+c47553e4d3d70d70d3a004eba1378de8fcd02f92|Fix uniqueness check for JobConfigs|Thu, 14 Mar 2019 21:30:10 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+0b405cdf6e5b045e86706a1b6b7b1e94342a9aba|Fix Project ACL API parameter mapping|Thu, 14 Mar 2019 14:37:05 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+b4fce473533356e44336c25cec242c386523fc50|Increase user-visible logging of Job progress|Thu, 14 Mar 2019 13:27:46 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+dccd9ed9f61a2e7a3ed469b30e8df0bc6ce23db6|Provide Git .mailmap to accurately describe contributors|Wed, 13 Mar 2019 16:45:14 +0000|Fri, 15 Mar 2019 13:00:01 +0000
+cc0d1e4274bd9b9baa1d55ab859ad9e6ac7452ae|Added Parallel Processing to UI|Thu, 14 Mar 2019 17:56:03 +0000|Fri, 15 Mar 2019 12:41:04 +0000
+d7ba7087daa8a28940700ffba49c7babcf9fc2f4|Improved workspace drag/dropped items list|Fri, 15 Feb 2019 18:10:06 +0000|Thu, 14 Mar 2019 12:05:53 +0000
+5723bf446c91e3b2892c5d2f72a8f59535da01ec|Add applicationPort to detailed FtepService projection|Wed, 13 Mar 2019 16:16:10 +0000|Wed, 13 Mar 2019 16:16:10 +0000
+5d9b544c1fd098186d6390754098664acd4e5a51|Add users to groups they create|Wed, 13 Mar 2019 13:12:00 +0000|Wed, 13 Mar 2019 13:12:00 +0000
+cd6f895b4263b1b047e85e5a97660bc944056fcc|Fix Databasket sharing permission check|Wed, 13 Mar 2019 10:09:11 +0000|Wed, 13 Mar 2019 10:09:11 +0000
+b8dbdbd06892f5a360e61b68508b2a0024bc17b9|Bump Puppet module version|Tue, 12 Mar 2019 12:32:21 +0000|Tue, 12 Mar 2019 13:26:36 +0000
+01369485cd4906912ef86e32f7e86c48ce42e1d5|Release notes for F-TEP 2.6.2|Tue, 12 Mar 2019 11:09:30 +0000|Tue, 12 Mar 2019 11:09:30 +0000
+f7242e6908a1f4d63449b1287e26b70538a49ded|Fix ServiceFiles API permissions checks|Tue, 12 Mar 2019 11:05:40 +0000|Tue, 12 Mar 2019 11:05:40 +0000
+3e5a9d913edb3caa311b9db8c5969a0a254101b1|Fix RPM deployment variables|Fri, 8 Mar 2019 11:56:22 +0000|Fri, 8 Mar 2019 11:56:22 +0000
+37bd57ffc09532fd327968a8411385199cd2050f|Release notes for F-TEP 2.6.1|Fri, 8 Mar 2019 10:28:23 +0000|Fri, 8 Mar 2019 10:28:23 +0000
+8457f9be9e1fcd0a96530423dedeb364ff6ebf53|Fix broken postgres migration script|Fri, 8 Mar 2019 10:26:20 +0000|Fri, 8 Mar 2019 10:26:22 +0000
+745b99adaa50a086f54ee18dbb691915e249a768|Dev version 2.7.0-SNAPSHOT|Thu, 7 Mar 2019 16:54:59 +0000|Thu, 7 Mar 2019 16:54:59 +0000
+1959abb444ae4f2d0dbb6a27ba86b7af288354d7|Add Gradle caching to Jenkins builds|Thu, 7 Mar 2019 14:44:06 +0000|Thu, 7 Mar 2019 14:44:22 +0000
+108de35eb085a692316523828a3c02ef4baf3861|Release notes for F-TEP 2.6.0|Thu, 7 Mar 2019 12:52:03 +0000|Thu, 7 Mar 2019 13:01:16 +0000
+e481f9d06dfeae6e4944cd665e4a4f6db183ae02|Add QGIS 3 default service|Thu, 7 Mar 2019 13:01:13 +0000|Thu, 7 Mar 2019 13:01:13 +0000
+4d1f22da2e2009998411ddac89ed94b69df9f094|Implement CREODIAS search and download providers|Tue, 26 Feb 2019 11:32:36 +0000|Wed, 6 Mar 2019 13:29:42 +0000
+62ddca8527ca48a37e852ee421fe762d167a1988|Upgrade to Spring Boot 2.1, Gradle 5.2|Mon, 25 Feb 2019 14:07:16 +0000|Wed, 6 Mar 2019 13:29:41 +0000
+087b650920852d57bfbb0da4b448b209a400057d|Ensure FtpDownloader functionality on Windows hosts|Thu, 21 Feb 2019 12:31:46 +0000|Thu, 21 Feb 2019 12:31:46 +0000
+2ee095ef4c085dad0ac214957e121da39401d0b9|Use dynamic parameters in job configurations|Wed, 20 Feb 2019 13:14:04 +0000|Wed, 20 Feb 2019 13:24:19 +0000
+b4c233dabfb3edb18eae80c473de0903ca8f3983|Allow dynamic parameters in FtepServiceDescriptors|Wed, 20 Feb 2019 11:40:14 +0000|Wed, 20 Feb 2019 12:12:04 +0000
+ec20182d621d2f1871e66939206dc09682afb775|Fix security service transactionality|Wed, 20 Feb 2019 12:11:59 +0000|Wed, 20 Feb 2019 12:12:04 +0000
+8743db739d385d0e574f73d5918039922c4dafbf|Enable new JobSpecFactory for service execution|Tue, 19 Feb 2019 15:37:26 +0000|Tue, 19 Feb 2019 16:56:45 +0000
+b72dc976b6990e3ca67b64b96481415109b8553b|Fix RPM deployment|Tue, 19 Feb 2019 09:45:02 +0000|Tue, 19 Feb 2019 09:45:11 +0000
+841cefecfece6f01ce89e9dc31879579643471d0|Add Factory to expand dynamic Job configurations|Thu, 7 Feb 2019 13:27:31 +0000|Tue, 12 Feb 2019 14:37:52 +0000
+7dbc5797dbae3a8fb25d7986382e574869174e40|Merge changes I30029388,Ifa3fec5c into development|Fri, 8 Feb 2019 10:16:11 +0000|Fri, 8 Feb 2019 10:16:11 +0000
+19d0a4216dc3580a3f3d5d7220da31534b9aafef|Merge "Added usage report to admin page" into development|Fri, 8 Feb 2019 09:59:35 +0000|Fri, 8 Feb 2019 09:59:35 +0000
+324c057eb6bc2863c08be55c151426e821e8d47a|Fix report generation when user email is null|Thu, 7 Feb 2019 16:41:42 +0000|Thu, 7 Feb 2019 16:41:42 +0000
+fb4251023302a99e810a8316a6510a744bc66319|Added usage report to admin page|Thu, 7 Feb 2019 16:15:08 +0000|Thu, 7 Feb 2019 16:15:08 +0000
+de58886b0e3926d012e3b720bb195d53805318b8|Add basic JobConfig REST API test|Thu, 7 Feb 2019 13:21:51 +0000|Thu, 7 Feb 2019 13:27:55 +0000
+bd666f4362281ef4ef810cfbbf73e7c1006505ca|Allow generic WKT->GeoJSON conversion|Wed, 6 Feb 2019 13:11:06 +0000|Wed, 6 Feb 2019 13:11:06 +0000
+b00d06b4bb992127c067e626281b7aa7f10c5bd8|Update IPT/CreoDIAS worker scaling|Tue, 22 Jan 2019 12:35:15 +0000|Tue, 22 Jan 2019 12:35:15 +0000
+48919fc8f4fa56505b5073278c3629c9ed8ae350|Added hierarchical view for jobs|Wed, 16 Jan 2019 17:40:27 +0000|Thu, 17 Jan 2019 17:10:35 +0000
+ac1ed0acf13915325dfd6307c6e9452bd879ab18|Added PARALLEL_PROCESSOR service type to UI|Wed, 16 Jan 2019 11:30:56 +0000|Thu, 17 Jan 2019 17:10:35 +0000
+50bf104e1654dd1051b0b962d6fd3830eec1d412|Various fixes and improvements for Parallel Processing|Wed, 16 Jan 2019 13:25:57 +0000|Thu, 17 Jan 2019 17:10:30 +0000
+ec683c293b72d653d4407d1403f9f6eae99ecdea|Update built-in F-TEP services|Wed, 16 Jan 2019 12:01:52 +0000|Wed, 16 Jan 2019 12:01:52 +0000
+e350c1734fa382dd1dc7308bc7748babd56116fd|Bump Puppet module revision|Wed, 16 Jan 2019 10:51:26 +0000|Wed, 16 Jan 2019 10:54:02 +0000
+3295342a158ce6a8abc5b9406624f7de1af6ee5d|Allow configurable GUI application service ports|Wed, 16 Jan 2019 10:51:04 +0000|Wed, 16 Jan 2019 10:54:01 +0000
+321eb2db706021682fcc45b95206ab00fc4e3f6a|Fix FtepServerApplicationIT test output ordering|Tue, 15 Jan 2019 16:34:02 +0000|Wed, 16 Jan 2019 10:07:03 +0000
+1f592f06c88dbc0f60f8872b407cc60f7416de32|Batch Processing - fix tests and ensure baseline functionality|Tue, 27 Nov 2018 14:56:58 +0000|Tue, 15 Jan 2019 13:29:42 +0000
+7fb16abcf987ff4502ce7d56f201e3af3332f3cf|Batch Processing - 7/ Node Management and Systematic Processing + Minor Java code cleanup|Tue, 27 Nov 2018 14:56:58 +0000|Tue, 8 Jan 2019 13:05:13 +0000
+32e5606f50dce88e31f33efa643b6dff83b77bc2|Batch Processing - 6/ FtepJobLauncher related functionality and broker config|Thu, 29 Nov 2018 14:23:54 +0000|Tue, 8 Jan 2019 11:49:03 +0000
+b6f94a4d1d23efce048b3f051c7f4a5384fc391c|Remove dev environment dependency on createrepo|Thu, 13 Dec 2018 17:06:07 +0000|Mon, 7 Jan 2019 09:28:46 +0000
+74a4fabf8db2c633473cad32afc7bdfdb914840e|Switch JS compilation to node engine|Thu, 13 Dec 2018 15:40:38 +0000|Mon, 7 Jan 2019 09:28:22 +0000
+a49ff9f3a792d18c71ad66d6ec04b0c864c1e8d8|Batch Processing - 5/ using Docker Service Fingerprint|Thu, 29 Nov 2018 12:20:49 +0000|Mon, 7 Jan 2019 09:28:22 +0000
+495d1717b99aec2ca69ad2fddfca60c0233b5acf|Batch Processing - 4/ introducing FtepJobLauncher & QueueMetrics moved|Tue, 27 Nov 2018 14:56:58 +0000|Mon, 7 Jan 2019 09:28:22 +0000
+2444028e1b3262fea0220418e53261c93bfbfa22|Update f-tep.com domain name in all files|Tue, 11 Dec 2018 11:29:59 +0000|Tue, 11 Dec 2018 11:29:59 +0000
+8830955a351d7ea85302704a8c01c46379c052f8|Add organisation info to Users API|Tue, 11 Dec 2018 11:26:47 +0000|Tue, 11 Dec 2018 11:26:47 +0000
+db20c73dd8e7294034ed8a5f3821432327b91f85|Dev version 2.6.0-SNAPSHOT|Mon, 10 Dec 2018 12:19:39 +0000|Mon, 10 Dec 2018 12:19:46 +0000
+6bc3eaf7ba9546c6dc46b6f2c7633640773dd141|Add release notes for v2.5.0|Wed, 28 Nov 2018 14:32:58 +0000|Wed, 28 Nov 2018 14:47:04 +0000
+9097a29eed09da8be64ea3750fc989664e7f40dd|Add CI-specific gradle.properties to Jenkinsfile.k8s|Thu, 22 Nov 2018 13:00:26 +0000|Wed, 28 Nov 2018 14:28:22 +0000
+0f06257fc5a22c42267a083ee490855d71c2eacf|Bump puppet module revision|Wed, 28 Nov 2018 14:08:49 +0000|Wed, 28 Nov 2018 14:09:03 +0000
+5e55b9049df5834bbcd2432d4d7d06b66db638da|Batch Processing - 3/ Introducing the ActiveMQ (to send/receive JobConfigs)|Mon, 26 Nov 2018 10:02:46 +0000|Tue, 27 Nov 2018 09:48:09 +0000
+7ef8073a73450abc768f9ef2e4aa08a537b2cfbf|Batch Processing - 2/ New data & proto fields, Sub & Parent jobs, worker & joblauncher update|Wed, 21 Nov 2018 16:47:24 +0000|Mon, 26 Nov 2018 09:58:50 +0000
+1987dc12eb60c032445c5b07f3d75ea7eb9a3831|Batch Processing - 1/ Parallel Processor Type|Wed, 21 Nov 2018 14:59:52 +0000|Thu, 22 Nov 2018 14:05:09 +0000
+ded09695fb52a76903ff037ed4f03c8b99ecc57f|Bump Puppet module revision|Wed, 21 Nov 2018 16:47:24 +0000|Wed, 21 Nov 2018 17:18:20 +0000
+2b2723e5e9069979943b612bc1cbf8c3b0de5e76|Update build container, set SQ source encoding|Tue, 20 Nov 2018 11:50:29 +0000|Tue, 20 Nov 2018 12:22:10 +0000
+fe76e3681070c10599ddb94e7dc6a26856b6d86b|Add IptEodataServer downloader|Mon, 19 Nov 2018 11:25:01 +0000|Tue, 20 Nov 2018 11:26:56 +0000
+91cf52a0b17b000b6d6d172dae3383ebf68b147c|Provide Jenkins-in-Kubernetes build configuration|Mon, 12 Nov 2018 12:13:02 +0000|Mon, 19 Nov 2018 13:35:32 +0000
+5fd9b7d4029c9eb61858cf482308ec398189b08c|Extract Docker build container to separate repo|Mon, 12 Nov 2018 12:37:11 +0000|Mon, 12 Nov 2018 12:51:06 +0000
+d0b13df5cc181cc53ba353165ed01a5ddf9f920a|Fix data usage report bugs, fix re-indexing external product filesize|Fri, 2 Nov 2018 16:59:47 +0000|Fri, 2 Nov 2018 16:59:47 +0000
+f9e8af3a6260fe9e0a890de1456169eec95ed81c|Pin vagrant-puppet-install version|Fri, 2 Nov 2018 10:37:23 +0000|Fri, 2 Nov 2018 10:37:23 +0000
+2212e2736403ff4083b845a66bd62438ccee1993|Update dependencies, gradle wrapper|Wed, 24 Oct 2018 13:51:15 +0100|Wed, 24 Oct 2018 13:51:15 +0100
+d145ac1d56a33e49e5e12df705ca06248527786b|Create data usage report API endpoint|Tue, 2 Oct 2018 13:54:45 +0100|Tue, 23 Oct 2018 11:49:28 +0100
+fe1bbf484ae915a2560caae0579d74108b78dbff|Add release notes for v2.4.6|Mon, 8 Oct 2018 12:49:38 +0100|Mon, 8 Oct 2018 12:51:26 +0100
+25a7136de1f843bbe34f0dd7a794be652bfa7d07|Add downloader retry logic|Fri, 5 Oct 2018 12:05:33 +0100|Mon, 8 Oct 2018 10:19:55 +0100
+ae56ef9d158d7a1fdcc5b22b2e0dd97a96b521e2|Include release notes from stable-2.4|Thu, 4 Oct 2018 09:35:42 +0100|Thu, 4 Oct 2018 09:35:42 +0100
+2ea732ce7c7983c162b8de10dbb535622671cea6|Increase IPT download timeout|Wed, 3 Oct 2018 14:38:07 +0100|Wed, 3 Oct 2018 14:38:07 +0100
+d7abae492753e4775bedcdeedafb2feb99ce4412|Fix IPT product location and zip handling|Wed, 5 Sep 2018 16:14:10 +0100|Thu, 6 Sep 2018 16:10:13 +0100
+88fa3ce5f13b74e13c3d3576aecfdd9a0fbd6b5c|Release notes for F-TEP 2.4.3|Fri, 31 Aug 2018 11:54:42 +0100|Thu, 6 Sep 2018 16:10:13 +0100
+ed192166f6f6ef1dabc365d494239ea835ca3ebe|Replace test PostgreSQL docker with embedded binary|Thu, 6 Sep 2018 16:09:51 +0100|Thu, 6 Sep 2018 16:10:13 +0100
+986c70cd89a6843531e8cd77ccdd2c2200b72422|Fix IPT download URL handling|Fri, 31 Aug 2018 10:08:41 +0100|Fri, 31 Aug 2018 10:18:55 +0100
+b981177d9c81f05ef049a3c84b486b525b3f8ac0|Add release notes for v2.4.2|Tue, 14 Aug 2018 12:12:06 +0100|Tue, 14 Aug 2018 12:12:06 +0100
+c49a39913279174aa760819291a939f88e9c523f|Add release notes for v2.4.1|Wed, 30 May 2018 09:38:25 +0100|Tue, 14 Aug 2018 11:48:37 +0100
+4bc184d6d7eddf2117a6c7bc394f97276a1cd3a3|Fix external product URL references when indexing|Tue, 14 Aug 2018 10:48:45 +0100|Tue, 14 Aug 2018 10:48:45 +0100
+5570d854907dd1661208813447a2af7307fb3fdb|Update Puppet module revision|Tue, 14 Aug 2018 10:48:26 +0100|Tue, 14 Aug 2018 10:48:26 +0100
+d3624a191619af1e55c7f585f1671cad1c982304|Update Gradle wrapper to 4.9, plus Gradle plugins and Lombok|Thu, 19 Jul 2018 17:11:02 +0100|Tue, 14 Aug 2018 09:49:33 +0100
+62657fc9a557f87f6ea063aef213aacb1e110e5e|Remove custom docker-java in favour of public shaded release|Thu, 19 Jul 2018 17:00:11 +0100|Thu, 19 Jul 2018 17:00:11 +0100
+00df38f60bd369b83b03cb3fdb273da44e01ebbb|Update Puppet module revision|Thu, 19 Jul 2018 16:53:34 +0100|Thu, 19 Jul 2018 16:53:34 +0100
+0e7d53ab10bb3b6e966a61c3cacb2af6215120b5|TEPF-330 Developer: saving files after edits is broken|Wed, 16 May 2018 17:33:42 +0100|Wed, 16 May 2018 17:33:42 +0100
+9152fa91f17189926128bbca03652438d44d5ecf|Dev version 2.5.0-SNAPSHOT|Sun, 13 May 2018 17:53:14 +0100|Sun, 13 May 2018 17:53:14 +0100
+987b32b5bec889df2a8ad756c5484fbf41a87a8a|Add release notes for v2.4.0|Fri, 27 Apr 2018 21:20:37 +0100|Fri, 27 Apr 2018 21:20:37 +0100
+aa7b563b9c460f5176d221359f17f2e9d9b62033|Provide API endpoint to report job data usage|Thu, 26 Apr 2018 15:17:18 +0100|Fri, 27 Apr 2018 16:20:49 +0100
+d759213487cfd500864ffc21d54a3842fe406a62|Ensure job input files are indexed|Wed, 25 Apr 2018 17:27:01 +0100|Fri, 27 Apr 2018 16:10:33 +0100
+f8358895479e7fca2ab992c69440c378da78704d|Trim SAFE suffix from IPT product IDs|Wed, 25 Apr 2018 15:43:22 +0100|Fri, 27 Apr 2018 16:10:21 +0100
+09593251df41f04fa17d6ffa235a2f91158d5725|Improve Resto ingestion error reporting|Mon, 23 Apr 2018 15:48:46 +0100|Fri, 27 Apr 2018 16:10:21 +0100
+94a40392672759939b1d4548a46c3128fdc2040e|Update Spring dependencies|Thu, 26 Apr 2018 15:18:50 +0100|Fri, 27 Apr 2018 16:10:21 +0100
+d15d2ed0c77fdb354aeb8c25eefd5022e1baedec|Update Gradle wrapper to 4.7|Mon, 23 Apr 2018 09:45:36 +0100|Fri, 27 Apr 2018 16:10:21 +0100
+3041e004ab54d8514e363ed5ec1cc6660d386a03|TEPF-327 Fix Edit Polygon icon does not work|Fri, 27 Apr 2018 09:45:44 +0100|Fri, 27 Apr 2018 09:45:44 +0100
+5b0df82a3f82a2fa965837c0c9a9dd57072f9d94|Dev version 2.4.0-SNAPSHOT|Thu, 29 Mar 2018 11:12:02 +0100|Thu, 29 Mar 2018 11:12:30 +0100
+c86d6eeeb1deefaf0e8a42feb47ff34d7c60f3a0|Add release notes for v2.3.0|Wed, 28 Mar 2018 15:02:34 +0100|Wed, 28 Mar 2018 15:02:39 +0100
+9020f3f4e0c36df6df70ce61b3f16fdcc9f47c67|TEPF-311 - Enable downloading files from the Manage/Share interface|Wed, 28 Mar 2018 09:50:32 +0100|Wed, 28 Mar 2018 10:58:16 +0100
+64203c2e10b7e5241a7270c99c0741ce2688764d|TEPF-143 Fix Highlight data footprint on map when moving mouse over the search result list|Thu, 22 Mar 2018 17:06:54 +0000|Wed, 28 Mar 2018 09:33:52 +0100
+d89553ef863cf33cda127ba3614e12a242e41a5b|TEPF-286 Map view resets to Europe when returning to Explorer view|Tue, 27 Mar 2018 13:42:00 +0100|Tue, 27 Mar 2018 16:57:36 +0100
+218098449b91d34e8df184c2a89e3b596fd2b52c|TEPF-285 - Enable copying AOI from map in all three searches|Mon, 26 Mar 2018 16:27:22 +0100|Tue, 27 Mar 2018 16:57:29 +0100
+e80dbd70e3cd5607c11c49a213a1ec01fc0de97d|TEPF-303 Fix access control list management|Tue, 27 Mar 2018 15:47:04 +0100|Tue, 27 Mar 2018 16:57:23 +0100
+66cd4df52c455a5ae225b84dad36f56e4a723e4f|TEPF-297 - Each switch of the map layer makes the AOI more opaque|Thu, 22 Mar 2018 17:31:23 +0000|Tue, 27 Mar 2018 16:55:54 +0100
+85b28517fde07a55fa54bcb77475785245b45a70|Add release notes for v2.2.1|Sun, 25 Mar 2018 12:33:51 +0100|Sun, 25 Mar 2018 12:33:51 +0100
+c2cac67f5e21574c15b40dc78cb425e8c7d2f162|Make IPT download search timeout configurable, improve logging|Fri, 23 Mar 2018 10:52:42 +0000|Fri, 23 Mar 2018 10:52:42 +0000
+daba703647f39e5ec6291250cc0851d3dff0dfe5|Update Puppet module revision|Tue, 20 Mar 2018 16:06:52 +0000|Tue, 20 Mar 2018 16:06:52 +0000
+caf376c999311aad0289187d505b173bf9275d36|Dev version 2.3.0-SNAPSHOT|Tue, 20 Mar 2018 15:34:57 +0000|Tue, 20 Mar 2018 15:34:57 +0000
+a2e7358446994f5dac68d71939017e400f6d0f77|Align default services with platform versions|Fri, 16 Mar 2018 11:06:50 +0000|Fri, 16 Mar 2018 11:18:24 +0000
+941ae9431fd9d0c464917d223a22e75b304890dc|Add release notes for v2.2.0|Thu, 15 Mar 2018 17:02:20 +0000|Thu, 15 Mar 2018 17:11:09 +0000
+602f3abdc155d6b058bb6d597fc4fa794192bbbe|TEPF-309 - Unwanted auto-refresh of jobs list|Fri, 16 Feb 2018 14:06:41 +0000|Thu, 15 Mar 2018 16:50:28 +0000
+24c62068e8642fcd582ae76e804d7bcd37198318|IPT search functionality|Mon, 5 Mar 2018 15:42:32 +0000|Thu, 15 Mar 2018 16:50:17 +0000
+c9de9bc6b834ef4e68db205d24e877502b0ffa04|Fully enable IPT-HTTP downloader|Fri, 9 Mar 2018 10:08:52 +0000|Thu, 15 Mar 2018 16:50:17 +0000
+a61d9ed91cac368881d5bb13306af860a1c912a1|TEPF-301 - Deleting file in Developer does not work|Mon, 12 Mar 2018 11:39:19 +0000|Thu, 15 Mar 2018 13:53:22 +0000
+8b6a4dbc9b5dd85868d00a5d96e04a73d566036e|TEPF-298 - Cannot access jobs or data baskets (IE)|Tue, 13 Feb 2018 16:34:29 +0000|Fri, 9 Mar 2018 12:19:51 +0000
+a0fd9228dbd68d9bbd1f69ef440d2cbccdbbbb35|Update Gradle wrapper to 4.6|Mon, 5 Mar 2018 11:33:38 +0000|Fri, 9 Mar 2018 07:58:03 +0000
+41f7a38b1e402a454cbba47ca42c91bbb32c28e7|Add release notes for v2.1.0|Fri, 23 Feb 2018 12:16:19 +0000|Fri, 23 Feb 2018 12:17:53 +0000
+01b908a52b40dd309309198ce5f94538b20c7a0c|Fix immutable index functions in resto db schema|Fri, 9 Feb 2018 11:26:06 +0000|Fri, 23 Feb 2018 10:20:52 +0000
+ba0f9b5a53a8d61d00e167cb1310647018e5d152|TEPF-314 Fix Case-insensitive local searches|Mon, 19 Feb 2018 14:31:51 +0000|Thu, 22 Feb 2018 12:56:30 +0000
+dd4ef9768f1dc7a752d29ba35357213c146b7ec3|TEPF-89 Fix Highlight new job|Mon, 12 Feb 2018 15:13:57 +0000|Thu, 22 Feb 2018 12:32:02 +0000
+cb35ffceaa0b0bc81c4e65e73085a6cbe4d88ea8|Fix missing Cost Estimation popup for Product Download from MetaData popup|Thu, 8 Feb 2018 14:42:50 +0000|Thu, 22 Feb 2018 12:27:03 +0000
+44ad02dfd3a80ecf37918ddb5e6fab8d8d4593a7|Fix Transaction History entry for Product Download|Thu, 8 Feb 2018 13:42:00 +0000|Thu, 22 Feb 2018 12:26:12 +0000
+696cb048d361b8e04aaacbfe600c08c6723d0aca|Fix toggling Bottombar does not work for MyAccount|Thu, 8 Feb 2018 12:54:28 +0000|Thu, 22 Feb 2018 12:25:29 +0000
+f8ddc34ade2f087d7302c5d9ab3549b65e94cf6c|Fix selection buttons behavior in Bottombar Resultstab, disabling when no items|Tue, 30 Jan 2018 13:37:13 +0000|Thu, 22 Feb 2018 12:25:05 +0000
+32014e750887a5df86ec6341ef0c8c9f6abc021b|TEPF-99 Fix WMS option on FTEP product results|Wed, 7 Feb 2018 18:27:37 +0000|Thu, 22 Feb 2018 12:23:30 +0000
+8adccbc766794adc750d12256ef164be9ba4344e|TEPF-272 Fix Product/reference data footprints not highlighted on map when selected + ClearAll|Thu, 25 Jan 2018 14:19:25 +0000|Thu, 22 Feb 2018 11:50:28 +0000
+fe2a7cc20eb5805e90e69ff6990b6ef9659e7163|Remove deprecated file stream handling|Thu, 22 Feb 2018 11:44:10 +0000|Thu, 22 Feb 2018 11:44:10 +0000
+e367f83c9c441cd947050aaf3a10406c3e0be494|Update protoc, spring-cloud dependencies|Tue, 20 Feb 2018 15:30:26 +0000|Tue, 20 Feb 2018 15:30:26 +0000
+7781d12b2cd4069276bd38a5272937c6631966f2|Update Puppet module revision|Fri, 9 Feb 2018 10:04:26 +0000|Tue, 20 Feb 2018 10:10:30 +0000
+aa80deda14a8d183f51b6043f78569955235a00e|Update Gradle wrapper to 4.5.1|Thu, 15 Feb 2018 19:28:27 +0000|Thu, 15 Feb 2018 19:28:27 +0000
+40e2517507c7d331d1e8829490f513ed1667ffb3|Update Puppet module revision|Mon, 5 Feb 2018 13:08:49 +0000|Thu, 15 Feb 2018 19:27:00 +0000
+0e3c96f336252525b6b0cec4f1a963acf6a0b70f|Properly skip Docker+TestContainers test classes|Tue, 30 Jan 2018 14:21:30 +0000|Mon, 5 Feb 2018 12:07:56 +0000
+d5783399c2ba04737bae6ad43d550a00fa14435e|Bump Spring Boot dependency version|Fri, 2 Feb 2018 16:15:06 +0000|Fri, 2 Feb 2018 16:15:06 +0000
+03e629b73328585e264e1ac9dbe8c73cd1084b62|Simplify dependency management; update dependencies|Fri, 26 Jan 2018 20:19:35 +0000|Mon, 29 Jan 2018 14:23:53 +0000
+3596d68fce9f703387b4858edbde7bd6d02291d9|Add PostgreSQL database layer smoke test|Fri, 26 Jan 2018 11:35:19 +0000|Mon, 29 Jan 2018 12:42:30 +0000
+5fa114ae3633c4c3ee5d0bb969a8914b38395aaf|Update Gradle to 4.5|Fri, 26 Jan 2018 11:01:12 +0000|Mon, 29 Jan 2018 12:42:30 +0000
+9a34382c76c0134c021f3efd99354de22db20e0a|Create service zip export functionality|Mon, 22 Jan 2018 13:31:16 +0000|Mon, 22 Jan 2018 13:44:39 +0000
+82efdd687cf92dd5750b623691b400dab41f40f0|Update for CentOS 6 -> 7 migration|Fri, 12 Jan 2018 09:52:17 +0000|Sat, 20 Jan 2018 18:52:28 +0000
+9afddb2207d0ecc6f3dc9eec06539c050d796fe7|Dev version 2.1.0-SNAPSHOT|Wed, 17 Jan 2018 12:30:17 +0000|Wed, 17 Jan 2018 12:30:17 +0000
+d2b66bbb6bf282f79ab204a7aa6e8946d1c76439|TEPF-307 Treat databaskets like other multi-valued inputs|Tue, 16 Jan 2018 13:59:50 +0000|Tue, 16 Jan 2018 13:59:50 +0000
+2882ded0f71e2787008f0a72261ec90d0b19bb4f|Update v2.0.0 release notes|Mon, 15 Jan 2018 09:05:57 +0000|Tue, 16 Jan 2018 11:00:23 +0000
+4cd37b145e032b25615ec4dfc64d9e961a6c5574|TEPF-299 Propagate jobs' ACLs to their output files|Fri, 5 Jan 2018 17:50:35 +0000|Tue, 9 Jan 2018 20:08:29 +0000
+1e308666e12f7ccf9140ccf1fbde8dea0a400fe3|TEPF-300 Broken link to user manual\n Updated to correct URL|Sat, 23 Dec 2017 21:15:24 +0000|Tue, 9 Jan 2018 19:42:31 +0000
+c7c5a8c57dbf8cbf520487f1a80197563616b0e6|TEPF-289 Auto-hide data panel when leaving Explorer view|Sat, 23 Dec 2017 22:43:11 +0000|Tue, 9 Jan 2018 19:42:26 +0000
+380b24dd0983b1322051310fa2d165c98167765b|TEPF-294 Save button in Developer section disappears|Sat, 23 Dec 2017 21:37:37 +0000|Tue, 9 Jan 2018 19:42:26 +0000
+6703cb903207f0fb79ae90e742347c90922212af|Revert update to Puppet Docker module dependency|Tue, 9 Jan 2018 10:29:56 +0000|Tue, 9 Jan 2018 19:42:17 +0000
+b513f1a6e420541304603f009ba99cad0dc8f114|TEPF-293 Fix Last page function on search results works incorrectly|Fri, 5 Jan 2018 11:51:47 +0000|Tue, 9 Jan 2018 14:21:58 +0000
+8a7efbda3bcf5a63adcfeab91efa7ab4f33a2905|Update v1.3.2 release notes|Mon, 8 Jan 2018 14:25:57 +0000|Mon, 8 Jan 2018 15:22:58 +0000
+224540bcb561e526ce97ea0120a44b2042bb70a6|TEPF-275 Increase file upload limit in UI|Mon, 8 Jan 2018 12:11:36 +0000|Mon, 8 Jan 2018 12:11:36 +0000
+f202735f56d3954850beef54d4514601a4d5de1a|Update puppet module & dependency versions|Mon, 4 Dec 2017 12:57:13 +0000|Mon, 4 Dec 2017 13:20:21 +0000
+4feb3d32bf25579fcf86dc24bbd02df8277c999d|Update v1.3.1 release notes|Mon, 27 Nov 2017 15:02:42 +0000|Mon, 27 Nov 2017 15:02:42 +0000
+8b60bd92fccade9fd25fa95d0ffd4c334b064ede|Enable downloader configuration and prioritisation|Mon, 27 Nov 2017 15:01:07 +0000|Mon, 27 Nov 2017 15:01:07 +0000
+4d06d366fc08e7633f5fe8ee279f8f3a866d1a81|Treat multi- and single- valued data inputs consistently|Thu, 16 Nov 2017 15:39:59 +0000|Mon, 27 Nov 2017 11:57:52 +0000
+363f206ba7c9868775518c30b92a7bc4c8d1fa06|Add release notes for v1.3.1|Sun, 26 Nov 2017 10:52:48 +0000|Sun, 26 Nov 2017 10:52:48 +0000
+91659274251ef39d61ff13dc94c23f75bc51b8f6|Fix filesize in search results|Tue, 21 Nov 2017 11:51:00 +0000|Thu, 23 Nov 2017 09:36:51 +0000
+cc5da89d91f229a6e951bdb58b393a73ef16b8c4|Dev version 1.4.0-SNAPSHOT|Mon, 20 Nov 2017 09:51:01 +0000|Mon, 20 Nov 2017 09:51:01 +0000
+aae407571d3d4b9bac4252a5704aa8b78e30f1c0|Store user's organisation if provided by SSO|Fri, 17 Nov 2017 10:05:39 +0000|Fri, 17 Nov 2017 10:42:37 +0000
+00678358489a1134695661d89c59b229a4fffdfb|Add release notes for v1.3.0|Fri, 17 Nov 2017 10:36:34 +0000|Fri, 17 Nov 2017 10:40:25 +0000
+f1460fe1560c75d43f348237475f32c2205d72da|Update gradle to 4.3.1|Tue, 7 Nov 2017 11:41:32 +0000|Fri, 17 Nov 2017 09:36:09 +0000
+3dd9175ab5e2d1e7508c86b2e48c3160c222c4d1|TEPF-150 Direct users to limited last page for 10k+ results CEDA searches|Tue, 14 Nov 2017 13:45:55 +0000|Tue, 14 Nov 2017 13:45:55 +0000
+1149b92b6094af691d8e26ec3659dc192b7e31e7|TPEF-288: Fix output file transfer|Tue, 14 Nov 2017 10:17:26 +0000|Tue, 14 Nov 2017 13:07:42 +0000
+487613f60fe714036ce86037204632de1f4502d6|Update puppet module revision|Mon, 13 Nov 2017 13:51:47 +0000|Mon, 13 Nov 2017 13:51:47 +0000
+8a96edc609053092f277a2ed9b541da6f04b515f|TEPF-283, TEPF-284 Fix Resto catalogue search attribute mapping|Wed, 1 Nov 2017 12:13:20 +0000|Fri, 10 Nov 2017 15:37:22 +0000
+cd9dc37b7e84a4220e181756666a9597c0fc0fa9|Suppress log message when Graylog is down and job logs are requested|Fri, 27 Oct 2017 14:51:58 +0100|Fri, 27 Oct 2017 14:51:58 +0100
+f0bca824a3f9924e6d206ebabd16a0e5e5877089|Reduce database load from metrics gathering, add User count metrics|Fri, 27 Oct 2017 14:51:22 +0100|Fri, 27 Oct 2017 14:51:22 +0100
+b32e8aa88e4ba893a0714aeebf23a29e7263d935|Refactor service execution metrics for moving-window reports|Thu, 26 Oct 2017 16:29:01 +0100|Thu, 26 Oct 2017 16:29:05 +0100
+8c154de279e5833f7f17015f79589806b56e6b47|Update puppet module|Thu, 26 Oct 2017 11:47:31 +0100|Thu, 26 Oct 2017 16:29:05 +0100
+3f0fc32501c62c002453a18883ad558a711eb04e|TEPF-257  Map layer switch sometimes does not work|Fri, 20 Oct 2017 12:02:27 +0100|Tue, 24 Oct 2017 10:20:48 +0100
+e2e9f2361c4f669f14ae5dd3959db4bba2e6c6c3|Extract metrics providers to separate module, fix actuator security|Thu, 19 Oct 2017 14:14:46 +0100|Thu, 19 Oct 2017 14:14:46 +0100
+ca2ea783ae26492a04362f2087f9fdcffe14aa78|Add v1.2.2 release notes|Wed, 18 Oct 2017 15:39:38 +0100|Wed, 18 Oct 2017 15:39:38 +0100
+e9e58e58c0c24de657d5ec5315fb100ed391467a|Add v1.2.1 release notes|Sat, 14 Oct 2017 11:11:36 +0100|Wed, 18 Oct 2017 15:37:11 +0100
+c6a86958228e9375f3364543b6817d4cabfeaeb2|Add more messages to user-visible log|Wed, 18 Oct 2017 13:34:08 +0100|Wed, 18 Oct 2017 13:34:08 +0100
+63288ff459227af2197e2f0a108f2cedba7cd47e|Async, flow-controlled gRPC file transfer|Mon, 16 Oct 2017 17:59:43 +0100|Wed, 18 Oct 2017 13:25:46 +0100
+ac0d4a3542775a98b329336bea8c525e08d7cbbd|Update puppet module|Tue, 17 Oct 2017 13:11:50 +0100|Tue, 17 Oct 2017 15:54:46 +0100
+ef29dde906c673f4c3b2e6b7efc003acc88896d1|Update gradle config for gradle >= 4.2|Fri, 13 Oct 2017 17:50:50 +0100|Fri, 13 Oct 2017 17:50:52 +0100
+cfce6e162aa97b980b00a1bc84c0b6c9dd37993f|Update gradle to 4.2.1|Fri, 13 Oct 2017 16:39:18 +0100|Fri, 13 Oct 2017 16:39:18 +0100
+10476f146fb8e3f65bd10abbd70a861c18d2fef0|Dev version 1.3.0-SNAPSHOT|Thu, 12 Oct 2017 19:31:11 +0100|Thu, 12 Oct 2017 19:31:11 +0100
+47b944fa26f2b2f7dfb3a8b82ac694ab3cf20a0e|Add release notes for v1.2.0|Thu, 12 Oct 2017 11:56:52 +0100|Thu, 12 Oct 2017 11:56:52 +0100
+c75ac84767b65e53b3ee687badc1cd7e1dc47c74|Mount procDir outside job containers|Tue, 10 Oct 2017 14:46:27 +0100|Tue, 10 Oct 2017 16:27:10 +0100
+294bb8d92578c33e69a4d90f35efcd757805ffba|Fixed IE form submission and layout issues|Thu, 5 Oct 2017 16:39:50 +0100|Mon, 9 Oct 2017 16:07:44 +0100
+70da6715e6323043b632e5b03d5d5cfcfde057b6|TEPF-281  Avoid losing unsaved changes in service development|Fri, 6 Oct 2017 13:53:46 +0100|Mon, 9 Oct 2017 16:07:37 +0100
+b7295a28bfa2a25dc9b275afe3d3404cbaf28d1a|TEPF-268  Adding a user to a group should better handle the modal dialog|Fri, 6 Oct 2017 14:06:56 +0100|Mon, 9 Oct 2017 16:07:33 +0100
+1f1f1e58ad9f4f8c14d1a709bdda7f40727a3ae9|TEPF-282 Retrieve all pages of job log messages|Mon, 9 Oct 2017 14:36:24 +0100|Mon, 9 Oct 2017 16:07:30 +0100
+0179a0e9fd5a473748ef691351e5b29784825115|TEPF-276 Show Job label in Jobs list|Fri, 6 Oct 2017 17:09:12 +0100|Mon, 9 Oct 2017 14:38:29 +0100
+058fd3f53ad8499feb556cdd0c4c67651efd5c36|Add label to ShortJob API representation|Fri, 6 Oct 2017 15:28:50 +0100|Fri, 6 Oct 2017 15:28:50 +0100
+557ab011bfc78b4d3d57969c54c82e13ebb040d0|Prevent selecting search results when in 'draw' mode|Thu, 5 Oct 2017 14:51:41 +0100|Thu, 5 Oct 2017 14:51:44 +0100
+be9abc3f231dfd740e108a92de088dd6be2fff54|Revert "Bump dependency versions"|Thu, 5 Oct 2017 13:20:29 +0100|Thu, 5 Oct 2017 14:51:17 +0100
+1d46c219693665bc6f15640220c3885c5155f74c|Add Shapefile detection and ingestion from output files|Wed, 27 Sep 2017 17:18:51 +0100|Thu, 28 Sep 2017 11:57:15 +0100
+689582fefeb8bb8a0c0568d9cf6d3f84b03abea0|Reduce exceptions and noise in nominal job flow|Wed, 27 Sep 2017 15:29:59 +0100|Wed, 27 Sep 2017 15:29:59 +0100
+8cc1bab407727a5f60af10fbcd514a1c03d2eb94|Bump dependency versions|Wed, 27 Sep 2017 13:25:39 +0100|Wed, 27 Sep 2017 13:25:39 +0100
+7c07ebe28f08898cd955da7c5874edb3d8884d13|Add release notes for v1.1.1|Wed, 20 Sep 2017 12:24:42 +0100|Wed, 20 Sep 2017 12:24:42 +0100
+b5e1450176d49475d6817098cc7df2bf49e67256|Fix missing Admin page link|Wed, 20 Sep 2017 09:42:18 +0100|Wed, 20 Sep 2017 09:42:18 +0100
+5eb26808b6fb9b613be87bda8825013e04db9342|Add 'no results' text when paging data is present but invalid|Tue, 19 Sep 2017 16:49:50 +0100|Tue, 19 Sep 2017 17:26:48 +0100
+1cef2385f7edc07fc13aca211a685373138fd001|Fix unnecessary permission check for project groups|Tue, 19 Sep 2017 16:42:46 +0100|Tue, 19 Sep 2017 17:26:48 +0100
+bcb1fbf15510c84ba1dfb506a7081a1a88e4bafb|Sync AOI search parameter with map polygon|Tue, 19 Sep 2017 15:42:17 +0100|Tue, 19 Sep 2017 17:26:46 +0100
+cc999fe2185ca7b316f4551f659ebbcc7d8f7997|Don't remove job-worker reference on failed termination|Mon, 18 Sep 2017 14:16:41 +0100|Mon, 18 Sep 2017 14:39:06 +0100
+81ccbe60e2aa8360e34f33b9725ff1718ce974d2|Fix Spring Boot actuator security in SSO context|Mon, 18 Sep 2017 14:00:06 +0100|Mon, 18 Sep 2017 14:39:05 +0100
+1acfecd93f5cd2a81ea676cabec433aaa9a0f731|Dev version 1.2.0-SNAPSHOT|Fri, 15 Sep 2017 12:10:13 +0100|Fri, 15 Sep 2017 12:10:13 +0100
+50f4af72df74bd076307b430a27426cf0844397f|Add v1.1.0 release notes|Fri, 15 Sep 2017 11:03:04 +0100|Fri, 15 Sep 2017 11:03:04 +0100
+eb3ac8c71f2e9c082e6fed61d604c4506a76505b|Import VTT changes to VegetationIndices processor|Fri, 15 Sep 2017 10:32:03 +0100|Fri, 15 Sep 2017 10:32:03 +0100
+1d26c9c328495a496afcab9b1b0caf1ec807c4af|Remove redundant puppet modules|Thu, 14 Sep 2017 14:02:55 +0100|Thu, 14 Sep 2017 14:08:00 +0100
+459be1c0d8278c7a983fd4b92e82ce2f76b31b65|Add Jolokia to export metrics, add job count metrics|Thu, 14 Sep 2017 14:02:17 +0100|Thu, 14 Sep 2017 14:07:34 +0100
+94b7c2110ff5ffe53d2ec60f410e6b382cad9a8f|Improve cleanup of finished jobs, extract common gRPC file transfer logic|Tue, 12 Sep 2017 12:30:16 +0100|Tue, 12 Sep 2017 12:30:16 +0100
+54bbf1748ece5022462210db3baaa4b12ade6137|Fix ftep_job_configs uniqueness index|Fri, 8 Sep 2017 14:16:37 +0100|Fri, 8 Sep 2017 14:16:37 +0100
+fbcb4d3c30bc7825bac70197180402314e3e11de|Update portal SSO logout link|Fri, 8 Sep 2017 12:01:02 +0100|Fri, 8 Sep 2017 12:01:02 +0100
+c983492108d2d7fb1ab510f1fcac6edbd82380b9|Remove F-TEP Drupal module|Thu, 7 Sep 2017 15:46:40 +0100|Thu, 7 Sep 2017 15:46:40 +0100
+8b8ab89cbb39e9f3065f841ccde927400abda2d0|Standardise date and time to UTC|Thu, 7 Sep 2017 15:17:28 +0100|Thu, 7 Sep 2017 15:22:40 +0100
+9b7ba3d2c8ebdd41b591137ef98e7a8513ac2057|Fix databasket cloning|Thu, 7 Sep 2017 10:45:34 +0100|Thu, 7 Sep 2017 10:45:34 +0100
+0d9e829e85c7cef1cbe0c947d6e06da0a4b6ff60|Centralise sharing admin logic to CommunityService|Thu, 7 Sep 2017 09:28:24 +0100|Thu, 7 Sep 2017 09:28:24 +0100
+4206d627790c874ce99f9e5412b3821d269c97c5|Fix download cache directory scanning for nested downloaders|Tue, 5 Sep 2017 14:32:55 +0100|Tue, 5 Sep 2017 14:32:55 +0100
+05e8e10df2b859d73fc1127fdf0562aba860ae09|Stop results spinner in SearchService rather than from results controller|Tue, 5 Sep 2017 09:59:49 +0100|Tue, 5 Sep 2017 09:59:49 +0100
+cc4898a30dc1ce397f2467a57e0949be4209234a|TEPF-144 Session getting old not handled properly|Tue, 15 Aug 2017 17:27:50 +0100|Mon, 4 Sep 2017 15:39:38 +0100
+d11b860430b31965d289120c3e6bef94436e1acb|Fix pagination for CEDA search, remove unnecessary exceptions in signatures|Mon, 4 Sep 2017 14:20:15 +0100|Mon, 4 Sep 2017 14:20:15 +0100
+203aa927cec0d72f12af4c7e8021cfa2a5050f53|Attempt geometry/CRS parsing for output files|Mon, 4 Sep 2017 14:19:51 +0100|Mon, 4 Sep 2017 14:19:51 +0100
+f48aa6cfad220b25c1e26faacb0160580b732750|Update default service descriptions|Mon, 4 Sep 2017 11:08:56 +0100|Mon, 4 Sep 2017 11:40:07 +0100
+4c3619b7c7dcfffa575d715e52b906cc575e75be|Fix generated quicklook API URL in search results|Fri, 1 Sep 2017 17:02:41 +0100|Mon, 4 Sep 2017 11:40:07 +0100
+3162cb06a0751b72e4327b238980068dcc857a22|Update dependency versions|Fri, 1 Sep 2017 17:00:40 +0100|Mon, 4 Sep 2017 11:40:06 +0100
+87b52e1b1c51db094bfd72e5c2875b3fbf6e0177|Update to Gradle 4.1|Fri, 1 Sep 2017 16:59:53 +0100|Mon, 4 Sep 2017 11:40:06 +0100
+f82162a0d47de34cecb1b3223c3adba56f349fdf|Refactor and extract downloaders to a separate module|Tue, 22 Aug 2017 12:45:13 +0100|Thu, 31 Aug 2017 15:36:24 +0100
+39b4f6fc2be1bea3a58a7730431423075b85d2a0|Hide message counter on 0 messages|Tue, 29 Aug 2017 12:56:29 +0100|Tue, 29 Aug 2017 15:40:44 +0100
+108cb5d2f703eafbb7a57e9c0adf7886ae1c0018|TEPF-249 Map going white if feature has incorrect coordinates|Wed, 2 Aug 2017 13:48:14 +0300|Tue, 29 Aug 2017 15:40:19 +0100
+6f8825e0d9423e1a32a9e8f7b5cc9c4280976e17|Refactor search|Tue, 8 Aug 2017 15:47:00 +0100|Tue, 29 Aug 2017 15:40:01 +0100
+4bcc1432f5220dc0eba6cf7ba59dfd3fc1ef2c41|Add CEDA search to APIv2|Fri, 4 Aug 2017 15:44:33 +0100|Fri, 25 Aug 2017 14:50:03 +0100
+7451ae7d5e3645fc193da00620b305fb2608c8f5|Fix Monteverdi service permissions|Wed, 16 Aug 2017 16:03:42 +0100|Mon, 21 Aug 2017 10:26:16 +0100
+05ddadc03cd37876166794edd973c0d97ed76665|Add bounding box extraction for shapefiles and geotiffs|Tue, 15 Aug 2017 10:07:55 +0100|Mon, 21 Aug 2017 10:26:16 +0100
+1e682eaae79a70e2901c9f2dd3e7716b0659897a|TEPF-237 Allow stopping jobs|Fri, 4 Aug 2017 14:55:54 +0300|Wed, 16 Aug 2017 15:19:59 +0100
+ad47bec2ed409f99c300ec1b7d89bfcdddc7929e|Add Sentinel-1 downloader|Wed, 16 Aug 2017 15:16:23 +0100|Wed, 16 Aug 2017 15:17:21 +0100
+aee4767bdc56aff3361a8e8dfcfeeeefc15f4fc3|Add landsat downloader|Wed, 16 Aug 2017 11:13:25 +0100|Wed, 16 Aug 2017 15:17:21 +0100
+beaef1d7c63ce5bc97d211f544ca6b6a3087ea6c|Refactor launchService method into smaller pieces|Tue, 15 Aug 2017 10:50:34 +0100|Wed, 16 Aug 2017 11:16:07 +0100
+5771e5e538fe359779c4037a9171c498efc3de24|Update .gitignore for Gradle 4.x with IDEA|Fri, 11 Aug 2017 10:55:25 +0100|Fri, 11 Aug 2017 10:55:25 +0100
+e29f7cb3606a74eab7a365c9c30dc854bc9b4bfc|Get the default services list dynamically for the HelpDesk page.|Fri, 19 May 2017 19:13:55 +0300|Fri, 11 Aug 2017 10:05:52 +0100
+f18a01039c1a991f0d8e198780d3b19bd39e63f4|Update Gradle wrapper to 4.0.2|Mon, 7 Aug 2017 10:17:59 +0100|Mon, 7 Aug 2017 10:18:49 +0100
+0729e11963fe242d43dd92f2f9c5e97ca5aab14e|Link from bottombar to Manage/Share page|Wed, 2 Aug 2017 12:57:08 +0300|Wed, 2 Aug 2017 12:57:08 +0300
+a088873a33e284e4aa304884fb19c5e6226571de|File Geometry layout.|Tue, 25 Jul 2017 10:48:48 +0300|Thu, 27 Jul 2017 06:16:48 +0100
+7d75785131967b48129bcc37aa4e68779dcbe1a3|TEPF-151 Databasket - product name displayed twice on creating data baskets|Mon, 24 Jul 2017 13:29:37 +0300|Thu, 27 Jul 2017 06:16:41 +0100
+8606dbf5773fc1152604e2d5984288e5e59ddfb3|Really fix travis-ci|Wed, 26 Jul 2017 12:15:09 +0100|Wed, 26 Jul 2017 12:15:12 +0100
+737801f031dc383ec9532313e08df074192696cd|Disable line breaks on job log timestamps.|Tue, 25 Jul 2017 15:37:43 +0300|Wed, 26 Jul 2017 08:57:47 +0100
+96961c0daeee0938d2d321173ab997ecd041cb8a|One more fix for travis-ci, update Puppet module|Fri, 21 Jul 2017 12:38:22 +0100|Fri, 21 Jul 2017 12:38:22 +0100
+8ccaff625d9e8e51090e9fbcb791a0bbd3d97128|TEPF-237 Allow stopping jobs|Thu, 20 Jul 2017 15:10:06 +0300|Thu, 20 Jul 2017 15:29:08 +0300
+07d670c5023576a2b62d4002683314f589ecfd96|Replace embedded cgieoss-ftep puppet module with git submodule|Thu, 20 Jul 2017 10:39:36 +0100|Thu, 20 Jul 2017 10:59:54 +0100
+bef5deef0e24eb7728519057ed6c709be5f1a41f|TEPF-231 have job name field where users can insert a meaningful text|Tue, 18 Jul 2017 15:25:35 +0300|Wed, 19 Jul 2017 13:48:11 +0300
+3bcf0dcbc57d3619a39788d148a8994028b025f3|TEPF-245 Usable/not usable tag in search results works inconsistently|Mon, 17 Jul 2017 16:31:42 +0300|Mon, 17 Jul 2017 16:31:42 +0300
+2fdd57cd56ab8cac63729da93d57a8c3e1b0d667|Update README, Vagrantfile, sample standalone.yaml config|Thu, 13 Jul 2017 15:37:10 +0100|Thu, 13 Jul 2017 15:37:10 +0100
+c9382408087fa730c67a04ea8c1b3ba53ac26767|Dev version 1.1.0-SNAPSHOT|Mon, 3 Jul 2017 19:53:56 +0100|Mon, 3 Jul 2017 19:53:56 +0100
+72d94d2b4e165e7af2e175b5d44246147dd3c5a6|Update proxy configuration with redirects, add more shibboleth parameters|Mon, 3 Jul 2017 17:22:03 +0100|Mon, 3 Jul 2017 19:45:36 +0100
+2e4e8926776dbb8c6263940c2bf6d01b525ccfec|Ensure output directories are globally writable by jobs|Mon, 3 Jul 2017 14:52:34 +0100|Mon, 3 Jul 2017 14:52:34 +0100
+ffb5d44a9a2d82abe507aaf7cf7c881a843aa35e|Enable new APIv2 search for existing products|Thu, 29 Jun 2017 17:22:14 +0100|Thu, 29 Jun 2017 17:22:14 +0100
+75ea86add106d914fb99a2f059b4bb618b4fd972|Fix UI pagination for APIv2 search|Thu, 29 Jun 2017 17:08:57 +0100|Thu, 29 Jun 2017 17:08:57 +0100
+31d0b888012a18101baa6320a109b25b2b81418a|Make search pagination consistent with other API endpoints|Thu, 29 Jun 2017 14:49:07 +0100|Thu, 29 Jun 2017 15:27:26 +0100
+81094230cfabc8c7cc9fbdf1b6e73f613f32cce5|Ensure default 'usable' flag on APIv1 search results is true|Thu, 29 Jun 2017 10:30:36 +0100|Thu, 29 Jun 2017 15:27:22 +0100
+00f02fae6afdef9fdfcf79a3231f2a4cda5c7ffb|Add SUPERUSER permission to fix community sharing|Thu, 29 Jun 2017 12:45:05 +0100|Thu, 29 Jun 2017 12:45:05 +0100
+e5c9609ac032ab9cf28993a1de334a90ea763fff|TEPF-223 Developer: move service file list to the left of the file content view|Thu, 29 Jun 2017 12:17:30 +0100|Thu, 29 Jun 2017 12:17:30 +0100
+c3d26da2c7e41a05bf9efb77f4baeeb806ed0df8|TEPF-230 Tiny UI adjustment Fixed gap between sidebar and navbar in explorer|Thu, 29 Jun 2017 11:11:11 +0100|Thu, 29 Jun 2017 11:11:11 +0100
+b57b7e84c6f33b0b03fbd326728c9e9b6a80d944|Remove invalid proxy config from search facade|Wed, 28 Jun 2017 22:24:12 +0100|Wed, 28 Jun 2017 22:24:12 +0100
+6736f8e1bd7dd15a22fe474b96fcf996ccd52fec|Set Resto configuration file in rpm|Wed, 28 Jun 2017 19:33:20 +0100|Wed, 28 Jun 2017 20:19:49 +0100
+cf88d71a7f24f20d878da514f2f8ce66d63f4700|Fix deprecated API usage|Wed, 28 Jun 2017 20:08:00 +0100|Wed, 28 Jun 2017 20:14:26 +0100
+0d628361a6a940fea58156bfc65f49f604ae0384|Add new seach service, replace reference data search|Wed, 28 Jun 2017 18:26:16 +0100|Wed, 28 Jun 2017 19:52:49 +0100
+c60279727c60e21ed3429310fd07e1903fd7e495|Display job completed in transaction history|Wed, 28 Jun 2017 11:28:31 +0100|Wed, 28 Jun 2017 15:16:04 +0100
+11b3ddd0367ff0383c36ed1738b5c74353fbcba2|Update dependency versions, use querydsl gradle plugin|Tue, 27 Jun 2017 20:58:29 +0100|Wed, 28 Jun 2017 09:25:45 +0100
+64c8dc80682fab06492b4e5bee0f7b29620edfec|Add uploading refrence file progress bar & delete validation|Tue, 27 Jun 2017 15:22:21 +0100|Tue, 27 Jun 2017 16:15:16 +0100
+73d61e06a813a8637ff2d6031ee6f6a4651208da|Fix Resto catalogue feature deletion|Tue, 27 Jun 2017 15:21:59 +0100|Tue, 27 Jun 2017 15:21:59 +0100
+8a2a55493ae76a5c73f9e123046f419437a9a9a1|Update CRS parameter text for default services|Tue, 27 Jun 2017 15:03:36 +0100|Tue, 27 Jun 2017 15:03:36 +0100
+7bf9e816a8debc4322c154e488c0ed7bb7b9d6f5|Implement Resto search, add Search API|Sun, 25 Jun 2017 21:46:39 +0100|Tue, 27 Jun 2017 14:42:36 +0100
+2cbec5cecb1fa0a38b4ffc43bbf4333cf51e0553|Update Resto models to add supported search parameters|Mon, 26 Jun 2017 12:06:10 +0100|Mon, 26 Jun 2017 15:32:58 +0100
+c24b3fb863d241470d9d2e691a8b38700f61a490|Bug fix - job output drag and drop item.|Thu, 22 Jun 2017 13:41:10 +0300|Mon, 26 Jun 2017 15:32:48 +0100
+a5939e411fb54a42a99f732bb04c6868a73cddb5|Bug fix - include service type filter also in developer view.|Tue, 20 Jun 2017 13:02:55 +0300|Mon, 26 Jun 2017 15:32:48 +0100
+4d58c625b4e7a62bebfaee595fbeb7e8ef104bae|Add service name to job filter criteria|Tue, 20 Jun 2017 11:21:45 +0100|Mon, 26 Jun 2017 15:32:34 +0100
+d8bd87f30f1738968ffc86b0570db4ec46a5b5c3|Add beginning of Java-based search interface|Fri, 23 Jun 2017 09:43:23 +0100|Mon, 26 Jun 2017 09:30:02 +0100
+f798214a976da376aa55bc7821070edec3c27ab0|Add TLS certificate chain configuration to ftep_proxy|Fri, 23 Jun 2017 18:35:49 +0100|Mon, 26 Jun 2017 09:30:02 +0100
+fa38e134b27beb6836b2c5e35ad9f27050e4598a|Fully delete FtepFiles from catalogues|Fri, 23 Jun 2017 14:15:31 +0100|Mon, 26 Jun 2017 09:30:02 +0100
+7f979864cc485bbd08fbcbaa6ced6df02d28f137|Use empty string for optional fields in service.|Mon, 19 Jun 2017 15:01:44 +0300|Mon, 19 Jun 2017 15:01:44 +0300
+ec47ff7ac0f79283eaea5ad05204a96ebcaf06c9|TEPF-233 User Manual link update.|Fri, 16 Jun 2017 13:21:25 +0300|Sat, 17 Jun 2017 16:22:22 +0100
+f33500accf98fc6a78565334a03c63530247f78d|Show user the download costs. Some improvements.|Fri, 16 Jun 2017 13:01:34 +0300|Sat, 17 Jun 2017 16:22:22 +0100
+768bc93476a078d887fcd7bfdf8a521a65e31a8d|Reject service executions using restricted files|Fri, 16 Jun 2017 14:54:06 +0100|Fri, 16 Jun 2017 14:54:06 +0100
+84d94e865cacbc7fb825b1cf860cf7007f49b651|Limit travis-ci resources to avoid SIGKILL|Thu, 15 Jun 2017 10:14:37 +0100|Thu, 15 Jun 2017 10:14:37 +0100
+f5840093d5d3a7a6e78bdfd2be803bfb6666394e|Update travis config|Wed, 14 Jun 2017 15:33:12 +0100|Wed, 14 Jun 2017 15:33:12 +0100
+c5e9622b0ae58c020bd1e3f544b704310edb61ae|Remove missing refData label from UI|Wed, 14 Jun 2017 13:57:45 +0100|Wed, 14 Jun 2017 13:57:45 +0100
+ebe180c930fd150e8fd76f9660235b5a7d833645|Use buffered file downloading for HTTP and FTP|Wed, 14 Jun 2017 13:45:49 +0100|Wed, 14 Jun 2017 13:45:52 +0100
+710677cc5c76c9c67255757fe094d255cb89cc41|Fix pre/postinst scriptlets for serviceregistry package|Tue, 13 Jun 2017 19:11:18 +0100|Tue, 13 Jun 2017 19:11:18 +0100
+51f45dd752ea7fa36be78200ba10ca1f2cd859ce|Add userMessage flag to mark user-visible log messages|Tue, 13 Jun 2017 15:51:29 +0100|Tue, 13 Jun 2017 15:51:29 +0100
+57a05ddb874c90566e4062aba5f127976c0d0f87|Make Graylog API job log query configurable|Tue, 13 Jun 2017 15:13:49 +0100|Tue, 13 Jun 2017 15:14:58 +0100
+109d57dd29960aff8ced09be1e399e3461511c1a|Add ServiceDescriptor on service creation.|Tue, 13 Jun 2017 15:05:29 +0300|Tue, 13 Jun 2017 13:53:51 +0100
+77ae23ce02bdb1c5bf0b6c6a41a51ffb00a9e29f|Add travis-ci config|Tue, 13 Jun 2017 13:03:57 +0100|Tue, 13 Jun 2017 13:07:59 +0100
+f70a27954cedd1766975f4de2e670529b4dfdebf|Add service management dialog for content authorities|Tue, 13 Jun 2017 10:55:49 +0100|Tue, 13 Jun 2017 11:38:27 +0100
+5752f1220745d5f613a2370e2f0be3997437b1dd|Enable data access policies|Sun, 11 Jun 2017 21:42:23 +0100|Tue, 13 Jun 2017 09:48:07 +0100
+202f489bcd3afa3bc374473ef68ea58dae193b73|Extract f-tep-server RPC client from Worker|Sun, 11 Jun 2017 20:25:46 +0100|Mon, 12 Jun 2017 15:59:46 +0100
+7215f7a06e81770f6a492091bf76f018d8981a54|Make search results more transparent|Mon, 12 Jun 2017 10:37:06 +0100|Mon, 12 Jun 2017 12:13:30 +0100
+7a5ce23772dd66f598949ef7e26e9feb1f19443f|Update dependency versions|Sun, 11 Jun 2017 15:59:01 +0100|Mon, 12 Jun 2017 12:13:26 +0100
+2110ad342587148e4760ccc615ec30751f5fe1b3|Properly handle cost estimation 402|Mon, 12 Jun 2017 10:21:48 +0100|Mon, 12 Jun 2017 12:13:26 +0100
+f7429c748663a872fda0a5bc701c7081c470528f|Add auto-publishing to BULK_PROCESSOR services|Sun, 11 Jun 2017 15:24:36 +0100|Mon, 12 Jun 2017 12:13:26 +0100
+ae200c166faa9ed90bdfa636640dc474b62bd066|Refactor security/ACL components to separate module|Sun, 11 Jun 2017 14:45:18 +0100|Mon, 12 Jun 2017 12:13:26 +0100
+88aac810ee254717b55b941fc9cb67a203e83802|Fix user paging and searching|Fri, 9 Jun 2017 15:32:04 +0100|Mon, 12 Jun 2017 09:21:00 +0100
+861df58c37ccb1ec4011a374d3a7ab4696cdf919|Clean up API search predicate/expression handling|Fri, 9 Jun 2017 16:32:37 +0100|Fri, 9 Jun 2017 16:55:32 +0100
+0749f95c17ecc0e176683ba2d3532d145150970d|Link Jobs directly to their output files|Fri, 9 Jun 2017 16:28:49 +0100|Fri, 9 Jun 2017 16:55:32 +0100
+d194a776c8173357482e37b39ab7137f7b902492|Hide _link.gui when a service is not running|Fri, 9 Jun 2017 13:55:42 +0100|Fri, 9 Jun 2017 16:55:32 +0100
+b9702389cfc01c0b5d465beb977a21e7705d24ae|Fix openstack4j usage|Fri, 9 Jun 2017 13:02:18 +0100|Fri, 9 Jun 2017 16:55:32 +0100
+9630f021bb8165570573a14c6314d23ec1a62150|Remove gradle-js-plugin, use jjs/Nashorn for faster builds|Thu, 8 Jun 2017 21:33:07 +0100|Fri, 9 Jun 2017 16:55:32 +0100
+62bd45115bcaf395ee5aea47be6ed87fb4dad7d9|Fix TypeError: document.getElementById(...) is null|Fri, 9 Jun 2017 11:30:05 +0100|Fri, 9 Jun 2017 11:30:05 +0100
+8dd54eee2d66cb71fc9c9cceea72aabb4d91037f|Bug fix - adding multiple items to databasket.|Fri, 9 Jun 2017 10:51:53 +0100|Fri, 9 Jun 2017 10:51:53 +0100
+4b3e15884e032ff71d364e076536b1f9bc2be60c|Open a job when it's launched|Thu, 8 Jun 2017 20:59:29 +0100|Thu, 8 Jun 2017 21:09:28 +0100
+d39dc768580ffca7dcedd9a06656ca936b352aa8|Added options for publishing services|Thu, 8 Jun 2017 17:46:56 +0100|Thu, 8 Jun 2017 21:02:27 +0100
+acfd3597e61d74853521a7e7ee3a7a15abba19fa|Add role to API ShortUser projection|Thu, 8 Jun 2017 17:10:17 +0100|Thu, 8 Jun 2017 19:40:35 +0100
+db7d906184b8d12173533a9f907a16e0b3060e13|Add service type filtering to API|Thu, 8 Jun 2017 17:09:57 +0100|Thu, 8 Jun 2017 19:40:35 +0100
+b04fe2a7abee26b11a413878666bd3965c154f0f|Add publishRequested attribute to FtepAccess summaries|Thu, 8 Jun 2017 16:16:11 +0100|Thu, 8 Jun 2017 19:40:35 +0100
+a9df32b9c0c877f6e939beb3a7bd44a5cd832eef|Enable IPT worker node provisioning with Openstack API|Tue, 6 Jun 2017 17:38:43 +0100|Thu, 8 Jun 2017 19:40:35 +0100
+9728939296f5e6fd3c78db0624295d8358115286|TEPF-228 Search result selection icons not operable.|Thu, 8 Jun 2017 16:13:55 +0300|Thu, 8 Jun 2017 15:52:59 +0100
+702a8ff2c67f9b642ea3c7f47dc0ee0029156fbb|TEPF-214 additional input types|Thu, 8 Jun 2017 15:36:23 +0100|Thu, 8 Jun 2017 15:36:23 +0100
+2fa51bd0ff32f42e5a961974fd4b374b499dd70b|Project restructure|Mon, 5 Jun 2017 16:23:19 +0100|Wed, 7 Jun 2017 11:55:23 +0100
+0cfc41275e05e18fe2d1e3c3b38adba0ebb9d944|Fix delayed paging of jobs lists|Wed, 7 Jun 2017 10:46:32 +0100|Wed, 7 Jun 2017 10:47:21 +0100
+f37e6928fb6841921df44cf4bc83f3a738a9c7ce|Add method for checking worker node status|Sun, 4 Jun 2017 08:31:14 +0100|Wed, 7 Jun 2017 09:58:56 +0100
+f2bb42b9078917c20a72a227ed27094d9c162d2f|Return new job entity after service launch|Mon, 5 Jun 2017 16:41:22 +0100|Wed, 7 Jun 2017 09:58:56 +0100
+369841d01a294c5bd741c48cdaa855dacb9a96c5|Add dynamic node factory configuration to workers|Mon, 5 Jun 2017 11:52:21 +0100|Wed, 7 Jun 2017 09:58:56 +0100
+33750242f2e7b3a688f25caf5ee769693179b782|Terms and Conditions|Tue, 6 Jun 2017 15:26:05 +0100|Wed, 7 Jun 2017 06:52:47 +0100
+0dc434b7f364973f95976d0a70b6cccaefcbb95a|Databasket & Jobs fixes + clear button|Tue, 6 Jun 2017 14:56:40 +0100|Tue, 6 Jun 2017 14:56:40 +0100
+c0be95206ace4e1d6fc16c771d2d924383443363|Tweak unit test database configuration|Mon, 29 May 2017 14:36:59 +0100|Fri, 2 Jun 2017 15:52:30 +0100
+a45ba078dbf85b8cb8a67e1a3db736568d5a8a48|Update dependency versions|Sun, 28 May 2017 21:38:49 +0100|Fri, 2 Jun 2017 15:52:30 +0100
+f58558cf771957cbbab420742c1f7c0e4fa69147|Fix displaying results on map|Tue, 30 May 2017 17:49:44 +0100|Tue, 30 May 2017 17:49:44 +0100
+b4864dc7d5515c247f39c746d8ef537c9962c8c6|Stop navbar login flickering|Tue, 30 May 2017 11:30:51 +0100|Tue, 30 May 2017 11:30:51 +0100
+f7d64aba34d98b928438a8cbe0b18be1d21223a9|Escape html entities in Admin page|Fri, 26 May 2017 17:39:37 +0100|Fri, 26 May 2017 19:09:51 +0100
+4ac69c4ff9c02fc6e3ea2830bdaf8a43c4a908bb|WMS layer & Databasket layer|Fri, 26 May 2017 18:49:15 +0100|Fri, 26 May 2017 19:07:15 +0100
+901b41233baef7da5485c15c5f65bf62b02790b6|Add downloader prioritisation|Fri, 26 May 2017 15:38:06 +0100|Fri, 26 May 2017 15:38:06 +0100
+42da9f9771842fb6b6e12998d57e7b21d8ae8c13|Hide WMS URLs for non-geoserver-ingestible filetypes|Fri, 26 May 2017 11:02:36 +0100|Fri, 26 May 2017 11:27:47 +0100
+88608a19c3220474ec9933c268a64884125ac60d|Update S2 CEDA downloader to support sentinel2:// URLs|Thu, 25 May 2017 14:17:42 +0100|Thu, 25 May 2017 18:01:22 +0100
+0635cab5a161d89163ec1490aad8ed581c9510fd|Fix Geoserver WMS URL layer name|Thu, 25 May 2017 12:05:50 +0100|Thu, 25 May 2017 12:05:50 +0100
+ae9f16b8364eae163edd8ae9e11406c83dd203ce|User search on Admin page includes by email address, add email to ShortUser|Thu, 25 May 2017 11:02:58 +0100|Thu, 25 May 2017 11:02:58 +0100
+99ef84ae8f265eceda6a2c6cdb9a6bdd421782d0|Create API for service publishing requests|Wed, 24 May 2017 15:50:40 +0100|Thu, 25 May 2017 09:40:31 +0100
+b7dc837d82814345b57b05332173cfd10ed50818|Added missing aria-labels|Wed, 24 May 2017 15:24:33 +0100|Wed, 24 May 2017 15:37:58 +0100
+b53746f866e37eac8382ae5cecf50fdcbd437545|Jobs now display all outputs|Wed, 24 May 2017 14:54:25 +0100|Wed, 24 May 2017 15:06:11 +0100
+a0011b942ebbebf2e2600b4f6ad9fab592b42175|Remove unused code|Wed, 24 May 2017 12:05:31 +0100|Wed, 24 May 2017 14:55:13 +0100
+a945cffe18c5605f88ee97d76f52d3212461b768|Only display droplists in workspace when input is file|Wed, 24 May 2017 11:51:44 +0100|Wed, 24 May 2017 14:55:03 +0100
+20503f84963ce9dbc4bb89156d7e668928cde3bc|Set default worker locator expression to string, not property|Wed, 24 May 2017 13:06:53 +0100|Wed, 24 May 2017 14:21:10 +0100
+d31fd33b53257a81c101a4abd9a89d9a55893310|Fix job search filter|Wed, 24 May 2017 10:37:50 +0100|Wed, 24 May 2017 13:22:53 +0100
+52e3a36b47b4202b4848bbe7ef58b59e51457266|Refactor access info on API entities, add public flag|Wed, 24 May 2017 10:50:32 +0100|Wed, 24 May 2017 10:59:14 +0100
+58610e560dd9038d3c0222f139dcb283179329f0|Add job config label to RPC service launcher interface|Wed, 24 May 2017 09:57:16 +0100|Wed, 24 May 2017 10:59:10 +0100
+3a7766e566ad3a8637e8a3623bad171375668f5b|Speed up bottombar transition|Tue, 23 May 2017 17:41:46 +0100|Tue, 23 May 2017 17:41:46 +0100
+39de5fdea92cc9122307d830e445f34c8044ae35|TEPF-162 - Could not get Default Project shared group|Tue, 23 May 2017 17:09:47 +0100|Tue, 23 May 2017 17:09:47 +0100
+4d6b50c41058a6bdf208868e0a8d68c7d95fd303|JSLinting|Tue, 23 May 2017 16:35:54 +0100|Tue, 23 May 2017 16:41:30 +0100
+7f6493280c81b28f2ad74e9cd7c6117acbdcb10f|Remove date sliders from satellite product search|Tue, 23 May 2017 15:34:52 +0100|Tue, 23 May 2017 16:16:12 +0100
+8f3755692e3650ba3bb893cda80bae279af04834|Remove unnecessary JS dependencies, update requirejs, x2js, grid|Tue, 23 May 2017 15:17:31 +0100|Tue, 23 May 2017 16:16:12 +0100
+ee3439f7769a118d5c0cb54f793d4b3536382260|Replace job status filter|Tue, 23 May 2017 14:41:23 +0100|Tue, 23 May 2017 16:11:49 +0100
+d7dcc88df6eabd5795510b91fdc3c58df417d938|If no filename display the file uri in databaskets|Tue, 23 May 2017 15:55:42 +0100|Tue, 23 May 2017 16:11:39 +0100
+902f22b0b1f48045797c18531f1da03f99ab9b3c|Add confirmation dialog when deleting items|Mon, 22 May 2017 15:02:52 +0100|Tue, 23 May 2017 16:01:51 +0100
+677995d43f38cbefe1dcc8b3a0e377a98791dabc|Extract API filter predicates for easier extension, add job.config.label to Jobs filtering|Tue, 23 May 2017 12:44:34 +0100|Tue, 23 May 2017 15:18:28 +0100
+06c1fa9fbf8be4ac0ba10a776eb119660f8441ab|Tidy up API method names, add wildcard wrapping to jobs filtering|Tue, 23 May 2017 12:30:15 +0100|Tue, 23 May 2017 14:34:54 +0100
+c35f29c01f718f895e71aabd9709045142dc15d5|Fix deleting items in a databasket|Mon, 22 May 2017 14:13:13 +0100|Tue, 23 May 2017 14:33:47 +0100
+512f7d11c972e703db3a34e3a426e8c550eae471|Update Logout URL, clean up ftepConfig.js|Mon, 22 May 2017 14:41:01 +0100|Tue, 23 May 2017 14:33:30 +0100
+18c185ffb290c49c0610056bc1c54f68b04ff345|Change logo to open drupal website in new tab|Mon, 22 May 2017 14:21:10 +0100|Tue, 23 May 2017 14:33:30 +0100
+c26ea76857c85d5cc336f074a9b81eb603415b34|Keep modified codemirror library local + fix developer access|Mon, 22 May 2017 15:16:37 +0100|Tue, 23 May 2017 14:32:52 +0100
+7c5b4a746b94170cee469f979a02a46bb190b47e|Update gradle plugin versions|Mon, 22 May 2017 17:38:37 +0100|Mon, 22 May 2017 17:38:37 +0100
+3e920b8ae36d8c04b202bca05778032e707fce90|Hide Developer page from those without the required role|Mon, 22 May 2017 11:31:09 +0100|Mon, 22 May 2017 12:08:06 +0100
+b89e553d49009f465bba612b32e7183fe04fa1da|Add dynamic worker locator config entities|Sun, 21 May 2017 16:26:11 +0100|Mon, 22 May 2017 11:13:09 +0100
+36f13ce7526b7cc382f1b2b3df4f474c7ea119c6|Fix typo in databasket JS, add filename to external FtepFile products|Sun, 21 May 2017 10:45:05 +0100|Mon, 22 May 2017 11:13:09 +0100
+8f348ae3105509e04a047727ef709864e48d3d06|Fix resto loading of external product metadata|Mon, 22 May 2017 11:12:15 +0100|Mon, 22 May 2017 11:12:45 +0100
+986f6b3ac59fade29db20b5753263c7439a338e2|Explorer page bottombar menu databasket selection.|Mon, 22 May 2017 10:45:00 +0100|Mon, 22 May 2017 10:53:55 +0100
+632c4288790804dbc375b58de61992109752d4d6|Developer tree structure|Fri, 19 May 2017 14:24:33 +0100|Mon, 22 May 2017 10:52:18 +0100
+5cb3f449c5f23d82e9f1a344ab3369d50cd517f6|Implement databasket functionality|Thu, 18 May 2017 13:04:40 +0300|Sun, 21 May 2017 09:51:28 +0100
+cbf22b20c454c72ab508cecafc59c73c53065616|Helpdesk page updates|Fri, 19 May 2017 16:22:48 +0300|Fri, 19 May 2017 17:01:56 +0100
+9e9cd72432f1c8250674c44fd1cb0cae410ec6f6|Showing output WMS layer, bug fix for KML file drop.|Thu, 18 May 2017 11:20:00 +0300|Fri, 19 May 2017 16:53:32 +0100
+432a9d2f4ec09c680d079e438d4cf55559e18d1d|Refactor API resource mapping to allow for custom _links on projections|Thu, 18 May 2017 15:24:03 +0300|Fri, 19 May 2017 16:53:21 +0100
+3c2326089882239fed1ddf1383393b08e33952c0|Workspace file chip updates.|Thu, 18 May 2017 18:22:12 +0300|Fri, 19 May 2017 15:05:14 +0100
+60fae502046c409de61f35dedeabb0c81a467725|Reverse proxy GUI applications|Thu, 18 May 2017 17:31:30 +0100|Thu, 18 May 2017 17:32:26 +0100
+71f524604b1e9fe83f63de3c60dbcaf28249065f|Add user-editable label field to job configurations|Thu, 18 May 2017 12:39:20 +0100|Thu, 18 May 2017 16:34:18 +0100
+2cb5349c653651d577efe7d70e7e99b682f84532|Increase PHP memory limit|Thu, 18 May 2017 14:32:51 +0100|Thu, 18 May 2017 16:34:04 +0100
+d1d18129801776f5118fdd63ce5e7d93aabbb941|TEPF-123 Search button doing nothing (Blank space should be parsed out from the dates)|Thu, 18 May 2017 16:27:52 +0300|Thu, 18 May 2017 16:27:52 +0300
+ecccfbd9ba00d2bae61871c911faf2b6fc8b251d|Disable FtepFile download for EXTERNAL_PRODUCTs|Wed, 17 May 2017 13:03:22 +0100|Thu, 18 May 2017 12:40:04 +0100
+103dabdc1a5dc6b8e114d932fd951532e330e594|Fix job output-xxx issue.|Wed, 17 May 2017 16:42:50 +0300|Wed, 17 May 2017 16:42:50 +0300
+5e3a3dd0c733509aef572292df47bf30762a18ad|Fix adding items to databasket.|Wed, 17 May 2017 16:12:32 +0300|Wed, 17 May 2017 16:12:32 +0300
+5c6996943463c2bb902a1a12c84c7b9e7928fec5|Fix external product size type cast|Wed, 17 May 2017 12:32:39 +0100|Wed, 17 May 2017 12:32:39 +0100
+cf709c8c9e8c7a0a34e4acadca8e53f68e586649|Service creation update|Wed, 17 May 2017 09:48:26 +0100|Wed, 17 May 2017 11:49:46 +0100
+83a40a25352781d326832630934754a8d524eb76|Add Worker enumeration API|Wed, 17 May 2017 11:30:42 +0100|Wed, 17 May 2017 11:31:01 +0100
+0b40562a23c9305b24f5f6038f683d53e630cacb|Fix new group ADMIN permissions|Wed, 17 May 2017 10:43:00 +0100|Wed, 17 May 2017 11:30:53 +0100
+ce4a3c6b5ba28e40c6e4b4cf9142462d11b28f4e|Update gradle to 3.5|Mon, 10 Apr 2017 21:13:31 +0100|Wed, 17 May 2017 11:30:53 +0100
+167222ee55916c22e9ab8f88ff8070b5147aa169|Server side search.|Fri, 12 May 2017 15:32:21 +0300|Wed, 17 May 2017 11:24:59 +0100
+0a7135b7846ad644eb1790abff15db1f23d223f0|Bump Resto RPM release number to reflect changes in v0.6.5|Wed, 17 May 2017 09:39:11 +0100|Wed, 17 May 2017 10:08:39 +0100
+1dca7a859f818a36747284732b296aefd3e2686c|Account Page|Wed, 17 May 2017 09:57:11 +0100|Wed, 17 May 2017 10:04:57 +0100
+81f40ea81cca73eb8b32b670a5bb7c2f6cc05c13|Fix mission name for databasket items.|Wed, 17 May 2017 10:54:22 +0300|Wed, 17 May 2017 09:05:32 +0100
+dec42313e723e851d326298fffe390c1af09aed6|Databasket items|Tue, 16 May 2017 16:00:14 +0300|Tue, 16 May 2017 20:53:07 +0100
+1be6873f9d8a4bc8f77ed51d14d303130f081428|Remove unused imports|Tue, 16 May 2017 12:59:32 +0100|Tue, 16 May 2017 12:59:32 +0100
+7c2570c23b3b9196a69c1015c7cf538f5a252f1e|Begin migrating /currentUser API to /users/current with HATEOAS support|Tue, 16 May 2017 12:34:14 +0100|Tue, 16 May 2017 12:34:14 +0100
+4129b930c2c5018e5c72048c4ad26d1375d3d7d0|Fix codemirror loading|Tue, 16 May 2017 12:01:07 +0100|Tue, 16 May 2017 12:01:09 +0100
+2d95fab298e27bd22accc196e402cf09f01e0685|Fix CORS configuration toggle|Tue, 16 May 2017 10:13:22 +0100|Tue, 16 May 2017 11:38:30 +0100
+e8ba232632a4f32466837eedcabf38d45d4bb4fc|Remove hardcoded references to QA env|Mon, 15 May 2017 12:09:39 +0200|Tue, 16 May 2017 11:08:53 +0100
+ce36bda6e3e658efa6e03f6f6fd26fa63658a14e|GetObjectX() to include the accessLevel.|Mon, 15 May 2017 15:29:51 +0300|Tue, 16 May 2017 10:00:18 +0100
+ee9c5674a93a1bcd584a140679d71f29f42489e4|Codemirror|Mon, 8 May 2017 17:25:37 +0100|Tue, 16 May 2017 09:20:11 +0100
+6438ac779c0494b2de734c9b83a59869a9dc7264|Results spinner fix|Mon, 15 May 2017 14:21:54 +0100|Mon, 15 May 2017 17:44:29 +0100
+05e7065d864a024b3118aee65037e3218449f1d5|Fix aggregated code coverage in SonarQube|Mon, 15 May 2017 16:13:31 +0100|Mon, 15 May 2017 17:38:13 +0100
+c47501ba401f6fac1d6d22f82904f211bdbcccaa|Fix aggregated code coverage in SonarQube|Mon, 15 May 2017 16:00:04 +0100|Mon, 15 May 2017 16:00:04 +0100
+53de4226bfc4a55f4a433e01a8337292803461e0|Add aggregated code coverage to SonarQube|Mon, 15 May 2017 15:15:10 +0100|Mon, 15 May 2017 15:15:14 +0100
+c8421d4c16dd6d11b28bb625a4aece42fb889efd|Updates for Cloud Coverage.|Mon, 15 May 2017 17:04:39 +0300|Mon, 15 May 2017 17:04:39 +0300
+01a8b967b8db9eed26c835150159cd59299d9d0a|Add default self-READ ACL for new Groups|Mon, 15 May 2017 12:47:45 +0100|Mon, 15 May 2017 14:09:23 +0100
+60cb6c454551f8e288f6d25853f97c7431a0c279|Ingest output files from GUI applications|Sun, 14 May 2017 20:48:18 +0100|Mon, 15 May 2017 14:09:23 +0100
+c6d8e9b4a2d81569318a170072fe93b8fe18ade0|Add fallback kill after docker container shutdown timeouts|Sun, 14 May 2017 11:18:31 +0100|Mon, 15 May 2017 14:09:23 +0100
+dd15ba05cf5ce9368ebda81eae75fc630efe7d12|Fix external geoserver URL string|Sat, 13 May 2017 15:28:17 +0100|Mon, 15 May 2017 14:09:23 +0100
+c0dd778855d306842dc1a4887467648224f607e1|Tweak GUI services to load files automatically|Sat, 13 May 2017 15:28:06 +0100|Mon, 15 May 2017 14:09:23 +0100
+0ba9f97783b5be5d7052213d507c87c5aa210341|Only allow string types for LITERAL fields.|Mon, 15 May 2017 15:41:20 +0300|Mon, 15 May 2017 13:58:33 +0100
+dc15a06f71b44767be0b1d6d894734ee559d0fa7|TEPF-184 - Ownership of projects and other artefacts|Mon, 15 May 2017 10:15:34 +0100|Mon, 15 May 2017 13:46:53 +0100
+c2e926a2448346d6c1e926136e59fdfbacaa3aab|Temporary disable push to graylog via HTTP GELF|Mon, 15 May 2017 10:36:54 +0200|Mon, 15 May 2017 10:20:54 +0100
+be4e3dd42674eead62669db26e471e091b5fa83e|Mobile & other styling fixes|Thu, 11 May 2017 17:31:12 +0100|Mon, 15 May 2017 10:13:07 +0100
+50c24e9ea3508721218e700d6694c9a57721cd1f|Make CORS configurable, enabled by default|Fri, 12 May 2017 15:53:58 +0100|Fri, 12 May 2017 15:54:01 +0100
+5beb91949dd09f5f7f02258ecb1ce5e850a1c2d1|Fix service file access control for single GETs|Fri, 12 May 2017 15:14:07 +0100|Fri, 12 May 2017 15:21:17 +0100
+82c11bdce852c3fb61114ac145b874237fad1703|Change config.yml to enable IPT searches and http quicklooks|Fri, 12 May 2017 15:40:47 +0200|Fri, 12 May 2017 15:14:43 +0100
+e7423a1d352abcde1c7ae5884a08b91045ff9dca|Use target="_blank".|Fri, 12 May 2017 16:43:21 +0300|Fri, 12 May 2017 16:43:51 +0300
+aaeecf8ddc22de130115a054319909acfa7190fe|Inline SNAP installer config in Dockerfile, fix GUI file loading|Fri, 12 May 2017 13:05:11 +0100|Fri, 12 May 2017 13:57:54 +0100
+2171bea93075d847409b3275150eb15ff2718883|Add WMS link to FtepFile entities|Fri, 12 May 2017 10:45:31 +0100|Fri, 12 May 2017 12:58:59 +0100
+7fb4ef322f1cec2794405450fe9d51f1e16aadac|Show cloud coverage for results items where it exists.|Thu, 11 May 2017 20:16:47 +0300|Thu, 11 May 2017 20:16:47 +0300
+1486e3da9275ea76162fbac66ca50c64466d8b61|Redesign Resto collection models|Thu, 11 May 2017 13:25:34 +0100|Thu, 11 May 2017 15:41:59 +0100
+77457c13eb28ada2087c3eed3882ccdcdd3afe5d|Display correct job input details in community|Thu, 11 May 2017 13:35:16 +0100|Thu, 11 May 2017 15:11:23 +0100
+e94ac95ff9f6f1500d5e783a16b3fc6611284ec5|Bug fix in output item as a drag-and-drop object.|Thu, 11 May 2017 17:00:33 +0300|Thu, 11 May 2017 17:00:33 +0300
+dc6bb4cdcc730784abd06cf01b474e797700ac37|Licensing|Wed, 10 May 2017 17:21:23 +0100|Thu, 11 May 2017 10:00:28 +0100
+cc29b9f88da70d0a1824259a66a252b3bebbda24|Add trace-level HTTP request/response logging|Wed, 10 May 2017 16:45:47 +0100|Wed, 10 May 2017 17:05:12 +0100
+522272dac0c69639eb5edba352f30c2e66ad8ef4|Fix job search, and download links.|Wed, 10 May 2017 18:55:20 +0300|Wed, 10 May 2017 18:57:12 +0300
+2d72123f9a9bf66755652302f4be150b777ef43b|Add inverted findByNotOwner methods to API|Wed, 10 May 2017 11:29:41 +0100|Wed, 10 May 2017 16:46:04 +0100
+8f0d47b3e16f6953e434610325b53d5cb3444c6c|Make API visibility filtering available to subclasses|Wed, 10 May 2017 11:01:18 +0100|Wed, 10 May 2017 16:46:04 +0100
+42fc2fac4a9ff12d557c1d466be6e83705dc228f|Paging, polling, some fixes and cleanup.|Tue, 9 May 2017 12:10:08 +0300|Wed, 10 May 2017 18:01:04 +0300
+fb78a4b2b2187ef1fdfcf76b1eed0e50c04b0988|Landsat as search option.|Wed, 10 May 2017 15:24:37 +0300|Wed, 10 May 2017 15:24:37 +0300
+4e1c0b9830cde1ed0c318ac8d9181fcb5c0ab8b1|Use wkt geometry in search parameters.|Wed, 10 May 2017 12:36:18 +0300|Wed, 10 May 2017 12:59:41 +0100
+3d8c5d67df2433ee5ec7c697b946091def72946d|Fix initial service creation Dockerfile|Wed, 10 May 2017 10:51:00 +0100|Wed, 10 May 2017 12:36:06 +0100
+036de31c3a5e2c46370accda37dadf02a431736f|Fix admin page loading|Wed, 10 May 2017 10:12:48 +0100|Wed, 10 May 2017 11:38:10 +0100
+d57bf27b8379587bdc71ba0fd11c526c0f405bce|Messages bug fix.|Wed, 10 May 2017 10:45:19 +0300|Wed, 10 May 2017 09:50:00 +0100
+7d16b2938e7f9ed943f249fb076a482e107aaa1b|Dockertag now generated|Tue, 9 May 2017 17:00:52 +0100|Tue, 9 May 2017 17:00:52 +0100
+e57e8ebcb73710000ab220b355e67384702ee6a3|Navbar login|Tue, 9 May 2017 14:27:48 +0100|Tue, 9 May 2017 14:36:39 +0100
+a7407657809ff101621d2b96b091c77712569709|Fix global shibboleth authentication for drupal|Tue, 9 May 2017 12:19:15 +0100|Tue, 9 May 2017 12:19:18 +0100
+f7f896428c4a677659668a11f1a9f697122d82bc|Fix messaging console error|Tue, 9 May 2017 12:00:03 +0100|Tue, 9 May 2017 12:06:25 +0100
+cd3a8edf8f5194f59f62edd7878da9a1fad44a97|Fix navbar disappearing|Tue, 9 May 2017 11:13:09 +0100|Tue, 9 May 2017 11:21:31 +0100
+760263c15f6c885f5eeef3d90673263ddfe2ec59|All coordinates should be now in LON,LAT.|Tue, 9 May 2017 12:41:03 +0300|Tue, 9 May 2017 12:41:03 +0300
+cf7dd1d53658f558543a9e2222c51a9b698c2b83|Adding Loading Screen for each page|Mon, 8 May 2017 18:16:17 +0100|Mon, 8 May 2017 18:22:39 +0100
+e87c3f8848df39ddd663a58a5b814b1fc3636c5c|Dev version 1.0.0-SNAPSHOT|Mon, 8 May 2017 16:51:14 +0100|Mon, 8 May 2017 16:51:14 +0100
+0d9c3352b6ab62c539ea58a936116b9f643e768c|Add FtepService collection to Projects|Mon, 8 May 2017 14:00:55 +0100|Mon, 8 May 2017 16:41:20 +0100
+6fb8b96da68b25c6843b26069dfc1f2c50a3bec2|Charge users for job executions and downloads|Mon, 8 May 2017 12:04:35 +0100|Mon, 8 May 2017 16:41:20 +0100
+357b127175aa4ac74e1ce9e476a94e78abcf633e|Allow custom config in java service properties|Mon, 8 May 2017 11:17:44 +0100|Mon, 8 May 2017 16:41:20 +0100
+177ca01a4912717c2934deba5913b682f9006bd7|Use STATELESS session management|Sun, 7 May 2017 11:26:18 +0100|Mon, 8 May 2017 16:41:20 +0100
+bc6c45c253a2c14ede5fb7264672318cf675fc83|Update dependency versions|Wed, 26 Apr 2017 20:07:58 +0100|Mon, 8 May 2017 16:41:20 +0100
+3de800e1486055194eafef45ffa443187a1a4a99|TEPF-173 navigation|Mon, 8 May 2017 12:09:53 +0100|Mon, 8 May 2017 14:09:53 +0100
+e4b79ce2b32391e8c4e701c2692536e10435cd62|Unify services messages part2|Mon, 8 May 2017 11:49:36 +0100|Mon, 8 May 2017 11:49:36 +0100
+9d5f0241635bccf62fd615c42ccd3b5728a7f5ff|Add serviceDescriptor to the service update.|Thu, 27 Apr 2017 22:07:26 +0300|Thu, 4 May 2017 17:57:33 +0300
+fdd2b241272799fd6e8a38cd2048941e5d4f2ed3|Remove star ratings  from services|Wed, 3 May 2017 16:30:33 +0100|Thu, 4 May 2017 09:10:11 +0100
+d3afa540d9364f0cd9c9d80fbb64277711b9b4cc|Some small fixes.|Wed, 3 May 2017 14:03:08 +0300|Thu, 4 May 2017 07:07:42 +0100
+39e1f0b06f330eb9a6215559bfd5f3e12fe5789d|Unify services messages|Tue, 2 May 2017 12:31:12 +0100|Wed, 3 May 2017 14:56:23 +0300
+02a1dbd0c6224a94f51dd8bc1f44ba965777d84e|Endorse coins to a user.|Thu, 27 Apr 2017 22:49:50 +0300|Tue, 2 May 2017 17:28:33 +0300
+b4d00eedeb5b5267eb02ded72da34f11c4c572eb|Fix getting a download link for jobs.|Tue, 2 May 2017 17:16:47 +0300|Tue, 2 May 2017 17:16:47 +0300
+7f51349e494294702d205cccddcc119aeb0d8875|Get estimated cost for a job. Fix some bugs.|Tue, 2 May 2017 16:53:50 +0300|Tue, 2 May 2017 16:53:50 +0300
+d1f6836597802ae3397bd7b13a3ee505b281ec23|Remove zoo-client dependencies.|Fri, 28 Apr 2017 12:08:52 +0300|Fri, 28 Apr 2017 15:19:48 +0300
+9e0f96183ba5c35e2313b61e824d7a3387b55e10|Disable codemirror.|Thu, 27 Apr 2017 23:33:28 +0300|Thu, 27 Apr 2017 23:33:28 +0300
+dc747d158a853631b41b9d5b7b0640fa8ce0fe9e|Fixes on job.|Thu, 27 Apr 2017 23:22:09 +0300|Thu, 27 Apr 2017 23:22:09 +0300
+07be8df8fbcf512bbf4afb066cd3a0c83a385007|Avoid defaulting to ADMIN authentication for ACL operations|Thu, 27 Apr 2017 19:40:04 +0100|Thu, 27 Apr 2017 20:05:30 +0100
+dfdaabaa6185ac9bf04a792422a98782a45ab301|Remove APLHA, don't use decimals for bbox.|Thu, 27 Apr 2017 18:58:28 +0300|Thu, 27 Apr 2017 18:58:28 +0300
+68aab864ef5214f266dad607149497967e70d6af|Fetch first 100 items for databaskets and jobs.|Thu, 27 Apr 2017 18:53:11 +0300|Thu, 27 Apr 2017 18:53:11 +0300
+d9aae877252fe50fd8b5295ccbcbe4368aac3e29|Fix search area bbox issue.|Thu, 27 Apr 2017 18:04:19 +0300|Thu, 27 Apr 2017 16:09:46 +0100
+29512f0706a813a63050a1aa9ce326c95f5352ab|Minor tweaks to SSO, ftep::server security|Thu, 27 Apr 2017 15:12:42 +0100|Thu, 27 Apr 2017 15:12:42 +0100
+5bca718b1a49eeeb389d21ec33b7d4690fcef73b|Force refresh of service contexts on every launch|Thu, 27 Apr 2017 14:25:56 +0100|Thu, 27 Apr 2017 14:26:06 +0100
+c769cc9c5a67a04a955a03ce656cc960413efb0c|Add API for cost estimation|Thu, 27 Apr 2017 13:05:50 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+deeeb11c1601b25cbb20af530f4abc308576b0a4|Add wallet credit endpoint for ADMINs|Thu, 27 Apr 2017 12:27:24 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+1dcb3b22a534ebee5603be4eec3131240112e4a1|Re-enable service descriptor field in FtepService JSON|Thu, 27 Apr 2017 10:56:20 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+95bce65b9cb94778ad512980d3f10bf32449a503|Fix Monteverdi launcher|Wed, 26 Apr 2017 16:39:12 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+0f1a100c81cd2bc695df1123840b888608480986|Add download costing logic|Wed, 26 Apr 2017 16:38:27 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+e764e59e08c437b0e6d66d3b6c6f8d75376f6478|Enable job estimation and charge mechanism|Wed, 26 Apr 2017 15:47:46 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+8f6e5cadfa620f6691ee1b1082453481b93d2476|Create costing service model and stub service|Mon, 24 Apr 2017 20:19:16 +0100|Thu, 27 Apr 2017 14:08:16 +0100
+b5a80dca7b65160c82d17444ff2c3e297a23d98f|Add Job Logs to the explorer|Wed, 26 Apr 2017 17:55:00 +0100|Thu, 27 Apr 2017 13:53:49 +0100
+49ce3c41bdd6a9d2a5d8dd86d5861d9bd9228119|Admin Page.|Wed, 26 Apr 2017 21:21:30 +0300|Thu, 27 Apr 2017 13:43:56 +0100
+167dcff2115cf61cd21db10ff8c0c5e11c54b36f|User Login|Wed, 26 Apr 2017 15:58:38 +0100|Thu, 27 Apr 2017 13:36:56 +0100
+68b9e08e59a81ef1d2538232983170f5749915c0|Show items when cloning a databasket.|Wed, 26 Apr 2017 22:27:43 +0300|Thu, 27 Apr 2017 13:23:05 +0100
+ba62bdbb9c0feb7d826572dc463947f7d2f194e1|Fix some issues.|Thu, 27 Apr 2017 13:50:37 +0300|Thu, 27 Apr 2017 13:50:37 +0300
+9fa85f01e77895e8c245a4f1b6716c0fd7269ee6|Fix manage/share items displaying|Wed, 26 Apr 2017 17:37:41 +0100|Wed, 26 Apr 2017 17:47:14 +0100
+b556d27a9e5edc7152d47faf947549c3e0cfd51c|Job update fix|Wed, 26 Apr 2017 17:09:29 +0100|Wed, 26 Apr 2017 17:39:34 +0100
+58e7346302c42cec5879b829f5ca945bdf420387|Quicklook URL fix|Wed, 26 Apr 2017 17:11:53 +0100|Wed, 26 Apr 2017 17:11:53 +0100
+398ac8b61baad1be2a40bacd8521cf2e3cbd6315|Fix Drupal API rewrite rules|Wed, 26 Apr 2017 13:34:55 +0100|Wed, 26 Apr 2017 14:09:35 +0100
+afea85c44fa56b0440cc78d26a9b8f1bb6d92797|Fix issue with job re-run.|Wed, 26 Apr 2017 15:14:20 +0300|Wed, 26 Apr 2017 13:35:38 +0100
+ade1feb5bd1171bcd5cf2230062e23b0a2b9df85|Tweak shibboleth/apache config for ftep::proxy|Wed, 26 Apr 2017 13:11:14 +0100|Wed, 26 Apr 2017 13:11:40 +0100
+d4eb5fab871d770d0190e66fe157a6eafa9754bc|Recover from external catalogue ingestion errors|Wed, 26 Apr 2017 11:13:04 +0100|Wed, 26 Apr 2017 13:10:49 +0100
+92def38c45369f477808977a9646ebedd7c4c635|Implement output products model in Resto catalogue.|Wed, 19 Apr 2017 11:35:15 +0200|Wed, 26 Apr 2017 13:10:49 +0100
+473e0827e16425de2e4c07f8c328b442dc8f526d|Syntax highlighting in developer view using Codemirror|Tue, 25 Apr 2017 10:38:08 +0100|Wed, 26 Apr 2017 11:32:02 +0100
+bad8ac893ea4a19f11edaa3ab499515b5534243d|Fix job config uniqueness check in POST API endpoint|Wed, 26 Apr 2017 10:01:39 +0100|Wed, 26 Apr 2017 10:02:09 +0100
+dd00ca4240fe5817e50fe0899a8e7b48b5b31e86|Dependencies for Codemirror for syntax highlighting|Tue, 25 Apr 2017 10:30:58 +0100|Wed, 26 Apr 2017 09:52:25 +0100
+a7a614437c9b9cc66b1be38c07e3b42d0a6cf935|Minification fix|Tue, 25 Apr 2017 17:40:32 +0100|Wed, 26 Apr 2017 09:44:13 +0100
+47d17cade5311b6bd41666b056e63b1662e38b80|fix cloudcoverage param on IPT, fix pagination on preprocessed data searches|Tue, 11 Apr 2017 18:20:27 +0200|Tue, 25 Apr 2017 17:24:14 +0100
+352b0f55579dd0dceb3ee18d089f6f685521cba5|Style Update|Tue, 25 Apr 2017 14:55:57 +0100|Tue, 25 Apr 2017 16:27:09 +0100
+88e7c9883f360b261c6084a8d9fc1ef3cdaf2b24|Fix empty collection ACL errors, add email mapping to SSO|Tue, 25 Apr 2017 15:38:23 +0100|Tue, 25 Apr 2017 15:43:37 +0100
+480ebd10804aa4fcefaf087b71df326678e81764|Fix Shibboleth Puppet configuration|Tue, 25 Apr 2017 14:55:43 +0100|Tue, 25 Apr 2017 15:38:48 +0100
+e6bbb6422abb69b2fa2a32bd4fd1f8454f8ba5ef|Extract drupal apache config from ftep::drupal class|Tue, 25 Apr 2017 10:42:05 +0100|Tue, 25 Apr 2017 15:38:48 +0100
+e28ad6247048e1f2f2ed570474c9ced45f6142dc|Read field descriptions from serviceDescriptor.|Tue, 25 Apr 2017 11:47:26 +0100|Tue, 25 Apr 2017 16:12:17 +0300
+f5188bd278bfc7c443513b73993f3e21a8641cf7|Keep each page tab selection separate.|Tue, 25 Apr 2017 11:54:33 +0300|Tue, 25 Apr 2017 14:21:20 +0300
+934b0f13ad300cc95a6ee5676e5bb842bb6ce120|TEPF-153 Helpdesk links incorrect|Mon, 24 Apr 2017 12:56:06 +0300|Tue, 25 Apr 2017 11:55:02 +0300
+a533a25ff4d89ffdfd691ebb62abcc888c60c902|Fix lazy group loading|Mon, 24 Apr 2017 15:32:55 +0100|Mon, 24 Apr 2017 16:21:58 +0100
+a36dea4886aed4e0714d4ac8bf84b7e5d6291cf6|Add Wallet and Transaction API classes|Sun, 23 Apr 2017 17:36:46 +0100|Mon, 24 Apr 2017 13:04:32 +0100
+75e31311f15a71fc17a578be2dd7d54bf6c2dc51|Grant configurable default wallet balance to new users|Sat, 22 Apr 2017 20:07:00 +0100|Mon, 24 Apr 2017 12:27:44 +0100
+68eec048edb3c13cce7404a7787778989a557ff2|Add model for wallet transactions|Fri, 21 Apr 2017 21:57:48 +0100|Mon, 24 Apr 2017 12:24:37 +0100
+04770bcade7ddc9e473a8dfd023bc6346ebf6e63|Refactor type-specific enums|Fri, 21 Apr 2017 21:54:46 +0100|Mon, 24 Apr 2017 10:31:07 +0100
+d052939c4a5da365091482f701902e7a786e0926|Add back-reference from user to groups|Fri, 21 Apr 2017 20:39:43 +0100|Mon, 24 Apr 2017 10:31:07 +0100
+bf7a4b36e42b0a2f405fc9177bdb58d3e4f20cb7|Fix user details mapping in DEV security mode|Mon, 24 Apr 2017 09:46:23 +0100|Mon, 24 Apr 2017 09:46:23 +0100
+9f621f32c94241c1ca0531554fcc6f621549bbc8|Fix job message covering close button in bottombar|Fri, 21 Apr 2017 16:29:58 +0100|Fri, 21 Apr 2017 17:41:56 +0100
+b4e34db7a5f9a0690e21f80eeb8f85ab83b60856|Update user SSO email attribute|Thu, 20 Apr 2017 21:43:09 +0100|Fri, 21 Apr 2017 17:21:45 +0100
+0504ede50db83b6e7b7eff45f0e808d1a26bae44|Add wallet model|Thu, 20 Apr 2017 20:32:02 +0100|Fri, 21 Apr 2017 17:21:45 +0100
+219646e7ff81d027d37a44d09957a3fb6b566c0e|Pageable APIs|Fri, 7 Apr 2017 09:26:08 +0100|Fri, 21 Apr 2017 17:21:45 +0100
+24ccc3953fb3bca3bea416640953da30ec79f99a|Refresh Button for Community section.|Fri, 21 Apr 2017 15:50:36 +0100|Fri, 21 Apr 2017 16:30:34 +0100
+83ebded9854c0fefedadadfdfb8d486ff37eb58b|Bug fixes.|Fri, 21 Apr 2017 17:50:43 +0300|Fri, 21 Apr 2017 16:19:46 +0100
+daa62b7681d9a4a1e80f06bffdedb563d2a1f2e4|Input/Output definitions for user services. WIP|Fri, 21 Apr 2017 15:46:29 +0100|Fri, 21 Apr 2017 15:54:55 +0100
+813a867d8630a6e949f29e46bdf54667e9256d98|Drag-and-drop functionality for all types.|Fri, 21 Apr 2017 15:12:47 +0100|Fri, 21 Apr 2017 15:12:47 +0100
+766c44d2174a990a1b8af84a5ffdd8fbe1a9eef0|Remove 'Delete Job' from Manage list.|Fri, 21 Apr 2017 10:25:36 +0100|Fri, 21 Apr 2017 10:25:36 +0100
+2b9815cba525c097e471d1ff3f00edf57cf42859|Update Drupal version, add backup_migrate module|Thu, 20 Apr 2017 11:30:12 +0100|Fri, 21 Apr 2017 09:35:52 +0100
+409ace6055a2348f774dec9017f93c9f2f910cf4|Update Explorer view sharing.|Thu, 20 Apr 2017 21:18:41 +0300|Fri, 21 Apr 2017 09:30:18 +0100
+8603bafe017c32275ac544bd02ffee0620173045|TEPF-40 - Automatically open the jobs view when a service is started|Thu, 20 Apr 2017 12:05:05 +0100|Fri, 21 Apr 2017 09:27:09 +0100
+253de51dd99d8e8aeaf17431402e94e456502cd8|Ensure job start time is set as early as possible to avoid null records|Thu, 20 Apr 2017 11:26:26 +0100|Fri, 21 Apr 2017 09:25:58 +0100
+9d176065970a7cd614cf9888fd95ba2a7e4e46f0|TEPF-141 AOI string gets crazy decimals|Thu, 20 Apr 2017 20:21:27 +0300|Fri, 21 Apr 2017 09:07:45 +0100
+6e8b454f02edf3b3a81ccb82ce0a5f3a2a942e11|Bug fix for inputfield file removal.|Thu, 20 Apr 2017 21:33:30 +0300|Thu, 20 Apr 2017 21:33:30 +0300
+8676429fd4d946e43ea26903ad22a0c571951178|TEPF-109 - Make Sentinel-2 the default data in the search window|Thu, 20 Apr 2017 14:15:36 +0100|Thu, 20 Apr 2017 17:44:01 +0100
+6ece7b1bea141b650652d64b8a0e6114f2e5a26f|TEPF-133 - In search result list, (i) button selects the data|Thu, 20 Apr 2017 12:36:09 +0100|Thu, 20 Apr 2017 17:39:32 +0100
+4ccc5feac7dcc67e86aa7e9155c321d5e03c350a|Prevent running a service from closing the bottombar|Thu, 20 Apr 2017 09:17:06 +0100|Thu, 20 Apr 2017 17:24:46 +0100
+444d640973abb3537b345105a84ec3545f3722ab|Fix results spinner on first load|Thu, 20 Apr 2017 10:52:42 +0100|Thu, 20 Apr 2017 17:11:59 +0100
+05bedbd8e0ccffb43e0d1a80c12ab8882990c2e2|Workspace css fix for info message|Tue, 18 Apr 2017 15:23:35 +0100|Thu, 20 Apr 2017 17:11:51 +0100
+31da30e4742208c9b48382fa5d1e72cd26f5334b|Workspace header top padding|Thu, 20 Apr 2017 10:09:44 +0100|Thu, 20 Apr 2017 17:00:51 +0100
+3795b16679ee7a90f27cc90b11ebcfbbc02fc65f|Bottombar increase list size.|Thu, 20 Apr 2017 15:53:14 +0100|Thu, 20 Apr 2017 16:52:14 +0100
+02dc93b37f83e60ef22559128a78703e1384273d|In Explorer view use API 2.0 for services.|Wed, 19 Apr 2017 16:44:06 +0300|Thu, 20 Apr 2017 16:45:43 +0300
+208ed1780645a7222718a943b01043349422d0b2|Fix graylog_collector puppet module and RPM|Wed, 19 Apr 2017 16:40:32 +0100|Thu, 20 Apr 2017 11:22:55 +0100
+3cf6477cc755d835bdf708e9634d8f2bc170d204|Fix log filter when minified|Wed, 19 Apr 2017 15:30:34 +0100|Wed, 19 Apr 2017 15:36:05 +0100
+54e656e3507cc6f6586f82a4b9a360ed2c6df0cd|Log Graylog API consumption errors, add missing params|Wed, 19 Apr 2017 15:07:41 +0100|Wed, 19 Apr 2017 15:07:49 +0100
+8b10c009f46b4d702c35b950d3d30d5c908b9f54|Community Services - Share/Manage|Tue, 18 Apr 2017 18:57:25 +0100|Wed, 19 Apr 2017 14:40:51 +0100
+03c3a1d2a0dd64ff7420259b2db71a51dbc9db7a|Standardise launch scripts for GUI apps|Wed, 19 Apr 2017 14:05:30 +0100|Wed, 19 Apr 2017 14:05:35 +0100
+f1c82c7a014061d29a0255522ca37d1b36484953|Add missing puppet config parameters|Wed, 19 Apr 2017 14:04:51 +0100|Wed, 19 Apr 2017 14:05:35 +0100
+19d34cdb3b65a75a858c681b0134042183ba4903|Bump dependency versions|Thu, 13 Apr 2017 20:58:50 +0100|Wed, 19 Apr 2017 14:05:35 +0100
+65b6c2c761176ebb50957de26f6a0d4e9792e7f6|Explorer jobs to use new API2.0|Wed, 12 Apr 2017 11:11:41 +0300|Wed, 19 Apr 2017 13:25:54 +0100
+67e92fcc0a902a77d493f5326634e3c310bae423|Add authentication to service registry|Tue, 18 Apr 2017 15:43:22 +0100|Tue, 18 Apr 2017 15:43:22 +0100
+88bb4c14087ce6d571fdd377fd14bc4ea5acc409|Add pgsql client to ftep::drupal, fix graylog context path|Tue, 18 Apr 2017 14:23:08 +0100|Tue, 18 Apr 2017 14:23:08 +0100
+5b72b44705e1edaa26fd06efb004da52519f0718|Move in-process RPC handling to lower level component|Thu, 13 Apr 2017 10:26:10 +0100|Thu, 13 Apr 2017 17:27:47 +0100
+ac74cc029f734f02f91088ba39db54af1a816e71|Add 'clouds' worker node management module|Mon, 10 Apr 2017 09:51:11 +0100|Thu, 13 Apr 2017 16:57:41 +0100
+cc0f67bd8069c2ee36b03db39b0374d6be484dc1|Use API 2.0 in explorer view calls, fix bugs.|Thu, 6 Apr 2017 15:54:07 +0300|Thu, 13 Apr 2017 13:27:53 +0100
+ca9da55b18948abd2bccfb4eab7e5ca3075a56bc|Expose missing ids in model API serialisations|Thu, 13 Apr 2017 09:26:50 +0100|Thu, 13 Apr 2017 12:42:39 +0100
+cc112a3990cd3740dcc4d92fb422ebee79cda0d4|Consolidate graylog/monitor hostname default|Wed, 12 Apr 2017 17:35:52 +0100|Thu, 13 Apr 2017 12:42:39 +0100
+1c4ff6bd0deb979dfe220725502ad368dfbcb7ae|Community - Projects|Wed, 12 Apr 2017 17:50:23 +0100|Thu, 13 Apr 2017 11:33:20 +0100
+e6aa023304d3587dffeebb09f0e95ecc7714bbd9|Community - Sharing|Wed, 12 Apr 2017 16:21:14 +0100|Thu, 13 Apr 2017 11:33:04 +0100
+13808e758568103c607883fa84cafcbb5874bcda|Fix API precondition logging, add transactions to ACL service methods|Wed, 12 Apr 2017 16:32:12 +0100|Wed, 12 Apr 2017 16:32:12 +0100
+d1a00d7d078a0c156661de5a21f0f6cc7d59b878|Shade docker-java dependency to avoid jersey version collision|Tue, 11 Apr 2017 16:15:02 +0100|Wed, 12 Apr 2017 16:31:11 +0100
+77517802ab17d4707df2aadd5de53498bf0be9f0|Remove search polygon bug fix.|Wed, 12 Apr 2017 16:30:40 +0300|Wed, 12 Apr 2017 16:30:40 +0300
+b1dd3ae9d4ac040c18d28e985364d54d55c35149|Add ForestChangeS2 service|Wed, 15 Mar 2017 11:25:55 +0000|Tue, 11 Apr 2017 15:56:43 +0100
+a9145fa78732058e163a3c60ffd1ae7824475bb9|Prevent refData filename conflicts, return correct HTTP responses|Mon, 10 Apr 2017 13:37:12 +0100|Tue, 11 Apr 2017 09:16:59 +0100
+0a457fdd0800d792afb0f0157dede629197d005f|Hydrate FtepFiles with Resto catalogue metadata|Mon, 10 Apr 2017 11:16:03 +0100|Tue, 11 Apr 2017 09:16:59 +0100
+ea2befca59aae4863b94ccfe781691f02909ecce|Remove intermediate docker containers during service build|Thu, 6 Apr 2017 21:35:57 +0100|Tue, 11 Apr 2017 09:16:58 +0100
+cdb1752e7131e6e4c274898c644cb00e81f9efe0|Adjust S-2 workflows to work with both new and old-style products|Thu, 6 Apr 2017 21:07:28 +0100|Tue, 11 Apr 2017 09:16:58 +0100
+b0a90c7b0b75cc41dd48a58d599fd498774d4511|resto acl implemented, download dir fixed|Mon, 10 Apr 2017 17:59:16 +0200|Mon, 10 Apr 2017 17:59:16 +0200
+7550d13c1e4ff456b9afec41faf0e1581f07215e|Add quicklook management to datasources drivers.|Thu, 6 Apr 2017 14:11:55 +0200|Mon, 10 Apr 2017 09:51:26 +0100
+81f00e01eaae041cb94ea2a4942ddbd16c32b647|Remove unused DEM parameter from LandCoverS2|Fri, 7 Apr 2017 10:47:03 +0100|Fri, 7 Apr 2017 17:43:55 +0100
+f91eba4c4b3d72c1df55e1d14ca20501da9ef554|Fix symlink in drupalmodules RPM|Thu, 6 Apr 2017 18:09:48 +0100|Fri, 7 Apr 2017 17:40:19 +0100
+e2c0a55974bc02370bb41bb30dc2930785982441|Launch SNAP with inputfiles loaded|Thu, 6 Apr 2017 21:48:50 +0100|Fri, 7 Apr 2017 17:40:14 +0100
+b69d501bebd69572eb6755864f2070da404d3e4f|Sidenav select/hover styling|Thu, 6 Apr 2017 17:53:05 +0100|Fri, 7 Apr 2017 12:54:56 +0100
+6f32a7756a7f244bfb4259d4db7f9111d88d2915|Enable gzip compression for f-tep-server HTTP|Thu, 6 Apr 2017 14:28:37 +0100|Fri, 7 Apr 2017 10:37:05 +0100
+d612e3122fb3e0b100990cd1fd805285f3cda096|Add service name to embedded Job representations|Thu, 6 Apr 2017 12:43:37 +0100|Fri, 7 Apr 2017 10:37:02 +0100
+4678cce3c486412bd75839d281fc3ef3633c95ac|Add accessLevel attribute to embedded resource representations|Wed, 5 Apr 2017 15:51:41 +0100|Fri, 7 Apr 2017 10:35:49 +0100
+febcae1efa664ce12bb9c04ed99b6b9dc9862ce5|Enable ftep:// URI handling for service inputs|Wed, 5 Apr 2017 12:27:06 +0100|Fri, 7 Apr 2017 10:35:49 +0100
+48ba8678de87941eb5b06fdb67e373ca9a7e9fde|Set FtepFileType on ingestion, add output file links to jobs|Wed, 5 Apr 2017 11:06:22 +0100|Fri, 7 Apr 2017 10:35:45 +0100
+471b5f1cc953d98161c07444ed34264b43035cd2|Allow FtepFiles to be retrieved by URI|Wed, 5 Apr 2017 10:31:25 +0100|Fri, 7 Apr 2017 10:35:15 +0100
+e75e98094f0cbab9f9f01579841a5af06c4ff2e1|Allow header-based usage of DEVELOPMENT... security mode|Wed, 5 Apr 2017 10:09:37 +0100|Fri, 7 Apr 2017 10:35:15 +0100
+f354eef2f050612acd798283ead6314315dedd76|Serialise Guava types (e.g. job inputs/outputs) in API v2 responses|Wed, 5 Apr 2017 10:09:17 +0100|Fri, 7 Apr 2017 10:35:15 +0100
+bd7179d7e25c2a97504adefa876555f5adb6a990|Community restructure in preparation for sharing|Thu, 6 Apr 2017 14:32:18 +0100|Thu, 6 Apr 2017 16:02:51 +0100
+12429ac768c4888ba460f8a5e3fdbb04100efecd|Fix element locators in acceptance tests, remove Chrome automation warning|Tue, 4 Apr 2017 18:26:50 +0100|Thu, 6 Apr 2017 15:51:23 +0100
+169e19d6b16c50791326c92254f42c2556b950c5|Allow non-WPS launching of services|Tue, 4 Apr 2017 17:04:30 +0100|Thu, 6 Apr 2017 15:51:23 +0100
+5c1c5a9b86e9c829489f5511aabc01036215a87f|Use Spring Cloud service discovery for gRPC channel building|Mon, 3 Apr 2017 16:38:35 +0100|Thu, 6 Apr 2017 15:51:23 +0100
+3cfa4acd470384f5c92634432bf6d112578a23e0|Endorsing coins to users.|Tue, 4 Apr 2017 16:41:51 +0100|Thu, 6 Apr 2017 16:58:52 +0300
+0869729d2a05aedecd0a6faf5b3940e55d31775d|Nabar styling fix|Thu, 6 Apr 2017 11:55:25 +0100|Thu, 6 Apr 2017 13:29:34 +0100
+4b99900da1077e9ff0217f22ea5a1eadd478e290|Dynamic service file list.|Thu, 6 Apr 2017 11:34:28 +0100|Thu, 6 Apr 2017 12:33:30 +0100
+a290a5ee86693cb0bb1badae93157b847cb6414a|Add support for search/download from IPT. Cleanup.|Mon, 20 Mar 2017 11:49:51 +0100|Thu, 6 Apr 2017 10:29:13 +0100
+cb1b7c0498b4ae5270417e11663fedfd5afe63db|Bug fixes done in 0.5 branch.|Wed, 5 Apr 2017 16:19:45 +0300|Thu, 6 Apr 2017 07:32:46 +0100
+15e4e2d75c23c70de0195ba9e2dc215bc6b87354|Jobs APIv2|Wed, 5 Apr 2017 16:15:03 +0100|Wed, 5 Apr 2017 16:15:03 +0100
+38a007ee1f1b948e7a28cf2ca2e07654143da216|TEPF-111 Selecting the AOI tool clears the current AOI|Mon, 3 Apr 2017 18:11:13 +0300|Tue, 4 Apr 2017 09:25:47 +0100
+bc3a0e6c21fa69689ff660c1c8f45a041503fa78|Add GUI capability to service backend v2|Fri, 31 Mar 2017 17:12:06 +0100|Mon, 3 Apr 2017 17:52:04 +0100
+e3ab9a28c0880412c6ede39b5a22941444185086|Add _link to Job API entities for retrieving container logs|Fri, 31 Mar 2017 09:38:56 +0100|Mon, 3 Apr 2017 17:52:04 +0100
+33e008d8c01361fc03a936e00994e9ccf1cbb165|Fix cascading delete for service->context files|Fri, 31 Mar 2017 09:44:49 +0100|Mon, 3 Apr 2017 15:30:50 +0300
+ef582f7dbf56b4d47d3798cfd51d526f67405300|add graylog-collector puppet class and rpm package|Tue, 14 Feb 2017 16:22:45 +0100|Fri, 31 Mar 2017 16:52:55 +0100
+7993722f2535b30332eb3398f397325b6af5e26b|Fix issue with add user in group view.|Fri, 31 Mar 2017 15:19:43 +0300|Fri, 31 Mar 2017 15:19:43 +0300
+12601d6456bcc30c5255c3180dbd76337521fc3a|Add contact info on My Account page|Fri, 31 Mar 2017 13:37:04 +0300|Fri, 31 Mar 2017 12:20:20 +0100
+979cbd30c63e927a75704e1fe4dcf8b6905f9c67|Bottombar expand button.|Thu, 30 Mar 2017 14:39:05 +0100|Fri, 31 Mar 2017 11:28:09 +0100
+0e71d313c61f7cb2b3be762363971b155d17b8b7|Fixes for small screens / mobiles|Wed, 29 Mar 2017 15:34:41 +0100|Fri, 31 Mar 2017 10:43:54 +0100
+69575b95c9f5526c2095e42e4344e821ba105c16|Files Manage Page|Fri, 31 Mar 2017 09:48:49 +0100|Fri, 31 Mar 2017 10:43:44 +0100
+70bd924a2e5e38fe5a4ae9ea5b398a79076a14dc|New admin page|Thu, 30 Mar 2017 17:52:14 +0300|Fri, 31 Mar 2017 09:32:23 +0100
+9818116840d12ccd1855638bcbd2ea81b93e26fb|Increase docker client connection pool to avoid blocking jobs|Thu, 30 Mar 2017 15:11:45 +0100|Thu, 30 Mar 2017 16:54:29 +0100
+901aeb2b14f9a7c6cd37b4d3449be0fcdde10a37|Avoid crashing on ingesting non-tiff outputs|Thu, 30 Mar 2017 15:09:12 +0100|Thu, 30 Mar 2017 16:54:29 +0100
+dacf79394dcdfe979889818a7b2cbac446b4c26f|Ensure proxy is correctly set for http clients and docker containers|Thu, 30 Mar 2017 14:27:07 +0100|Thu, 30 Mar 2017 16:54:29 +0100
+3eb8b06c57d4ac1f8d7763e83d16a36dcacfe683|Add 'public' attribute to ShortFtepService projection|Thu, 30 Mar 2017 10:39:18 +0100|Thu, 30 Mar 2017 16:54:29 +0100
+2bf4b9376804b9ebe0f1aa129b0bc2f0f8c288a8|Add S2->IPT URL downloader|Wed, 29 Mar 2017 17:23:03 +0100|Thu, 30 Mar 2017 16:54:29 +0100
+0bf20d483e2493050219afb0f38d5ce77e64e5f1|Flatten single-directory zips and resolve multi-url input parameters|Wed, 29 Mar 2017 16:21:30 +0100|Thu, 30 Mar 2017 16:54:23 +0100
+8a5b75f5c67ae2d284351f29d16ee73435e05862|Add IPT download handler|Wed, 29 Mar 2017 13:34:39 +0100|Thu, 30 Mar 2017 14:29:39 +0100
+49d2f6635d4b89ff2f01e6a32b5e4b763fec2db7|Return job output links to database and via WPS|Wed, 29 Mar 2017 10:52:46 +0100|Thu, 30 Mar 2017 14:29:39 +0100
+7245711be6d612a4b9f9efa9afa371426e8a02c8|Update proxy in acceptance test harness|Wed, 29 Mar 2017 09:49:57 +0100|Thu, 30 Mar 2017 14:29:35 +0100
+120ac9dfef2103b2d182f29b70a62b0fb193cb2e|TEPF-52 Quicklook visualization in the portal|Thu, 30 Mar 2017 14:46:39 +0300|Thu, 30 Mar 2017 15:46:08 +0300
+63460fc34bb4afb0cd025bda27b6f303991f67d2|Custom services for a developer|Tue, 21 Mar 2017 12:41:47 +0200|Thu, 30 Mar 2017 13:36:20 +0300
+2b0326b26ec4776c28a3b9a05994fb1f97319ecf|Re-use templates and controllers for edit/create items|Wed, 29 Mar 2017 16:10:12 +0300|Thu, 30 Mar 2017 10:31:33 +0100
+1b95110a3a2d9bdafcc2f53dc3e26480dcb851b2|User Account Page|Wed, 29 Mar 2017 18:01:47 +0300|Wed, 29 Mar 2017 18:01:47 +0300
+6d9018d23b6fb3c404ef44d74ee52e5e115540e0|Fix Jenkins post-merge build|Tue, 28 Mar 2017 17:17:49 +0100|Tue, 28 Mar 2017 17:18:23 +0100
+6b1dcc663e27965418d487c6351817f97b9e3602|Add API to retrieve job log messages|Tue, 28 Mar 2017 15:34:55 +0100|Tue, 28 Mar 2017 15:39:52 +0100
+4a91636662127082f775355c66ed7fa0c75d693b|Configure Resto for output product ingestion|Tue, 28 Mar 2017 12:41:57 +0100|Tue, 28 Mar 2017 12:42:27 +0100
+68857e190f0641b10171028b3297320abb7f18fa|Propagate proxy variables to docker environments|Mon, 27 Mar 2017 11:48:11 +0100|Tue, 28 Mar 2017 12:42:27 +0100
+455b56ec01e12ee86d614da01d3afeae40365625|Databaskets Manage Page|Tue, 28 Mar 2017 10:29:34 +0100|Tue, 28 Mar 2017 10:37:45 +0100
+5807c48a074da50cb69b26d081062727f3ab3c05|Move projects on APIv2.0. Filtering projects based on ownership.|Wed, 22 Mar 2017 12:10:39 +0200|Tue, 28 Mar 2017 07:56:25 +0100
+3f2214f8f39005b257f488f3c7b9f476b2d243f4|Fix issue where workspace is not loading selected service.|Sun, 26 Mar 2017 14:15:17 +0300|Tue, 28 Mar 2017 07:55:41 +0100
+53c11ca99ff7193313c32f24783d7036f731f45c|Transfer output files from a worker back to the server and ingest|Sat, 25 Mar 2017 16:42:43 +0000|Sat, 25 Mar 2017 16:45:44 +0000
+7ad083e8659df7638340ff2e83750b2f9e5aedb3|Expire download cache entries when manually deleted on disk|Fri, 24 Mar 2017 17:38:08 +0000|Fri, 24 Mar 2017 17:38:08 +0000
+f960c83742f216e6d9a13f049173f30e7243a99c|Update default services to work with new backend|Fri, 24 Mar 2017 13:59:13 +0000|Fri, 24 Mar 2017 15:05:53 +0000
+f7763cdef1a44747ebbdcb714f833fcff0cca37d|Add job-specific log context fields to worker|Fri, 24 Mar 2017 10:30:26 +0000|Fri, 24 Mar 2017 15:05:49 +0000
+ac4de6ca15e71a45b928f4552226d9b2dde4838b|Disable ftep::proxy retry timeout|Thu, 23 Mar 2017 22:10:57 +0000|Thu, 23 Mar 2017 22:10:57 +0000
+304eb3a4daee505d33679e0443611860cd9c0050|Restore/public default services in acceptance tests|Thu, 23 Mar 2017 22:10:08 +0000|Thu, 23 Mar 2017 22:10:08 +0000
+8d2048c07a743a8da5283a6f85d3932f9fef85e8|Update dependency versions|Thu, 23 Mar 2017 20:57:45 +0000|Thu, 23 Mar 2017 20:57:45 +0000
+a029ef3d66f23b501f357794ac2cec78311c8548|Remove deprecated service backend modules and dependencies|Thu, 23 Mar 2017 20:12:44 +0000|Thu, 23 Mar 2017 20:33:46 +0000
+ce9f1e3e43867809e517075744b57bd5906017c7|Fix LandCoverS2 service inputs|Thu, 23 Mar 2017 20:12:23 +0000|Thu, 23 Mar 2017 20:12:23 +0000
+869e07e220ed3162bd5fb510ba1e51b5e7d38a89|Fix updating of service context files|Thu, 23 Mar 2017 15:33:41 +0000|Thu, 23 Mar 2017 17:39:43 +0000
+2bb587f7c6103752ff8e946a433d7ae3ab065b4e|Update all Puppet dependencies, cgieoss-ftep README|Thu, 23 Mar 2017 14:23:14 +0000|Thu, 23 Mar 2017 17:39:39 +0000
+9c34dbddf7c8b9e1ae64ac11fac55d308a0f3484|Upgrade graylog, fix default service filenames, downloader protocols|Wed, 22 Mar 2017 21:06:18 +0000|Thu, 23 Mar 2017 10:52:17 +0000
+08ed33e8c8e47e82120f1d502e9c89f7d210d8ef|Wire up service stub class, significantly improve graylog logging|Wed, 22 Mar 2017 17:16:46 +0000|Thu, 23 Mar 2017 10:50:05 +0000
+3fc4229175e458ac4049e12c31963efe1ab6c3ec|Disable TLS for gRPC, fix service writing classpath|Tue, 21 Mar 2017 13:57:10 +0000|Thu, 23 Mar 2017 10:50:05 +0000
+e53420a7e58ac6a9d5b8c1958df2d464e7a150e0|Move ACL evaluator allow FtepSecurityService injection|Tue, 21 Mar 2017 11:02:26 +0000|Thu, 23 Mar 2017 10:50:05 +0000
+fcf256a77dc5f75ac810592a155b45ebb7c9a57a|Implement zcfg/jar-writing ZOO Manager service|Mon, 20 Mar 2017 17:22:57 +0000|Thu, 23 Mar 2017 10:50:05 +0000
+04675ce16cace5d2ad943f496b8b9f5794d7f4f5|Allow CONTENT_AUTHORITY to redeploy WPS services|Mon, 20 Mar 2017 13:59:17 +0000|Thu, 23 Mar 2017 10:50:05 +0000
+ffcc909b966692b4b344e652ee4dde1d2fbed1a7|Fix LandCoverS2 orthorectification, add larger tilecache|Wed, 22 Mar 2017 17:18:12 +0000|Thu, 23 Mar 2017 10:30:06 +0000
+6b0c1a788061d316f438ee564b8b3d519a667625|Fix add group member callback error handling|Tue, 21 Mar 2017 11:10:57 +0000|Tue, 21 Mar 2017 16:23:01 +0000
+a2c59b76c1e8db30263e7105450b6d1ad8a2fdb4|Fix ZOO stub jar temp directory cleanup|Mon, 20 Mar 2017 10:19:00 +0000|Mon, 20 Mar 2017 14:04:18 +0000
+1601dc46fe05b9b83346f78cb486ff4a4e90a34a|Add tooltips to the map polygon buttons|Fri, 17 Mar 2017 14:45:00 +0000|Mon, 20 Mar 2017 10:49:23 +0000
+38d4957f7965e835685281e2479b87c66b14b73f|Grunt css update|Fri, 17 Mar 2017 09:56:43 +0000|Mon, 20 Mar 2017 10:48:36 +0000
+8b231a75e696a1b68842f7c32c0728e3df844039|Add RefData search to FtepFiles API|Fri, 17 Mar 2017 16:35:47 +0000|Mon, 20 Mar 2017 09:46:08 +0000
+937f78936367a087e2d80d785cb3eb9431a3ae79|Add API for Service Context File creation|Fri, 17 Mar 2017 13:30:53 +0000|Mon, 20 Mar 2017 09:46:05 +0000
+9922cea9a02aae9767372179d4c8a493bfd8819b|Permit executable files in Service Contexts|Fri, 17 Mar 2017 10:43:18 +0000|Mon, 20 Mar 2017 09:18:55 +0000
+a9e86672edac01c0b2b97d0b6e75f7649816ed7f|Fix when search result is empty|Fri, 17 Mar 2017 16:10:04 +0200|Fri, 17 Mar 2017 17:20:56 +0200
+fbd4bd9e71a6e0a0bb55ca90b1106393c5b26e43|Update test harness with SValP, Selenium, screen recording|Thu, 16 Mar 2017 15:34:29 +0000|Fri, 17 Mar 2017 09:49:44 +0000
+d271d2594050d4c2eb3d632f77b5690deeb2b868|Allow CONTENT_AUTHORITY to restore default services|Wed, 15 Mar 2017 17:42:56 +0000|Fri, 17 Mar 2017 09:49:44 +0000
+ab15e28df4fc3acd0cc50bcde58e7f38a318f412|Add Java wrapper for default F-TEP services|Wed, 15 Mar 2017 16:36:05 +0000|Fri, 17 Mar 2017 09:49:44 +0000
+0f783b37f71f316786259b90bcb73fd8e774181e|Refactor ZOO helper module, integrate with ZOO|Tue, 14 Mar 2017 17:25:33 +0000|Fri, 17 Mar 2017 09:49:44 +0000
+7ab7fc7921baf011151f926b4a6533a18b8ef850|Add selinux ftep::wps configuration, add ZOO DB config|Tue, 14 Mar 2017 12:20:37 +0000|Fri, 17 Mar 2017 09:49:44 +0000
+863b5605cc0f7d0a4c3ffc7cf08ccb45c5410718|Update to Gradle 3.4.1|Thu, 16 Mar 2017 19:54:55 +0000|Fri, 17 Mar 2017 09:32:24 +0000
+23bef8c936c3cd466268337ae0d02a4ef4d5cbea|Temporarily disable time-consuming & unreliable docker tests|Thu, 16 Mar 2017 20:15:24 +0000|Fri, 17 Mar 2017 09:28:33 +0000
+7e110d7f3866a2ed57cae2d47742c9af8469b6fa|Remove old css files.|Thu, 16 Mar 2017 15:31:17 +0200|Fri, 17 Mar 2017 08:12:52 +0000
+7175b17e0f34b0cd4fd2c9fd4817a877f8bcfa40|Make md-dialogs minification safe|Wed, 15 Mar 2017 17:15:43 +0000|Thu, 16 Mar 2017 11:03:09 +0000
+2c260633b22aa971b2d9da0c3090ef90d7de822b|Minor UI fixes|Wed, 15 Mar 2017 15:59:42 +0000|Thu, 16 Mar 2017 11:02:56 +0000
+a124aec41c825e33fa5dadcd43b7da257d59ef48|Rebuild Docker images on the worker node, based on service context files|Mon, 13 Mar 2017 16:11:34 +0000|Mon, 13 Mar 2017 16:11:34 +0000
+f387646b4d6f4024939c654cb267b60e36aac679|Encapsulate docker container instance knowledge inside f-tep-worker|Mon, 13 Mar 2017 13:13:57 +0000|Mon, 13 Mar 2017 13:13:57 +0000
+9f537defaef904a7ed579800a2d617bd51dce9bd|Add ftep:// handler for workers to retrieve service context files|Mon, 13 Mar 2017 12:32:41 +0000|Mon, 13 Mar 2017 12:33:52 +0000
+c45feda78c466c0a0ffd57f851868ade01e1d772|Create model & persistence for service context files|Mon, 13 Mar 2017 11:01:42 +0000|Mon, 13 Mar 2017 12:33:51 +0000
+88a293a81caf1b35aac878db278160c2eb4c93f6|Enable graylog shipping for Java services|Fri, 10 Mar 2017 22:13:10 +0000|Mon, 13 Mar 2017 12:33:51 +0000
+3380846daf053086c496f710eb962e3cc4721403|Fix graylog/elasticsearch configuration|Fri, 10 Mar 2017 15:47:31 +0000|Mon, 13 Mar 2017 12:33:48 +0000
+0ce610bcb1b6f0788159ad347fb5046cdf31d0d6|Migrate slf4j -> log4j2|Fri, 10 Mar 2017 13:43:24 +0000|Mon, 13 Mar 2017 09:21:43 +0000
+bc3bbc5e44d676071b0839ecd58fcadd96720037|Prepare for Worker refactoring|Fri, 10 Mar 2017 10:56:38 +0000|Mon, 13 Mar 2017 09:21:43 +0000
+9c81a7a4fd0eb32f070ed92393cf492c19d0236f|Use BigTIFF format globally, fix S1_Biomass Beta0_VH band|Thu, 9 Mar 2017 15:46:59 +0000|Mon, 13 Mar 2017 09:21:43 +0000
+2628498ea23543e9753f48c360949e05cb28b39a|Bump Spring dependency versions|Thu, 9 Mar 2017 13:54:07 +0000|Mon, 13 Mar 2017 09:21:43 +0000
+c1c12dcc0ab9ae91fa8e0726aceb770333bf06f1|Fix projects spilling over horizontally|Fri, 10 Mar 2017 14:18:09 +0000|Fri, 10 Mar 2017 15:11:16 +0000
+4aa3f25daf087bb12bfe03fa9fe4ca917c0bfe40|Fix databasket list caching issue.|Fri, 10 Mar 2017 15:25:26 +0200|Fri, 10 Mar 2017 14:44:07 +0000
+93e439dc537db92fe198c7a4e1fc1e0ee14be1dc|Navbar Fix|Thu, 9 Mar 2017 17:31:27 +0000|Fri, 10 Mar 2017 14:26:50 +0000
+5b9b960a908823cd9d1a596d172c52f52bdbca61|Search results minor fixes|Fri, 10 Mar 2017 11:06:48 +0200|Fri, 10 Mar 2017 14:19:10 +0000
+4be04f6c9f0b517951d8de38c208c88ebf250557|Developer Update|Thu, 9 Mar 2017 17:11:25 +0000|Fri, 10 Mar 2017 12:24:06 +0000
+5b1a860d8a050f5495f612649ff2e7011907cea5|Helpdesk Update|Thu, 9 Mar 2017 13:16:50 +0000|Thu, 9 Mar 2017 13:35:34 +0000
+bd4a0a2dd223fd8cd2a0da47512ad46fa581d540|Dev version 0.6.0-SNAPSHOT|Thu, 9 Mar 2017 09:26:12 +0000|Thu, 9 Mar 2017 11:10:56 +0000
+9a64c725b206657bb2c25e688db918face45ab0c|US#157 Access control|Tue, 7 Feb 2017 15:31:59 +0200|Thu, 9 Mar 2017 10:54:06 +0000
+10b0109ca1ff321556f7f68f65f45a44671ad445|Allow ftep::proxy to reach alternative hostnames|Wed, 8 Mar 2017 16:06:07 +0000|Thu, 9 Mar 2017 09:24:42 +0000
+4a6c58d1c3d2820f1cbb40d7c4521ad3a4b0e8c6|Only track F-TEP Groups in FtepAccessControlLists|Wed, 8 Mar 2017 12:23:28 +0000|Thu, 9 Mar 2017 09:24:42 +0000
+7ef509ff43c89f30221544597c14536996b00ffc|Add ACL API for missing data types|Wed, 8 Mar 2017 11:28:40 +0000|Thu, 9 Mar 2017 09:24:42 +0000
+e75691d95738026f3f1371359c485be6215728b4|Reference data upload|Mon, 27 Feb 2017 09:23:03 +0200|Wed, 8 Mar 2017 16:49:32 +0000
+9f693272c056ab81201aabc10588e2da0d441db7|Implement catalogue deletion across filesystem, geoserver, resto|Wed, 8 Mar 2017 11:05:50 +0000|Wed, 8 Mar 2017 16:07:48 +0000
+8870563202225ede5a605036b29b2b5cd4614325|Import Resto code, create RPM and puppet module|Tue, 7 Mar 2017 11:49:59 +0000|Wed, 8 Mar 2017 16:07:48 +0000
+0f644892857255ef22c4b6e2004c2cd8851486f8|Community Portal|Wed, 8 Mar 2017 15:41:04 +0000|Wed, 8 Mar 2017 15:55:56 +0000
+f772ae31b07d6bdd16a0ce326581c5371129fb41|Add drupal module models for Resto catalogue objects|Wed, 8 Mar 2017 11:09:05 +0100|Wed, 8 Mar 2017 13:10:57 +0000
+be451cd0b6c9a11ed1308483513c58b9b891ff59|Install Monteverdi container dependencies|Tue, 7 Mar 2017 17:33:38 +0000|Wed, 8 Mar 2017 09:19:17 +0000
+677421cb85e56ef4ce92dfa102348cafef35aaaa|Create Projects data services & API, clean up API permissions|Mon, 6 Mar 2017 15:40:05 +0000|Tue, 7 Mar 2017 15:49:24 +0000
+f9a00b8ee62660be8dba5ecaee6d727a2b107675|Create Project model|Mon, 6 Mar 2017 12:42:26 +0000|Tue, 7 Mar 2017 09:45:31 +0000
+bf656d72f29a6ad130be4c1e1647be3d8488a787|Configure Spring-Security-ACL appropriately for PostgreSQL|Mon, 6 Mar 2017 11:43:11 +0000|Mon, 6 Mar 2017 11:43:11 +0000
+49353d505aade736188bdfbedeee9291c40208c1|Handle EXTERNAL_PRODUCT FtepFiles in API and Catalogue|Sun, 5 Mar 2017 11:35:03 +0000|Sun, 5 Mar 2017 11:35:03 +0000
+4cd2a8278d7ced26304f634e5b9a01bb30d05dc1|Add 'PUBLIC' security concept, and default/fallback User|Fri, 3 Mar 2017 21:15:10 +0000|Fri, 3 Mar 2017 21:15:10 +0000
+46b5740a95c2cf5975b6baa5e9495cf27cc0ff7f|Add FtepFile API and integrate catalogue helper methods|Fri, 3 Mar 2017 12:54:34 +0000|Fri, 3 Mar 2017 17:36:19 +0000
+8dd70b21734d32e57f9699251c4a8e4588968837|Generate owner ACEs automatically on PostInsert, add Databaskets API|Fri, 3 Mar 2017 12:54:34 +0000|Fri, 3 Mar 2017 14:01:06 +0000
+f456d6e45392a662ccfdc321a0e11e69f11052d5|Implement output product ingestion and complete reference data ingestion|Thu, 2 Mar 2017 12:13:15 +0000|Thu, 2 Mar 2017 17:04:00 +0000
+7a956ea97e8af5817d5216ec762ae11492d62763|Add v0.4.2 release notes|Thu, 2 Mar 2017 13:15:42 +0000|Thu, 2 Mar 2017 13:34:17 +0000
+405a7210a7a2fc19ae676ad660639896ac9e3d10|Add release notes for 0.2.1|Thu, 12 Jan 2017 12:38:08 +0000|Thu, 2 Mar 2017 12:38:46 +0000
+4b115a2b132467871f4f805a8b4b88d6d899a15f|Create additional /api/currentUser methods|Wed, 1 Mar 2017 15:13:52 +0000|Wed, 1 Mar 2017 15:13:52 +0000
+d7bac45d41ebc9a7c7669b2399c4b552fb1c59c1|Create 'currentUser' API endpoint|Wed, 1 Mar 2017 13:12:56 +0000|Wed, 1 Mar 2017 13:12:56 +0000
+956ca1d88a209587f9470111bc6d5e1455fe0ff8|Properly enable CORS for NONE and DEVELOPMENT_BECOME_ANY_USER security modes|Wed, 1 Mar 2017 12:27:39 +0000|Wed, 1 Mar 2017 12:32:43 +0000
+2b94384825968797c598bf215e785086bf15eaa2|Enable JS minifying|Tue, 28 Feb 2017 21:16:24 +0000|Wed, 1 Mar 2017 09:50:54 +0000
+64f6c02da3d2b5790308225ef206360aff58d59a|Set index.html version tag from current project version|Tue, 28 Feb 2017 20:29:40 +0000|Wed, 1 Mar 2017 09:50:54 +0000
+3b4644b507acabc96aa84039ee8d1fc0fba1fcdf|Add traverson{,-angular,-hal} javascript dependencies|Tue, 28 Feb 2017 16:22:11 +0000|Wed, 1 Mar 2017 09:49:12 +0000
+d69215e63be41d8465e70209e4e5a8c9a4d44838|Create API controller for uploading/downloading reference data|Tue, 28 Feb 2017 16:15:56 +0000|Wed, 1 Mar 2017 09:49:12 +0000
+13b1fe2f4213be4f04fcb727cc993f98dd8015df|Create f-tep-catalogue component|Fri, 24 Feb 2017 14:47:10 +0000|Wed, 1 Mar 2017 09:49:12 +0000
+c9efbf00358bd8aca93cfe731e566e11d78ccd2b|Enable CORS for API v2|Fri, 24 Feb 2017 14:46:14 +0000|Wed, 1 Mar 2017 09:48:34 +0000
+0a38c736c7378731f020f10b198a9f9fe72c9bce|Add automatic ownership for current API entities|Fri, 24 Feb 2017 13:17:02 +0000|Wed, 1 Mar 2017 09:48:34 +0000
+270b80498e558c2fde789a6a8ecd04a044b73d70|Add Group description and size to excerpt projection|Fri, 24 Feb 2017 12:38:06 +0000|Wed, 1 Mar 2017 09:48:34 +0000
+4b58f0516b81d50e3e68b7e44294348682e37a30|Move API controllers to separate package|Thu, 23 Feb 2017 16:18:52 +0000|Wed, 1 Mar 2017 09:48:34 +0000
+cbca23a23d37b81791e23252ccb986fdc370d0a1|Create new DEVELOPMENT_BECOME_ANY_ACCOUNT API security mode|Thu, 23 Feb 2017 14:09:45 +0000|Wed, 1 Mar 2017 09:48:34 +0000
+51d713f53889a035069a706c6d1c3773a1ce2234|Fix sidebar/bottombar alignment.|Thu, 23 Feb 2017 13:09:33 +0000|Mon, 27 Feb 2017 09:09:35 +0000
+fc20f875b8961eb673eeb442179d7ce8eb541448|Update dependencies|Thu, 23 Feb 2017 12:17:34 +0000|Thu, 23 Feb 2017 12:48:22 +0000
+b5ea46319ce60eb2c0546460b53566348b66e75e|Fix S2 tile processing workflow steps|Thu, 23 Feb 2017 11:48:13 +0000|Thu, 23 Feb 2017 12:48:10 +0000
+70063f2188c6998acfc05b743ce87f7be9386098|Fix unzipping of directory trees|Wed, 22 Feb 2017 09:43:46 +0000|Thu, 23 Feb 2017 12:08:22 +0000
+139e158a6c619046d91a09b7d0f5bc8d205609c6|Removed HTML5 routing|Thu, 23 Feb 2017 09:49:51 +0000|Thu, 23 Feb 2017 11:47:36 +0000
+b9b96262ff3e6819d708ad10dd9bb4f1127f5785|Correctly set API v2 basePath|Wed, 22 Feb 2017 17:03:24 +0000|Thu, 23 Feb 2017 09:31:39 +0000
+a48f0720f75fdbd1824f3e33d88768d14e4ddbd2|Fix unique constraints on group tables|Wed, 22 Feb 2017 16:59:34 +0000|Thu, 23 Feb 2017 09:31:39 +0000
+1af508900a5e82f854827891e19f4763a5c5ab78|Add Databaskets to model and persistence layer|Wed, 22 Feb 2017 16:42:43 +0000|Thu, 23 Feb 2017 09:31:38 +0000
+78fbdfb22da451fbf22d4a12cd32bdf4387fa7d8|Create FtepFile type for use in databaskets and services|Wed, 22 Feb 2017 15:25:42 +0000|Thu, 23 Feb 2017 09:31:38 +0000
+5a62005000a3e57cbbee9397281961fc41bbc925|Create API for modifying access control lists|Fri, 17 Feb 2017 17:11:44 +0000|Thu, 23 Feb 2017 09:31:34 +0000
+921579135b0ee3b5f72e4e12d800aea37e1a8cdb|Dockerfile tweaks for predefined services|Wed, 22 Feb 2017 13:45:17 +0000|Thu, 23 Feb 2017 09:30:18 +0000
+2203267a3e1baf1bdd64989102b301a6f4dbcc29|Messages updates|Wed, 22 Feb 2017 12:58:26 +0200|Wed, 22 Feb 2017 12:58:49 +0200
+d5b6161c025a10f9765b087359bfe3d4898ba601|Update elasticsearch puppet module, remove duplicate java, configure graylog port|Fri, 17 Feb 2017 17:08:35 +0000|Fri, 17 Feb 2017 17:08:35 +0000
+67bfcc03fcd8054f9c7abc5fb406bff1a1dfb7c3|Add Group ACL functionality and API test|Thu, 16 Feb 2017 16:27:49 +0000|Fri, 17 Feb 2017 10:15:46 +0000
+5b4dd6c952d3469047506ece1aa5c5eb5a54d3e1|Add FtepService access controls and API security|Thu, 16 Feb 2017 12:24:58 +0000|Thu, 16 Feb 2017 13:28:07 +0000
+bbd6e22a889342f259294fc3fe26692c2ca14a23|Add flyway config for hsqldb, use globally|Wed, 15 Feb 2017 13:35:33 +0000|Thu, 16 Feb 2017 12:16:47 +0000
+6acc18c5451cf061d93cdffcf0f751141c639f72|Enable method-level API security, add ACL db schema|Tue, 14 Feb 2017 17:21:52 +0000|Thu, 16 Feb 2017 12:16:17 +0000
+672e80ed2ff30b569b6a2d94e62daa190fa30cd8|add the graylog installation and related modules|Tue, 14 Feb 2017 16:22:45 +0100|Tue, 14 Feb 2017 16:48:08 +0000
+1e0b51713969ecc73d0c3f96fb28e631dc4010bf|Update dependencies|Tue, 14 Feb 2017 13:17:17 +0000|Tue, 14 Feb 2017 13:17:17 +0000
+adb2433a114217a2d51a3c62b418cb1a92d7e11a|Provide (basic) optional API v2.0 security|Mon, 13 Feb 2017 14:57:32 +0000|Tue, 14 Feb 2017 12:24:59 +0000
+3f9da5da1c8906e06cc4a587adaa1073c4fbf9b1|Dev version 0.5.0-SNAPSHOT|Mon, 13 Feb 2017 09:45:10 +0000|Mon, 13 Feb 2017 09:45:10 +0000
+0db82a5e8bdb073712b7ecf8b5e7b77230f8c04e|Create initial v2.0 API database schema|Thu, 9 Feb 2017 13:37:54 +0000|Mon, 13 Feb 2017 09:18:46 +0000
+43b1bfc5f606a8ab062925402b5f5cf9abeb0b10|FTEP-49 Input data files are not clearly listed|Fri, 10 Feb 2017 10:55:49 +0200|Fri, 10 Feb 2017 13:30:10 +0200
+23dd4f967fa8976c848c6654a61cdf84da080acd|Clean up Docker containers after service execution|Wed, 8 Feb 2017 16:53:03 +0000|Thu, 9 Feb 2017 16:35:22 +0000
+aac826c68fdea79060fa8d6289f1f1c5ecdff8f3|Update S1 Biomass processor|Mon, 6 Feb 2017 11:21:52 +0000|Thu, 9 Feb 2017 09:49:24 +0000
+63ac3d1b4d5ea524c0fde8bdfc4a8142030b898c|Bug fix for message deletion.|Wed, 8 Feb 2017 15:02:03 +0200|Thu, 9 Feb 2017 07:45:41 +0000
+b672160f4886e6c05fb054dea47f1d0feb11632d|Fix grafana port and context root, and mark port with selinux context|Wed, 8 Feb 2017 15:18:01 +0000|Wed, 8 Feb 2017 15:18:01 +0000
+0147f4eb40ee0762121ed3909155d89a2ae85d81|Configure server/worker gRPC with puppet|Wed, 8 Feb 2017 11:46:13 +0000|Wed, 8 Feb 2017 15:00:48 +0000
+bc210bc85e37abd27ee6154c93662a47cf52a926|Add monitor module and grafana, influxdb, telegraf submodules|Tue, 7 Feb 2017 15:11:04 +0100|Wed, 8 Feb 2017 14:48:49 +0000
+e0ded7e97a634151aae249b435e298c77c9b1dbb|Code clean-up.|Wed, 8 Feb 2017 14:55:35 +0200|Wed, 8 Feb 2017 13:26:18 +0000
+97d1430ee48aa85bab041d029cda10681c6c463b|Migrate Worker code to f-tep-worker|Mon, 6 Feb 2017 13:37:06 +0000|Wed, 8 Feb 2017 10:21:54 +0000
+64f173c9b835629fe63d2f2a26237591dbfa1a1d|TEPF-88 title Product -> Existing Products|Wed, 8 Feb 2017 10:40:09 +0200|Wed, 8 Feb 2017 10:40:09 +0200
+f7d606e2b70e72634a31bc1276ffaef5f40599e3|Add entry weight/cleanup to download cache|Mon, 6 Feb 2017 12:57:43 +0000|Mon, 6 Feb 2017 13:37:15 +0000
+079ec0b54257a9884c2b16d5261bdba443c4f280|Create FtepWorker rpc interface|Mon, 6 Feb 2017 11:43:41 +0000|Mon, 6 Feb 2017 13:36:18 +0000
+d99904fe49fc29575c2af4afe19173b74adb9150|Fixes to databasket calls.|Fri, 3 Feb 2017 17:05:30 +0200|Mon, 6 Feb 2017 12:06:56 +0000
+d8ac872c5eb40d6d7d814054103213bab4aa3a67|TEPF-28 Helpdesk should provide user support|Thu, 2 Feb 2017 18:19:39 +0200|Mon, 6 Feb 2017 12:06:25 +0000
+d2e5e2db9220dae7494c91c833db05bb5522b22e|change in the ftep_queue.module, ftep-wps and ftep-proxy to make the dev environment work. Such changes still need to be generalized for a fresh new env from scratch|Wed, 1 Feb 2017 15:11:19 +0100|Mon, 6 Feb 2017 11:25:01 +0100
+a563336a9a434168be4992d6c25800f83be58f5a|Change backend php functions removing is_null to ==NULL|Mon, 23 Jan 2017 16:09:17 +0100|Mon, 6 Feb 2017 10:15:31 +0000
+f55372f8f5c7906848325130566a80b884eca101|Create f-tep-worker service and puppet config|Fri, 3 Feb 2017 12:34:23 +0000|Fri, 3 Feb 2017 17:34:33 +0000
+b0d9e9a4c0c93aef9146accfefed6311619b9aed|Fix input URI detection|Thu, 2 Feb 2017 22:05:08 +0000|Fri, 3 Feb 2017 09:23:10 +0000
+9769e85f4f87f27609d3cf4f2e1a158a221f4937|Refactor FtepService for API v2.0|Thu, 2 Feb 2017 17:23:24 +0000|Thu, 2 Feb 2017 22:02:55 +0000
+7701354b8fd7d2c550f59c99fc34719b3a60c2f7|Update gRPC|Thu, 2 Feb 2017 18:37:19 +0000|Thu, 2 Feb 2017 18:37:26 +0000
+c3535f127bf3aff05ab80303f019d8b002184638|Fix ftep::drupal rewrite rules|Thu, 2 Feb 2017 18:28:17 +0000|Thu, 2 Feb 2017 18:28:24 +0000
+decc7d2e32a75f7b8fad3605e69a38e2292c59ce|Create S1 biomass processor|Tue, 31 Jan 2017 11:51:02 +0000|Thu, 2 Feb 2017 14:00:54 +0000
+2df95c1feaae48b3b20103b67f9053ec955ca3f9|Create ftep::worker configuration stub|Thu, 2 Feb 2017 10:46:43 +0000|Thu, 2 Feb 2017 10:46:43 +0000
+bab4be5b61fdf40ab0d213bb53e5e68b201ca21b|Refactor data model for API v2.0|Wed, 1 Feb 2017 12:14:05 +0000|Wed, 1 Feb 2017 17:23:47 +0000
+bf5d6a5289032597882c89532b5b8786c295039a|Use Spring Boot for DataSource configuration|Tue, 31 Jan 2017 16:58:02 +0000|Wed, 1 Feb 2017 10:41:56 +0000
+dbba5d1dba3964d738b6d8794bb893870cfffd8d|Parse multiple UTM zones from an S-2 product|Tue, 31 Jan 2017 14:44:02 +0000|Tue, 31 Jan 2017 14:45:54 +0000
+0129e873b9b1d08793b40c0f57026c69ae80a1d7|TEPF-74 Remove separation between A and B satellites of Sentinel-1/2|Tue, 31 Jan 2017 11:44:04 +0200|Tue, 31 Jan 2017 11:51:09 +0000
+cfe83949fc47171045e6c0cf2996f6e7a71ef7c4|Update dependencies|Tue, 31 Jan 2017 11:29:17 +0000|Tue, 31 Jan 2017 11:47:19 +0000
+4e63dffdb291e7fa24b2a1db3736d0de10df7f25|Remove unnecessary band conversion from LandCoverS1|Tue, 31 Jan 2017 11:29:02 +0000|Tue, 31 Jan 2017 11:47:19 +0000
+4a9ca1476f863490598d57cc8d1fd108ceb5556a|Enable reference data search in UI|Tue, 31 Jan 2017 11:19:04 +0200|Tue, 31 Jan 2017 11:22:05 +0000
+5dfc9955a6ac9ac251e5abc9e5c05211c1e0e27a|Preserve map data|Mon, 30 Jan 2017 12:19:52 +0200|Tue, 31 Jan 2017 11:20:40 +0000
+c5deb4487bf9eb94df4aab164ab3587f6a00942a|Commit built zoo-kernel RPM, use gradle for distribution|Sat, 28 Jan 2017 19:30:06 +0000|Tue, 31 Jan 2017 10:14:17 +0000
+5ffec33d6b60a2e728c0153e99c911db473d18ec|Prevent rebuilding spring-boot executable unnecessarily|Mon, 30 Jan 2017 13:56:42 +0000|Mon, 30 Jan 2017 16:46:13 +0000
+dcc5f6a9a8e18af4b691af263fd115c047a188be|Fix stream closing and add containers for dev environment|Mon, 30 Jan 2017 15:45:30 +0000|Mon, 30 Jan 2017 16:46:11 +0000
+53794874dc43a32c70cdfef96acb77647525f2e0|Add missing non-SSO API route|Mon, 30 Jan 2017 12:14:55 +0000|Mon, 30 Jan 2017 16:20:06 +0000
+f8d9b90c4e9d272bff40b7f66ede31a1dc0352bb|Change ScriptAlias of ftep::wps, allow httpd to access nfs resources|Fri, 27 Jan 2017 13:25:41 +0000|Fri, 27 Jan 2017 20:19:28 +0000
+debfd4232a64270b7261e140caabb232bff6ee60|Add security stub for Java API|Fri, 27 Jan 2017 11:33:53 +0000|Fri, 27 Jan 2017 11:33:57 +0000
+51c464b5912282c46d68e7069cabc6c18c42529d|Switch to dependency management via plugin|Thu, 26 Jan 2017 15:47:02 +0000|Thu, 26 Jan 2017 16:47:06 +0000
+23e301f3744bbc97f140a1fe6cd94a88f9f97a0a|Remove dependency on google-http-client|Thu, 26 Jan 2017 13:00:16 +0000|Thu, 26 Jan 2017 16:47:02 +0000
+a47d95b7c98937fd248251d7f1e8da6acaad3d72|Expose gRPC services from f-tep-orchestrator|Thu, 26 Jan 2017 12:02:20 +0000|Thu, 26 Jan 2017 16:46:57 +0000
+07cda67074f076f815841e603b80f0d3367a2f31|Create LandCoverS1 processor|Thu, 26 Jan 2017 11:00:22 +0000|Thu, 26 Jan 2017 16:15:58 +0000
+48f97a4017bc69a694719b2fcd32e0ba032a9628|Code cleanup and refactoring. TEPF-87.|Wed, 25 Jan 2017 19:43:20 +0200|Thu, 26 Jan 2017 14:19:40 +0000
+810b17dbb1ee6816d135757cfd6e0272bd141111|Add f-tep-server application helpers|Wed, 25 Jan 2017 12:53:47 +0000|Thu, 26 Jan 2017 10:59:55 +0000
+86a74d675ff7e342b79b025877436c09bde07d52|Minor clean up of names and configuration|Wed, 25 Jan 2017 12:12:52 +0000|Thu, 26 Jan 2017 10:59:55 +0000
+d013922b25350336685c8e53422aa44ccee289c5|Properly exclude generated model code from SQ|Wed, 25 Jan 2017 11:56:35 +0000|Thu, 26 Jan 2017 10:59:55 +0000
+5fb578f55d7898c16ae51414aeb10049a38a1d6e|Added missing Select Databasket button to Jobs.|Wed, 25 Jan 2017 12:18:39 +0000|Wed, 25 Jan 2017 17:09:56 +0000
+da1f26af9995d66112fc83ee51d04d42bffc52cc|Import drupal Endpoint module and patch for JSON API|Tue, 24 Jan 2017 17:12:13 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+f1b057878bf64c0f719a3a79b7527c376315743f|Disable directory index for ftep::wps|Tue, 24 Jan 2017 17:06:05 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+86e03b35a0abb62139ab1fac124a8b682c518c73|Add acceptance test stdout/stderr log output|Tue, 24 Jan 2017 17:02:18 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+0cd0bcabac5833e643381d2a2991249b189aa03f|Resolve SQ issues|Tue, 24 Jan 2017 16:50:10 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+03ddf8250f481e736ea7da401d27af9c167033af|Add unzip requirement to ftep::geoserver|Tue, 24 Jan 2017 16:41:39 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+614450580c852891db6c57973a64cf339c338a67|Add ftep::server Puppet class|Tue, 24 Jan 2017 11:55:59 +0000|Wed, 25 Jan 2017 11:35:21 +0000
+bf48133c57247bd1ebd07d934edce8550302dc97|Style/layout fixes for bottombar & notification.|Tue, 24 Jan 2017 18:01:37 +0000|Wed, 25 Jan 2017 09:23:12 +0000
+90542d1edfbcf320ee9a1142818bd0e29cda5188|Revert the last changes.|Tue, 24 Jan 2017 17:33:47 +0200|Tue, 24 Jan 2017 17:33:47 +0200
+fc1e6723348c1351a8f162fd073fea6fed288de4|Updated request response.|Tue, 24 Jan 2017 13:49:50 +0200|Tue, 24 Jan 2017 13:49:50 +0200
+b056c123339e11e6475b3ec34b60f5f5e69e45b9|Consolidate RPC service launchers, Springify Orchestrator module|Wed, 18 Jan 2017 15:43:55 +0000|Mon, 23 Jan 2017 14:51:08 +0000
+0b90a7b61037c9f7fc5966301f7f3520f3f4ed6a|Workspace design touchup.|Mon, 23 Jan 2017 13:10:12 +0000|Mon, 23 Jan 2017 13:44:13 +0000
+90984d4046260efd7eef508a3371e2bb07b2778d|Update dependency versions, enable acceptance tests|Mon, 23 Jan 2017 12:35:02 +0000|Mon, 23 Jan 2017 12:51:35 +0000
+12f4e3c3dc5bfdc19283125ef55b3e4e6eb6c66d|TEPF-79 - Service info pop-up jumps partially off-window|Thu, 19 Jan 2017 16:26:11 +0000|Fri, 20 Jan 2017 15:34:23 +0000
+e11ce3666f82ec3a581d9ed9476bcbe5ce681d86|Bottombar & messaging fixes.|Thu, 19 Jan 2017 17:46:20 +0000|Fri, 20 Jan 2017 15:27:31 +0000
+be3ef81f2d7d57c8a138ade75ea2bcf0523ec7c7|TEPF-105 - Indicate platform version on the platform|Thu, 19 Jan 2017 15:16:44 +0000|Fri, 20 Jan 2017 14:53:00 +0000
+7a9a7b9a9f4cc8cf5d396914ab8f30f3710883ca|TEPF-30 - Map layer selection should indicate the selected base map|Thu, 19 Jan 2017 12:26:38 +0000|Fri, 20 Jan 2017 14:48:34 +0000
+4ecee2940d4c3c003aa40216747a9f68097fc056|Create F-TEP Server application|Thu, 19 Jan 2017 16:45:09 +0000|Fri, 20 Jan 2017 12:59:35 +0000
+22129b4c994f852b285021f4972cae3a696cf040|Update Guava & Mockito dependencies, define plugins in parent project|Thu, 19 Jan 2017 15:34:55 +0000|Thu, 19 Jan 2017 18:06:19 +0000
+0a1d6be0c90683761a1e08261f7e6fe9f98bcb15|Clean up issues and add documentation for f-tep-zoowrapper|Thu, 19 Jan 2017 14:24:09 +0000|Thu, 19 Jan 2017 18:06:19 +0000
+16916b33345ef58fff2d9fd63d23d6826300ee23|Create Java-backed JSON API|Thu, 19 Jan 2017 11:42:14 +0000|Thu, 19 Jan 2017 18:06:19 +0000
+1bca4336d2e5e84bad31b59b017ffd0a015d0d1b|As a user I want to be able to re-run jobs.|Thu, 19 Jan 2017 15:55:31 +0200|Thu, 19 Jan 2017 16:42:52 +0000
+66f32dbbcbc9f817a85180598914ff46708b6f96|Select job output fix.|Thu, 19 Jan 2017 12:19:54 +0000|Thu, 19 Jan 2017 15:21:14 +0000
+55b92706502a99cc14775c0e7167de652901b017|TEPF-81 Clicking on a footprint polygon should highlight item(s) in the result list|Thu, 19 Jan 2017 14:06:50 +0200|Thu, 19 Jan 2017 13:08:15 +0000
+8c7e209b060015275c2b2686589f74ca1a473239|Add Status to FtepJob entity, use QueryDSL for unique entity checks|Tue, 17 Jan 2017 16:25:04 +0000|Thu, 19 Jan 2017 11:52:48 +0000
+5b769c4e8cf6ca3817723c04f5edca7c58827e57|Sidebar horizontal scrolling fix.|Tue, 17 Jan 2017 11:56:04 +0000|Thu, 19 Jan 2017 11:43:14 +0000
+11d3191e7945afd9725e06244f82b609bd88d11c|TEPF-44 - "Could not get databasket. Retried left: 3"|Thu, 19 Jan 2017 10:51:50 +0000|Thu, 19 Jan 2017 11:26:15 +0000
+cb5b57fd28ce93d77b2a9d3c5f8d7d39e7a3e694|Add non-throwing test for generated WPS impl class|Tue, 17 Jan 2017 11:59:39 +0000|Tue, 17 Jan 2017 12:03:09 +0000
+085dfe2368c8a66f87770efaf5f58a2c9988a7a0|Fix Directory/Location for ftep::proxy when SSO is disabled|Mon, 16 Jan 2017 19:48:50 +0000|Tue, 17 Jan 2017 09:13:56 +0000
+16ecb00bf8e6ac4b4aaa6cabccc9d4f4b4e1b212|Re-add f-tep-portal JS sources to SonarQube|Mon, 16 Jan 2017 17:39:17 +0000|Mon, 16 Jan 2017 17:39:17 +0000
+4ea70ee1b4d989f843ca98e49fc91da211ba2cd5|Add Shibboleth security to ftep::proxy vhost|Mon, 16 Jan 2017 17:18:41 +0000|Mon, 16 Jan 2017 17:25:58 +0000
+54357ec8b8096457b5903806a640666f57ac2298|Refactor Jenkins pipeline to clarify environment/config files|Mon, 16 Jan 2017 13:15:05 +0000|Mon, 16 Jan 2017 15:46:50 +0000
+f09f85ff1e0665f4041c88b1e4b238831b123047|Update dependency versions|Fri, 13 Jan 2017 18:25:23 +0000|Mon, 16 Jan 2017 11:29:14 +0000
+4976226081c5375b1bf44821e8d3071a504cb88b|TEPF-104 Sentinel-2 search: add default value for max cloudiness|Mon, 16 Jan 2017 10:42:20 +0200|Mon, 16 Jan 2017 10:48:09 +0000
+71707d5f5f927acd27270765ae7c3cb05d9cd958|Search fields and parameters refactored|Fri, 13 Jan 2017 17:03:13 +0200|Mon, 16 Jan 2017 10:47:58 +0000
+edf915483007b603615dd5f5d40f6c822f439d3f|Dev version 0.4.0-SNAPSHOT|Mon, 16 Jan 2017 09:56:58 +0000|Mon, 16 Jan 2017 09:56:58 +0000
+40ee4f3e740ca00bec2f1628f87bcf4d0837251e|Revert "Add acceptance tests to post-merge build"|Fri, 13 Jan 2017 17:38:16 +0000|Fri, 13 Jan 2017 17:38:42 +0000
+4710378b35f02574858f6314513bd01db761783c|Add acceptance tests to post-merge build|Fri, 13 Jan 2017 16:32:54 +0000|Fri, 13 Jan 2017 16:35:02 +0000
+b497116d4040427099f9f031dc6149db6860765a|Enable SSL for ftep::proxy, fix Drupal's detection of SSL|Fri, 13 Jan 2017 16:20:59 +0000|Fri, 13 Jan 2017 16:24:29 +0000
+563b105a8542f02493336c2bda98236e2cbe7287|Build script clean up|Fri, 13 Jan 2017 13:50:22 +0000|Fri, 13 Jan 2017 14:57:52 +0000
+e1119c139e87b5682439bcefd43b14d1dcf354ac|Fill in missing DAOs/DataServices|Fri, 13 Jan 2017 10:48:00 +0000|Fri, 13 Jan 2017 12:23:31 +0000
+8409d385ed96c7e7cf9e41478a3703ed9d6550ae|Use gradle task for QueryDsl code generation|Thu, 12 Jan 2017 16:29:50 +0000|Fri, 13 Jan 2017 10:47:51 +0000
+e86ee3784a7d476f8c7f09038af9071b68dfb928|Service template updated.|Thu, 12 Jan 2017 17:28:41 +0200|Thu, 12 Jan 2017 16:29:29 +0000
+4eabbfe933cb4d7e68965780006fa461141ec4a2|Fix crs parameter name for VegetationIndices|Wed, 11 Jan 2017 14:59:59 +0000|Thu, 12 Jan 2017 14:47:30 +0000
+dde6bec0e1a52c25bb1e6a3daaf2b4dace84c35a|Fix gpt node order for VegetationIndices preprocessing|Thu, 12 Jan 2017 12:08:55 +0000|Thu, 12 Jan 2017 14:47:27 +0000
+35d45df056886b1a289d491562e1aa0a49085d48|Implement new-style download management|Mon, 9 Jan 2017 18:28:10 +0000|Thu, 12 Jan 2017 14:39:49 +0000
+d7b76cdc55b0a9545c0399f2b84cfbb27731fcb5|Fix copy-paste error in puppet shibboleth template|Wed, 11 Jan 2017 19:12:22 +0000|Thu, 12 Jan 2017 14:39:49 +0000
+50222d8361a00fa87701223ea9cd298e5fcaeae5|Fix ftep::db remote access, add EPEL for ftep::drupal|Tue, 10 Jan 2017 17:23:51 +0000|Thu, 12 Jan 2017 14:39:49 +0000
+91d173b73ae45dc5d7b607e4195236a8914bcc9a|Fix projection on WMS.|Thu, 12 Jan 2017 13:48:16 +0200|Thu, 12 Jan 2017 13:50:43 +0000
+fb0dc2e37a55285b6f9df7d503245f12ac35ae91|TEPF-31 AOI selection does not work|Thu, 12 Jan 2017 13:18:15 +0200|Thu, 12 Jan 2017 11:40:03 +0000
+50cf37b3e478c38c9d65657901d886fbc1c6d04d|Polygon edit to keep a projection unchanged.|Wed, 11 Jan 2017 15:55:32 +0200|Wed, 11 Jan 2017 15:55:32 +0200
+60c7e0e74721e768dbb636ae525d6273113c6923|Use GeoTIFF-BigTIFF for preprocessing, add AOI to VegetationIndices|Tue, 10 Jan 2017 17:11:05 +0000|Wed, 11 Jan 2017 10:14:22 +0000
+c8568e5a351038a6562b2e61cfd2711d586bf88c|Reduce verbosity of unzip operation|Tue, 10 Jan 2017 09:32:52 +0000|Tue, 10 Jan 2017 15:15:52 +0000
+0ee8441a3405b1df2d871b378b2e6d3c97298d8f|Fix databasket paging & use plural in bottombar tabs.|Tue, 10 Jan 2017 14:10:13 +0200|Tue, 10 Jan 2017 14:10:13 +0200
+e385ba3e8c8842769a9769460b9f663b999b1675|TEPF-72 Product search: hide non-applying parameters|Mon, 9 Jan 2017 18:33:10 +0200|Tue, 10 Jan 2017 10:13:50 +0000
+d18ab71289f3a120462b265d2da956388590cd0d|Move JobEnvironmentService to Worker|Sat, 7 Jan 2017 11:19:50 +0000|Mon, 9 Jan 2017 17:32:44 +0000
+949e06365f11c608165a9f3a23e04b6ae4129737|Minor build fixes and improvement for zoolib test|Thu, 5 Jan 2017 21:45:10 +0000|Mon, 9 Jan 2017 17:32:44 +0000
+658942c5f2c422a6724932339437a80258f21c0d|Update gradle wrapper to 3.3|Sun, 8 Jan 2017 19:54:56 +0000|Mon, 9 Jan 2017 17:32:43 +0000
+5614b8eb8f66c4c4316c5b59a9fb3abc7baf7bd2|Dev version 0.3.0-SNAPSHOT|Mon, 9 Jan 2017 17:18:19 +0000|Mon, 9 Jan 2017 17:18:19 +0000
+50c38fc299f09198404f82c40376c9e199ce6b45|Use lower-level IO operations for zip files|Mon, 9 Jan 2017 15:35:22 +0000|Mon, 9 Jan 2017 15:35:38 +0000
+dd7889ce6c5cf6bfd184f70d4531ef73f2e48a46|Remove selected items from map.|Mon, 9 Jan 2017 16:59:55 +0200|Mon, 9 Jan 2017 16:59:55 +0200
+f60369d4c7d70cd29ca10f4bdf14c6195642bd56|Fix fonts for IE.|Mon, 9 Jan 2017 12:11:51 +0000|Mon, 9 Jan 2017 13:44:58 +0000
+29235a9f5423e2d3d3ddcd792efcf8907cfd776d|Ensure bottombar fits on smaller screens.|Mon, 9 Jan 2017 13:09:18 +0000|Mon, 9 Jan 2017 13:44:52 +0000
+b020542bb33da8e239aac72666b1c64eff02b80f|Use custom file writer instead of Properties for job config|Mon, 9 Jan 2017 11:56:22 +0000|Mon, 9 Jan 2017 11:58:30 +0000
+7858be303113447a5aacc4892ba05f5bc402cc9f|Fix CacheManager zip handling for flat zip files|Mon, 9 Jan 2017 11:42:40 +0000|Mon, 9 Jan 2017 11:43:29 +0000
+a43bcb33983731a4cfb22ed83042b2856db87676|Update search polygon.|Mon, 9 Jan 2017 09:45:34 +0200|Mon, 9 Jan 2017 12:01:22 +0200
+eeb943b828fd7417e63b74779014a972de290b56|Add missing LandCoverS2 parameter, allow anonymous download for unknown domains|Fri, 6 Jan 2017 17:22:06 +0000|Fri, 6 Jan 2017 17:22:06 +0000
+b00acc66d9eef18229748bde96b00c3d8907a1fe|Search polygon modifications.|Fri, 6 Jan 2017 17:07:21 +0200|Fri, 6 Jan 2017 15:23:10 +0000
+d8b32837ae3b3edc1a2324028179a06957e28571|Databasket fix item scrolling.|Fri, 6 Jan 2017 14:40:26 +0000|Fri, 6 Jan 2017 15:13:11 +0000
+79aedd8c6b5b414aa851bd5a5f96ca838fdb736f|Create LandCoverS2 processor|Fri, 16 Dec 2016 16:22:15 +0000|Fri, 6 Jan 2017 14:23:33 +0000
+a665272d58e91ca9c523497ece80c48ee9f21642|Enable CI to run Docker environment tests|Fri, 6 Jan 2017 12:35:50 +0000|Fri, 6 Jan 2017 12:36:00 +0000
+d33f354750b11ccea0eb258a8733e5be24c5191e|Job download icon update.|Fri, 6 Jan 2017 10:35:55 +0000|Fri, 6 Jan 2017 10:35:55 +0000
+fd0c2549852a2d2ec2073665e2ff0e740ab89476|Implement ProcessorLauncher in f-tep-orchestrator|Tue, 3 Jan 2017 21:05:51 +0000|Thu, 5 Jan 2017 14:14:39 +0000
+be337b361669ac8db222d5588baac5e80dded4e0|Add garethr-docker puppet module, add docker to test harness|Tue, 3 Jan 2017 16:20:00 +0000|Thu, 5 Jan 2017 13:40:12 +0000
+97031640fdab26a6da8e5080e0aa6febfd85fdb6|Resolve drupal module paths|Tue, 3 Jan 2017 15:31:40 +0000|Thu, 5 Jan 2017 13:40:12 +0000
+a6b4e46ab21482631f5efc4849292457e923df28|Extend Orchestrator/RPC capability|Sat, 24 Dec 2016 18:57:25 +0000|Thu, 5 Jan 2017 13:40:08 +0000
+9da3df7e454897963cb443de5eb520a84a3fe17c|TEPF-75 Databasket list very slow to update|Thu, 29 Dec 2016 16:26:02 +0200|Thu, 5 Jan 2017 09:45:46 +0000
+b9240660fab1fb81cec83e1a91060c217d367700|Commit all puppet module dependencies|Sat, 31 Dec 2016 10:24:14 +0000|Thu, 5 Jan 2017 09:44:47 +0000
+32708bfbc0bcce8db7f22648cafa868f6e7bde96|Tweak gitignore and Docker build environment|Fri, 23 Dec 2016 21:59:32 +0000|Thu, 5 Jan 2017 09:44:47 +0000
+a1e453bf8cbad798bc6a1ed7d90ab0345ac70712|Commit all JS dependencies|Sat, 31 Dec 2016 11:40:24 +0000|Thu, 5 Jan 2017 09:44:25 +0000
+ad968fa2c179e62c1ca26a003515cbdac177caf0|Build/test and Puppet module refactoring|Mon, 19 Dec 2016 20:51:31 +0000|Thu, 5 Jan 2017 09:44:25 +0000
+4ea6492af996a52093120fa2ceefe6a52f7c8fed|TEPF-34 Overlapping footprints prevent seeing the image extent|Wed, 4 Jan 2017 10:38:59 +0200|Thu, 5 Jan 2017 09:37:03 +0000
+c19b651e8c7ff0db710924d8e23cdb883b5ae4d5|TEPF-72 Product search: hide non-applying parameters|Thu, 29 Dec 2016 13:28:31 +0200|Thu, 5 Jan 2017 09:36:49 +0000
+2e997e55e50c4f7ba4ada570f8ebe060544a0abd|Navbar fix css error.|Wed, 4 Jan 2017 17:19:29 +0000|Thu, 5 Jan 2017 09:30:49 +0000
+88b6b72555935f8d5afcf4c48cf0e90bd265a9eb|ftepConfig fix JSLint error.|Wed, 4 Jan 2017 17:07:57 +0000|Thu, 5 Jan 2017 09:30:42 +0000
+991590324fd74b9f51d62754810c314fbc060310|TEPF-63 enable editing databasket description later|Thu, 29 Dec 2016 12:36:17 +0200|Thu, 5 Jan 2017 09:20:23 +0200
+12922d6b9f72221b8fb74149afaed43c80d12087|Workspace redesign.|Fri, 23 Dec 2016 21:42:16 +0000|Wed, 4 Jan 2017 15:48:46 +0000
+a9d89b7213da9d9f01b010b6f885450a1328b14a|Redesign of Databasket section.|Wed, 21 Dec 2016 17:38:44 +0000|Wed, 4 Jan 2017 15:48:42 +0000
+added7e7b950a49024d5f6dc532df8abc00361d6|Fix jobs scrollbar.|Wed, 21 Dec 2016 15:53:20 +0000|Wed, 4 Jan 2017 15:48:38 +0000
+9bfdd8d3887c77163e250ce26d1508ba07edf709|TEPF-30 - Map layer selection should indicate the selected base map|Wed, 4 Jan 2017 15:00:11 +0000|Wed, 4 Jan 2017 15:07:29 +0000
+1c4903be9bb5aeb4b4ca398975f5d421e4455f17|TEPF-40 - Automatically open the jobs view when a service is started|Tue, 3 Jan 2017 12:07:15 +0000|Wed, 4 Jan 2017 15:07:23 +0000
+21f926b8d3ad723f444246206203ea78ad8f7b98|JSHint Grunt|Tue, 3 Jan 2017 14:49:55 +0000|Wed, 4 Jan 2017 10:48:39 +0000
+d68387bb2a8b58ea271836eba8c8217dd3e244be|TEPF-73 Service list: instead of filters, categorise|Wed, 28 Dec 2016 17:01:54 +0200|Wed, 4 Jan 2017 08:05:53 +0000
+21c677b46cffcf1a49f2b128cb1a095e67845c75|TEPF-18 New job does not appear in the Jobs list until the page is reloaded|Wed, 28 Dec 2016 12:00:27 +0200|Tue, 3 Jan 2017 09:58:22 +0000
+8924563bd6da64abdfafe946bbb1efe88011cc83|Google Analytics|Mon, 19 Dec 2016 11:58:42 +0000|Tue, 3 Jan 2017 09:33:45 +0000
+b3a37f8ea21661ae25976bd2726bcbf6a1b4a18d|Add full source to gradle wrapper (for IDEs)|Fri, 16 Dec 2016 21:41:03 +0000|Tue, 20 Dec 2016 17:40:22 +0000
+16913f488159617133da894cdcc02ed14943f424|Results width fix.|Mon, 19 Dec 2016 09:59:52 +0000|Mon, 19 Dec 2016 09:59:52 +0000
+14000804f9607c2a1197658a6f48bdecac39bf37|Added scale bar to map.|Fri, 16 Dec 2016 15:21:28 +0000|Fri, 16 Dec 2016 15:21:28 +0000
+3353aaf5dacd38c5eccec9bb43d9ceb98f923eb2|Allow (deprecated) service layer to download multiple input URLs|Thu, 15 Dec 2016 14:53:15 +0000|Fri, 16 Dec 2016 10:28:11 +0000
+726fac80a8fb02dfa6e9817e414fea9057a27771|Re-order acceptance test harness dockerfile|Thu, 15 Dec 2016 11:46:49 +0000|Fri, 16 Dec 2016 10:26:38 +0000
+0aa3c2edba31227d56c54761be0855f1eccd67e2|TEPF-69 page number of products|Fri, 16 Dec 2016 11:34:18 +0200|Fri, 16 Dec 2016 09:44:44 +0000
+5e8845a62df6b32fa807a9adb5e31f9bf9f51d67|TEPF-41 - Better descriptive Portal page <title>|Thu, 15 Dec 2016 16:48:26 +0000|Thu, 15 Dec 2016 16:48:26 +0000
+98003d8cb0d74fc29a165a8b7f68b9e4466c4965|TEPF-29 - Map layer button only partially functional|Thu, 15 Dec 2016 16:45:31 +0000|Thu, 15 Dec 2016 16:45:31 +0000
+be129a05d2bff62e71c19195d713715f7787d59b|Search results scrollbar|Thu, 15 Dec 2016 15:33:48 +0000|Thu, 15 Dec 2016 15:33:48 +0000
+ae3a1d1aa47c55673651c2ecea02974a9ab4687a|Fix SonarQube gradle execution|Thu, 15 Dec 2016 12:26:00 +0000|Thu, 15 Dec 2016 12:26:23 +0000
+aa1bdf4caa92096c8c4efe0032f3a2d95155beac|Add SonarQube configuration|Wed, 14 Dec 2016 20:42:17 +0000|Thu, 15 Dec 2016 11:47:25 +0000
+0e35aae16904c154a1f42bec55070b476d4cccac|TEPF-48 & TEPF-18|Thu, 15 Dec 2016 11:11:41 +0200|Thu, 15 Dec 2016 10:15:03 +0000
+a1affc4ae5cde9f6c65a0d97184e6f220064548e|Services Redesign|Wed, 14 Dec 2016 18:13:10 +0000|Thu, 15 Dec 2016 10:10:06 +0000
+de9006bbd404881d909f2fb0700872a8608442fa|Improve acceptance test reliability|Wed, 14 Dec 2016 17:00:56 +0000|Wed, 14 Dec 2016 18:00:07 +0000
+011ae496e5f2f2218ed83df1093bebe645b0428e|GUI fixes (platform, wms call, service template)|Wed, 14 Dec 2016 19:02:44 +0200|Wed, 14 Dec 2016 17:13:42 +0000
+e94bf18a02f4f870a617147ba6f681e41aee500f|TEPF-32 - Do not switch automatically from search view to services view|Wed, 14 Dec 2016 14:13:33 +0000|Wed, 14 Dec 2016 17:13:25 +0000
+f5122af49dbd2a6a17f1f6d8aa661e2dcd9b5816|Propagate proxy environment to acceptance tests|Wed, 14 Dec 2016 15:36:20 +0000|Wed, 14 Dec 2016 15:37:11 +0000
+467ce836ef080d6339d4b9cfabd16bb5e4cd4ce6|Add Selenium WebDriver container to acceptance test|Wed, 14 Dec 2016 14:45:14 +0000|Wed, 14 Dec 2016 14:51:21 +0000
+510639034929a704e5ce0669ddd2118d411bd027|Cloud coverage style change|Wed, 14 Dec 2016 13:58:36 +0000|Wed, 14 Dec 2016 14:25:23 +0000
+67803a3e693b1804d00ffa2ec5ac2c4f548f567c|Acceptance test harness|Thu, 8 Dec 2016 16:50:14 +0000|Wed, 14 Dec 2016 13:36:03 +0000
+0215082144790d166ae31d53084da62dba5a2e65|Fix VegetationIndices processor|Wed, 14 Dec 2016 11:57:24 +0000|Wed, 14 Dec 2016 13:17:04 +0000
+1fbe4c442d93d8cf13cc149fa2a4061929f5f80e|Font directory change.|Wed, 14 Dec 2016 13:10:30 +0000|Wed, 14 Dec 2016 13:10:30 +0000
+6cbdeca255265b9088ecc680892ce8e0bc2e5472|Multiple GUI fixes.|Wed, 14 Dec 2016 13:05:15 +0000|Wed, 14 Dec 2016 13:05:15 +0000
+7ea6a6d14fd253da0e1f57d43d7fa0d842cff401|TEPF-20 Only show maximum cloud coverage|Wed, 14 Dec 2016 13:27:52 +0200|Wed, 14 Dec 2016 13:27:52 +0200
+28c64229e835b5bdd84e487a5bc110d614190385|TEPF-50 Checkboxes in the Job view do not work|Wed, 14 Dec 2016 10:53:49 +0200|Wed, 14 Dec 2016 10:53:49 +0200
+3821032c999817423d997df0ec383cbb1b85dfd2|Bug fixes in new UI|Tue, 13 Dec 2016 18:44:54 +0200|Wed, 14 Dec 2016 10:18:41 +0200
+be4e69a8da0b50b181e19af26862343ce761d19e|Search button layout change|Tue, 13 Dec 2016 13:01:16 +0000|Tue, 13 Dec 2016 14:03:37 +0000
+2e2d288b4289f6e47e059afaf13e186b6f3e19a2|Fixed the opening of followup menus on the UI.|Mon, 12 Dec 2016 14:57:14 +0000|Tue, 13 Dec 2016 12:48:03 +0000
+0bde1098ab1067acc2445f16db91bb8301ea68e1|Add Vegetation Indices service|Mon, 12 Dec 2016 17:21:29 +0000|Tue, 13 Dec 2016 12:16:31 +0000
+e8ca1f8307917a0498f7fea2a9b51d80096726c2|Layout change for new UI|Fri, 9 Dec 2016 12:55:52 +0000|Fri, 9 Dec 2016 13:22:02 +0000
+5524d157cc113f4b105a750c4585959d72cdc616|Add logback dependency to WPS services|Thu, 8 Dec 2016 15:47:29 +0000|Thu, 8 Dec 2016 15:47:29 +0000
+62499fcb1bb06de0617020d45134094286289774|Refactor f-tep-portal: RequireJS, 3rd party code|Thu, 8 Dec 2016 12:52:29 +0000|Thu, 8 Dec 2016 15:17:59 +0000
+9561810013cbabbb1004c29d68396e2337f94ec0|Merge branch 'nui' into development|Thu, 1 Dec 2016 16:39:52 +0000|Thu, 1 Dec 2016 16:39:52 +0000
+c7aa9ea050a3d8d4818c54220fa3e1f18af77aa9|Rename ftep-portal to match development branch|Thu, 1 Dec 2016 15:41:16 +0000|Thu, 1 Dec 2016 16:34:10 +0000
+dff1a98d8cecaa4dde359a3e0ba72982ff3bf693|Update README - build/test instructions|Thu, 1 Dec 2016 11:37:42 +0000|Thu, 1 Dec 2016 15:37:07 +0000
+78a1e96f47e9c7a46be8ede8d2d735ab8c086277|remove static data for dev branch merge|Thu, 1 Dec 2016 15:09:42 +0000|Thu, 1 Dec 2016 15:09:42 +0000
+336354ea0d0038085a40358473ef02faf5265499|Update gradle to 3.2.1|Thu, 1 Dec 2016 14:05:36 +0000|Thu, 1 Dec 2016 14:07:01 +0000
+4154fdc29841596a3b097ccc489fe606b69bb448|Updated jobs. Changed missions in search section to radio buttons.|Thu, 1 Dec 2016 14:01:19 +0000|Thu, 1 Dec 2016 14:01:19 +0000
+2b6c4f14d27d446d58979d6786065d475e52de18|Add QGIS service|Thu, 1 Dec 2016 12:49:56 +0000|Thu, 1 Dec 2016 13:50:33 +0000
+7ce0dc96afbf13cad97f50639bf15d1225ed22cd|Begin refactoring WPS backend service layer|Fri, 25 Nov 2016 17:21:15 +0000|Thu, 1 Dec 2016 13:50:25 +0000
+196544d0d0d0f7de6272d138cbeb02c58e593d69|Add vendor specific files under ftep_search|Thu, 1 Dec 2016 10:46:33 +0000|Thu, 1 Dec 2016 13:48:38 +0000
+4d5a23f40293064e9acade91c7013128e8f4abff|JPA model|Wed, 30 Nov 2016 18:59:11 +0200|Thu, 1 Dec 2016 14:02:54 +0200
+b576b89dabccb1606c15e1b3223d89a7346abdb2|updated jobs styles|Wed, 30 Nov 2016 16:53:55 +0000|Wed, 30 Nov 2016 16:53:55 +0000
+a28876ac4d4a3ab6fb5a5cb49498f64b66f8553e|Show output products on map.|Wed, 30 Nov 2016 11:16:15 +0200|Wed, 30 Nov 2016 18:13:43 +0200
+9a3ac8a501aedc1b23b4229c54dcb056b0a019c1|jobs list completed|Fri, 25 Nov 2016 18:17:30 +0000|Fri, 25 Nov 2016 18:17:30 +0000
+2e274b04fe1b5470722ae20294e80318c18cf2c8|Create test harness stub|Fri, 25 Nov 2016 15:11:15 +0000|Fri, 25 Nov 2016 15:20:20 +0000
+ef2423016a7fb9863ac9812b59b0f41ab8c6b825|restyle bottombar|Fri, 25 Nov 2016 11:36:55 +0000|Fri, 25 Nov 2016 11:38:46 +0000
+0b1d85aa5a23b033fd968ea74e45ebf98c6f642b|Create dynamic java -> class -> jar WPS service generation|Thu, 24 Nov 2016 17:19:05 +0000|Fri, 25 Nov 2016 09:36:22 +0000
+f350e60a6db59d6c0e74ef5850dfdef549a61e56|Add YAML de-/serialisation for FtepServiceDescriptor objects|Thu, 24 Nov 2016 11:44:54 +0000|Fri, 25 Nov 2016 09:35:50 +0000
+2f3a1a9ebf67b885474abb44c2d54acc4bb77405|Add gradle config to build f-tep-drupalmodules as an RPM|Thu, 24 Nov 2016 17:09:52 +0100|Thu, 24 Nov 2016 16:52:06 +0000
+6c05ba602701042eb6ade7bf47fd8569fd271d5c|Adding the ftep-backend drupal modules|Thu, 24 Nov 2016 15:06:18 +0100|Thu, 24 Nov 2016 15:26:29 +0100
+ebbaea64dcf48a870d0030c9bf365af623ea9866|Begin Java model/API, dynamic WPS service handling|Sun, 20 Nov 2016 17:18:19 +0000|Wed, 23 Nov 2016 19:51:03 +0000
+e8c0f6de976d015e464629c8efc1437eca47c65a|Move databaskets and jobs from the sidebar to the bottombar.|Wed, 23 Nov 2016 18:02:18 +0000|Wed, 23 Nov 2016 18:02:18 +0000
+91897f0b45076f07b1a5d13479d6c8765e2fe322|Update puppet module: fix geoserver extract and directory resources|Wed, 23 Nov 2016 15:07:50 +0000|Wed, 23 Nov 2016 15:08:38 +0000
+362d1a17b8d67d5039bb11877712b8c09f12da88|Update puppet module: proxy class, reorganised repos|Tue, 22 Nov 2016 16:00:46 +0000|Tue, 22 Nov 2016 16:01:03 +0000
+4eee108d55c55adff4a61e3ff250e53a81aaa8c9|Update puppet module|Mon, 21 Nov 2016 14:38:03 +0000|Tue, 22 Nov 2016 14:42:24 +0000
+733d1eadbb81a88a0d6bef8c370355a32b13a0dc|Fix vagrant-compatible build container definition|Mon, 21 Nov 2016 14:37:39 +0000|Tue, 22 Nov 2016 14:42:17 +0000
+45bcaf807a3152aafeb7abc915764e3d2a15f76b|Migrate to gradle build|Tue, 15 Nov 2016 16:16:16 +0000|Tue, 22 Nov 2016 11:27:40 +0000
+c64d62e4422ea9736961bb9c3789a1b78534fbb6|Fix requirejs load order|Mon, 21 Nov 2016 15:50:16 +0000|Mon, 21 Nov 2016 15:52:32 +0000
+0b507edc754ea71d969ba16fa1ff0c97cb1fcbd2|New FTEP Portal UI|Mon, 21 Nov 2016 11:36:17 +0000|Mon, 21 Nov 2016 11:36:17 +0000
+f5b11fae1c1faaf7d081eff4f74ae398d3195e88|Store shibboleth rpms locally|Fri, 18 Nov 2016 17:03:42 +0000|Fri, 18 Nov 2016 17:03:42 +0000
+bb652eed0b70fc4c353ba048a22e24dab902cf71|Update cgieoss-ftep puppet module|Fri, 18 Nov 2016 13:36:03 +0000|Fri, 18 Nov 2016 13:36:36 +0000
+415b8e643490186ad5b4150836772884e32c2adb|Update to .gitignore for portal.|Fri, 18 Nov 2016 11:06:33 +0000|Fri, 18 Nov 2016 11:15:46 +0000
+7f194880af6181c52dec90ef441bcb0e7efb1205|Wait for the new job to appear.|Thu, 17 Nov 2016 16:42:19 +0200|Thu, 17 Nov 2016 16:43:33 +0200
+2e228488f64c1052bea509db4fdb6d5087adb68b|Merge changes Ieb9e056a,If73e2df0 into development|Thu, 17 Nov 2016 11:42:20 +0000|Thu, 17 Nov 2016 11:42:20 +0000
+54e126b0e19d796c204d7301852aa7dddfea2fe6|UI change requests by VTT|Wed, 16 Nov 2016 17:32:24 +0200|Wed, 16 Nov 2016 17:32:24 +0200
+105d938b520eb3671fbc476d2980a64c2a9d3a7d|Add db-backend and python config flags to zoo-kernel|Mon, 14 Nov 2016 13:41:51 +0000|Wed, 16 Nov 2016 13:52:21 +0000
+f90a9a90348144e9bf024923f2e4fb8198a06266|Update cgieoss-ftep puppet module|Mon, 14 Nov 2016 13:22:10 +0000|Wed, 16 Nov 2016 13:52:21 +0000
+626c81d2f6cbc98f1e2267be8b785dd188b9215e|Bug fixes for WPS UI.|Tue, 15 Nov 2016 13:35:14 +0200|Wed, 16 Nov 2016 11:59:43 +0200
+abd811d829c2d4cb1d5164fe5fb01bca309725ab|ftep#55 Convert JS templates from mustache to angular|Thu, 10 Nov 2016 16:05:11 +0200|Thu, 10 Nov 2016 16:42:25 +0200
+9dc9b3892d5083e12921fc7f8472aac87b28c8b8|Import ZOO-Project and cgieoss-ftep dependencies|Thu, 10 Nov 2016 11:01:37 +0000|Thu, 10 Nov 2016 11:01:37 +0000
+19645da471a76c4422bfbecce8e1757315e69c9f|Make webapp configurable from a single location|Wed, 9 Nov 2016 20:43:45 +0000|Wed, 9 Nov 2016 21:07:34 +0000
+2b7d4daec3dd73ffc30aa22c727d13617b018993|Update cgieoss-ftep puppet module version|Wed, 9 Nov 2016 17:11:39 +0000|Wed, 9 Nov 2016 17:11:39 +0000
+6279bb6d6a8a7d46431b7a7d963db39d6f9b5c65|Add LICENSE and README|Wed, 9 Nov 2016 14:18:02 +0000|Wed, 9 Nov 2016 14:57:28 +0000
+11c75dfa9c6a1dad9afcbfa0e006d1a6bb2bdb59|Import F-TEP Portal code and produce RPM|Tue, 8 Nov 2016 17:27:48 +0000|Wed, 9 Nov 2016 14:17:47 +0000
+ec894ebfc18117ced32c296840c95f8b086a9569|Use specific revisions of ZOO-Project and puppet-ftep|Mon, 7 Nov 2016 21:19:23 +0000|Tue, 8 Nov 2016 10:15:51 +0000
+a8ba3a026679e10f4226d9f5eef49d28721dca1c|Create vagrant config|Fri, 4 Nov 2016 20:35:41 +0000|Sun, 6 Nov 2016 11:25:21 +0000
+da600d39308a35e9519026cfca5dfe20034bf261|Migrate build steps from Pipeline to shell scripts|Sat, 5 Nov 2016 15:36:43 +0000|Sun, 6 Nov 2016 11:08:52 +0000
+11286ac577401dabc49f007a38b39cef5285cd40|Add standalone puppet conf to distribution|Wed, 2 Nov 2016 16:31:13 +0000|Fri, 4 Nov 2016 19:51:23 +0000
+85bf875edc78a85d25202a868d99e6a07add6b05|Create yum repo from built RPMs|Wed, 2 Nov 2016 15:08:25 +0000|Wed, 2 Nov 2016 15:33:03 +0000
+fb3b1f6e80371d54351d06d5f5febc7716aee3a6|Add Puppet to build container|Thu, 27 Oct 2016 14:57:54 +0100|Thu, 27 Oct 2016 15:00:16 +0100
+f3b7b40d2ef4f74ffb371866cf95c8b149b5f28d|Build RPM for F-TEP processors|Wed, 26 Oct 2016 13:27:48 +0100|Wed, 26 Oct 2016 14:08:19 +0100
+9029af77a3e2e9e4e5ddbce281c8b0a8c7ba8fcd|Tweak order of layers in build container|Tue, 25 Oct 2016 16:15:10 +0100|Tue, 25 Oct 2016 16:15:10 +0100
+85f7a1f829a0586147f6ca2b2d3e931f4edfd835|Initial import of F-TEP Maven project|Tue, 25 Oct 2016 11:31:33 +0100|Tue, 25 Oct 2016 11:41:10 +0100
+5aedca65b5a68dbce040606b442ed5f4e8e9b0bb|Import ZOO-Project for distribution|Mon, 24 Oct 2016 12:34:33 +0100|Mon, 24 Oct 2016 14:03:56 +0100
+e2830a941ae0b53bb2488a9ce2de790549362281|Add Dockerfile for build environment|Fri, 21 Oct 2016 11:25:00 +0100|Fri, 21 Oct 2016 13:38:44 +0100
+24913cd7931bc9622d6fbd213866065d9120f86c|Initial commit|Thu, 20 Oct 2016 12:33:23 +0100|Fri, 21 Oct 2016 10:33:14 +0100

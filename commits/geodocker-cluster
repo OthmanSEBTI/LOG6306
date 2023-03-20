@@ -1,0 +1,282 @@
+0270d7e20c85980961bbcf434ddfd28150e0ab4d|additional README.md changes|Wed, 31 Aug 2016 16:59:28 +0300|Wed, 31 Aug 2016 16:59:28 +0300
+56d394ac35274700937cbee6f2e335f03ae343a0|update not maintained readme|Wed, 31 Aug 2016 15:07:34 +0300|Wed, 31 Aug 2016 15:09:57 +0300
+5a1a142ca331ab55a7535f21f4b9581b29754e69|Merge pull request #56 from jackode/master|Wed, 13 Jul 2016 17:41:21 -0400|Wed, 13 Jul 2016 17:41:21 -0400
+eb1114a9faea7b4a5e6db75b4f4cd266c52eefa5|Update Dockerfile|Mon, 11 Jul 2016 11:07:37 +0800|Mon, 11 Jul 2016 11:07:37 +0800
+d3eda75589dd27ba8761afdf8937f520fe127d82|Merge pull request #54 from echeipesh/travis-ci|Mon, 27 Jun 2016 22:17:15 -0400|Mon, 27 Jun 2016 22:17:15 -0400
+201ca53b2ca8a03feed88a27c49b774f65eb23e2|add Travis Ci and publish to quay.io|Mon, 27 Jun 2016 16:40:03 -0400|Mon, 27 Jun 2016 16:40:03 -0400
+49beb33e716138b49e92faf4cf0d9049d6d778f3|Update adr-0001-deployment.md|Fri, 17 Jun 2016 15:58:10 +0300|Fri, 17 Jun 2016 15:58:10 +0300
+56cbf72ac5e45f17686d57a3a14e02f4ad35c937|Merge pull request #51 from geotrellis/adr/deployment|Wed, 15 Jun 2016 21:51:47 +0300|Wed, 15 Jun 2016 21:51:47 +0300
+b386c664d06b5bc2dbc67130af0e0bd4decc42b9|adr text corrections by Nathan (@moradology)|Wed, 15 Jun 2016 21:50:17 +0300|Wed, 15 Jun 2016 21:50:17 +0300
+b8af8590f0a1ad3cfcb0671c8d6665d6d6223228|small fixes|Wed, 15 Jun 2016 17:53:00 +0300|Wed, 15 Jun 2016 17:53:00 +0300
+b77122684bfdf2980509c054016520b66f8dc031|+deployment adr|Wed, 15 Jun 2016 16:25:20 +0300|Wed, 15 Jun 2016 16:25:20 +0300
+3e1a51e9f7a352afc8fd63daa3a077a82de3845c|fix typo in a release script|Tue, 14 Jun 2016 00:30:18 +0300|Tue, 14 Jun 2016 00:30:18 +0300
+3c9fbc45e5e20039dc3c14204c3abfc644a6d1d2|+additional comments; +move to 0.2.1|Tue, 14 Jun 2016 00:28:20 +0300|Tue, 14 Jun 2016 00:28:20 +0300
+b9e0af3937587b04e3136a54f5f1f8d6fbe67d33|Merge pull request #50 from moradology/feature/wave-mesa-iterators|Tue, 14 Jun 2016 00:24:51 +0300|Tue, 14 Jun 2016 00:24:51 +0300
+41f4f8704f2bd75a3272f514cd3a3dfba6376ba0|Use accumulo-gis by default in dev compose file|Mon, 13 Jun 2016 15:20:47 -0400|Mon, 13 Jun 2016 15:20:47 -0400
+04584b624d8e135846d2b5a0505ec3709e639451|Avoid using namespaces for GIS iterators|Mon, 13 Jun 2016 14:35:24 -0400|Mon, 13 Jun 2016 14:35:24 -0400
+2866de690409c06a58f67fbf3811647917994d4f|Add iterators for geowave/mesa to accumulo|Tue, 7 Jun 2016 20:22:06 -0400|Fri, 10 Jun 2016 14:01:38 -0400
+760e269e3fd5a626e629382fe892ee7bc865ddd7|Add build step for geowave and geomesa iterators on accumulo image|Tue, 7 Jun 2016 13:38:34 -0400|Tue, 7 Jun 2016 13:38:34 -0400
+90762d5586a6479c0d01f28cfe7e6db0aa6288ed|fix base image for spark and accumulo|Fri, 3 Jun 2016 22:19:12 +0300|Fri, 3 Jun 2016 22:19:12 +0300
+bf6bec1cf1e521d31b6928670188e03077a750e9|fix comments in a README file|Fri, 3 Jun 2016 14:14:01 +0300|Fri, 3 Jun 2016 14:14:01 +0300
+f594bbbec3a4e6a806d600e3fe41970c5cebda07|Merge branch 'master' of github.com:geotrellis/geodocker-cluster|Fri, 3 Jun 2016 14:11:38 +0300|Fri, 3 Jun 2016 14:11:38 +0300
+8f45e63a881127debdfe643f7e1d4603fec4966f|refactored docker-compose.yml|Fri, 3 Jun 2016 14:10:25 +0300|Fri, 3 Jun 2016 14:10:25 +0300
+230529936415459f46f151235355056961c9bfd7|Merge pull request #47 from geotrellis/fix/geodocker-tomcat|Fri, 3 Jun 2016 13:57:19 +0300|Fri, 3 Jun 2016 13:57:19 +0300
+5812a3c2e50ffa1406747b92c59be727e4328424|fix release.sh|Fri, 3 Jun 2016 13:53:49 +0300|Fri, 3 Jun 2016 13:53:49 +0300
+269850b7dbc76c5c38840de7c40e6b3695dce538|fix docker publish script|Fri, 3 Jun 2016 13:47:45 +0300|Fri, 3 Jun 2016 13:47:45 +0300
+e9cec879c7abd75226c061a808026731be73c982|fix publish script|Fri, 3 Jun 2016 13:45:04 +0300|Fri, 3 Jun 2016 13:45:04 +0300
+9306a8a093f568cc774ef7a1944fdad91df8ddd0|fix rights for a publish script|Fri, 3 Jun 2016 13:43:58 +0300|Fri, 3 Jun 2016 13:43:58 +0300
+fed1da491b640a79eeda80c1808b3650aa28bf17|final fixes|Fri, 3 Jun 2016 13:25:14 +0300|Fri, 3 Jun 2016 13:25:14 +0300
+ddd1f55bcfe5d0c931a380028f877c144b680ac0|add nc to centos docker image|Fri, 3 Jun 2016 11:46:47 +0300|Fri, 3 Jun 2016 11:46:47 +0300
+420a1d653ddcd0090949589ce5ccde1298f52a91|rm execs|Fri, 3 Jun 2016 11:23:41 +0300|Fri, 3 Jun 2016 11:23:41 +0300
+e6b4168eb3889960f825c147059c540d6d45652e|fix accumulo and hadoop entrypoints|Fri, 3 Jun 2016 11:19:58 +0300|Fri, 3 Jun 2016 11:19:58 +0300
+0d9ab7a89934eabac4ef7c48315288ccfddd5405|fix dev scripts|Fri, 3 Jun 2016 11:14:32 +0300|Fri, 3 Jun 2016 11:14:32 +0300
+239cef724147e27010a4b2fb9d6fdace6f101482|update version in a README.md|Fri, 3 Jun 2016 10:09:47 +0300|Fri, 3 Jun 2016 10:09:47 +0300
+8b807f80038b726eb148f53f89614712902ec422|+docker release scripts; +fix accumulo master entry point for save accumulo init handle on container restart|Fri, 3 Jun 2016 10:06:56 +0300|Fri, 3 Jun 2016 10:06:56 +0300
+98a0a8ff263368dc0df26702a18dd6abc6d72472|fix docker compose|Thu, 2 Jun 2016 23:07:41 +0300|Thu, 2 Jun 2016 23:07:41 +0300
+06928ace9c75db459fed24207bf6e1b64d565661|fix tomcat link|Thu, 2 Jun 2016 23:02:39 +0300|Thu, 2 Jun 2016 23:02:39 +0300
+f3a091234d1f07b7f12749e9895b42f0ecf61551|Merge pull request #46 from moradology/patch-5|Thu, 2 Jun 2016 18:28:09 +0300|Thu, 2 Jun 2016 18:28:09 +0300
+b6945bcb279b0e6a272c19e0277c5412f533e996|Update README.md|Thu, 2 Jun 2016 10:54:05 -0400|Thu, 2 Jun 2016 10:54:05 -0400
+e09795f9441f619af216aac7b626bd0a20bb9dfc|Merge pull request #45 from moradology/feature/parametric-containers|Thu, 2 Jun 2016 17:07:58 +0300|Thu, 2 Jun 2016 17:07:58 +0300
+b094d316d1b53a6050000910d33f5570e7083164|Fix dev compose under new single container scheme; add some logging|Fri, 27 May 2016 19:08:01 -0400|Fri, 27 May 2016 19:08:01 -0400
+49978e963c8373df4d85408f5f1060c3eaedfd37|Parameterize the entrypoint scripts for various roles|Fri, 27 May 2016 18:10:30 -0400|Fri, 27 May 2016 18:10:30 -0400
+44cbfc648ce66716f8278a2e6ac2fa056259e88c|Merge pull request #44 from moradology/feature/geoserver|Fri, 27 May 2016 00:48:13 +0300|Fri, 27 May 2016 00:48:13 +0300
+b92af119fbc246f56cb09a2327ca747ba8092411|Add geoserver|Mon, 23 May 2016 14:05:45 -0400|Mon, 23 May 2016 14:05:45 -0400
+7cf87905e6681d66ff82054d906652bdab836ba0|fix version README.md|Thu, 19 May 2016 01:54:02 +0300|Thu, 19 May 2016 01:54:02 +0300
+9e3895da9da7a0ff10c9a5f05838526148ada76e|fix sh rights|Thu, 19 May 2016 01:52:14 +0300|Thu, 19 May 2016 01:52:14 +0300
+641b4987ca27162ca8296df66132d941f1960521|Merge pull request #43 from geotrellis/feature/deprecate-dev|Thu, 19 May 2016 01:48:21 +0300|Thu, 19 May 2016 01:48:21 +0300
+c5f1f1415a072d4d7b786da4f89ca2c832be4cea|Merge pull request #42 from echeipesh/feature/emr-bootstrap|Thu, 19 May 2016 01:48:11 +0300|Thu, 19 May 2016 01:48:11 +0300
+631f6293a7904312b6d8a6e750d07737d7aa6849|+README.md|Thu, 19 May 2016 01:43:18 +0300|Thu, 19 May 2016 01:43:18 +0300
+bd5a1d10b7b44407be01d6fe0f61f421bc130e9b|expose ui ports|Thu, 19 May 2016 01:38:54 +0300|Thu, 19 May 2016 01:38:54 +0300
+0032497a0bdbae0c81da8f5d05874ea8beaa4255|fix spark start|Thu, 19 May 2016 01:25:27 +0300|Thu, 19 May 2016 01:25:27 +0300
+5e3bfa45d9f61f9737d68534523a598be92ef274|add EMR geodocker bootstrap script|Wed, 18 May 2016 17:25:39 -0400|Wed, 18 May 2016 17:25:39 -0400
+11c3596398680ed53892bcd8a726baa132a84ec8|accumulo entry point fix|Wed, 18 May 2016 23:21:20 +0300|Wed, 18 May 2016 23:21:20 +0300
+7f467e69e9c2683e4932051e86a6a0af49dc9570|fix hadoop & accumulo entry points; fixed docker compose|Wed, 18 May 2016 22:23:16 +0300|Wed, 18 May 2016 22:23:16 +0300
+f7a53fe8867abab65824d7352199d11521eb16eb|fix hadoop entry points|Wed, 18 May 2016 20:42:18 +0300|Wed, 18 May 2016 20:42:18 +0300
+56a605a89e6378e33827ab6c1cc9c5f23116cb28|upd entries|Wed, 18 May 2016 20:32:27 +0300|Wed, 18 May 2016 20:32:27 +0300
+28d7410a798ecaed5a2c43b0ecc8bd28ca61ae13|fix entrypoints|Wed, 18 May 2016 15:51:12 +0300|Wed, 18 May 2016 15:51:12 +0300
+3ee176f521bb55e761341bd85dd7f32e69721475|fix accumulo master entry point|Wed, 18 May 2016 15:44:07 +0300|Wed, 18 May 2016 15:44:07 +0300
+5c8133d6501045e6136cba3c6b35d0e462d36005|fix entrypoints|Wed, 18 May 2016 15:15:11 +0300|Wed, 18 May 2016 15:15:11 +0300
+de5f7613ad5d73b6eb0e7b469e0ecf26b7776c53|fix chmod|Wed, 18 May 2016 15:03:36 +0300|Wed, 18 May 2016 15:03:36 +0300
+ba7c53ad1484ca17f737a2b9bd7474eb44795410|rm wrong entry point for hadoop name node|Wed, 18 May 2016 14:08:13 +0300|Wed, 18 May 2016 14:08:13 +0300
+a8eceaf274e6eb2048d322d07c54b208fabc3258|fix load-iterators.sh|Wed, 18 May 2016 13:58:52 +0300|Wed, 18 May 2016 13:58:52 +0300
+b097d9e8932a865bc1e17f54bd8d6f172fb78f78|fix load-iterators.sh|Wed, 18 May 2016 13:53:10 +0300|Wed, 18 May 2016 13:53:10 +0300
+eca19d870ac3b50a72713f32bf58066c4c669b81|localhost prod version|Wed, 18 May 2016 13:40:48 +0300|Wed, 18 May 2016 13:40:48 +0300
+b2a9807761fd1615cc9482e4f1854e05f34d1481|Merge pull request #40 from moradology/feature/fix-centos|Tue, 17 May 2016 20:31:33 +0300|Tue, 17 May 2016 20:31:33 +0300
+9e4cf1d0f3cf8f62a198a1278a4f12dc72dc83de|Merge pull request #39 from geotrellis/feature/geo-iterators|Tue, 17 May 2016 08:37:51 +0300|Tue, 17 May 2016 08:37:51 +0300
+8a06c8e91a78ec1f611cf08d09ac7fff28606874|real paths for iterators load|Tue, 17 May 2016 08:36:12 +0300|Tue, 17 May 2016 08:36:12 +0300
+1e7091d48361d0c3b0250828f2665c1c3d6219e2|Pull maven down inside dockerfile|Mon, 16 May 2016 13:49:49 -0400|Mon, 16 May 2016 13:49:49 -0400
+7984facf7408f770800c6ad2abef41218a9e462d|merge fixes|Mon, 16 May 2016 15:45:40 +0300|Mon, 16 May 2016 15:45:40 +0300
+e559f5012bef9172fe3e2f19615dbb20eb502a28|+add init / w84urls|Mon, 16 May 2016 15:41:47 +0300|Mon, 16 May 2016 15:41:47 +0300
+c460024a068ab854a71f7e4dae8d61892a9eab34|Merge pull request #37 from moradology/feature/centos-base|Mon, 16 May 2016 15:13:13 +0300|Mon, 16 May 2016 15:13:13 +0300
+c61509b5b277088ab591c25e2519264d358ce235|Make naming of containers consistent|Fri, 6 May 2016 16:53:42 -0400|Fri, 6 May 2016 16:53:42 -0400
+501c8c7a3e55542068795c98cf1fa4fe9c41d97e|fix license text|Fri, 6 May 2016 23:45:21 +0300|Fri, 6 May 2016 23:45:21 +0300
+58810b1c987adfcd74d646a94ba371ceb908544c|Add centos base image|Fri, 6 May 2016 16:36:11 -0400|Fri, 6 May 2016 16:36:11 -0400
+9d384bc005acf46df65619a9b124424c1c9b2900|Merge pull request #33 from geotrellis/feature/cassandra-support|Tue, 3 May 2016 19:01:45 +0300|Tue, 3 May 2016 19:01:45 +0300
+a1a9c73bc45e27271d5e81a1c38220081192b074|fix rights for cassandra runners|Tue, 3 May 2016 19:01:02 +0300|Tue, 3 May 2016 19:01:02 +0300
+22661b11c29b25115abac09b20e0a89ecbc15ed1|fix README.md|Tue, 3 May 2016 18:59:13 +0300|Tue, 3 May 2016 18:59:13 +0300
+464d72f32a5fe5544175e06cbd72c8147ff1b4d3|modify docker-compose.yml|Fri, 29 Apr 2016 19:01:54 +0300|Fri, 29 Apr 2016 19:01:54 +0300
+d384065e74ce1a281cd5d4b257779b212a917643|Update README.md|Fri, 29 Apr 2016 16:20:45 +0300|Fri, 29 Apr 2016 16:20:45 +0300
+468d3db84738cdf779a99cdc75df9849fa4c11fa|+cassandra run scripts|Fri, 29 Apr 2016 16:17:34 +0300|Fri, 29 Apr 2016 16:17:34 +0300
+37cd7008e7c00da9d8ce9b7f8e9947364c512a15|update README.md|Fri, 29 Apr 2016 14:53:00 +0300|Fri, 29 Apr 2016 14:53:00 +0300
+21764ea7a7b1cccfaf2deedb161aadbf2c7aa9a4|Merge pull request #32 from echeipesh/add-hadoop-user|Fri, 29 Apr 2016 14:44:43 +0300|Fri, 29 Apr 2016 14:44:43 +0300
+1ee8f3b2c1ff977d931f61818714364b40b1a269|Merge pull request #31 from moradology/feature/vagrant-cluster|Fri, 29 Apr 2016 14:00:33 +0300|Fri, 29 Apr 2016 14:00:33 +0300
+c45d1b548d6fb7e0d2bf9d774fa677567b097621|add hadoop user to base accumulo image|Wed, 27 Apr 2016 17:04:36 -0400|Wed, 27 Apr 2016 17:04:36 -0400
+60b0311b06892b4cd91f09450d9c1645d0d6ab64|Add small readme to clarify usage|Wed, 27 Apr 2016 12:01:49 -0400|Wed, 27 Apr 2016 12:01:49 -0400
+1088e06dbc96ffcfe3f290255036a01ac0ca0ad1|Add vagrantfile for running a (2-9 slave) cluster|Wed, 27 Apr 2016 11:59:19 -0400|Wed, 27 Apr 2016 11:59:19 -0400
+d2d420a7c6989913d65c49adbd603ed1bd6a570b|Merge pull request #30 from moradology/patch-4|Fri, 22 Apr 2016 17:38:36 +0300|Fri, 22 Apr 2016 17:38:36 +0300
+cf9a07f6bf7c938c302aa877c325ceb124626bdb|Remove redundant cfg file|Fri, 22 Apr 2016 10:26:30 -0400|Fri, 22 Apr 2016 10:26:30 -0400
+011a2158e8235d5252ecc5d6875f27efd3fc4ee0|add force flag|Mon, 18 Apr 2016 23:17:42 +0300|Mon, 18 Apr 2016 23:17:42 +0300
+fd9045814690833be70e17a18374125495e096a2|fix init script|Mon, 18 Apr 2016 23:15:23 +0300|Mon, 18 Apr 2016 23:15:23 +0300
+935204609653aeb4cf719bb1f48121be66f6b9ff|rm classpath dir creation to init cmd|Mon, 18 Apr 2016 23:03:53 +0300|Mon, 18 Apr 2016 23:03:53 +0300
+c58d4e365eb0cf8acd3c19876847ded29d19cd7f|fix accumulo hdfs classpath dir|Mon, 18 Apr 2016 22:52:48 +0300|Mon, 18 Apr 2016 22:52:48 +0300
+89928752ad5a0f240d42c69612caf27822543a87|fix nodes build script|Fri, 15 Apr 2016 16:28:46 +0300|Fri, 15 Apr 2016 16:28:46 +0300
+8dbfe4e148e95b4270e403da1b5a773e62a20856|fix possible locale issues|Fri, 15 Apr 2016 10:43:35 +0300|Fri, 15 Apr 2016 10:43:35 +0300
+366769e2869af6265f94613935b310fa9a7a32c3|fix init script|Thu, 14 Apr 2016 22:03:17 +0300|Thu, 14 Apr 2016 22:03:17 +0300
+8fbe12d10fdae619d140e1a97485ffba779c078d|fix accumulo init script|Thu, 14 Apr 2016 21:50:00 +0300|Thu, 14 Apr 2016 21:50:00 +0300
+c267b26f9692b3c7745216ff780d9b11bf9afc21|rm debug information|Thu, 14 Apr 2016 13:01:29 +0300|Thu, 14 Apr 2016 13:01:29 +0300
+c6728f7c4a00ddfcb477e704776009e8cb234195|scala version args for spark images|Thu, 14 Apr 2016 12:55:15 +0300|Thu, 14 Apr 2016 12:55:15 +0300
+6618433217841d864048686508985e46454988aa|reduced codelines in the geotrellis install script|Wed, 13 Apr 2016 23:04:13 +0300|Wed, 13 Apr 2016 23:04:13 +0300
+abd96b7c1d4cd2daefff5a1b9c1df20f822417d0|changed chatta repo to the official repo|Wed, 13 Apr 2016 23:00:16 +0300|Wed, 13 Apr 2016 23:00:16 +0300
+bae974e01ddbd631926e48215271f2fe59482516|fix geomesa install script|Wed, 13 Apr 2016 22:58:03 +0300|Wed, 13 Apr 2016 22:58:03 +0300
+1c6f184a6539175d031b7728412ddbf9411483a8|fix geomesa scripts|Wed, 13 Apr 2016 21:43:14 +0300|Wed, 13 Apr 2016 21:43:14 +0300
+91ee5aca4f265ebd9097eeac9edd7765c6776954|fix gt install script|Wed, 13 Apr 2016 21:26:16 +0300|Wed, 13 Apr 2016 21:26:16 +0300
+8783e1d4a1fbdc36f5917c805f5e70d0dea6e603|Merge branch 'master' of github.com:geotrellis/geodocker-cluster|Wed, 13 Apr 2016 18:11:42 +0300|Wed, 13 Apr 2016 18:11:42 +0300
+d62d197b15d29305cb593c2a3668b686b6d75c07|fix install script|Wed, 13 Apr 2016 18:11:32 +0300|Wed, 13 Apr 2016 18:11:32 +0300
+18095885aaf92cac82d47aad29c364b2f2c41def|impreved build file; fixed install.sh; fixed run server script to avoid avro exception|Wed, 13 Apr 2016 18:00:17 +0300|Wed, 13 Apr 2016 18:00:17 +0300
+3cf15834a6c668ae3fc0bf2a10ea6d39246f9d14|Update README.md|Tue, 12 Apr 2016 21:24:23 +0300|Tue, 12 Apr 2016 21:24:23 +0300
+c48e79da57ec710059215a61427be727b8410772|Merge branch 'master' of github.com:geotrellis/geodocker-cluster|Tue, 12 Apr 2016 20:54:25 +0300|Tue, 12 Apr 2016 20:54:25 +0300
+ac6c6d4b4424e99c200811f4a5712832953a8557|fix entry points && spark CMD|Tue, 12 Apr 2016 20:53:19 +0300|Tue, 12 Apr 2016 20:53:19 +0300
+58a0a895ff02ade3b526b20c8b13ff237a7a79f8|Update README.md|Tue, 12 Apr 2016 18:05:06 +0300|Tue, 12 Apr 2016 18:05:06 +0300
+5a68a27f6fd83dff3785ccdf7dc894240c925e36|Update README.md|Tue, 12 Apr 2016 16:02:31 +0300|Tue, 12 Apr 2016 16:02:31 +0300
+064ac8e2d38ccdc1b5900c4c6320d01d4eb43298|+volume + docs|Tue, 12 Apr 2016 16:01:40 +0300|Tue, 12 Apr 2016 16:01:44 +0300
+6c7547f9b0b151ec910cbe8d01bb29f69b501d31|+README's|Tue, 12 Apr 2016 15:49:42 +0300|Tue, 12 Apr 2016 15:49:42 +0300
+73292c863286d8be6683e1f3959590f1d207c641|Update README.md|Tue, 12 Apr 2016 14:39:59 +0300|Tue, 12 Apr 2016 14:39:59 +0300
+937deb7eb943b07d586b54a3d7a5adba9eedc03c|Update README.md|Tue, 12 Apr 2016 14:15:43 +0300|Tue, 12 Apr 2016 14:15:43 +0300
+fdd53ed99e466bd5cceecaa1af94d393de112670|Merge pull request #26 from pomadchin/feature/refactor-dockerfiles|Tue, 12 Apr 2016 14:13:29 +0300|Tue, 12 Apr 2016 14:13:29 +0300
+fca73e3732aac44303eaefb0e1c330eef710e829|+README's|Tue, 12 Apr 2016 14:12:40 +0300|Tue, 12 Apr 2016 14:12:40 +0300
+14d3c3522b11f79d993c6d29a9befb1d38361f14|final fixes|Tue, 12 Apr 2016 13:54:34 +0300|Tue, 12 Apr 2016 13:54:34 +0300
+013cb4f8e8264fde9567b357c2fd8f9a70638086|fix entry points|Tue, 12 Apr 2016 12:55:36 +0300|Tue, 12 Apr 2016 12:55:36 +0300
+f7f676b17be84bc5dc6fd859e26f314584cff33a|fix hdfs-site.xml|Tue, 12 Apr 2016 10:55:56 +0300|Tue, 12 Apr 2016 10:55:56 +0300
+05e00b262e1364362bc801e931189461ffc340dc|fix hadoop entry points|Tue, 12 Apr 2016 10:40:08 +0300|Tue, 12 Apr 2016 10:40:08 +0300
+81226e795814b69c446e7927dfe2f91d5abbbfa7|fix entrypoints|Tue, 12 Apr 2016 10:22:48 +0300|Tue, 12 Apr 2016 10:22:48 +0300
+e2520ab0546db2bf7c0e373a3e6de8ab8eb49953|fix runners|Tue, 12 Apr 2016 10:14:50 +0300|Tue, 12 Apr 2016 10:14:50 +0300
+b84c3c3c4aa2c8177910223470a948408e5f5df6|fix entrypoints rights|Tue, 12 Apr 2016 09:49:36 +0300|Tue, 12 Apr 2016 09:49:36 +0300
+276e4a031d2d473f4eefeb413de04071e1931487|fix runsrcipts|Tue, 12 Apr 2016 09:43:21 +0300|Tue, 12 Apr 2016 09:43:21 +0300
+92df0ee2a5dc28fcb2ca459f3ac39ab9967db0bf|fix spark base|Mon, 11 Apr 2016 22:21:00 +0300|Mon, 11 Apr 2016 22:21:00 +0300
+8963397d61a9f80c9ef54c60f3efddde756ed3c6|+runners|Mon, 11 Apr 2016 22:15:04 +0300|Mon, 11 Apr 2016 22:15:04 +0300
+b75576df914c1798f450a9769b881ca16016e0e6|+prod README|Mon, 11 Apr 2016 21:18:32 +0300|Mon, 11 Apr 2016 21:18:32 +0300
+86c0fbafcafaad793894a19e848f66bc892cebe7|several fixes|Mon, 11 Apr 2016 21:15:21 +0300|Mon, 11 Apr 2016 21:15:21 +0300
+ce5e7d26d21ea157bfd5f0e132b8560a086cc161|README.md update; +entry points|Mon, 11 Apr 2016 16:47:13 +0300|Mon, 11 Apr 2016 16:47:13 +0300
+c5b319d444c6131677f892826de64332a82977c2|updated dev cluster README.md|Mon, 11 Apr 2016 16:00:15 +0300|Mon, 11 Apr 2016 16:00:15 +0300
+0906fec0a6f17f090b4acbccfe0900e19ae2da28|fix typos in built scripts|Sat, 9 Apr 2016 01:14:07 +0300|Sat, 9 Apr 2016 01:14:07 +0300
+d70bd7fc90dbff4934f6b64e7acd17bdacbd8ddf|+x for .sh|Sat, 9 Apr 2016 01:05:23 +0300|Sat, 9 Apr 2016 01:05:23 +0300
+a57159203b2ff55ca00a3e304e478c2d4c1717fe|+release and prebuild scripts|Sat, 9 Apr 2016 01:03:28 +0300|Sat, 9 Apr 2016 01:03:28 +0300
+3455daef07418870441ec54a334688cde72ce0a1|fix spark woker typo|Sat, 9 Apr 2016 01:01:04 +0300|Sat, 9 Apr 2016 01:01:04 +0300
+679cb954df7b6357511323886d7abc3ed3fd0894|move accumulo 1.7.1|Sat, 9 Apr 2016 00:55:45 +0300|Sat, 9 Apr 2016 00:55:45 +0300
+3e18d4e7697afeadcd3ee1c99a6826a09d7a018c|accumulo link fix|Sat, 9 Apr 2016 00:47:30 +0300|Sat, 9 Apr 2016 00:47:30 +0300
+8067d7cd41d6ad6adfed907485ec5b97c446720a|fix env vars typos|Fri, 8 Apr 2016 23:53:40 +0300|Fri, 8 Apr 2016 23:53:40 +0300
+91877feaa4050cf3f9e4070b567dd65c5822c59f|fix env vars typos|Fri, 8 Apr 2016 23:48:42 +0300|Fri, 8 Apr 2016 23:48:42 +0300
+3caed936e9ad2413fb25664484ac09f6574dc5f2|added explicit deps between images|Fri, 8 Apr 2016 23:45:17 +0300|Fri, 8 Apr 2016 23:45:17 +0300
+2fdc758b8666ab5d35f7610953a745f61b371b68|move docker compose to version 2 api|Fri, 8 Apr 2016 23:28:03 +0300|Fri, 8 Apr 2016 23:28:03 +0300
+a4fddc8f4374400ea37af4af4a6564d93a9f618e|fix accumulo url to use mirror|Fri, 8 Apr 2016 15:36:19 +0300|Fri, 8 Apr 2016 15:36:19 +0300
+b15f89ec71251355e51c9868a765ad669cf329cf|+added a prodlike cluster|Fri, 8 Apr 2016 14:29:42 +0300|Fri, 8 Apr 2016 14:29:42 +0300
+df9706cfca0ae79b8b571801c6f76a4e61d2b9d4|reduced lines in a serf image|Thu, 7 Apr 2016 11:25:27 +0300|Thu, 7 Apr 2016 11:25:27 +0300
+5c043894cfecfd35f08bd66bef65a91c202218a0|fix typo|Thu, 7 Apr 2016 11:18:20 +0300|Thu, 7 Apr 2016 11:18:20 +0300
+ac88b3e27624f9caa86ab72e37ef53e5d1903bfb|refactored docker images to avoid "127 layers / parents" possible error on some machines|Thu, 7 Apr 2016 11:11:20 +0300|Thu, 7 Apr 2016 11:11:20 +0300
+8da3e82ea5ac1f5ea1c05b66f9deed9a760fabca|Merge pull request #25 from pomadchin/master|Thu, 7 Apr 2016 11:02:06 +0300|Thu, 7 Apr 2016 11:02:06 +0300
+c70475c37a6ce520cd3ea6453078e31968112d94|fix geotrellis install scripts|Mon, 28 Mar 2016 15:45:17 +0300|Mon, 28 Mar 2016 15:45:17 +0300
+58ae19a10150151347e9e6eaac5aa64b1f0e78f5|Merge pull request #23 from pomadchin/feature/gt-chatta|Thu, 24 Mar 2016 17:38:33 +0300|Thu, 24 Mar 2016 17:38:33 +0300
+dd9c3e5ff5be210fb485621cd8af45a63360239c|+chatta demo description|Wed, 16 Mar 2016 15:36:27 +0300|Wed, 16 Mar 2016 15:36:27 +0300
+a6c98fe93bf0594028f3d2ef286121b13706985d|Merge pull request #19 from pomadchin/feature/accumulo-512m|Thu, 10 Mar 2016 08:00:41 -0500|Thu, 10 Mar 2016 08:00:41 -0500
+1cab8e5763e2833e485f3c313dd9127adcc942b6|README.md update|Thu, 10 Mar 2016 15:59:22 +0300|Thu, 10 Mar 2016 15:59:22 +0300
+51d5585877c7189892b76623b9e540fccc8b6c4d|fixed readme; moved to accumulo 1.7.1|Wed, 9 Mar 2016 01:58:34 +0300|Wed, 9 Mar 2016 01:58:34 +0300
+df0fc489ef015f815722a3df324980b0ccebcd0b|512 accumulo memory configuration|Wed, 9 Mar 2016 01:43:58 +0300|Wed, 9 Mar 2016 01:43:58 +0300
+fb2cc6520461e53b2fbbad99017f4e1def035d4e|fix geomesa install|Sun, 28 Feb 2016 12:15:28 +0300|Sun, 28 Feb 2016 12:15:28 +0300
+083a2537aef69aa1d6b7737c4255bc7b6cca23f8|fix geotrellis scripts path|Fri, 26 Feb 2016 11:38:40 +0300|Fri, 26 Feb 2016 11:38:40 +0300
+55bf4888b9f9bdcee76ac56d2cfaa43236ad8e5d|fix geotrellis install script|Fri, 26 Feb 2016 11:33:50 +0300|Fri, 26 Feb 2016 11:33:50 +0300
+54e7d245b753e090d1b57b508104586befdca7f3|fix install script for geotrellis|Fri, 26 Feb 2016 11:32:38 +0300|Fri, 26 Feb 2016 11:32:38 +0300
+b9db249fdf6d41a235dc63ffbfc29f5178f53252|Merge pull request #14 from pomadchin/fix/gt-install|Fri, 26 Feb 2016 11:31:20 +0300|Fri, 26 Feb 2016 11:31:20 +0300
+a0be60ea101bbadfc103cb8012148a1c18697ded|fix typo|Fri, 26 Feb 2016 11:30:43 +0300|Fri, 26 Feb 2016 11:30:43 +0300
+56d8117ef7b07eac9d066123da8efaa057725fe2|Merge pull request #13 from pomadchin/fix/geotrellis-demo|Fri, 26 Feb 2016 10:11:19 +0300|Fri, 26 Feb 2016 10:11:19 +0300
+7d483f08d8ec0379b5a5968f00f8f0e5cbe4bc3d|fix gt install|Fri, 26 Feb 2016 10:10:29 +0300|Fri, 26 Feb 2016 10:10:29 +0300
+09c6df7696a249a0e70385bff5cc8a9d555b24c5|Merge pull request #12 from pomadchin/fix/slave-bootstrap|Fri, 26 Feb 2016 10:04:36 +0300|Fri, 26 Feb 2016 10:04:36 +0300
+4ce6a10bb3c8c8ee637e88e7f25fab52180bb126|fix slave bootstrap|Fri, 26 Feb 2016 10:04:09 +0300|Fri, 26 Feb 2016 10:04:09 +0300
+aaea02f35b472728b5042015b5a819f728d0a5a3|Merge pull request #10 from pomadchin/feature/structure-refactor|Fri, 26 Feb 2016 00:23:37 +0300|Fri, 26 Feb 2016 00:23:37 +0300
+325b12db988a23f8d8976bb9fb64b3ab9fb5d16a|accumulo weird behavior fix|Thu, 25 Feb 2016 13:15:37 +0300|Thu, 25 Feb 2016 13:15:37 +0300
+af10ff65d4be9283c5ebbe008c937f53625b6c1c|fix README.md|Tue, 23 Feb 2016 13:10:04 +0300|Tue, 23 Feb 2016 13:10:04 +0300
+01edf36efa32c69ba3f7505591e8aa613b411cc6|fix README.md|Tue, 23 Feb 2016 13:05:13 +0300|Tue, 23 Feb 2016 13:05:13 +0300
+4d3a5d71e370e1cb0023ac62ca55a3fe07427be6|fix README.md|Tue, 23 Feb 2016 13:04:24 +0300|Tue, 23 Feb 2016 13:04:24 +0300
+c755e664ab31df07d5a831531345b505d077e1d1|fix README.md|Tue, 23 Feb 2016 13:01:22 +0300|Tue, 23 Feb 2016 13:01:22 +0300
+e2503954679fe1b7d2294d391ae5d8798ffaac46|fix README.md|Tue, 23 Feb 2016 13:00:08 +0300|Tue, 23 Feb 2016 13:00:08 +0300
+5151a3053ddc14d641659eb18698bf863abe7b72|upd README.md|Tue, 23 Feb 2016 12:50:13 +0300|Tue, 23 Feb 2016 12:50:13 +0300
+042265d135121aca7a88d648218cff8317b215a3|nodes images fix|Tue, 23 Feb 2016 12:39:11 +0300|Tue, 23 Feb 2016 12:39:11 +0300
+415283bc129c63b6639b147d015206a61ee05753|fix build|Tue, 23 Feb 2016 12:13:03 +0300|Tue, 23 Feb 2016 12:13:07 +0300
+00ad577a0ac8d8b680f85a09ae3b3320ac3fca81|fix spark links|Tue, 23 Feb 2016 10:33:53 +0300|Tue, 23 Feb 2016 10:35:29 +0300
+38cc29466aaf7ff709eafff6e1cbc746dcdbc38b|spark tgz dir|Tue, 23 Feb 2016 10:25:53 +0300|Tue, 23 Feb 2016 10:25:53 +0300
+0cd02461eccc55c8dc4f9e90cbff83a6b7d2ca00|spark mv typo fix|Tue, 23 Feb 2016 09:58:43 +0300|Tue, 23 Feb 2016 09:58:43 +0300
+cf979aa7a8aec0fa3698f7450879f165b861ba9c|fix several typos|Tue, 23 Feb 2016 09:29:44 +0300|Tue, 23 Feb 2016 09:29:44 +0300
+ff8fa2868fb7351b221cf003d40345efaa2fb524|fix README's|Tue, 23 Feb 2016 02:20:21 +0300|Tue, 23 Feb 2016 02:20:21 +0300
+7caf4f98184a2cd002f0c02b5e6dd2b8355ea565|fix README's|Tue, 23 Feb 2016 02:15:23 +0300|Tue, 23 Feb 2016 02:15:23 +0300
+d41d254933237ef89894e539f1a14f609f550649|abstratc ober minor Accumulo releases|Tue, 23 Feb 2016 02:12:39 +0300|Tue, 23 Feb 2016 02:12:39 +0300
+93b795f0f68ecec6c897023b6c03fc42341d4ad5|README's fixes|Tue, 23 Feb 2016 01:35:39 +0300|Tue, 23 Feb 2016 01:35:39 +0300
+4f9870cdf654be6d3bf4aa2df03bef121d65b7cf|moved 1.6.4 cfgs to 1.6.5|Tue, 23 Feb 2016 01:29:50 +0300|Tue, 23 Feb 2016 01:29:50 +0300
+096724e25eca40ca7ff61bcf58c4fb5d5cefce06|build scripts fix|Tue, 23 Feb 2016 01:25:17 +0300|Tue, 23 Feb 2016 01:25:17 +0300
+7166256c038428a0d0aef34d58fe1b182cd943f3|fixed links; added scala version support|Tue, 23 Feb 2016 01:14:09 +0300|Tue, 23 Feb 2016 01:14:09 +0300
+3cac91a1bba2acff0ad41431f74ed5b01f728d49|names refator|Sat, 20 Feb 2016 00:15:30 +0300|Sat, 20 Feb 2016 00:15:30 +0300
+523baa4ba34cdb6cb062ff5ec3e0be0cc5385e2e|move files|Sat, 20 Feb 2016 00:10:54 +0300|Sat, 20 Feb 2016 00:10:54 +0300
+883a9301143083760012deb11a07e8c285114e9c|Merge pull request #9 from pomadchin/fix/install-versions|Fri, 19 Feb 2016 23:47:35 +0300|Fri, 19 Feb 2016 23:47:35 +0300
+f066fc0d1163d435ba84adc2f40fcfba23859b75|fix wrong geomesa run|Fri, 19 Feb 2016 23:33:38 +0300|Fri, 19 Feb 2016 23:33:38 +0300
+1b3ab01f4ba2e3ffc763e416d69542a4fb7d53db|move geomesa and geowave to stable versions|Fri, 19 Feb 2016 22:38:55 +0300|Fri, 19 Feb 2016 22:38:55 +0300
+14cec1180293f2b353e5de7a8774c8af87e2282a|Merge pull request #6 from nik-ffm/master|Mon, 15 Feb 2016 11:53:31 +0300|Mon, 15 Feb 2016 11:53:31 +0300
+b7ecce74ba2fd378f348743458cce5bd553df52a|FIX: don't remove geomesa folder on update|Mon, 15 Feb 2016 09:48:06 +0100|Mon, 15 Feb 2016 09:48:06 +0100
+d7df54b3057514fb553bf255a7556e55ee9c5849|Don't remove the geomesa folder on update|Mon, 15 Feb 2016 09:03:47 +0100|Mon, 15 Feb 2016 09:03:47 +0100
+d59aa289010dbae2c0a4ae25a9fbbfb865b1374a|fix READMEs|Thu, 11 Feb 2016 15:32:09 +0300|Thu, 11 Feb 2016 15:32:09 +0300
+2ae4d9b56838ae24f3c36271389f505936064f2f|fix READMEs|Thu, 11 Feb 2016 15:26:48 +0300|Thu, 11 Feb 2016 15:26:48 +0300
+6c6d18c1757e881018ed9915161b8f2f900413c9|README text style fixes|Thu, 11 Feb 2016 15:17:32 +0300|Thu, 11 Feb 2016 15:17:32 +0300
+de950362f0c37ce23bede2abfeb0e767ce69628d|fix READMEs codestyle|Thu, 11 Feb 2016 15:14:39 +0300|Thu, 11 Feb 2016 15:14:39 +0300
+88bdc0f348c90fad14345816efc238d29ff73a50|added usecase inside a README|Thu, 11 Feb 2016 15:13:53 +0300|Thu, 11 Feb 2016 15:13:53 +0300
+ee9057b063b37bb8e232516f4cf3b5edc3fafe1f|added usecase inside a README|Thu, 11 Feb 2016 15:13:19 +0300|Thu, 11 Feb 2016 15:13:19 +0300
+06475d6d4b44e26415df4de64b63baf78fd4e3a7|rename README's|Thu, 11 Feb 2016 10:52:27 +0300|Thu, 11 Feb 2016 10:52:27 +0300
+ea51001e8aa94f8643ee6c68b886949928c8305a|fix serf load|Wed, 10 Feb 2016 19:40:16 +0300|Wed, 10 Feb 2016 19:40:16 +0300
+bd58c671a8fd8cb0450b2f1fe4283d5117eae794|fix typo|Wed, 10 Feb 2016 15:34:16 +0300|Wed, 10 Feb 2016 15:34:16 +0300
+8e76b1a20a23922ab8c62a3d0105556c25a70f7d|removed deprecated hdfs command|Wed, 10 Feb 2016 15:32:28 +0300|Wed, 10 Feb 2016 15:32:28 +0300
+8c4b9c0677bd9dc49840a04df779d91646861847|fix repo rights|Wed, 10 Feb 2016 15:31:44 +0300|Wed, 10 Feb 2016 15:31:44 +0300
+c8cad9fa081213b442a691d74eba16c8c020373a|add accumulo classpath replication script|Wed, 10 Feb 2016 15:30:07 +0300|Wed, 10 Feb 2016 15:30:07 +0300
+de5c26d2aa22909d472c69b3b1dcb2fe98be8c1c|more dns servers|Wed, 10 Feb 2016 13:46:23 +0300|Wed, 10 Feb 2016 13:46:23 +0300
+57c2ae455fda4f104e4e1b106bedfd450474a6a2|codestyle fixes|Wed, 10 Feb 2016 13:14:34 +0300|Wed, 10 Feb 2016 13:14:34 +0300
+4165c9b94b0b7e08d2000610fd303ac1baac9bb0|codestyles fix|Wed, 10 Feb 2016 13:11:50 +0300|Wed, 10 Feb 2016 13:11:50 +0300
+f072925dc204037ec1f94563619ea14185635261|Merge branch 'master' of github.com:pomadchin/geo-env|Wed, 10 Feb 2016 13:08:19 +0300|Wed, 10 Feb 2016 13:08:19 +0300
+c3e6d635e027146badef0f2eb05c595b4b033934|add-slave.sh modifications|Wed, 10 Feb 2016 13:07:47 +0300|Wed, 10 Feb 2016 13:07:47 +0300
+9a58bb8492330d26c643e08e362def8dc374b8f2|Merge pull request #4 from jnh5y/updateLinks|Tue, 9 Feb 2016 17:39:13 +0300|Tue, 9 Feb 2016 17:39:13 +0300
+2cdd41da167764f568fd197be562dbce7285cab4|Updated links to GeoMesa.|Tue, 9 Feb 2016 09:26:29 -0500|Tue, 9 Feb 2016 09:26:29 -0500
+edb13197e3dd08c7fb69a0e6bfeb4043669858d6|set hadoop replication number to 1|Tue, 9 Feb 2016 14:20:46 +0300|Tue, 9 Feb 2016 14:20:46 +0300
+3f102664a05c188bc3a24e05774c7c4d4838668a|fix geotrellis run scripts|Tue, 9 Feb 2016 12:53:51 +0300|Tue, 9 Feb 2016 12:53:51 +0300
+faca7b31f4b2ecff55014fe2223e683c90fc2276|fix geotrellis ingest script|Tue, 9 Feb 2016 11:58:32 +0300|Tue, 9 Feb 2016 11:58:32 +0300
+1e16affa605a0ca85db0f91f7bb6cb6875932d52|fix test run srcipts|Tue, 9 Feb 2016 11:38:17 +0300|Tue, 9 Feb 2016 11:38:17 +0300
+12c2aff16bc03af7cc9796cc1394f96fcfbdd763|fix ReadMe's style|Tue, 9 Feb 2016 11:08:19 +0300|Tue, 9 Feb 2016 11:08:19 +0300
+7df27ed01d6988eff828cebe5d81d2f89f501eea|Merge branch 'master' of github.com:pomadchin/geo-env|Tue, 9 Feb 2016 11:06:54 +0300|Tue, 9 Feb 2016 11:06:54 +0300
+bcafb4d545e9de05f2f0aa6536989e6525402a15|fix geotrellis test example description|Tue, 9 Feb 2016 11:06:47 +0300|Tue, 9 Feb 2016 11:06:47 +0300
+54755c455ec0a0361209d63d6a680a49a970ef0a|Merge pull request #3 from moradology/patch-3|Tue, 9 Feb 2016 07:44:34 +0300|Tue, 9 Feb 2016 07:44:34 +0300
+fbebded5a87f5b0340f0e0ba033b714a8f34af39|geotrellis install & README.md update|Tue, 9 Feb 2016 00:17:58 +0300|Tue, 9 Feb 2016 00:17:58 +0300
+8a2dd612b4abcd3ad9377ab0a646a92635fc9979|fix geowave test script|Mon, 8 Feb 2016 23:35:42 +0300|Mon, 8 Feb 2016 23:35:42 +0300
+656225349f066f8f3f53c4d92802858e0a4171cf|fix gt intall|Mon, 8 Feb 2016 22:32:38 +0300|Mon, 8 Feb 2016 22:32:38 +0300
+0fd83b0a125f6b616aeb6b33bfdb746cdb859c97|fix geowave install and run scripts|Mon, 8 Feb 2016 21:26:26 +0300|Mon, 8 Feb 2016 21:26:26 +0300
+b86189b9feaaf7a66e582c8c35a55bfa59bb433a|Update README.md|Mon, 8 Feb 2016 11:48:16 -0500|Mon, 8 Feb 2016 11:48:16 -0500
+5025001a339e89b0f31fde55e42acf06eb093ced|geowave install fix|Mon, 8 Feb 2016 17:12:47 +0300|Mon, 8 Feb 2016 17:12:47 +0300
+952e7f78491d85e6018d9d69f47d2f5a7956d8f4|fix start scripts; geotrellis chatta conf file|Mon, 8 Feb 2016 15:54:06 +0300|Mon, 8 Feb 2016 15:54:06 +0300
+b8f0ef944c4560dce251d8444404d8a8c32a9d26|mk install executable|Sun, 7 Feb 2016 12:15:27 +0300|Sun, 7 Feb 2016 12:15:27 +0300
+f5147b025798b6b188177a2ef9214ef1f4a92162|*update start-cluster.sh README|Sun, 7 Feb 2016 12:12:34 +0300|Sun, 7 Feb 2016 12:12:41 +0300
+fd8fe2764206050bd85fba35e7cb026173414c9a|fix READMEs typos|Sun, 7 Feb 2016 12:10:01 +0300|Sun, 7 Feb 2016 12:10:01 +0300
+32dc98315cf47199570a2e761f7814d2f4e1fde2|+install READMEs|Sun, 7 Feb 2016 12:05:11 +0300|Sun, 7 Feb 2016 12:05:11 +0300
+f49514f3353c7984592dce1479c4cdc3d004f3ce|fix start scripts; fixed install scripts; +update scripts|Sat, 6 Feb 2016 20:45:14 +0300|Sun, 7 Feb 2016 11:17:11 +0300
+839687ea5a3bd293b90573296b10a7955535a6f9|install geotrellis chatta-demo|Fri, 5 Feb 2016 17:23:25 +0300|Fri, 5 Feb 2016 17:23:33 +0300
+59da14e4aa3eb0abd3ab59fe15bb08ebe1c565d3|+run scripts; +start-cluster fixes|Fri, 5 Feb 2016 16:54:23 +0300|Fri, 5 Feb 2016 16:54:23 +0300
+790936ed2ef7adf7d73a95ddc38b59f290c5975f|fix volumes paths|Fri, 5 Feb 2016 16:35:53 +0300|Fri, 5 Feb 2016 16:35:53 +0300
+26940812c1f75827ca015abe2738bfca50c66ee6|add volumes to start script|Fri, 5 Feb 2016 16:19:24 +0300|Fri, 5 Feb 2016 16:19:24 +0300
+0071c20df7f7c925294ee2c884491baa4ae271b1|fix accumulo classpath loader regexp|Fri, 5 Feb 2016 13:27:53 +0300|Fri, 5 Feb 2016 13:27:53 +0300
+7682a9f399551f1f267d27cf3df3fb721dbb6b6d|fix accumulo classpath load|Fri, 5 Feb 2016 12:50:53 +0300|Fri, 5 Feb 2016 12:50:53 +0300
+f9ac6542c141e289d6b7784ae955a8ef242a450e|Merge branch 'master' of github.com:pomadchin/geo-env|Fri, 5 Feb 2016 11:56:13 +0300|Fri, 5 Feb 2016 11:56:13 +0300
+0637229b8bc225db242e9fb65b8a9fac6c121224|fix accumulo-site settings|Fri, 5 Feb 2016 11:55:55 +0300|Fri, 5 Feb 2016 11:55:55 +0300
+ec206c811cab7460b3c4d98f459e48da31e3ad23|Merge pull request #2 from moradology/patch-2|Thu, 4 Feb 2016 18:46:22 +0300|Thu, 4 Feb 2016 18:46:22 +0300
+da61a3d1beeac067a48048a8914bd96321051abc|Merge pull request #1 from moradology/patch-1|Thu, 4 Feb 2016 18:45:17 +0300|Thu, 4 Feb 2016 18:45:17 +0300
+b8e6a8727d8ff1cd8f12c61c4edaa13b1b95421d|Minor changes to main README.md|Thu, 4 Feb 2016 10:35:41 -0500|Thu, 4 Feb 2016 10:35:41 -0500
+ac9c54e5b3b7a70c9a7356deaff2f32a90c57556|Update README.md|Thu, 4 Feb 2016 10:20:26 -0500|Thu, 4 Feb 2016 10:20:26 -0500
+4c54e6540eb3c3042e4b7c69d2cc3647148d5329|README.md upd|Thu, 4 Feb 2016 17:26:28 +0300|Thu, 4 Feb 2016 17:26:28 +0300
+065cfbc1e1ce5830e3a4446ac6f1cb103be805eb|+READMEs|Thu, 4 Feb 2016 17:16:54 +0300|Thu, 4 Feb 2016 17:16:54 +0300
+c31a5fb8f7da8df679dae0aa98c277d5e909bd6e|geomesa install fix|Thu, 4 Feb 2016 16:13:23 +0300|Thu, 4 Feb 2016 16:13:23 +0300
+40f817740f9691dcdf4dc30916ce56c56bb270f5|fix installation|Thu, 4 Feb 2016 16:03:02 +0300|Thu, 4 Feb 2016 16:03:02 +0300
+5d23ed66d09bacfb5472d41488323d5754121aa7|fix installation|Thu, 4 Feb 2016 15:49:11 +0300|Thu, 4 Feb 2016 15:49:11 +0300
+b1e8ec8933eaf8dfa40448a0041dc675089d8287|fix install scripts|Thu, 4 Feb 2016 15:47:43 +0300|Thu, 4 Feb 2016 15:47:43 +0300
+2115cdd855b922471c78731e93334fa7947bafa7|fix install scripts|Thu, 4 Feb 2016 15:41:36 +0300|Thu, 4 Feb 2016 15:41:36 +0300
+a4ee7de65bcaf1970bbd8a3f0072811b8f660b62|fix install scripts|Thu, 4 Feb 2016 15:39:05 +0300|Thu, 4 Feb 2016 15:39:05 +0300
+8bee51162809dc193c3b282a5a71df4c15c870b3|add accumulo classpath; fixed install scripts|Thu, 4 Feb 2016 15:09:51 +0300|Thu, 4 Feb 2016 15:09:51 +0300
+48d7070a8c816507d31c28fd080f95e304c9e686|fix intall scripts; +build serf|Thu, 4 Feb 2016 14:13:16 +0300|Thu, 4 Feb 2016 14:13:16 +0300
+8118573d4507e19146de281c4fe97620eda34216|fix build.sh|Thu, 4 Feb 2016 11:29:32 +0300|Thu, 4 Feb 2016 11:29:32 +0300
+25e10790f04118f4377139eee501ba4b5bf21ed2|+geo stack install scripts|Wed, 3 Feb 2016 23:57:51 +0300|Wed, 3 Feb 2016 23:57:51 +0300
+f0a45677a116ff6d2a439522c13003a7680ca1a5|fix start-cluster scripts|Wed, 3 Feb 2016 22:34:09 +0300|Wed, 3 Feb 2016 22:34:09 +0300
+0f4108dab10c34ac2b7a832d22cc64520373811d|fix start-cluster scripts|Wed, 3 Feb 2016 22:26:23 +0300|Wed, 3 Feb 2016 22:26:23 +0300
+e01523b604a27b008e192c345b60488e1b9627eb|fix spark slaves bootstrap.sh; added sleeps to start slaves|Wed, 3 Feb 2016 21:55:22 +0300|Wed, 3 Feb 2016 21:55:22 +0300
+9ab2f3bc4321d4af584c88d6f224e9d032cebcbc|fix sn build slave|Wed, 3 Feb 2016 21:40:15 +0300|Wed, 3 Feb 2016 21:40:15 +0300
+9ff5ab1d898ee98ccaba3bc70a3dc84b3434ff48|fix build / run scripts|Wed, 3 Feb 2016 21:23:29 +0300|Wed, 3 Feb 2016 21:23:29 +0300
+2fec58f83a96f444df3e759539882be059053bfd|+multiple nodes support for 3 dist modes|Wed, 3 Feb 2016 21:19:44 +0300|Wed, 3 Feb 2016 21:19:44 +0300
+400bad0da40d0d9e2bae0e3956cd12058e28a1d5|script to add slaves to already runing cluster|Wed, 3 Feb 2016 18:30:32 +0300|Wed, 3 Feb 2016 18:30:32 +0300
+ec0d7d742900d144abb97d471d1fce2b6fde8fc9|fix base paths|Wed, 3 Feb 2016 16:00:45 +0300|Wed, 3 Feb 2016 16:00:45 +0300
+c7187e7d482da728632a3f02d8f0f907c852b308|fix bootstrap|Wed, 3 Feb 2016 15:43:21 +0300|Wed, 3 Feb 2016 15:43:21 +0300
+c51b88667b772d6718f95907681d57e0f2763ffb|+Volume|Wed, 3 Feb 2016 14:32:56 +0300|Wed, 3 Feb 2016 14:32:56 +0300
+e54c448117abc69124ec546032927e3147f436ca|+install git|Wed, 3 Feb 2016 14:23:14 +0300|Wed, 3 Feb 2016 14:23:14 +0300
+01f6bcde1108cfd742fc580538310caeed01ee6f|fix build files|Wed, 3 Feb 2016 14:14:11 +0300|Wed, 3 Feb 2016 14:14:11 +0300
+98fa257cc1695ab60ab3c2cd60c76a4c0b7cb551|fix build.sh|Wed, 3 Feb 2016 14:09:48 +0300|Wed, 3 Feb 2016 14:09:48 +0300
+310d95a8e26620d9d206a9adf0eb0393cc8de2ab|fix build scripts|Wed, 3 Feb 2016 00:50:19 +0300|Wed, 3 Feb 2016 00:50:19 +0300
+7a4e6227082e1ab72bbdba49a346632e2646c0da|+build files; +paramed cluster start|Tue, 2 Feb 2016 23:34:50 +0300|Tue, 2 Feb 2016 23:34:50 +0300
+04494717fc8da8c401f16e9c6b9b108384108e15|bump to hadoop 2.7.1|Tue, 2 Feb 2016 20:46:42 +0300|Tue, 2 Feb 2016 20:46:42 +0300
+44d65f2f51b13bc4acae406b2841d0744a5c7693|bootstrap.sh style fix|Tue, 2 Feb 2016 20:14:25 +0300|Tue, 2 Feb 2016 20:14:25 +0300
+8af5ea4e8923122f75536c51a8ce8b2dcb6062f7|+accumulo 1.6.4|Tue, 2 Feb 2016 20:11:12 +0300|Tue, 2 Feb 2016 20:11:12 +0300
+31818f3c8022c9e95f6984b005d1783f435b9bc2|fix typo|Tue, 2 Feb 2016 18:46:26 +0300|Tue, 2 Feb 2016 18:46:26 +0300
+bcc33921f3b04cb39390ad5bb7823af2702dcb43|+gdal and other geo tools|Tue, 2 Feb 2016 18:43:26 +0300|Tue, 2 Feb 2016 18:43:26 +0300
+1aded6cb1d7ac290e62f8cc988f91b15e6be129f|fix ssh|Tue, 2 Feb 2016 16:29:34 +0300|Tue, 2 Feb 2016 16:29:34 +0300
+972ec543ef29415c1e17b140db79b4d8fade073c|fix bootstrap.sh|Tue, 2 Feb 2016 16:19:05 +0300|Tue, 2 Feb 2016 16:19:05 +0300
+9641d615325d751c3f9a00b6f0eeeaefea938873|fix path for single node image|Tue, 2 Feb 2016 14:42:28 +0300|Tue, 2 Feb 2016 14:42:28 +0300
+9fcba3041f4b0e7de80bdd2a87d9e37853f83ed4|fix paths|Tue, 2 Feb 2016 14:32:47 +0300|Tue, 2 Feb 2016 14:32:47 +0300
+fae2462e5820cdb40edd775979c888edf48bd9c9|+ multiple node folder|Tue, 2 Feb 2016 14:16:05 +0300|Tue, 2 Feb 2016 14:16:05 +0300
+a52f52989a6f2bb19e5529406faf8c8870d28733|init commit|Tue, 2 Feb 2016 14:12:00 +0300|Tue, 2 Feb 2016 14:12:00 +0300
+5c30663f233074b6c9a8d50105729a10cf144547|Initial commit|Tue, 2 Feb 2016 10:58:56 +0300|Tue, 2 Feb 2016 10:58:56 +0300

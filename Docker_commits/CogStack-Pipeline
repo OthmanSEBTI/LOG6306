@@ -1,0 +1,4 @@
+,repo_name,sha,message
+85,CogStack-Pipeline,8e9a8c371cf7cacbf5936fa1983ed61ab6956f93,updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+104,CogStack-Pipeline,cc36a624260bbdbc8a2ab800c927da39f1e03267,updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+121,CogStack-Pipeline,c76a731dc09fbf5e06a7c1486160787def28deb2,refactoring docker image build process -- using multi stage build

@@ -1,0 +1,1134 @@
+a3fcd369ca9f75bbd475facba09d004aa1aefcd8|simulators/ethereum/graphql: remove complexity check test cases (#747)|Thu, 16 Mar 2023 23:12:07 +0100|Thu, 16 Mar 2023 23:12:07 +0100
+38236a3a4139e3fbcf5097d44eb6b1c1aa32fa6d|simulators/eth2/withdrawals: use upstream engine-proxy|Thu, 16 Mar 2023 23:11:03 +0100|Thu, 16 Mar 2023 23:11:03 +0100
+1b0eab693c23ad490c11d1bd7b6f5684ee87b870|simulators/eth2/testnet: upgrade common module|Thu, 16 Mar 2023 23:10:22 +0100|Thu, 16 Mar 2023 23:10:22 +0100
+a7d9ee1489543463f9f489932448a209fe1839e0|simulators/eth2/engine: use upstream engine-proxy|Thu, 16 Mar 2023 23:09:28 +0100|Thu, 16 Mar 2023 23:09:28 +0100
+1364352c32a625e17a9ae4848faa594d6128837c|simulators/eth2/common: upgrade engine-proxy|Thu, 16 Mar 2023 23:04:10 +0100|Thu, 16 Mar 2023 23:04:10 +0100
+8f4fe9a6dceefb9d011bc6c69e43506b078ba650|simulators/eth2/testnet: upgrade common module|Thu, 16 Mar 2023 22:58:07 +0100|Thu, 16 Mar 2023 22:58:07 +0100
+9a40507bab08331f878f9f1724f4351d0237980b|simulators/eth2/engine: upgrade eth2api|Thu, 16 Mar 2023 22:57:11 +0100|Thu, 16 Mar 2023 22:57:11 +0100
+7565b8879d02637f033eb5ff004349a0f1f765e2|simulators/eth2/withdrawals: remove outdated module replacements|Thu, 16 Mar 2023 22:55:32 +0100|Thu, 16 Mar 2023 22:56:00 +0100
+b3093b2c9870463ab76a52629ede66eca694bd63|simulators/eth2/common: update to capella-enabled eth2api version|Thu, 16 Mar 2023 22:50:42 +0100|Thu, 16 Mar 2023 22:50:42 +0100
+f024fcc4d301d0012f3737bdcc63f105b7858691|simulators/ethereum/pyspec: update doc comments|Thu, 16 Mar 2023 14:18:15 +0100|Thu, 16 Mar 2023 14:18:15 +0100
+1ec49b35c4cbe853fe28878c8d5a343eab6c1b46|simulators/ethereum/pyspec: fix build|Thu, 16 Mar 2023 14:07:52 +0100|Thu, 16 Mar 2023 14:07:52 +0100
+7d35d478f4a5d389ef96895b3e5cbb337d1dac65|simulators/ethereum/pyspec: Add simulator for python spec tests (ethereum/exec-spec-tests) (#732)|Wed, 15 Mar 2023 17:35:52 -0600|Wed, 15 Mar 2023 17:35:52 -0600
+a189847f8980a2bfb9588057f6982830defb937d|clients/go-ethereum: update Dockerfile for building from source (#745)|Wed, 15 Mar 2023 16:35:11 +0100|Wed, 15 Mar 2023 16:35:11 +0100
+a10214591a3348ef7d2f9772dcb6639ef03305e2|simulators/ethereum/engine: upgrade dependencies (#742)|Wed, 15 Mar 2023 14:21:55 +0100|Wed, 15 Mar 2023 14:21:55 +0100
+ab1f95a4caa487b10b06c3a14e3945d524c13be5|simulators/eth2: upgrade dependencies (#743)|Tue, 14 Mar 2023 18:09:53 +0100|Tue, 14 Mar 2023 18:09:53 +0100
+f1727728aede5b6368fc6745ff8a3d2650c28b69|simulators/issues: remove outdated geth issue test|Tue, 14 Mar 2023 14:13:37 +0100|Tue, 14 Mar 2023 14:13:37 +0100
+7447991dcaf2fe1fbe219d13b665cea7400dd49d|simulators/ethereum/rpc-compat: upgrade dependencies|Tue, 14 Mar 2023 10:57:09 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+02de90624cd4f2b47f6a21b568f2f0b72f4538e6|simulators/ethereum/consensus: upgrade dependencies|Tue, 14 Mar 2023 10:44:24 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+90461d7091797b81f6637d3e92e5d49eadb85904|simulators/ethereum/graphql: upgrade dependencies|Tue, 14 Mar 2023 10:43:28 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+9d2ae75b53236c23360192243277015d34c91301|simulators/ethereum/sync: upgrade dependencies|Tue, 14 Mar 2023 10:43:10 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+73f896a93c025ffedc9b3142f568e7ea507efcee|simulators/ethereum/rpc: upgrade dependencies|Tue, 14 Mar 2023 10:42:54 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+616d28cc6dad1da8f785a6da6b73e9be659e433c|simulators/smoke: upgrade dependencies|Tue, 14 Mar 2023 10:41:16 +0100|Tue, 14 Mar 2023 13:01:49 +0100
+8749e8b3b50d4965a840843756e6d3b0ab84cd25|simulators/devp2p: upgrade dependencies|Tue, 14 Mar 2023 10:38:11 +0100|Tue, 14 Mar 2023 13:01:44 +0100
+8e3200bfc09e1a34d66712611073f7119ed1f6da|go.mod: bump hiveproxy version to latest|Mon, 13 Mar 2023 15:13:39 +0100|Mon, 13 Mar 2023 15:13:39 +0100
+c7dfe88c81381b4e7e11464ebd86445d179ac2aa|go.mod: upgrade to go-ethereum v1.11.4|Mon, 13 Mar 2023 11:17:25 +0100|Mon, 13 Mar 2023 11:18:45 +0100
+558d4fe48fc7290bdafa4c67f215ed607251bd40|README.md: rpc tests are now run on hive2 (#740)|Fri, 10 Mar 2023 11:30:39 +1000|Fri, 10 Mar 2023 02:30:39 +0100
+d7cb48a5d3246d2b1fd8e6c018126b6a196ae26f|simulators/eth2/withdrawals: Withdrawals Tests Fixes (#736)|Thu, 2 Mar 2023 05:15:37 -0600|Thu, 2 Mar 2023 12:15:37 +0100
+500bcd1425d8687a13d81692da74427d585f9cb2|cmd/hiveview: enable some more useful eslint rules|Wed, 1 Mar 2023 11:32:33 +0100|Wed, 1 Mar 2023 11:38:23 +0100
+b5f0ee97f195199b8dfb28cc97fd2bbe427248e4|cmd/hiveview: library code cleanup (#734)|Tue, 28 Feb 2023 14:30:21 +0100|Tue, 28 Feb 2023 14:30:21 +0100
+22afd9f807f777e97917f9b55ee5ac8197da2b91|Merge pull request #715 from marioevz/add-builder-tests-to-eth2|Tue, 28 Feb 2023 11:30:30 +0100|Tue, 28 Feb 2023 11:30:30 +0100
+5782437aafedfad19e5d6ab8fd2ab3a47790ee3f|simulators/eth2/withdrawals: add builder tests|Mon, 27 Feb 2023 13:22:44 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+ee7407b3a171a23a2e866472c20283757256883c|simulators/eth2/common: beacon: count filled slots|Mon, 27 Feb 2023 13:21:51 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+e6cd34f266e474ae5af36fe082ee0594fe60bcc5|simulators/eth2/common: add mock builder|Mon, 27 Feb 2023 13:21:26 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+f64da884b966f083cafe03b1d2ec3b6b090415ac|simulators/eth2/common: beacon client refactor|Mon, 27 Feb 2023 13:19:31 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+951354e55433d5eb0b8db71b284840905a3037df|simulators/eth2/common: execution client fixes|Mon, 27 Feb 2023 13:14:33 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+d89a14ee45624a6b08fc03f8e8e1b99bbb3d3e22|simulators/eth2/common: execution proxy track fcu|Mon, 27 Feb 2023 13:13:03 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+96e10163667e3ae5830a6a0e5b3d512c52c736af|simulators/eth2/common: fix capella on epoch 2+|Mon, 27 Feb 2023 13:08:26 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+aa0197f1461d051e7649b57ac210ed41fffd54e9|simulators/eth2/common: Allow genesis funded accounts|Mon, 27 Feb 2023 13:07:09 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+b6557ed9a5705b3b9df4547b3b55c21bccf71373|clients/teku-bn,vc: Add builder options|Mon, 27 Feb 2023 12:55:24 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+51ff2dfddd8d41a747c25e5c482a4a1b78888758|clients/prysm-bn,vc: Add builder options|Mon, 27 Feb 2023 12:55:04 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+e0a93b5768161e3513c482b1410dc3eabdb7d279|clients/nimbus-bn,vc: Add builder options|Mon, 27 Feb 2023 12:54:53 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+af975fbe528aa1830b5fe71a8f943bd9d205962a|clients/lodestar-bn,vc: Add builder options|Mon, 27 Feb 2023 12:54:38 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+e4c1d794cf19ca1e3df67c6b2f42d6d2987a7de9|clients/lighthouse-bn,vc: Add builder options|Mon, 27 Feb 2023 12:54:26 -0600|Mon, 27 Feb 2023 13:23:34 -0600
+e808ab73c768c2003f5a6138fa528e01ef8e38d3|cmd/hiveview: change build log message|Mon, 27 Feb 2023 10:25:10 +0100|Mon, 27 Feb 2023 10:25:10 +0100
+cbb4ebb3f69cd4160ebe263fe33a0e2eed72f336|cmd/hiveview: disable rebuild when using embedded assets|Sun, 26 Feb 2023 22:13:24 +0100|Sun, 26 Feb 2023 22:13:24 +0100
+35957fd31ca4377bac3bc17e06f43bd64f9d6186|cmd/hiveview: clean up jQuery module wrapper|Sun, 26 Feb 2023 12:24:36 +0100|Sun, 26 Feb 2023 12:24:36 +0100
+f9d8d261cdd8c5de7765d7dc98383c04aed6fdf7|cmd/hiveview: convert tabs to spaces|Sun, 26 Feb 2023 11:51:05 +0100|Sun, 26 Feb 2023 11:51:05 +0100
+ebc214da68b9fa561ae0d1f17a102358f9730498|simulators/eth2/common,withdrawals: Update `eth2api` to fix some clients on bls-to-exec-changes tests (#714)|Thu, 23 Feb 2023 14:25:04 -0600|Thu, 23 Feb 2023 14:25:04 -0600
+d7456b68b453d72ac16b8d822dc3e3adb54b6df4|simulators/eth2/common: Add option to log all engine api calls (#707)|Thu, 23 Feb 2023 14:21:51 -0600|Thu, 23 Feb 2023 14:21:51 -0600
+538ca9d6486e80397681ecd875ae4a21c95e21e0|clients/lodestar-bn: Fix Log Level (#731)|Thu, 23 Feb 2023 11:11:30 -0600|Thu, 23 Feb 2023 11:11:30 -0600
+0ddc0b80e9704bdb969d76695153a8a21276ac85|clients/besu: fix clique mining (#730)|Thu, 23 Feb 2023 22:48:33 +1100|Thu, 23 Feb 2023 12:48:33 +0100
+3ae553b6b5db561196a52da98df13678c34c77d3|clients/ethereumjs: add support for loading chain.rlp (#729)|Tue, 21 Feb 2023 08:56:04 -0500|Tue, 21 Feb 2023 14:56:04 +0100
+f62c7f87839224e428799b13a50e0f3fef022be7|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/sync (#728)|Mon, 20 Feb 2023 03:53:54 -0500|Mon, 20 Feb 2023 03:53:54 -0500
+b0fc9f6a22198a39d8c9d23154fb873d62659ebf|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/smoke/genesis (#727)|Mon, 20 Feb 2023 03:53:42 -0500|Mon, 20 Feb 2023 03:53:42 -0500
+6e5d9ae36c42bb8abc6ec5969e5a2197c38d4141|build(deps): bump github.com/containerd/containerd from 1.6.6 to 1.6.18 (#716)|Mon, 20 Feb 2023 02:57:48 -0500|Mon, 20 Feb 2023 02:57:48 -0500
+302026c2bbe3835ec224a2d8ca353ef5b1794229|bump golang.org/x/net from 0.5.0 to 0.7.0 (#724)|Mon, 20 Feb 2023 02:54:36 -0500|Mon, 20 Feb 2023 02:54:36 -0500
+bee230930be6c0a282e61a769da5c3cb4d8847db|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/devp2p (#723)|Mon, 20 Feb 2023 02:54:03 -0500|Mon, 20 Feb 2023 02:54:03 -0500
+17412d152199a646b37733344cecb4dde7acd4ae|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/rpc-compat (#722)|Mon, 20 Feb 2023 02:53:48 -0500|Mon, 20 Feb 2023 02:53:48 -0500
+38e81711baf3770981e1b6e0a685afeb6887e6e0|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/engine (#726)|Mon, 20 Feb 2023 02:53:33 -0500|Mon, 20 Feb 2023 02:53:33 -0500
+ded471d42a6f3bf723687e8b8d754f2b35b38e68|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/smoke/clique (#725)|Mon, 20 Feb 2023 02:53:14 -0500|Mon, 20 Feb 2023 02:53:14 -0500
+1ba2d85e2044f824a5fe17a350c8bbb517bdbb9f|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/consensus (#721)|Mon, 20 Feb 2023 02:52:46 -0500|Mon, 20 Feb 2023 02:52:46 -0500
+54ea217fa0f5016faa2ba51548b550b66d016b23|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/rpc (#720)|Mon, 20 Feb 2023 02:52:33 -0500|Mon, 20 Feb 2023 02:52:33 -0500
+5cba0654bddaf45e387575949371b1b5af3da8d1|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/smoke/network (#719)|Mon, 20 Feb 2023 02:52:17 -0500|Mon, 20 Feb 2023 02:52:17 -0500
+4c3aaef92a41d9ab6f8b098d6cf698ae4f41d214|build(deps): bump golang.org/x/net from 0.4.0 to 0.7.0 in /simulators/ethereum/graphql (#718)|Mon, 20 Feb 2023 02:46:14 -0500|Mon, 20 Feb 2023 02:46:14 -0500
+1f978cb8da896cbf2badd5d95c2cd94a1fb1af1a|simulators/ethereum/engine: send test transactions in batch (#713)|Wed, 15 Feb 2023 06:02:05 -0600|Wed, 15 Feb 2023 13:02:05 +0100
+ee0ba53ae8380be1be54a223e370698642c6ee97|simulators/eth2/common,withdrawals: Verify Engine API Calls from Beacon Client (#712)|Tue, 14 Feb 2023 10:22:55 -0600|Tue, 14 Feb 2023 10:22:55 -0600
+dc764469ee4322c897b5c9f69da89cdf08f7721a|simulators/ethereum/engine: test using getPayloadBodiesByRange/Hash after client sync (#709)|Thu, 9 Feb 2023 09:57:40 -0600|Thu, 9 Feb 2023 16:57:40 +0100
+07bb8ffb35cb297157fd0d97bcad7999b78977e0|cmd/hiveview: link to history instead of diff in header|Thu, 9 Feb 2023 16:56:41 +0100|Thu, 9 Feb 2023 16:56:41 +0100
+3e8b7be2756313574fa80ff93b3677049c3d5254|cmd/hiveview: fix file name in error messages|Thu, 9 Feb 2023 16:31:10 +0100|Thu, 9 Feb 2023 16:31:10 +0100
+47c4304f61a7c20a66886d9a12803dd58e181366|cmd/hiveview: enable sourcemaps in bundle output|Thu, 9 Feb 2023 16:09:04 +0100|Thu, 9 Feb 2023 16:09:37 +0100
+ececcea2737b9c36a100f399e18eaa11be6ae518|cmd/hiveview: disable caching for hive.json fetch|Thu, 9 Feb 2023 13:29:53 +0100|Thu, 9 Feb 2023 13:29:53 +0100
+a63a6631c46b7286cddeb4caf189c8f04e12fa53|cmd/hiveview: improve esbuild setup (#710)|Thu, 9 Feb 2023 13:15:37 +0100|Thu, 9 Feb 2023 13:15:37 +0100
+870853a8f6b6078e78cd924a5383d56bf29d2372|cmd/hiveview: remove arrow in test table header|Wed, 8 Feb 2023 21:07:59 +0100|Wed, 8 Feb 2023 21:07:59 +0100
+0716d918acf406ec60dc690769a72728d0b19514|cmd/hiveview: JS/CSS bundling with esbuild (#708)|Wed, 8 Feb 2023 20:55:33 +0100|Wed, 8 Feb 2023 20:55:33 +0100
+2de942f05cd7cef823845a4c062c96326d2bf9f3|clients/nimbus: clean Dockerfile, accept branch arg (#704)|Tue, 7 Feb 2023 09:32:37 -0600|Tue, 7 Feb 2023 09:32:37 -0600
+33224abcaa026051ebf2762ca6cd328e859cf725|cmd/hiveview: UI improvements (#705)|Tue, 7 Feb 2023 00:50:36 +0100|Tue, 7 Feb 2023 00:50:36 +0100
+603391a445e0b8d56dbb253a13bf8c6d769b3e5e|docs: remove accidental \|Mon, 6 Feb 2023 17:36:50 +0100|Mon, 6 Feb 2023 17:36:50 +0100
+bf45c94ff706c21f0b4f15e5636c123e5b9a995e|docs: add info about ethereum/engine simulator|Mon, 6 Feb 2023 17:35:50 +0100|Mon, 6 Feb 2023 17:36:22 +0100
+e4ef5d92026dc4a968d6eaa5c8a5c6129d4bd77d|README.md: update description of hivetests2 server|Mon, 6 Feb 2023 17:20:09 +0100|Mon, 6 Feb 2023 17:36:22 +0100
+97d9b7ba95663a6d67d76ce65b4d97e950a0b07b|simulators/ethereum/engine: increase tests coverage (#700)|Mon, 6 Feb 2023 10:13:27 -0600|Mon, 6 Feb 2023 17:13:27 +0100
+84c255de7e061cdc6424844f5d0168e5708cb1f0|cmd/hiveview: hide client list in details box when test has no clients|Mon, 6 Feb 2023 17:11:43 +0100|Mon, 6 Feb 2023 17:12:27 +0100
+97557e8eafc9c8c02601fb4cc4ff168440ccd989|cmd/hiveview: skip hive.json|Mon, 6 Feb 2023 15:57:58 +0100|Mon, 6 Feb 2023 15:57:58 +0100
+cbbe48fa530c4b0e308e65cb3345cc1f1cdaec8d|cmd/hiveview: print listing generator errors in -serve mode|Mon, 6 Feb 2023 15:33:12 +0100|Mon, 6 Feb 2023 15:33:12 +0100
+be7242366388d3e0202fedae8023bdb2ee618d47|cmd/hiveview: fixing more stuff in the UI (#702)|Thu, 2 Feb 2023 23:25:36 +0100|Thu, 2 Feb 2023 23:25:36 +0100
+52fbfc3c5f1ebdb7653cf1af1c9397fba2751d5c|cmd/hiveview: small UI improvements (#701)|Thu, 2 Feb 2023 14:44:39 +0100|Thu, 2 Feb 2023 14:44:39 +0100
+7068ab4d24f6878ba59f24d440c5973bf99bcd2e|simulators/ethereum/engine: tests for getPayloadBodies*, exchangeCapabilities (#698)|Thu, 2 Feb 2023 07:42:18 -0600|Thu, 2 Feb 2023 14:42:18 +0100
+fa8d62ce2926983636583345bcf79c1299ce8ed2| simulators/ethereum/engine: INVALID_BLOCK_HASH is deprecated in Shanghai (#699)|Wed, 1 Feb 2023 18:55:10 +0100|Wed, 1 Feb 2023 11:55:10 -0600
+01175e036657d9342b5757c7ca40a7836df0a8a1|cmd/hiveview: responsive layout for table views (#697)|Wed, 1 Feb 2023 17:35:56 +0100|Wed, 1 Feb 2023 17:35:56 +0100
+b8fc30bd98f2d3f67c05c844d35b364a19e39f8e|simulators/ethereum/graphql: align tests with current spec (#692)|Sat, 28 Jan 2023 22:53:44 +0100|Sat, 28 Jan 2023 22:53:44 +0100
+54737f0638bf6a2e51ef5fd418e5940cd16974e8|cmd/hiveview: fix hourglass in Safari|Sat, 28 Jan 2023 21:26:49 +0000|Sat, 28 Jan 2023 21:26:49 +0000
+63dee0806fe84bd176944a65872f4ad48324c429|simulators/ethereum/consensus: update for Shanghai|Sat, 28 Jan 2023 21:07:20 +0000|Sat, 28 Jan 2023 21:07:54 +0000
+88640e03b23b6fe156b455f2dcc9ef6612914041|cmd/hiveview: viewer app update (#696)|Sat, 28 Jan 2023 21:50:11 +0100|Sat, 28 Jan 2023 21:50:11 +0100
+380c6c9c19c255ddf208b23fafd5f16bcd7f4140|simulators/eth2: support 12 second slots, add test for large withdrawal amounts, more fixes (#694)|Fri, 27 Jan 2023 03:47:27 -0600|Fri, 27 Jan 2023 10:47:27 +0100
+e4b8623f8303f42bff05cb4e4bd547f4c506d71c|clients/nimbus: fix nimbus (#693)|Fri, 27 Jan 2023 03:46:32 -0600|Fri, 27 Jan 2023 10:46:32 +0100
+d8dfa0ddd8a64e897eae66f74235ea472ec4bf7a|simulators/ethereum/engine: Remove PoW config from withdrawals (#691)|Wed, 25 Jan 2023 07:30:33 -0600|Wed, 25 Jan 2023 07:30:33 -0600
+7184544a3dad88dea1ef14eddc35a53a8104a711|simulators/eth2/withdrawals: handle missed slots in test (#690)|Wed, 25 Jan 2023 05:08:53 -0600|Wed, 25 Jan 2023 12:08:53 +0100
+6295612d92ab5df691ea76818b62e40a1a9afbe7|hivesim: make test matching case insensitive (#689)|Wed, 25 Jan 2023 10:18:45 +0100|Wed, 25 Jan 2023 10:18:45 +0100
+289b8f39eb80f015bce0268c1ccfe4b14dd41332|clients/nethermind: use terminal block hash/number in config (#687)|Wed, 25 Jan 2023 03:01:13 -0600|Wed, 25 Jan 2023 10:01:13 +0100
+ef7bb9c158bfcf3a4b2a3c7730f2cda4d209f3a7|simulators/eth2/withdrawals: check exact partial withdrawn balance expected (#685)|Tue, 24 Jan 2023 10:59:42 -0600|Tue, 24 Jan 2023 17:59:42 +0100
+abdaeff2694c9d7cf2efb01df432e4babad6f750|clients/nethermind: add shanghai EIPs to mapper (#686)|Tue, 24 Jan 2023 09:59:31 -0600|Tue, 24 Jan 2023 16:59:31 +0100
+415d855cd30bfc864c76da3c6ec59b45cf958013|simulators/eth2/common: handle client branch when getting validator name|Tue, 24 Jan 2023 13:01:10 +0000|Tue, 24 Jan 2023 13:01:10 +0000
+9a6033be03203105b2fe7b3824770f2cd423f6bb|README.md, docs: fix typos in documentation (#683)|Tue, 24 Jan 2023 13:21:22 +0100|Tue, 24 Jan 2023 13:21:22 +0100
+ce0da5be30ef342283252ecaa40858cb7cbe54ae|simulators/ethereum/engine: set HIVE_MERGE_BLOCK_ID before shanghai fork (#684)|Tue, 24 Jan 2023 13:20:43 +0100|Tue, 24 Jan 2023 13:20:43 +0100
+3ffb4eea81c495646091c3aaff3b7117e2926707|simulators/eth2: go mod tidy|Tue, 24 Jan 2023 12:05:41 +0100|Tue, 24 Jan 2023 12:05:41 +0100
+8862124f8f3967d111093f0a54258f2a159d13a7|simulators/eth2/engine: clean up go.mod|Tue, 24 Jan 2023 12:05:30 +0100|Tue, 24 Jan 2023 12:05:30 +0100
+a49efd50ec355116b36cd6974fc49141f904e7ce|simulators/eth2/testnet: clean up go.mod|Tue, 24 Jan 2023 12:05:19 +0100|Tue, 24 Jan 2023 12:05:19 +0100
+316abeabe7b7a02941a86de11d7e7fb72027d357|simulators/eth2/withdrawals: clean up go.mod|Tue, 24 Jan 2023 12:05:04 +0100|Tue, 24 Jan 2023 12:05:04 +0100
+5b561920e19b434e712ab396d867175b16e62162|simulators/eth2/common: avoid <nil> value for HIVE_SHANGHAI_TIMESTAMP|Tue, 24 Jan 2023 09:44:04 +0000|Tue, 24 Jan 2023 09:44:04 +0000
+a3a455ae4eaa6f2fd002edb531d8a7a23b2a1c6b|simulators/eth2/withdrawals: rename suite|Mon, 23 Jan 2023 23:43:01 +0000|Mon, 23 Jan 2023 23:43:01 +0000
+2c75c1a5b32657bc1a6529c772b06fec1b9b7a34|clients/lodestar: new beacon node and validator client definition (#680)|Mon, 23 Jan 2023 17:18:15 -0600|Tue, 24 Jan 2023 00:18:15 +0100
+f15fbd4338063c95b28077f95db111b15243334f|simulators/eth2: add common library and tests for withdrawals (#681)|Mon, 23 Jan 2023 19:13:22 +0100|Mon, 23 Jan 2023 19:13:22 +0100
+104c1851ce7890a605de2b9123835074d7c14ff3|clients/besu: add Shanghai fork and fix issue with duplicated node keys (#674)|Tue, 24 Jan 2023 02:08:50 +1100|Mon, 23 Jan 2023 15:14:23 +0000
+4fcdc0d85be67982136bac5a5e740f8ab7ce37d6|clients/ethereumjs: fix build and add Shanghai fork configuration (#679)|Mon, 23 Jan 2023 09:10:57 -0600|Mon, 23 Jan 2023 16:10:57 +0100
+3fd0a5d89fb8664f3b8f291a55ceaa185e697970|simulators/ethereum/engine: fix nil pointer exception (#678)|Mon, 23 Jan 2023 09:05:47 -0600|Mon, 23 Jan 2023 16:05:47 +0100
+108450632418738088c26decbc3b46e84e67c226|clients/erigon: add Shanghai fork timestamp|Mon, 23 Jan 2023 14:45:31 +0000|Mon, 23 Jan 2023 14:45:31 +0000
+3e7d20c989d54a0738cc4f5a2fdd3f206f806da2|clients/go-ethereum: add Shanghai for timestamp|Mon, 23 Jan 2023 14:45:20 +0000|Mon, 23 Jan 2023 14:45:20 +0000
+e491cf8ef5cec0561b42b56a30b7efc56ea68e34|clients/nethermind: add Shanghai fork timestamp|Mon, 23 Jan 2023 14:45:01 +0000|Mon, 23 Jan 2023 14:45:01 +0000
+e2595c839552ef340940f82de36096e6f36225f9|simulators/ethereum/engine: adding tests for Shanghai (#676)|Mon, 23 Jan 2023 15:37:48 +0100|Mon, 23 Jan 2023 15:37:48 +0100
+c2b81df34ec950721278cf813be797b0bdcadb96|go.work: disable top-level go.work by default|Mon, 23 Jan 2023 14:04:02 +0000|Mon, 23 Jan 2023 14:27:44 +0000
+a4b0ccd8643b2ac8d310ab9dadeb18914ce6f3a0|test.sh: fix typo (#670)|Thu, 12 Jan 2023 23:05:50 +0100|Thu, 12 Jan 2023 23:05:50 +0100
+8071a3e8769b1adee37f47469c3d458e81f6bbc8|clients/besu: update config to address rpc and send-legacy-transaction rpc-compat failure (#661)|Tue, 3 Jan 2023 23:00:53 +1000|Tue, 3 Jan 2023 14:00:53 +0100
+a3428ee7b572748bddc9ce181d165881541e3594|clients/besu: change sync mode to snap sync instead of fast sync (#666)|Tue, 3 Jan 2023 23:55:42 +1100|Tue, 3 Jan 2023 13:55:42 +0100
+2598837f315ee8eade9fc64bc33918f7eaa79055|simulators/ethereum/consensus: Fix Consensus Tests (#668)|Mon, 19 Dec 2022 10:06:06 -0600|Mon, 19 Dec 2022 10:06:06 -0600
+bfabd993ae7bcb1fce2904b1311fc586a7d6a173|internal/libdocker: add optional registry authentication in builder (#662)|Wed, 14 Dec 2022 10:25:36 -0500|Wed, 14 Dec 2022 16:25:36 +0100
+8828b4ffb184f4359ee50cc6cc253a19e0828ec4|all: Go workspace support and dependency sync (#664)|Tue, 13 Dec 2022 13:31:20 +0100|Tue, 13 Dec 2022 13:31:20 +0100
+f0f647240e9bfb24d0658ad88005faeafdf53008|internal/libhive: fix assignment to entry in nil map bug (#660)|Wed, 23 Nov 2022 20:05:04 +0200|Wed, 23 Nov 2022 19:05:04 +0100
+53be3f712d23c7f56a4865848b73230341ed4fce|simulators/eth2/engine: Fix Test Issues (#652)|Thu, 17 Nov 2022 13:52:11 -0600|Thu, 17 Nov 2022 13:52:11 -0600
+d6418f254891696665f9206c6b64a0833ee177d1|Added debug module in enabled modules (#650)|Wed, 16 Nov 2022 09:06:29 +0100|Wed, 16 Nov 2022 09:06:29 +0100
+3bca741dc8de076c855bc71072068f37de61a820|clients/teku: Subscribe to all subnets (#653)|Wed, 16 Nov 2022 12:04:15 +0400|Wed, 16 Nov 2022 09:04:15 +0100
+94f833df1b761411f082218f94415e34757a5e4b|clients/erigon: Add externalcl flag (#658)|Tue, 15 Nov 2022 18:50:34 +0100|Tue, 15 Nov 2022 11:50:34 -0600
+473d051e991a4712b9ff582e147ecd6e5a6a01fc|Merge validation 2 (#656)|Fri, 28 Oct 2022 15:00:25 +0200|Fri, 28 Oct 2022 15:00:25 +0200
+d26c5eac4dab24ca92d8081982b308443e725717|simulators/ethereum/consensus: add merge ruleset (#655)|Fri, 28 Oct 2022 14:44:22 +0200|Fri, 28 Oct 2022 14:44:22 +0200
+0b0609b19abca02b70a6cea007d068d580c02353|clients/erigon: Upgrade verbosity flag (#654)|Tue, 25 Oct 2022 15:37:30 +0200|Tue, 25 Oct 2022 15:37:30 +0200
+cc43401b883dd5204f6dcdbdd956d865203a0a07|simulator/ethereum/engine: Fix Transaction Already Known Issue (#634)|Fri, 23 Sep 2022 03:52:13 -0500|Fri, 23 Sep 2022 10:52:13 +0200
+e2eee1235b9899de6471540ca9c5c8c94a9ab03b|clients/prysm-bn: Add enable-debug-rpc-endpoints (#651)|Fri, 9 Sep 2022 11:30:36 -0500|Fri, 9 Sep 2022 11:30:36 -0500
+266e270245b7edd57c8ef937d914821f4511f006|simulators/eth2/engine: Timeouts test (#643)|Wed, 7 Sep 2022 11:27:40 -0500|Wed, 7 Sep 2022 11:27:40 -0500
+0a3f16364d5ef1a434299567db8966998153cc7c|simulators/eth2/testnet,engine: Fix Nodetype (#649)|Wed, 7 Sep 2022 11:26:44 -0500|Wed, 7 Sep 2022 11:26:44 -0500
+f75003c0019bd1e157bbc2c2ab61cfba99786d15|simulators/eth2: Add bn multiaddrs in $HIVE_ETH2_STATIC_PEERS (#641)|Thu, 1 Sep 2022 22:26:22 +0400|Thu, 1 Sep 2022 13:26:22 -0500
+619a7ddf715f9e6071b00865e7176019c1967aff|simulators/eth2/engine: Fix Execution Finality Verification (#646)|Thu, 1 Sep 2022 10:10:25 -0500|Thu, 1 Sep 2022 10:10:25 -0500
+230c1d51a1f30b908244f8120ab0eb156bcf49a4|simulators: use full sync for engine tests, default to snap sync (#644)|Wed, 31 Aug 2022 11:44:43 +0200|Wed, 31 Aug 2022 11:44:43 +0200
+1c2fea53c8b5791eaefbcdc3afb34b4c193c0598|simulators/eth2/engine: Fix Optimistic Sync Tests + Refactor Allow Client Restarts + No Viable Head Test Case (#637)|Fri, 19 Aug 2022 18:11:14 -0500|Fri, 19 Aug 2022 18:11:14 -0500
+f3d0a2d4761390f1c0f93d6f858cdb706fe74ed7|simulators/ethereum/engine: Syncing on an Invalid Terminal Block (Invalid Execution) (#638)|Fri, 19 Aug 2022 15:42:34 -0500|Fri, 19 Aug 2022 15:42:34 -0500
+fffdc51fd98a6d33854af060942919a90d3ead66|clients/prysm-bn: Update Execution Endpoint Parameter (#639)|Fri, 19 Aug 2022 13:05:08 -0500|Fri, 19 Aug 2022 13:05:08 -0500
+1d75f5d6c3dd560397daadc282d43640eebcbcb1|clients/lighthouse-bn: Add Optimistic Sync Options + Trusted Peers with Static Keys (#604)|Thu, 18 Aug 2022 13:17:21 -0500|Thu, 18 Aug 2022 13:17:21 -0500
+3bd052331743a20a31530039677f4a61d3c2c5ce|simulators/ethereum/rpc-compat: add documentation (#635)|Thu, 18 Aug 2022 05:24:26 -0600|Thu, 18 Aug 2022 13:24:26 +0200
+ddfea13afb2471bdf63714ce551be3e88b0748c4|simulators/ethereum/engine: Randomize Coinbase on Mined Terminal Blocks (#633)|Sun, 14 Aug 2022 17:49:25 -0500|Sun, 14 Aug 2022 17:49:25 -0500
+48723fa9acb309bd16edaab6dee77bbe3ac0e507|simulators/ethereum/engine: Remaining Tests for Execution Client (#627)|Thu, 11 Aug 2022 08:23:00 -0500|Thu, 11 Aug 2022 08:23:00 -0500
+7c6914c46fdd2ddf84c0fe68cbd24fa2bc8c1d25|simulators/ethereum/engine: Fix wrong TD calculation (#629)|Mon, 8 Aug 2022 15:08:42 +0100|Mon, 8 Aug 2022 09:08:42 -0500
+70913f3b07f473446ca5b4f88e9d843deaec7c52|simulators/ethereum/engine: Fix running tests with multiple sync modes (#628)|Mon, 8 Aug 2022 15:05:03 +0100|Mon, 8 Aug 2022 09:05:03 -0500
+308188b809aa590e51e761b0b0f532fe01186f9b|simulators/ethereum/engine: Invalid Terminal Block due to Invalid Execution Tests (#626)|Fri, 5 Aug 2022 16:56:58 -0500|Fri, 5 Aug 2022 16:56:58 -0500
+4500c1ee28133a8090d126da789d13e11b7ef3f0|simulators/ethereum/engine: Send `newPayload` again on sync test (#625)|Tue, 2 Aug 2022 21:02:16 -0500|Tue, 2 Aug 2022 21:02:16 -0500
+93bce1c9fbc2354da41ef2ed9cad2a66e6bf8fed|simulators/ethereum/engine: Fix Gossip Test Verification (#622)|Tue, 2 Aug 2022 20:20:11 -0500|Tue, 2 Aug 2022 20:20:11 -0500
+9be62134ff01c00ee53636147b990b0807b93bf7|clients/erigon: Flag engine.addr was renamed to authrpc.addr (#624)|Tue, 2 Aug 2022 16:00:19 +0200|Tue, 2 Aug 2022 09:00:19 -0500
+def5395c110467e49eb60ba64acdc280bb45db25|simulators/ethereum/engine: Do not set finalized blockhash on invalid missing ancestor reorg via sync test (#621)|Mon, 1 Aug 2022 16:33:50 +0100|Mon, 1 Aug 2022 10:33:50 -0500
+ba069a83afb550ee4ff992c0597e1d5c359d5f34|simulators/ethereum/engine: Major Refactoring, Gossip Test Cases (#613)|Sun, 31 Jul 2022 20:52:31 -0500|Sun, 31 Jul 2022 20:52:31 -0500
+02ad57aaf9c1683170e4192753348bb46415381e|simulators/ethereum/engine: Change Suite Names (#620)|Wed, 27 Jul 2022 07:12:16 -0500|Wed, 27 Jul 2022 14:12:16 +0200
+19cb1f8cc162d0ae6dee27024dc7a225d82d8084|clients/nimbus-el: add jwtsecret command line option (#618)|Tue, 26 Jul 2022 17:15:44 +0700|Tue, 26 Jul 2022 12:15:44 +0200
+e72dce126d9fb60d5670557c2c4025e595ee98da|simulators/ethereum/engine: Fix Sync Tests (#619)|Mon, 25 Jul 2022 15:15:17 -0500|Mon, 25 Jul 2022 15:15:17 -0500
+38868077527a9a536b71ebfac95b5e0a153eb5a6|simulators/ethereum/engine: Add 1559 Transaction Creation to Tests (#616)|Mon, 25 Jul 2022 12:24:45 -0500|Mon, 25 Jul 2022 12:24:45 -0500
+5b177effef98c801c91ec164a2f80672a2fd3237|simulators/ethereum/engine: Update/Verify LatestValidHash in more tests (#615)|Mon, 25 Jul 2022 12:23:40 -0500|Mon, 25 Jul 2022 12:23:40 -0500
+37dba6e03f13f9af7bd37bffe85578e3b7e79acf|simulators/ethereum/engine: Update Max Drift Seconds to Spec (#614)|Mon, 25 Jul 2022 12:21:47 -0500|Mon, 25 Jul 2022 12:21:47 -0500
+bd6d03c270beaeee419d477503442aab318afae7|clients/nethermind, clients/go-ethereum, simulators/ethereum/engine: Enhance Post-Merge Sync Tests (#590)|Mon, 25 Jul 2022 11:34:30 -0500|Mon, 25 Jul 2022 11:34:30 -0500
+41a14a69f6d11aed02dd6e62051096d6369ed2e6|simulators/eth2/testnet: Retry finality checkpoint query with different API method (#587)|Mon, 25 Jul 2022 19:49:58 +0400|Mon, 25 Jul 2022 10:49:58 -0500
+a0732aba4ee9a6c41cc3b6819c44a56733778c2b|clients/nethermind: Add `--sim.loglevel` Support for Nethermind (#617)|Mon, 25 Jul 2022 09:42:00 -0500|Mon, 25 Jul 2022 09:42:00 -0500
+d55cc0dc12a5f8e6cb032a8b1d326982f8610764|simulators/ethereum/engine: Fix time drift auth tests, break tests into separate suites (#612)|Wed, 20 Jul 2022 11:58:07 -0500|Wed, 20 Jul 2022 11:58:07 -0500
+f619b16dc6ff27e64f671678e673e0991afdcd63|simulators/ethereum/engine: Check Engine+RPC port (#611)|Wed, 20 Jul 2022 10:35:29 -0500|Wed, 20 Jul 2022 10:35:29 -0500
+db3e65a0e727e6d9750d4e9a62fed33b8f823250|simulators/eth2/engine: Add CL Merge Transition TERMINAL_TOTAL_DIFFICULTY Tests (#606)|Wed, 20 Jul 2022 08:55:41 -0500|Wed, 20 Jul 2022 08:55:41 -0500
+522e0d837c906771323387fc4fdbe79e20ff5b2a|clients/prysm: Add Prysm Beacon Node and Validator Client  (#581)|Mon, 18 Jul 2022 20:28:32 -0500|Mon, 18 Jul 2022 20:28:32 -0500
+8c16be94f00bd9fd8e8bdb2be6936d997af66f9b|clients/teku-bn: Add SAFE_SLOTS_TO_IMPORT_OPTIMISTICALLY (#605)|Mon, 18 Jul 2022 17:13:51 -0500|Mon, 18 Jul 2022 17:13:51 -0500
+7b9f2301891cd6dcc9f74a6742edd6d85b356097|simulators/ethereum/engine: CL Mock Test Fixes (#608)|Fri, 15 Jul 2022 15:04:59 -0500|Fri, 15 Jul 2022 15:04:59 -0500
+a9ff6756b4c646168e7eae585196713219f3cf9a|clients/lighthouse-bn,clients/lighthouse-vc: add version info (#607)|Fri, 15 Jul 2022 19:16:35 +1000|Fri, 15 Jul 2022 11:16:35 +0200
+cf4fbf93a523e7846581b7d738bfffcc7fefede5|simulators/ethereum/engine: fix Reorg using Sync tests (#560)|Thu, 14 Jul 2022 19:51:35 +0200|Thu, 14 Jul 2022 19:51:35 +0200
+01ce64b0354c5551956a98e817328e0df43d61c7|hive: move simulation runner to internal/libhive (#601)|Mon, 11 Jul 2022 23:07:13 +0200|Mon, 11 Jul 2022 23:07:13 +0200
+22b4631c5122a3df276a4cdb61e769f48004be8e|go.mod: upgrade hiveproxy|Fri, 8 Jul 2022 19:37:56 +0000|Fri, 8 Jul 2022 19:37:56 +0000
+ec524d7345a1029a681fac8423d0aaa3a050e854|hiveproxy, internal/libdocker: proxy setup improvements (#600)|Fri, 8 Jul 2022 21:36:37 +0200|Fri, 8 Jul 2022 21:36:37 +0200
+7f87f682e6b7aa0d0f0863a60caf5077bfc81ab0|internal/libdocker: use gopkg.in/yaml.v3 instead of v2|Fri, 8 Jul 2022 16:43:14 +0200|Fri, 8 Jul 2022 16:43:14 +0200
+7623d3f723dee467c25ec00e5f797f17beeee4b4|go.mod: upgrade to go-dockerclient v1.8.1|Fri, 8 Jul 2022 16:41:01 +0200|Fri, 8 Jul 2022 16:41:01 +0200
+42568341496ee5810570b71db24141ede66b499d|go.mod: upgrade hiveproxy|Fri, 8 Jul 2022 15:02:10 +0200|Fri, 8 Jul 2022 15:02:10 +0200
+ca25cc20cc1991abc8d437ea115474f68c51d28b|hiveproxy: handle errors during connection setup (#599)|Fri, 8 Jul 2022 15:01:23 +0200|Fri, 8 Jul 2022 15:01:23 +0200
+2b7393f2a007e73b07091b1f3d9eb44a36f16651|clients/nimbus, simulators/eth2/testnet: update SECONDS_PER_SLOT to 6 Seconds (#598)|Thu, 7 Jul 2022 14:47:41 -0500|Thu, 7 Jul 2022 21:47:41 +0200
+976d36bc30da90b3ec012a505350639b9da30f23|simulators/eth2/engine: Update engine-proxy/hive, Refactor, Add Test Cases (#569)|Thu, 7 Jul 2022 12:22:48 -0500|Thu, 7 Jul 2022 12:22:48 -0500
+63385eaebdb7001b1a9146a4e442bd976891e84c|clients: remove aleth (#574)|Thu, 7 Jul 2022 11:57:45 -0500|Thu, 7 Jul 2022 18:57:45 +0200
+10b6a4c3d5bc82bd51919b69284d7d55c3e8801c|hive: serve simulation API via proxy container (#545)|Thu, 7 Jul 2022 18:56:52 +0200|Thu, 7 Jul 2022 18:56:52 +0200
+7ef78bf4723fc1199d6b276b30b231394aaae4b9|simulators/ethereum/engine: Increase Invalid Ancestor Timeout (#597)|Thu, 7 Jul 2022 11:21:08 -0500|Thu, 7 Jul 2022 11:21:08 -0500
+0de054dd74057bbbaeff1eb6b25612c30b73fd49|simulators/ethereum/rpc-compat: update chain ID to match tests (#596)|Wed, 6 Jul 2022 16:14:56 -0500|Wed, 6 Jul 2022 23:14:56 +0200
+77d4fa8a4cc28f701f92150935b8e104e44644a1|clients/besu: implement retry mechanism to get enode (#595)|Wed, 6 Jul 2022 20:38:49 +0200|Wed, 6 Jul 2022 13:38:49 -0500
+05023d398e087da3c258170bddc05ca610155a6a|simulators/ethereum/engine: increase invalid ancestor timeout (#592)|Wed, 6 Jul 2022 11:42:00 +0200|Wed, 6 Jul 2022 11:42:00 +0200
+a79be2ade8c2c0030c206dadf13fb39ba7151441|clients/besu: fix elif statement for syncing config (#591)|Tue, 5 Jul 2022 10:24:18 +0200|Tue, 5 Jul 2022 10:24:18 +0200
+33aab586a6f74a2945bd393ccb40d91eba2263e7|clients/nimbus-bn: fix bootstrap nodes option (#589)|Tue, 5 Jul 2022 00:38:40 -0500|Tue, 5 Jul 2022 07:38:40 +0200
+60d48c5ffd9a16326f11ff211225b1046ee024f2|clients/go-ethereum: set syncmode=full by default (#586)|Mon, 4 Jul 2022 17:42:04 +0200|Mon, 4 Jul 2022 17:42:04 +0200
+0a2d22de8c7ac8aa6525e7969316bf0b9c7225ea|simulators/ethereum/rpc-compat: add response diffs (#585)|Fri, 1 Jul 2022 16:20:49 -0600|Sat, 2 Jul 2022 00:20:49 +0200
+4b22dc796d94fbde2d958d7ea569a445d55297c2|clients/besu: update sync mode (#583)|Thu, 30 Jun 2022 13:21:03 +0200|Thu, 30 Jun 2022 13:21:03 +0200
+7152cea8e68123f4c98ed548b3f9d7b55df92cf1|clients/erigon: add -experimental.overlay flag (#582)|Thu, 30 Jun 2022 00:25:17 +0200|Thu, 30 Jun 2022 00:25:17 +0200
+594125f5b14fe0a2feebffb2c5de6f85bf53ecee|simulators/ethereum/engine: Add Re-Org Validated Side Chain Payload Test (#578)|Mon, 27 Jun 2022 11:26:09 -0500|Mon, 27 Jun 2022 18:26:09 +0200
+830c3ddc0f15451bac5069b684417f4b9874d6fa|simulators/ethereum/engine: check transaction blockhash after re-orgs (#580)|Mon, 27 Jun 2022 17:25:44 +0100|Mon, 27 Jun 2022 18:25:44 +0200
+f4157513435d568b808631e32de7641f14e85693|rpc-compat: new RPC test simulator (#572)|Sun, 26 Jun 2022 22:49:45 +0200|Sun, 26 Jun 2022 22:49:45 +0200
+952d931b097a1dd7b72b6aa87803dab3bee23b09|README.md: correct link to non-merge hive instance (#579)|Sat, 25 Jun 2022 14:22:52 -0400|Sat, 25 Jun 2022 20:22:52 +0200
+fefd2b22ac300377deb6d75ca801543eccc06676|clients/nimbus: add nimbus beacon node and validator client (#550)|Fri, 24 Jun 2022 09:12:53 -0500|Fri, 24 Jun 2022 16:12:53 +0200
+be23e71ef0649d2d3eaab0c02dc692b736eae257|clients/teku: add Teku beacon node and validator client (#570)|Tue, 21 Jun 2022 16:20:46 +0100|Tue, 21 Jun 2022 17:20:46 +0200
+87f2d1fcd4372c69ec919e5ac0aff29ea59327d7|cmd/hiveview: add -gc for deleting old test outputs (#564)|Fri, 17 Jun 2022 00:15:14 +0200|Fri, 17 Jun 2022 00:15:14 +0200
+415b06ca4db6930651607a5a3d0e65594416a82a|simulators/ethereum/engine: Fix Finality On Invalid Payload Attributes Test (#567)|Thu, 16 Jun 2022 06:13:39 -0500|Thu, 16 Jun 2022 13:13:39 +0200
+ecc01fe3b99659cbb20928fe1b8bd718232dd37b|simulators/eth2/engine: Implement EL mock to test CLs|Tue, 14 Jun 2022 18:55:36 +0200|Tue, 14 Jun 2022 18:55:36 +0200
+956f42592097941df588604d462e8662b8cdc927|simulators/ethereum/engine: Build After Invalid Payload (#566)|Tue, 14 Jun 2022 04:25:01 -0500|Tue, 14 Jun 2022 11:25:01 +0200
+1ac59b6ce2d4691a2776bf280a3468bc9764c417|simulators/ethereum/engine: allow invalid status after invalid block (#561)|Tue, 7 Jun 2022 11:49:59 +0100|Tue, 7 Jun 2022 12:49:59 +0200
+6a02a55df8092437bed1a04e43c2813fee647bc7|clients/nethermind: add merge support in client configuration (#562)|Tue, 7 Jun 2022 12:12:13 +0200|Tue, 7 Jun 2022 12:12:13 +0200
+d0d0169825fbc4d7ed33c302936fc447ade92d3d|clients/erigon: remove --syncmode (#563)|Tue, 7 Jun 2022 01:05:15 +0200|Tue, 7 Jun 2022 01:05:15 +0200
+e0a73ff7f7d673d1525e8514d575c080ce738c99|simulators/ethereum/engine: add "finalized" / "safe" RPC block checks (#552)|Wed, 1 Jun 2022 09:06:28 -0500|Wed, 1 Jun 2022 16:06:28 +0200
+d9fd5c2ae31fbe3d6853e8606391a4f435525b9d|simulators/ethereum/engine: Re-org to Chain with Invalid Transition (#556)|Wed, 1 Jun 2022 09:04:23 -0500|Wed, 1 Jun 2022 16:04:23 +0200
+d75d2a37e66d1003440072864ea315f9cb1bc4ca|simulators/ethereum/engine: fix Invalid Number NewPayload (Syncing) (#557)|Wed, 1 Jun 2022 16:03:38 +0200|Wed, 1 Jun 2022 16:03:38 +0200
+296db23f42456569e2ac139d4931b3a6ccb86f67|simulators/ethereum/engine: remove finalization from invalid ancestor tests (#555)|Wed, 1 Jun 2022 08:50:10 -0500|Wed, 1 Jun 2022 15:50:10 +0200
+f0e1aa284c53e1930876891e81b0dd1c5d9d9500|simulators/ethereum/engine: newPayload with missing fcu test (#553)|Wed, 1 Jun 2022 08:49:41 -0500|Wed, 1 Jun 2022 15:49:41 +0200
+384c16b1a1b982743201856088f00ec1e0c9a766|simulators/ethereum/engine: transition payload checks (#554)|Wed, 1 Jun 2022 08:49:13 -0500|Wed, 1 Jun 2022 15:49:13 +0200
+c92d5e38b2be82d2550bd80e73885e3b9cfac8df|cmd/hivechain: add -pos option to create PoS-compatible chain (#558)|Wed, 1 Jun 2022 15:47:47 +0200|Wed, 1 Jun 2022 15:47:47 +0200
+f2838a629dcd1a027a260cd10fc84899f89e3ba6|README.md: remove .|Tue, 24 May 2022 00:04:17 +0200|Tue, 24 May 2022 00:04:17 +0200
+1a3f906c3d5ed066dc021dd947b8fc1126c7029d|README.md: add link to hivetests2|Mon, 23 May 2022 23:15:33 +0200|Tue, 24 May 2022 00:03:40 +0200
+32ff59c89c879972f00abe62137a566def81a080|clients/besu: remove --Xmerge-support and --engine-rpc-enabled options (#551)|Mon, 23 May 2022 16:57:26 +0200|Mon, 23 May 2022 16:57:26 +0200
+38d346cfb3400de4691fe056897b5e94846d1f9e|hive: revert simulation API networking changes|Mon, 23 May 2022 10:06:19 +0200|Mon, 23 May 2022 10:06:42 +0200
+5de434754ecbaf01cdd570ce04e64f2fcdc7f54b|.circleci: use go mod tidy -compat=1.17 in upgrade-hivesim.sh|Mon, 23 May 2022 10:01:52 +0200|Mon, 23 May 2022 10:01:52 +0200
+b409c938d9ad4cebfe6616a346c09d823c79cc1d|simulators: upgrade hive dependency in simulators|Mon, 23 May 2022 10:01:11 +0200|Mon, 23 May 2022 10:01:11 +0200
+870157aa5005682a3da683462a14b57b6ebe46f6|go.mod: upgrade to go-ethereum v1.10.17|Fri, 20 May 2022 16:25:42 +0200|Fri, 20 May 2022 16:25:42 +0200
+ffce25e24834ae8d834ff62ec7d97bb7cca140a4|go.mod: upgrade to go-dockerclient v1.7.11|Fri, 20 May 2022 16:22:52 +0200|Fri, 20 May 2022 16:22:52 +0200
+d503dbf8b2924adac2d245a5b43e49e8ee59e621|clients/erigon: add support for clique private key (#548)|Fri, 20 May 2022 11:27:16 +0200|Fri, 20 May 2022 11:27:16 +0200
+664c8b21b8e21bc87eb1d1e335c4024aebad634e|clients/besu: add JWT secret (#549)|Fri, 20 May 2022 10:55:29 +0200|Fri, 20 May 2022 10:55:29 +0200
+62ae8c903d58f678fae3029638756d9f01596e74|simulators/ethereum/engine: CLMock safe/finalized Slot Delay (#541)|Thu, 19 May 2022 06:05:29 -0500|Thu, 19 May 2022 13:05:29 +0200
+bba9eba41f1da40ccbec8d97c0536ae9585b78a7|simulators/ethereum/engine: remove INVALID_TERMINAL_BLOCK (#547)|Thu, 19 May 2022 06:04:58 -0500|Thu, 19 May 2022 13:04:58 +0200
+790164b32f0ba89906715d10eb7b6d598a700da8|simulators/ethereum/engine: reduce invalid ancestor timeout (#544)|Thu, 19 May 2022 06:04:25 -0500|Thu, 19 May 2022 13:04:25 +0200
+4939a501dc433b84a1989d66092c83c999321354|clients/besu: re-enable websocket|Thu, 19 May 2022 10:45:53 +0000|Thu, 19 May 2022 10:45:53 +0000
+b772bbfd982a0dcda00fd0c119ca3e5c7e2bae68|simulators/ethereum/rpc: add AlwaysRun for client launch tests|Thu, 19 May 2022 10:44:29 +0000|Thu, 19 May 2022 10:45:24 +0000
+0945fc7e30d671af952d55c5a142892591212766|clients/besu: add support for engine API tests (#543)|Thu, 19 May 2022 06:44:00 -0400|Thu, 19 May 2022 12:44:00 +0200
+a9a99606846aed0f97e4fd20d8eb7ec70f4ed207|clients/erigon: use --syncmode=full (#546)|Wed, 18 May 2022 15:40:30 +0200|Wed, 18 May 2022 15:40:30 +0200
+ceafcf402723ec28a97d59e92a213502311fc243|clients: fix typo in ethereumjs dockerfile (#542)|Tue, 17 May 2022 14:50:13 +0200|Tue, 17 May 2022 14:50:13 +0200
+15794d9c711f536d4dbf5b1515280c576781962b|hive: fix build|Tue, 17 May 2022 12:21:55 +0000|Tue, 17 May 2022 12:21:55 +0000
+c634d551abeb53849b09655c97bfe1c0d31d4e19|hive: run simulator API on all interfaces|Tue, 17 May 2022 11:56:53 +0000|Tue, 17 May 2022 11:56:53 +0000
+66f3cf3b765c3994942233a605018e2b0b153880|internal/libdocker: resolve default bridge IP using docker API|Tue, 17 May 2022 10:13:19 +0000|Tue, 17 May 2022 10:13:19 +0000
+bea31084c43f8760b9bd0bb323518496becea736|simulators/ethereum/engine: add transition block checks (#536)|Tue, 17 May 2022 04:36:57 -0500|Tue, 17 May 2022 11:36:57 +0200
+31e57b0a52011d4c54ffbe451b6164564ba28a82|simulators/ethereum/engine: Test with PoW Re-Org With PREVRANDAO Transactions (#538)|Mon, 16 May 2022 17:29:26 -0500|Tue, 17 May 2022 00:29:26 +0200
+fe14e51d889b5d917867128e8d1f09400e26f3bd|simulators/ethereum/engine: add test re-orging back while SYNCING (#539)|Mon, 16 May 2022 17:29:08 -0500|Tue, 17 May 2022 00:29:08 +0200
+19343e2c3c87b758f4a9ffdd528541e5738b6c57|simulators/ethereum/engine: add more PoW merge transition test cases (#537)|Mon, 16 May 2022 17:25:11 -0500|Tue, 17 May 2022 00:25:11 +0200
+f8f72c4ef7dc79e7ab130046130ed1b3fd36e98e|simulators/ethereum/engine: add inconsistent fcState tests (#535)|Mon, 16 May 2022 17:12:11 -0500|Tue, 17 May 2022 00:12:11 +0200
+b56474b42f71c281d8bcbf99eaf018ed8a9c6b8a|simulators/ethereum/engine: verify full ForkchoiceUpdated response on CLMock (#534)|Mon, 16 May 2022 17:11:32 -0500|Tue, 17 May 2022 00:11:32 +0200
+b87c710a700caae6f9fc6eb649f947f9e35d674c|simulators/ethereum/engine: re-org to chain with missing/invalid payload (#526)|Mon, 16 May 2022 16:11:08 -0500|Mon, 16 May 2022 23:11:08 +0200
+88141acba007442caa05486af0ee164e15762f00|simulators/ethereum/eth2/engine: add forkchoice replace test|Fri, 13 May 2022 11:59:26 +0200|Fri, 13 May 2022 11:59:26 +0200
+ee5599970ae9d6dac8b9745fd5ab48fd0fc91db1|simulators/ethereum/eth2/engine: finished proxy implementation|Wed, 11 May 2022 19:17:30 +0200|Wed, 11 May 2022 19:17:30 +0200
+10f9fd5e1f239c839dee3dbcca83d95dcb8534a3|simulators/ethereum/eth2/engine: more el mock implementation|Mon, 9 May 2022 12:31:23 +0200|Mon, 9 May 2022 12:31:23 +0200
+512f0359eb57330a675bdcc373de52716a4c2234|simulators/ethereum/eth2/engine: start el-mock implementation|Thu, 5 May 2022 11:43:47 +0200|Mon, 9 May 2022 12:26:12 +0200
+ee8d44878b25fa3dec59e2536977af8a44b345dd|clients/ethereumjs: add role definition (#533)|Fri, 6 May 2022 11:13:24 +0200|Fri, 6 May 2022 11:13:24 +0200
+98779cb7d179ce87f1750522e8c3bf6e03111e6c|simulators/ethereum/engine: Add ForkchoiceUpdated with Invalid Payload Attributes Test (#527)|Thu, 5 May 2022 07:23:28 -0500|Thu, 5 May 2022 14:23:28 +0200
+f64331b2c7765423bade0181810d801d770bcd1b|simulators/ethereum/engine: add syncing newPayload variants (#531)|Thu, 5 May 2022 07:23:02 -0500|Thu, 5 May 2022 14:23:02 +0200
+8b3e0213da0c7f5c8ff3118e22ec73ebb1105770|simulators/ethereum/engine: Long PoW sync merge test case (#532)|Thu, 5 May 2022 07:22:45 -0500|Thu, 5 May 2022 14:22:45 +0200
+ff5eef79b5abb8a05e665f9f936489f9cb4850e2|simulators/ethereum/engine: allow for SYNCING in invalid payload tests (#530)|Wed, 4 May 2022 13:59:53 +0200|Wed, 4 May 2022 13:59:53 +0200
+d00a56c4a00ff1f5c2001358ff7bb4b857b389e9|simulators/ethereum/engine: fix loop variable override (#529)|Wed, 4 May 2022 11:15:12 +0200|Wed, 4 May 2022 11:15:12 +0200
+82fd6c45cc8b459c58344efbfa464c22ea963421|simulators/ethereum/engine: attempt resending transactions (#528)|Wed, 27 Apr 2022 09:10:35 +0200|Wed, 27 Apr 2022 09:10:35 +0200
+2c672f633b2791e527ba8ee56e64f72a66866657|simulators/ethereum/engine: add bad hash payload tests (#521)|Mon, 25 Apr 2022 11:04:38 +0200|Mon, 25 Apr 2022 11:04:38 +0200
+b3eec72684491c02c820870b2213017c91d81b14|clients/merge-nethermind: update docker branch, increase extradata for clique (#525)|Sat, 23 Apr 2022 16:49:41 +0200|Sat, 23 Apr 2022 16:49:41 +0200
+5759b58f6f92c6c477fa5d831877e2e195a2c058|clients/nimbus-el: add nimbus eth1 client (#523)|Fri, 22 Apr 2022 16:10:12 +0700|Fri, 22 Apr 2022 11:10:12 +0200
+1a727dd14ac36ce56cfb9a8c07bff65cbdce1947|simulators/ethereum/engine: refactor test verification syntax (#524)|Fri, 22 Apr 2022 11:07:18 +0200|Fri, 22 Apr 2022 11:07:18 +0200
+9ce1853f44826d77abddb7e049c27ebd3fac313b|clients,simulators/eth2/testnet: use engine API port 8551 everywhere (#522)|Fri, 15 Apr 2022 06:47:15 -0500|Fri, 15 Apr 2022 13:47:15 +0200
+1bc0339a2451e6895e31d2ca7b13168f4797e7ee|clients: add ethereumjs (#510)|Sat, 9 Apr 2022 23:31:48 +0200|Sat, 9 Apr 2022 23:31:48 +0200
+8e78b1e5803bd67f726d8e071bcb11155c2c8e7a|clients: coalesce merge-go-ethereum into go-ethereum definition (#515)|Fri, 8 Apr 2022 07:47:17 -0500|Fri, 8 Apr 2022 14:47:17 +0200
+7d24e9bcf30dc6546fb821848ff0c8d279a80eaa|simulators/engine: Add JWT Authentication tests (#519)|Wed, 6 Apr 2022 01:58:54 -0500|Wed, 6 Apr 2022 08:58:54 +0200
+7a50af3306f2c82b97d793864fb7402dfd9e2c2f|Update readme with Nethermind trophies (#517)|Wed, 6 Apr 2022 08:58:38 +0200|Wed, 6 Apr 2022 08:58:38 +0200
+6d5f182b33aaad2b8a3d46d6bab01df5b93b19bd|simulators/engine: Fix re-org tests (#520)|Wed, 6 Apr 2022 01:57:35 -0500|Wed, 6 Apr 2022 08:57:35 +0200
+d79e35ed70ce94c901a801def97db098017bcab7|Switch to using clique for merge transition simulator (#513)|Wed, 6 Apr 2022 01:53:02 -0500|Wed, 6 Apr 2022 08:53:02 +0200
+a72e10aeaa7db5ff4fd0784face16b593b7f6a19|clients/geth: fix authrpc.host param|Fri, 25 Mar 2022 09:00:10 +0100|Fri, 25 Mar 2022 09:00:10 +0100
+f2fc9a8ea33fd1a15a868d7caba0e85d98ad5a0d|clients: make geth handle TTD (#512)|Thu, 24 Mar 2022 09:24:59 +0100|Thu, 24 Mar 2022 09:24:59 +0100
+5f658a076d05389c484b02c873ff18d32166e392|clients: fixups for merge-go-ethereum (#511)|Wed, 23 Mar 2022 11:00:40 +0100|Wed, 23 Mar 2022 11:00:40 +0100
+c9e3de6bdc3657b7c65e574d6c94e9d3350e2a87|simulators/eth2/testnet: merge transition testnet (#495)|Sun, 20 Mar 2022 16:09:57 -0500|Sun, 20 Mar 2022 22:09:57 +0100
+aa4cd345e53a539f814a41315b039d6d26ba57a5|simulators/ethereum/engine: update Engine API tests for Kiln testnet (#507)|Wed, 9 Mar 2022 08:11:32 -0600|Wed, 9 Mar 2022 15:11:32 +0100
+264674b2234e2d2e1b1bfc8552e8f1d8ecd9567a|clients/erigon: engine/merge erigon changes (#506)|Wed, 23 Feb 2022 11:09:50 -0600|Wed, 23 Feb 2022 18:09:50 +0100
+875e6ac3df61078107d84bd0ef9964a9845b56a2|simulators/ethereum/engine: simulator for Engine API testing (#496)|Fri, 18 Feb 2022 03:14:15 -0600|Fri, 18 Feb 2022 10:14:15 +0100
+2784ea3e7eea7796015856a16facf6413edf144d|docs: remove .|Wed, 16 Feb 2022 11:17:08 +0100|Wed, 16 Feb 2022 11:17:08 +0100
+eff08ea645065e992137fd2e8f93312af7225e2f|docs: add list of simulator environment variables|Wed, 16 Feb 2022 11:14:34 +0100|Wed, 16 Feb 2022 11:14:34 +0100
+483c3a305cf92eda20b03b9a85dac625744386a8|.circleci: use Ubuntu 20.04 image|Wed, 16 Feb 2022 08:32:51 +0100|Wed, 16 Feb 2022 08:33:52 +0100
+14da32ec9eab92f9d18487f22bdbc90a801172ce|simulators/ethereum/rpc: upgrade hivesim|Mon, 14 Feb 2022 15:30:54 +0000|Mon, 14 Feb 2022 15:30:54 +0000
+10ecd48f75d567443ef4a14d0551478a3ddc1492|simulators/ethereum/rpc: bump wait count in createAndFundAccount|Mon, 14 Feb 2022 15:27:43 +0000|Mon, 14 Feb 2022 15:27:43 +0000
+52d82682a461dba12114ecdc29d79ad024137dcd|clients/erigon: add erigon client wrapper (#505)|Mon, 14 Feb 2022 19:03:41 +0530|Mon, 14 Feb 2022 14:33:41 +0100
+5631add4b5f15ed4895206da3000a6a56712a3fb|clients: remove trinity|Thu, 10 Feb 2022 14:01:01 +0000|Thu, 10 Feb 2022 14:01:01 +0000
+98767c8f948e2b072ce8f4d7b8e0174398970a9f|docs: update for new devp2p simulator|Thu, 10 Feb 2022 13:54:51 +0000|Thu, 10 Feb 2022 13:54:51 +0000
+de47408af3c5a8b4498fdbc94096a00b3cb263ae|docs: add description of --sim.limit option|Thu, 10 Feb 2022 13:53:09 +0000|Thu, 10 Feb 2022 13:53:09 +0000
+47c85cc9e746e3547c57419e11a47c0a320d637c|hive: remove support for --sim.testlimit|Thu, 10 Feb 2022 13:43:55 +0000|Thu, 10 Feb 2022 13:43:55 +0000
+c86001072380be79b24dca58ad9804cffa3f609d|simulators/ethereum/consensus: clone tests first in Dockerfile|Thu, 10 Feb 2022 13:38:52 +0000|Thu, 10 Feb 2022 13:39:21 +0000
+498fb06db7770c7323995280710f4c8a29278772|simulators/ethereum/consensus: implement HIVE_TEST_PATTERN support|Thu, 10 Feb 2022 13:37:52 +0000|Thu, 10 Feb 2022 13:37:52 +0000
+e489f9ca0ba4ccc29a6db4ae356fe5e873bafa62|simulators/devp2p: add snap tests|Thu, 10 Feb 2022 11:22:58 +0100|Thu, 10 Feb 2022 11:23:06 +0100
+0524a7e54b7832c1bf79e4981904bf2abc639cfc|simulators/devp2p: unified simulator for discv4 and eth tests|Wed, 9 Feb 2022 14:48:38 +0000|Wed, 9 Feb 2022 14:52:47 +0000
+23c45c59348d9ccf4d1c54b62c62eb4fdb07f3ca|hivesim: add TestPattern API function|Wed, 9 Feb 2022 13:37:35 +0000|Wed, 9 Feb 2022 13:37:35 +0000
+af72ac06a7d0f8e858f5ef4ba152ef91be57c545|hivesim: add AlwaysRun test option|Wed, 9 Feb 2022 13:23:49 +0000|Wed, 9 Feb 2022 13:23:59 +0000
+ff2b090c6a6f4d0508b9da9705b09d364e87c149|hive: add -sim.limit option for passing test pattern|Wed, 9 Feb 2022 13:48:25 +0100|Wed, 9 Feb 2022 13:48:25 +0100
+229c6d2b2bb1952e44a575cff567f046594d5fb5|hivesim: implement suite/test matching|Wed, 9 Feb 2022 13:48:09 +0100|Wed, 9 Feb 2022 13:48:09 +0100
+7f9e443cf52fcf6b989db5ab92640e7dde015ad3|clients: add merge-go-ethereum, merge-nethermind (#504)|Mon, 7 Feb 2022 08:33:52 -0600|Mon, 7 Feb 2022 15:33:52 +0100
+ae0cf4d0f614c88f2b0f90485213e9b56e4df2fe|simulators/smoke/genesis: limit to eth1 role|Fri, 4 Feb 2022 14:18:49 +0100|Fri, 4 Feb 2022 14:18:49 +0100
+04479fe5046bc54fe7ae07e91ace99b8dc7fb27f|simulators/smoke/clique: limit to eth1 role|Fri, 4 Feb 2022 14:18:35 +0100|Fri, 4 Feb 2022 14:18:35 +0100
+0a4aab6f2daf54f34ee7e8543c37ce2d21b4e3f7|simulators/ethereum/sync: limit to eth1 role|Fri, 4 Feb 2022 14:18:20 +0100|Fri, 4 Feb 2022 14:18:20 +0100
+dcf38a707c17b7feee0dfb762c53d767902e00d0|simulators/ethereum/rpc: limit to eth1 role|Fri, 4 Feb 2022 14:18:09 +0100|Fri, 4 Feb 2022 14:18:09 +0100
+a8f62555098189033428066b6fba97ef221b7a46|simulators/ethereum/graphql: limit to eth1 role|Fri, 4 Feb 2022 14:17:58 +0100|Fri, 4 Feb 2022 14:17:58 +0100
+93f25ee3fbd0e7c0d20537c938e59cd9d45d5b4b|simulators/ethereum/consensus: limit to eth1 role|Fri, 4 Feb 2022 14:17:43 +0100|Fri, 4 Feb 2022 14:17:43 +0100
+e142bd290aef52c2317dcecaa807269aa5d17854|simulators/devp2p/eth: limit to eth1 role|Fri, 4 Feb 2022 14:17:29 +0100|Fri, 4 Feb 2022 14:17:29 +0100
+ec4111bb080547a7436123c6d1f1102403d9b11f|simulators/devp2p/discv4: limit to eth1 role|Fri, 4 Feb 2022 14:17:06 +0100|Fri, 4 Feb 2022 14:17:06 +0100
+b91b7d136d82f015e21a18a619ffbd8925cf92a5|simulators/ethereum/rpc: move role spec to top so it's easier to see|Wed, 2 Feb 2022 19:28:36 +0100|Wed, 2 Feb 2022 19:28:36 +0100
+21c5c3249fd2ecf7ae94dbe93bab9e8e1c4ec932|docs: add information about LES roles|Wed, 2 Feb 2022 18:06:08 +0000|Wed, 2 Feb 2022 18:06:08 +0000
+9e744e79d62b2cd5a9fbae1895c7fbf40eb8aa25|simulators/ethereum/rpc: run tests against LES client|Wed, 2 Feb 2022 17:53:49 +0000|Wed, 2 Feb 2022 17:55:38 +0000
+1f7f6b4b195b7b4b28a5d60bb0fc2cad635c0302|clients/go-ethereum: add support for LES roles|Wed, 2 Feb 2022 17:45:51 +0000|Wed, 2 Feb 2022 17:55:34 +0000
+c24ac02ae3d1767528c2c4c289c6bb16a3d81d79|simulators: upgrade hivesim dependency in all simulators|Wed, 2 Feb 2022 14:29:40 +0000|Wed, 2 Feb 2022 14:29:40 +0000
+64e211a795ba649ff28def61f3360bd9766c6168|clients/go-ethereum: use 'snap' for full sync|Wed, 2 Feb 2022 11:06:27 +0000|Wed, 2 Feb 2022 14:27:00 +0000
+dd9d9ff10e9f222aa54010eb77b7a7037426f406|internal/libhive: remove temporary files created by form processing|Wed, 2 Feb 2022 02:05:20 +0100|Wed, 2 Feb 2022 14:27:00 +0000
+1a7d89fb7eaec6c081b3d8d9d378d56ad88e545e|.circleci: fix warning in upgrade-hivesim.sh|Tue, 1 Feb 2022 23:56:04 +0000|Wed, 2 Feb 2022 14:10:57 +0000
+6c6d99653647deb9f9a2a16eba1edcd1e0db8600|hivesim, internal/libhive: use shared JSON definitions in server and client|Wed, 2 Feb 2022 00:52:36 +0100|Wed, 2 Feb 2022 14:10:57 +0000
+05264959bebef546d693d829ccd24f65fb18f18a|docs: document client launch API change|Wed, 2 Feb 2022 00:42:00 +0100|Wed, 2 Feb 2022 14:10:57 +0000
+8f4482b054bf77e2e543415eabeb1f435f5a9ce1|hivesim, internal/libhive: change 'start client' request input to JSON|Wed, 2 Feb 2022 00:37:53 +0100|Wed, 2 Feb 2022 00:37:53 +0100
+6dc75bdb2d02478b8324e748fe5ea24549915cfe|docs: update for JSON-based API|Tue, 1 Feb 2022 22:51:30 +0000|Tue, 1 Feb 2022 22:51:30 +0000
+0811204d55d37f3e4a62e160904406b74846511c|docs: add note about file name handling|Tue, 1 Feb 2022 22:43:37 +0000|Tue, 1 Feb 2022 22:43:37 +0000
+113280eaa372ac896cbb48c74c447188912cbfe1|internal/libhive: add comment about file name handling|Tue, 1 Feb 2022 22:31:29 +0000|Tue, 1 Feb 2022 22:34:54 +0000
+32a1e3e8be11c67a8b407acbeaf0ed1fac7f7373|internal/libdocker: stream files into client container|Tue, 1 Feb 2022 22:16:04 +0000|Tue, 1 Feb 2022 22:27:41 +0000
+f6eb8e24e264eabe15f041dd52df0a1d589a31a0|hivesim: streaming file uploads|Tue, 1 Feb 2022 21:41:58 +0000|Tue, 1 Feb 2022 21:41:58 +0000
+869ed8d1e0e035892d3ebce1689a80f8545d6e00|hivesim, internal/libhive: clean up simulation API|Tue, 1 Feb 2022 20:06:50 +0000|Tue, 1 Feb 2022 20:06:50 +0000
+27e8f4f33f31068b9a94b5bde4fb4766e9108b11|internal/libhive: move API types around|Tue, 1 Feb 2022 16:07:38 +0000|Tue, 1 Feb 2022 16:07:38 +0000
+0c49295267b87e990c90bfefa58b22e2d7345562|hivesim: move API types around|Tue, 1 Feb 2022 16:05:08 +0000|Tue, 1 Feb 2022 16:05:08 +0000
+764cab0b987e80de70834ede9339d66951b38d84|docs: add note about /hive-bin in client container section|Sat, 29 Jan 2022 00:23:04 +0100|Sat, 29 Jan 2022 00:23:04 +0100
+136bd491bddb26b1e5daccf58ca9142f17ad9e09|docs: improve text about client metadata|Sat, 29 Jan 2022 00:16:49 +0100|Sat, 29 Jan 2022 00:16:49 +0100
+2be983a396a507364615297396243f9ad2db302d|docs: update text about HIVE_CHECK_LIVE_PORT|Fri, 28 Jan 2022 23:54:04 +0100|Fri, 28 Jan 2022 23:54:04 +0100
+78def4c703d4cf99cf94e2684bf64e42d2a4a55b|docs: fix typo|Fri, 28 Jan 2022 23:47:08 +0100|Fri, 28 Jan 2022 23:47:08 +0100
+d1e0f5737a6a95c0d0b17b11e8e14a00f7721a55|docs: improve text about client start options|Fri, 28 Jan 2022 23:33:58 +0100|Fri, 28 Jan 2022 23:34:24 +0100
+15ae1149cdabb86bca6456cfcb72e25e6e60f6ba|simulators/smoke/network: add test for new initial networks option|Fri, 28 Jan 2022 23:00:56 +0100|Fri, 28 Jan 2022 23:05:46 +0100
+e2067427e5441abba34811fca4eee30f4e9cf0a2|docs: document initial networks option|Fri, 28 Jan 2022 22:47:52 +0100|Fri, 28 Jan 2022 22:47:52 +0100
+4e53209415eb5f202fe992c955deb343f8f845d9|internal/libhive: add client start option for initially connected networks (#501)|Fri, 28 Jan 2022 15:43:46 -0600|Fri, 28 Jan 2022 22:43:46 +0100
+3569f53f8723ad3ad9bd08e3b82501627017c666|docs: improve wording in network API description|Fri, 28 Jan 2022 20:56:54 +0100|Fri, 28 Jan 2022 20:56:54 +0100
+49fcca828a9c1b4f3619ff66c327745aa23a996a|hivesim: fix staticcheck warning in test|Fri, 28 Jan 2022 15:17:25 +0100|Fri, 28 Jan 2022 15:17:25 +0100
+37c9cf106e94a60ff384768b469c42112fe15732|hive: fix staticcheck warning|Fri, 28 Jan 2022 15:16:59 +0100|Fri, 28 Jan 2022 15:16:59 +0100
+225be94d5ab05c17edc3d3eb8dad7083064d47f3|hivesim: improve handling of exec errors|Fri, 28 Jan 2022 15:07:06 +0100|Fri, 28 Jan 2022 15:07:06 +0100
+c3a0a090a8320e0a050f5c69114dbddfc9405f09|hivesim: validate script name in test|Fri, 28 Jan 2022 14:52:46 +0100|Fri, 28 Jan 2022 14:52:46 +0100
+7b96be017b49fccb612d30ac7f3a0d652b6d134e|cmd/hiveview: merge assets.go into main.go|Fri, 28 Jan 2022 13:36:19 +0000|Fri, 28 Jan 2022 13:36:19 +0000
+72f20dcdf86271e6f531c65309117e0112535e5f|.circleci: use Go 1.17|Fri, 28 Jan 2022 13:18:52 +0000|Fri, 28 Jan 2022 13:18:52 +0000
+0a89f0280b266b1072b0bfd434664ab6348ea51b|cmd/hiveview: use Go 1.17 file embedding|Fri, 28 Jan 2022 13:07:19 +0000|Fri, 28 Jan 2022 13:07:40 +0000
+f4f6cd70c40d73db9395562330a0aa91db62e267|internal/libhive: fix typo|Fri, 28 Jan 2022 12:43:22 +0000|Fri, 28 Jan 2022 12:43:22 +0000
+a5eacded086dff81d66c095079c9a9d05909bae1|docs: say that eth1 clients need /hive-bin/enode.sh|Fri, 28 Jan 2022 12:40:37 +0000|Fri, 28 Jan 2022 12:40:56 +0000
+d11524f06fe43968dc2133965bd9d4d366324e92|docs: update information about client GET|Fri, 28 Jan 2022 12:40:13 +0000|Fri, 28 Jan 2022 12:40:13 +0000
+bb5e62b4909110fded812f4026159001a91053e3|internal/libhive: remove special handling for enode.sh|Fri, 28 Jan 2022 12:30:18 +0000|Fri, 28 Jan 2022 12:40:07 +0000
+aba55323476a87baffded0cd201a152158d7c7bc|clients: remove /enode.sh in eth1 client images|Fri, 28 Jan 2022 12:15:02 +0000|Fri, 28 Jan 2022 12:15:02 +0000
+221e334c74d3e78117d4486212b4a8ddf8df9684|simulators/devp2p/discv4: upgrade to latest hivesim|Fri, 28 Jan 2022 12:05:15 +0000|Fri, 28 Jan 2022 12:05:47 +0000
+098c6442cf3aa4bfa32cd4125f461848810c0013|simulators/devp2p/eth: upgrade to latest hivesim|Fri, 28 Jan 2022 12:04:27 +0000|Fri, 28 Jan 2022 12:04:27 +0000
+58b52d2cec98cfaf493123ef9ef1e70141bfda30|simulators/eth2/testnet: upgrade to latest hivesim|Fri, 28 Jan 2022 12:03:03 +0000|Fri, 28 Jan 2022 12:03:03 +0000
+618f8a236f0734fb5bcc20f7d8596d4ef087eef8|simulators/ethereum/consensus: upgrade to latest hivesim|Fri, 28 Jan 2022 11:57:44 +0000|Fri, 28 Jan 2022 11:57:44 +0000
+88a64d8aef238a29c77ce145f1e924dceec46025|simulators/ethereum/graphql: upgrade to latest hivesim|Fri, 28 Jan 2022 11:46:03 +0000|Fri, 28 Jan 2022 11:46:03 +0000
+caef8652d680b18cba70904817b1f0734beabc79|simulators/ethereum/rpc: upgrade to latest hivesim|Fri, 28 Jan 2022 11:45:25 +0000|Fri, 28 Jan 2022 11:45:25 +0000
+27fe04a34cd8e7734a855693dff907da5fc71118|simulators/ethereum/sync: upgrade to latest hivesim|Fri, 28 Jan 2022 11:42:39 +0000|Fri, 28 Jan 2022 11:42:39 +0000
+50c2d1b7fa6115f9cf54e0b3a2e10a28b76dfd45|simulators/smoke/network: upgrade to latest hivesim|Fri, 28 Jan 2022 11:37:49 +0000|Fri, 28 Jan 2022 11:37:49 +0000
+639beb5f532f66daf5bd28e3daf135b4a8a5e801|simulators/smoke/genesis: upgrade to latest hivesim|Fri, 28 Jan 2022 11:37:39 +0000|Fri, 28 Jan 2022 11:37:39 +0000
+4a47f6b7cef0dba745624e61ee422e8118686e17|simulators/smoke/clique: upgrade to latest hivesim|Fri, 28 Jan 2022 11:37:10 +0000|Fri, 28 Jan 2022 11:37:10 +0000
+16a0eb39b4a28466db426d8638edf0c9feb6df19|docs: required Go version is Go 1.17|Fri, 28 Jan 2022 10:50:37 +0000|Fri, 28 Jan 2022 10:50:37 +0000
+5ecda34dabd3ea48cd2b90f9f40622fd84972f93|go.mod: go mod tidy with Go 1.17|Fri, 28 Jan 2022 10:43:54 +0000|Fri, 28 Jan 2022 10:43:54 +0000
+ccdebf4e497d12744c6ec68d986637b186d3a2a7|go.mod: upgrade to go-ethereum v1.10.15|Thu, 27 Jan 2022 15:18:39 +0000|Thu, 27 Jan 2022 15:18:39 +0000
+a13ffefc1d091ab56fa45d055be05e4e92141e66|go.mod: upgrade to github.com/fsouza/go-dockerclient v1.7.7|Thu, 27 Jan 2022 15:17:02 +0000|Thu, 27 Jan 2022 15:17:02 +0000
+41244f5d400d2e0d6927dc94f86c40cd17aebb56|hivesim: call enode.sh as script instead of using the enode API (#499)|Thu, 27 Jan 2022 08:58:55 -0600|Thu, 27 Jan 2022 15:58:55 +0100
+5164a6955a8081b7f92906f36340c9ed251d1322|cmd/hivechain: ensure storage differs between accounts (#500)|Tue, 25 Jan 2022 10:36:21 +0100|Tue, 25 Jan 2022 10:36:21 +0100
+c2251f19b65520895bf17e7b999025ed93ecfae2|clients/nethermind, clients/openethereum: fix eip1283 activation block (#497)|Thu, 6 Jan 2022 13:35:17 +0100|Thu, 6 Jan 2022 13:35:17 +0100
+f9c983ea4b33153c6b5374a8fcfc2277aa136b90|simulators/ethereum/consensus: check error in filepath.Walk (#492)|Mon, 6 Dec 2021 07:35:02 -0700|Mon, 6 Dec 2021 15:35:02 +0100
+b5cc1786a634a7bb6a3ece31b6566f6830500975|deps: update go-ethereum (#490)|Fri, 3 Dec 2021 14:22:41 +0100|Fri, 3 Dec 2021 14:22:41 +0100
+5fdf9d8ee7af8736e6c8c981efa8e6df0434e541|.github: add 'schedule' in dependabot.yml|Tue, 9 Nov 2021 18:18:12 +0100|Tue, 9 Nov 2021 18:18:12 +0100
+6d138ebb0b5515b2633c5de8284b38d7c899c01b|.github: try disabling dependabot|Tue, 9 Nov 2021 18:16:35 +0100|Tue, 9 Nov 2021 18:16:35 +0100
+548a745b510034c85c00e68e2f9aeb1a1eafdacf|clients, simulators/eth2: add eth2 testnet simulation (#481)|Tue, 9 Nov 2021 18:02:42 +0100|Tue, 9 Nov 2021 18:02:42 +0100
+cd81b24b2ac6a3e5fde4473ed281a9f4340bcccb|simulators/ethereum/consensus: upgrade to go-ethereum v1.10.8 (#479)|Wed, 1 Sep 2021 21:03:57 +0200|Wed, 1 Sep 2021 21:03:57 +0200
+f34e4c76f4e47a2e88fdffefab5045e2688144a6|internal/libdocker: fix typo (#478)|Sat, 21 Aug 2021 11:01:22 +0200|Sat, 21 Aug 2021 11:01:22 +0200
+f74bcdd3e8008b7d02dd2f53e4a07a33b5de0dd7|simulators/smoke/genesis: add test for precompile with empty balance|Mon, 5 Jul 2021 10:13:54 +0000|Mon, 5 Jul 2021 10:13:54 +0000
+aca49d8ad9b6a7a023858a03510d0a2a3446c99b|simulators/smoke/genesis: remove duplicate coinbase|Mon, 5 Jul 2021 09:42:59 +0000|Mon, 5 Jul 2021 09:42:59 +0000
+0f2398a31e18085e4fea7eaaf2d9e47673750769|simulators/smoke/genesis: add test for empty precompile account|Mon, 5 Jul 2021 09:34:32 +0000|Mon, 5 Jul 2021 09:34:32 +0000
+beebe58df801a3fbeb90b49e7d235e5885283559|cmd/hiveview: show dates as ISO 8601|Sun, 4 Jul 2021 22:49:18 +0000|Sun, 4 Jul 2021 22:49:18 +0000
+915cc2237316147da0ec8bab49cf6558a93e3bed|smimulators/smoke/genesis: add test for precompile with storage|Sun, 4 Jul 2021 22:23:02 +0000|Mon, 5 Jul 2021 00:24:26 +0200
+6ede9f598aa365dad7fed2615d75f2c52c0f6cf9|hive: simulator development mode (#473)|Fri, 2 Jul 2021 01:12:00 -0700|Fri, 2 Jul 2021 10:12:00 +0200
+196912485d09111a1dcd314b346e28855f9f0180|simulators/consensus: fix json types (#475)|Thu, 1 Jul 2021 12:59:04 +0200|Thu, 1 Jul 2021 12:59:04 +0200
+8fc4e111ba764c36529c477dc1d103e6b5c4403c|docs: fix some more things in commandline.md|Wed, 30 Jun 2021 17:20:50 +0200|Wed, 30 Jun 2021 17:20:50 +0200
+5469cbf550ae1e59e1d476b5072df337cecf4d08|docs: add london env|Wed, 30 Jun 2021 17:18:17 +0200|Wed, 30 Jun 2021 17:18:17 +0200
+625c01ba46d298d4a0b348cf2481c94bab398126|docs: fix title|Wed, 30 Jun 2021 17:16:15 +0200|Wed, 30 Jun 2021 17:16:15 +0200
+63c3498e8782a0890bc6089eb7cb6558093cc957|docs: fix typos in commandline.md|Wed, 30 Jun 2021 17:09:48 +0200|Wed, 30 Jun 2021 17:09:48 +0200
+4cf214cc611ee40de3677719a7947c63f1d1f202|docs: fix link in overview.md|Wed, 30 Jun 2021 17:07:56 +0200|Wed, 30 Jun 2021 17:07:56 +0200
+8c0a0f88cc74e3941432204dbf0069a4d1009bac|simulators/consensus: reduce output on genesis mismatches (#471)|Wed, 30 Jun 2021 10:28:09 +0200|Wed, 30 Jun 2021 10:28:09 +0200
+c4be228c96bb6277f77f0f58af1c65ed33fe1972|clients/nethermind: set baseFeePerGas in genesis header|Tue, 22 Jun 2021 13:20:06 +0200|Tue, 22 Jun 2021 13:20:06 +0200
+41c463f286a55d2e44fd8df8059f4fdad8430699|simulators/ethereum/consensus: remove log|Thu, 17 Jun 2021 15:28:10 +0200|Thu, 17 Jun 2021 15:28:10 +0200
+ea73a53e6532989311656e64a20426ed8e439330|clients/openethereum: remove --no-warp|Thu, 17 Jun 2021 13:23:17 +0000|Thu, 17 Jun 2021 13:23:17 +0000
+dfc6179f9346fd02b1067a59079c8de1252ee774|clients/openethereum: set baseFeePerGas in genesis|Thu, 17 Jun 2021 13:21:37 +0000|Thu, 17 Jun 2021 13:21:37 +0000
+7411a8104ca994af7e71002c92cefd12d9bdb730|simulators/ethereum/consensus: upgrade to go-ethereum v1.10.4|Thu, 17 Jun 2021 15:07:01 +0200|Thu, 17 Jun 2021 15:07:01 +0200
+68d3614bd7bdf36b78b82e6802a13736e137a5df|hive: upgrade to go-ethereum v1.10.4|Thu, 17 Jun 2021 15:05:45 +0200|Thu, 17 Jun 2021 15:05:45 +0200
+6987bb32040bba54935c34be3f4078f501628b9f|hive: go mod tidy|Thu, 17 Jun 2021 15:01:52 +0200|Thu, 17 Jun 2021 15:01:52 +0200
+646c826f4b02f230089a71f9521928d6b751aa3e|simulators/ethereum/consensus: log block response and expected values on failure|Thu, 17 Jun 2021 12:59:26 +0000|Thu, 17 Jun 2021 12:59:26 +0000
+c68d60fac99e701faf0280ac07d60415122738ec|simulators/ethereum/consensus: fix log message|Thu, 17 Jun 2021 11:51:15 +0000|Thu, 17 Jun 2021 11:51:15 +0000
+1e25a865bbc9c41b80e7e098ee25839f408b18c7|clients/nethermind: add london difficulty delay|Thu, 17 Jun 2021 13:20:53 +0200|Thu, 17 Jun 2021 13:20:53 +0200
+f72c60236eafa111d6d175dd32015ffd0647c9a3|clients/openethereum: fix issues genesis mapper for london fork|Thu, 17 Jun 2021 11:07:07 +0000|Thu, 17 Jun 2021 11:07:07 +0000
+eebfe82fe7f3853fc9839c30f55bd4e163c7485c|clients/oe: add london specs (#470)|Wed, 16 Jun 2021 13:39:58 +0200|Wed, 16 Jun 2021 13:39:58 +0200
+c3cdd4c20772ef0e1484be7702eedeee1bc7d07c|Consensus: use `baseFeePerGas` instead of `baseFee` (#469)|Mon, 14 Jun 2021 15:12:58 +0200|Mon, 14 Jun 2021 15:12:58 +0200
+33ab43fca463c8cb3ceadaee1403e795aa4dac03|Add london-support (#468)|Fri, 11 Jun 2021 13:32:03 +0200|Fri, 11 Jun 2021 13:32:03 +0200
+fdd36092285a7cb59dc5d1bbe8277b4310cff9d7|clients/nethermind: switch to up-to-date docker image (#467)|Mon, 7 Jun 2021 16:36:26 +0200|Mon, 7 Jun 2021 16:36:26 +0200
+65e401aa3ca101ad1fb3bf3b8ae7aab05add0b83|fix some remaining graphql errors on geth|Thu, 6 May 2021 15:38:51 +0200|Wed, 2 Jun 2021 10:36:30 +0200
+b8e3bb0939f0d134c8877921bf6afb7e5e2c2e95|clients/nethermind: switch back to 'latest' docker tag|Tue, 25 May 2021 23:13:06 +0200|Tue, 25 May 2021 23:13:06 +0200
+3aaff8a97f87d4c7adbab36f520803b6436f6b50|docs: improve documentation (#461)|Mon, 19 Apr 2021 08:39:11 +0000|Mon, 19 Apr 2021 10:39:11 +0200
+b994ff0277a7756a59823ca4ef3ee86b1bf9882e|clients/oe: fix extradata in mapper (#463)|Mon, 12 Apr 2021 11:03:35 +0200|Mon, 12 Apr 2021 11:03:35 +0200
+6bf03622888060c68741f757671779186286184f|cmd/hivechain: use GetBalance() method for tx generation (#462)|Thu, 8 Apr 2021 13:00:38 +0200|Thu, 8 Apr 2021 13:00:38 +0200
+e1297ba4dc37b18760b0e3e3a71479f99f2fa843|.circleci: add script to upgrade hivesim in simulators (#460)|Thu, 18 Mar 2021 12:17:58 +0100|Thu, 18 Mar 2021 12:17:58 +0100
+0508e12244f461a6f33faf09d9513cbcb6e5928e|clients: remove parity and ethereumj|Wed, 17 Mar 2021 14:38:44 +0100|Wed, 17 Mar 2021 14:38:44 +0100
+ad9109acbc08e77509e120a4cd1e0189659b542b|internal/libhive, hivesim: add client script exec API (#434)|Wed, 17 Mar 2021 14:34:41 +0100|Wed, 17 Mar 2021 14:34:41 +0100
+ee7ed0ca2d97401b5efa2c9be6acea0e55f47359|hivesim: add client start options (#442)|Tue, 16 Mar 2021 13:10:45 +0100|Tue, 16 Mar 2021 13:10:45 +0100
+9c4ae0d69b1bee3a88b1184f1efbdc4715bff23f|internal/libhive, hivesim: add client roles (#443)|Tue, 16 Mar 2021 12:27:54 +0100|Tue, 16 Mar 2021 12:27:54 +0100
+fa21b1e09c6b7fea5dc6f0c920c73e078116e384|simulators/ethereum/graphql: change account queries to be on block, not account (#426)|Fri, 12 Mar 2021 09:15:35 +0000|Fri, 12 Mar 2021 10:15:35 +0100
+22ee50f12690d453f91baeaa5dddba4a0b505bf1|fix remaining graphql testcases (#456)|Thu, 11 Mar 2021 12:01:33 +0000|Thu, 11 Mar 2021 13:01:33 +0100
+15d6ecb4a9372872d80d76152978c3c02ab8cfd4|simulators: decrease eth tests loglevel a bit (#458)|Thu, 11 Mar 2021 13:01:06 +0100|Thu, 11 Mar 2021 13:01:06 +0100
+8dca3e206465a1aafd67b5367a5eeb717ac5b131|clients/besu: fix #454 (#457)|Thu, 11 Mar 2021 08:40:13 +0100|Thu, 11 Mar 2021 08:40:13 +0100
+34a697acedfbaf588083a97b11560ad84e087f43|Berlinupdates (#455)|Sun, 7 Mar 2021 22:53:11 +0100|Sun, 7 Mar 2021 22:53:11 +0100
+0f5e321487f2911ae20185ec27fad27e81b20ac1|simulators/devp2p/discv4: real time TAP reporting|Thu, 4 Mar 2021 13:52:41 +0000|Thu, 4 Mar 2021 13:52:41 +0000
+9e7a3d977ee00d1ac4a693ac583084c3cd074339|simulators/devp2p/eth: real time TAP reporting|Thu, 4 Mar 2021 13:49:44 +0000|Thu, 4 Mar 2021 13:49:44 +0000
+8097734393edd201a4e4e9724d538edc2582b3e8|simulators/ethereum/graphql: expect contract address in test 33 (#451)|Wed, 3 Mar 2021 14:05:06 +0100|Wed, 3 Mar 2021 14:05:06 +0100
+7dc852003257284029db66ba718ab767370889b5|simulators/ethereum/graphql/testcases: fix testcases (#448)|Fri, 26 Feb 2021 15:51:30 +0100|Fri, 26 Feb 2021 15:51:30 +0100
+3a0b7c9f7870e49b087efa20ab05b88b218bb4e0|simulators/ethereum/graphql/testcases: change block number input to number instead of hexadecimal (#445)|Fri, 26 Feb 2021 15:51:02 +0100|Fri, 26 Feb 2021 15:51:02 +0100
+75049f16323c6cf9603b561f0f47db7d1177cf64|update extradata flag (#450)|Fri, 26 Feb 2021 15:49:24 +0100|Fri, 26 Feb 2021 15:49:24 +0100
+899f3715c4579fa52d09ce553430ec55c9c04f9a|clients: remove xberlin-flag from besu (#449)|Fri, 26 Feb 2021 10:19:33 +0100|Fri, 26 Feb 2021 10:19:33 +0100
+4e9b3dd7bb0ec6b43fc99f54c0fd2bab84580a42|internal/libhive: prevent concurrent map access panic (#447)|Thu, 25 Feb 2021 14:03:24 +0100|Thu, 25 Feb 2021 14:03:24 +0100
+d7c2dc2e5be16e8e681f924a4ac353e1c434b8b7|cmd/hiveivew: make listing faster (#444)|Tue, 23 Feb 2021 14:00:44 +0100|Tue, 23 Feb 2021 14:00:44 +0100
+51bb19bf60e6133ce9f2320bac21947242503ca9|docs: fix link to API docs from overview|Mon, 8 Feb 2021 15:39:04 +0100|Mon, 8 Feb 2021 15:39:04 +0100
+8cf4a7c63498c683ac3eb91bf08439c092475715|cmd/hiveview: show client versions (#441)|Mon, 8 Feb 2021 15:36:34 +0100|Mon, 8 Feb 2021 15:36:34 +0100
+2838122d33a2cd402a2d9f449214e375cb402743|hive: don't abort if some clients don't build (#438)|Mon, 8 Feb 2021 15:02:07 +0100|Mon, 8 Feb 2021 15:02:07 +0100
+35ba28f9d5fe5c5575f9e6f5ce4a3a56d54b722b|internal/libhive: fix double delete of failed client container (#439)|Mon, 8 Feb 2021 14:59:25 +0100|Mon, 8 Feb 2021 14:59:25 +0100
+4d0fa81ae2eadd7ceaabce04df91257f3270ee04|clients: more meaningful client version reporting (#435)|Mon, 8 Feb 2021 14:50:17 +0100|Mon, 8 Feb 2021 14:50:17 +0100
+7238c076baeeba48d73c2ec6e264cb074efaf412|clients/go-ethereum: set yolov3Block in chain config (#440)|Sat, 6 Feb 2021 13:36:58 +0100|Sat, 6 Feb 2021 13:36:58 +0100
+6cadf253243713f93b35c20140ec69b2e2a0adaf|docs: improve documentation (#422)|Thu, 4 Feb 2021 10:38:51 +0100|Thu, 4 Feb 2021 10:38:51 +0100
+170dac09fe52c8b97a79401aee5c5fa85cf6afa8|internal/libhive: report client versions once per suite (#433)|Tue, 2 Feb 2021 11:01:53 +0100|Tue, 2 Feb 2021 11:01:53 +0100
+97e469eacdccad637543ecf01c040a03b932d1b2|hivesim, internal/libhive: remove clientResults (#423)|Sat, 30 Jan 2021 01:23:29 +0100|Sat, 30 Jan 2021 01:23:29 +0100
+d3f47d3b057db98e27dacc45ec9edcc2192f5502|README: fix docker.nocache flag (#427)|Fri, 29 Jan 2021 16:51:45 +0100|Fri, 29 Jan 2021 16:51:45 +0100
+8ffefff869cbdc4a63f785947aeca25cafc89cdb|hive, internal/libhive: refactoring of internals in preparation for track file support (#421)|Wed, 20 Jan 2021 14:04:03 +0100|Wed, 20 Jan 2021 14:04:03 +0100
+9345a0031ee15f2adf1ec4dd9125d14d681cc388|simulators/ethereum/graphql: decimal instead of hex string in block query (#419)|Mon, 18 Jan 2021 11:49:58 +0100|Mon, 18 Jan 2021 11:49:58 +0100
+b67c2e7b9835cfafb4f8222e7645015bfa1c3c16|simulators/ethereum/graphql: allow multiple valid expected responses for tests (#413)|Tue, 12 Jan 2021 16:21:47 +0100|Tue, 12 Jan 2021 16:21:47 +0100
+d018c1d93b7877af23e97f832d21cbef99c4c24e|clients, simulators/ethereum/rpc: make the RPC test suite work again (#418)|Tue, 12 Jan 2021 15:53:09 +0100|Tue, 12 Jan 2021 15:53:09 +0100
+8acaf10c46b522e5b209cfbabf40157d86da57e5|cmd/hiveview: improve overflow behavior of test results table (#420)|Tue, 12 Jan 2021 15:41:41 +0100|Tue, 12 Jan 2021 15:41:41 +0100
+4ee831afdf36b8e54060bc49089a95181f5cb921|simulators/devp2p/eth: updated chain to include more transactions (#415)|Wed, 16 Dec 2020 13:29:54 +0100|Wed, 16 Dec 2020 13:29:54 +0100
+9a6c376a25c4e8995ed78c211412211c4ebf9a21|check for nil blockchain config -- this causes insertChain to hang (#412)|Tue, 8 Dec 2020 14:48:52 +0100|Tue, 8 Dec 2020 14:48:52 +0100
+5252bd75bf82d9bcdc27823588ba704af3a24cb1|change from --> hex string to match to (#411)|Tue, 8 Dec 2020 14:14:51 +0100|Tue, 8 Dec 2020 14:14:51 +0100
+f317767a3f39593fccbdb6f6ddb64bce356e8aae|print response body when status code mismatch - provides more context to err (#409)|Tue, 8 Dec 2020 14:14:28 +0100|Tue, 8 Dec 2020 14:14:28 +0100
+a96445a66a5342e3b2e0079e0a53f4f07a8dbbe0|README.md: add example for nethermind (#408)|Wed, 25 Nov 2020 13:09:08 +0100|Wed, 25 Nov 2020 13:09:08 +0100
+57c14f96294593d407ba21bde4efcd09b3eb730f|documentation: update docs to reflect new APIs / refactoring (#402)|Mon, 23 Nov 2020 23:20:44 +0100|Mon, 23 Nov 2020 23:20:44 +0100
+d75bb3c4f7cc2f51fc46654b2f4f31bec9c4eca7|clients/besu: use the --run block import option to speed up startup (#405)|Mon, 23 Nov 2020 23:19:16 +0100|Mon, 23 Nov 2020 23:19:16 +0100
+4a3a2f4baf671b5868afe8aa6d04ffd32a0f64ce|cmd/hivechain: update to go-ethereum v1.9.23 (#403)|Tue, 10 Nov 2020 11:32:53 +0100|Tue, 10 Nov 2020 11:32:53 +0100
+5f8be5c657220d15d400eee8689f728858826e64|hive: remove shell container option (#401)|Tue, 10 Nov 2020 10:49:46 +0100|Tue, 10 Nov 2020 10:49:46 +0100
+969f32620f5d5b963aabc9432755be6e9237ca74|internal/libhive: disconnect containers from network when removing it (#400)|Mon, 9 Nov 2020 12:26:15 +0100|Mon, 9 Nov 2020 12:26:15 +0100
+878dba3bc3736185ae687996a19192e03a13bc40|simulators/devp2p/discv4: update to new docker networks API (#399)|Mon, 9 Nov 2020 12:19:07 +0100|Mon, 9 Nov 2020 12:19:07 +0100
+d11d2123104b9ceb95a887427d3238382073a510|.circleci: ensure all go simulators compile (#397)|Fri, 6 Nov 2020 18:45:59 +0100|Fri, 6 Nov 2020 18:45:59 +0100
+5382966e8344e3696e75ea55cac7d812a1cb1dae|simulators/smoke/network: fix network smoke test (#396)|Fri, 6 Nov 2020 18:37:38 +0100|Fri, 6 Nov 2020 18:37:38 +0100
+a7df3c029f9942a8cc05d6fa1593186d086c5c26|simulators/ethereum/rpc: make RPC simulation compile again  (#395)|Fri, 6 Nov 2020 17:49:40 +0100|Fri, 6 Nov 2020 17:49:40 +0100
+2c45c6c962c8af8e6f3919590c803f18b3716c07|hivesim, internal/libhive: update docker network API (#370)|Fri, 6 Nov 2020 17:43:18 +0100|Fri, 6 Nov 2020 17:43:18 +0100
+54367cb9a4575674ed8264b8a5595c96fa36ca67|simulators/common: delete old simulation API client (#394)|Thu, 5 Nov 2020 19:47:04 +0100|Thu, 5 Nov 2020 19:47:04 +0100
+e0187fdda0ee5689941ef7406ff58b9e12a47a67|simulators/ethereum/oldcons: delete (#393)|Thu, 5 Nov 2020 19:27:29 +0100|Thu, 5 Nov 2020 19:27:29 +0100
+123755d191ea73696954ed9e62a9ab060fb5018f|simulators/ethereum/consensus: rename module back to proper name (#392)|Thu, 5 Nov 2020 19:21:53 +0100|Thu, 5 Nov 2020 19:21:53 +0100
+a9685e29a08adc1e1f0a5d1287c8e932d113ae90|simulators/ethereum/consensus: use package hivesim (#390)|Thu, 5 Nov 2020 19:13:15 +0100|Thu, 5 Nov 2020 19:13:15 +0100
+b800387194a850af75623891eae61c64b7961196|cmd/hiveview: make links in description work (#391)|Thu, 5 Nov 2020 18:38:37 +0100|Thu, 5 Nov 2020 18:38:37 +0100
+83e7ce57ad387af199ec5fdfdf2a923357350333|cmd/hiveview: show test details as preformatted text, not markdown (#379)|Thu, 5 Nov 2020 11:41:59 +0100|Thu, 5 Nov 2020 11:41:59 +0100
+021c369ecea9f6b0a8389c6cc24cca9061b28dd5|simulators/ethereum/graphql: rename module back to proper name (#389)|Thu, 5 Nov 2020 01:25:47 +0100|Thu, 5 Nov 2020 01:25:47 +0100
+c76ca0f10a01ec0330adde365fc810374ba693f4|simulators/ethereum/graphql: use package hivesim (#388)|Thu, 5 Nov 2020 01:08:55 +0100|Thu, 5 Nov 2020 01:08:55 +0100
+a309add1fcb9cb131f5a4ac861d5fe1247802752|simulators/devp2p/discv4: rename module back to proper name (#387)|Thu, 5 Nov 2020 00:00:44 +0100|Thu, 5 Nov 2020 00:00:44 +0100
+697f01726da6b616d64f3b52bf9998ce06492f0c|clients/aleth: add default genesis.json (#386)|Wed, 4 Nov 2020 23:53:07 +0100|Wed, 4 Nov 2020 23:53:07 +0100
+aa069c95379c7c513fd8cdd0aff22ce400d8d681|simulators/devp2p/eth: update go-tap dependency (#385)|Wed, 4 Nov 2020 23:52:03 +0100|Wed, 4 Nov 2020 23:52:03 +0100
+deab69e358d152bc4ce37bacfa43b1e1ec520e5b|simulators/dev2p/discv4: integrate TAP output (#384)|Wed, 4 Nov 2020 23:44:53 +0100|Wed, 4 Nov 2020 23:44:53 +0100
+70145449eabc9417d4a579ee3fcb48474c67214f|simulators/ethereum/sync: rename module back to proper name (#383)|Wed, 4 Nov 2020 23:12:37 +0100|Wed, 4 Nov 2020 23:12:37 +0100
+0ce0954f39163ec0988324114f9fca190161533a|internal/libhive: run clients in unprivileged containers (#382)|Wed, 4 Nov 2020 21:02:25 +0100|Wed, 4 Nov 2020 21:02:25 +0100
+1842ce744d3d2c6c760882142b404bf160aa31f8|internal/libhive: fixup client enode ports if zero (#381)|Wed, 4 Nov 2020 21:01:33 +0100|Wed, 4 Nov 2020 21:01:33 +0100
+8b12e3c3c21bbe337c341395052c182d43eb04e5|simulators/ethereum/sync: convert to package hivesim (#380)|Wed, 4 Nov 2020 20:50:10 +0100|Wed, 4 Nov 2020 20:50:10 +0100
+b614db81a3ebacaa325b7cfc530f38d2d1a15d9c|simulators/devp2p/eth: integrate eth protocol test TAP output (#378)|Wed, 4 Nov 2020 19:07:06 +0100|Wed, 4 Nov 2020 19:07:06 +0100
+ac2ed782f70690608034efe029d0bf3be879e86c|internal/libhive: use client version info and start timeout (#377)|Wed, 4 Nov 2020 14:59:27 +0100|Wed, 4 Nov 2020 14:59:27 +0100
+f19f473af1ee0a6230cdb28a4e6bd734653e7e83|simulators/smoke/network: rename module back to proper name (#376)|Wed, 4 Nov 2020 13:29:48 +0100|Wed, 4 Nov 2020 13:29:48 +0100
+35ee289d21562bd136d32876e2146bafbf2f8333|internal/libhive: sort client types to fix tests (#375)|Wed, 4 Nov 2020 12:51:40 +0100|Wed, 4 Nov 2020 12:51:40 +0100
+fd09a9ea62a5be7f0fee9c63c84d0532a22d722f|.circleci: run go test and smoke simulations on CI (#374)|Wed, 4 Nov 2020 12:43:10 +0100|Wed, 4 Nov 2020 12:43:10 +0100
+c32700b2036ade453d58d47d08917cff0c405cd0|simulators/smoke/network: fix vet|Wed, 4 Nov 2020 00:00:20 +0100|Wed, 4 Nov 2020 00:00:20 +0100
+ad23891527a9bea06733d555e1ba8d52a0957720|simulators/smoke/network: use package hivesim (#373)|Tue, 3 Nov 2020 23:15:33 +0100|Tue, 3 Nov 2020 23:15:33 +0100
+dfb64fd5cd604d80e355d5674a8eca86b4728d98|simulators/smoke/genesis: new basic lifecycle test (#371)|Tue, 3 Nov 2020 22:44:21 +0100|Tue, 3 Nov 2020 22:44:21 +0100
+1ce78e24ec326bef9e9df88508e340455adc026b|internal/libhive: remove scaling of client startup check timeout (#372)|Tue, 3 Nov 2020 22:42:23 +0100|Tue, 3 Nov 2020 22:42:23 +0100
+3cf79b09bc15c5950e30c5285bf434f0a8ace429|internal/libhive: register client even if start fails|Tue, 3 Nov 2020 20:23:40 +0000|Tue, 3 Nov 2020 20:23:40 +0000
+fe53923952fca0f312721c0db4811dd78947f5fd|all: remove pseudoclients (#369)|Tue, 3 Nov 2020 20:51:04 +0100|Tue, 3 Nov 2020 20:51:04 +0100
+6e8fe2dab20534a4546b8ce40e05ab3e3c494c59|Simulation API Rewrite (#366)|Tue, 3 Nov 2020 17:45:16 +0100|Tue, 3 Nov 2020 17:45:16 +0100
+b9a467d9d3b0fc62489cc9210fef8c1ffe3de6c5|simulators/devp2p/discv4: use discv4 test suite from go-ethereum (#363)|Tue, 3 Nov 2020 17:13:58 +0100|Tue, 3 Nov 2020 17:13:58 +0100
+d475d08e5ee542e6d629eb7f6a2187349beb429f|oe: fix error in mapper, fixes #364 (#365)|Tue, 3 Nov 2020 09:20:12 +0100|Tue, 3 Nov 2020 09:20:12 +0100
+d47d9b94f5c30d7e6b8a79651efb22bb2712ca01|clients/openethereum: fix default networkID in chainspec|Sat, 31 Oct 2020 22:12:54 +0100|Sat, 31 Oct 2020 22:12:54 +0100
+33927d2256be3a75f0d8bf0014717fcde9a55ad6|go.mod: go mod tidy|Fri, 30 Oct 2020 22:53:06 +0100|Fri, 30 Oct 2020 22:53:06 +0100
+06f2c92040e7e3f025dea6ac89189dd6395dc543|hive: add simulation API for creating docker networks (#356)|Fri, 30 Oct 2020 22:51:02 +0100|Fri, 30 Oct 2020 22:51:02 +0100
+ea900d01571fefcb486494725c1528900be80c92|hive: lower client startup timeout to 60s (#362)|Fri, 30 Oct 2020 13:48:04 +0100|Fri, 30 Oct 2020 13:48:04 +0100
+71b604a63b0350b564a9d47e9ba40ed8c673a33f|clients: rewrite client genesis translators with jq (#360)|Fri, 30 Oct 2020 13:45:47 +0100|Fri, 30 Oct 2020 13:45:47 +0100
+9e5448e14099074d2a7dbe7cff7ff32dc7df7ac0|cmd/hiveview: remove description in listing (#361)|Fri, 30 Oct 2020 13:02:09 +0100|Fri, 30 Oct 2020 13:02:09 +0100
+3230e3290395295dc22ce93aba0c32972ed6beb5|simulators/consensus: add yolov2/berlin support (#358)|Fri, 30 Oct 2020 10:05:46 +0100|Fri, 30 Oct 2020 10:05:46 +0100
+2973c8700063e786196bc47cc1c3a97da3489878|cmd/hiveview: fix listing sort order (#355)|Fri, 23 Oct 2020 14:40:49 +0200|Fri, 23 Oct 2020 14:40:49 +0200
+e16e390916a72d066ab073faf4eb4baa30c1931f|simulators/ethereum/eth: update test chain (#354)|Fri, 23 Oct 2020 13:31:00 +0200|Fri, 23 Oct 2020 13:31:00 +0200
+1c9a8a5da295e2262a4283bbb8288805b775328f|simulators/ethereum/graphql: rename test cases (#344)|Fri, 23 Oct 2020 04:54:35 -0400|Fri, 23 Oct 2020 10:54:35 +0200
+6792dfb9316bb46327b58c96574c997b01784d48|simulators/ethereum/sync: add new test chain data (#353)|Fri, 23 Oct 2020 10:44:27 +0200|Fri, 23 Oct 2020 10:44:27 +0200
+e69f40251999fc356a56587c03fcbce51a66c5cb|cmd/hivechain: add support for generating non-empty chain (#352)|Fri, 23 Oct 2020 10:34:29 +0200|Fri, 23 Oct 2020 10:34:29 +0200
+5daa5e28f97ac57f6cce802a9ca9f5c403a48d18|cmd/hiveview: fix more navigation issues (#351)|Thu, 22 Oct 2020 13:50:38 +0200|Thu, 22 Oct 2020 13:50:38 +0200
+389214602f45d555431d936bb0ce84085bebe406|cmd/hiveview: fix navigation in the app (#348)|Thu, 22 Oct 2020 10:21:26 +0200|Thu, 22 Oct 2020 10:21:26 +0200
+f14f5f006da43d36f1fa868eb7824282ffbcfac7|cmd/hiveview: add hive result viewer (#347)|Wed, 21 Oct 2020 16:00:43 +0200|Wed, 21 Oct 2020 16:00:43 +0200
+86d83de00c76b88f8170acb214e23ab78e2f7454|clients: fix more client issues (#346)|Wed, 21 Oct 2020 13:47:48 +0200|Wed, 21 Oct 2020 13:47:48 +0200
+1f1b0015d89415c92482c575fa4182fbfc8eaac3|cmd/hivechain: chaintools cli tool (#345)|Wed, 21 Oct 2020 12:00:13 +0200|Wed, 21 Oct 2020 12:00:13 +0200
+77a1a8778bf6c813f73d47114f5ed3452fd8dbde|graphql: revert previous change to add ordering (#340)|Tue, 20 Oct 2020 02:48:38 -0400|Tue, 20 Oct 2020 08:48:38 +0200
+be7f4e177db29af2a87a0c3f15b9fcbf6a061ca9|hive: improve client name matching (#343)|Tue, 20 Oct 2020 08:48:01 +0200|Tue, 20 Oct 2020 08:48:01 +0200
+5ba6540de09c82c9842d1f366c3b52c6ed48a8d4|simulators/ethereum/sync: improve the sync test (#342)|Tue, 20 Oct 2020 08:45:01 +0200|Tue, 20 Oct 2020 08:45:01 +0200
+7c2b9d47fba95962d4f9c9a72ab44caa3e1433fc|clients/nethermind: fix some more issues (#341)|Tue, 20 Oct 2020 08:42:38 +0200|Tue, 20 Oct 2020 08:42:38 +0200
+206ebcb0129ca601bf1dc5c36620a0a38a5fcd52|simulators/ethereum/eth: add eth protocol test suite (#324)|Mon, 19 Oct 2020 18:16:32 +0200|Mon, 19 Oct 2020 18:16:32 +0200
+4459958a906bc73c9d7eb82933314ce283359d70|Fix eth_syncing and graphql_pending tests (#336)|Mon, 19 Oct 2020 02:55:41 -0400|Mon, 19 Oct 2020 08:55:41 +0200
+17e6962d07b16e10d287e1b8171a001add613439|clients/besu: use export (#339)|Mon, 19 Oct 2020 08:55:04 +0200|Mon, 19 Oct 2020 08:55:04 +0200
+2f1fdcf8539b7c81b97d3a97e40f3e5093ca18e3|clients/besu: disable secp256k1.randomize (#338)|Sun, 18 Oct 2020 19:00:39 +0200|Sun, 18 Oct 2020 19:00:39 +0200
+4dfb81e99de610bde64c8005c25792e64bd11280|hive: add error handling for if dockerfile/image can't build or is not found (#334)|Fri, 9 Oct 2020 13:55:58 +0200|Fri, 9 Oct 2020 13:55:58 +0200
+7e3dde7630e06b943ea3266ec2da9ac93f485caf|simulators/common: remove local provider (#332)|Wed, 30 Sep 2020 12:06:07 +0200|Wed, 30 Sep 2020 12:06:07 +0200
+a5a4da986424a285b5c25729c59e95421fe379f7|simulators: remove DAO fork tests and DAG generation functionality (#331)|Wed, 30 Sep 2020 11:43:38 +0200|Wed, 30 Sep 2020 11:43:38 +0200
+e17fd70515785ae82fb4d341425a6506610ca0a8|clients/nethermind: simplify chain configuration (#329)|Mon, 28 Sep 2020 11:52:05 +0200|Mon, 28 Sep 2020 11:52:05 +0200
+e281d9fc76b6698d2c6a7ab4994d453698e322cd|clients/openethereum: add support for HIVE_LOGLEVEL (#328)|Thu, 24 Sep 2020 19:48:12 +0200|Thu, 24 Sep 2020 19:48:12 +0200
+422bc95a55148817b3dcc14aca5dae5f632c0635|Merge pull request #327 from ethereum/trinity-fix-docker-build|Thu, 24 Sep 2020 18:55:08 +0200|Thu, 24 Sep 2020 18:55:08 +0200
+d4f2e6bd7e5231ae25617b4e4c1ae9244879dd96|clients/trinity: fix docker build one more time|Thu, 24 Sep 2020 15:54:17 +0200|Thu, 24 Sep 2020 15:55:31 +0200
+9fc6320c979847a5321335b906775e4ef09a6617|clients/nethermind: fix image build|Thu, 24 Sep 2020 14:07:28 +0200|Thu, 24 Sep 2020 14:07:28 +0200
+41f14d3c10b341818b8cf823b5bb31439ed8ee0d|clients/trinity: make consensus tests work (#326)|Thu, 24 Sep 2020 13:41:27 +0200|Thu, 24 Sep 2020 13:41:27 +0200
+916c95219d3d65c9e75939a1bc95847b6cbe3c98|clients/trinity: fix trinity docker build and startup script (#325)|Thu, 24 Sep 2020 13:01:52 +0200|Thu, 24 Sep 2020 13:01:52 +0200
+68e33a5b3c2254d21a2ac7dd652fde86d61fed1d|change default branch for parity dockerhub image from master to latest (#321)|Tue, 22 Sep 2020 19:45:53 +0200|Tue, 22 Sep 2020 19:45:53 +0200
+fc1a090a904c447e65366e981c4b963bdbff8746|additional fixes for docs and aleth Dockerfile with wrong tag (#322)|Tue, 22 Sep 2020 19:45:39 +0200|Tue, 22 Sep 2020 19:45:39 +0200
+908016411a6fb8f787e4e794b5020e499b45aa38|change default branch for geth dockerhub image from master to latest (#320)|Fri, 18 Sep 2020 10:21:35 +0200|Fri, 18 Sep 2020 10:21:35 +0200
+0f61f84e0e6b4e51f9a99671be13af4e419cc453|Make clients discoverable so bonding can occur; Fix incorrect graphql port (#318)|Wed, 9 Sep 2020 03:21:37 -0400|Wed, 9 Sep 2020 09:21:37 +0200
+801992f1ae3afb236619bf256cb824767ce4a172|chaintools: ineffectual error assignment preventing genesis file from being opened (#319)|Tue, 8 Sep 2020 15:28:00 +0200|Tue, 8 Sep 2020 15:28:00 +0200
+7a37ebe4b2ae37392153710f25652a6b5e173efe|fixes #314, use separate port for graphql (might make all geth-graqhql tests fail) (#317)|Wed, 26 Aug 2020 13:57:36 +0200|Wed, 26 Aug 2020 13:57:36 +0200
+706387647eb3829ad0592672d8a493eec542fe39|fixes #315, make sure bash is present (#316)|Wed, 26 Aug 2020 13:46:06 +0200|Wed, 26 Aug 2020 13:46:06 +0200
+6360bbe7aefee8abfc2c1b2f4c173393ad16aa58|besu build fixes, grapqh panic fix + graphql port change (#313)|Thu, 20 Aug 2020 09:24:44 +0200|Thu, 20 Aug 2020 09:24:44 +0200
+0fe43e9b8693062f4aae88f2fbbe58da0bb25a42|Update graphql tests to match test blockchain data (#309)|Fri, 14 Aug 2020 02:31:07 -0400|Fri, 14 Aug 2020 08:31:07 +0200
+d68c15ee6599fb6b93add6292958618eaba0b3f8|clients/geth: update commandline args (#307)|Mon, 10 Aug 2020 14:26:24 +0200|Mon, 10 Aug 2020 14:26:24 +0200
+aa77900283e1bb0a734213ad42157655f735d3c1|deps: update github.com/fsouza/go-dockerclient (#306)|Mon, 10 Aug 2020 14:17:04 +0200|Mon, 10 Aug 2020 14:17:04 +0200
+2997fe79b5b77374de0be9f153f097e7c3314fa1|Add min gas price startup flag to besu.sh (#304)|Mon, 3 Aug 2020 04:06:04 -0400|Mon, 3 Aug 2020 10:06:04 +0200
+bd92d4683c344d7d7d9740cc615bebe00167892e|Update Dockerfile (#302)|Wed, 1 Jul 2020 19:44:45 +0200|Wed, 1 Jul 2020 19:44:45 +0200
+3063697cb5fce19726647fd6506c8d2fcf7780c3|simulators/consensus: fix homestead-to-eip150 at 5, no dao (#303)|Wed, 1 Jul 2020 19:40:34 +0200|Wed, 1 Jul 2020 19:40:34 +0200
+74687315a37bf8caf4d8244aa4ec16a44986a909|Update README (#301)|Fri, 26 Jun 2020 15:45:37 +0200|Fri, 26 Jun 2020 15:45:37 +0200
+0bd97e116474a014579100cff01cc1d0eca743fe|simulators/consensus: fix remaining dao-out of order (#300)|Fri, 26 Jun 2020 11:22:14 +0200|Fri, 26 Jun 2020 11:22:14 +0200
+b68b94fe15ccf2a3a96fed6242ae4c3d1ea4e34b|nethermind istanbul fork added (#299)|Fri, 26 Jun 2020 10:38:54 +0200|Fri, 26 Jun 2020 10:38:54 +0200
+b915b9c4d63e2fdb69d9b4c0071cf5b8b1bc8783|simulators/consensus: dont use wrong fork ordering (#298)|Thu, 25 Jun 2020 13:57:30 +0200|Thu, 25 Jun 2020 13:57:30 +0200
+b9af2f9cc71b9e05c6bd677fddb7b65301d75b72|Besuroot (#296)|Thu, 25 Jun 2020 13:45:55 +0200|Thu, 25 Jun 2020 13:45:55 +0200
+fa07032dd985e2428e231ce0c074e32cc3128931|explain debugging workflow (#293)|Mon, 22 Jun 2020 03:16:10 -0400|Mon, 22 Jun 2020 09:16:10 +0200
+6ceddffc1c7b0ae0f0cd6f3a97c2e8e20c2071cc|Besu bulk block import (#291)|Fri, 5 Jun 2020 05:20:49 -0600|Fri, 5 Jun 2020 13:20:49 +0200
+04c8cc77d280809ac3c5e84685340ab4a65238bc|clients: add openethereum (#288)|Wed, 13 May 2020 09:15:34 +0200|Wed, 13 May 2020 09:15:34 +0200
+d2ee871847f7e50ec786369e2656a0bee4975fc5|add fast-sync config flags for contrived test chains (#287)|Thu, 7 May 2020 13:12:29 -0400|Thu, 7 May 2020 19:12:29 +0200
+c4a69750c264c19eca449e1796e9228ff0c60fb8|simulator: fix nil deref on failure to build simulators (#286)|Wed, 6 May 2020 08:20:12 +0200|Wed, 6 May 2020 08:20:12 +0200
+3b4d27899a61c3ff2a45488771bb1a7839966dec|clients/besu: allow import to fail (#283)|Sun, 3 May 2020 15:36:19 +0200|Sun, 3 May 2020 15:36:19 +0200
+f5d33a03a01ebcdc8cb24af034351467d05fef21|besu client fixes, istanbul + importflags (#282)|Sat, 2 May 2020 09:23:22 +0200|Sat, 2 May 2020 09:23:22 +0200
+9da2c848a8bdb0c929b00a1f666f897416168a9f|clients/besu: fix commandline (#280)|Fri, 1 May 2020 08:24:51 +0200|Fri, 1 May 2020 08:24:51 +0200
+06a181b40c4703b7ff230347bf62c55c79d3fb17|simulators/consensus: make it compile again (#278)|Thu, 30 Apr 2020 09:57:39 +0200|Thu, 30 Apr 2020 09:57:39 +0200
+d8b413cbb691bf979530071934002c6f3aa376a3|clients/besu: skip PoW during block import (if instructed by envvars)|Wed, 29 Apr 2020 15:33:21 +0200|Thu, 30 Apr 2020 09:37:36 +0200
+6f50e653617e49d2c35711241e9645d4760096b7|nethermind: use 0.0.0.0 as ext ip, instead of reaching out, fixes #276|Wed, 29 Apr 2020 15:29:45 +0200|Thu, 30 Apr 2020 09:37:36 +0200
+8cefc0696eabb184627f003cb3e81d8e73068526|graphql: update tests (#275)|Wed, 29 Apr 2020 12:18:21 +0200|Wed, 29 Apr 2020 12:18:21 +0200
+ab07297a69589e044fd9756494c95813db290708|consensus tests: formatting + description (#274)|Mon, 27 Apr 2020 23:04:58 +0200|Mon, 27 Apr 2020 23:04:58 +0200
+9dc5eb159d7f620bab8f588e9e7bbf0802943499|Test results URL update (#273)|Mon, 27 Apr 2020 20:48:40 +0200|Mon, 27 Apr 2020 20:48:40 +0200
+86f5afa823178bf2b00241c34d2069ac9f80faec|Formatting (#272)|Mon, 27 Apr 2020 12:04:39 +0200|Mon, 27 Apr 2020 12:04:39 +0200
+8b465d6b8a7597ac96c9f1e6bd0efed621dc5eae|sync, graphql: remove go-test timeout, fixes #270 (#271)|Mon, 27 Apr 2020 11:59:01 +0200|Mon, 27 Apr 2020 11:59:01 +0200
+ba454bd259a68c7b7e8b3173a60dc61610910e0d|clients/besu: fix image problems (#269)|Thu, 23 Apr 2020 13:45:40 +0200|Thu, 23 Apr 2020 13:45:40 +0200
+32f383686dbde64d260f206b15d5d4a17088f8df|Merge pull request #268 from holiman/ui_improv|Thu, 23 Apr 2020 13:24:00 +0200|Thu, 23 Apr 2020 13:24:00 +0200
+161e904ebb6cfe6836e1672f82d6a7fa1660332e|hiveviewer: make use of the fileviewer|Thu, 23 Apr 2020 13:04:07 +0200|Thu, 23 Apr 2020 13:04:07 +0200
+4d7d2a7be5214207820d5fdd5373195d849b1244|hiveviewer: implement linkable fileviewer|Thu, 23 Apr 2020 12:30:38 +0200|Thu, 23 Apr 2020 12:30:38 +0200
+165fa8813333cb7351d26135a8e8e5d03c098ee2|Merge pull request #257 from lightclient/fix-typo|Tue, 21 Apr 2020 15:57:48 +0200|Tue, 21 Apr 2020 15:57:48 +0200
+c143c116746dcf1f489d139df846df5646608840|Merge pull request #267 from holiman/testscript|Tue, 21 Apr 2020 15:55:50 +0200|Tue, 21 Apr 2020 15:55:50 +0200
+2392748049d811b75b6135e9639b0e278fd1c3a6|testscript: minor changes|Tue, 21 Apr 2020 15:54:58 +0200|Tue, 21 Apr 2020 15:54:58 +0200
+1b2c9e82645e0d2a89ca95dac7a099b8b580cf0e|Merge pull request #266 from holiman/syncbetter|Tue, 21 Apr 2020 15:49:40 +0200|Tue, 21 Apr 2020 15:49:40 +0200
+1ada1c6606fae5b7b4880e75726c5273d16059e9|clients/parity+aleth: add a delay for enode retriever|Tue, 21 Apr 2020 15:02:24 +0200|Tue, 21 Apr 2020 15:46:14 +0200
+ca7d21f872924a8e82208715837b9e09728a6977|clients/parity: enable all rpc apis|Tue, 21 Apr 2020 00:55:28 +0200|Tue, 21 Apr 2020 15:46:14 +0200
+6b560f92e3f014865e3e9d9fcb602d245a3d4658|besu: use provided genesis file, not the baked-in one|Tue, 21 Apr 2020 14:12:35 +0200|Tue, 21 Apr 2020 15:46:13 +0200
+6d2298fbf6db895b74bc7ee094993083a142f7c1|sync_test: refactor the entire thing, run all clients against all clients, use hive bootnode envvar|Mon, 20 Apr 2020 23:57:40 +0200|Tue, 21 Apr 2020 15:45:55 +0200
+770bca11d80ad7c3548a7e30a4a9a2bf4f7b3c22|Merge pull request #265 from holiman/more_prod_fixes|Mon, 20 Apr 2020 14:26:19 +0200|Mon, 20 Apr 2020 14:26:19 +0200
+b1b73b7793e4651fb7d13438f1ff495c2de2b2aa|testscript: fix error|Mon, 20 Apr 2020 13:27:46 +0200|Mon, 20 Apr 2020 14:25:48 +0200
+8e0b04a8714a3f373887bb05cbfc9e5c6b79b4e0|sync_test: use correct networkid + refactor|Mon, 20 Apr 2020 13:00:13 +0200|Mon, 20 Apr 2020 14:25:11 +0200
+9c53d5e49dceaa40f4d816832f55008e4f945775|simulator: ensure that clients are terminated after test, clean up, fix logging|Mon, 20 Apr 2020 11:27:26 +0200|Mon, 20 Apr 2020 14:24:51 +0200
+2f1af6dbdc643d069b3c911db5cc6ec7cbf2ec29|aleth: set docker user to root, fixes #264, nethermind: fix networkid|Mon, 20 Apr 2020 11:00:15 +0200|Mon, 20 Apr 2020 14:24:24 +0200
+a7f2c19ae606b7095ea216612c1041947bf78e8d|Merge pull request #263 from holiman/improvements|Sun, 19 Apr 2020 20:05:03 +0200|Sun, 19 Apr 2020 20:05:03 +0200
+350a004e38d9a1a4d274cac263867dd0f7a3d90b|test.sh: docs+refactor|Sat, 18 Apr 2020 15:42:39 +0200|Sat, 18 Apr 2020 21:58:51 +0200
+59e3a264c5ebc6c52ffa2fbe60e3946b17667a16|graphql: make graphql tests reuse the same instance|Sat, 18 Apr 2020 15:42:15 +0200|Sat, 18 Apr 2020 21:58:50 +0200
+165d55a93c5b359a8755181ae98f017778eec913|graphql: don't fail test if http status != 200, + test|Sat, 18 Apr 2020 13:38:15 +0200|Sat, 18 Apr 2020 21:58:50 +0200
+f5b1f5110c8f2852b15189085e642acd1a50ce2e|hive: modify command line params + testscript|Sat, 18 Apr 2020 11:27:25 +0200|Sat, 18 Apr 2020 21:58:50 +0200
+1824159672903dad770cafa94826034ed5f0712b|grapql: implement test limiting, make graphql querying actually work|Sat, 18 Apr 2020 11:22:08 +0200|Sat, 18 Apr 2020 21:58:49 +0200
+d4fc03bf9fc6bd1e3bc9a7a7911a4b50d67d6054|besu, parity: default networkid 1337, besu: fix RPC access, aleth: fix config >= istanbul|Sat, 18 Apr 2020 10:26:56 +0200|Sat, 18 Apr 2020 21:58:15 +0200
+551748485ec9e3b594eb7fe41a2e37b709d155ac|synctest: fix nil deref error|Sat, 18 Apr 2020 10:23:06 +0200|Sat, 18 Apr 2020 21:57:01 +0200
+6f3c075aa6e0d6dc10d550347f3879a03e371e02|simulator: set client log file even if RPC port fails to open (but container successfully starts)|Sat, 18 Apr 2020 10:22:23 +0200|Sat, 18 Apr 2020 21:57:01 +0200
+39ff597888a7f5e4798c75dcc3e4966452e43607|goconsensus: make it possible provide a limit to tests, to abort early on extensive tests|Fri, 17 Apr 2020 15:51:02 +0200|Sat, 18 Apr 2020 21:57:01 +0200
+382619f3c94ecfefafe7440852a50f90da5ccf71|geth: add MG fork, default to networkid 1337 to avoid mainnet memory bump|Fri, 17 Apr 2020 15:49:31 +0200|Sat, 18 Apr 2020 21:56:50 +0200
+cd05b02584394e5df7c07678b56816d400b47db7|hiveviewer: show simulator logfile,test results in pre-tags, no popups, simlog download|Fri, 17 Apr 2020 13:58:13 +0200|Sat, 18 Apr 2020 21:55:21 +0200
+07d4f265536270e0f36519aa1b994f5dd7f38e26|expose simulator log files, document devp2p tests|Fri, 17 Apr 2020 13:57:37 +0200|Fri, 17 Apr 2020 13:57:37 +0200
+57acd2d5beb9fb016d54b399d2d9778936d0faa1|containers: don't write container stdout to stdout for loglevels below 4 (#262)|Thu, 16 Apr 2020 19:23:32 +0200|Thu, 16 Apr 2020 19:23:32 +0200
+f3ff46fca81f6f467f27d42cfdf69c6d32c60aa8|besu+nethermind fixes + index limit + bugfixes (#261)|Thu, 16 Apr 2020 08:58:31 +0200|Thu, 16 Apr 2020 08:58:31 +0200
+77076b87ee133745a84213ca610f9f828d300478|update to make building simulators and clients work again (#258)|Tue, 14 Apr 2020 17:58:51 +0200|Tue, 14 Apr 2020 17:58:51 +0200
+589a16a40a2e028ee4ec11c237aa422da063fdcd|Add Besu to Hive (#252)|Tue, 14 Apr 2020 09:08:39 -0600|Tue, 14 Apr 2020 17:08:39 +0200
+14aa3b848e7e7c3cb837a146457df62b3d2567b4|fix a few typos and clarify some sentences|Mon, 6 Apr 2020 08:40:41 -0600|Mon, 6 Apr 2020 08:40:41 -0600
+68191746df2c16f8855cb03ebba60af53362ca34|Merge pull request #253 from ethereum/Rework|Tue, 4 Feb 2020 09:39:02 +0100|Tue, 4 Feb 2020 09:39:02 +0100
+ee4e562e7eb87a93fccce26f7362e4a9da9c826d|Parity fix|Wed, 11 Dec 2019 14:33:55 +0100|Wed, 11 Dec 2019 14:33:55 +0100
+3285cc7e9f9a67557848459808d3494471e5945e|Fixed dockerfiles broken by go mod|Wed, 27 Nov 2019 17:34:37 +0100|Wed, 27 Nov 2019 17:34:37 +0100
+56e04907f6c1a2ea88a9831b82266edc9b32647c|trying to fix linux issue|Tue, 26 Nov 2019 13:59:04 +0100|Tue, 26 Nov 2019 13:59:04 +0100
+0900085376564cf4490d7bd27c3c1af00b5db8e5|trying to fix missing lib on linux only|Tue, 26 Nov 2019 13:49:11 +0100|Tue, 26 Nov 2019 13:49:11 +0100
+53c197fdbb612dd29cc532b64c6124295171db5f|remove unnecessary dockerfile step|Tue, 26 Nov 2019 13:25:13 +0100|Tue, 26 Nov 2019 13:25:13 +0100
+4c128aaeeb0ea50c26d7d69c300a5a05894a4cfb|Geth now based on docker image|Tue, 26 Nov 2019 12:32:14 +0100|Tue, 26 Nov 2019 12:32:14 +0100
+c070c1d0f303a8cc10229643a3afa33c701d8e9b|New config for Parity|Mon, 25 Nov 2019 19:53:10 +0100|Mon, 25 Nov 2019 19:53:10 +0100
+6fd2bc307c8ef2e91f6be9190597a68aa6b9085b|GQL text fix|Tue, 5 Nov 2019 11:40:48 +0100|Tue, 5 Nov 2019 11:40:48 +0100
+423010c4335506acbe72fd3302188dbdff3f8108|Graphql for geth tests|Mon, 28 Oct 2019 18:18:43 +0100|Mon, 28 Oct 2019 18:18:43 +0100
+6df10daf8fccfcd484c9aa1beec58d7128112a7e|Fixed sync tests|Wed, 23 Oct 2019 13:20:04 +0200|Wed, 23 Oct 2019 13:20:04 +0200
+1b8f8406e070da356f0203beffd827bd80d5ef4b|Txt search in open cases|Fri, 18 Oct 2019 00:24:34 +0200|Fri, 18 Oct 2019 00:24:34 +0200
+67c8c0a28c63dca0352b128ce9bd13ea15d1df7e|Performance problem on Open|Thu, 17 Oct 2019 22:21:33 +0200|Thu, 17 Oct 2019 22:21:33 +0200
+1bd7c332b3f356a6ede6c96088713718c944f318|Sorting on test cases|Thu, 17 Oct 2019 18:38:32 +0200|Thu, 17 Oct 2019 18:38:32 +0200
+9609bc198278fa42af9b326300ca5f102b082815|Fix wrong chain id parm format in geth|Wed, 16 Oct 2019 19:56:22 +0200|Wed, 16 Oct 2019 19:56:22 +0200
+abfd08d68e0eb2075c0dd8b3d0395c67c4387e77|aleth fix instanbul precompile|Tue, 15 Oct 2019 12:22:01 +0200|Tue, 15 Oct 2019 12:22:01 +0200
+268cf21233f6a1b64e107c0224c8feb6a4fc2c7e|Istanbul and chainid fixes|Tue, 15 Oct 2019 12:18:28 +0200|Tue, 15 Oct 2019 12:18:28 +0200
+09b9ddfc163985b2c5f332ef61b6198843619d84|Update geth client logs to diagnose sporadic error|Fri, 11 Oct 2019 14:47:09 +0200|Fri, 11 Oct 2019 14:47:09 +0200
+84d41aa43738e88c5470edc178ded02ec5904414|Attempting to address aleth startup timeouts|Thu, 10 Oct 2019 14:52:34 +0200|Thu, 10 Oct 2019 14:52:34 +0200
+88a5cc9308766b80dee7445e701ff5fc051d10ca|Fix IE syntax quirk|Thu, 10 Oct 2019 14:31:36 +0200|Thu, 10 Oct 2019 14:31:36 +0200
+a78b2cf70ead8d5035dd68bcc756d06ada19c78b|Popup race fix|Thu, 10 Oct 2019 14:04:02 +0200|Thu, 10 Oct 2019 14:04:02 +0200
+2c5ce7ff46174208f284b33bdfad47bd2134c3fc|tag mismatch|Thu, 10 Oct 2019 13:18:15 +0200|Thu, 10 Oct 2019 13:18:15 +0200
+4064a9898cb48864c88bd2ba9c4c586d976f24e5|Spacing fix|Thu, 10 Oct 2019 12:49:08 +0200|Thu, 10 Oct 2019 12:49:08 +0200
+c459279f0746fe48a5dd6e82b5b17f49db5d43d5|Fix bug with no logs available|Thu, 10 Oct 2019 12:00:09 +0200|Thu, 10 Oct 2019 12:00:09 +0200
+543b210a43e1181a2e7ef41bfec0c9d9afba8708|Info message improvemtn.|Thu, 10 Oct 2019 10:53:10 +0200|Thu, 10 Oct 2019 10:53:10 +0200
+a9177c1a2d23b386b9684d7a66e7d79cc9951848|Improve race timeout in popup|Thu, 10 Oct 2019 10:49:25 +0200|Thu, 10 Oct 2019 10:49:25 +0200
+1887c9f923848a61a4b15f9232c6b0e8b54b48eb|Download links fixed.|Thu, 10 Oct 2019 10:16:08 +0200|Thu, 10 Oct 2019 10:16:08 +0200
+64cf64c2c4f305edc20e4a27b50664ec70c5f392|RPC failures delete containers|Sun, 22 Sep 2019 11:26:14 +0200|Sun, 22 Sep 2019 11:26:14 +0200
+614d465540d48aca0c8f5e9ec85c276ee0845c56|Timeout bug fix|Fri, 20 Sep 2019 15:58:49 +0200|Fri, 20 Sep 2019 15:58:49 +0200
+74eac525b0bab85f4b0f7e38ee2447515084f33a|Aleth istanbul|Fri, 20 Sep 2019 12:47:11 +0200|Fri, 20 Sep 2019 12:47:11 +0200
+8ce671a37e8a74541312b20c37b57da77b3740bc|Geth and Parity Istanbul|Fri, 20 Sep 2019 12:15:04 +0200|Fri, 20 Sep 2019 12:15:04 +0200
+5314e2eafd0e8479a1871598af063fd7ca953986|Fix sort pass and fail|Thu, 19 Sep 2019 20:21:56 +0200|Thu, 19 Sep 2019 20:21:56 +0200
+c0f0bd0eea65ecbf48b16158bc553c89b472cd44|Some Nethermind and UI pagination|Thu, 19 Sep 2019 20:15:51 +0200|Thu, 19 Sep 2019 20:15:51 +0200
+a69b7f05a8ee396633ee55ae5115280e97f9a4ec|Implement testsuite test count limiter|Thu, 19 Sep 2019 10:54:35 +0200|Thu, 19 Sep 2019 10:54:35 +0200
+c9a74f16e160379035131f65a836b9d2983f4892|Various fixes and consensus fix|Tue, 17 Sep 2019 19:26:34 +0200|Tue, 17 Sep 2019 19:26:34 +0200
+7ba944c5070dd513b06212067ea1d0f869f1317c|Fix container leak :-)|Tue, 17 Sep 2019 08:26:06 +0200|Tue, 17 Sep 2019 08:26:06 +0200
+ce6fd2c5c9484249b528d2de54aaf36553b25e8b|Fix accordion status error, disable some buttons|Mon, 16 Sep 2019 09:19:06 +0200|Mon, 16 Sep 2019 09:19:06 +0200
+678ab250b8a3ec1a463df23bbd01abea6e11c0ea|parity mod|Fri, 13 Sep 2019 16:23:37 +0200|Fri, 13 Sep 2019 16:23:37 +0200
+f9ecd5532c27570c93992809d3396c53f48cfa04|UI fixes|Wed, 11 Sep 2019 20:39:24 +0200|Wed, 11 Sep 2019 20:39:24 +0200
+44dfea060abc98706da7a0edf18e4d501b6cdc7a|Fix small view of controls button|Wed, 11 Sep 2019 17:27:18 +0200|Wed, 11 Sep 2019 17:27:18 +0200
+4e4f7287e81c76e9a9114987ce8f5653be7302af|Button for filters|Wed, 11 Sep 2019 16:18:49 +0200|Wed, 11 Sep 2019 16:18:49 +0200
+7cf5bcfb2120ebc15a02c826620fdb452a45a5cd|Rename index file|Tue, 10 Sep 2019 13:55:26 +0200|Tue, 10 Sep 2019 13:55:26 +0200
+18c7b342052cd18aa7eb7a33396107c642ee3200|Fix hardcoded logdir with temp solution|Tue, 10 Sep 2019 12:48:58 +0200|Tue, 10 Sep 2019 12:48:58 +0200
+12bb0a91359940857b15f5f26b34ea7f3fbfb6e9|Modal popup fix|Mon, 9 Sep 2019 18:33:33 +0200|Mon, 9 Sep 2019 18:33:33 +0200
+78158421a3cad7708c0945a4e56e983729716d3b|Added bulk export, WIP|Fri, 30 Aug 2019 15:32:46 +0200|Fri, 30 Aug 2019 15:32:46 +0200
+4e63b49007c1e0b50eef222a82bb308521f207b8|Fix default sort order|Fri, 30 Aug 2019 12:07:37 +0200|Fri, 30 Aug 2019 12:07:37 +0200
+35750591d508373b246e785624fc4f3db05cc011|Fix client filter|Fri, 30 Aug 2019 12:02:29 +0200|Fri, 30 Aug 2019 12:02:29 +0200
+773f47c73239f7c28ce508ba97d40a4540799692|Istanbul changes pt1|Thu, 29 Aug 2019 15:50:19 +0200|Thu, 29 Aug 2019 15:50:19 +0200
+a632085bc33ffd1fe844fb4ac92a4523b2e32a40|remove old viewer|Thu, 29 Aug 2019 15:23:52 +0200|Thu, 29 Aug 2019 15:23:52 +0200
+93d30be7d5c2f8e728de881c14c066026d26c88b|Minor UI fixes|Thu, 29 Aug 2019 15:17:36 +0200|Thu, 29 Aug 2019 15:17:36 +0200
+9b83d6d8c571cb641ee902b59f6ba16965f3c8a3|Fix multiclient display|Thu, 29 Aug 2019 12:43:29 +0200|Thu, 29 Aug 2019 12:43:29 +0200
+aaf24204e46395191a639b20bbbe50f9be6055ea|Client name bug|Thu, 29 Aug 2019 09:22:30 +0200|Thu, 29 Aug 2019 09:22:30 +0200
+febbcb6dcc817b89e66de643502fa1e63cbcc21e|consensuns tests|Wed, 28 Aug 2019 12:29:39 +0200|Wed, 28 Aug 2019 12:29:39 +0200
+593c63f8574d1556d530c27cbcdfb54d3c5b9945|Consensus v2|Tue, 27 Aug 2019 14:52:03 +0200|Tue, 27 Aug 2019 14:52:03 +0200
+1f0ce43475e9c95d72fe62b92f011bb53b4648e4|File transfers now working|Sun, 25 Aug 2019 13:31:50 +0200|Sun, 25 Aug 2019 13:31:50 +0200
+671025c9c48bcd3e80ffd733b08d5ff79a258dda|WIP - mods for client init file provision|Sun, 25 Aug 2019 12:25:20 +0200|Sun, 25 Aug 2019 12:25:20 +0200
+09bd85649ddb7fa292cb687f67f9bd1c423b659e|p2p tests now working in new engine|Fri, 23 Aug 2019 10:51:40 +0200|Fri, 23 Aug 2019 10:51:40 +0200
+e2a213426e4274d3ae84ff6af8813a29714164c2|WIP - simulation HTTP API working again|Thu, 22 Aug 2019 16:33:01 +0200|Thu, 22 Aug 2019 16:33:01 +0200
+8b09db43b049e042b0d089c03045ca839ff728ec|-|Thu, 22 Aug 2019 16:28:46 +0200|Thu, 22 Aug 2019 16:28:46 +0200
+9e4cf0083fb7e8b1d793fa75701c249960ad8fce|WIP - test running|Thu, 22 Aug 2019 15:54:39 +0200|Thu, 22 Aug 2019 15:54:39 +0200
+0607bbcd737f1bc9eb39c7a11fb6523e2f79a990|WIP - fixing typos and bugs|Thu, 22 Aug 2019 14:28:54 +0200|Thu, 22 Aug 2019 14:28:54 +0200
+bc05c3e7d88b376040051baf6d973550a1b653fb|WIP - simulator server rework|Thu, 22 Aug 2019 11:22:21 +0200|Thu, 22 Aug 2019 11:22:21 +0200
+5bd8ebf608672d50311771852bd80c40b8693410|WIP - more simulator.go changes for core hive|Wed, 21 Aug 2019 19:39:47 +0200|Wed, 21 Aug 2019 19:39:47 +0200
+19d40c1d008ed99996a9176f0edf17a98a679354|WIP - simulator rework in Hive main|Wed, 21 Aug 2019 11:56:25 +0200|Wed, 21 Aug 2019 11:56:25 +0200
+21f5a8c67b603bdb1578eeee0ba17bd775133c69|WIP - hive simulator API|Tue, 20 Aug 2019 13:20:42 +0200|Tue, 20 Aug 2019 13:20:42 +0200
+9bf2453a41830a9f486df7a3fc0b504a352c8013|Tests - WIP refactoring for shared test manager|Tue, 20 Aug 2019 12:15:13 +0200|Tue, 20 Aug 2019 12:15:13 +0200
+1b7cd6f9cb63d5aa0ee88b3808d9ea0af113869b|WIP - reworking Hive main code|Mon, 19 Aug 2019 19:47:17 +0200|Mon, 19 Aug 2019 19:47:17 +0200
+bed6a55d64f9420b7cb238ba3c9122c98a57bf01|WIP changes + draft Sync Test mods to use new API|Mon, 12 Aug 2019 20:14:12 +0200|Mon, 12 Aug 2019 20:14:12 +0200
+1d937c3c870c8aa04d2f78236ed230ed7f3ea0eb|UI v1 draft done|Mon, 5 Aug 2019 20:55:22 +0200|Mon, 5 Aug 2019 20:55:22 +0200
+0a8056527de627d87c745d4aae08ae485d673f70|Sorting Filtering - Test Suites|Mon, 5 Aug 2019 14:56:39 +0200|Mon, 5 Aug 2019 14:56:39 +0200
+057d357b51cca4b26d7067d06a1593a5f0e88ddd|Colour binding of pass fail status|Thu, 1 Aug 2019 20:56:47 +0200|Thu, 1 Aug 2019 20:56:47 +0200
+7c5c0b3fe3404bde5640858f677fe2d68d6525ac|UI load on demand|Thu, 1 Aug 2019 18:31:02 +0200|Thu, 1 Aug 2019 18:31:02 +0200
+57fdefb2fc3a56f734c2e748d45e12312cc51ddf|Index and db updates working|Fri, 26 Jul 2019 16:31:59 +0200|Fri, 26 Jul 2019 16:31:59 +0200
+8d2a693552a7c52b109b128bc7043704f4432689|Update db with index|Fri, 26 Jul 2019 15:53:33 +0200|Fri, 26 Jul 2019 15:53:33 +0200
+7ed1ba0e91ab930be6ba06784c4ffced06c6357e|Converted to gomod|Fri, 26 Jul 2019 12:39:13 +0200|Fri, 26 Jul 2019 12:39:13 +0200
+5f7eb8b75d0d45286c8683cd250e5ac0bf796424|Stashing more changes|Thu, 25 Jul 2019 16:41:24 +0200|Thu, 25 Jul 2019 16:41:24 +0200
+237b9bf35aadafdf1712684165969c9711d42277|Test suite summary view|Fri, 19 Jul 2019 15:59:56 +0200|Fri, 19 Jul 2019 15:59:56 +0200
+51afba88c90ca8995177f07577c2fe0587dc1908|Basic app structure for new viewer|Thu, 18 Jul 2019 16:52:48 +0200|Thu, 18 Jul 2019 16:52:48 +0200
+61da256399701f82828e5646a8a0f344ee33fd06|Remove exe|Wed, 17 Jul 2019 16:14:22 +0200|Wed, 17 Jul 2019 16:14:22 +0200
+fa947c0b62383a80d53aa1e8fc4b0a63ce2f3966|Add client info to local provider|Wed, 17 Jul 2019 15:53:56 +0200|Wed, 17 Jul 2019 15:53:56 +0200
+a2d55208a859e72f608f5eaea28ffd83febeb6f2|p2p tests running locally against running instance|Wed, 17 Jul 2019 13:03:34 +0200|Wed, 17 Jul 2019 13:03:34 +0200
+f04ac3cf1a5b5cbf1164d8a2b7bdb969fd088c66|Fixed issue with non-docker network interface|Tue, 16 Jul 2019 17:54:23 +0200|Tue, 16 Jul 2019 17:54:23 +0200
+64c0a72052f39fb03ca1e5d0d5602863140523a4|More fixes|Tue, 16 Jul 2019 15:53:29 +0200|Tue, 16 Jul 2019 15:53:29 +0200
+d3c1f9005ea530ff96280e7cb6eda8c318af9c8d|Fix range bug|Tue, 16 Jul 2019 15:47:22 +0200|Tue, 16 Jul 2019 15:47:22 +0200
+f61729af71e8a37621233d7d1644ab657f129423|Fix reference bugs|Tue, 16 Jul 2019 15:46:42 +0200|Tue, 16 Jul 2019 15:46:42 +0200
+21d8424016ddc8d97811cceb2f1904eb15d577a7|Modifying p2p tests to use new structure|Tue, 16 Jul 2019 13:51:19 +0200|Tue, 16 Jul 2019 13:51:19 +0200
+dd1ab1a9912a1e28da4197f6fece3511e7977ddd|Fixed cyclic dependency|Tue, 16 Jul 2019 11:02:51 +0200|Tue, 16 Jul 2019 11:02:51 +0200
+88738c593b9de8ed88595bd66847978afdd0f4f1|Correcting output mechanism|Mon, 15 Jul 2019 14:48:53 +0200|Mon, 15 Jul 2019 14:48:53 +0200
+2635a8594a83c13449e584321a6ae32e2c6aee45|Local end test cases|Mon, 15 Jul 2019 13:06:02 +0200|Mon, 15 Jul 2019 13:06:02 +0200
+578a0e42708ee2b909e8c85703d9422703ee92c6|Write out test results in local provider|Mon, 15 Jul 2019 10:41:58 +0200|Mon, 15 Jul 2019 10:41:58 +0200
+ce1077a648406e9c0936a8470249383b4374954e|Ouput results|Thu, 11 Jul 2019 17:22:28 +0200|Thu, 11 Jul 2019 17:22:28 +0200
+adeef079ebcc27ab1e6e9a77527bfc7fb5c5037d|Add providers|Thu, 11 Jul 2019 15:57:00 +0200|Thu, 11 Jul 2019 15:57:00 +0200
+0465eefdc7af3b4586d30d3907b4365556866063|Test get client types|Thu, 11 Jul 2019 13:42:22 +0200|Thu, 11 Jul 2019 13:42:22 +0200
+3cdc72630d6a0fd09c03ee43e58388921bc998cb|Test get pseudo and local package doc|Thu, 11 Jul 2019 13:14:32 +0200|Thu, 11 Jul 2019 13:14:32 +0200
+bc595ddd35e8d801927471e0ffc0921828138606|Test get enode|Thu, 11 Jul 2019 12:56:45 +0200|Thu, 11 Jul 2019 12:56:45 +0200
+f6bd31aebb49b6f5c7dedef53dbd87fe19ce82ef|Get node implementation and test|Wed, 10 Jul 2019 15:46:28 +0200|Wed, 10 Jul 2019 15:46:28 +0200
+c152587b23ed10201e0f321d6ac5e62434717a81| start test unit test|Wed, 10 Jul 2019 13:04:44 +0200|Wed, 10 Jul 2019 13:04:44 +0200
+04fe66423bfae77c8440159dbb605fb6403e8190|test start test suite|Tue, 9 Jul 2019 16:42:57 +0200|Tue, 9 Jul 2019 16:42:57 +0200
+a140efd3ad12b484ae8736c43b6478aeb1d053a9|Adding tests - get instance|Tue, 9 Jul 2019 13:13:50 +0200|Tue, 9 Jul 2019 13:13:50 +0200
+b791ad60b6a1bfbd7876d93e011ed975d1f9f9dc|Added predefined error vars|Tue, 9 Jul 2019 09:35:53 +0200|Tue, 9 Jul 2019 09:35:53 +0200
+f680c6d0fe62ba82d55ca60bd5776d4d5be2c60c|Add error return to singleton init|Mon, 8 Jul 2019 16:02:01 +0200|Mon, 8 Jul 2019 16:02:01 +0200
+a2ab1f6aed2329686fbdba2c0f01134a03c69060|Hive restructuring|Mon, 8 Jul 2019 14:12:40 +0200|Mon, 8 Jul 2019 14:12:40 +0200
+f43fee6febc01b066c137b023175720b2df2b068|Local proxy implementation|Tue, 2 Jul 2019 15:58:59 +0200|Tue, 2 Jul 2019 15:58:59 +0200
+78e5cf90d0e2e8444f9a684a9622f1eb986b1b0b|Stash|Fri, 28 Jun 2019 16:03:54 +0200|Fri, 28 Jun 2019 16:03:54 +0200
+6abfc026ddf82a611fe484ed469306ee00acbcc0|Continuing adding local provider|Thu, 27 Jun 2019 13:58:02 +0200|Thu, 27 Jun 2019 13:58:02 +0200
+1a09da26f7b376f50fa9a34c4c803c2e4c372b57|Introducing provider model|Wed, 26 Jun 2019 14:26:49 +0200|Wed, 26 Jun 2019 14:26:49 +0200
+5fc992ff04fcfad009036bedba485c7015cbfe7f|added basic structures|Mon, 24 Jun 2019 17:05:07 +0200|Mon, 24 Jun 2019 17:05:07 +0200
+e4daf69896206bd2aff7b62744fa8fff408ae533|Rework clean up - 1|Fri, 14 Jun 2019 08:37:54 +0200|Mon, 24 Jun 2019 13:44:45 +0200
+f2ffd3b6f00f1783bcb9ddf0b7732a5f8dbd3a7b|Merge pull request #246 from ethereum/nm3|Wed, 19 Jun 2019 19:46:23 +0200|Wed, 19 Jun 2019 19:46:23 +0200
+898557c8affe548948ff3f971746775f9bcf557d|bug fix - error logging terminated node|Wed, 19 Jun 2019 19:45:17 +0200|Wed, 19 Jun 2019 19:45:17 +0200
+91c186e482535875c1e08d4680d5a3ace77ccc54|Merge pull request #245 from ethereum/nm3|Wed, 19 Jun 2019 10:21:12 +0200|Wed, 19 Jun 2019 10:21:12 +0200
+bf9c029ad95af62aa8bf60026472d09f7f174799|Mapper fix for consensus|Wed, 19 Jun 2019 09:52:36 +0200|Wed, 19 Jun 2019 09:52:36 +0200
+cdf189db6b3b459d3b020e96d2f201a5af14c0a2|Merge pull request #244 from ethereum/nm3|Tue, 18 Jun 2019 14:21:24 +0200|Tue, 18 Jun 2019 14:21:24 +0200
+9086095ad2aa86512b37e7754aab50b3f82cbb76|mapper + simulator limiter|Tue, 18 Jun 2019 14:17:19 +0200|Tue, 18 Jun 2019 14:17:19 +0200
+83f1cf3d57fb3d71c1b4b5dfdda96c2b03b37a7e|Merge pull request #242 from tkstanczak/patch-13|Mon, 17 Jun 2019 13:17:46 +0200|Mon, 17 Jun 2019 13:17:46 +0200
+9bc3302a613dd552664caf336fbe0d311a4d0b09|Merge pull request #241 from tkstanczak/patch-12|Mon, 17 Jun 2019 13:17:30 +0200|Mon, 17 Jun 2019 13:17:30 +0200
+09e461ec75d32ea8ea194c01b01a78090aafe6c7|Merge pull request #239 from tkstanczak/patch-10|Mon, 17 Jun 2019 13:15:10 +0200|Mon, 17 Jun 2019 13:15:10 +0200
+a469376c0d75c767e750277292c184e2c636eb25|Merge pull request #238 from tkstanczak/patch-9|Mon, 17 Jun 2019 13:14:12 +0200|Mon, 17 Jun 2019 13:14:12 +0200
+6d2ad9b1bd3da1cd75ea99d1378f43ae764bb627|Update test.json|Sat, 15 Jun 2019 01:12:44 +0100|Sat, 15 Jun 2019 01:12:44 +0100
+0a82862c5a430628047bcbd05fba37a46946feb9|Update mapper.jq|Sat, 15 Jun 2019 00:52:43 +0100|Sat, 15 Jun 2019 00:52:43 +0100
+885f89510ffce6af9214ea14abfa3867724c4d30|Update mapper.jq|Sat, 15 Jun 2019 00:51:19 +0100|Sat, 15 Jun 2019 00:51:19 +0100
+67b905db10d8bf85366c7189ed2048677bd6de0c|Update mapper.jq|Sat, 15 Jun 2019 00:40:43 +0100|Sat, 15 Jun 2019 00:40:43 +0100
+cad1bff2c4353e33ed07a5fa6ec0c6af1589eee3|Update nethermind.sh|Sat, 15 Jun 2019 00:26:22 +0100|Sat, 15 Jun 2019 00:26:22 +0100
+22375db77a3e2b9989a9b67ee087c2da192eb234|Merge pull request #237 from ethereum/nm2|Fri, 14 Jun 2019 22:59:47 +0200|Fri, 14 Jun 2019 22:59:47 +0200
+b73db6026a467adad4f8a69b6667e9a50bd957f1|Fixing mapping|Fri, 14 Jun 2019 22:56:19 +0200|Fri, 14 Jun 2019 22:56:19 +0200
+6a0f82964b8b485809c91dd63792dbd165e66c39|Merge pull request #236 from tkstanczak/patch-7|Fri, 14 Jun 2019 08:30:33 +0200|Fri, 14 Jun 2019 08:30:33 +0200
+09913633a10201470d5f2e1623b0c25fe15c6746|Merge pull request #234 from tkstanczak/patch-5|Fri, 14 Jun 2019 08:26:35 +0200|Fri, 14 Jun 2019 08:26:35 +0200
+07576f8f2e002e9d2426f5010ecaad431cd2a9b3|Merge pull request #233 from tkstanczak/patch-4|Fri, 14 Jun 2019 08:26:12 +0200|Fri, 14 Jun 2019 08:26:12 +0200
+fb7643c3f47ca39587318efc36ccba73a369fc41|Merge pull request #232 from tkstanczak/patch-3|Fri, 14 Jun 2019 08:25:41 +0200|Fri, 14 Jun 2019 08:25:41 +0200
+6fc66a026c6155a2268b266271b317b0960a51b6|Update test.cfg|Fri, 14 Jun 2019 02:27:20 +0100|Fri, 14 Jun 2019 02:27:20 +0100
+6ced2716994b14d40db76ff667f630251420fd80|Update Dockerfile|Thu, 13 Jun 2019 23:11:45 +0100|Thu, 13 Jun 2019 23:11:45 +0100
+687629088c8139fe908d5774904cb99e27ec3925|Update Dockerfile|Thu, 13 Jun 2019 23:03:09 +0100|Thu, 13 Jun 2019 23:03:09 +0100
+74eef1716fb5b52c28f97c3e3e049c6015d0c4fd|Update nethermind.sh|Thu, 13 Jun 2019 22:56:42 +0100|Thu, 13 Jun 2019 22:56:42 +0100
+9f8665f36cb4c4425a803d9cda39937d4d5b08ca|Merge pull request #231 from ethereum/Nethermind|Tue, 4 Jun 2019 13:38:20 +0200|Tue, 4 Jun 2019 13:38:20 +0200
+9aa3cd530077501d29abb546870684d1352dcc34|Chainloader again.|Tue, 4 Jun 2019 13:36:38 +0200|Tue, 4 Jun 2019 13:36:38 +0200
+30d795f069ed53f41f42e3cedf2c7505563b83f7|Merge pull request #229 from ethereum/simulation-log-levels|Mon, 27 May 2019 13:15:41 +0200|Mon, 27 May 2019 13:15:41 +0200
+38b70cd1be4b7859473c503dd4de92370a808dd2|Add simulator loglevel|Mon, 27 May 2019 13:12:16 +0200|Mon, 27 May 2019 13:12:16 +0200
+904c5b298eb2c93302d17071dc117206c92896dc|Merge pull request #228 from ethereum/Nethermind|Fri, 24 May 2019 12:08:24 +0200|Fri, 24 May 2019 12:08:24 +0200
+be15a0e0c844234f22238b774e1c9bcb1a29dcfa|Fixed for latest changes|Fri, 24 May 2019 12:00:16 +0200|Fri, 24 May 2019 12:00:16 +0200
+cb4371b9f4dc28677b9b6682d076cf6aad16a155|Merge pull request #223 from ethereum/Nethermind|Tue, 21 May 2019 21:05:01 +0200|Tue, 21 May 2019 21:05:01 +0200
+e33d5fb2847b32292255d3527cfb2cda53237c67|Fix for latest Nethermind|Tue, 21 May 2019 21:03:23 +0200|Tue, 21 May 2019 21:03:23 +0200
+d79a54fb6ba830e9d2e81e929cc5f249a8078b42|Merge pull request #221 from ethereum/Nethermind|Fri, 17 May 2019 14:13:38 +0200|Fri, 17 May 2019 14:13:38 +0200
+b89495194f2fa0f3aa81fc306481f76f26cf0bd2|Trying to get sync tests to work|Fri, 17 May 2019 14:01:53 +0200|Fri, 17 May 2019 14:01:53 +0200
+085948fe7e7877dc3856984e43ca3a718d9e2cc7|Nethermind successfully importing blocks|Thu, 16 May 2019 19:28:01 +0200|Thu, 16 May 2019 19:28:01 +0200
+dafd4eed3d72319d47b2bcf923fa7d33f6f6ca95|NEthermind chain load attempt|Thu, 16 May 2019 10:52:15 +0200|Thu, 16 May 2019 12:36:21 +0200
+0bebaa90971ad6831e915d8809a59e757ed03662|Nethermind added|Fri, 10 May 2019 17:28:30 +0200|Thu, 16 May 2019 12:36:21 +0200
+67f59bd6857382bc919a45f6aac0e590e47fda76|Nethermind addition|Fri, 10 May 2019 14:03:16 +0200|Thu, 16 May 2019 12:36:21 +0200
+a3a6fc2e6fbeb965520faf18eab6c6997c58ce2f|Merge pull request #220 from ethereum/sealingEthashFix|Thu, 16 May 2019 11:19:09 +0200|Thu, 16 May 2019 11:19:09 +0200
+22fdae45c94a300006bab70bcb4ea580fc78bcbd|Chaintools fix|Thu, 16 May 2019 11:17:02 +0200|Thu, 16 May 2019 11:17:02 +0200
+365877e55145694fd07cd0cbe7e7b9a77a70f333|Merge pull request #217 from ethereum/AlethSyncIssue|Fri, 10 May 2019 14:50:31 +0200|Fri, 10 May 2019 14:50:31 +0200
+4b523686b58d88748f36b3d23a25a21f255387b3|Aleth sync tests working again|Fri, 10 May 2019 14:49:08 +0200|Fri, 10 May 2019 14:49:08 +0200
+1bce7b289c6152214931dd7778e6fb733ea3c455|Merge pull request #216 from ethereum/Frank|Mon, 6 May 2019 20:55:34 +0200|Mon, 6 May 2019 20:55:34 +0200
+347d747204b24b260f5f0043c5d0cab10b4205d2|Test fixes|Mon, 6 May 2019 20:53:58 +0200|Mon, 6 May 2019 20:53:58 +0200
+97deb9e1c7a877ec1f497072c8dbbe9262546de6|Merge pull request #215 from ethereum/Frank|Mon, 6 May 2019 11:52:18 +0200|Mon, 6 May 2019 11:52:18 +0200
+d597b21766c2af2a710e02e7ba7825826ebbd994|Readme - add link to hivetests|Mon, 6 May 2019 11:51:44 +0200|Mon, 6 May 2019 11:51:44 +0200
+327e4e76f83d602c40e4099dba371502aced187b|Merge pull request #213 from ethereum/AlethSyncIssue|Mon, 29 Apr 2019 20:31:55 +0200|Mon, 29 Apr 2019 20:31:55 +0200
+a7d29674754d0ca7703a921e4a497e2cd8d1158e|Fix aleth sync|Mon, 29 Apr 2019 20:29:21 +0200|Mon, 29 Apr 2019 20:29:21 +0200
+59c680515a05cb06adc9aa0fb78190a3eaf9d566|Merge pull request #211 from ethereum/RelayFix|Mon, 29 Apr 2019 12:57:32 +0200|Mon, 29 Apr 2019 12:57:32 +0200
+b79aa151ac6d647ce1b55ecfab8787a995c3c499|Fix p2p tests for aleth|Mon, 29 Apr 2019 12:55:27 +0200|Mon, 29 Apr 2019 12:55:27 +0200
+e68f986b00e0ffd7cdd51ff6104c8078a501ccb9|Merge pull request #210 from ethereum/RelayFix|Mon, 29 Apr 2019 12:05:24 +0200|Mon, 29 Apr 2019 12:05:24 +0200
+3d57d161ede56aa06b35134bef8c689c77d38d97|Remove verbosity|Mon, 29 Apr 2019 12:04:43 +0200|Mon, 29 Apr 2019 12:04:43 +0200
+e2cf51975fee172a5790257bda742243449a8183|Fix parameters|Mon, 29 Apr 2019 12:03:20 +0200|Mon, 29 Apr 2019 12:03:20 +0200
+994fee5120128fd0e0cc3b30f501086fa77082bd|Merge pull request #206 from ethereum/RelayFix|Sun, 28 Apr 2019 14:26:12 +0200|Sun, 28 Apr 2019 14:26:12 +0200
+2cd86368cd574db6bfcc147911a4d9cbc714d729|Fix relay and p2p test|Sun, 28 Apr 2019 14:25:09 +0200|Sun, 28 Apr 2019 14:25:09 +0200
+6b19e9920dbe3c4f94c61866c6ab59d7cb730585|Fix Aleth tests + remove some redundant code (#205)|Fri, 26 Apr 2019 13:14:07 +0200|Fri, 26 Apr 2019 13:14:07 +0200
+2fee059062e7163262215ab94b51ca311ccd854b|Permissions (#204)|Wed, 24 Apr 2019 14:05:14 +0200|Wed, 24 Apr 2019 14:05:14 +0200
+6163ed78dd57bd1c0edb5b5b988b03e402ff29d9|Added test command lines to readme (#201)|Wed, 24 Apr 2019 09:29:14 +0200|Wed, 24 Apr 2019 09:29:14 +0200
+9446d5f8959352ad89d1436ef6c12b0a73261fad|Merge pull request #198 from ethereum/Issue189|Fri, 22 Mar 2019 17:08:12 +0100|Fri, 22 Mar 2019 17:08:12 +0100
+a190f4cff3b2ec757362545935b617811ef584c8|Allow user specified branches + some fixes|Fri, 22 Mar 2019 12:02:16 +0100|Fri, 22 Mar 2019 12:02:16 +0100
+5d51c34ea6606759dc50bdf6e1e1d9fc9a8c89bf|Merge pull request #193 from ethereum/NoShellError|Tue, 19 Mar 2019 13:39:53 +0100|Tue, 19 Mar 2019 13:39:53 +0100
+1c3ed8623e45db99cdf55181c8ab8f750efdb8c1|Fix merge error overwriting earlier change|Tue, 19 Mar 2019 13:37:40 +0100|Tue, 19 Mar 2019 13:37:40 +0100
+d349a1d86fedef5d9c78d1a4f84476025970d730|Fixing noshell|Tue, 19 Mar 2019 13:17:05 +0100|Tue, 19 Mar 2019 13:17:05 +0100
+963593555011183f853dec3f0c60b33e6419628e|Merge pull request #182 from etclabscore/fix/devp2p-allows-nil-pointer-ref|Mon, 18 Mar 2019 13:30:13 +0100|Mon, 18 Mar 2019 13:30:13 +0100
+b294270ed07353bb5c5a4fdb4f550151d3a6ffb0|Merge branch 'master' into fix/devp2p-allows-nil-pointer-ref|Mon, 18 Mar 2019 13:29:59 +0100|Mon, 18 Mar 2019 13:29:59 +0100
+a7208ec1a8051e2865569562323eecf3eee8d1f8|Merge pull request #192 from ethereum/MemDbFix|Thu, 14 Mar 2019 17:13:35 +0100|Thu, 14 Mar 2019 17:13:35 +0100
+aa93e48a14b82f81f6f6c480e009f1721f88ea9f|Dependency changed|Wed, 13 Mar 2019 17:57:41 +0100|Wed, 13 Mar 2019 17:57:41 +0100
+deb4a71b3e00acde8d323c453e87d131fb756b2b|Merge pull request #183 from ethereum/DiscoverySpoofing|Wed, 13 Mar 2019 11:52:54 +0100|Wed, 13 Mar 2019 11:52:54 +0100
+b18e614907d376c470ea863b403442731a5e4a93|Merge branch 'master' into DiscoverySpoofing|Mon, 11 Mar 2019 09:37:19 +0100|Mon, 11 Mar 2019 09:37:19 +0100
+a7b8ce8d4acf8df6e7bb337cb5e5a31aceaf6578|Fix conditional spacing (#187)|Fri, 8 Mar 2019 05:37:46 -0600|Fri, 8 Mar 2019 12:37:46 +0100
+571fafde19b46f81c0490eda12cfedd379eac97b|Make script executable (#181)|Mon, 4 Mar 2019 07:45:18 -0600|Mon, 4 Mar 2019 14:45:18 +0100
+a9161486be92b69bda4f4a5b64374ed50444378d|Return error if no clients match given client regexp pattern (#179)|Mon, 4 Mar 2019 07:44:51 -0600|Mon, 4 Mar 2019 14:44:51 +0100
+e6fa3bbe4c5e2381b70ab93b0ec06ad5c4823604|Sync sim (#163)|Mon, 4 Mar 2019 14:43:09 +0100|Mon, 4 Mar 2019 14:43:09 +0100
+e4fba94538a08f633d323195b44a94f30552f5c1|Merge fix|Sun, 24 Feb 2019 13:28:24 +0100|Sun, 24 Feb 2019 13:28:24 +0100
+1f28181cfad712ff3b6033b08ce1a0cf2fdf25da|Spoofing tests complete|Sun, 24 Feb 2019 13:19:30 +0100|Sun, 24 Feb 2019 13:26:16 +0100
+1b03ab9e0942aa7591568da243f5b87416f3516f|Spoof testing|Fri, 22 Feb 2019 11:46:19 +0100|Sun, 24 Feb 2019 13:25:26 +0100
+ff0b2e9df543c814fce36f88ed1c728bf8c7c770|Modified framework to support pseudo vs client|Thu, 21 Feb 2019 14:19:44 +0100|Sun, 24 Feb 2019 13:25:26 +0100
+54936afdd3e740f3b95a002920b20d77ee347b6c|WIP - added relay nodes|Wed, 20 Feb 2019 11:57:38 +0100|Sun, 24 Feb 2019 13:25:25 +0100
+7c46ca5526c6358355be867e6803397972ac15a5|stashing - spoofed source udp packets|Wed, 6 Feb 2019 17:47:09 +0100|Sun, 24 Feb 2019 13:25:25 +0100
+dfd0fefae12c040eedb597cb3d070191ad721d2d|Fix sim/devp2p/basic allowing targetNode to be nil|Thu, 14 Feb 2019 11:51:56 -0600|Thu, 14 Feb 2019 11:53:08 -0600
+afe29a12627e1d2f901d50502bb1c65cae5342ea|geth: less jq invocations (#174)|Fri, 1 Feb 2019 11:31:31 +0100|Fri, 1 Feb 2019 11:31:31 +0100
+878fffec52c52158f5069bfd8589cd0b4cc5d3fe|update client scripts for st petersburg (#173)|Mon, 28 Jan 2019 08:45:04 +0100|Mon, 28 Jan 2019 08:45:04 +0100
+65563da78c73951dc5cb8952cef314f44381b724|Resolve issues #170 and #166 (#172)|Mon, 28 Jan 2019 08:44:51 +0100|Mon, 28 Jan 2019 08:44:51 +0100
+c78f1d03b7037d1eb10e2ddd51e89c840a41cdc9|Cargofix (#169)|Thu, 3 Jan 2019 20:57:51 +0100|Thu, 3 Jan 2019 20:57:51 +0100
+be108acd926088fa46bb5b3e4c053474fd22b73c|parity: update cargo installation (#168)|Thu, 3 Jan 2019 20:05:04 +0100|Thu, 3 Jan 2019 20:05:04 +0100
+bded15a3012e7c41951b6acb6ea06960488a1d7f|aleth: remove field config from genesis (#167)|Thu, 3 Jan 2019 19:31:51 +0100|Thu, 3 Jan 2019 19:31:51 +0100
+db186d35afa12724b2d131c3e31f68361b275b4c|Chain tools (#161)|Fri, 14 Dec 2018 12:48:47 +0100|Fri, 14 Dec 2018 12:48:47 +0100
+c4e0f6f899286f4e0cef7490a1a4fda6fead5522|Make extra container for copying easier to avoid (#162)|Fri, 14 Dec 2018 12:20:50 +0100|Fri, 14 Dec 2018 12:20:50 +0100
+d2df38bfabb35bdc4f13a1afd2f6c05528fd6982|fix parity chainspec generation (#160)|Mon, 10 Dec 2018 11:30:50 +0100|Mon, 10 Dec 2018 11:30:50 +0100
+3058b9801364a06433cb584e6f86b444c35a65d6|Parityfix (#159)|Fri, 7 Dec 2018 19:12:49 +0100|Fri, 7 Dec 2018 19:12:49 +0100
+37c55f7e4cf6a28643f043a1b8122d2ec605fb57|fix deprecation of a parity chainconfig field (#158)|Fri, 7 Dec 2018 14:30:21 +0100|Fri, 7 Dec 2018 14:30:21 +0100
+c96c08781042e9c81038a68c2fc54d42c33cc4ee|don't do docker removal while holding lock (#156)|Thu, 6 Dec 2018 12:12:01 +0100|Thu, 6 Dec 2018 12:12:01 +0100
+06dd2f54d3b267aa38ecfcba5afb4aaadbf9b440|New clients + bug fixes (#151)|Thu, 6 Dec 2018 11:21:03 +0100|Thu, 6 Dec 2018 11:21:03 +0100
+7cd15ec4dbfe0ef5446151ae39ac1f22ede47563|release lock|Tue, 4 Dec 2018 14:13:38 +0100|Tue, 4 Dec 2018 14:13:38 +0100
+3b3a3bebf5521512664563ff91a8bef34ea143cb|separate timeout and terminate|Tue, 4 Dec 2018 13:54:54 +0100|Tue, 4 Dec 2018 13:54:54 +0100
+445397fee76ff2e3003114b3dd35e2027bd2fd03|don't return id until after it's registered ok|Tue, 4 Dec 2018 13:27:36 +0100|Tue, 4 Dec 2018 13:27:36 +0100
+16eaeebb0ab645528d1b7fe286234e66fa9dbb3f|simulator: use less mappings (#154)|Tue, 4 Dec 2018 10:24:46 +0100|Tue, 4 Dec 2018 10:24:46 +0100
+e8d5e2496fb7bfea2ed4301df3e7e8eda6244a1c|Go consensus (#153)|Sun, 2 Dec 2018 13:59:46 +0100|Sun, 2 Dec 2018 13:59:46 +0100
+097dd5159d09ac926d8151bfc7254c1af416b653|simulations: return ip when starting node, surface http errors, kill node on result (#152)|Sun, 2 Dec 2018 13:46:24 +0100|Sun, 2 Dec 2018 13:46:24 +0100
+d52ce53a4c1fe7233334e864411ec455e302ef6c|Simulatorfixes (#150)|Wed, 28 Nov 2018 09:50:59 +0100|Wed, 28 Nov 2018 09:50:59 +0100
+2aeffc10f677afa9f82f8134b5fbefad5f630cd7|simulator: fix a free varialbe assignment (#149)|Wed, 28 Nov 2018 09:35:28 +0100|Wed, 28 Nov 2018 09:35:28 +0100
+18aeea558352fd546ddc2bb9ea01510af98fd141|more bugfixes|Mon, 26 Nov 2018 15:24:53 +0100|Mon, 26 Nov 2018 15:24:53 +0100
+a386774a4fa7116dfcbabb34ae231301a30614cf|more fixes|Mon, 26 Nov 2018 13:39:23 +0100|Mon, 26 Nov 2018 13:39:23 +0100
+a5bb7f1cb576284731478589e36ad9f5a1049b98|bugfix simulator|Mon, 26 Nov 2018 13:30:32 +0100|Mon, 26 Nov 2018 13:30:32 +0100
+aa85b3c42f937c509eb49c1fe6ee463b5bbd6733|hive/simulator: wrap errors in multiprocessing execution|Mon, 26 Nov 2018 11:22:34 +0100|Mon, 26 Nov 2018 11:22:34 +0100
+f9110ba89d30697e8c9964e6dcd262fda30fac7a|log output folder (#148)|Fri, 23 Nov 2018 12:11:37 +0100|Fri, 23 Nov 2018 12:11:37 +0100
+3d120837d6a9e65f4aec1da0c78fdd669b4f589f|Devp2p simulations and Simulator Hive client (#145)|Fri, 23 Nov 2018 11:38:19 +0100|Fri, 23 Nov 2018 11:38:19 +0100
+4126c10feec2cddb3a69f573a4f138fd5a6b5842|possibly fix #143 (#144)|Fri, 16 Nov 2018 14:09:48 +0100|Fri, 16 Nov 2018 14:09:48 +0100
+64a05689d4ce808250fe46a9550f368806b76385|Fixed udp.go (#142)|Wed, 7 Nov 2018 11:59:11 +0100|Wed, 7 Nov 2018 11:59:11 +0100
+d3e3784b06ea10e0c0f483b33fc5ba0670d0ad47|Test results aggregator (#136)|Wed, 7 Nov 2018 09:59:24 +0100|Wed, 7 Nov 2018 09:59:24 +0100
+32f8a2836b9a2cd8ae2cf36b969fb21d3312c4a4|geth: decrease verbosity again|Fri, 19 Oct 2018 09:13:40 +0200|Fri, 19 Oct 2018 09:13:40 +0200
+a0565d5dd0da299a61f61b325b3fd0ec7e663a8f|Minor mods + parity chain config fix (#134)|Thu, 18 Oct 2018 14:48:43 +0200|Thu, 18 Oct 2018 14:48:43 +0200
+4214fbc520302f3b15c8f01c4dcefdb91fa71ad3|1.Windows compatibility. 2. Conflicts merged. 3.All discv4 tests (#128)|Thu, 18 Oct 2018 12:48:08 +0200|Thu, 18 Oct 2018 12:48:08 +0200
+5771673956a27e9f79d6513a660db5ed3b56bd57|Fixing Issue 122 Make the simulator able to specify a kill-timeout on containers (#130)|Tue, 16 Oct 2018 02:29:04 -0500|Tue, 16 Oct 2018 09:29:04 +0200
+8794fc20a5a8e457b20d91fe26055bd39605b1ef|Optimizes client module loading and blocks dump import. (#125)|Fri, 5 Oct 2018 12:31:50 +0300|Fri, 5 Oct 2018 11:31:50 +0200
+b53a0d8162e13b7fcdce6d0628cae3cf89eecd62|parity: rename eip86Transition into eip1014Transition (#124)|Wed, 12 Sep 2018 11:22:05 +0200|Wed, 12 Sep 2018 11:22:05 +0200
+f03a96827d5d266ee2733c31b5f42e34a2375446|parity: add (empty) difficultyBombDelays to chain.json|Mon, 10 Sep 2018 11:52:12 +0200|Mon, 10 Sep 2018 11:52:12 +0200
+5d25eb708aa7732bc866790182eabdb7ec54f67e|fix parity chain.json|Mon, 10 Sep 2018 10:59:42 +0200|Mon, 10 Sep 2018 10:59:42 +0200
+4ab386388111662d47a679153ca11af711a20f72|Handle https://github.com/paritytech/parity-ethereum/pull/9480, updates to parity config (#123)|Mon, 10 Sep 2018 09:43:51 +0200|Mon, 10 Sep 2018 09:43:51 +0200
+db66f618280130b9d3bace12ef6abb3bde52bdd8|Fixing Issue 111: Add json output of build error (#120)|Mon, 10 Sep 2018 01:50:30 -0500|Mon, 10 Sep 2018 08:50:30 +0200
+ee997aa5219241eeb27cdc0744e2fb200021a841|update parity options, update ethj docs|Sat, 1 Sep 2018 14:36:30 +0200|Sat, 1 Sep 2018 14:42:28 +0200
+34f34e0e6eb4dc4c1aeb391cd557ad92a15dfe15|replace HIVE_FORK_METROPOLIS with HIVE_FORK_BYZANTIUM, also remove pyethapp (deprecated)|Sat, 1 Sep 2018 14:03:32 +0200|Sat, 1 Sep 2018 14:42:28 +0200
+37ccc4ed7a5f78e1b63cd874b71bad156a63ca65|enable NoProof, fixes #117|Sat, 1 Sep 2018 13:50:57 +0200|Sat, 1 Sep 2018 14:42:28 +0200
+69c401a04c1eaf05f999d497184c4b7858d8b679|aleth: minor fix|Tue, 28 Aug 2018 21:24:18 +0200|Tue, 28 Aug 2018 21:24:18 +0200
+bb60d2a9e1438a481518875aaefd1ce30f8498b2|aleth: minor fix|Mon, 27 Aug 2018 13:52:01 +0200|Mon, 27 Aug 2018 13:52:01 +0200
+3b7dd293c73fb6b517ecc170532f32bd93491976|parity: config for skinny create 2|Wed, 22 Aug 2018 11:42:52 +0200|Wed, 22 Aug 2018 11:45:58 +0200
+5cd257a18d629c5b0e989f6e6a3fe9951fe01e32|aleth: constantinople fork config|Wed, 22 Aug 2018 11:39:42 +0200|Wed, 22 Aug 2018 11:45:58 +0200
+b9f1f3a243148e1e1aebb1cfd43ca5e46694045a|Add shift/extcodehash/eip1283 to parity config: https://github.com/karalabe/hive/issues/113|Wed, 22 Aug 2018 11:22:29 +0200|Wed, 22 Aug 2018 11:45:58 +0200
+cb2c435620c7db532dd5f70da85b6dfed9abaf4b|aleth: buildinfo fix (#112)|Wed, 22 Aug 2018 11:10:22 +0200|Wed, 22 Aug 2018 11:10:22 +0200
+c4469c8ce838117bc7f4a011bdde260fda1ba92a|Alethnew (#109)|Fri, 10 Aug 2018 12:38:30 +0200|Fri, 10 Aug 2018 12:38:30 +0200
+2eb318e1fb0109c5eef72c7e1dbcb6cc38c94356|Aleth (#107)|Tue, 7 Aug 2018 09:45:39 +0200|Tue, 7 Aug 2018 09:45:39 +0200
+49b0b43473379298eec67c5f6034f7011e1f4279|Merge pull request #106 from karalabe/paritycmake|Mon, 30 Jul 2018 23:07:43 +0200|Mon, 30 Jul 2018 23:07:43 +0200
+9d99796aaa767f4706a655a11b9ae336ee4c5dee|Fix parity: https://github.com/paritytech/parity-ethereum/commit/993650f3d63c04fe2f636bfaeeb02cfa301e3c7d|Mon, 30 Jul 2018 23:05:15 +0200|Mon, 30 Jul 2018 23:05:15 +0200
+ce293860490e5926764997755ca5df9af4a4bbcc|move eip150transition to general params|Sun, 3 Jun 2018 21:55:14 +0200|Sun, 3 Jun 2018 21:55:14 +0200
+b0ca0987ced1378d6b5690d64edc98bf1069dfbb|parity: fix chainspec json error|Fri, 1 Jun 2018 09:33:54 +0200|Fri, 1 Jun 2018 09:33:54 +0200
+9dbb472edd05a08475852336ed4940a62b650365|Merge pull request #105 from karalabe/move_parity_maxcode|Mon, 28 May 2018 11:08:30 +0200|Mon, 28 May 2018 11:08:30 +0200
+12b61eb1827f8c87ad9163b780a65cffdcbe26e9|set parity fork numbers to very high (otherwise defaults to 0)|Mon, 28 May 2018 11:07:03 +0200|Mon, 28 May 2018 11:07:03 +0200
+513f0b81ee0e81db1d0551b0defa39eb06f3b65c|Fix parity genesis reshuffle, see https://github.com/paritytech/parity/pull/8614|Thu, 24 May 2018 17:54:00 +0200|Thu, 24 May 2018 17:54:00 +0200
+b554a07a31f914c4c4d89ec52664341df042127e|Merge pull request #104 from karalabe/fix_ethash|Tue, 17 Apr 2018 10:11:44 +0200|Tue, 17 Apr 2018 10:11:44 +0200
+61848eb6f14970ef9cd78919cd7257367c4b2f29|Fix https://github.com/karalabe/hive/issues/103|Tue, 17 Apr 2018 10:08:23 +0200|Tue, 17 Apr 2018 10:08:23 +0200
+e666f9523cfbbf13423c0a8393decd7e7a0c0134|Merge branch 'master' of github.com:karalabe/hive|Mon, 12 Mar 2018 15:56:14 +0200|Mon, 12 Mar 2018 15:56:14 +0200
+e7ba66b173c75037f5fef5a6dc2edd6875ccfd6c|clients: configure ethereumj for byzantium too|Mon, 12 Mar 2018 15:54:50 +0200|Mon, 12 Mar 2018 15:54:50 +0200
+703fd4f52770d559ec64b52f9845e833987bd82e|Merge pull request #101 from karalabe/constantinople2|Mon, 12 Mar 2018 14:44:02 +0100|Mon, 12 Mar 2018 14:44:02 +0100
+4ae8531d937e4c3b75513f2f52f062f1abfd19a5|define constantinople rules|Tue, 6 Mar 2018 11:20:09 +0100|Mon, 12 Mar 2018 14:42:30 +0100
+16096f07cb46ec8f61746e501b8b08e34b1d8cb9|Merge branch 'master' of github.com:karalabe/hive|Mon, 12 Mar 2018 15:27:19 +0200|Mon, 12 Mar 2018 15:27:19 +0200
+65009de21b4fe9ff93d46d406ebb55a96243966c|benchmarkers/exotic/zksnarks: add new bn256 benchmark|Mon, 12 Mar 2018 15:25:15 +0200|Mon, 12 Mar 2018 15:25:15 +0200
+6ed92edcec93596080420ed5edc9ea105d07162e|clients: bump geth stable from 1.6.x to 1.8.x|Mon, 12 Mar 2018 15:24:47 +0200|Mon, 12 Mar 2018 15:24:47 +0200
+097f0bf571e5c2be38535c6b9ba17e5af0dfd318|benchmarkers/exotic/snailtracer: fix snailtracer benchmark|Mon, 12 Mar 2018 15:23:30 +0200|Mon, 12 Mar 2018 15:23:30 +0200
+5458750fd2c4a31fb795a798cc3502ea6f4215e9|clients: delete old testing geth branch|Mon, 12 Mar 2018 15:23:04 +0200|Mon, 12 Mar 2018 15:23:04 +0200
+8d96c28e2bf628225d72ff18c555752f87537a4d|Merge pull request #99 from karalabe/fixfix_parity|Mon, 12 Mar 2018 13:35:42 +0100|Mon, 12 Mar 2018 13:35:42 +0100
+a56282dd399bb99a167ce710d300bde9d56f36ea|Fix for https://github.com/paritytech/parity/pull/8067|Mon, 12 Mar 2018 13:34:14 +0100|Mon, 12 Mar 2018 13:34:14 +0100
+88186f9f16c4ab62abb0f8e76374ae6c1b3ac383|Merge branch 'master' of github.com:karalabe/hive|Mon, 5 Mar 2018 15:48:10 +0100|Mon, 5 Mar 2018 15:48:10 +0100
+73ffc160b07ace2e5354d45d17dea4ee9d946db3|fix error with jfloff/alpine-python|Mon, 5 Mar 2018 15:47:49 +0100|Mon, 5 Mar 2018 15:47:49 +0100
+8cdc593d7274fa958299e2ce51f5cf216c2c72d7|Merge pull request #97 from zilm13/fix/java-install|Sun, 4 Mar 2018 09:40:29 +0100|Sun, 4 Mar 2018 09:40:29 +0100
+fea7f0746bad7bc3653e390e3159858e2d3df861|Fixed Java install for EthereumJ client|Mon, 26 Feb 2018 00:05:01 +0300|Mon, 26 Feb 2018 00:05:01 +0300
+07df3a5a64b2d83cb2b4904320c7d5774dda39be|Merge pull request #94 from karalabe/fixgeth|Thu, 15 Feb 2018 15:16:32 +0100|Thu, 15 Feb 2018 15:16:32 +0100
+b0fcc105ec8dbeb0db7096416f23718050d51ef7|fix --gcmode=archive during block import|Thu, 15 Feb 2018 15:15:34 +0100|Thu, 15 Feb 2018 15:15:34 +0100
+038fdbd80b20a25705ec19374fad0b464c932dbc|Merge pull request #90 from zilm13/fix-speedup-ethereumj|Tue, 19 Dec 2017 09:08:10 +0100|Tue, 19 Dec 2017 09:08:10 +0100
+97c0320fbb30b3aef5d4bbbdf295caa57fc2c9c8|Speedup develop and master test runs for EthereumJ by building complete executable|Tue, 19 Dec 2017 01:28:33 +0300|Tue, 19 Dec 2017 10:49:41 +0300
+9596801dc73dd6bd77e9361fa96a0c46dae01dfd|Merge pull request #89 from zilm13/fix-ethereumj-develop|Mon, 18 Dec 2017 09:33:58 +0100|Mon, 18 Dec 2017 09:33:58 +0100
+73fe43aecd180b6f43f3ede953de8dde31447376|Fixed ethereumj:develop client to be fully built in Dockerfile|Fri, 15 Dec 2017 00:18:46 +0300|Fri, 15 Dec 2017 00:18:46 +0300
+91c3e0a89294006bfa0748cedff63d99704abdc1|Merge pull request #87 from karalabe/fix_cpp|Wed, 13 Dec 2017 15:06:49 +0100|Wed, 13 Dec 2017 15:06:49 +0100
+4b279c2ef4b85e9afa0b44f627866bf421f87132|Fix renaming of cpp flags|Wed, 13 Dec 2017 15:06:09 +0100|Wed, 13 Dec 2017 15:06:09 +0100
+6fa93d5957d1ceb1647fa05f5b666cbf74439cae|Merge pull request #85 from zilm13/feature-ci-test|Tue, 12 Dec 2017 19:02:39 +0100|Tue, 12 Dec 2017 19:02:39 +0100
+3dbafede5715769534ef708105e97da98a378e78|Added EthereumJ local test confugiration|Mon, 4 Dec 2017 22:50:49 +0300|Sun, 10 Dec 2017 22:07:50 +0300
+a5c17f8d5b4dff2144c8120af8f42a61eade6772|Merge pull request #84 from zilm13/feature-adding-ethj-pr|Wed, 29 Nov 2017 14:23:14 +0100|Wed, 29 Nov 2017 14:23:14 +0100
+eb7156a3b331687191b548c7485ac53a1e199ef2|Fixing missing linux headers in during geth install simulators|Wed, 29 Nov 2017 16:16:06 +0300|Wed, 29 Nov 2017 16:16:06 +0300
+ced8a7a465623a13c9a3d82f17e04c30fb4709e1|Adding EthereumJ master and develop clients|Thu, 8 Dec 2016 15:33:59 +0200|Wed, 29 Nov 2017 16:13:00 +0300
+5f154ab3691730472f7087a17dd5ae180b299d3f|Merge pull request #82 from pirapira/eth-genesis|Thu, 12 Oct 2017 15:15:30 +0200|Thu, 12 Oct 2017 15:15:30 +0200
+9f57122a161185bc676e2ac3a435761f97fe578b|Avoid passing unsupported genesis fields to cpp-ethereum|Mon, 9 Oct 2017 13:33:20 +0200|Mon, 9 Oct 2017 13:36:22 +0200
+5501671cf05d66713cce55a8a1b335e5acab7a2e|Merge pull request #80 from cdetrio/cpp-homestead-typo|Thu, 5 Oct 2017 16:34:22 +0200|Thu, 5 Oct 2017 16:34:22 +0200
+f27d3c351cdffad6009a0c30030f265ceee8f6ac|fix typo for cpp homestead config|Wed, 4 Oct 2017 19:02:44 -0400|Wed, 4 Oct 2017 19:02:44 -0400
+a7d13f83cf5c4da0d18095a4064a22f93e74efa4|parity: change chain specification|Wed, 27 Sep 2017 14:58:11 +0200|Wed, 27 Sep 2017 14:58:11 +0200
+086628644c3526bc04bbaf31f041c7487a147ef3|Merge pull request #79 from cdetrio/fix-pyeth|Tue, 26 Sep 2017 09:59:55 +0200|Tue, 26 Sep 2017 09:59:55 +0200
+5b1580d3d144a407db7842937f992646ef0fcd88|pyeth client update|Mon, 25 Sep 2017 17:11:57 -0400|Mon, 25 Sep 2017 17:11:57 -0400
+adaabe1fc58de9ca2ccdce7993127a725587ec2e|Use parity master branch|Mon, 18 Sep 2017 10:17:50 +0200|Mon, 18 Sep 2017 10:17:50 +0200
+860bdf5b9dc00a4f576c0cbe90e792d8b2b3f845|Merge pull request #78 from arkpar/parity_metro|Thu, 14 Sep 2017 22:55:56 +0200|Thu, 14 Sep 2017 22:55:56 +0200
+fbb11c9eebcda7ea1248c8f1dac3eb62a7e77fdb|Fixed precompile entry generation|Thu, 14 Sep 2017 22:34:10 +0200|Thu, 14 Sep 2017 22:34:10 +0200
+024abaac6f2dafd47a713456e65701b2fb0305b5|Merge pull request #77 from cdetrio/cpp-ecmul-reprice|Thu, 14 Sep 2017 19:24:03 +0200|Thu, 14 Sep 2017 19:24:03 +0200
+bfb04407eca6b34d3ae8a9e434e63116873ce920|final ecmul gas costs for cpp|Thu, 14 Sep 2017 11:54:11 -0400|Thu, 14 Sep 2017 11:54:11 -0400
+5912fc5bb55e95b00dece04a84f428258a859b1e|Merge pull request #76 from karalabe/geth_byz|Thu, 14 Sep 2017 09:31:19 +0200|Thu, 14 Sep 2017 09:31:19 +0200
+1ed09fe022dc77d8ccc8b980c9b14658ee960ad6|geth: s/metropolisBlock/byzantiumBlock|Thu, 14 Sep 2017 09:30:13 +0200|Thu, 14 Sep 2017 09:30:13 +0200
+d14fed3549e027506c4cb12c71e288b8da72cf7c|Merge pull request #72 from karalabe/parity_metro|Thu, 14 Sep 2017 09:25:11 +0200|Thu, 14 Sep 2017 09:25:11 +0200
+1c6e854c8ae200cabe6bb0395f6f8e75cf70e40a|Merge pull request #75 from arkpar/parity_metro|Wed, 13 Sep 2017 15:28:04 +0200|Wed, 13 Sep 2017 15:28:04 +0200
+503799ac8fa732ffc04002d7b4d7c3a4f0adf26e|Fixed chain spec for byzantium|Wed, 13 Sep 2017 15:09:30 +0200|Wed, 13 Sep 2017 15:09:30 +0200
+716ffa1e245bd0893cd0fc8972fe45efc7f8cfdc|Merge branch 'master' into parity_metro|Tue, 12 Sep 2017 20:22:02 +0200|Tue, 12 Sep 2017 20:22:02 +0200
+384687e1005ff0c40a56cb90f374c13f321e5f0d|Fix concurrent read/write|Tue, 12 Sep 2017 20:11:29 +0200|Tue, 12 Sep 2017 20:11:29 +0200
+5ef92e558763182e3f6b47ea764e88978c1c86ad|Merge pull request #74 from cdetrio/cpp-byz-config|Tue, 12 Sep 2017 18:55:07 +0200|Tue, 12 Sep 2017 18:55:07 +0200
+07eda8c4d9b4b2588e827b2ba0e7581b46456876|quieter cpp script|Tue, 12 Sep 2017 09:26:15 -0400|Tue, 12 Sep 2017 09:26:15 -0400
+e7e7e9b8716fcf0d5891bbf7408c6394ed009fa5|second try|Tue, 12 Sep 2017 09:09:18 -0400|Tue, 12 Sep 2017 09:21:22 -0400
+d660993770b9221e2d8f1cf8f2a39948291c0726|Merge pull request #73 from cdetrio/cpp-byz-config|Tue, 12 Sep 2017 14:03:58 +0200|Tue, 12 Sep 2017 14:03:58 +0200
+19adea0eb8172593aece0311a21b515b9f858438|cpp config for byzantium|Tue, 12 Sep 2017 07:24:37 -0400|Tue, 12 Sep 2017 07:24:37 -0400
+7180ffb9d2aaf2429cebdd05d4b38addba517b97|parity: make config printout, add maxcodesize|Tue, 12 Sep 2017 10:44:02 +0200|Tue, 12 Sep 2017 10:44:02 +0200
+5c191076aaf34945570303cfdf213b5111c04e85|Added ethash params to parity config|Tue, 12 Sep 2017 08:49:45 +0200|Tue, 12 Sep 2017 08:49:45 +0200
+e18ba784b4dd133db8e53c52ba2bdae2d54dbaff|Added precompiles for parity|Mon, 11 Sep 2017 14:20:45 +0200|Mon, 11 Sep 2017 14:22:54 +0200
+621f1cfc8707008d8deb44a07a7ec8c948d0af72|Use parity metro branch|Sat, 9 Sep 2017 15:29:01 +0200|Mon, 11 Sep 2017 14:22:54 +0200
+75417c751e05eac9c7cf4f9031571086dc1fec07|Fix typo in cpp homestead-config|Mon, 11 Sep 2017 09:13:47 +0200|Mon, 11 Sep 2017 09:13:47 +0200
+eacbf8b965f20f96d6158facaba277ec375c5cbd|Merge pull request #71 from karalabe/disable_constantinople|Wed, 6 Sep 2017 14:17:12 +0200|Wed, 6 Sep 2017 14:17:12 +0200
+343550a3fb5fd3dcdb7d69675aa6a6f98d2e48ff|Skip tests with missing network spec, or network not defined in Hive|Wed, 6 Sep 2017 09:33:32 +0200|Wed, 6 Sep 2017 09:33:32 +0200
+a3943a293c3cc595a0f467aed7d59efadc11f5f0|skip constantinople tests in consensus runner|Tue, 5 Sep 2017 16:17:35 +0200|Tue, 5 Sep 2017 16:17:35 +0200
+98fe4969250e3b58782c821aa549593d6ba5ed6b|Merge pull request #69 from karalabe/metro_cpp|Mon, 4 Sep 2017 09:51:13 +0200|Mon, 4 Sep 2017 09:51:13 +0200
+1dd034e28af187aa7045b4161e55ffa34a6ddb31|Fix bash error inparity|Sun, 3 Sep 2017 19:41:56 +0200|Sun, 3 Sep 2017 19:41:56 +0200
+d343a5495cb4e2206006767e732c3e226abf27c2|Update parity metro config|Fri, 1 Sep 2017 15:15:34 +0200|Fri, 1 Sep 2017 15:15:34 +0200
+f4af9a3dd2ecadaee7831f35cea4e22789593fc0|Configure cpp-ethereum for metro|Fri, 1 Sep 2017 15:08:52 +0200|Fri, 1 Sep 2017 15:08:52 +0200
+0d24c1e8e7aa6992a2ba4bbc2dd65c5ed38568ae|Minor fix|Wed, 23 Aug 2017 10:41:02 +0200|Wed, 23 Aug 2017 10:41:02 +0200
+6aeef0e6b07ff0b4a4b578c705379d3c0acc720f|Merge pull request #68 from karalabe/parity_fixes|Mon, 21 Aug 2017 11:53:04 +0200|Mon, 21 Aug 2017 11:53:04 +0200
+387c3ec7a80fe0e2149c4d720d73a90575326075|Fix chain.json|Mon, 21 Aug 2017 11:40:20 +0200|Mon, 21 Aug 2017 11:40:20 +0200
+09029417043632d37a4fbc3e7f4e001efbdaae55|Modify parity chain config, according to https://github.com/paritytech/parity/pull/6134. Fixes https://github.com/karalabe/hive/issues/67|Mon, 21 Aug 2017 10:31:34 +0200|Mon, 21 Aug 2017 10:31:34 +0200
+fa919499fd6ddb7fff6a4f873f41512e49e2cea7|Fix error caused by traceback, make hive run faster by skipping failure cause analysis|Mon, 21 Aug 2017 10:26:47 +0200|Mon, 21 Aug 2017 10:26:47 +0200
+db46a822e7406c8fc1a116cf03141a48cb6fb237|Merge pull request #66 from karalabe/NewRulesets|Mon, 14 Aug 2017 13:13:40 +0200|Mon, 14 Aug 2017 13:13:40 +0200
+fb16afa0d4f4a468d32328946c732d7920e6ae26|Add new definitions of rulesets|Sun, 13 Aug 2017 22:57:42 +0200|Sun, 13 Aug 2017 22:57:42 +0200
+4710bef67ccaa3acd8faf2a410854a8de73625f2|hive: avoid locking during node teardown|Fri, 4 Aug 2017 15:34:51 +0200|Fri, 4 Aug 2017 15:34:51 +0200
+0992ff10eb4704281eec8a3a378ca96239bde3ce|clients: pre-generate ethash caches for geth master|Thu, 3 Aug 2017 19:53:47 +0200|Thu, 3 Aug 2017 19:53:47 +0200
+2f2c00901971e90dbed38f96489aaa7eb6d2af93|internal: use pure Go ethash to generate the DAG|Thu, 3 Aug 2017 19:53:21 +0200|Thu, 3 Aug 2017 19:53:21 +0200
+c46e5568ead4db5bafba268a987b765e4fe10aa6|Merge pull request #63 from pirapira/go-ethereum-master|Thu, 3 Aug 2017 04:46:10 +0200|Thu, 3 Aug 2017 04:46:10 +0200
+5b2c7c38cdc07578e1c558719a64173d84eb1a77|Merge pull request #64 from holiman/no_hardcoded_folders|Sat, 15 Jul 2017 10:15:39 +0200|Sat, 15 Jul 2017 10:15:39 +0200
+b258e38a1bc2b438159f93bde5464a6977bbccea|Remove hardcoded folders, as tests now are configured with network|Sat, 15 Jul 2017 10:14:05 +0200|Sat, 15 Jul 2017 10:14:05 +0200
+6d51f0571ffee3ea5020119ec85874d58c328b1f|go-ethereum:develop does not exist anymore, so change the examples|Thu, 13 Jul 2017 11:15:49 +0200|Thu, 13 Jul 2017 11:15:49 +0200
+1664d4e1cfa3e1cc6027d14c89b74c71de052739|Changed geth-metro to use karalabe:metropolis|Fri, 30 Jun 2017 10:42:21 +0200|Fri, 30 Jun 2017 10:42:21 +0200
+e1c9162d817bc199b41c0099e38430306f5fd54d|Merge pull request #50 from gsalgado/rpc-compat|Thu, 15 Jun 2017 16:43:43 +0200|Thu, 15 Jun 2017 16:43:43 +0200
+e23c54d8ccfc33a045502b2c9c9af77555a66b9f|Merge pull request #61 from holiman/master|Thu, 15 Jun 2017 16:42:21 +0200|Thu, 15 Jun 2017 16:42:21 +0200
+fc14ff136e1a4ac9cfe9e482691c4469004f8a49|Fix ruleset for metro, make DAO-block in the future instead of at 0|Thu, 15 Jun 2017 16:40:26 +0200|Thu, 15 Jun 2017 16:40:26 +0200
+e99beef0d7211568de985240d91d238d1e54b093|Merge pull request #60 from holiman/remove_parity_stable|Wed, 14 Jun 2017 13:52:10 +0200|Wed, 14 Jun 2017 13:52:10 +0200
+227c87e86b9d117963020664641e3cce4a88e4b3|Removed parity beta (https://github.com/paritytech/parity/issues/5839#issuecomment-308403665 )|Wed, 14 Jun 2017 13:50:21 +0200|Wed, 14 Jun 2017 13:50:21 +0200
+8ece0fa8ce40676b659e8b53020fbf0ccce5c5d6|Merge pull request #59 from holiman/fix_parity|Wed, 14 Jun 2017 12:56:41 +0200|Wed, 14 Jun 2017 12:56:41 +0200
+80fd79af38e1262dcb735c9fb481a6c2498c13d6|Add libudev-dev to parity beta|Wed, 14 Jun 2017 12:42:42 +0200|Wed, 14 Jun 2017 12:42:56 +0200
+a4d4346a01987ac21c1bc7182de3c6fac54a8f5c|Get rid of parity-specific things|Wed, 3 May 2017 16:02:06 +0100|Tue, 13 Jun 2017 16:00:11 +0100
+efc0cad4981a61c8e27549b99a81df8c17b3ef52|Fix rpc-compat to use fixed-length names for block files|Tue, 2 May 2017 09:04:45 +0100|Tue, 13 Jun 2017 16:00:11 +0100
+2779fc4693fc6aa79279bc0cfa7e1bb3851a539a|add simulator for generating RPC compatability table|Tue, 4 Apr 2017 13:06:46 -0400|Tue, 13 Jun 2017 16:00:11 +0100
+7b50c0d82f5fafbe727d9be31ad8fe3010169d05|Merge pull request #58 from gsalgado/consensus-sim-refactor|Tue, 13 Jun 2017 16:49:08 +0300|Tue, 13 Jun 2017 16:49:08 +0300
+97ed37990c56bbd84bd8ce12a0e62288fe147dbb|simulators/consensus: Refactor HiveAPI/BlockTestExecutor|Mon, 12 Jun 2017 17:55:39 +0100|Tue, 13 Jun 2017 14:32:14 +0100
+46e98526ac1a1bc4d8d7320cb968832625dce4c8|Merge pull request #57 from gsalgado/fix-consensus-crash-when-newnode-fails|Tue, 13 Jun 2017 15:31:51 +0300|Tue, 13 Jun 2017 15:31:51 +0300
+f8ab9648fb8e583f460519a4a7dc005e4b0647bf|Merge pull request #56 from gsalgado/pyeth-update|Tue, 13 Jun 2017 15:31:20 +0300|Tue, 13 Jun 2017 15:31:20 +0300
+557ffd1e901a1311b5296aca081ed7c2b3dd3154|simulators/consensus: do not crash when newNode() fails|Fri, 9 Jun 2017 17:02:35 +0100|Fri, 9 Jun 2017 17:02:35 +0100
+4db5f52a2f517dc7c0217400557241970e7d7131|Fix pyethereum:develop client|Thu, 11 May 2017 11:10:05 +0100|Fri, 9 Jun 2017 09:25:51 +0100
+78655b22961ac274866901fb5c6a034ae2d35d40|Merge pull request #53 from gsalgado/consensus-handle-killnode-exceptions|Wed, 10 May 2017 11:21:04 +0300|Wed, 10 May 2017 11:21:04 +0300
+2941fa09e7b4b014ae4455de4d511cb01b48ea1b|Fix bash error in cpp (#54)|Wed, 10 May 2017 10:20:10 +0200|Wed, 10 May 2017 11:20:10 +0300
+814815a92fe9d184f4917e2d399f4114e71a59a0|Merge pull request #47 from gsalgado/pyeth-client|Wed, 10 May 2017 11:08:45 +0300|Wed, 10 May 2017 11:08:45 +0300
+561568dc01946481e1b5731d6dfff4a0e1b3656e|validators/smoke: fixes to make sure they don't fail for pyeth|Fri, 5 May 2017 11:19:30 +0100|Tue, 9 May 2017 20:37:54 +0100
+ad95d5dede446c8dd1bd201edb0e5d0159be1a28|simulators/consensus: do not crash if fails to kill a node|Thu, 4 May 2017 20:15:10 +0100|Fri, 5 May 2017 18:45:05 +0100
+1a086b664bb2511d15a2e2ea896acc22e5500ed6|clients/pyeth: use /genesis.json when importing chain.rlp|Fri, 5 May 2017 11:18:10 +0100|Fri, 5 May 2017 11:18:10 +0100
+6665d58d20f09055d92ac8227eb1326009c5149f|Base the pyethereum docker image on alpine|Fri, 5 May 2017 11:15:50 +0100|Fri, 5 May 2017 11:15:50 +0100
+7a372a5d2b6ae74d126ca0f72f82d8625d7cf8a0|hive: support forcibly rebuilding image patterns|Fri, 5 May 2017 10:03:54 +0300|Fri, 5 May 2017 10:03:54 +0300
+4c281258b6a222e97bc48e1a81f83b7a51006b25|Generate /version.json for pyethereum as well|Thu, 4 May 2017 20:18:51 +0100|Thu, 4 May 2017 20:18:51 +0100
+7b7a6312cdb470bc5fd516469b8a32d1a8cd0b29|A few fixes and improvements to pyethereum client|Tue, 2 May 2017 09:06:59 +0100|Thu, 4 May 2017 20:15:50 +0100
+a707b5e12c18856631ac650e17183bb53a80bfb1|add pyethereum:develop client|Tue, 4 Apr 2017 13:18:09 -0400|Thu, 4 May 2017 20:15:50 +0100
+c34538d2cfb2aabfcf4d339c831eada646e1f70e|validators/smoke: drop testnet-noncer, fix block retrieval quantity|Thu, 4 May 2017 19:32:51 +0300|Thu, 4 May 2017 19:32:51 +0300
+998af35fff01cce7bda3a07e58cd7d000909b01c|clients, hive: implement gathering and reporting client versions|Thu, 4 May 2017 19:20:15 +0300|Thu, 4 May 2017 19:20:15 +0300
+c47e6e958df96729e73c78f7f56e57aefd6c9567|Merge pull request #45 from holiman/client_version|Thu, 4 May 2017 19:19:45 +0300|Thu, 4 May 2017 19:19:45 +0300
+9947d46fa93603b4e41bb3c5c6702ca65c78d844|Merge pull request #51 from gsalgado/handle-docker-errors|Thu, 4 May 2017 18:12:42 +0300|Thu, 4 May 2017 18:12:42 +0300
+cbeb676aa3037340630590896032f667a393c6ba|Do not ignore docker errors when stopping/removing containers|Thu, 4 May 2017 11:54:49 +0100|Thu, 4 May 2017 15:59:40 +0100
+6d0b79b3f6d04fca602e9be6611ed81a94346900|Fix client.json -> version.json|Wed, 3 May 2017 15:32:40 +0200|Wed, 3 May 2017 15:32:40 +0200
+a3d8c32555cc6d40b585a92756a4313d1ac46eb6|Rename client_version.json to version.json, implement client_version for cpp aswell, and dummy file for geth local|Wed, 3 May 2017 14:41:21 +0200|Wed, 3 May 2017 14:41:21 +0200
+a3d167549768d6da5b9fae70d90845536b0f4066|Merge pull request #49 from gsalgado/rpc-tests-fixes|Wed, 3 May 2017 14:03:17 +0300|Wed, 3 May 2017 14:03:17 +0300
+8a4539f5c72237b514315b094a9642c6d59d65b3|Merge pull request #48 from gsalgado/consensus-0x-addr-prefix|Wed, 3 May 2017 14:02:51 +0300|Wed, 3 May 2017 14:02:51 +0300
+f6bbf4a9b64a749cebb1334f0e00a1160288cfb9|Merge pull request #44 from holiman/parityfix|Wed, 3 May 2017 14:01:35 +0300|Wed, 3 May 2017 14:01:35 +0300
+a02c2f509a2f1886190173ac43b2daac203a37cd|Drop 0x prefix from account addr in genesis.json|Wed, 5 Apr 2017 09:13:32 +0100|Tue, 2 May 2017 18:01:53 +0100
+b7046593d947583bee7334876fde52b63a403bf4|Replace tabs with spaces in rpc-tests/genesis.json|Fri, 31 Mar 2017 12:27:23 +0100|Tue, 2 May 2017 18:01:43 +0100
+a95fd6d64d2398db817768b3b50e786afc1803d4|Do not prefix addresses with 0x for the preState of consensus tests|Tue, 2 May 2017 08:58:13 +0100|Tue, 2 May 2017 17:47:35 +0100
+24d7b3a554fbff30e0b5db7d415818497fa5fe21|fix bash error|Wed, 26 Apr 2017 17:11:08 +0200|Wed, 26 Apr 2017 17:11:08 +0200
+9a6b26f32f3221cab5b3e1edd942b642df555538|Added client info, as described in https://github.com/karalabe/hive/issues/38|Wed, 26 Apr 2017 17:08:42 +0200|Wed, 26 Apr 2017 17:08:42 +0200
+543330634fca2eaaeb32fc1ce6fb6d8892b15728|Fixed error in parity.sh|Wed, 26 Apr 2017 16:58:16 +0200|Wed, 26 Apr 2017 16:58:16 +0200
+4903c1a2a863f4d0ddfbdda058bfe01da4fc89e5|Merge pull request #42 from gsalgado/goroutine-leaks|Wed, 26 Apr 2017 14:59:27 +0300|Wed, 26 Apr 2017 14:59:27 +0300
+7314ee801df00ca4436f9e3fcb21909e45799e30|Fix previous wrong simualtion description.|Tue, 25 Apr 2017 18:01:57 +0300|Tue, 25 Apr 2017 18:01:57 +0300
+f1dd2f4ad370320abeb61ce46f48528f7c8aa04c|clients, simulators: support network ids, test > uint32|Tue, 25 Apr 2017 17:59:02 +0300|Tue, 25 Apr 2017 17:59:02 +0300
+4bc5797292f5b890e805321311bb1c90325e1daf|Fix a couple goroutine leaks|Mon, 24 Apr 2017 09:12:45 +0100|Mon, 24 Apr 2017 12:37:06 +0100
+ff6b6656468e11925f2faeb369f0fd763048bffb|Merge pull request #43 from holiman/metro|Mon, 24 Apr 2017 13:25:27 +0300|Mon, 24 Apr 2017 13:25:27 +0300
+5045d59a2ca3e12088bed6b3bd8f8635243e69b3|Fix bash error in parity scripts|Mon, 24 Apr 2017 12:23:58 +0200|Mon, 24 Apr 2017 12:23:58 +0200
+99b819cf10059094700666e7ad4c02be684600dd|Corrected geth metropolis config name (geth local)|Mon, 24 Apr 2017 12:22:30 +0200|Mon, 24 Apr 2017 12:22:30 +0200
+1f75642a17900c74824dd52de72aeb65844cc14d|Corrected geth metropolois config name|Mon, 24 Apr 2017 12:18:50 +0200|Mon, 24 Apr 2017 12:18:50 +0200
+1fa15c46b4a8a17b51fb3d3791d3dee361af45da|Fixed bash error in geth.sh|Mon, 24 Apr 2017 10:42:44 +0200|Mon, 24 Apr 2017 10:42:44 +0200
+36b00bd56c04b6b42e14ba7792fe913dc36290f3|Added obscuren's metro branch|Sun, 23 Apr 2017 22:33:17 +0200|Sun, 23 Apr 2017 22:33:17 +0200
+1d785178ba15b7ab18558f136c66d11f90b048dc|Added Metropolis ruleset to consensus simulator|Sun, 23 Apr 2017 19:53:22 +0200|Sun, 23 Apr 2017 19:53:22 +0200
+1133467e066f7d6e013939e93f597198f44759ee|Added geth config options for Metro|Sun, 23 Apr 2017 19:49:33 +0200|Sun, 23 Apr 2017 19:49:33 +0200
+2a346229d1e1f6996c2cded5d506c440624ed56c|Started preparing hive for Metro HF|Sun, 23 Apr 2017 19:43:46 +0200|Sun, 23 Apr 2017 19:43:46 +0200
+325f256ae0ef4d551462ad97231f73fe0d7dcfc3|Fix parity chain config to include eip98 and eip86|Sun, 23 Apr 2017 14:58:30 +0200|Sun, 23 Apr 2017 14:58:30 +0200
+89fc90725a4fd1888f63946c91f5dac9fcd34a6b|Fixed Parity repository change|Fri, 21 Apr 2017 22:37:23 +0200|Fri, 21 Apr 2017 22:39:41 +0200
+5a465becd240f76f1449afdaa4d0a7a59b36acb2|Fixes so we don't fail due to bad RLP encoding, some python mistakes, plus hex encoding for block numbers|Fri, 21 Apr 2017 14:04:12 +0200|Fri, 21 Apr 2017 22:39:09 +0200
+726a5320f203e107906b198c3892218a534c466b|Fixed geth's new rigid hex-requirements in genesis|Fri, 21 Apr 2017 13:47:42 +0200|Fri, 21 Apr 2017 13:47:42 +0200
+7bf6a6fecdc3a671b44b4f083acb45976c2195fa|Merge pull request #39 from holiman/master|Thu, 20 Apr 2017 16:10:54 +0300|Thu, 20 Apr 2017 16:10:54 +0300
+577b19230df8997f198d453af975bddb8b298a47|Upped stable to 1.6, updated geth.sh to use faster import and nocompaction|Thu, 20 Apr 2017 14:12:00 +0200|Thu, 20 Apr 2017 14:12:00 +0200
+2afe0abd12ba47938064d01346480dc93eb1c3ec|Fix review comments|Thu, 20 Apr 2017 13:32:03 +0200|Thu, 20 Apr 2017 13:32:03 +0200
+ee13934f81e6ab318b6fa837bc3b53c6944ad704|Go fmt|Sun, 19 Mar 2017 15:50:51 +0100|Sun, 19 Mar 2017 15:50:51 +0100
+7acb715165def99ad71ab76ffa6f0e0498bfa968|Fix ethash|Sun, 19 Mar 2017 15:49:49 +0100|Sun, 19 Mar 2017 15:49:49 +0100
+fedd8f5dec7b5077da7c806cd0e4d6fd8fed2c6e|consensustest: added retries on failing instance-startup, added speedier block import in geth, added testcase time measurements|Sat, 18 Mar 2017 19:52:28 +0100|Sat, 18 Mar 2017 19:52:28 +0100
+82739ca6f2448a6e84111c635aa251079aef6ccd|Merge pull request #34 from holiman/multiprocessing|Sat, 25 Feb 2017 21:10:37 +0200|Sat, 25 Feb 2017 21:10:37 +0200
+fca2fc44b6fe86d95c496301056964ed18bf8eab|Added README for consensus tests|Sat, 25 Feb 2017 18:40:46 +0100|Sat, 25 Feb 2017 18:40:46 +0100
+317dcef21a881b0c823d6adf8027db2162bf37cd|Added lock around subresults, fix requests|Sat, 25 Feb 2017 18:26:46 +0100|Sat, 25 Feb 2017 18:26:46 +0100
+d1a2309d290af36da9d2c73b70aa92d23f59e4e6|Fixes https://github.com/karalabe/hive/issues/33|Sat, 25 Feb 2017 15:42:32 +0100|Sat, 25 Feb 2017 15:42:32 +0100
+243b64b80a84c131b462ef0ad380887c2c2c2f09|Fixed error making only ~1500 of 8000+ tests run, also made it run multithreaded|Fri, 24 Feb 2017 23:47:45 +0100|Fri, 24 Feb 2017 23:47:45 +0100
+dde035b4cd2cf33e7763da07a0517f860df1d4ce|cpp: Don't immediately fail on error|Fri, 24 Feb 2017 09:34:11 +0100|Fri, 24 Feb 2017 09:34:11 +0100
+545e9fdaba7337a7e25354585cb326b73fbf635a|Added cpp-ethereum files that were forgotten: eth.sh and config.json|Fri, 24 Feb 2017 08:47:12 +0100|Fri, 24 Feb 2017 08:47:12 +0100
+bb272a03755aeae27c3af40c7955fe74cd9e1870|Fix idiotic mistake|Thu, 23 Feb 2017 15:20:48 +0100|Thu, 23 Feb 2017 15:20:48 +0100
+0f911831acf6f6d01bc917571be47f7ea57007b2|Merge branch 'master' of github.com:karalabe/hive into hive_blocktests|Thu, 23 Feb 2017 12:24:54 +0100|Thu, 23 Feb 2017 12:24:54 +0100
+6cea31e98e76e221d0c94f18e5aa0b33254b8343|Fix error in parameter setting for networks|Thu, 23 Feb 2017 12:09:24 +0100|Thu, 23 Feb 2017 12:09:24 +0100
+f6aece7cfe2dcfff725738113ba7430ea51f2e8f|Merge pull request #31 from bas-vk/rpc|Thu, 23 Feb 2017 10:24:33 +0200|Thu, 23 Feb 2017 10:24:33 +0200
+a09d472f7aae14bbbe0aabd6e128954eb4667aba|Merge branch 'master' into rpc|Thu, 23 Feb 2017 10:14:00 +0200|Thu, 23 Feb 2017 10:14:00 +0200
+2247b64266bd49b325397633065d84bf14907890|Merge pull request #27 from holiman/hive_blocktests|Thu, 23 Feb 2017 10:12:17 +0200|Thu, 23 Feb 2017 10:12:17 +0200
+b5cb192396519b39fac4dcb43efa48bade554175|bugfix in waitPeers|Wed, 22 Feb 2017 12:55:49 +0100|Wed, 22 Feb 2017 12:55:49 +0100
+ec272adbe634c53fc58ce448d660d2cee4aac93e|Various minor fixes to dockerfiles|Tue, 21 Feb 2017 11:42:26 +0100|Tue, 21 Feb 2017 11:42:26 +0100
+ef561ff6782eb6e37f67d9f4ebb0afdb3c15bd2d|Switched to regular branch of tests|Tue, 21 Feb 2017 11:34:49 +0100|Tue, 21 Feb 2017 11:34:49 +0100
+7be97cbab95840dee5c684a3975bafa96e539788|Cpp-ethereum now works, also fixed erroneous config of transitionnet|Tue, 21 Feb 2017 11:33:43 +0100|Tue, 21 Feb 2017 11:33:43 +0100
+897647b6fb7518a70e2d14ccb65de64613bc6a0d|updated docs|Thu, 16 Feb 2017 13:14:26 +0100|Thu, 16 Feb 2017 13:14:26 +0100
+997ffa20bec23ed1d29354aee747e83362c6bc58|Fixed rules for the transitionnet|Thu, 16 Feb 2017 12:58:11 +0100|Thu, 16 Feb 2017 12:58:11 +0100
+cb0ddf3e454b67f7be746653a0cc70cbc74d61a6|remove dead code|Thu, 16 Feb 2017 12:53:10 +0100|Thu, 16 Feb 2017 12:53:10 +0100
+019f0fb2cf4636f8112792e79ef53af7a3892769|add required linux-headers dependency for gousb|Thu, 16 Feb 2017 12:50:46 +0100|Thu, 16 Feb 2017 12:50:46 +0100
+1882fef4c9f1a12936ad6b7576cbc1ddf27a5cfb|move rpc test suite to simulators/ethereum/rpc|Thu, 16 Feb 2017 12:20:58 +0100|Thu, 16 Feb 2017 12:20:58 +0100
+264bea40c49a6f2c0c2edf5e1e9433957ba09e7d|pin go-ethereum version|Thu, 16 Feb 2017 12:12:43 +0100|Thu, 16 Feb 2017 12:14:53 +0100
+b68bedfb73c5b78186b3ba5b042b3dc1f810649a|rewrote account management with new wallet/keystore impl|Wed, 8 Feb 2017 19:36:00 +0100|Thu, 16 Feb 2017 12:14:53 +0100
+d934379d6b5bc39a0bc6c4a97a5fe60e19a0a7a8|Add RPC eth simulator|Thu, 1 Dec 2016 15:30:24 +0100|Thu, 16 Feb 2017 12:14:53 +0100
+05cf028c307d0c0b856c93d0598b40545f83ba92|Added linux headers to go-ethereum builds|Mon, 13 Feb 2017 20:31:04 +0100|Mon, 13 Feb 2017 20:31:04 +0100
+e5a9695c4a84babe0abd0ea18f32aa831548fb05|Fixed some issues which caused Parity to fail, and the simulator to crash|Wed, 8 Feb 2017 10:26:47 +0100|Wed, 8 Feb 2017 10:26:47 +0100
+4c0f46b2da1b7db67d78e0c585cc845770314ff7|Merge pull request #26 from holiman/hive_blocktests|Mon, 6 Feb 2017 11:04:47 +0200|Mon, 6 Feb 2017 11:04:47 +0200
+31820807248d760d508980a6171e97e057307102|Implemented the new generalstatetests turned into blockchaintests|Sat, 4 Feb 2017 17:21:04 +0100|Sat, 4 Feb 2017 17:21:04 +0100
+002ef4f9218dfb418d1a20b7599be2af7d210ca9|Removed blocktests.sh|Sat, 4 Feb 2017 17:13:13 +0100|Sat, 4 Feb 2017 17:13:13 +0100
+9eaa60e35d0f14dbec1407d69d5906758a10d3a4|Remove extra linebreak|Thu, 2 Feb 2017 16:35:43 +0100|Thu, 2 Feb 2017 16:35:43 +0100
+0c5aa81db9803d4eb3a23bcc6844596c20db0ea9|Renamed the simulator|Thu, 2 Feb 2017 16:31:38 +0100|Thu, 2 Feb 2017 16:31:38 +0100
+4a90479194dc1725c9ba604f8e6c8068b87a2963|Added dao fork config to Parity, now passes all tests except the one cause by this: https://github.com/ethcore/parity/issues/4406|Thu, 2 Feb 2017 15:00:10 +0100|Thu, 2 Feb 2017 15:00:10 +0100
+7a57fe69dbc60fc1c50843a8406590c5fe340718|Fixed ruleset for Transitionnet|Thu, 2 Feb 2017 14:38:24 +0100|Thu, 2 Feb 2017 14:38:24 +0100
+ce264018d7dc6627c5a86ac0262e9e83486bb5e6|Added rules for TransitionNet, to handle more testcases|Thu, 2 Feb 2017 12:29:47 +0100|Thu, 2 Feb 2017 12:29:47 +0100
+2d7f0ed19518ffa4411e20643e4102986229f82a|Added requests to requirements|Thu, 2 Feb 2017 11:08:16 +0100|Thu, 2 Feb 2017 11:08:16 +0100
+66eb8d8b1c2b0f8bd4ae61a051eaf37045d549f2|Removed dependency on web3. See https://github.com/pipermerriam/web3.py/issues/152 , web3 didn't reuse connections, which caused problems when performing many poststate checks.|Thu, 2 Feb 2017 10:54:35 +0100|Thu, 2 Feb 2017 10:54:35 +0100
+befafc6b6c9d67194db47246a2fceaf9043699b2|Fixed an error in parity script|Thu, 2 Feb 2017 10:52:00 +0100|Thu, 2 Feb 2017 10:52:00 +0100
+32b0455f8c3b00963fe880ded212d0589269e666|Made go-ethereum client files (docker spec and init script) homogenous. Clarified README according to comments|Wed, 1 Feb 2017 13:36:10 +0100|Wed, 1 Feb 2017 13:36:10 +0100
+aaeafc60f3608b6d7a27498ba6b16ece4e5ff357|Fix blocktests.sh dummy error|Tue, 31 Jan 2017 23:33:27 +0100|Tue, 31 Jan 2017 23:33:27 +0100
+7be1c734493ea682e154b0d2a48c2ab15a2f3e5c|Workaround for a quirk in the json output, an extraneous '.' appearing on stdout. Haven't been able to find the root cause|Tue, 31 Jan 2017 23:16:50 +0100|Tue, 31 Jan 2017 23:16:50 +0100
+ecb4d86ddaa3e58f0e019b3549a2a83a567a8f95|Fixed so that now code in pre/alloc works fine, Go-ethereum didn't like '0x'-prepended|Tue, 31 Jan 2017 22:56:23 +0100|Tue, 31 Jan 2017 22:56:23 +0100
+88790b0d0eece4af9d63e1efda711936ef68f273|xx|Tue, 31 Jan 2017 15:23:19 +0100|Tue, 31 Jan 2017 15:23:19 +0100
+1428317e9971c1e1cf24ed7e46f275369a79882e|Revert back to master|Tue, 31 Jan 2017 15:21:36 +0100|Tue, 31 Jan 2017 15:21:36 +0100
+54ce838d489788dd2112b2e6cc4d4c0ec9621698|Merge upstream changes|Tue, 31 Jan 2017 15:16:50 +0100|Tue, 31 Jan 2017 15:16:50 +0100
+dba20b69b0b67fbecc1673554e4c7de504807801|hive: keep hive's output on stdout for the shell too|Tue, 31 Jan 2017 16:16:41 +0200|Tue, 31 Jan 2017 16:16:41 +0200
+314b6db425c1c8bedd6b926ca57538ad0fc441a3|Moar tests|Tue, 31 Jan 2017 14:04:33 +0100|Tue, 31 Jan 2017 14:04:33 +0100
+dd241d73d3887bb03221202cca0e3fe9bdfa086a|Minor docker fix|Tue, 31 Jan 2017 14:04:14 +0100|Tue, 31 Jan 2017 14:04:14 +0100
+e941ecde079f0bfa9e1df298104b50dd95d65247|Fix path in tar|Tue, 31 Jan 2017 14:03:52 +0100|Tue, 31 Jan 2017 14:03:52 +0100
+92152efe4fef5b3fce576a3fa8850adce06e46ab|hive: aggregate results into a single fnal JSON report|Tue, 31 Jan 2017 14:38:44 +0200|Tue, 31 Jan 2017 14:38:44 +0200
+3e4b799162b400ab69e572907bb66003692061fb|Rolled back to @karalabe version|Tue, 31 Jan 2017 13:32:03 +0100|Tue, 31 Jan 2017 13:32:03 +0100
+96250449d1d7b7b712ef03419d8670720d915f75|clients: swap out develop branch with stable one|Tue, 31 Jan 2017 14:06:07 +0200|Tue, 31 Jan 2017 14:06:07 +0200
+3b007ba28d0dc06ae4e0b51f58e5948d16eddabf|all: update Alpine containers to latest|Tue, 31 Jan 2017 13:46:52 +0200|Tue, 31 Jan 2017 13:46:52 +0200
+ac43d61ed9e0bbf67aac2e53fbc8348bceba9bc2|Fixed integration with new reporting framework|Tue, 31 Jan 2017 12:19:54 +0100|Tue, 31 Jan 2017 12:19:54 +0100
+5fc2d5e580ce61c0ceb12469d6647d19a6264b35|Fixed bash script to generate report|Tue, 31 Jan 2017 12:18:59 +0100|Tue, 31 Jan 2017 12:18:59 +0100
+96af3b6990422ac157ac15f0de24171d3adb1ee7|Merge upstream changes|Tue, 31 Jan 2017 10:49:06 +0100|Tue, 31 Jan 2017 10:49:06 +0100
+d77baaf570a2179cc27c0ceaab4b07684aa315e2|Prepared for @karalabes subresult reporting, remove earlier reporting implementation. Prepared general state tests|Tue, 31 Jan 2017 10:35:25 +0100|Tue, 31 Jan 2017 10:35:25 +0100
+2a6c1aa7a0a43ccdba1342f4ae3641f370b499e2|hive: add support for simulation sub-results|Tue, 31 Jan 2017 11:33:36 +0200|Tue, 31 Jan 2017 11:33:36 +0200
+a69512b0cc44411e636d342349093daa8f7d5fa6|hive: readd musl-dev to udated upstream shell base image|Tue, 31 Jan 2017 09:50:20 +0200|Tue, 31 Jan 2017 09:50:20 +0200
+4b71a4839b7d454a7ab39238781b3ac4bb5a6ec8|Trying to get file output to work, so the the simulator can output a jsonp structure about the test results Added blocktest.sh bash file to generate reports Added tar gz of report|Sun, 29 Jan 2017 17:02:46 +0100|Sun, 29 Jan 2017 23:05:29 +0100
+7fa9a50e1d3f2d59c72ece31970dd34ef365e21f|Moved towards better reports|Sat, 28 Jan 2017 00:21:51 +0100|Sun, 29 Jan 2017 23:05:29 +0100
+f81a5bdbdd30eea74ad3065e31494ff89d4fafa9|Added two endpoints, /clientinfo and /report . The latter does not really work|Sat, 28 Jan 2017 00:21:23 +0100|Sun, 29 Jan 2017 23:05:29 +0100
+45495e89c9a4943c3252bb3dbc7b87d49f010234|Documented log endpoint|Sat, 28 Jan 2017 00:19:38 +0100|Sun, 29 Jan 2017 23:05:29 +0100
+8cf6cbb9978c61aa1a849c915471b23ddaf01b8f|Implemented Spurious/Tangerine config options for geth master and develop Also reverted geth dockerfile to @karalabe's version|Fri, 27 Jan 2017 16:41:30 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+57062355f52c4797d234aa5077b704c50b9f2c02|Added parity fork config opts for parity:beta|Fri, 27 Jan 2017 16:35:40 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+4fd80758dae1b8719827d9c5126dbc7ff4d2d1b6|Split the code up into logical modules|Fri, 27 Jan 2017 16:26:51 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+896c737fa3cafd3dcf9f4425009f4ad85de5c590|Added white- and blacklists to testcase execution|Fri, 27 Jan 2017 16:03:50 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+e027fbcb06c1b86cc9813d508cf8b45f8939005a|Changed parity chain.json 'durationLimit' to 0x0d. Seems inline with docs at https://github.com/ethcore/parity/wiki/Consensus-Engines. Plus, it works :)|Fri, 27 Jan 2017 15:54:56 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+7a7cfabe21fdf4a27e11c0eda40a6a4733657cd4|Fixed parity config flags|Fri, 27 Jan 2017 13:26:28 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+572bc47541aa2f2c800590d7e8fb192906f89174|Better reporting|Fri, 27 Jan 2017 11:29:06 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+350ff172f8c6b70a5962adfeed70734621a70017|Some docker-less testing, also specified homestead fork ENV variable|Fri, 27 Jan 2017 11:10:39 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+f71fa24070034846628d8cccedd46f93117603e9|Show parity chain config|Fri, 27 Jan 2017 11:09:44 +0100|Sun, 29 Jan 2017 23:04:52 +0100
+f64a2e5b4f5098dbaffba7459578aa3e9df7e8f0|Run all tests, and check postconditions correctly|Thu, 26 Jan 2017 15:32:40 +0100|Sun, 29 Jan 2017 23:04:36 +0100
+3fc91833a1c59d038138a0e90b641759c0ac5a48|Improvements|Thu, 26 Jan 2017 15:19:20 +0100|Sun, 29 Jan 2017 23:04:36 +0100
+8a5b5b330bc7d77f7c81428c3fa4e86dea799cbc|Unset -e when importing blocks, to allow simulation to continue even if malformed blocks are used deliberately|Thu, 26 Jan 2017 14:47:26 +0100|Sun, 29 Jan 2017 23:04:21 +0100
+8e053ba267b404fb55373af24abca5119edb02d0|blocktests: made it handle non-starting nodes better|Thu, 26 Jan 2017 11:53:31 +0100|Sun, 29 Jan 2017 23:04:07 +0100
+0758cb4e4f85c0f5ce172563a33e5f75955d3b04|blocktests: major refactorings|Thu, 26 Jan 2017 11:17:18 +0100|Thu, 26 Jan 2017 11:17:18 +0100
+f09f7f3a1aef79a9527f162ca3cec6adf3be5ad4|Got around the hash errors, various improvements|Wed, 25 Jan 2017 12:51:59 +0100|Wed, 25 Jan 2017 12:51:59 +0100
+77f9144b2ca65a2930ecd46b14d5a7747bb5c95d|Made use of  instead of|Wed, 25 Jan 2017 12:51:23 +0100|Wed, 25 Jan 2017 12:51:23 +0100
+6bd8c014ba0bf08dc6c95441145cf8e4b4a79c72|Iniial stab at performing blockchain tests via hive. Something is still wrong; having problems obtaining the right hash for the genesis block|Wed, 25 Jan 2017 00:32:46 +0100|Wed, 25 Jan 2017 00:32:46 +0100
+950f65d92ef9bd5e76b641628633efcc3cfc6bc5|Merge pull request #24 from cdetrio/parity-net-flag|Tue, 24 Jan 2017 13:59:06 +0200|Tue, 24 Jan 2017 13:59:06 +0200
+2a13442387ad5866fce1b846896e44483ca3419b|Merge pull request #23 from cdetrio/master|Tue, 24 Jan 2017 13:58:51 +0200|Tue, 24 Jan 2017 13:58:51 +0200
+7444a0e90efa9f8c4f9cbcc62208ae9de4796b87|update parity flag --no-network to --nodiscover|Tue, 24 Jan 2017 09:36:01 +0100|Tue, 24 Jan 2017 09:36:01 +0100
+b72dbd5dff8a39c091a22fc4b27c225eac288677|update parity required deps and rust uninstall script|Tue, 24 Jan 2017 09:02:13 +0100|Tue, 24 Jan 2017 09:02:13 +0100
+82446d48c697830d821a11c7bf542790ea7481fa|Fixed error in parity build|Tue, 25 Oct 2016 11:57:12 +0200|Tue, 25 Oct 2016 11:57:12 +0200
+c0ac235170b444fc5784c7b973e1adcabf4b74a6|Refactored the Dockerfiles, so that the Docker cache is better reused between clients. This shaves a lot of times off the build times for the docker images|Tue, 25 Oct 2016 11:29:42 +0200|Tue, 25 Oct 2016 11:29:42 +0200
+ca72a547b0b36cefd571f42b194b4cf8ef724d91|Merge pull request #19 from holiman/master|Tue, 25 Oct 2016 11:28:48 +0300|Tue, 25 Oct 2016 11:28:48 +0300
+a234cf2e1ac8db62b7ef511f9f6f6b51bf040e8d|Changed rust install according to https://www.rust-lang.org/en-US/downloads.html|Mon, 24 Oct 2016 21:51:52 +0200|Mon, 24 Oct 2016 21:51:52 +0200
+87eff5067b490abceb5294c187baf61e8007a401|Fix parity client|Mon, 24 Oct 2016 18:17:56 +0200|Mon, 24 Oct 2016 18:17:56 +0200
+e5ce48a7c8cf7df57b1388977d854a3c28280f93|Merge pull request #16 from arkpar/parity-fix|Fri, 2 Sep 2016 16:44:40 +0300|Fri, 2 Sep 2016 16:44:40 +0300
+dc7fadd55a12421538bac2fd00ac00d3d87c357e|Add built-ins to parity chain spec|Mon, 29 Aug 2016 16:27:04 +0200|Tue, 30 Aug 2016 17:51:17 +0200
+b7368f419945473f761a2ab0d432f5d438d9781e|cpp-ethereum: initial stab an a cpp-ethereum client image|Thu, 25 Aug 2016 15:35:47 +0300|Thu, 25 Aug 2016 15:35:47 +0300
+ee4342b7f8aef8ac3ae4f3ac99f08fa004151317|README: add a Parity bug trophy|Thu, 25 Aug 2016 15:35:22 +0300|Thu, 25 Aug 2016 15:35:22 +0300
+bd5be7994c17f0648975c8a4581ae4d4718727fe|parity: add beta, stable; polish some init scripts|Thu, 25 Aug 2016 10:18:59 +0300|Thu, 25 Aug 2016 10:18:59 +0300
+fcbec30dccc8602381359a8a8bc38b796fcf4420|parity, simulators: further polishes, mining support|Wed, 24 Aug 2016 20:25:50 +0300|Wed, 24 Aug 2016 20:25:50 +0300
+7104034f1a86bd5d098c7d1c5ceafb6dce7856c4|go-ethereum: clean up startup scripts a bit|Wed, 24 Aug 2016 19:44:47 +0300|Wed, 24 Aug 2016 19:44:47 +0300
+5ba37845d01757581f08c75325e8ce8f7f213263|all, parity: add initial hacked together parity|Wed, 24 Aug 2016 16:57:22 +0300|Wed, 24 Aug 2016 16:57:22 +0300
+540c2912456eb6f3ec9d15976ac0b53e0a16be01|hive: support selective overrides for combo runs|Wed, 24 Aug 2016 11:42:59 +0300|Wed, 24 Aug 2016 11:42:59 +0300
+a42a9c80192389934839569088503a8bf51a486c|benchmarker, snailtracer: polishes + first real benchmark|Wed, 24 Aug 2016 11:22:51 +0300|Wed, 24 Aug 2016 11:22:51 +0300
+0399f90ba82830f21b9c1619ce077fb50d6bdb08|all: bump all alpine images to 3.4, optimise go clients|Tue, 23 Aug 2016 17:49:32 +0300|Tue, 23 Aug 2016 17:59:11 +0300
+c35011d69e2111c2d8ca7708ba3304a4f41f11b0|Fix some minor license issues.|Tue, 23 Aug 2016 14:51:14 +0300|Tue, 23 Aug 2016 14:51:14 +0300
+030a1300e8b8d20f990f6c33bdeb127d5c32b20d|hive, benchmarkers: initial support for client benchmarks|Tue, 23 Aug 2016 14:12:43 +0300|Tue, 23 Aug 2016 14:12:43 +0300
+e5299d3545eac269c336239da7c5d4773ad349a6|Merge pull request #13 from karalabe/dynamic-init-files|Tue, 23 Aug 2016 10:49:30 +0300|Tue, 23 Aug 2016 10:49:30 +0300
+c071c48bac4a678986acfa3b8f9d95cca69522aa|all: support dynamically configurable chain init files|Mon, 22 Aug 2016 17:00:15 +0300|Mon, 22 Aug 2016 17:00:15 +0300
+cbe4c39024ab266f1e3568bea58f1d998804315d|validators/issues/go-ethereum-2905: testnet nonce init regression|Mon, 22 Aug 2016 11:35:24 +0300|Mon, 22 Aug 2016 11:39:37 +0300
+f48e96f1c34b14e6a3c38ed9b7098cbbe99cbcce|all: make chain init files optional (less boilerplate)|Fri, 19 Aug 2016 17:31:37 +0300|Fri, 19 Aug 2016 17:31:37 +0300
+fbdb7729c7a701c8779e6837fbb47f58aeccb8da|Merge pull request #12 from bas-vk/keystore|Fri, 19 Aug 2016 17:06:56 +0300|Fri, 19 Aug 2016 17:06:56 +0300
+50e299eb7a24616c0d051cea120854244f677560|hive: add support for custom keystore location|Fri, 19 Aug 2016 11:32:27 +0200|Fri, 19 Aug 2016 11:32:27 +0200
+c111bba162c0a87f26f30412777f9da575a311c5|Merge pull request #11 from bas-vk/sync|Thu, 18 Aug 2016 12:14:27 +0300|Thu, 18 Aug 2016 12:14:27 +0300
+0d00d77c613b48f4a9c6c1707c05e7ba623e43ac|rpc-test: create block files for import synchronous|Thu, 18 Aug 2016 11:00:04 +0200|Thu, 18 Aug 2016 11:00:04 +0200
+0cc8f7478acd0976e114b1e47bac97d9fd1c5533|Merge pull request #10 from hobti01/patch-1|Mon, 8 Aug 2016 10:15:24 +0300|Mon, 8 Aug 2016 10:15:24 +0300
+5f304e099994111d1270257f2034b935db8099c5|Fix so kind as|Thu, 4 Aug 2016 19:29:26 +0200|Thu, 4 Aug 2016 19:29:26 +0200
+ee07b9360dfb8538bf5b4aae0bd8cc7b1ff02f97|Fix minor typos and grammar|Thu, 4 Aug 2016 19:22:02 +0200|Thu, 4 Aug 2016 19:22:02 +0200
+5dc3f1806709b43eb037556d8d8786b0effd13e3|README: write section about adding new simulators|Tue, 19 Jul 2016 16:23:15 +0300|Tue, 19 Jul 2016 16:25:05 +0300
+1748155f0f9dddf55af65296510141034d059fec|README: write section about adding new validators|Tue, 19 Jul 2016 15:42:56 +0300|Tue, 19 Jul 2016 15:42:56 +0300
+af6a8eb99077a8e7079d205fe7fc0bfae44ba5b3|hive: fix an accidental debug output|Tue, 19 Jul 2016 15:42:39 +0300|Tue, 19 Jul 2016 15:42:39 +0300
+68fc68e88080ea5fc433bcbdba823226da4e3cb3|README: replace log.txt file with the workspace log dir|Tue, 19 Jul 2016 13:50:37 +0300|Tue, 19 Jul 2016 13:50:37 +0300
+00bf7fc87c13bf1a1f50037875362dbbd4809707|hive, validators: drop docker linking in favor of hive envvar|Tue, 19 Jul 2016 13:47:30 +0300|Tue, 19 Jul 2016 13:47:30 +0300
+523d05eec79cf13ba78822eecde00dea746c6ce6|hive: init client chain from tester image, not container|Tue, 19 Jul 2016 13:31:08 +0300|Tue, 19 Jul 2016 13:31:08 +0300
+b2315e5c2b2c132476c14104120a727550e2bbde|simulators/dao-hard-fork: add archive/fast sync fork sims|Sat, 16 Jul 2016 18:32:29 +0300|Sat, 16 Jul 2016 18:32:29 +0300
+3abe8761e7c4ac3b6384a7e762a195da42231f91|README: write documentation about CI configuration|Fri, 15 Jul 2016 18:04:21 +0300|Fri, 15 Jul 2016 18:04:21 +0300
+c24e9f4bc53d687662c1cbeb870e66c33ae6d669|hive: use dashes instead of hashes in log files (circleci issue)|Fri, 15 Jul 2016 18:04:02 +0300|Fri, 15 Jul 2016 18:04:02 +0300
+34293dc32a1886ea3376aefe4403ba49365d6cab|hive, internal/ethash: support internal genesis DAG gneration|Fri, 15 Jul 2016 14:14:25 +0300|Fri, 15 Jul 2016 14:14:25 +0300
+6367738be523007601be27642f78fe3556f09e2e|shell: remove "internal" as it's unused for now|Thu, 14 Jul 2016 16:04:37 +0300|Thu, 14 Jul 2016 16:04:37 +0300
+84d58e2f09ad4fe97141c2c2f93e5bd4975de3ca|hive: split logs into test/client folde hierarchy|Thu, 14 Jul 2016 14:50:20 +0300|Thu, 14 Jul 2016 14:50:20 +0300
+32df2689f9a4125fc0ad46a64fb594dd97867d3a|hive: support interruping the shell container|Thu, 14 Jul 2016 13:10:48 +0300|Thu, 14 Jul 2016 13:10:48 +0300
+ff8867d645642841f2ff6518c92d83954fc47790|hive: make outer shell container to self contain hive|Thu, 14 Jul 2016 12:22:35 +0300|Thu, 14 Jul 2016 12:22:35 +0300
+42ce0972c0b3e768aea0a63c1eb7a74868429e55|go-ethereum, network-split: minor script polishes|Tue, 12 Jul 2016 14:09:48 +0300|Tue, 12 Jul 2016 14:09:48 +0300
+dace501f0ab94be654dab9ff67bf421c8036dfec|README, hive: rework CLI flags to make a bit more sense|Tue, 12 Jul 2016 14:09:29 +0300|Tue, 12 Jul 2016 14:09:29 +0300
+fd95e064088eebb7413ac128ed51df95d3c49d88|validators/issues/go-ethereum-2796: define call-nonce test|Tue, 12 Jul 2016 13:47:50 +0300|Tue, 12 Jul 2016 13:47:50 +0300
+3ce6b3b26d92b7ed041eaef6473f05e00331807e|README: Add go-ethereum downloader trophy|Mon, 11 Jul 2016 19:08:40 +0300|Mon, 11 Jul 2016 19:08:40 +0300
+40c0eeb48c693e81a3b4de1eb0bfa593e9522ff5|simulators/dao-hard-fork/network-split: final simulation cleanup|Mon, 11 Jul 2016 19:00:03 +0300|Mon, 11 Jul 2016 19:00:03 +0300
+927400b751d33915b9c2350faf0775d7fe4cc2d1|all: replace private miner_ RPC calls with hive envvars|Mon, 11 Jul 2016 17:45:20 +0300|Mon, 11 Jul 2016 17:45:20 +0300
+1774d21df087e0e4efed6f27067f2b213b7ec652|hive: tag container logs with container ids|Mon, 11 Jul 2016 17:14:29 +0300|Mon, 11 Jul 2016 17:14:29 +0300
+42ba0b90b761345af6c4a645c81fa420f72a3b90|simulators/dao-hard-fork/network-split: minor polishes|Mon, 11 Jul 2016 17:14:16 +0300|Mon, 11 Jul 2016 17:14:16 +0300
+2eea80122e8decf5974e6eb5496aed961db85220|simulators/dao-hard-fork/network-split: upgrade fork envvars|Fri, 8 Jul 2016 17:24:16 +0300|Fri, 8 Jul 2016 17:24:16 +0300
+a6743cec8d85109cf9a7ababb29bf57cad677832|simulators/dao-hard-fork/extradata: validate malicious mining|Fri, 8 Jul 2016 17:16:19 +0300|Fri, 8 Jul 2016 17:16:19 +0300
+63dae2dbed6094f9a8672229eb25a56c830ee062|clients/go-ethereum: upgrade to the DAO block/vote env vars|Fri, 8 Jul 2016 17:15:43 +0300|Fri, 8 Jul 2016 17:15:43 +0300
+f70d3bf305346a0e3c3061fb75d4284e83dc886c|README: add go-ethereum import/mine datarace trophy|Fri, 8 Jul 2016 17:13:54 +0300|Fri, 8 Jul 2016 17:13:54 +0300
+d2f84a987ed616a7a7135ceeac45513eb8c81ebc|clients/go-ethereum: integrate hard-fork flags|Fri, 8 Jul 2016 12:46:10 +0300|Fri, 8 Jul 2016 12:46:10 +0300
+300c7163922be90b66a484be48825a345904fa47|imulators/dao-hard-fork/extradata: range checks, false checks|Fri, 8 Jul 2016 12:44:06 +0300|Fri, 8 Jul 2016 12:44:06 +0300
+00b35f968e4cbb9a902b8763acb70334384b5f85|README: add go-ethereum empty chain config trophy|Fri, 8 Jul 2016 12:22:51 +0300|Fri, 8 Jul 2016 12:22:51 +0300
+a99f55d420d2e4080542f65a43be8dff650306f8|simulators: rename lifecycle smoke test|Thu, 7 Jul 2016 13:04:58 +0300|Thu, 7 Jul 2016 13:04:58 +0300
+ea36a1ad058fdd76905653e493259c7b57d5cecb|clients/go-ethereum: fix some startup script errors|Thu, 7 Jul 2016 13:04:36 +0300|Thu, 7 Jul 2016 13:04:36 +0300
+97568feed101c0a9abfe44a5c891f34e6365ea2a|hive: support file overrides for local binary testing|Thu, 7 Jul 2016 13:04:21 +0300|Thu, 7 Jul 2016 13:04:21 +0300
+4b8af1bcfdee61f8bf74bfbb1182bba5553bd42b|imulators/dao-hard-fork/extradata: check dao hard-fork extradata|Thu, 7 Jul 2016 12:03:14 +0300|Thu, 7 Jul 2016 12:03:14 +0300
+1e0098692714b118106664146d9b01a8a3efa701|ients/go-ethereum: polish up a bit the startup scripts|Thu, 7 Jul 2016 11:14:32 +0300|Thu, 7 Jul 2016 11:14:32 +0300
+68f8c18300e0a1c9c7eff46e2930b34d62d66a13|simulators/dao-hard-fork/network-split: gracefully boot network|Thu, 7 Jul 2016 11:14:06 +0300|Thu, 7 Jul 2016 11:14:06 +0300
+573f71ee3568637d56dd565ddc7e08ff052ccdca|hive: mount ethash to prevent containers generating DAGs|Thu, 7 Jul 2016 11:13:33 +0300|Thu, 7 Jul 2016 11:13:33 +0300
+f661c086fa49218499e2ce1692238b415e46f38e|all: start putting everything together, dao net-part simulation|Wed, 6 Jul 2016 19:57:03 +0300|Wed, 6 Jul 2016 19:57:03 +0300
+795c26d48010301c5c7e2289d07d0da7ecd39a65|hive, clients, validators: support behavioral env vars|Wed, 6 Jul 2016 17:18:10 +0300|Wed, 6 Jul 2016 17:18:10 +0300
+e929dc9a5f61cc5fb65892baa69a5477b1839fc7|README: add some sample commands to make usage clearer|Wed, 6 Jul 2016 15:38:51 +0300|Wed, 6 Jul 2016 15:38:51 +0300
+47330979fc1db5b69b1f915cf8391cbc4a5e2640|README: Some minor details about simulations|Wed, 6 Jul 2016 15:30:44 +0300|Wed, 6 Jul 2016 15:30:44 +0300
+605f38f8ee371b3c34db86d130b83ae323590e05|hive, simulators: add simulation support, write a smoke net|Wed, 6 Jul 2016 14:52:53 +0300|Wed, 6 Jul 2016 14:52:53 +0300
+79bbf7e4b48304d54442647307ac14866f430a53|hive: split repo up a bit for cleaner organization|Wed, 6 Jul 2016 11:14:13 +0300|Wed, 6 Jul 2016 11:14:13 +0300
+49a542ed15b2c79db826b25e4827757a1356da1d|hive: clean up image building, allow arbitrary nesting|Wed, 6 Jul 2016 11:02:44 +0300|Wed, 6 Jul 2016 11:02:44 +0300
+dbc74a08dbae9b47717df7d0317ea8be2763c097|all: pull in dependencies, write up usage readme|Tue, 5 Jul 2016 18:16:31 +0300|Tue, 5 Jul 2016 18:16:31 +0300
+9de8f650ffeda3422852460ffa4e2c3e1c498dac|hive: handle terminated containers gracefully|Tue, 5 Jul 2016 17:50:36 +0300|Tue, 5 Jul 2016 17:50:36 +0300
+7b55d58afcec5cb402401fd5bcec5529fd955aa9|hive: advanced logging to prevent too much junk|Tue, 5 Jul 2016 17:41:58 +0300|Tue, 5 Jul 2016 17:41:58 +0300
+7576beebf6eb486aa0e400338379edb0802516d5|all: write up client addition, implement smoke tests|Tue, 5 Jul 2016 17:03:11 +0300|Tue, 5 Jul 2016 17:03:11 +0300
+7d3cb3804bd994ca63dc3dd5dca6604e4bd2cacb|hive, clients, validators: first batch of images|Tue, 5 Jul 2016 13:47:19 +0300|Tue, 5 Jul 2016 13:47:19 +0300
+82ff0cec9e1b7d958d9af7477ba18fd9a8420f05|COPYING, README: initial commit with base infos|Tue, 5 Jul 2016 10:43:21 +0300|Tue, 5 Jul 2016 10:43:21 +0300

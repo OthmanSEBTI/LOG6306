@@ -1,0 +1,241 @@
+44902d19a9f1da429915c1a83c7bf099533d5a65|update of exporter to 0.9.8, set versions of artifacts to 1.0.0|Fri, 27 Sep 2019 11:29:07 +0200|Fri, 27 Sep 2019 11:29:07 +0200
+6853488e68cf3dcb77a498e58c5cd20c58fb0f35|Parametrize build scripts (#292)|Thu, 26 Sep 2019 10:49:45 -0400|Fri, 27 Sep 2019 00:19:45 +0930
+46efa573485ea13451b324c0422775e239be9a62|Fixing CI|Thu, 26 Sep 2019 23:09:14 +0930|Thu, 26 Sep 2019 16:24:59 +0200
+56cbe92c9cd033865e7bba0186a132859ecc9552|Added more checks in CI (#298)|Thu, 26 Sep 2019 22:55:31 +0930|Thu, 26 Sep 2019 22:55:31 +0930
+a37fbb496c7505eeb96efb59df9626032e0fbf23|CI and build updates for switching to go (#288)|Thu, 26 Sep 2019 22:10:14 +0930|Thu, 26 Sep 2019 22:10:14 +0930
+78af1dee5ffe556e2b31dafe8c3251cb3385c15a|Support exporting Prometheus metrics (#294)|Thu, 26 Sep 2019 20:25:32 +0930|Thu, 26 Sep 2019 20:25:32 +0930
+be0bca93827ef4224ed99113b7acfc19fe3ce784|Docs simplification (#293)|Fri, 20 Sep 2019 22:10:27 +0930|Fri, 20 Sep 2019 14:40:27 +0200
+a2941ed6b9b6238d6974ab21c84a04844639911b|Improve development UX|Wed, 18 Sep 2019 19:13:36 +0200|Fri, 20 Sep 2019 01:58:02 +0200
+3d8e26d29be2cf170c07cf9d2efc4cd31332d95c|Big fat docs revamp (#283)|Wed, 18 Sep 2019 04:22:05 +0930|Tue, 17 Sep 2019 14:52:05 -0400
+8d609f5f2bee05a267a2310f119c0614f6f23149|Add docs for deploying on AKS|Fri, 13 Sep 2019 19:25:17 +0200|Fri, 13 Sep 2019 20:02:33 +0200
+f523774674b064cfb99055bb9c7798f3f461dda9|Add default operator config ConfigMap|Fri, 13 Sep 2019 19:35:00 +0200|Fri, 13 Sep 2019 19:35:00 +0200
+d5ae412fa5875f09ac01bdb33b42153fff14db01|Allow specifying fsGroup for C* pods (#284)|Fri, 13 Sep 2019 18:21:56 +0200|Fri, 13 Sep 2019 18:21:56 +0200
+24d1463a918d8498d74362aa09514e11124fa295|Removing redundant env (#281)|Fri, 13 Sep 2019 21:36:23 +0930|Fri, 13 Sep 2019 21:36:23 +0930
+10572edbea2de03e6c39a4aefd23600b16938337|supplied service account in helm automatically based on kernel params|Wed, 11 Sep 2019 17:00:03 +0200|Wed, 11 Sep 2019 17:43:39 +0200
+6b1642bbbf70cc68083f07ead59600203ab16b75|fixed Helm charts|Wed, 11 Sep 2019 12:14:13 +0200|Wed, 11 Sep 2019 14:39:17 +0200
+2a37699c059629fbbfa00b24170ea15a15061d1a|Go syntax check in CI|Tue, 10 Sep 2019 16:42:27 +0930|Tue, 10 Sep 2019 22:15:07 +0930
+24d2ae8e094194d8b340007ff74ee83988a61fb0|Getting CircleCI back up again|Fri, 6 Sep 2019 12:55:09 -0400|Tue, 10 Sep 2019 09:06:09 +0200
+9df94a3b98793e445ec3d35322eacafdc5f57aa8|implemented population of unset fields in spec with default values|Fri, 6 Sep 2019 20:02:11 +0200|Mon, 9 Sep 2019 23:52:44 +0200
+dc86448952cd6d685665a0fd73ce0ff9533a1aeb|Add PSPs for Cassandra pods|Tue, 27 Aug 2019 14:32:19 +0200|Fri, 6 Sep 2019 21:42:47 +0200
+ed291f316ef8d2434d768bd55c4ec7b82c3b595c|Fix race condition where the inheriting tests would bind on the same port. (#272)|Fri, 6 Sep 2019 15:12:07 -0400|Fri, 6 Sep 2019 15:12:07 -0400
+8fac8b6b5ef158890b3f394107bb3c8520a7888f|Make kernel tweaks optional (#269)|Fri, 6 Sep 2019 18:24:42 +0200|Fri, 6 Sep 2019 12:24:42 -0400
+810511b1d25a96524c5cb3abe22160ed0f21908c|Update build instructions|Fri, 6 Sep 2019 11:31:47 -0400|Fri, 6 Sep 2019 11:31:47 -0400
+f64c9b5d4e0bcd30566b5a29b982dcf0e5ea0606|imports comply with goimports|Wed, 4 Sep 2019 21:02:04 +0200|Wed, 4 Sep 2019 21:02:04 +0200
+ae81eb94f690122ddb6077b53065433544666b88|Fixes and improvements|Thu, 29 Aug 2019 20:28:10 +0200|Mon, 2 Sep 2019 15:38:54 +0200
+d15998efe8a30427cfd6f313d878a62ad5a1db5b|documentation improvements|Thu, 29 Aug 2019 15:19:49 -0400|Mon, 2 Sep 2019 11:43:38 +0200
+5cc120feb8735fbf90d81a668b895b4ace20691c|Port Helm charts to support new Go operator|Thu, 29 Aug 2019 13:18:20 -0400|Mon, 2 Sep 2019 10:23:41 +0200
+2bfbedcaaf36f4750d65486fb46dde52008a9a93|Use Go module mirror|Fri, 30 Aug 2019 15:05:16 +0200|Fri, 30 Aug 2019 15:44:59 +0200
+1248f73f95e937010203f9eb74f7180641c550c3|added logback.xml file to sidecar|Fri, 30 Aug 2019 12:18:59 +0200|Fri, 30 Aug 2019 12:19:51 +0200
+bf4c7a92041461ef93264614ea8321a6ddbc1de3|update to Cassandra 3.11.4|Thu, 29 Aug 2019 16:15:43 +0200|Thu, 29 Aug 2019 16:16:47 +0200
+a15c0f9f829f1909a464f38d82b1dabc69351879|operations in commons module, added javadocs, cosmetic changes in Java code|Thu, 29 Aug 2019 14:33:18 +0200|Thu, 29 Aug 2019 16:15:26 +0200
+85c40e496c0726f560c0eb3ac6ede077e5d6310d|implementation of restores in go|Wed, 28 Aug 2019 15:41:49 +0200|Wed, 28 Aug 2019 15:41:49 +0200
+e4e34642deb2c2d82c55304ebe79e737bb85e81f|Make multirack configuration optional|Wed, 28 Aug 2019 22:40:44 +0930|Wed, 28 Aug 2019 22:41:04 +0930
+0037b8214659a49659086c613251aa26330f312d|Improve reconcile loop|Wed, 28 Aug 2019 13:27:23 +0930|Wed, 28 Aug 2019 13:27:23 +0930
+b9f785cb7612e108fc4b350feeae7733e0712fe6|update to resty v2.0|Tue, 27 Aug 2019 01:12:39 +0200|Tue, 27 Aug 2019 01:50:46 +0200
+c7a7e0cef4664caaf84d3db07437cd22fd7ac807|cosmetic changes for backup|Fri, 23 Aug 2019 23:58:21 +0930|Fri, 23 Aug 2019 16:47:34 +0200
+c316b7416a0fa5a3442ea4e0fe13272ebef1ac70|Improve Cassandra rack configuration handling|Thu, 22 Aug 2019 12:18:04 +0930|Fri, 23 Aug 2019 16:33:22 +0200
+f42757f854b04798edccb62e1280c555d3bff55f|implementation of backup functionality in operator|Wed, 21 Aug 2019 19:35:13 +0200|Fri, 23 Aug 2019 16:24:08 +0200
+d8f0fb746c4b26df4feba4ec2c3a564496ea6c3f|Download Go modules in a separate layer|Fri, 23 Aug 2019 15:15:20 +0200|Fri, 23 Aug 2019 15:15:20 +0200
+d2444d8b800c57e4ab3dcb2cc5f5f54195599d52|consolidated ports|Thu, 22 Aug 2019 14:39:26 +0200|Thu, 22 Aug 2019 21:01:48 +0200
+1d075a2f815de1715dc53b8f11b4614f31626bc6|Multi rack support (#192)|Thu, 22 Aug 2019 03:38:16 +0930|Wed, 21 Aug 2019 14:08:16 -0400
+df5ef00274e83be6106a34f464cc1701f8a49fe7|Support user configs, user secrets and separate environments for cassandra and sidecar (#218)|Wed, 21 Aug 2019 23:40:50 +0930|Wed, 21 Aug 2019 10:10:50 -0400
+2372b2e048e4e2e657943ad4bda4eaf5096e17d3|Add PSP for operator|Wed, 14 Aug 2019 15:21:52 +0200|Thu, 15 Aug 2019 18:19:26 +0200
+6e04fab448b27decd3f206d947279efe0c27e19a|Add operator Dockerfile and Make targets for Go|Fri, 12 Jul 2019 21:23:23 +0200|Thu, 15 Aug 2019 10:42:48 +0200
+8f5eeb7e4dcc7377c2626097c783b36a826b5013|Version object populated from JarManifestVersionProvider and logged in CLI commands too|Wed, 14 Aug 2019 17:37:37 +0200|Wed, 14 Aug 2019 17:41:06 +0200
+561616649cd86cf8e59e25f03baa55000892fc25|consolidated version related classes|Wed, 14 Aug 2019 15:10:30 +0200|Wed, 14 Aug 2019 15:10:30 +0200
+adf85148879541d9befa806a1e9dc16dd7fc3396|ninja fix - moving SidecarSpec to sidecar-common, added alias endpoint for sidecar version|Wed, 14 Aug 2019 13:59:00 +0200|Wed, 14 Aug 2019 13:59:00 +0200
+1d2be06f8c46b1973752736b463b569a15e65cb1|implementation of sidecar and cassandra version endpoints|Wed, 14 Aug 2019 13:37:36 +0200|Wed, 14 Aug 2019 13:37:36 +0200
+f50b94d07d1f7d5476190d0b62cf5687bf9ed1ac|added flag to create cassandra home dir so we can bash and cqlsh smoothly|Wed, 14 Aug 2019 11:25:45 +0200|Wed, 14 Aug 2019 11:25:45 +0200
+c8820382accc6968b1990434a07c4d9281590ebd|restores wip|Thu, 8 Aug 2019 22:01:59 +0200|Mon, 12 Aug 2019 19:22:24 +0200
+7389729deb3e80382ef871fc9fc55dceb1fcfa97|Update operator-sdk to v0.10.0|Fri, 9 Aug 2019 21:11:21 +0200|Fri, 9 Aug 2019 21:50:58 +0200
+84737bdf33c7b1b7d39732d626e47081550c84b1|Fix Docker image name handling|Fri, 26 Jul 2019 19:25:15 +0200|Fri, 9 Aug 2019 13:10:02 +0200
+39ae87750c0cc8025f80279608236894b746f6d5|Merge pull request #216 from kinvolk/cassandra-sa|Thu, 8 Aug 2019 12:07:30 -0700|Thu, 8 Aug 2019 12:07:30 -0700
+7fe62e78dd427a04ce2cf47ea8cff20b75598502|Merge pull request #219 from kinvolk/run-as-non-root|Thu, 8 Aug 2019 11:48:15 -0700|Thu, 8 Aug 2019 11:48:15 -0700
+245052a229d873d7a3a1176ab76b8b9bb4c7b8f9|incorporated backup of commit logs|Thu, 8 Aug 2019 17:56:05 +0200|Thu, 8 Aug 2019 20:06:31 +0200
+0ffb9f49989bbed31bd0fb6900d1d2e2cf78b440|minor backup fixes, fixed offline backups|Thu, 8 Aug 2019 10:06:15 +0200|Thu, 8 Aug 2019 16:22:31 +0200
+9d70154c2b67ec054c6e331aa4023dc335854eb5|possible to connect to Cassandra via JMX securely, renamed aws to s3|Wed, 7 Aug 2019 13:21:48 +0200|Wed, 7 Aug 2019 17:14:16 +0200
+b51febcf2d1eaca73f3ff13d2fcc5c1b21773c72|first round of refactoring of backup / restores|Wed, 17 Jul 2019 15:25:42 +1000|Tue, 6 Aug 2019 14:04:11 +0200
+c4b9a7493715a53dbb7f0d3732a9d8a4da3d616e|Don't run ulimit inside Cassandra container|Mon, 5 Aug 2019 17:16:53 +0200|Mon, 5 Aug 2019 17:16:53 +0200
+b23ac36799eb392b3fc2e1bd969dfa14c6174e62|Run Cassandra and sidecar as non-root|Fri, 2 Aug 2019 18:53:49 +0200|Mon, 5 Aug 2019 17:14:48 +0200
+e7c257328957f2d5b8a6e153cc4673446d4ed01e|Fix malformed Go build tag in generated code|Thu, 1 Aug 2019 13:41:40 +0200|Thu, 1 Aug 2019 13:41:40 +0200
+e392126cc4cb485852830c458a70fe69638e6f1a|Run k8s generators|Mon, 29 Jul 2019 21:33:06 +0200|Mon, 29 Jul 2019 21:33:06 +0200
+98dfb374e0462e213bd0fe28da4a356dfc6c05c8|Reorder imports|Mon, 29 Jul 2019 20:01:45 +0200|Mon, 29 Jul 2019 21:32:09 +0200
+21470b81ca9893162aed1cddb5a60a569ea6cd3e|Allow specifying SA for C* resources|Mon, 29 Jul 2019 20:01:28 +0200|Mon, 29 Jul 2019 21:32:09 +0200
+7dabeeb2be6afc5db2ee01f39035e030a1b3211b|Merge pull request #210 from kinvolk/fix-java-cve|Fri, 26 Jul 2019 15:11:43 -0700|Fri, 26 Jul 2019 15:11:43 -0700
+532c9b6acb7abb0386e8d9f79d026ece998ac965|Merge pull request #211 from kinvolk/sidecar-signals|Fri, 26 Jul 2019 15:11:30 -0700|Fri, 26 Jul 2019 15:11:30 -0700
+a2abdc7f311dfb3c696ba582c9b7a60cbc9d14c9|Merge pull request #201 from kinvolk/fix-leader-cm-slash|Fri, 26 Jul 2019 15:11:03 -0700|Fri, 26 Jul 2019 15:11:03 -0700
+b94f1f2eeea8392404182e7816650ae96d0d3f18|Make sidecar respond to signals|Fri, 26 Jul 2019 21:32:41 +0200|Fri, 26 Jul 2019 21:32:41 +0200
+5e699f91dcf28e6552e3bb396a6aa9ba07e41721|Update Java version to mitigate CVEs|Fri, 26 Jul 2019 20:46:49 +0200|Fri, 26 Jul 2019 20:59:40 +0200
+34febad7e0a2c60c7dd95b0368d2cd43ded1fe05|Remove slash from leader ConfigMap name|Fri, 12 Jul 2019 22:48:10 +0200|Wed, 24 Jul 2019 16:25:01 +0200
+cfb76a760d0b6f1c5dcc272c758adb18b5109254|Test updates (#200)|Wed, 24 Jul 2019 14:22:30 +0930|Wed, 24 Jul 2019 14:22:30 +0930
+6b7450914cf03867439d39905c4e515677d3fe3c|Client updates (#199)|Wed, 24 Jul 2019 14:13:39 +0930|Wed, 24 Jul 2019 14:13:39 +0930
+bbbe42c2ade71f98d2b4fa30d71f2d1dfd7d94da|enabled deserialisation from string to some Operation|Fri, 12 Jul 2019 14:05:53 +1000|Tue, 16 Jul 2019 16:51:04 +1000
+606eb2c2ee93d4f3c89960b75cf1e494ad552c43|Implemented filtering of operations|Tue, 9 Jul 2019 13:34:48 +1000|Tue, 16 Jul 2019 15:58:32 +1000
+1df842a2192bc01b69f0de55263f716265fa57a6|Sync operations (#194)|Thu, 11 Jul 2019 21:58:32 +0930|Thu, 11 Jul 2019 21:58:32 +0930
+92da030187ee496f049cb6e46273424eb2a859f7|Merge pull request #196 from smiklosovic/operation-type|Tue, 9 Jul 2019 11:31:54 +1000|Tue, 9 Jul 2019 11:31:54 +1000
+ebe4d2ab35bc686cc338b2068a8e217d96368652|type in OperationRequest is OperationType, not String|Tue, 9 Jul 2019 11:25:13 +1000|Tue, 9 Jul 2019 11:25:13 +1000
+69b18518c647e635a896a91924fdeabe86955019|expiration of operations|Mon, 8 Jul 2019 14:22:13 +1000|Mon, 8 Jul 2019 15:00:05 +1000
+c22689778fc3dd4faab3989935653284456be4ca|sidecar-commons and operations implementation with validations|Tue, 18 Jun 2019 11:17:11 +1000|Fri, 5 Jul 2019 19:50:07 +1000
+e267d46662e45732bfeb9116bef9ef6d9110f90e|Sync java and go sidecar clients (#187)|Fri, 5 Jul 2019 11:58:18 +0930|Fri, 5 Jul 2019 11:58:18 +0930
+1f45ff7159426b6bd8b5e4f10b3517d849dffb9a|Merge pull request #190 from zegelin/remodule|Fri, 28 Jun 2019 01:09:03 -0700|Fri, 28 Jun 2019 01:09:03 -0700
+9d49c0129fc832cc73fb4c2119f16bf5a1e131cb|Moves sidecar specific code out of common module: - Operations (for now) - Jersey HTTP Server code (very sidecar specific right now) - Move CLI options back into main entrypoint class.|Thu, 27 Jun 2019 19:00:50 -0700|Fri, 28 Jun 2019 01:07:32 -0700
+7e3716379498d828f6f7e1c4707be1918edd14c2|Merge pull request #188 from zegelin/repackaging|Fri, 28 Jun 2019 00:46:43 -0700|Fri, 28 Jun 2019 00:46:43 -0700
+11568768fa16ec4e11ff8789a2cd2aa25d6b51cf|Repackaging. - com.instaclustr.backup -> com.instaclustr.cassandra.backup - com.instaclustr.sidecar.cassandra -> com.instaclustr.cassandra.sidecar|Thu, 27 Jun 2019 00:15:36 -0700|Thu, 27 Jun 2019 00:20:42 -0700
+e57bd3c99ad25e033f624bfae80d3a13c38415eb|Move ObjectNames to common module.|Thu, 27 Jun 2019 00:12:23 -0700|Thu, 27 Jun 2019 00:12:23 -0700
+06de30197a99a7784d4fa9979b5ef7846818e90a|Merge pull request #186 from smiklosovic/client-operations|Tue, 18 Jun 2019 09:50:23 +1000|Tue, 18 Jun 2019 09:50:23 +1000
+1429bef35e6bd07d6c6669918f5cf0ad36271cea|cleaned pom in sidecar, dependencies taken from common|Tue, 18 Jun 2019 09:45:48 +1000|Tue, 18 Jun 2019 09:45:48 +1000
+06d95578efa8cd192dc8c022b50266f0fc496e72|added operations test|Mon, 17 Jun 2019 16:16:27 +1000|Mon, 17 Jun 2019 16:16:27 +1000
+ddbf1e61a3b7b2483e3954db0e8021fa7c074127|improvements in configuration and initialisation|Mon, 17 Jun 2019 10:49:03 +1000|Mon, 17 Jun 2019 10:49:03 +1000
+22e1a86162a80bc31d6a26779d0be6679f9a3e05|reworked converters|Fri, 14 Jun 2019 12:09:54 +1000|Fri, 14 Jun 2019 18:15:42 +1000
+e78c4a67483743f51208932569db93f44a3bee4d|general cleanup|Thu, 13 Jun 2019 19:08:31 +1000|Fri, 14 Jun 2019 17:37:47 +1000
+0e80caa9a56a8dd8f770f0f759d3e4c58ab8f1f6|Refactored the Operation binding machinery located in each Module into a single function. Operations now have a TypeIdResolver, hence @JsonTypeName is no longer required.|Wed, 12 Jun 2019 15:53:48 -0700|Thu, 13 Jun 2019 10:34:41 +1000
+4b37541bf1b4a4f0689c1773aec110e824ff3704|Refactor of Operation support machenery.|Tue, 11 Jun 2019 20:13:52 -0700|Wed, 12 Jun 2019 16:36:47 +1000
+0f2dd4a739661ca28a60e111b1396d060cafffce|implementation of operations|Wed, 5 Jun 2019 14:28:24 +1000|Wed, 12 Jun 2019 16:36:47 +1000
+ff01bfb2985b024cb9a81901fc7c648bdf78d6da|Merge pull request #177 from zegelin/refactoring|Tue, 11 Jun 2019 23:28:36 -0700|Tue, 11 Jun 2019 23:28:36 -0700
+776b4a36802eb4ba3c9f27c4a5ccf118ed7f8779|Refactor WiP.|Wed, 29 May 2019 17:06:04 -0700|Tue, 11 Jun 2019 23:08:35 -0700
+ec8d00e2b11907079d7534aaba3afeef6edfea76|Initial implementation of e2e tests in Go (#175)|Thu, 30 May 2019 11:16:19 +1000|Wed, 29 May 2019 21:16:19 -0400
+b6cc073a8f13d484ebdc92b0d363ffdba2a7b617|Various refactorings|Tue, 21 May 2019 11:18:32 +1000|Wed, 22 May 2019 10:12:10 +1000
+14a614935cebcb783f71bfe463498e173b2c667b|Merge pull request #171 from smiklosovic/scaling|Mon, 20 May 2019 13:21:31 -0700|Mon, 20 May 2019 13:21:31 -0700
+e7bdb3bfa5593ec3dfa06acd8e11a1a379e5d714|scaling up and down|Fri, 17 May 2019 18:34:17 +1000|Mon, 20 May 2019 17:10:05 +1000
+7b7e9e81bfe6da048e6988697c31b5d2b112d80c|Merge pull request #167 from smiklosovic/split|Fri, 17 May 2019 13:50:56 -0700|Fri, 17 May 2019 13:50:56 -0700
+9c39a5a659df59d93a781900cebaad4c61a64831|changed get to new for functions|Fri, 17 May 2019 12:59:19 +1000|Fri, 17 May 2019 12:59:19 +1000
+94d13a5d8f637906ab43e6f6eaafcf72a084faac|inlining constants|Fri, 17 May 2019 10:31:47 +1000|Fri, 17 May 2019 10:36:51 +1000
+94e9f36c293d3a2e93cec121fe587ecd144cd406|renamed datacenter.go to metadata.go|Fri, 17 May 2019 09:58:19 +1000|Fri, 17 May 2019 09:58:19 +1000
+6432228a9ea814a1987cdf3722889b6e49b6520f|changed Cql -> CQL in constants for CassandraCqlPort|Fri, 17 May 2019 09:54:40 +1000|Fri, 17 May 2019 09:54:40 +1000
+fd23032d5055089168da68abb379d29e3d9267fa|applied comments from review|Thu, 16 May 2019 14:58:50 +1000|Thu, 16 May 2019 15:27:47 +1000
+caf5fa2209d2de7ae66117ad2505ff9fd84269b1|Merge pull request #166 from instaclustr/revert-164-split|Wed, 15 May 2019 15:25:36 -0700|Wed, 15 May 2019 15:25:36 -0700
+55cc2125e1889cf319426a539337e958f189a6a2|Revert "splitting of operator (#164)"|Wed, 15 May 2019 15:24:58 -0700|Wed, 15 May 2019 15:24:58 -0700
+acac0ce341abfd8b63e00c720e8f5422db6e57c2|splitting of operator (#164)|Thu, 16 May 2019 00:27:41 +1000|Wed, 15 May 2019 10:27:41 -0400
+db493201ef0744e528a65c873a5982b88f55ba77|splitting of operator|Wed, 15 May 2019 14:44:54 +1000|Wed, 15 May 2019 20:36:59 +1000
+562a97725d38fd608c049a3e8c0412ec697132f2|Merge pull request #163 from zegelin/porting|Tue, 14 May 2019 19:50:34 -0700|Tue, 14 May 2019 19:50:34 -0700
+387ad3e80bea4d4e46904894c074d98fe6d2edfb|Run gofmt.|Tue, 14 May 2019 13:12:10 -0700|Tue, 14 May 2019 13:12:54 -0700
+7333b6b48b6a455ea648a73f1cb7b1beee27c8f1|More Java -> Go porting work. Clusters now start!|Tue, 14 May 2019 13:05:36 -0700|Tue, 14 May 2019 13:05:36 -0700
+d2397a3e6aa8bafdc15195caf815018cdb3406f8|initial Sidecar client impl (#162)|Tue, 14 May 2019 22:14:16 +1000|Tue, 14 May 2019 08:14:16 -0400
+8685165124fe44c6236da036309ecca10f20f448|Fix nil pointer dereference.|Thu, 25 Apr 2019 22:13:14 -0700|Thu, 25 Apr 2019 22:13:14 -0700
+b6b5b1905ec3a23b6e5d86165671386782995375|Initial Java -> Go porting work.|Thu, 25 Apr 2019 19:19:12 -0700|Thu, 25 Apr 2019 19:19:12 -0700
+e7b56ae659fe4dc9a9db3d391e9b850f3b9691ae|Operator-SDK generated scaffold + a few initial tweaks.|Wed, 24 Apr 2019 11:52:28 -0700|Wed, 24 Apr 2019 11:52:28 -0700
+451818ab05275e7642f1da6e8a62acaedaf6a5a4|Remove Java operator code/module. Placeholder Docker image.|Tue, 23 Apr 2019 10:27:03 -0700|Tue, 23 Apr 2019 10:27:03 -0700
+ddad2e4a452f09f5c6bf31e36ded906b830c3e89|Update test.yaml from templated helm package|Thu, 18 Apr 2019 17:27:49 -0400|Thu, 18 Apr 2019 17:27:49 -0400
+43a97cc4e49591b56e91b4b26579fe2501317e65|Update RBAC bundle based on templated helm package|Thu, 18 Apr 2019 17:25:48 -0400|Thu, 18 Apr 2019 17:25:48 -0400
+7cc756ca3a969c550ab0575ed8bb2ae6d2a3d61c|Add VSCode-specific files to .gitignore (#149)|Tue, 16 Apr 2019 12:00:10 -0300|Tue, 16 Apr 2019 11:00:10 -0400
+8c82d16c0a5d47ced8aaa0c9fe8b1e2a701d6492|Adds paging support for various resource lists. Fixes issue where some resources wouldn't be cleaned up correctly. (#148)|Mon, 15 Apr 2019 18:06:20 -0700|Mon, 15 Apr 2019 21:06:20 -0400
+59be224ac801eefd5226a3ade36212e5fbb996aa|Fix helm issues (#143)|Wed, 10 Apr 2019 14:56:37 -0400|Wed, 10 Apr 2019 14:56:37 -0400
+2b4afd56afdbce7eabb7a88b72d59b71c5affd0b|  Fixes issue where Jackson's MessageBodyReaders/Writers wern't available depending on certain build conditions. (#141)|Sun, 7 Apr 2019 01:22:32 +1100|Sat, 6 Apr 2019 10:22:32 -0400
+33e37eb893e8a9a474a9a04df337e6e97510ca0b|PKS instructions (#139)|Thu, 4 Apr 2019 23:33:35 -0400|Thu, 4 Apr 2019 23:33:35 -0400
+a775443a7f425de93ad02ecd524720d6d3f5b884|Support Makefiles (#138)|Thu, 4 Apr 2019 13:53:21 -0400|Thu, 4 Apr 2019 13:53:21 -0400
+9e46bab6ad72404b0c621655937d3ce03a25af6b|Refactor and bug fixes. (#131)|Fri, 5 Apr 2019 02:15:23 +1100|Thu, 4 Apr 2019 11:15:23 -0400
+cfa9b8c0b9f0f9ccd5333805606fe8e22dd62257|Point install to better instructions|Wed, 3 Apr 2019 12:06:14 -0400|Wed, 3 Apr 2019 12:06:14 -0400
+c3cd286d85a40ec237805464b0f7e3d4bbcdf766|Fix GCP test values (#137)|Tue, 2 Apr 2019 17:44:22 -0400|Tue, 2 Apr 2019 17:44:22 -0400
+ac48097a0d623f2c559fa71c00fa74a53908f1b7|extensions/v1beta1 Deployments had the selector field as optional, but not apps/v1 Deployments. Upgrading to support new versions (#136)|Tue, 2 Apr 2019 17:17:52 -0400|Tue, 2 Apr 2019 17:17:52 -0400
+03d570b02f4bb28ad7b7ee84cb98de5bb134f77f|Fix build script repo (#135)|Wed, 3 Apr 2019 03:11:37 +1100|Wed, 3 Apr 2019 03:11:37 +1100
+965bb48ce54251e6fe86018e90fded90355c1c05|Fix build script repo (#134)|Wed, 3 Apr 2019 03:02:22 +1100|Wed, 3 Apr 2019 03:02:22 +1100
+7f108b5e39c91312d2ab6ace55a61006e540bd2e|I don't think we need to login on release-all as the individual release script calls it (#133)|Wed, 3 Apr 2019 02:49:35 +1100|Wed, 3 Apr 2019 02:49:35 +1100
+3d797c3b05c89dd399be1cd2c15a1369f0bc0003|Feature/pullsecret support (#127)|Sun, 24 Mar 2019 14:06:52 -0400|Mon, 25 Mar 2019 05:06:52 +1100
+28f6314308f0d33036bde8673561ef1765f171a8|Helm repo (#124)|Thu, 10 Jan 2019 12:39:54 -0500|Thu, 10 Jan 2019 12:39:54 -0500
+7e9a7707dbd160a4700203461d2d366c13a14ad8|Include latest version of cassandra-exporter agent (#123)|Thu, 10 Jan 2019 12:39:32 -0500|Thu, 10 Jan 2019 12:39:32 -0500
+f9bb25d7aa8c80350a16f2f141509fdea3d9480c|change ref to incorrect cassandra-operator.jar (#125)|Thu, 3 Jan 2019 17:26:47 +0100|Thu, 3 Jan 2019 11:26:47 -0500
+4c25c9b5bb9eafb564b2a5f72202301f2c53c51a|Update op_guide.md|Wed, 2 Jan 2019 17:01:29 -0500|Wed, 2 Jan 2019 17:01:29 -0500
+3c065dd0e45f9446babe2adfbef18fdb2674157a|change prometheus support variable to correct name (#121)|Wed, 2 Jan 2019 20:28:59 +0100|Wed, 2 Jan 2019 14:28:59 -0500
+f386a24449567d9d96aa53ec9feea3423892116b|Update README.md (#120)|Thu, 6 Dec 2018 04:34:38 +1100|Wed, 5 Dec 2018 12:34:38 -0500
+a35f139979901d91b131857cb33b4d2f1b0d382f|Optional privileged (#118)|Mon, 19 Nov 2018 13:32:43 -0500|Mon, 19 Nov 2018 13:32:43 -0500
+03439436f7d1d76ca04adc3dea37f25b297f291d|try not to actually push to main docker cassandra repo (#115)|Fri, 2 Nov 2018 15:13:56 -0400|Fri, 2 Nov 2018 15:13:56 -0400
+356ec46882d325f1e3939284267d6ddba8598685|fix cassandra docker image release process (#114)|Fri, 2 Nov 2018 14:16:19 -0400|Fri, 2 Nov 2018 14:16:19 -0400
+f7cf084d8a6eea60957be763ac26776d0f075adf|Build multiple versions of Cassandra (#113)|Fri, 2 Nov 2018 11:03:25 -0400|Fri, 2 Nov 2018 11:03:25 -0400
+98959dac0b26e8c6c79910293b657bf0994f1605|support secret volumes (#108)|Fri, 2 Nov 2018 11:03:02 -0400|Fri, 2 Nov 2018 11:03:02 -0400
+24a2ee89bb965d5fe308a91a67c11adca42f576f|Fix vulnerability associated with commons compress lib (#111)|Fri, 2 Nov 2018 11:02:31 -0400|Fri, 2 Nov 2018 11:02:31 -0400
+28b19e75aa23ddd4d84797109344e4e7d55d8839|Fix cloud backups (#104)|Mon, 22 Oct 2018 15:44:13 -0400|Mon, 22 Oct 2018 15:44:13 -0400
+aa7c76a26fc77c8991fbbda8fcdeabd76fe39b87|Continue scaling when replica count changes by > 1 (#103)|Thu, 18 Oct 2018 10:23:43 -0400|Thu, 18 Oct 2018 10:23:43 -0400
+f06a02d368a0ca762a9bed089b7c94a42ce330dd|Change helm to use images built off master (#77)|Mon, 15 Oct 2018 13:52:26 -0400|Mon, 15 Oct 2018 13:52:26 -0400
+dbba6c7f2ed62a7c9b253ffac154c4dcc97cf5a7|Simplified container names inside the pod, it was needlessly verbose (#105)|Fri, 12 Oct 2018 15:37:57 -0400|Fri, 12 Oct 2018 15:37:57 -0400
+62e5fc4157b61251c7a5a9b5787b5570d5bc861e|Set kernel caps properly (#101)|Tue, 9 Oct 2018 13:41:37 -0400|Tue, 9 Oct 2018 13:41:37 -0400
+23145b358b200ac8db0e16a844c773bb0b0cd051|now we crash JVM on oom (#100)|Mon, 8 Oct 2018 14:19:36 -0400|Mon, 8 Oct 2018 14:19:36 -0400
+b3b50b3ba85850f65263a36b1d812f47ddf3831d|Prometheus support in helm package (#96)|Mon, 8 Oct 2018 11:42:29 -0400|Mon, 8 Oct 2018 11:42:29 -0400
+5f94bd2fec87d1a4596a310c16f58fcd66368c98|Logging build version and commit hash of operator and sidecar jars (#88)|Wed, 26 Sep 2018 16:29:03 -0400|Wed, 26 Sep 2018 16:29:03 -0400
+28976231deac40c31da4707616bf8f2ba5ed7bfd|Adds missing cassandra-exporter.conf. (#94)|Tue, 25 Sep 2018 11:30:51 -0700|Tue, 25 Sep 2018 14:30:51 -0400
+8e6015a2eda228d16f64535816f3200bb7ab4b18|Prometheus (#92)|Fri, 21 Sep 2018 12:41:56 -0700|Fri, 21 Sep 2018 15:41:56 -0400
+490fe52ad217452f8ee3d8ed0aca7b256c16c0a2|Refactor of controller and configuration management (#91)|Fri, 21 Sep 2018 12:19:22 -0700|Fri, 21 Sep 2018 15:19:22 -0400
+a635b9326d14b06cbe99f21967fe9a0a2b81c5b6|Merge pull request #90 from benbromhead/pvc-permission-fix|Tue, 28 Aug 2018 17:05:19 -0700|Tue, 28 Aug 2018 17:05:19 -0700
+a7a80e68928f7f3a8ebe0fafa30a92f8e71de91c|Added persistentvolumes permissions as well (:|Fri, 24 Aug 2018 15:42:32 -0400|Fri, 24 Aug 2018 15:42:32 -0400
+4c98923c197031f100cf8b542d6900c030591646|permissions to delete pvc|Wed, 22 Aug 2018 10:48:05 -0400|Wed, 22 Aug 2018 10:48:05 -0400
+b4a594674ba7c7eadd8ac8207430b1b608464d6e|User defined config (#81)|Tue, 21 Aug 2018 16:55:07 -0400|Tue, 21 Aug 2018 16:55:07 -0400
+7a778daa62176c3258f39f1f80d15e5e8d5860b6|Update README.md|Wed, 8 Aug 2018 13:47:46 -0400|Wed, 8 Aug 2018 13:47:46 -0400
+1df5f4c7d467968f09511a04bdffe8bc5a59e2b1|doco changes (#80)|Tue, 7 Aug 2018 22:54:52 -0400|Tue, 7 Aug 2018 22:54:52 -0400
+e0b7a951e3f0dc6f52d7a490dbb3c4326eaa2724|Update README.md|Tue, 7 Aug 2018 14:58:31 -0400|Tue, 7 Aug 2018 14:58:31 -0400
+3345ca85d726ab0c5098d25b20ebfe2d697dac7c|Backup doco (#79)|Tue, 7 Aug 2018 14:57:49 -0400|Tue, 7 Aug 2018 14:57:49 -0400
+e2b18255fb7d798315dcef2a002721dcd8db3376|Minor fixes on formatting (#74)|Thu, 2 Aug 2018 03:12:41 +0200|Wed, 1 Aug 2018 21:12:41 -0400
+ab15d120a50fb6aee6e461466748d2d8c56278d0|Fix build and test workflow (#76)|Wed, 1 Aug 2018 16:38:20 -0400|Wed, 1 Aug 2018 16:38:20 -0400
+3c8b3a685e87b80836e6aa0c0a28669c0120a1f1|Fix examples (#70)|Tue, 24 Jul 2018 20:17:21 +0200|Tue, 24 Jul 2018 14:17:21 -0400
+f4cb362019120476cbe72fcc438304610153e729|Test fixes (#73)|Mon, 23 Jul 2018 17:27:56 -0400|Mon, 23 Jul 2018 17:27:56 -0400
+2282bca63cbfe2e7f4734e2565d2a29092abe00c|test fixes (#72)|Mon, 23 Jul 2018 16:47:03 -0400|Mon, 23 Jul 2018 16:47:03 -0400
+748bd02fe1a20cc1d2289f96f6f7e66cff8cdc1c|Include publishing sidecar image workflow (#71)|Fri, 20 Jul 2018 12:48:53 -0400|Fri, 20 Jul 2018 12:48:53 -0400
+b46ef90b049d107da926fff2c18583ce93fbcb1a|End to End Backup implementation. (#62)|Wed, 18 Jul 2018 17:24:56 -0400|Wed, 18 Jul 2018 17:24:56 -0400
+34925399e24d62c534c8e95d8763a391bbfdbf31|Adds first-cut of the ConcatenatedYamlConfigurationLoader (#68)|Wed, 11 Jul 2018 07:42:10 -0700|Wed, 11 Jul 2018 10:42:10 -0400
+90e48634c130aa9dcc5e70ed7e51f1cdd344e7f3|Patch for allowing JMX Auth specification (#65)|Thu, 5 Jul 2018 16:50:19 +0100|Thu, 5 Jul 2018 11:50:19 -0400
+25ddc3c293a482aa5909a9c2c05c6df14e9e6c3c|Fix helm kind issue (#59)|Mon, 25 Jun 2018 13:22:45 -0400|Mon, 25 Jun 2018 13:22:45 -0400
+27b6e1096978ef16f01aa1afefedb0120e9526d5|Initial documentation testing and cleanup (#63)|Mon, 25 Jun 2018 12:22:24 -0500|Mon, 25 Jun 2018 13:22:24 -0400
+bab1407b03b3f1e2f3c985a1c0f92a8a5af1bcfc|Add logback + slf4j dependencies to java/backup module (#61)|Fri, 22 Jun 2018 06:38:19 +0700|Thu, 21 Jun 2018 19:38:19 -0400
+b111be82ee1bcf928106a803dccdd727ad409b87|Fixes for issue #44 #55 (#58)|Fri, 15 Jun 2018 13:37:27 -0400|Fri, 15 Jun 2018 13:37:27 -0400
+5c71ec91b6d16a28b17a9c8ee3eded70fe517425|Merge pull request #50 from zegelin/minor-tweaks|Thu, 7 Jun 2018 17:36:16 -0700|Thu, 7 Jun 2018 17:36:16 -0700
+b348c6bb03e13eea7bf59835f1db2c0f90410da4|Updates test DC definition with correct docker image name.|Thu, 7 Jun 2018 17:34:00 -0700|Thu, 7 Jun 2018 17:34:00 -0700
+e97d4346dc7a9286feef2204a80d8322b2533c6c|Merge pull request #53 from liwang-pivotal/pvc-deletion|Thu, 7 Jun 2018 13:39:54 -0400|Thu, 7 Jun 2018 13:39:54 -0400
+ef690348422efd3552c52caef5c04a078a0faa0f|remove pvc & pv when scaling down or DC get deleted|Thu, 7 Jun 2018 11:35:14 -0400|Thu, 7 Jun 2018 11:35:14 -0400
+18b615eada9a4c2d8e8fe25eccd88e9d5438553c|Temporary fix for Unprocessable Entity issue|Mon, 4 Jun 2018 15:40:32 -0400|Mon, 4 Jun 2018 15:40:32 -0400
+10a34fed2b5c142176a0ae914013a007578fbb49|Minor refactoring and bug fixes pending Sidecar module.|Sun, 3 Jun 2018 20:44:04 -0700|Mon, 4 Jun 2018 11:15:28 -0700
+f41cd4757045c0fbe0dac3c70702218e9421d85b|Move all Java modules under /java  (#49)|Mon, 4 Jun 2018 11:14:05 -0700|Mon, 4 Jun 2018 14:14:05 -0400
+385822c420c9e91850086509c5ff1ee7114e6992|Potentially fix OkHttp leak warning. (#47)|Fri, 1 Jun 2018 14:38:49 -0700|Fri, 1 Jun 2018 17:38:49 -0400
+81101970186f3004ac01b9a86330f7f52c5565ad| Add WatchService implementation capable of watching arbitary resources (#45)|Thu, 31 May 2018 15:40:50 -0700|Thu, 31 May 2018 18:40:50 -0400
+33ad8b0555bf6dd1b4fba38ae66813c88588a67d|tag builds with latest and push (#42)|Wed, 30 May 2018 13:48:32 -0400|Wed, 30 May 2018 13:48:32 -0400
+3039507c561347c6025450f796af5535dd4bd080|Merge pull request #43 from liwang-pivotal/master|Wed, 30 May 2018 08:52:04 -0400|Wed, 30 May 2018 08:52:04 -0400
+7353bb42e5a809abbd0f1cd6fec7201a8ff18eb1|exposed disk capacity as another param|Tue, 29 May 2018 15:02:54 -0400|Tue, 29 May 2018 15:02:54 -0400
+77db1f0cef7e2c128ee4ff61d7c45a7de3274de8|exposed more params for dc creation & enabled params validation.|Tue, 29 May 2018 14:37:17 -0400|Tue, 29 May 2018 14:37:17 -0400
+7fcefbff0ad6919c817dc9074a5efbc84c4d73a1|Update StorageService to use takeSnapshot instead of deprecated takeCFSnapshot (#39)|Thu, 24 May 2018 17:08:55 +0100|Thu, 24 May 2018 12:08:55 -0400
+93b47789cc067dd55ab910410f825b6b3f573842|JMX connections and decommissioning support (#38)|Wed, 23 May 2018 07:42:55 -0700|Wed, 23 May 2018 10:42:55 -0400
+f82b4e61c39ecaea367ad62d5f41ca0e9554d7df|Update op_guide.md|Wed, 23 May 2018 09:30:47 -0400|Wed, 23 May 2018 09:30:47 -0400
+2e303d2e0337582129ff13383e8a9abd803a4523|Documentation (#36)|Wed, 23 May 2018 09:29:13 -0400|Wed, 23 May 2018 09:29:13 -0400
+67c9225ac4fac712005d65acd2037066ce82d299|Merge pull request #35 from benbromhead/americanize|Thu, 17 May 2018 15:31:01 -0400|Thu, 17 May 2018 15:31:01 -0400
+2997262c5ecda0951d52a9aafb3f54ec921bbbd0|Unified spelling of center to center, a head bow to American technological and cultural imperialism :)|Thu, 17 May 2018 14:44:35 -0400|Thu, 17 May 2018 14:44:35 -0400
+e3a5ea823367bdb351ebe3019c501241834c9dd9|added image param for DC test yaml file (#33)|Thu, 17 May 2018 10:12:37 -0400|Thu, 17 May 2018 10:12:37 -0400
+63a67150b72a7832b14f104731cc131f666e0f8c|Support custom images via the CRD (#32)|Tue, 15 May 2018 21:16:29 -0400|Tue, 15 May 2018 21:16:29 -0400
+a4ef94e654d715583f8c4e17eaceca8668d7b842|Merge pull request #25 from liwang-pivotal/master|Tue, 15 May 2018 19:42:22 -0400|Tue, 15 May 2018 19:42:22 -0400
+f057c062ddd8fa676b3edb0dc86fdd45bfb4ccbc|Don't need to run `build` on master as that is done via release-dev (#30)|Tue, 15 May 2018 17:43:32 -0400|Tue, 15 May 2018 19:39:14 -0400
+41b64522c4912921c175ff0f455ab4a3d1cb06ca|Add shading target for backup module (#31)|Tue, 15 May 2018 22:41:46 +0100|Tue, 15 May 2018 19:39:14 -0400
+402c325757f638bb96c0b26724e0257ad828722f|Backup (#29)|Mon, 14 May 2018 22:16:44 -0400|Tue, 15 May 2018 19:39:14 -0400
+0f99c35b66fc02d843c4c11a87c93a2286b989c4|Update README.md|Mon, 7 May 2018 10:59:14 -0400|Tue, 15 May 2018 19:39:14 -0400
+cafb07c025f953a53d8a65b991969217388b20d3|renamed CassandraRepairService to CassandraPeriodicReconciliationService|Tue, 15 May 2018 17:59:06 -0400|Tue, 15 May 2018 17:59:06 -0400
+8dc3fbf975dfa6883774e9bf95b6d030014b8193|Don't need to run `build` on master as that is done via release-dev (#30)|Tue, 15 May 2018 17:43:32 -0400|Tue, 15 May 2018 17:43:32 -0400
+7bafd58b39d7e01550e2f6f4ab41d56366edc7a3|Add shading target for backup module (#31)|Tue, 15 May 2018 22:41:46 +0100|Tue, 15 May 2018 17:41:46 -0400
+0cf96c3809c609d6f26f08b4e49ebb361e49ddc0|Backup (#29)|Mon, 14 May 2018 22:16:44 -0400|Mon, 14 May 2018 22:16:44 -0400
+596eebac3f45bb9bf9cb830cc5204d6e42a33013|correct indentation|Mon, 14 May 2018 20:13:20 -0400|Mon, 14 May 2018 20:13:20 -0400
+a2d8fe7ec12420c7aaee4d434833e7bdbd370320|corrent indentation policy from tab to space only|Mon, 14 May 2018 20:08:14 -0400|Mon, 14 May 2018 20:08:14 -0400
+cef48e09c407de4cd57b89a3cd61cfd5c2af9dab|correct indentation|Mon, 14 May 2018 19:52:35 -0400|Mon, 14 May 2018 19:52:35 -0400
+c1efad020fb366785317088b6ef212a0f586b02e|fixed logging format on replica number|Mon, 14 May 2018 18:17:35 -0400|Mon, 14 May 2018 18:17:35 -0400
+3bcbd1b30a681567c51a74c67e8b2bbebadde7ed|put repair into a seperate service and fixed logging & POISON return|Mon, 14 May 2018 18:02:17 -0400|Mon, 14 May 2018 18:02:17 -0400
+5e64f8ff41ae8811e939b3c68f6770e619da0651|add a loop to ensure statefulset is scaled down to 0 before deleting|Mon, 14 May 2018 15:27:03 -0400|Mon, 14 May 2018 15:27:03 -0400
+66767b5d246f7bfce3e6ca94b740560917b219d8|enable operator to repair missing DC resources|Mon, 14 May 2018 14:14:38 -0400|Mon, 14 May 2018 14:14:38 -0400
+cf51bb7905b8fef3a0dde632be8f1051bde8816d|refactor code using reconcilation to enable DC scale up and deletion|Mon, 14 May 2018 11:49:38 -0400|Mon, 14 May 2018 11:49:38 -0400
+b4f8b596013e5cbeaf222957b5aaa9b52a91efd7|change podManagementPolicy back to serial as discussed in issue #28|Wed, 9 May 2018 08:17:05 -0400|Wed, 9 May 2018 08:17:05 -0400
+41307b988e22cb3ffc96172cab09b591fdc35878|modified podManagementPolicy to parallel & corrent logger typo|Tue, 8 May 2018 11:56:21 -0400|Tue, 8 May 2018 11:56:21 -0400
+648e7d1471bdfa26162001c218f6bf7bb5fbe3e3|enable DC to scale up|Tue, 8 May 2018 08:45:50 -0400|Tue, 8 May 2018 08:45:50 -0400
+7eda73259d41a4c617d0b6d24305f659409a459a|Update README.md|Mon, 7 May 2018 10:59:14 -0400|Mon, 7 May 2018 10:59:14 -0400
+4f29855705eb75ea27ea114f0197c0b49c8cdf3a|refactor DC deletion code|Fri, 4 May 2018 11:47:50 -0400|Fri, 4 May 2018 11:47:50 -0400
+4041f73677cdaa22283a480d7f7f13c29fb7e49b|Set up CircleCI (#19)|Thu, 3 May 2018 15:51:19 -0400|Thu, 3 May 2018 15:51:19 -0400
+552f85b4e7e176e8e03d53c699ad916c6ae0ad7d|Merge branch 'master' of https://github.com/instaclustr/cassandra-operator|Thu, 3 May 2018 15:40:05 -0400|Thu, 3 May 2018 15:40:05 -0400
+431eacab8df3ae0902fd26a8e74985337839621f|enabled operator to delete DC resources in a reversed order|Thu, 3 May 2018 15:32:52 -0400|Thu, 3 May 2018 15:39:15 -0400
+4cf8bee88f97ec7cf15b4a57901da6512933c033|enabled operator to delete crd and corresponding resources in a reversed order|Thu, 3 May 2018 15:32:52 -0400|Thu, 3 May 2018 15:32:52 -0400
+c6eb939de6eeb1003dc4562e4e1a53461f41424f|Adds missing WatchConfig, updates addons jar, adds memory limits to Cassandra containers.|Mon, 30 Apr 2018 09:42:07 -0700|Mon, 30 Apr 2018 09:42:07 -0700
+b20712dab08a5676489d728d31c37d4ea7382b61|Removes build-helpers module, as it's unused.|Thu, 26 Apr 2018 16:18:09 -0700|Thu, 26 Apr 2018 16:18:09 -0700
+b8898a71027062e13c188348669391b5f5241c5f|Adds k8s-addons -- a custom seed provider, snitch and config loader for Cassandra|Thu, 26 Apr 2018 16:12:42 -0700|Thu, 26 Apr 2018 16:12:42 -0700
+ace024626c9339650a5a76861f36af48423a35be|Merge branch 'master' of github.com:instaclustr/cassandra-operator|Thu, 26 Apr 2018 13:58:59 -0700|Thu, 26 Apr 2018 13:58:59 -0700
+fd6c026e0fd61bd321d477e2404823c9ce2bcd22|Improves ControllerService to provision services, configmaps and statefulsets. Adds a healthcheck service. Improves foundation code/cli interface/etc.|Thu, 26 Apr 2018 13:58:23 -0700|Thu, 26 Apr 2018 13:58:23 -0700
+302d065e4d0865489a367196e144990c6ae9dced|Added Inception meeting notes|Tue, 24 Apr 2018 14:54:26 -0500|Tue, 24 Apr 2018 14:54:26 -0500
+5ccbfdffb83c057540e5a3063c08d51fffc00f59|Create README.md|Tue, 24 Apr 2018 14:15:33 -0500|Tue, 24 Apr 2018 14:15:33 -0500
+65b196ee95024ac0292beda5f3d41393fdd959f6|Updates gitignore.|Mon, 23 Apr 2018 14:26:15 -0700|Mon, 23 Apr 2018 14:26:15 -0700
+63392b0fc9ee1679cdfec974713c2f96ccc579a8|correct version check value|Mon, 23 Apr 2018 15:01:58 -0400|Mon, 23 Apr 2018 15:01:58 -0400
+cc42ef70f7fdb6cf3fa9aaf807583c775683e983|Starting to look like an operator.|Tue, 17 Apr 2018 20:33:48 -0700|Tue, 17 Apr 2018 20:33:48 -0700
+9226afa362eb8d8f0bb2c3b8fc12233fff66883e|Merge branch 'master' of github.com:instaclustr/cassandra-operator|Mon, 9 Apr 2018 10:22:20 -0700|Mon, 9 Apr 2018 10:22:20 -0700
+04d9bad65490e758a214e35e1f7f1e72522b05a9|Switches POM versions to 1.0-SNAPSHOT. Adds support for running Preflight operations.|Mon, 9 Apr 2018 10:14:32 -0700|Mon, 9 Apr 2018 10:14:32 -0700
+083e659f6e6c630333819a0491d477f7500c6724|Merge pull request #1 from benbromhead/master|Mon, 9 Apr 2018 11:16:56 -0400|Mon, 9 Apr 2018 11:16:56 -0400
+5e915efe18734b94f8b0aad9db9ef731f3b36403|Clean up git ignore file Shade operator jar for simplified deployment K8s model now uses Config helper methods for simplified Kubernetes cluster configuration and easy in-cluster detection|Mon, 9 Apr 2018 10:58:59 -0400|Mon, 9 Apr 2018 10:58:59 -0400
+b3147053659c34b449807e10ce3282fa4fa34ab6|Merge remote-tracking branch 'github/master'|Fri, 6 Apr 2018 14:36:21 -0700|Fri, 6 Apr 2018 14:36:21 -0700
+8c67999afa6b78b14291862694268c93ff4ce5c0|Initial code load.|Fri, 6 Apr 2018 14:34:19 -0700|Fri, 6 Apr 2018 14:34:19 -0700
+bb59c767fcff45a7a15efe7f65584faf9c050e11|Initial commit|Wed, 4 Apr 2018 15:32:04 -0400|Wed, 4 Apr 2018 15:32:04 -0400

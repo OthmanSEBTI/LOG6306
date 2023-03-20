@@ -1,0 +1,741 @@
+e80ff0a113046879ea4d1cd7ccb5c5c3da541502|CHORE(CI): use Github actions|Sun, 24 May 2020 20:31:20 +0200|Sun, 24 May 2020 20:59:47 +0200
+90a21ef7725ddbfcde56cead5a46195ebef58ed1|FIX: update JDK for Travis builds|Sun, 24 May 2020 20:21:28 +0200|Sun, 24 May 2020 20:25:20 +0200
+3d41051930cb0398676ba1caa4609c6bbd60bc20|DOC: add versioning, changelog and git commit message styleguides|Sun, 24 May 2020 19:55:58 +0200|Sun, 24 May 2020 20:05:26 +0200
+ffedc5a8a6a9ee41fd504959dbb08125d991ff35|DOC: update CODE_OF_CONDUCT version (2.0 instead of 1.4)|Sun, 24 May 2020 19:42:16 +0200|Sun, 24 May 2020 19:42:16 +0200
+75d1a509db54cd1a8fd06a7160bb08f833e0b701|DOC!: update prerequisites and install documentation|Sun, 24 May 2020 17:16:06 +0200|Sun, 24 May 2020 18:46:41 +0200
+af8da5ef3abcdf58083092afcca8e8fcd7e7a7f8|CHORE(docker)!: delete unnecessary DockerFiles|Sun, 24 May 2020 15:44:17 +0200|Sun, 24 May 2020 18:44:40 +0200
+b2fb01b8b5c51ba8eb2999672ec5c6639b46cdba|CHORE!: change minimal prerequisite version of Jdk on the server|Sun, 24 May 2020 05:05:37 +0200|Sun, 24 May 2020 18:40:38 +0200
+6ac648e01bf8b7b580d4d09ef8c39e0df6486639|CHORE!: remove jdeb_tomcat7 job|Sun, 24 May 2020 16:24:46 +0200|Sun, 24 May 2020 18:37:57 +0200
+2fac1f8750009a6862958b88669b6c6c721261b0|CHORE!: upgrade commons-lang3 dependency (3.10 instead of 3.8.1)|Sun, 24 May 2020 04:14:47 +0200|Sun, 24 May 2020 18:32:08 +0200
+be4e007c4a1f9ef9d4de8af40a0b87e47f81457c|CHORE!: upgrade validation-api dependency (2.0.1 instead of 1.1.0)|Sun, 24 May 2020 04:01:39 +0200|Sun, 24 May 2020 18:13:56 +0200
+0ea964dae0b2ad47ff919d96a6e9eba8b9ea2f95|CHORE!: upgrade springFramework and spring-security dependencies|Sun, 24 May 2020 03:56:17 +0200|Sun, 24 May 2020 18:11:32 +0200
+2d7b8f0be34e5d5b12eb2e276df41340b3278043|CHORE!: change the minimal version of Jdk and tomcat|Sun, 24 May 2020 03:35:52 +0200|Sun, 24 May 2020 18:06:44 +0200
+156e0864ed75f546c4fa7d8c94b46b0a94351a28|set version to 1.0.0-SNAPSHOT|Sun, 24 May 2020 03:15:47 +0200|Sun, 24 May 2020 03:15:47 +0200
+2cebee36f48901073e8ae5c60bda3849649537fc|set version to 0.10.1|Sat, 23 May 2020 22:45:17 +0200|Sat, 23 May 2020 22:45:17 +0200
+309e986e2af50f60035b4d9767a61ed3fb347eda|FIX: upgrade spring-security (4.2.16 instead of 4.2.14)|Sat, 23 May 2020 20:55:05 +0200|Sat, 23 May 2020 20:55:05 +0200
+a064acf8de680bf080a2788052d984f7b443e394|FIX: upgrade springframework (4.3.27 instead of 4.3.26)|Sat, 23 May 2020 20:43:03 +0200|Sat, 23 May 2020 20:54:54 +0200
+bfd1d4a0390137f8e9930e0393a15b76adb210c6|CHORE: upgrade owasp dependency-check plugin (5.3.2 instead of 5.3.1)|Sat, 23 May 2020 19:23:09 +0200|Sat, 23 May 2020 19:23:09 +0200
+b0939e98f2f57fd96e998bc50b592e046642e873|CHORE: upgrade markdown-page-generator-plugin (2.3.0 instead of 2.2.0)|Sat, 23 May 2020 19:02:01 +0200|Sat, 23 May 2020 19:02:01 +0200
+eadfa7e9e7972ef2d3b49b2144b8f6dda6d7ce65|Update documentation|Thu, 16 Apr 2020 15:48:12 +0200|Thu, 16 Apr 2020 15:48:12 +0200
+6fda0afd5f89c05692b889c6b94447565c44bb30|Fix #245 - Add missing Korean translaiton strings|Wed, 15 Apr 2020 15:46:19 +0900|Thu, 16 Apr 2020 15:32:00 +0200
+d27f486303e39af2dfd4e40f416afc6e6795f88b|Update contrast-finder_utf8_es.properties|Wed, 15 Apr 2020 11:02:31 +0200|Wed, 15 Apr 2020 19:40:23 +0200
+2dbf29b70029d04c4d40e55b6ee0abd0ccda948e|Update contrast-finder_utf8_ko.properties|Wed, 15 Apr 2020 06:30:52 +0200|Wed, 15 Apr 2020 06:30:52 +0200
+b0b7c0d02c12097bcb18025bbc04e582bb9a577b|FIX(form): add lang parameter|Fri, 27 Mar 2020 01:38:47 +0100|Fri, 27 Mar 2020 01:38:47 +0100
+c177ebaf6b4a660f5808f18f2ab3157fe9d00b2b|FIX: update changelog|Fri, 27 Mar 2020 00:05:03 +0100|Fri, 27 Mar 2020 00:05:03 +0100
+12351579d59adf877c0025f3b78f89315624d9c1|set version to 0.10.1-SNAPSHOT|Fri, 27 Mar 2020 00:04:30 +0100|Fri, 27 Mar 2020 00:04:30 +0100
+036ba86f945a9f31fbbb84b13e615d29922bd293|Update contrast-finder_utf8_oc.properties|Wed, 25 Mar 2020 12:31:10 +0100|Thu, 26 Mar 2020 22:39:15 +0100
+13f9c3ba296993d5c10042ba5794b887a3a87409|set version to 0.9.6|Wed, 25 Mar 2020 03:46:49 +0100|Wed, 25 Mar 2020 03:57:32 +0100
+5c989d7fd2de2dd2366d4b88f3cbb5b0d498d7c2|FEAT: added link to the about page|Wed, 25 Mar 2020 03:31:02 +0100|Wed, 25 Mar 2020 03:57:27 +0100
+8ceba07458364c07609dae709bbab1cd6b10e08c|FIX: update maven-site-plugin (3.7.1 --> 3.8.2)|Sat, 14 Mar 2020 03:02:35 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+db2e879ca5d9620f24a86ef541e10ebc11f47187|FIX: update maven-compiler-plugin (3.8.0 --> 3.8.1)|Sat, 14 Mar 2020 02:54:52 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+4f51446ff721d2742770d44ec3d24352bba87912|FIX: update maven-jar-plugin (3.1.1 --> 3.2.0)|Sat, 14 Mar 2020 02:46:03 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+8d272bd9f26eb726cda71642762bfc70d087f3f1|FIX: update maven-javadoc-plugin (3.1.0  ---> 3.1.1)|Sat, 14 Mar 2020 02:39:42 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+f4112f43bc5c0a049fc8e0adafa97ed9c0058f9e|FIX: update maven-surefire-plugin (3.0.0-M3 ---> 3.0.0-M4)|Sat, 14 Mar 2020 02:36:43 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+7fe6d56c64f44ce428d10076676dc6dd6b57e053|FIX: update maven-war-plugin (3.2.2 --> 3.2.3)|Sat, 14 Mar 2020 02:33:18 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+025b6f4f8538f6682152d9bf10715b43baf51750|FIX: update build-helper-maven-plugin (3.0.0 ---> 3.1.0)|Sat, 14 Mar 2020 02:30:02 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+3e79e019dff10c5258adbe96db6586354f2fff10|FIX: update jacoco-maven-plugin (0.8.3  -->  0.8.5)|Sat, 14 Mar 2020 02:26:25 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+8e9148c5dd690d9bf854bc19c6c3d9ce6584da95|FIX: update dependency-check-maven (5.0.0-M2 ---> 5.3.1)|Sat, 14 Mar 2020 02:18:55 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+23957ddba852ebc56a882c76ef4f1eb3f0f572c2|FIX: update maven-checkstyle-plugin  (3.0.0 --> 3.1.1)|Sat, 14 Mar 2020 02:13:16 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+d51c762dcaaa26e7d0634e822c813a3b6e73d40e|FIX: update maven-dependency-plugin (3.1.1 --> 3.1.2)|Sat, 14 Mar 2020 01:56:20 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+7e07a34a9169a91c4fb9b75ec06746c7ebef68e0|FIX: update jdeb (1.7 --> 1.8)|Sat, 14 Mar 2020 01:44:37 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+d0b5c59b072e87d401afcfb4bcdbe5c2491b9483|FIX: update spring-security (4.2.12 --> 4.2.14)|Sat, 14 Mar 2020 01:36:53 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+04311a017c703288e06514e12ddd256616f395db|FIX: update spring (4.3.23 --> 4.3.26)|Sat, 14 Mar 2020 01:35:05 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+4c0c10f7b16a16c6f4c6377c0282794b2787f098|typo humans.txt|Sat, 14 Mar 2020 01:24:36 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+6bcb06c21fe8d980b0d05578b76a2aa179ec7521|FIX: update markdown-page-generator-plugin  (2.1.0 ---> 2.2.0)|Sat, 14 Mar 2020 01:21:45 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+c64767f4c1efd3c2de451380629873ba9ca8cb89|FIX: update junit (4.12 --> 4.13)|Sat, 14 Mar 2020 01:04:18 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+3a630554c4ad6edb929089a7358484dd265d75e6|FIX: update commons-collections4 (4.3 --> 4.4)|Sat, 14 Mar 2020 01:02:22 +0100|Wed, 25 Mar 2020 03:13:59 +0100
+bd6a5a26cbe80e824dba2737afbd1d141d67d4fb|Update humans.txt|Mon, 27 Jan 2020 21:29:41 +0100|Mon, 27 Jan 2020 23:20:53 +0100
+db237ff153f7242ba97b2eceb4a3507f7072f521|Small change|Mon, 27 Jan 2020 21:28:00 +0100|Mon, 27 Jan 2020 23:20:53 +0100
+9cc6ec51fac0ef9c457ac1ffaa4e9e8ae2c934f3|Small typo|Mon, 27 Jan 2020 21:26:23 +0100|Mon, 27 Jan 2020 23:20:53 +0100
+51e9f37d2231103cc1bc9aea33b1c9f7006a2a8d|Small typo|Mon, 27 Jan 2020 21:25:40 +0100|Mon, 27 Jan 2020 23:20:53 +0100
+463c6f5e1abb6bb9d0a8b8433ef482a782f8704e|FEAT(i18n): enable the Occitan translation|Mon, 27 Jan 2020 08:24:22 +0100|Mon, 27 Jan 2020 08:24:22 +0100
+39c24ccbc9c27401c5981aca91ba5a52212d8154|Creation of Occitan locale|Sun, 26 Jan 2020 18:13:37 +0100|Mon, 27 Jan 2020 07:47:23 +0100
+f624dc8b98fdded01dafd0881ab1a8ed31c5e6f9|FIX(i18n Polish): remove spaces that interfere with HTML rendering|Fri, 24 Jan 2020 04:59:37 +0100|Fri, 24 Jan 2020 05:06:14 +0100
+c2a9f381746de66dd5e870fa8ebf1c810643f15f|FEAT(i18n): update changelog for Polish translasion|Fri, 24 Jan 2020 05:00:14 +0100|Fri, 24 Jan 2020 05:06:14 +0100
+d46337300bd2d23999cbd6d540569420cd1eaa86|Changed info.feedback|Mon, 19 Aug 2019 22:09:21 +0200|Fri, 24 Jan 2020 05:06:14 +0100
+9975e88f1f69764825be7570a76d7a0dfdeb64cc|Full translate to polish|Mon, 19 Aug 2019 19:51:17 +0200|Fri, 24 Jan 2020 05:06:14 +0100
+4577c9ba52ac0bbd905d3a71f35c2f8c22f7b63a|i18n - Initialized files for Polish (PL) translation|Mon, 19 Aug 2019 02:27:30 +0200|Fri, 24 Jan 2020 05:06:14 +0100
+c85986b7c70ada448499cb6812fab43d3d5cc4d1|typo|Wed, 21 Aug 2019 17:33:31 +0200|Wed, 21 Aug 2019 17:33:31 +0200
+3d1c58499f95d5622401e1af1f8edc328c57f298|improved i18n documentation|Wed, 21 Aug 2019 17:27:49 +0200|Wed, 21 Aug 2019 17:27:49 +0200
+76911724bf5a6812e28b4944a9c3fa1ab3c6a853|set version to 0.9.6-SNAPSHOT|Sun, 5 May 2019 14:31:41 +0200|Sun, 5 May 2019 14:31:41 +0200
+c2d568f7bb58ecd31b5e758bc58b0db7f5781f68|set version to 0.9.5|Wed, 1 May 2019 17:29:51 +0200|Wed, 1 May 2019 17:29:51 +0200
+d912e68ec24cac6b64202b6c122c7a2f2d8d9dda|updated QA tools (history)|Wed, 1 May 2019 17:21:07 +0200|Wed, 1 May 2019 17:21:07 +0200
+0ecac83ae565a1ebb683ddf3e3f70ed975ad8598|added i18n issue template|Wed, 1 May 2019 16:18:44 +0200|Wed, 1 May 2019 16:18:44 +0200
+9c6251090ce0377ce88d50751bf5f6abad0b8744|updated i18n files (about.*)|Wed, 1 May 2019 16:09:53 +0200|Wed, 1 May 2019 16:09:53 +0200
+57096e878902b5973fcb89ef58586e6abc504372|Fixed #215 - Added informations in browser's debugging console|Wed, 1 May 2019 15:02:17 +0200|Wed, 1 May 2019 15:02:17 +0200
+cdca6112b07c16d470505e6c1f39fec18e9635c0|typo|Mon, 22 Apr 2019 16:50:31 +0200|Mon, 22 Apr 2019 16:50:31 +0200
+7f0056a8ce3e54b4880091b1b295b713e06bc475|Outdated dependency: #208 #209 #210 #211 #212 #214|Mon, 22 Apr 2019 16:18:19 +0200|Mon, 22 Apr 2019 16:18:19 +0200
+4ac16ba0560ce1171e184ab0d84f611fe720e2e6|Outdated dependency: #205 #206 #207|Mon, 22 Apr 2019 15:08:18 +0200|Mon, 22 Apr 2019 15:08:18 +0200
+8761b04b961b4e07632fa94cda4c11e9de1e7256|Doc / Other tools: added cloudflare.design/color/|Mon, 11 Feb 2019 02:29:31 +0100|Mon, 11 Feb 2019 02:29:31 +0100
+342baae86bede361a50674fa6c73a74ddcbb3e5c|fixed #203 / fixed #204 (outdated dependencies)|Sun, 27 Jan 2019 19:22:42 +0100|Sun, 27 Jan 2019 19:22:42 +0100
+87dde388755a191baa86524a7aebe2ffa32e40f4|updated xml files: adding license header + some missing xml declaration|Sun, 27 Jan 2019 19:20:24 +0100|Sun, 27 Jan 2019 19:20:24 +0100
+bfc1ef12b4364156d4e8a9065fd41970c7f44dd3|updated pom.xml files: adding license header + some missing xml declaration|Sun, 27 Jan 2019 19:09:12 +0100|Sun, 27 Jan 2019 19:09:12 +0100
+bf7c3a834f13360faee3310d3399d305e76d851b|updated the copyright date (.java and pom.xml files)|Sun, 27 Jan 2019 18:43:51 +0100|Sun, 27 Jan 2019 18:43:51 +0100
+a002d76f271cb265ab15acd7d9798ea23f65485e|set version to 0.9.5-SNAPSHOT|Mon, 31 Dec 2018 00:07:02 +0100|Mon, 31 Dec 2018 00:07:02 +0100
+4c8e4cf5d5c8af03db580e6bebd679176985cdd9|set version to 0.9.4|Sun, 30 Dec 2018 23:29:51 +0100|Sun, 30 Dec 2018 23:29:51 +0100
+be8eb05dfd9200449d0afa0f36dcc466351a5540|typo|Sun, 30 Dec 2018 19:04:55 +0100|Sun, 30 Dec 2018 19:04:55 +0100
+029dcb7f0e88851e2659532d73c9ba51ff0ce5c5|Fixed #202 - Splits up the current issue_template into 5 issue templates|Sun, 30 Dec 2018 18:56:32 +0100|Sun, 30 Dec 2018 18:56:32 +0100
+1e580588946ee58ab7ffbdf4ab5b1d5ba4f1833d|fixed #201, fixed #200 (Outdated dependencies)|Sun, 30 Dec 2018 12:16:48 +0100|Sun, 30 Dec 2018 12:16:48 +0100
+564830ea4771c441caf3b6e2225df94e63e1790e|Fixed #193, #194, #195, #196, #197, #198 and #199 (Outdated dependencies)|Thu, 15 Nov 2018 23:20:36 +0100|Thu, 15 Nov 2018 23:20:36 +0100
+f401a25bcc2a25cd7380f2869b83eda62dadd845|Revert "Fixde #189  Failed to execute goal maven-surefire"|Thu, 15 Nov 2018 21:44:17 +0100|Thu, 15 Nov 2018 21:44:17 +0100
+c2f43b5a611d5059c9e896282194dd75d6bb30a6|set version to 0.9.4-SNAPSHOT|Tue, 6 Nov 2018 01:41:57 +0100|Tue, 6 Nov 2018 01:41:57 +0100
+586b3738a18e25edf52e7e5e5db184c06e45132e|set version to 0.9.3|Tue, 6 Nov 2018 01:24:44 +0100|Tue, 6 Nov 2018 01:24:44 +0100
+5c4b78dcb2a6dede5daff38b00bc62e488daf251|updated changelog|Tue, 6 Nov 2018 01:17:20 +0100|Tue, 6 Nov 2018 01:17:20 +0100
+321cf1b5c48547fefa07f8eb30f2a04154c0c0c6|updated i18n files|Tue, 6 Nov 2018 01:08:39 +0100|Tue, 6 Nov 2018 01:08:39 +0100
+c17c963ab9b3bc32da3768782f99aee653081e26|typo|Mon, 5 Nov 2018 23:43:15 +0100|Mon, 5 Nov 2018 23:43:15 +0100
+2ab8bc95ec6b1c80a28642765a95e2c082acdddb|Upgrading outdated dependencies: fixed #190, fixed #191 and fixed #192|Mon, 5 Nov 2018 23:40:56 +0100|Mon, 5 Nov 2018 23:40:56 +0100
+7b353a6ee9285c473d66d1e4463c8b395df0cba0|Updated contributor doc|Mon, 5 Nov 2018 23:14:03 +0100|Mon, 5 Nov 2018 23:14:03 +0100
+0ea0d083c75b57b6007e015e0f768a0c56e05dcb|Fixde #189  Failed to execute goal maven-surefire|Mon, 5 Nov 2018 23:04:32 +0100|Mon, 5 Nov 2018 23:04:32 +0100
+6383e1347f98328c72f0d01303749f082d673100|updated Other-contrast-tools.md|Mon, 5 Nov 2018 21:38:58 +0100|Mon, 5 Nov 2018 21:38:58 +0100
+3e259c77fc66a2f65421bea27ba0a1113eaf4a4b|Doc - Updated resources directory|Sun, 14 Oct 2018 23:14:48 +0200|Sun, 14 Oct 2018 23:14:48 +0200
+fd34537fe876f96ff8c54b8deade4ef774b40265|Doc - Added "ressources" directory|Sun, 14 Oct 2018 22:08:23 +0200|Sun, 14 Oct 2018 22:08:23 +0200
+ae7ce3ddac1ec489ce84d2ac0db00327b8eff0db|fixed #188 - Webapp: refactor languages switcher|Wed, 3 Oct 2018 03:56:35 +0200|Wed, 3 Oct 2018 03:56:35 +0200
+41b4ef013b6a5406dbbc438a95fe811663b7a9cf|Fixed #187 - Added new configuration options: available languages and default language|Mon, 1 Oct 2018 02:35:52 +0200|Mon, 1 Oct 2018 02:35:52 +0200
+6b1ffa6829a25b2f9e797d05ae3408788e4b596c|updated bookmarks file|Sun, 30 Sep 2018 04:28:58 +0200|Sun, 30 Sep 2018 04:28:58 +0200
+1d5b339df85274c06ef182fbfb37557562f6b08c|Fixed #186, fixed #185, fixed #184 and fixed #183|Sat, 29 Sep 2018 18:08:00 +0200|Sat, 29 Sep 2018 18:08:00 +0200
+d510dba4d18c58d3307a18927508a6cfba2a7404|updated .gitignore|Sat, 29 Sep 2018 16:10:59 +0200|Sat, 29 Sep 2018 16:10:59 +0200
+207a77008917f97213d25c528db6f76f68eff7e6|fix ColorFinderHsv.java debug|Sat, 29 Sep 2018 16:09:46 +0200|Sat, 29 Sep 2018 16:09:46 +0200
+c1ff199702ee94a60d1f8f7f39928427641ffe6b|updated Other-contrast-tools.md (add "Link Contrast Checker" by webaim.org)|Fri, 28 Sep 2018 20:32:18 +0200|Fri, 28 Sep 2018 20:32:18 +0200
+f391eae3279c2e7ce2d364af63f4fa4812c2d6a8|Updated humans.txt file + fixed some external links in the documentation (Sonarwhal become Webhint)|Thu, 27 Sep 2018 01:46:51 +0200|Thu, 27 Sep 2018 01:46:51 +0200
+a68b0765e2d5ac8da3b2f46edc3bce979815ae8b|fixed #180, fixed #181, fixed #182|Thu, 27 Sep 2018 00:46:29 +0200|Thu, 27 Sep 2018 00:46:29 +0200
+fd481400568dc689c0541b7c8d966fcfc8a8c02a|set version to 0.9.3-SNAPSHOT|Mon, 3 Sep 2018 01:47:15 +0200|Mon, 3 Sep 2018 01:47:15 +0200
+84b329fb21e2aed3c15c2deec85970c128ea518f|set version to 0.9.2|Mon, 3 Sep 2018 00:28:53 +0200|Mon, 3 Sep 2018 00:28:53 +0200
+8f3cad53d32d37c3b2e6fd66bab29824cc33dd4e|Updating screenshots|Sun, 2 Sep 2018 23:37:17 +0200|Sun, 2 Sep 2018 23:37:17 +0200
+2d731783772247d6a256713f755b95dc0e85a41d|removed unused css file (van11y accessible modal)|Sun, 2 Sep 2018 22:16:25 +0200|Sun, 2 Sep 2018 22:16:25 +0200
+5bb559140adeea6c18ed5e433cb275744e956f14|removed unused js file (van11y accessible modal)|Sun, 26 Aug 2018 09:49:49 +0200|Sun, 26 Aug 2018 09:49:49 +0200
+8f2b56316308cb8912a3542571e5494cf52a7e8b|fixed some  Codacy issues (js, java)|Sun, 26 Aug 2018 09:45:19 +0200|Sun, 26 Aug 2018 09:45:19 +0200
+e75f619d3c3fad6438e01ee614ebeb6e4d3aff97|typo|Sun, 26 Aug 2018 08:55:45 +0200|Sun, 26 Aug 2018 08:55:45 +0200
+3ba358553ef6e351da714504893b2b77bffc138f|fixed #178 / fixed #179|Sun, 26 Aug 2018 08:36:10 +0200|Sun, 26 Aug 2018 08:36:10 +0200
+c206fae7e9f7f96b4838e0bbab01d0fdc9d18509|transform debian package documentation into markdown file|Sun, 26 Aug 2018 07:24:50 +0200|Sun, 26 Aug 2018 07:24:50 +0200
+6de0b1f21875409e19bc792e5ad155471551d02f|typo|Sat, 25 Aug 2018 18:02:41 +0200|Sat, 25 Aug 2018 18:02:41 +0200
+3c9c544c4ef872c8587328e70a2c08ac45e02655|fixed #172|Sat, 25 Aug 2018 17:31:56 +0200|Sat, 25 Aug 2018 17:31:56 +0200
+216724b113a5f6acf4343181fe989bce42f4054e|#172 - All maven plugins have their version specified (except maven-assembly-plugin)|Sat, 25 Aug 2018 17:25:26 +0200|Sat, 25 Aug 2018 17:25:26 +0200
+38f9aeed7e3a938d4710cae1269fb94bf11ef61d|Revert "fixed #172 - All maven plugins have their version specified (except maven-assembly-plugin)"|Fri, 24 Aug 2018 04:55:55 +0200|Fri, 24 Aug 2018 04:55:55 +0200
+703688b0fbcb99f88d0dc511e87c33cf5540f495|Upgraded dependencies|Fri, 24 Aug 2018 04:29:40 +0200|Fri, 24 Aug 2018 04:29:40 +0200
+d498fbae8577c800668b487043fa51bf48a2fe19|fixed #172 - All maven plugins have their version specified (except maven-assembly-plugin)|Fri, 24 Aug 2018 03:22:17 +0200|Fri, 24 Aug 2018 03:22:17 +0200
+f7a6a32541eb8afcff2a6933adb4e8b6eed13eb8|Doc > Contributor > QA tools - Added "Image Analysis Tool"|Fri, 24 Aug 2018 02:15:17 +0200|Fri, 24 Aug 2018 02:15:17 +0200
+650985237d908afb137ca42a868b9ee827cb5407|Upgraded dependencies - Fixed #167 / Fixed #168 / Fixe d #169 / Fixed #170|Sun, 1 Jul 2018 23:13:53 +0200|Sun, 1 Jul 2018 23:13:53 +0200
+88af9b4207a0ae905c94044f1e6a14f80b0af134|#166 - Disabled maven-site-plugin for debian_package|Sun, 1 Jul 2018 22:28:19 +0200|Sun, 1 Jul 2018 22:28:19 +0200
+e6091e5e1dce92c46223a4d17272a793c33b53d0|clean #166|Sun, 1 Jul 2018 20:10:39 +0200|Sun, 1 Jul 2018 20:10:39 +0200
+c7a92fdb97e1c289679e581f0f248d1cfa12ddd3|Fixed #166 - Use an independent subproject for jdeb (debian packages creation)|Sun, 1 Jul 2018 20:07:54 +0200|Sun, 1 Jul 2018 20:07:54 +0200
+f16acb844103a361aa25faac653a0b8e05193dca|Webapp - Added humans.txt file|Sat, 30 Jun 2018 14:35:29 +0200|Sat, 30 Jun 2018 14:35:29 +0200
+8e566757a7a90d1cd99ed6aa9432c297c8a0d8da|Fixed #165 - Added some information to the MANIFEST.MF files : commit, buid timestamp|Fri, 22 Jun 2018 04:41:49 +0200|Fri, 22 Jun 2018 04:41:49 +0200
+fa8dd8de6c5ee6b04052afbc92bc2da288faf6f6|Fixed #162 / Fixed #163 / Fixed #164|Fri, 15 Jun 2018 21:23:12 +0200|Fri, 15 Jun 2018 21:23:12 +0200
+ac0db71e1d4561e4a449a08cf4627e45ca4de9ba|set version to 0.9.2-SNAPSHOT|Sun, 13 May 2018 23:35:50 +0200|Sun, 13 May 2018 23:35:50 +0200
+03591c7ce018893bd0e23ab7c0a3f1e3db0efac6|set version to 0.9.1|Sun, 13 May 2018 23:06:16 +0200|Sun, 13 May 2018 23:06:16 +0200
+61a95dccc1671c03376be6b3cde05b629cf87d96|fixed ColorName class|Sun, 13 May 2018 22:58:35 +0200|Sun, 13 May 2018 22:58:35 +0200
+b43d62f49208e907b688f7e3199e62494d8bbc0c|Fixed #152 / Fixed #160|Sun, 13 May 2018 22:38:17 +0200|Sun, 13 May 2018 22:38:17 +0200
+41041b7b858710ae55fefde889a0009f1f7dc97a|Fixed #159 - Changed default docker image: ubuntu-18.04_tomcat-8.5 instead of ubuntu-16.04_tomcat-7|Sun, 13 May 2018 22:36:15 +0200|Sun, 13 May 2018 22:36:15 +0200
+d559b35c071635929966bd4c73b9e4443bc098c4|typo|Sun, 13 May 2018 20:23:24 +0200|Sun, 13 May 2018 20:23:24 +0200
+5598c3f8cfb4e89a540621d7a62a9e5f716b96fc|Delete old DockerFiles|Thu, 26 Apr 2018 00:53:50 +0200|Thu, 26 Apr 2018 00:53:50 +0200
+d834cf9b8d50ed57c74ec051f3fe98c6e1c55c65|Update Spanish i18n file and title attribute in language menu|Wed, 25 Apr 2018 16:44:24 +0200|Wed, 25 Apr 2018 18:47:18 +0200
+809fcb7ea7f757a5b5e758845254a58d8c173771|set version to 0.9.1-SNAPSHOT|Tue, 24 Apr 2018 23:55:50 +0200|Tue, 24 Apr 2018 23:55:50 +0200
+7d0862de20456c101ccf746ed3c843beb3ac04e5|set version to 0.9.0|Tue, 24 Apr 2018 23:24:39 +0200|Tue, 24 Apr 2018 23:24:39 +0200
+8da8372ea30442f4158afb59f7bd4d1129297ce4|typo|Tue, 24 Apr 2018 23:08:12 +0200|Tue, 24 Apr 2018 23:08:12 +0200
+96c5816f892ef93148d03078f9687cc8d85ad844|Updated i18n files (add "nav.language" and "nav.language-switching")|Tue, 24 Apr 2018 20:45:44 +0200|Tue, 24 Apr 2018 20:45:44 +0200
+fc8e1f5e3d740ec6de8a71b4ac9b89371184c63e|Spanish i18n file: added some "lang=en" attributs|Tue, 24 Apr 2018 19:57:43 +0200|Tue, 24 Apr 2018 19:57:43 +0200
+77176303477230e26911fb274014125954f951b7|Spanish i18n file: fixed pt => px conversion|Tue, 24 Apr 2018 19:36:40 +0200|Tue, 24 Apr 2018 19:36:40 +0200
+ecc3a715a0999be6c350eceac9fd8882d7728ded|Add Spanish i18n file|Tue, 24 Apr 2018 17:18:16 +0200|Tue, 24 Apr 2018 19:03:33 +0200
+f3850a119177edf83a86bc2c47f3d9c8637bbd9d|typo|Mon, 23 Apr 2018 23:34:46 +0200|Mon, 23 Apr 2018 23:41:34 +0200
+2ff14bc5c8b0211f88d6b807ca507928fe71520e|Update i18files|Mon, 23 Apr 2018 23:14:02 +0200|Mon, 23 Apr 2018 23:41:34 +0200
+ad7c882746508c870f03346bd071cca081c0d5a1|#136 - Webapp: fixed pt => px conversion ("Help" > "Text size understanding")|Mon, 23 Apr 2018 22:16:41 +0200|Mon, 23 Apr 2018 23:41:34 +0200
+209e91bcb39660d671168d6ea6e8ae072c429e80|webapp i18n - Languages switch: added spanish language|Mon, 23 Apr 2018 21:06:32 +0200|Mon, 23 Apr 2018 23:41:34 +0200
+8941699c3fbb85644f674af42a0aace38a35688b|Webapp - Hidding current contrast on default page|Sat, 21 Apr 2018 22:36:48 +0200|Mon, 23 Apr 2018 23:41:34 +0200
+b85a3f6d096ef1e4f85d7e30ac39e89e8f3e9c46|DOC - Howto-use.md / Update for the pt => px conversion section|Sun, 25 Feb 2018 20:49:29 +0100|Mon, 23 Apr 2018 23:39:51 +0200
+3c25217499d30d71dfb76e60c36988fd2e588b90|Added missing files|Sat, 21 Apr 2018 17:02:39 +0200|Sat, 21 Apr 2018 17:02:39 +0200
+3beb48850bdfdde2d93495d3ff70838de34a0d7d|typo|Sat, 21 Apr 2018 16:49:19 +0200|Sat, 21 Apr 2018 16:49:19 +0200
+4fd2c332438fdd9eee4f40bee6b3c5d491e91fff|Fixed #148 - Contrast calculation is visible without scrolling|Sat, 21 Apr 2018 16:22:42 +0200|Sat, 21 Apr 2018 16:22:42 +0200
+9a8d7376d0c7ef201502003004c21b02500fc5f0|Added getConstrastRatio2DigitRound() method to engine/utils/(...)/ContrastChecker.java|Sat, 21 Apr 2018 12:23:10 +0200|Sat, 21 Apr 2018 12:23:10 +0200
+9511f340bcded6409b88d54dfda899b9a32fa37d|updated i18n files for #148|Sat, 21 Apr 2018 11:56:19 +0200|Sat, 21 Apr 2018 11:56:19 +0200
+9e8cbca9d9b1976752b0df33cf58615078f9a3e3|Updated i18n files|Wed, 18 Apr 2018 23:58:55 +0200|Wed, 18 Apr 2018 23:58:55 +0200
+22d89f9fbf285aa915099bee909a39a5312393ed|set version to 0.8.7-SNAPSHOT|Sat, 14 Apr 2018 16:34:13 +0200|Sat, 14 Apr 2018 16:34:13 +0200
+5d76e7be5157d5a96f0150faf129140f3fc5462d|set version to 0.8.6|Sat, 14 Apr 2018 16:13:44 +0200|Sat, 14 Apr 2018 16:13:44 +0200
+81e4b43324688473a8c6edadc4dc47ed928f9a04|typo|Sat, 14 Apr 2018 15:53:34 +0200|Sat, 14 Apr 2018 15:53:34 +0200
+fe2c9715abb70b63405fbc65f5ba74b812b3c025|Fixed #149 / Fixed #151 / Fixed #153 / Fixed #154 / Fixed #155 / Fixed #156|Tue, 10 Apr 2018 21:43:51 +0200|Tue, 10 Apr 2018 21:43:51 +0200
+731bea0cb846fdca1d7748531979705d6e0c836d|typo|Wed, 4 Apr 2018 22:39:57 +0200|Wed, 4 Apr 2018 22:39:57 +0200
+1611d0ed2af19e269fdc2946a9fe5a14b8fdc229|Checkstyle rule - Fixed  "[(] is followed by whitespace."|Wed, 4 Apr 2018 22:30:03 +0200|Wed, 4 Apr 2018 22:30:03 +0200
+6a9f345100d4f9fa2d78303794a0726548574d79|Checkstyle rule - Fixed  "[,] is not followed by whitespace"|Wed, 4 Apr 2018 22:17:04 +0200|Wed, 4 Apr 2018 22:17:04 +0200
+98a6c3bffa17a238a3654bc497a8904b2e6b51d3|Checkstyle rule - Fixed  "Trailing whitespace at the end of a line"|Wed, 4 Apr 2018 22:06:18 +0200|Wed, 4 Apr 2018 22:06:18 +0200
+23ad2bb78ae586a6c006436146130fd84049e295|fixed #150 - Upgraded owasp:dependency-check (3.1.2 instead of 3.1.1)|Wed, 4 Apr 2018 21:41:44 +0200|Wed, 4 Apr 2018 21:41:44 +0200
+45495d27a550d6200f9efc9269f0c3d6a8b8f56e|fixed #126 - Upgraded SpringFramework (4.3.15 instead of 4.3.14)|Wed, 4 Apr 2018 21:20:12 +0200|Wed, 4 Apr 2018 21:20:12 +0200
+ad3489245e0f5eb5777dc1d9d5cc5d8f4ce79a61|Updated CHANGELOG + Other-contrast-tools|Sat, 17 Mar 2018 16:42:31 +0100|Sat, 17 Mar 2018 16:42:31 +0100
+e44a0451e2478be710851cabcdcb8ac36aa62f97|Update Portuguese i18n file|Wed, 28 Feb 2018 03:19:00 +0100|Thu, 1 Mar 2018 22:23:58 +0100
+c0eb061650329024aed6b1ca7655752ed41a2159|Add lang attribute to Korean i18n file|Tue, 27 Feb 2018 14:14:31 +0900|Wed, 28 Feb 2018 02:39:18 +0100
+1cd3c7d702750becd84518bb275241a00852522d|Update Korean i18n file|Mon, 26 Feb 2018 22:51:27 +0900|Tue, 27 Feb 2018 04:34:00 +0100
+c497d189ba5f083190bb6fbe2915bbdea3c64174|i18n - Updated French and English home.metaDescription|Mon, 26 Feb 2018 01:41:30 +0100|Mon, 26 Feb 2018 01:41:30 +0100
+50f4f740ab352caf19257bc76e19dd87ecc0b2a2|Updated English i18n file|Mon, 26 Feb 2018 01:20:04 +0100|Mon, 26 Feb 2018 01:20:04 +0100
+b93117d7ab43f29175631b3edf6e08df9f929c97|Updated French i18n file|Mon, 26 Feb 2018 01:03:17 +0100|Mon, 26 Feb 2018 01:03:17 +0100
+5d1ac58befa34a28911527be258f07cd88ea4fcd|typo|Sun, 25 Feb 2018 21:49:52 +0100|Sun, 25 Feb 2018 21:49:52 +0100
+089742a40dd4a3eecf7d8a08f53f6f352f505b1a|DOC - Howto-use.md improvements|Sun, 25 Feb 2018 20:37:40 +0100|Sun, 25 Feb 2018 21:09:01 +0100
+86ba6f12777167fc4f7692f8475404ec5e074bfe|Fixed #141 - Webapp: allowed favicon/*.ico and *.svg files (fixed url rewrite)|Sun, 25 Feb 2018 10:50:47 +0100|Sun, 25 Feb 2018 10:50:47 +0100
+9c66e8304e218088224fca81aa43881bb713c39b|set version to 0.8.6-SNAPSHOT|Thu, 22 Feb 2018 02:23:43 +0100|Thu, 22 Feb 2018 02:23:43 +0100
+c3e97edea482df0529151bd1d2322ed8513d0ae2|set version to 0.8.5|Thu, 22 Feb 2018 00:28:20 +0100|Thu, 22 Feb 2018 00:28:20 +0100
+a410a05d53d70a8f213bcaca22ee67c7febce765|typo|Thu, 22 Feb 2018 00:18:09 +0100|Thu, 22 Feb 2018 00:18:09 +0100
+db233fbbfa9b641119fce00d86c5f75e726c6b32|deleted not valid docker image|Wed, 21 Feb 2018 23:32:47 +0100|Wed, 21 Feb 2018 23:32:47 +0100
+9c986050e2f9a71438791164e55f230c1e836016|Updated prerequisites and install documentation|Wed, 21 Feb 2018 23:22:59 +0100|Wed, 21 Feb 2018 23:22:59 +0100
+79a630bc7bb9aafce8457820ac05584063ea0796|Fixed #139 - Upgrading outdated dependency: javaee-web-api (8.0 instead of 7.0)|Wed, 21 Feb 2018 22:24:56 +0100|Wed, 21 Feb 2018 22:24:56 +0100
+01177d3fdbb42707da8e6c2583da264d52563e1b|Fixed #137 - Upgrading outdated dependency: spring-security (4.2.4 instead of 4.2.3)|Wed, 21 Feb 2018 21:11:45 +0100|Wed, 21 Feb 2018 21:11:45 +0100
+3c3eda62b32edbe9accaa6612c4540cba006f07c|Fixed #135 / Fixed #138 : Upgrading outdated dependencies|Wed, 21 Feb 2018 20:48:49 +0100|Wed, 21 Feb 2018 20:48:49 +0100
+5402b5763b9cd7fdee75185752a7c6f941a78638|fixed version for urlrewritefilter dependency|Wed, 7 Feb 2018 02:17:55 +0100|Wed, 7 Feb 2018 02:17:55 +0100
+52433a433bcda95460b5a9f45035d0f8814279a1|Fixed #134 - Added new Docker image: pre-requisites_Debian_tomcat-9_jre9 (FROM tomcat:9-jre9)|Tue, 6 Feb 2018 04:37:05 +0100|Tue, 6 Feb 2018 04:37:05 +0100
+992a3eb8c150de6baadeb8e829516fbf668e1e6d|typo|Mon, 5 Feb 2018 00:32:54 +0100|Mon, 5 Feb 2018 00:32:54 +0100
+b10a810bf213596f223c00d90f92c630265e1a60|Fixed #133 - Webapp: allowed the HTTP header "Cache-Control: immutable" for asset files (css, js, png)|Sun, 4 Feb 2018 18:04:53 +0100|Sun, 4 Feb 2018 18:04:53 +0100
+268722a10376a3e3dd34cb577567c242eeef520f|Webapp - Added robots.txt file|Sun, 4 Feb 2018 15:25:26 +0100|Sun, 4 Feb 2018 15:25:26 +0100
+b99ee8ecd89cb474c6c277c6bed1ae04389b0ebb|Webapp - Moved asset files (css, js, images) to the public/ directory|Sun, 4 Feb 2018 13:14:44 +0100|Sun, 4 Feb 2018 13:14:44 +0100
+47987fb53ca8130f66c11a230f24ecbd18c183ca|Fixed #132 - Added new Docker image: pre-requisites_Alpine_tomcat-9 (FROM tomcat:9-jre8-alpine)|Sun, 28 Jan 2018 15:09:15 +0100|Sun, 28 Jan 2018 15:09:15 +0100
+813d7a69c75ccfdfd22118225cfefc948d2e637b|Fixed #131 - Changed default docker image: ubuntu-16.04_tomcat-7 instead of ubuntu-14.04_tomcat-7|Sun, 28 Jan 2018 14:51:38 +0100|Sun, 28 Jan 2018 14:51:38 +0100
+88f98eeb8468f2ce821d742bea60badc93e734fc|Webapp - Added env_debug-info.jsp|Sun, 28 Jan 2018 10:51:43 +0100|Sun, 28 Jan 2018 10:51:43 +0100
+d388fde75df1b36c05e24e57bb915d65b6948265|fixed #130 - .jsp file, form tag: use "modelAttribute" instead of deprecated "commandName"|Sat, 27 Jan 2018 04:44:11 +0100|Sat, 27 Jan 2018 04:44:11 +0100
+d8ddcfb5c548c8e0eaa4af536ee2f3a0cbda735c|Fixed #129 - Added custom HTTP error pages instead of Tomcat default pages|Fri, 26 Jan 2018 02:23:29 +0100|Fri, 26 Jan 2018 02:23:29 +0100
+44f4a43644c1c2634f58272454447ce193fdc651|Fixed #128 Webapp - added "charset=UTF-8" HTTP header  for css, js, txt, json and xml files|Wed, 24 Jan 2018 23:59:20 +0100|Wed, 24 Jan 2018 23:59:20 +0100
+084ac2d27693122ddef3da7f325ae4bdd01a1bc7|Fixed #127 Webapp - Added contribute.json file|Wed, 24 Jan 2018 23:32:58 +0100|Wed, 24 Jan 2018 23:32:58 +0100
+ff63060cd3bb45be0a31e65effebc49aa894a178|fixed i18n file (korean)|Wed, 24 Jan 2018 05:18:04 +0100|Wed, 24 Jan 2018 05:18:04 +0100
+72d6140d5f693c2a5fc82732d4a1beb0a2699715|set version to 0.8.5-SNAPSHOT|Wed, 24 Jan 2018 04:35:56 +0100|Wed, 24 Jan 2018 04:35:56 +0100
+aac4bdbe7e3ea6cec782a80f288a50c54d4beed6|set version to 0.8.4|Wed, 24 Jan 2018 04:12:20 +0100|Wed, 24 Jan 2018 04:12:20 +0100
+3eada0b24d67b1d2d223db7817a102111bf5eccd|typo|Wed, 24 Jan 2018 03:31:50 +0100|Wed, 24 Jan 2018 03:31:50 +0100
+c974532259ea92f52b9edf314c35797eb5c8e274|Webapp - Added .well-known/security.txt|Wed, 24 Jan 2018 01:39:29 +0100|Wed, 24 Jan 2018 01:39:29 +0100
+4c3086aa79efcf24debf81ec437b900336d76ecb|Fixed #108 - Upgraded SpringFramework (4.3.14 instead of 4.3.13)|Tue, 23 Jan 2018 22:21:16 +0100|Tue, 23 Jan 2018 22:21:16 +0100
+a0409618b8520dde43c99028a47543aa98ec50ad|Fixed #125 - Maven builds need openjdk 8 (jdeb prerequisites)|Tue, 23 Jan 2018 05:38:48 +0100|Tue, 23 Jan 2018 05:38:48 +0100
+8722d944f9d5adaa8382a29f272cd0cc00c81bf8|Fixed #124 - Updated jdeb config. (creating debian package at the maven build)|Tue, 23 Jan 2018 05:20:15 +0100|Tue, 23 Jan 2018 05:20:15 +0100
+bc0f5e531ff913f9a2d5073f3cda360112390e1f|Replaced some "http://" by "https://"  (W3C links and AGPL link)|Tue, 23 Jan 2018 04:12:26 +0100|Tue, 23 Jan 2018 04:12:26 +0100
+bb927c35c971f3750f1cad94dd8cb4210a778ea1|Fixed js and css URL|Tue, 23 Jan 2018 04:06:44 +0100|Tue, 23 Jan 2018 04:06:44 +0100
+5ab4081be07cba7f62fb73d072667c6e80e29d6b|Fixed #123 - Upgraded outdated dependency: native2ascii-maven-plugin (2.0.0 instead of 1.0-beta-1)|Tue, 23 Jan 2018 02:49:21 +0100|Tue, 23 Jan 2018 02:49:21 +0100
+e0be7168a7cb54d9aebda03e3ddb443243e87b30|Fixed #121 - Upgraded outdated dependency: maven-checkstyle-plugin (3.0.0 instead of 2.17)|Mon, 22 Jan 2018 04:01:50 +0100|Mon, 22 Jan 2018 04:01:50 +0100
+b202b0d8fae9cbd2b5ebb24d1e797c455603564d|Fixed #120 - Upgraded outdated dependency: jacoco-maven-plugin (0.8.0 instead of 0.7.9)|Mon, 22 Jan 2018 03:54:51 +0100|Mon, 22 Jan 2018 03:54:51 +0100
+0d43fe8e6ce8a7da2881174720fcb97b182b3023|Fixed #119 - Upgraded outdated dependency: maven-javadoc-plugin  (3.0.0 instead of 3.0.0-M1)|Mon, 22 Jan 2018 03:32:48 +0100|Mon, 22 Jan 2018 03:32:48 +0100
+83f724e9730d1170389727b4c30bf327e4929cec|Fixed #118 - Upgraded outdated dependency: jdeb  (1.6 instead of 1.5)|Mon, 22 Jan 2018 03:19:56 +0100|Mon, 22 Jan 2018 03:19:56 +0100
+884474c530dc8255e034dc4c62baa0265cfd8741|Docker - Removed legacy debian Dockerfile|Mon, 22 Jan 2018 02:45:04 +0100|Mon, 22 Jan 2018 02:45:04 +0100
+c2219e9f7d15180148273471dc906a4875f915d3|Docker - fixed #116 + fixed #117|Mon, 22 Jan 2018 02:37:59 +0100|Mon, 22 Jan 2018 02:37:59 +0100
+83c6b8a1e58a0eadc9d40a0925d28a825cebbd55|Docker: refactoring the directories and docker images names|Sun, 21 Jan 2018 18:08:31 +0100|Sun, 21 Jan 2018 18:08:31 +0100
+996f6af544152a6a12d1c76e61a57250a91a9f6a|fixed #115 - Updated prerequisites : libspring-instrument-java is not needed|Fri, 19 Jan 2018 04:17:51 +0100|Fri, 19 Jan 2018 04:17:51 +0100
+527be04da1385e05940051de27e2c356d9cedc5d|preparing #115 - Added some Dockerfile files for tests|Fri, 19 Jan 2018 02:38:52 +0100|Fri, 19 Jan 2018 02:38:52 +0100
+548d05f46542ee579c505ea854eab3a011cb1649|Doc - added QA-tools.md|Sun, 7 Jan 2018 17:47:33 +0100|Sun, 7 Jan 2018 17:47:33 +0100
+10900a88e8d665fe936327d1b5b010939afd1895|docker/SNAPSHOT - Flagged Debian-8 file like a legacy Debian|Sun, 7 Jan 2018 15:56:26 +0100|Sun, 7 Jan 2018 15:56:26 +0100
+0e29f7c6afb2808c20d3172db80ecd2866fb0dfa|fixed #114 / Updated webapp/pom.xml - new name for .war, .tar.gz and .deb|Sun, 7 Jan 2018 15:30:57 +0100|Sun, 7 Jan 2018 15:30:57 +0100
+20e19a1f083e53d3233767131a07776f87f48e8c|Fixed #113 - Upgraded markdown-page-generator-plugin (2.0.1 instead of 2.0.0)|Tue, 2 Jan 2018 22:16:45 +0100|Tue, 2 Jan 2018 22:16:45 +0100
+0925053e269af52f5f2e38684744e2c4c561d270|web app - fixed some HTML5 and webmanifest errors|Tue, 2 Jan 2018 21:54:29 +0100|Tue, 2 Jan 2018 21:54:29 +0100
+860f459ade873770b8e654bd7c1722765e25bcdc|typo|Sun, 10 Dec 2017 21:32:01 +0100|Sun, 10 Dec 2017 21:32:01 +0100
+2bc93ab7ae40e31be8cf9342bd8aa9038dc8ea54|Doc - Updated Other-constrast-tools.md|Sun, 10 Dec 2017 16:31:50 +0100|Sun, 10 Dec 2017 16:31:50 +0100
+1f1d3ff94ff095e7a6fefb8e20afce6bf53d3054|Fixed #112 - Added new docker image: alpine 3.7 (tomcat-7)|Sun, 10 Dec 2017 08:26:34 +0100|Sun, 10 Dec 2017 08:26:34 +0100
+b2da6c2014597dcad5953489ed2961c02eb11f36|Docker - Refactor "FROM tomcat:7.0-jre7"|Sun, 10 Dec 2017 05:21:02 +0100|Sun, 10 Dec 2017 05:21:02 +0100
+bf48ea96c66d54483b1db95792cc2cce8c6b8395|Docker - Typo|Sun, 10 Dec 2017 05:20:11 +0100|Sun, 10 Dec 2017 05:20:11 +0100
+71bf3489fd945f1966b34d9070e96ba3b1c98758|Changed name for docker/SNAPSHOT-local|Sat, 9 Dec 2017 22:22:11 +0100|Sat, 9 Dec 2017 22:22:11 +0100
+938627c2e2c2dbef3fd237c1101d1acb546ec325|Docker - Changed directory for softwares-version.txt|Sat, 9 Dec 2017 21:58:42 +0100|Sat, 9 Dec 2017 21:58:42 +0100
+e217245eda53a6963c0b3dbd0acd178d0f57f80b|fixed #111 / .travis.yml - Add openjdk8 in addition to openjdk7|Sat, 9 Dec 2017 18:08:12 +0100|Sat, 9 Dec 2017 18:08:12 +0100
+12d1a241e53b67c85b113cfd476d3f79cf513b52|#106 (2) - Added unit tests coverage report (Cobertura in addition to Jacoco)|Sat, 9 Dec 2017 16:44:51 +0100|Sat, 9 Dec 2017 16:44:51 +0100
+ea91eb94eb8f4e14391fc7894e2a3a50f3409384|Updated Other-contrast-tools.md|Sat, 9 Dec 2017 14:53:01 +0100|Sat, 9 Dec 2017 14:53:01 +0100
+af1f58bf7aaa0e105528a866072d8b3171f66197|typo|Mon, 4 Dec 2017 05:30:40 +0100|Mon, 4 Dec 2017 05:30:40 +0100
+6b3c4b0e38194788ac0e4d2658cfd0d3a0f8daa2|fixed docker/RELEASE/*|Sun, 3 Dec 2017 16:29:15 +0100|Sun, 3 Dec 2017 16:29:15 +0100
+6e41d9ef1151a40d421e3b676252bfef1c3e1339|Docker/RELEASE - Added ubuntu-16.04|Sun, 3 Dec 2017 15:44:43 +0100|Sun, 3 Dec 2017 15:44:43 +0100
+5040af2cf1d23de2327445c20aab2c8a18027054|docker/SNAPSHOT - Changed the folder tree|Sun, 3 Dec 2017 14:39:07 +0100|Sun, 3 Dec 2017 14:39:07 +0100
+887935f3a23b197a06ac9355342531a788e5a640|fixed #109 (2/2) - Docker/pre-requisites/ - Added /etc/contrast-finder/softwares-version.txt file|Sun, 3 Dec 2017 14:17:55 +0100|Sun, 3 Dec 2017 14:17:55 +0100
+1b39ca63c6ac173822689d6097169913643625ba|fixed #109 - Docker/pre-requisites/ - Added /etc/contrast-finder/softwares-version.txt file|Sat, 2 Dec 2017 16:29:30 +0100|Sat, 2 Dec 2017 16:29:30 +0100
+d46aab46f729d43a46310acca00b847c9c014a5a|webapp / i18n: added some hreflang="en" and <span lang="en">Contrast-Finder</span>|Sat, 2 Dec 2017 13:31:36 +0100|Sat, 2 Dec 2017 13:31:36 +0100
+5081b30f25c7a5414919f4d4f5ae5597d85f1a36|webapp - Languages switch: added aria-current="page"|Sat, 2 Dec 2017 12:59:38 +0100|Sat, 2 Dec 2017 12:59:38 +0100
+9f265be921e68e56e2c7124404d0cd30a66a4ba3|Docker - Added ubuntu-16.04_tomcat-7/Dockerfile|Fri, 1 Dec 2017 03:38:33 +0100|Fri, 1 Dec 2017 03:38:33 +0100
+e0fc86497665fa17fb38a9c4b7c6c296d8600daa|Docker - Added "pre-requisites_Ubuntu-16.04"|Fri, 1 Dec 2017 02:09:33 +0100|Fri, 1 Dec 2017 02:09:33 +0100
+ab65a8d0e8ee5054d43e321088e32d30105e9a62|Used "pre-requisites_Ubuntu-14.04" in Dockerfile files|Fri, 1 Dec 2017 01:39:33 +0100|Fri, 1 Dec 2017 01:39:33 +0100
+1d669d691a1b7590dc8d3c1fffaf59e244b849b9|Docker - Changed directory name for "pre-requisites_from-Ubuntu"|Fri, 1 Dec 2017 01:18:23 +0100|Fri, 1 Dec 2017 01:18:23 +0100
+7b349c31b7f20c4c217901c2d8c6d0ba79c89ac0|Updated release documentation|Tue, 28 Nov 2017 23:58:24 +0100|Tue, 28 Nov 2017 23:58:24 +0100
+9c333421ccf064c2a945eb762c000baca7524d11|typo|Tue, 28 Nov 2017 23:39:17 +0100|Tue, 28 Nov 2017 23:39:17 +0100
+e80b3c9349f799c798058b9fbd78d05a677d175a|set version to 0.8.4-SNAPSHOT|Tue, 28 Nov 2017 23:32:14 +0100|Tue, 28 Nov 2017 23:32:30 +0100
+58fb8f2223d9ac7169073c30ebce8adb3c5b2ece|set version to 0.8.3|Tue, 28 Nov 2017 22:53:10 +0100|Tue, 28 Nov 2017 22:53:10 +0100
+ae6ae0eba2e6140ab3f7f0579f946c8012e70663|Fixed #100 - Upgraded SpringFramework (4.3.13 instead of 4.3.12)|Tue, 28 Nov 2017 19:38:15 +0100|Tue, 28 Nov 2017 19:38:15 +0100
+303d5121dcc79d7e413a3e3c220f985f10232c70|delete unused files  (*/AppTest.java)|Sun, 19 Nov 2017 21:30:10 +0100|Sun, 19 Nov 2017 21:30:10 +0100
+6c73d47d99896bcc3a6b684d5a0ed0823589d113|fix Travis build for #107|Sun, 19 Nov 2017 19:56:27 +0100|Sun, 19 Nov 2017 19:56:27 +0100
+fefc24a9bd4ffe2b7d3242fcf1d97f3f830890e1|fixed #107 - Added missing unit tests for engine/utils/*|Sun, 19 Nov 2017 19:04:59 +0100|Sun, 19 Nov 2017 19:04:59 +0100
+daacab2e0e95e366029aa806f2f55bfcf1129c81|typo|Sun, 19 Nov 2017 12:54:32 +0100|Sun, 19 Nov 2017 12:54:32 +0100
+3e37f4b4b926fcd98dccbb6924a28c188af1f745|Fixed #106 - Added unit tests coverage report (jacoco-maven-plugin)|Sun, 19 Nov 2017 08:33:29 +0100|Sun, 19 Nov 2017 08:33:29 +0100
+5e00ef189b01ec808f2125dfff37a8f9e168bfdc|updated pom.xml (typo)|Sun, 19 Nov 2017 08:32:03 +0100|Sun, 19 Nov 2017 08:32:03 +0100
+07121b82cc4ea7ef09bb67a825a76a060fa4bfb7|fixed #105 - Upgraded outdated plugin: owasp dependency-check (3.0.2)|Sat, 18 Nov 2017 04:49:07 +0100|Sat, 18 Nov 2017 04:49:07 +0100
+37b31e825678b27902f16b7ea5155cae60304cb7|tar.gz - Added CONTRIBUTING file|Sat, 18 Nov 2017 04:08:42 +0100|Sat, 18 Nov 2017 04:08:42 +0100
+c3eefaacb149cdbd3240f6baaa3b8a1fdf3f82e6|Fixed #104 - Added maven-jxr-plugin (needed for maven-checkstyle-plugin)|Sat, 18 Nov 2017 04:05:26 +0100|Sat, 18 Nov 2017 04:05:26 +0100
+15568d1ee9a59d13ea309edcfaaf85c751af0187|fixed pom.xml for maven-project-info-reports-plugin|Sat, 18 Nov 2017 02:31:48 +0100|Sat, 18 Nov 2017 02:31:48 +0100
+fa34871d8af115c7c713aa391d28bf7cdc24c46b|fixed #103 - Upgraded outdated dependency: maven-javadoc-plugin (3.0.0-M1)|Sat, 18 Nov 2017 02:30:57 +0100|Sat, 18 Nov 2017 02:30:57 +0100
+10411a94e4a731e8df4b3e0c37ad8e5e021eaa4b|fixed #102 - Upgraded outdated dependency: markdown-page-generator-plugin|Sat, 18 Nov 2017 02:05:08 +0100|Sat, 18 Nov 2017 02:05:08 +0100
+208423feccdc9ec286ad67bf416a3d98d20164d1|fixed #101 - Upgraded outdated dependency: commons-lang3 (3.7)|Sat, 18 Nov 2017 02:03:29 +0100|Sat, 18 Nov 2017 02:03:29 +0100
+e09147fddff40d084ffc78d011dad02ea2237b03|typo|Thu, 2 Nov 2017 00:54:35 +0100|Thu, 2 Nov 2017 00:54:35 +0100
+2778887fcf2f0214a6ecd2984794cbced1d871f5|Updated Other-contrast-tools.md|Thu, 2 Nov 2017 00:52:31 +0100|Thu, 2 Nov 2017 00:52:31 +0100
+914e0f9e852ecbb7871d1d24241ecc3849922f9f|set version to 0.8.3-SNAPSHOT|Sat, 28 Oct 2017 19:09:42 +0200|Sat, 28 Oct 2017 19:09:42 +0200
+1b736fc84f0182932c33cc81213f1463ab0953cb|set version to 0.8.2|Sat, 28 Oct 2017 18:03:38 +0200|Sat, 28 Oct 2017 18:03:38 +0200
+ce25adc1a5e37ff57058fe301f993decc1681674|fixed #99 / pom.xml file: replaced "-dev" by "-SNAPSHOT"|Sat, 28 Oct 2017 17:46:36 +0200|Sat, 28 Oct 2017 17:46:36 +0200
+d61dc5462289002652f586bc6575c6fc3f942fd3|Updated build_and_run-with-docker.sh (typo)|Sat, 28 Oct 2017 17:31:30 +0200|Sat, 28 Oct 2017 17:31:30 +0200
+25e058811194a32d9be9eac552eed7296b5f4476|fixed #99 / pom.xml file: replaced "-dev" by ".SNAPSHOT"|Sat, 28 Oct 2017 16:59:30 +0200|Sat, 28 Oct 2017 16:59:30 +0200
+3861795fb83d986254e2a0c490c63e899ccc4a5e|typo|Sat, 28 Oct 2017 16:22:22 +0200|Sat, 28 Oct 2017 16:22:22 +0200
+263641783a5112266b5596450ce5185b54eb7a8e|refactor build documentation|Sat, 28 Oct 2017 16:03:09 +0200|Sat, 28 Oct 2017 16:03:09 +0200
+b182aae4a6106f4fbc0002db85ebd0271c63b3a6|DOC - Release : using `mvn versions:set -DnewVersion=x.y.z`|Sat, 28 Oct 2017 14:51:07 +0200|Sat, 28 Oct 2017 14:51:07 +0200
+80773c42e37f97196b27d8e47ca1384b24ab7a9a|typo|Fri, 27 Oct 2017 03:57:40 +0200|Fri, 27 Oct 2017 03:57:40 +0200
+06ddcc747e37ed592a0a973236e46844e3e24da4|Fixed #93 - Upgraded maven-war-plugin 3.2.0  instead of 3.1.0|Fri, 27 Oct 2017 03:52:16 +0200|Fri, 27 Oct 2017 03:52:16 +0200
+12a2c614612508974fdf1b4de564a6d34a650c72|Updated CHANGELOG|Fri, 27 Oct 2017 03:39:00 +0200|Fri, 27 Oct 2017 03:39:00 +0200
+c203f8edfe0bdf76eb1dabbc1bb2c107107fce52|fixed #94 - Upgraded outdated dependency: SpringFramework 4.3.12|Fri, 27 Oct 2017 03:30:25 +0200|Fri, 27 Oct 2017 03:30:25 +0200
+432182e095027d0541d98f6669ae5fbfb598bd26|DOC - Updated Other-contrast-tools.md|Fri, 27 Oct 2017 03:11:52 +0200|Fri, 27 Oct 2017 03:11:52 +0200
+4b3b66e8e7d8e531fb5fd9d2ac5bec3ae49a8ada|fixed #97 - build_and_run-with-docker.sh / log_processing() fails when there is no WARNING|Sun, 1 Oct 2017 18:45:51 +0200|Sun, 1 Oct 2017 18:45:51 +0200
+cfba8d25c602ac6633b067bef989352cd76db19b|*/pom.xml - typo|Sun, 1 Oct 2017 18:25:19 +0200|Sun, 1 Oct 2017 18:25:19 +0200
+3235688091d92d9b99a9350738f45e4fec7ff44d|Updated webapp/pom.xml|Sun, 1 Oct 2017 18:23:05 +0200|Sun, 1 Oct 2017 18:23:05 +0200
+b5de13c4adb8a76813046c6c172cd582fb109adc|webapp/pom.xml - Turn off JS warnings by yuicompressor-maven-plugin|Sun, 1 Oct 2017 17:25:38 +0200|Sun, 1 Oct 2017 17:25:38 +0200
+aa411c2165ff65af24ed9625121f76bedf3ae4e4|tar.gz - Updated descriptor.xml (don't use a root /)|Sun, 1 Oct 2017 17:21:41 +0200|Sun, 1 Oct 2017 17:21:41 +0200
+8a9ad60b917ca16aebb7bcc8987751343fe81ec7|updated pom.xml|Sun, 1 Oct 2017 17:17:27 +0200|Sun, 1 Oct 2017 17:17:27 +0200
+69eb062fbef944556ec2939815cc07f0002726e0|DOC Build - Fix prerequesites|Sat, 30 Sep 2017 13:22:15 +0200|Sat, 30 Sep 2017 13:22:15 +0200
+5707fbebe236dffe49d896a7705984c42b37856f|typo|Sat, 30 Sep 2017 12:44:40 +0200|Sat, 30 Sep 2017 12:44:40 +0200
+f3dae446b6fa5cc94913343f4bb3ab570dfffcc4|Added documentation/badge.md|Sat, 30 Sep 2017 11:37:06 +0200|Sat, 30 Sep 2017 11:37:06 +0200
+338fc97ab0151ce37f2eaad5a1c796bb12e83118|build_and_run-with-docker.sh - refactor + fixed #95|Sat, 30 Sep 2017 11:30:59 +0200|Sat, 30 Sep 2017 11:30:59 +0200
+8bf02c5b8ed5edac93fb27933f02f9a14a0ce89f|Fixed #93 - Upgraded maven-dependency-plugin + maven-surefire-plugin|Sat, 23 Sep 2017 16:23:53 +0200|Sat, 23 Sep 2017 16:23:53 +0200
+213ebcafa1c44e26227f8dd1a01c6a5fc33d8913|fixed #94 - Upgraded outdated dependency: SpringFramework 4.3.11|Sat, 23 Sep 2017 15:19:31 +0200|Sat, 23 Sep 2017 15:19:31 +0200
+3d9745efe21748e5447225ba75b7ad56ec160414|Fixed #93 - Upgraded maven-compiler-plugin: 3.7.0 instead of 3.6.2|Tue, 12 Sep 2017 01:33:33 +0200|Tue, 12 Sep 2017 01:33:33 +0200
+2de7c3e98f77e37e770841756bbc14544c182014|webapp: added CSS for accessible modal window system|Fri, 8 Sep 2017 03:13:18 +0200|Fri, 8 Sep 2017 03:13:18 +0200
+db27a2505163d121c1a90a7987ab5d2bc294050a|webapp: added accessible modal window system from van11y.net|Fri, 8 Sep 2017 02:45:51 +0200|Fri, 8 Sep 2017 02:45:51 +0200
+407a91a14db0364c357161bc50f4ef63d5a08a9a|Fixed #92 - Upgraded maven-compiler-plugin: 3.6.2 instead of 3.6.1|Sat, 5 Aug 2017 14:51:58 +0200|Sat, 5 Aug 2017 14:51:58 +0200
+9bf6c2baad5fd7cf66fd5fd6a0eddc3317d92ee6|typo|Sat, 5 Aug 2017 13:05:50 +0200|Sat, 5 Aug 2017 13:05:50 +0200
+c87b534eb909916c11728db0504edfa9478eec8c|set version to 0.8.2-dev|Sat, 5 Aug 2017 12:25:59 +0200|Sat, 5 Aug 2017 12:25:59 +0200
+79147b46613017103b67c949aab94483181b5c22|set version to 0.8.1|Sat, 5 Aug 2017 12:15:25 +0200|Sat, 5 Aug 2017 12:15:25 +0200
+b60a78ca2e9c2a608d9827010e31e640820410d4|Fixed #90 Webapp - Used <link rel="alternate" hreflang="">|Sat, 5 Aug 2017 03:17:13 +0200|Sat, 5 Aug 2017 03:17:13 +0200
+393ee971a302827182964788e41e1e0a10c8909a|Fix #88 - Add missing Korean translations|Thu, 3 Aug 2017 12:53:50 +0900|Sat, 5 Aug 2017 01:28:29 +0200
+c136e80f79be280e159b323ca550d6f76978fc49|set version to 0.8.1-dev|Thu, 3 Aug 2017 01:58:45 +0200|Thu, 3 Aug 2017 01:58:45 +0200
+b4f260c4d39173eb3f3545520d4890a589743c3d|set version to 0.8.0|Thu, 3 Aug 2017 00:16:24 +0200|Thu, 3 Aug 2017 00:16:24 +0200
+ea7e3c94763f9874722c2cb9adc8a642fc8efd40|updated CHANGELOG + typo|Wed, 2 Aug 2017 23:53:56 +0200|Wed, 2 Aug 2017 23:53:56 +0200
+8e4fc399b92029554ad5ed065688a57623d1577d|fixed #85 - Merge branch '85_i18n_korean' into develop|Wed, 2 Aug 2017 22:54:15 +0200|Wed, 2 Aug 2017 22:54:15 +0200
+a4ae1244f57e2bda6ee39a774db5ebdab1b8c7e1|fixed languages menu (#85 "Korean translation")|Wed, 2 Aug 2017 22:50:50 +0200|Wed, 2 Aug 2017 22:50:50 +0200
+bafb7163f3345a3d8634bbd8abdf3efc1a0aac3e|i18n - fixed typo (#85 "Korean translation")|Wed, 2 Aug 2017 22:40:26 +0200|Wed, 2 Aug 2017 22:40:26 +0200
+c54a487ff1a80e9b8655534f76ece9bcfab0afa7|i18n - added space before "\" at the end of the line (#85 "Korean translation")|Wed, 2 Aug 2017 22:36:17 +0200|Wed, 2 Aug 2017 22:36:17 +0200
+133c5530f76a2fbf90c19ab4ac5c4fb4a7e44eeb|Fixed accessibility issue: added some lang="en" (#85 "Korean translation")|Wed, 2 Aug 2017 22:26:24 +0200|Wed, 2 Aug 2017 22:26:24 +0200
+b64806795724205695aaf691750376683fe81cd5|Korean added to languages menu (#85 "Korean translation")|Wed, 2 Aug 2017 22:06:10 +0200|Wed, 2 Aug 2017 22:06:10 +0200
+14ec09ae63926567e4b6b77c778eda05a60939c9|fixed #86 "Korean translation" (#85) - java.lang.IllegalArgumentException: unknown format type: 선택|Wed, 2 Aug 2017 21:34:42 +0200|Wed, 2 Aug 2017 21:34:42 +0200
+c7f1c602dee804f82eb25ec3d5ba31ba36464f18|Add Korean translation|Wed, 2 Aug 2017 18:58:11 +0900|Wed, 2 Aug 2017 18:58:11 +0900
+7ae3cd2ff0c9eeaa38def56ccbfc60cfd8e9e7a8|webapp - updated "Contribute to Contrast-Finder" (en + fr)|Wed, 2 Aug 2017 06:37:59 +0200|Wed, 2 Aug 2017 06:39:17 +0200
+e9c5db4a4bca0d2cb8cb96c59803c41c98c4eb32|Revert "Removed unused i18n entries"|Wed, 2 Aug 2017 05:49:28 +0200|Wed, 2 Aug 2017 05:49:28 +0200
+65ca33cf9d9352298daaa25b2a2581ffdfec4b87|fix FR grammatical error|Tue, 1 Aug 2017 14:59:25 +0200|Wed, 2 Aug 2017 02:39:33 +0200
+d5a9faefbd446593767e5a57b8a77202e30a0135|fix #83|Tue, 1 Aug 2017 14:55:57 +0200|Wed, 2 Aug 2017 02:39:33 +0200
+45fe8225008c3f0ff6b753aec9e6b28ea1b760a9|Removed unused i18n entries|Tue, 1 Aug 2017 14:55:19 +0200|Wed, 2 Aug 2017 02:39:33 +0200
+c2d08a0b19addbdc30bd88455de19075066671fd|docker/build_and_run-with-docker.sh (typo)|Tue, 1 Aug 2017 02:01:39 +0200|Tue, 1 Aug 2017 02:01:39 +0200
+df27759b69da611866c1e1db7fca2fd8b77b048d|docker/build_and_run-with-docker.sh - added new option (--log-build)|Sun, 30 Jul 2017 06:51:30 +0200|Sun, 30 Jul 2017 06:51:30 +0200
+082c61ca642b595792bb606c2c5fce664646ffd1|updated docker/build_and_run-with-docker.sh (typo)|Sun, 30 Jul 2017 03:39:04 +0200|Sun, 30 Jul 2017 03:39:04 +0200
+9d6b796cbd236b2e8b83e8e09b19076a9aa1869a|renamed docker/build_and_run-with-docker.sh|Sun, 30 Jul 2017 03:35:47 +0200|Sun, 30 Jul 2017 03:35:47 +0200
+4ab4ac27cee25817ef387dcf66ab327d38c64cfa|fixed .gitignore|Fri, 28 Jul 2017 06:24:29 +0200|Fri, 28 Jul 2017 06:24:44 +0200
+f0929ead15cf8e42e7ec7f9f980ad7de7ddccc2c|set version to 0.7.1-dev|Fri, 28 Jul 2017 06:15:44 +0200|Fri, 28 Jul 2017 06:15:44 +0200
+19bbbb77e5c30fc5a626b4d488d03570aaea6061|set version to 0.7.0|Fri, 28 Jul 2017 05:03:37 +0200|Fri, 28 Jul 2017 05:03:37 +0200
+d628413950a19b96cdfe33114dbfa3851a1745a5|fixed #24 added color picker|Fri, 28 Jul 2017 04:33:40 +0200|Fri, 28 Jul 2017 05:00:31 +0200
+d6ed1f42c2aa164e91f8d77a2222e0721cf06af0|CSS - Adding bootstrap source files|Fri, 28 Jul 2017 01:43:09 +0200|Fri, 28 Jul 2017 05:00:28 +0200
+f77a42987ce009127d38e52d1a48d595451cb2bd|webapp: typo|Fri, 28 Jul 2017 01:08:11 +0200|Fri, 28 Jul 2017 05:00:23 +0200
+87b86f4b7f06c240ebabf3ff0e72d0b4a851ca9d|Fixed #62 differences between documentation in English and French|Thu, 27 Jul 2017 03:38:17 +0200|Fri, 28 Jul 2017 05:00:07 +0200
+93ba761d6c11627c57b7b2fd8b142ca1fd3c3446|webapp: typo|Thu, 27 Jul 2017 03:12:31 +0200|Thu, 27 Jul 2017 03:12:31 +0200
+65ec04c8b828882e70d112300a8c376711c80afc|Fixed #82 - Added .deb in tar.gz|Mon, 24 Jul 2017 02:20:39 +0200|Mon, 24 Jul 2017 02:20:39 +0200
+1c8b419d450f347c033a0e28f9e5d18bbb2352c5|Fixed travis build|Mon, 24 Jul 2017 01:51:25 +0200|Mon, 24 Jul 2017 01:51:25 +0200
+34c64eb3181a8571361c4ab07773d7efe543c8f8|Revert "Starting a Debian package"|Mon, 24 Jul 2017 01:15:33 +0200|Mon, 24 Jul 2017 01:15:33 +0200
+3b65e02e9e19162993c71ce38afe24916e735225|fixed #82 - create a debian package at the maven build|Mon, 24 Jul 2017 01:14:57 +0200|Mon, 24 Jul 2017 01:14:57 +0200
+f0d0f1cd1b9cf73ad48740fe05a39ea7a5eab53c|test jdeb maven plugin|Sun, 23 Jul 2017 08:07:46 +0200|Sun, 23 Jul 2017 08:07:46 +0200
+7a852ca81d5d0d25fc05f8869b1ecc63cf44f27d|Starting a Debian package|Thu, 6 Jul 2017 13:39:58 +0200|Sat, 22 Jul 2017 19:58:58 +0200
+15aa0ac047d8a6134f1e7936382adabc28c190ce|set version to 0.6.1-dev|Fri, 21 Jul 2017 01:42:04 +0200|Fri, 21 Jul 2017 01:42:04 +0200
+9beaa92c408b7cb5adbe4b22b79ac2bfaa74caff|set version to 0.6.0|Fri, 21 Jul 2017 00:04:07 +0200|Fri, 21 Jul 2017 00:07:42 +0200
+84802b9b05cb272482f8cad5ceb5761888a200eb|DOC - Updated Other-contrast-tools.md|Thu, 20 Jul 2017 21:14:45 +0200|Fri, 21 Jul 2017 00:07:42 +0200
+12631cb540e7b4b2e389f09d69f04a8aeb4e60cd|fixed #59 - Upgraded outdated dependencies: SpringFramework 4.3.10|Thu, 20 Jul 2017 21:07:25 +0200|Fri, 21 Jul 2017 00:07:42 +0200
+c3413dc958d5a9879fb72904347c7cd1582c21b2|Merge branch 'Kaths31/develop' into develop|Fri, 21 Jul 2017 00:07:14 +0200|Fri, 21 Jul 2017 00:07:14 +0200
+939acb8400ee0552c9051f4c368509557b72dcc7|i18n: missing texts (2/2)|Tue, 18 Jul 2017 12:56:19 +0200|Thu, 20 Jul 2017 23:35:47 +0200
+9818b330b9a7a9cf567136c9b511f512e5b52b31|i18n: missing texts|Thu, 13 Jul 2017 08:10:39 +0200|Thu, 20 Jul 2017 23:35:47 +0200
+99afca24535d8bff1564911713bdc0a3e6adeb8d|i18n: minor fix|Thu, 13 Jul 2017 07:22:51 +0200|Thu, 20 Jul 2017 23:35:47 +0200
+1dc5ce6eb251f891511afd2adb4aa62024f42cfc|refactor i18n|Mon, 17 Jul 2017 20:04:28 +0200|Thu, 20 Jul 2017 23:35:47 +0200
+f2050907ed48f3c92b8f1c615f6dbe61ba38c7f7|Merge branch 'Rui20/develop' into develop|Thu, 20 Jul 2017 23:35:28 +0200|Thu, 20 Jul 2017 23:35:28 +0200
+aad651ecaf07aab8465141e7f3c813f274fd7366|Update contrast-finder_utf8_pt.properties|Wed, 12 Jul 2017 10:47:16 +0200|Thu, 20 Jul 2017 21:47:28 +0200
+291af156af0bad93fd1a32566a824f350c9415cd|Update contrast-finder_utf8_pt.properties|Sun, 9 Jul 2017 15:36:34 +0200|Thu, 20 Jul 2017 21:47:02 +0200
+7c87b8738a0f47984a321faa0373a83f2b1aabab|Fixed #79 - Added maven-checkstyle-plugin|Tue, 11 Jul 2017 03:15:42 +0200|Tue, 11 Jul 2017 03:15:42 +0200
+ba1eaa4b4b8fa6e602358fa3799766851fe2420e|DOC - Updated Other-contrast-tools.md|Tue, 11 Jul 2017 00:04:27 +0200|Tue, 11 Jul 2017 00:04:27 +0200
+fce50d90ec1c4a5d6a1603c67c7f3b2495a7031f|typo|Sun, 9 Jul 2017 03:43:13 +0200|Sun, 9 Jul 2017 03:43:13 +0200
+78f165d3953faec5a4522e49b71a775728c2e269|fixed webapp/pom.xml|Sun, 9 Jul 2017 00:42:09 +0200|Sun, 9 Jul 2017 02:41:18 +0200
+65a460244b520bf0b52e998afdc9a8fe3f7f3487|Fixed #76 i18n files in UTF8 character encoding|Sat, 8 Jul 2017 23:57:40 +0200|Sun, 9 Jul 2017 02:41:12 +0200
+40c29312b09dcb6fe3581807f3899575449ac0c5|#76 Converted i18n properties files in UTF8|Sat, 8 Jul 2017 20:45:34 +0200|Sun, 9 Jul 2017 02:41:08 +0200
+6d784027fc838f1d5b95a47f1f02ce93ba4d8543|Create contrast-finder_pt.properties|Sat, 8 Jul 2017 19:55:55 +0200|Sun, 9 Jul 2017 02:40:25 +0200
+c914901f1cbb64c0394af3d109302b86c612a3a4|Updated Contributor_doc|Sat, 8 Jul 2017 17:25:07 +0200|Sat, 8 Jul 2017 17:25:07 +0200
+f7a3145ed573beab123306d256f0ac814b1f2fcc|set version to 0.5.3-dev|Tue, 4 Jul 2017 02:41:52 +0200|Tue, 4 Jul 2017 02:41:52 +0200
+3fce46e033f25d14339adbd4d5aa9c7244068980|set version to 0.5.2|Tue, 4 Jul 2017 02:11:24 +0200|Tue, 4 Jul 2017 02:11:24 +0200
+9f7aba61184b8af906daff9130bb5d8d587859ad|typo|Tue, 4 Jul 2017 01:42:11 +0200|Tue, 4 Jul 2017 01:42:11 +0200
+67205c9ac7a203ed81871b25e6697e477abb8fd5|fixed compile_and_build_docker_image.sh|Tue, 4 Jul 2017 01:31:50 +0200|Tue, 4 Jul 2017 01:31:50 +0200
+351e77f73c5c7e8b85cadf446de36001683ae71d|Fixed #75 - Remove unused dependencies: httpclient + json|Tue, 4 Jul 2017 01:31:15 +0200|Tue, 4 Jul 2017 01:31:15 +0200
+c1bfdad439a5180a3e4b57b7f27b3463d328d59c|DOC - Fixing a compilation warning|Tue, 4 Jul 2017 01:23:51 +0200|Tue, 4 Jul 2017 01:23:51 +0200
+569a45068fc4459f920c11a82495fcf1dc95d71b|typo|Tue, 4 Jul 2017 01:21:04 +0200|Tue, 4 Jul 2017 01:21:04 +0200
+89918d58c070acb0246fd0a90e73c72ecad72e83|Fixed #74 - Javascript: allowed only valid RGB values|Mon, 3 Jul 2017 01:42:02 +0200|Mon, 3 Jul 2017 01:42:02 +0200
+e38bd4d45791df5bcebbb97abf69eb0022eba04f|JS refactor|Mon, 3 Jul 2017 00:46:58 +0200|Mon, 3 Jul 2017 00:46:58 +0200
+c84492be2335c669c7b66f50cd3c6408177f1993|Fixed #73 UI (sample color)|Sun, 2 Jul 2017 23:47:00 +0200|Sun, 2 Jul 2017 23:47:00 +0200
+ea1313481590a9ab322ec4ac054003c7f5e5e331|fixed #72 - UI, used the CSS "user-select:all" property for color result|Sat, 1 Jul 2017 17:07:23 +0200|Sat, 1 Jul 2017 17:07:23 +0200
+6b70f5752e8930be7618ca8715067ba9503b9214|minor fix (a11y + .java)|Thu, 29 Jun 2017 02:18:34 +0200|Thu, 29 Jun 2017 02:18:34 +0200
+fdbd7858defe8e827be28e863a9a2ca9711c6c23|fixed import .*|Tue, 20 Jun 2017 22:38:24 +0200|Tue, 20 Jun 2017 22:38:24 +0200
+eecc597de62d015f219ac6d4e30a0815706f9a90|fixed #70 - Upgraded commons-lang3: 3.6 instead of 3.5|Tue, 20 Jun 2017 22:14:32 +0200|Tue, 20 Jun 2017 22:14:32 +0200
+cf9ba902b22dac9427d0692317469839e2f451a1|fixed some build warnings: plugin.version for markdown-page-generator is missing|Tue, 20 Jun 2017 20:14:42 +0200|Tue, 20 Jun 2017 22:14:02 +0200
+aeddd50d1e0736c8955f592fd241d0ab583d7cf4|typo|Tue, 20 Jun 2017 20:08:46 +0200|Tue, 20 Jun 2017 22:13:56 +0200
+edd181eb5d9ab1e46179e97b2365fc8f5c20aafd|Uptaded form: only one help-block for color fields|Tue, 20 Jun 2017 22:12:35 +0200|Tue, 20 Jun 2017 22:13:40 +0200
+41d4768810dbdd023043da40560c05c9f51436b2|fixed #69 - tar.gz - Documentation files in html format|Sun, 18 Jun 2017 15:32:05 +0200|Sun, 18 Jun 2017 15:32:05 +0200
+0d760e1b7c83d611cdb9691120c4712629b4795c|Fixed #68 tar.gz - changelog and readme files in html format|Sun, 18 Jun 2017 15:02:09 +0200|Sun, 18 Jun 2017 15:02:09 +0200
+f01f434edc6420aabfcf2ccbdc7d110912538251|Updated README + CHANGELOG (typo)|Sun, 18 Jun 2017 12:43:51 +0200|Sun, 18 Jun 2017 12:43:51 +0200
+79a6384764fc0850f4de9781df71f1b51b4ae143|typo|Sun, 18 Jun 2017 09:18:45 +0200|Sun, 18 Jun 2017 09:18:45 +0200
+53fa9fb0ffe171b080a7a582466c9320c1495111|fixed #67 - Replaced radio button by drop-down list for algo|Sun, 18 Jun 2017 08:54:09 +0200|Sun, 18 Jun 2017 08:54:09 +0200
+87c9eb620f7fa85630dd3de77e70c03604abf184|README - Fixed dependency badge + Changed screenshot + Added logo + Typo|Sat, 17 Jun 2017 15:43:39 +0200|Sat, 17 Jun 2017 15:43:39 +0200
+17b87445704d82ab19f1623e1df364a271b40aa6|set version to 0.5.2-dev|Wed, 14 Jun 2017 01:42:03 +0200|Wed, 14 Jun 2017 01:42:03 +0200
+5e8b0f054e10d955caff315fea3ba41fe224a365|set version to 0.5.1|Wed, 14 Jun 2017 01:09:30 +0200|Wed, 14 Jun 2017 01:09:30 +0200
+dbe7794e59ec629618029bcb3dde7c7c565b4bcb|typo (js)|Wed, 14 Jun 2017 00:39:20 +0200|Wed, 14 Jun 2017 00:39:20 +0200
+d08b89811c9a652007bb2df114ba8e551560b516|Fixed #65 - Upgraded spring-security to v4.2.3|Wed, 14 Jun 2017 00:01:39 +0200|Wed, 14 Jun 2017 00:01:39 +0200
+1f9dbc861e41a5d844a7e150e1d9bc856bd9eb39|Merge branch 'refactor' into develop|Mon, 12 Jun 2017 03:56:26 +0200|Mon, 12 Jun 2017 03:56:26 +0200
+4f7c374114e325618bf526547d067b4819624539|fix refactor|Mon, 12 Jun 2017 03:48:23 +0200|Mon, 12 Jun 2017 03:48:23 +0200
+8490dc034329921f1b3f95883248f03d204a9c05|refactor|Mon, 12 Jun 2017 03:26:48 +0200|Mon, 12 Jun 2017 03:26:48 +0200
+a807334873189ef9d120e133022673182fe47fc2|typo|Mon, 12 Jun 2017 02:41:04 +0200|Mon, 12 Jun 2017 02:41:04 +0200
+5876a0adaad968a3b9f4ea12b68a989fd218bdde|fixed js|Mon, 12 Jun 2017 02:38:44 +0200|Mon, 12 Jun 2017 02:38:44 +0200
+8cfcbbf67c05baaa404ad636324954f666fd5c7d|Fixed #64 - Moved contrast-finder.log|.conf files into webapp directory|Mon, 12 Jun 2017 02:35:43 +0200|Mon, 12 Jun 2017 02:35:43 +0200
+010859775d6d9f52c1f6af2e158675cbdae9ddd4|Class AbstractColorFinderImplImpl: minor fix|Mon, 12 Jun 2017 01:52:46 +0200|Mon, 12 Jun 2017 01:52:46 +0200
+1d07a4fa5df134ae137b6fc1972f060356486c88|Fixed #63 - Allowed "rgb(255,255,255" for "rgb(255,255,255)" in the form|Mon, 12 Jun 2017 01:49:43 +0200|Mon, 12 Jun 2017 01:49:43 +0200
+4c3d61ff01182ec999dc30fc6f29d7a68ee2fde8|Javascript - Fixed some codacy "code style"|Sun, 11 Jun 2017 23:53:05 +0200|Sun, 11 Jun 2017 23:53:05 +0200
+a79e96490ae3815a36b16eda585d3e12391ae092|Fixed some codacy "error prone"|Sun, 11 Jun 2017 23:17:41 +0200|Sun, 11 Jun 2017 23:17:41 +0200
+ec52a44574fd1a7732b49879b7726c78918c5013|Javascript - Fixed some codacy "code style"|Sun, 11 Jun 2017 22:35:28 +0200|Sun, 11 Jun 2017 22:35:28 +0200
+a987a370cd9affbf0961e889af4073d95398ff02|Updated package names (in lower case)|Sun, 11 Jun 2017 22:17:15 +0200|Sun, 11 Jun 2017 22:17:15 +0200
+8d06a2d91b2153cc7321e9235c2f1a916928d88e|Fixed some codacy "error prone" + "code style"|Sun, 11 Jun 2017 18:48:20 +0200|Sun, 11 Jun 2017 18:48:20 +0200
+e04a4d1e2c877a4768bda82f7617ab37f400e70c|README - Added codacy.com badge|Sun, 11 Jun 2017 17:21:20 +0200|Sun, 11 Jun 2017 17:21:20 +0200
+9e5f2fee4e8215cf8bb7697bcf16db35baa0fe85|JS typo: "DarkOrange" instead of "Darkorange"|Sun, 11 Jun 2017 16:44:49 +0200|Sun, 11 Jun 2017 16:45:46 +0200
+c308c221ee1d3433f679fd5c6a4224d5f0c59c59|Fixed #61 - Added missing color names (*Grey + RebeccaPurple)|Sun, 11 Jun 2017 15:43:11 +0200|Sun, 11 Jun 2017 16:45:46 +0200
+c2548d1e34846f1ba3155e2ea091e72709e0d5fa|Used str.equals("") instead of str == ""|Sun, 11 Jun 2017 15:16:31 +0200|Sun, 11 Jun 2017 16:45:33 +0200
+7bc4169e50ee03ab210896b9f0164ffac5f57117|set version to 0.5.1-dev|Fri, 9 Jun 2017 00:42:12 +0200|Fri, 9 Jun 2017 00:42:12 +0200
+68ba3efb72c352e0e0c1713a15ab287f786e8093|set version to 0.5.0|Thu, 8 Jun 2017 23:48:06 +0200|Thu, 8 Jun 2017 23:48:06 +0200
+cbbd76b4a4a66bc625d55bf21a970c98423a1cb0|typo|Thu, 8 Jun 2017 23:37:21 +0200|Thu, 8 Jun 2017 23:37:21 +0200
+0fdd8acd7725d1b6990a8d96abd22ba540d0ccf8|fixed typo DEFAULT_FOREGROUND|Thu, 8 Jun 2017 23:30:50 +0200|Thu, 8 Jun 2017 23:30:50 +0200
+dc8a18089b49a23e4bd546133fec241193723f1b|Updated CSS|Thu, 8 Jun 2017 23:23:33 +0200|Thu, 8 Jun 2017 23:23:33 +0200
+edace4919d73e775167b4ae8d5458f2f5cb5cec2|Fixed #60 - Added the "required" attribute to the color fields|Thu, 8 Jun 2017 22:59:48 +0200|Thu, 8 Jun 2017 22:59:48 +0200
+c2feea7e13ef8e90d0bd3e5b7f2676c897f3bc2d|Fixed #58 - Associated the user tips with the input fields|Thu, 8 Jun 2017 21:15:12 +0200|Thu, 8 Jun 2017 22:57:25 +0200
+8f36632452ce001cd00d37b154184996a9d44c60|fixed #54 - Upgraded outdated dependencies:: SpringFramework 4.3.9|Sun, 4 Jun 2017 19:21:25 +0200|Thu, 8 Jun 2017 22:57:10 +0200
+7f0dd84924161e0a589c990d45db8def6368688c| Merge branch #57|Thu, 8 Jun 2017 22:54:56 +0200|Thu, 8 Jun 2017 22:54:56 +0200
+b348dc1765f4e51daf293bdb09952b1b28b51340|#57 Allowed colors by CSS name|Thu, 8 Jun 2017 22:53:57 +0200|Thu, 8 Jun 2017 22:53:57 +0200
+223a014949499bb928c7295c0a51b47412e237e0|#57 Javascript: allowed colors by CSS name in isValidateColor()|Thu, 8 Jun 2017 21:43:59 +0200|Thu, 8 Jun 2017 21:43:59 +0200
+7ffcccf98a5443cba0268ca1e89c1e94fb2c81f9|Updated JS / form.jsp|Mon, 5 Jun 2017 19:03:05 +0200|Mon, 5 Jun 2017 19:03:05 +0200
+795d7a2342e32bf6693f2ba6b3a0ff2f0b7ab8d1|fixed #55 (2) - Added "back to the homepage" link when result has errors|Mon, 5 Jun 2017 06:35:03 +0200|Mon, 5 Jun 2017 06:35:03 +0200
+f2093af0098e9eeba4c18c587e5296b3251a74bb|CSS - Fixed .has-error .help-block|Mon, 5 Jun 2017 06:20:01 +0200|Mon, 5 Jun 2017 06:20:01 +0200
+f2e8aa6055a56971c4e0a326d4fb627f901177a1|IndexController - Fixed result.hasErrors()|Mon, 5 Jun 2017 06:13:31 +0200|Mon, 5 Jun 2017 06:13:31 +0200
+e2b3e8453248aebb2772246de9cb67e5bc1a8f17|fixed #55 - Added "back to the homepage" link|Mon, 5 Jun 2017 05:07:03 +0200|Mon, 5 Jun 2017 05:07:03 +0200
+c9a3c90b37e2fdd14cd8af2f2eb731a9a0661cf5|Updated css|Mon, 5 Jun 2017 03:14:54 +0200|Mon, 5 Jun 2017 03:14:54 +0200
+f4fa65fa2abd2140f1dfbd08424ec818fce77ac1|typo|Sun, 4 Jun 2017 19:23:56 +0200|Sun, 4 Jun 2017 19:23:56 +0200
+c802727ffb1de2cc4d77a506afac5942deef96d0|Merge branch #25|Sun, 4 Jun 2017 19:02:28 +0200|Sun, 4 Jun 2017 19:02:28 +0200
+0d04c2184f6559a0815da2b05aa58dbccee29008|updated i18n FR|Sun, 4 Jun 2017 18:59:47 +0200|Sun, 4 Jun 2017 18:59:47 +0200
+406831c26863059ba87f617bd3ef69cb26c11968|fixed CSS for <code>|Sun, 4 Jun 2017 18:33:53 +0200|Sun, 4 Jun 2017 18:33:53 +0200
+9d79978d5453e89e3fce68bab3957e2d30f76a93|updated i18n|Sun, 4 Jun 2017 17:55:27 +0200|Sun, 4 Jun 2017 17:55:27 +0200
+bed4cbe69ac0bf2f610e33a0d0112a7dc17aa6c2|Changed DEFAULT_FOREGROUND|Sun, 4 Jun 2017 17:49:02 +0200|Sun, 4 Jun 2017 17:49:02 +0200
+f836b4700a904c58cf7597091d9856ac54a5f0dc|fixed initial colors in results|Sun, 4 Jun 2017 17:48:19 +0200|Sun, 4 Jun 2017 17:48:19 +0200
+d520c00df1b598eff6131284f0b893c2843c56bd|Added unit tests|Sun, 4 Jun 2017 17:27:40 +0200|Sun, 4 Jun 2017 17:27:40 +0200
+b0d33084c36e931a89b102bdf9ba9dddf8e6e6d9|Added ColorConverter.colorFromStr() and ColorConverter.colorFromRgbStr()|Sun, 4 Jun 2017 17:14:23 +0200|Sun, 4 Jun 2017 17:14:23 +0200
+f8aa790d92d28b6a2ea31f36d09d39c4fbe7b478|ColorConverter.formatColorStr() - Allowed rgb format|Sun, 4 Jun 2017 15:22:27 +0200|Sun, 4 Jun 2017 15:22:27 +0200
+b0b27a6c79f3284aa863da0931a718df6d3293f6|#25 Javascript: allowed rgb format in isValidateColor()|Sat, 3 Jun 2017 13:53:18 +0200|Sun, 4 Jun 2017 13:31:17 +0200
+0d6e417820ebb5db5d228c7ef76a0321f66c7bd1|minor fix for ColorConverter.formatColorStr()|Sun, 4 Jun 2017 13:27:24 +0200|Sun, 4 Jun 2017 13:27:24 +0200
+13f3771912fc916ad190df9d31264bc6e9160c41|Moved formatColor() into ColorConverter class + added unit tests|Sat, 3 Jun 2017 15:19:33 +0200|Sat, 3 Jun 2017 15:20:01 +0200
+3815fbb8dbf68b545238951f653e4da96b5bf96a|typo|Sat, 3 Jun 2017 13:09:37 +0200|Sat, 3 Jun 2017 13:09:37 +0200
+86fca2093eae0ff5953dce50bac4bd015a5a7f02|webapp/(...)/ColorModel.java - a little refactored (2)|Sat, 3 Jun 2017 12:42:58 +0200|Sat, 3 Jun 2017 12:42:58 +0200
+8627b53bdf943f1735fb5085225f6ad290d7cdec|webapp/(...)/ColorModel.java - a little refactored|Sat, 3 Jun 2017 12:33:45 +0200|Sat, 3 Jun 2017 12:33:45 +0200
+2951fd43ca059e54013529200be07c879a18327a|Javascript - Replaced change*Sample() functions by changeColorSample()|Sat, 3 Jun 2017 12:07:24 +0200|Sat, 3 Jun 2017 12:07:24 +0200
+b49ffd0c7a264d15f3761a8ea53e671b5b7c0395|Fixed #53 - White space allowed around the color in the form|Sat, 3 Jun 2017 11:39:39 +0200|Sat, 3 Jun 2017 11:39:39 +0200
+4777ec8c4c2f2d0b874a4f484b99e43e4763f54f|Fixed #52 - contrast-finder.conf: added option for debugging|Fri, 2 Jun 2017 02:03:01 +0200|Fri, 2 Jun 2017 02:03:01 +0200
+8ea70858d5b2f3c8683fe1550843d7cd9e0de342|set version to 0.4.8-dev|Fri, 2 Jun 2017 00:05:07 +0200|Fri, 2 Jun 2017 00:05:07 +0200
+49cedc2dfeae376f15b10a01fc118111cc091d53|set version to 0.4.7|Thu, 1 Jun 2017 21:49:05 +0200|Thu, 1 Jun 2017 21:49:05 +0200
+3c8892375104b766fed3b86a783bfc10c7af46ca|Fixed #51 - Added a cookie to keep the user's choice on the algorithm to use|Thu, 1 Jun 2017 21:35:33 +0200|Thu, 1 Jun 2017 21:35:33 +0200
+e9d9a29e83792525c945be84c069981b8a14c7cf|#44 - Upgrade outdated dependencies: maven-dependency-plugin  3.0.1 instead of 3.0.0|Thu, 1 Jun 2017 20:40:28 +0200|Thu, 1 Jun 2017 20:40:28 +0200
+f7ea296d83243da49cc18f620ada4daca7405a77|fixed #50 - contrast-finder.conf file: added option to override the default algorithm|Wed, 31 May 2017 03:31:16 +0200|Wed, 31 May 2017 03:31:16 +0200
+1becd9b67b9b9bc5f2e4c5158d78404859a3d1ed|Added Sass Contrast Functions|Thu, 11 May 2017 09:51:07 +0200|Thu, 11 May 2017 09:51:07 +0200
+0c7c70dd5afc8cf403b839ae5a7855a27cc81711|fixed #44 - Upgrade outdated dependencies (2) : maven-war-plugin 3.1.0 instead of 3.0.0|Thu, 11 May 2017 00:04:49 +0200|Thu, 11 May 2017 00:04:49 +0200
+0a27abbd0948d9a10f179456d2ae5d860c920a48|typo|Thu, 27 Apr 2017 05:19:42 +0200|Thu, 27 Apr 2017 05:19:42 +0200
+60308bd4d37642ea7557134dee1dfd17aecf0c89|docker/pre-requisites - Added HEALTHCHECK instruction|Thu, 27 Apr 2017 05:00:37 +0200|Thu, 27 Apr 2017 05:00:37 +0200
+e16f4d2518de99c9353aa5619fab8edba72857b9|Update Other-contrast-tools.md|Mon, 24 Apr 2017 14:13:40 +0200|Mon, 24 Apr 2017 14:13:40 +0200
+fdd108ce35c22a9d886cc3f03549262594106e35|typo + Updated the "Code of Conduct" (version 1.4 instead of 1.3.0)|Sun, 23 Apr 2017 07:11:31 +0200|Sun, 23 Apr 2017 07:11:31 +0200
+d0e25b10e996a81115ee81d2f1b6fa5eab8154e6|fixed #12 - Added documentation for releasing a new version|Sat, 22 Apr 2017 19:44:08 +0200|Sat, 22 Apr 2017 19:44:08 +0200
+0474088e3e4f0c1abf2699d0486794120edc8310|Updated documentation|Sat, 22 Apr 2017 19:23:03 +0200|Sat, 22 Apr 2017 19:23:03 +0200
+072aabfa1836381a12a2ba7e08dfc373a6bdf4c4|Fixed #47 - Added prerequisites for maven (version 3.1)|Sat, 22 Apr 2017 19:17:35 +0200|Sat, 22 Apr 2017 19:17:35 +0200
+db149bd7416758a427bbacf3e103d0f830bf813f|Fixed #42 - Javadoc warnings|Sat, 22 Apr 2017 18:01:18 +0200|Sat, 22 Apr 2017 18:01:18 +0200
+42a1288ab2d4ab744e2e46f48c2dec35cbca4569|fixed #46 -  maven WARNING - pom.xml : 'version' contains an expression but should be a constant|Sat, 22 Apr 2017 15:12:23 +0200|Sat, 22 Apr 2017 15:12:23 +0200
+3c0278ed4786e545fa55dec07fb2134c46d3e2fa|fixed #44 - Upgrade outdated dependencies|Sat, 22 Apr 2017 14:15:45 +0200|Sat, 22 Apr 2017 14:15:45 +0200
+a3a648194cbab75ad48f4da30b68368cbc5eb043|fixed docker/pre-requisites|Thu, 13 Apr 2017 02:07:55 +0200|Thu, 13 Apr 2017 02:07:55 +0200
+7303a5dc704674d122634d9f5642a2ffdd7d1526|set version to 0.4.7-dev|Thu, 13 Apr 2017 02:04:14 +0200|Thu, 13 Apr 2017 02:04:14 +0200
+d198ca5f2561312d0ee4841f7565a9a5267cd145|set version to 0.4.6|Thu, 13 Apr 2017 01:37:08 +0200|Thu, 13 Apr 2017 01:37:08 +0200
+25e762b9ac27903092c84441c86308e4cdc700b4|fix Piwik (v2)|Thu, 13 Apr 2017 01:11:22 +0200|Thu, 13 Apr 2017 01:11:22 +0200
+fd5a69bcced36bfd4ebef75e0aa99d5d2d0a5591|updated documentation (typo)|Thu, 13 Apr 2017 00:26:23 +0200|Thu, 13 Apr 2017 00:26:23 +0200
+f3bc5f8feece3f90bdabb29e3990204be7b2182d|Updated Docker/pre-requisites + install documentation|Wed, 12 Apr 2017 23:36:25 +0200|Wed, 12 Apr 2017 23:36:25 +0200
+a3dcfba30c2b5e39b08a4b1ab593abd76943592e|fixed #43 - the contrast-finder.conf file is not required|Wed, 12 Apr 2017 23:03:01 +0200|Wed, 12 Apr 2017 23:03:01 +0200
+93bbb0a27380042e0ee31445ebfa31a84fc8a631|updated */pom.xml|Mon, 10 Apr 2017 04:52:42 +0200|Mon, 10 Apr 2017 04:52:42 +0200
+ebf17d10d78e12d960d860b767dc551ca4ae58e5|Updated Dockerfile: added "LABEL org.label-schema.*"|Mon, 10 Apr 2017 04:36:26 +0200|Mon, 10 Apr 2017 04:36:26 +0200
+d483d146253fe342a2d54768e3c23cd6301133d3|Updated DOC and pom.xml files for JavaDocs and OWASP Dependency-Check|Mon, 10 Apr 2017 04:32:03 +0200|Mon, 10 Apr 2017 04:32:03 +0200
+8dbf36ee8208c405de8b8e74bc418fad1e9475b3|updated */pom.xml (added <license>, <url> and <organization>)|Mon, 10 Apr 2017 04:28:47 +0200|Mon, 10 Apr 2017 04:28:47 +0200
+3d57326f1648bdf6c19b7842c59416b96d4c54c8|Fixed #41 - Updated of outdated dependencies|Sun, 9 Apr 2017 18:17:20 +0200|Sun, 9 Apr 2017 18:17:20 +0200
+a28be4fc516cb985041128e54426f89c24b03e1d|fixed #40 - webapp - removed jQuery UI (unused)|Sun, 9 Apr 2017 17:55:16 +0200|Sun, 9 Apr 2017 17:55:16 +0200
+56af693c7bdd574fec7e487e0744167e536e8b6f|Documentation: refactor "Howto build & install"|Sun, 9 Apr 2017 17:28:31 +0200|Sun, 9 Apr 2017 17:28:31 +0200
+169c027af99c856e971d2be6540a06463998133b|fixed #38, fixed #39 - Upgraded maven plugins (compiler/surefire) and source/target of the Java compiler|Wed, 5 Apr 2017 01:52:18 +0200|Wed, 5 Apr 2017 01:52:18 +0200
+95a010eab11da13b4c9df0c82d370dee0f2b4367|fixed #37 - Added maven-javadoc-plugin|Wed, 5 Apr 2017 00:38:30 +0200|Wed, 5 Apr 2017 00:38:30 +0200
+5d9c1a35e9285090953a37eb6e8249519cda561d|fixed #36 - Added the maven plugin "OWASP Dependency-Check"|Tue, 4 Apr 2017 23:23:09 +0200|Tue, 4 Apr 2017 23:23:09 +0200
+086baa67ca2a827b649aa3ffb39fb2ef1ff35a2d|fix Piwik code|Tue, 4 Apr 2017 20:42:17 +0200|Tue, 4 Apr 2017 20:42:17 +0200
+985d61b51bc124ff67c89e24144d0958819cc2ce|webapp: added HTTP security headers (properly fixed #35)|Sat, 1 Apr 2017 20:29:21 +0200|Sat, 1 Apr 2017 20:29:21 +0200
+134f12f1b6279dadfe89fb47d563fbabf3585976|set version to 0.4.6-dev|Thu, 30 Mar 2017 00:04:37 +0200|Thu, 30 Mar 2017 00:04:37 +0200
+d1b3a1044306af463b090860370dd7ada3a56004|set version to 0.4.5|Wed, 29 Mar 2017 23:45:35 +0200|Wed, 29 Mar 2017 23:45:35 +0200
+f261f8fd7a1407efff3986ad4faa1438fbc70379|fixed CHANGELOG|Wed, 29 Mar 2017 23:41:05 +0200|Wed, 29 Mar 2017 23:41:05 +0200
+a71317e1c621b6de478e569f3e6bf6cc7abe85e4|webapp LOG: fixed  daily rollover|Wed, 29 Mar 2017 23:34:54 +0200|Wed, 29 Mar 2017 23:34:54 +0200
+b7a8361b02facfb75b54f357f44adeeff0d99f76|update CHANGELOG|Wed, 29 Mar 2017 23:30:19 +0200|Wed, 29 Mar 2017 23:30:19 +0200
+fb011419730e10db71773df003fd199d3b3635c5|fixed #34 HTML errors|Wed, 29 Mar 2017 23:14:51 +0200|Wed, 29 Mar 2017 23:14:51 +0200
+8ce04c2edae44083cf138c1d2b1695c9c207e89e|typo|Wed, 29 Mar 2017 22:32:18 +0200|Wed, 29 Mar 2017 22:32:18 +0200
+b3eb5f8ff51e1ea27de1f72f538f085bce736c7b|delete unused file|Wed, 29 Mar 2017 21:12:34 +0200|Wed, 29 Mar 2017 21:12:34 +0200
+e6f91194d2fee3c05bf59aeda4ca691313abe61e|webapp - Updated *.xml: Delete *.xsd if not used (2/2)|Sun, 19 Mar 2017 22:00:52 +0100|Sun, 19 Mar 2017 22:00:52 +0100
+5eb1de42db346c53b88b01b2e6241097ada9bf79|Updated CHANGELOG|Sun, 19 Mar 2017 21:16:27 +0100|Sun, 19 Mar 2017 21:16:27 +0100
+c3e349aba6011880fa58b6dcf295e139928d0a31|webapp - Updated *.xml: Delete *.xsd if not used|Sun, 19 Mar 2017 21:07:48 +0100|Sun, 19 Mar 2017 21:07:48 +0100
+025032b8c78a40e149a78dc869eff7adfb2118b7|Fixed #31 - Revert "webapp: added HTTP security headers (fixed #23)"|Sun, 19 Mar 2017 20:57:22 +0100|Sun, 19 Mar 2017 20:57:22 +0100
+3eefce42c43be1945881416417de5479c3876d72|webapp - Updated *.xml (spring-*-4.3.xsd instead of spring-*-2.5.xsd)|Sun, 19 Mar 2017 19:29:11 +0100|Sun, 19 Mar 2017 19:29:11 +0100
+2d24336631cef931c13e459b9f9703fedcf82061|contrast-finder-webapp : fixed Logback configuration|Sun, 19 Mar 2017 19:17:00 +0100|Sun, 19 Mar 2017 19:17:00 +0100
+2958ac80e6da885bc3e63cca74958a2d9674dbf4|updated .gitignore|Sun, 19 Mar 2017 17:26:38 +0100|Sun, 19 Mar 2017 17:26:38 +0100
+04905d865f0c862567431fa593d11fd45f70878a|Updated CHANGELOG|Sun, 19 Mar 2017 16:49:59 +0100|Sun, 19 Mar 2017 16:49:59 +0100
+b5a98af95c00a3d46f8461541db21b919c3c137c|fixed #33 - Merge branch 'spring-version' into develop|Sun, 19 Mar 2017 15:53:18 +0100|Sun, 19 Mar 2017 15:53:18 +0100
+f0d4c0ee51fa12e9315347f3725e357a2c1e09f6|contrast-finder-webapp: updated pom.xml|Sun, 19 Mar 2017 15:49:12 +0100|Sun, 19 Mar 2017 15:49:12 +0100
+75bb156803141c8622a8b0281524a0e3a12391cf|contrast-finder-webapp: upgraded springframework.security (4.2.2 instead of 4.2.1)|Sun, 19 Mar 2017 15:41:09 +0100|Sun, 19 Mar 2017 15:41:09 +0100
+5ab04ff37baf0d8ff8ed6773cf48af5dabae3dca|contrast-finder-webapp: upgraded springframework (4.3.7 instead of 4.3.6)|Sun, 19 Mar 2017 15:33:59 +0100|Sun, 19 Mar 2017 15:33:59 +0100
+0029a436e8f371fece2f186975a17b845bc6e197|fixed #32 - Merge branch 'log_dependency_logback' into develop|Sun, 19 Mar 2017 15:16:47 +0100|Sun, 19 Mar 2017 15:16:47 +0100
+13edda4bc8eb2fbb52357bacafac21693c0a8c67|contrast-finder-webapp : updated Logback configuration|Sun, 19 Mar 2017 15:11:29 +0100|Sun, 19 Mar 2017 15:11:29 +0100
+d85b40b20cffba2c90a99211400b3f34fca8f468|fix DockerFile|Sun, 19 Mar 2017 13:59:42 +0100|Sun, 19 Mar 2017 13:59:42 +0100
+08c5739250231a7dd92df4cdce6272d6bc2a28fe|contrast-finder-webapp : added Logback configuration|Sun, 19 Mar 2017 13:56:03 +0100|Sun, 19 Mar 2017 13:56:03 +0100
+096373589bd8b77c5881a71d54325d9c6e2b4433|contrast-finder-hsv/src/test/ : added Logback configuration|Sat, 18 Mar 2017 08:45:19 +0100|Sat, 18 Mar 2017 08:45:19 +0100
+a6e6461113057fba6b3abb620a57be389af1ca06|Changed LOG dependency (logback + slf4j instead of log4j)|Thu, 16 Mar 2017 02:29:36 +0100|Thu, 16 Mar 2017 02:29:36 +0100
+5e53cf06c61d5c7c6221ac7e0004917c2aa5d938|DOC - Updated "Other contrast tools" (typo)|Wed, 15 Mar 2017 19:25:50 +0100|Wed, 15 Mar 2017 19:25:50 +0100
+38b12cb14021d1bf39ff0529451cf8ca3ef62c4e|DOC - Updated "Other contrast tools"|Wed, 15 Mar 2017 19:18:10 +0100|Wed, 15 Mar 2017 19:18:10 +0100
+cf5ff967a29b47be4d20bfac1d366f822e5889e0|Updated contrast-finder_fr.properties (small fix)|Wed, 15 Mar 2017 18:16:12 +0100|Wed, 15 Mar 2017 18:16:12 +0100
+29f0e07b5e9ee0edbf9439492f9f5a0dd4489e70|typo|Sun, 19 Feb 2017 01:16:54 +0100|Sun, 19 Feb 2017 01:16:54 +0100
+b902ae6fe4b76f5d0c1d1ef02a5ae1879e188f54|fixed #30 - i18n - punctuation errors in english|Sun, 19 Feb 2017 00:58:44 +0100|Sun, 19 Feb 2017 00:58:44 +0100
+09a2f736319c9992e2f00828585d101ac67f02f1|fixed #29 webApp - lang-switcher: error on the lang attribute|Sun, 19 Feb 2017 00:47:05 +0100|Sun, 19 Feb 2017 00:47:05 +0100
+f2cb531ae21ce5e2fd59833641214af40eb0ce69|.jsp - added appVersion|Sat, 18 Feb 2017 23:55:38 +0100|Sat, 18 Feb 2017 23:55:38 +0100
+35bb66bb92ca3164d18c1424cee4f68c0c55cf37|.jsp - added comments|Tue, 14 Feb 2017 03:08:45 +0100|Tue, 14 Feb 2017 03:08:45 +0100
+012a9b0bc69cb02d7ee66305f70bf9d513ca452e|set version to 0.4.5-dev|Sun, 12 Feb 2017 05:50:50 +0100|Sun, 12 Feb 2017 05:50:50 +0100
+26aa8e440c02bbafa1f1ce6c747f7bd0246d6d9c|set version to 0.4.4|Sun, 12 Feb 2017 05:30:41 +0100|Sun, 12 Feb 2017 05:30:41 +0100
+9e54aecd0d3736cee5b729185ee41bfbadf9beec|fixed #28 - Color contrast falling for links (:hover, :focus)|Sun, 12 Feb 2017 05:20:42 +0100|Sun, 12 Feb 2017 05:20:42 +0100
+7240a98a6b3e2a27fd4bec3c5129086aee000297|compile_and_build_docker_image.sh : added option to skip unit tests|Sat, 11 Feb 2017 23:21:14 +0100|Sat, 11 Feb 2017 23:21:14 +0100
+910d602510f676799d9a018506dc983b520bb764|updated changelog|Sat, 11 Feb 2017 22:42:29 +0100|Sat, 11 Feb 2017 22:42:29 +0100
+0d193c530304d754e1131ce6035940d6dedd5440|compile_and_build_docker_image.sh : added --build-only-* options|Sat, 11 Feb 2017 22:17:18 +0100|Sat, 11 Feb 2017 22:17:18 +0100
+6bb5b3015fc664c14c0e5f3adcab47bcd93281aa|updated other-contrast-tools.md|Sun, 5 Feb 2017 18:01:03 +0100|Sun, 5 Feb 2017 18:01:03 +0100
+1faf6560ca03cdc5453a8be040fce18055459f27|typo|Thu, 2 Feb 2017 02:26:18 +0100|Thu, 2 Feb 2017 02:26:18 +0100
+4fe670e54d811d8d50e352c6c172422b3b4aea01|.jsp - added comments|Thu, 2 Feb 2017 01:20:22 +0100|Thu, 2 Feb 2017 01:29:29 +0100
+5eb36bfeead73206ae1bb3212215e8905daa46f1|fix "refactor package names color.finder --> contrastFinder"|Thu, 2 Feb 2017 01:06:40 +0100|Thu, 2 Feb 2017 01:06:40 +0100
+05f35f60472e4e734a268baa6b27de2c8b4b4c67|refactor package names color.finder --> contrastFinder|Sun, 8 Jan 2017 18:33:15 +0100|Wed, 1 Feb 2017 23:58:17 +0100
+bf1e67c93b9b734caa8078001b999a1fee6ebe0f|removed highRatio stuff|Sun, 8 Jan 2017 18:18:42 +0100|Wed, 1 Feb 2017 23:58:14 +0100
+bb27fa67c997b78688a64e8daf97192a7a79e276|added Javadoc|Sun, 8 Jan 2017 18:15:55 +0100|Wed, 1 Feb 2017 23:58:08 +0100
+822f3471324695c0198bf969e6a221464b5a69cc|enhance i18n|Sun, 8 Jan 2017 15:16:26 +0100|Wed, 1 Feb 2017 23:57:28 +0100
+ab7193e55bce38784ccf1cde910781f20faf97af|DOC explained ratio|Sun, 8 Jan 2017 11:45:50 +0100|Wed, 1 Feb 2017 23:57:21 +0100
+8d756add21928952c440be74f6d93b50339fed99|added .editorconfig|Sun, 29 Jan 2017 06:18:19 +0100|Sun, 29 Jan 2017 06:18:19 +0100
+24aad401bce40d5afd51c3a40da16ed516758b75|webapp: added HTTP security headers (fixed #23)|Sun, 29 Jan 2017 05:37:16 +0100|Sun, 29 Jan 2017 05:41:12 +0100
+d56942b90af6faa1d14074636e884566d7d9d1ca|updated CHANGELOG|Sun, 29 Jan 2017 05:10:04 +0100|Sun, 29 Jan 2017 05:41:12 +0100
+1fb1702a41fb378cb942825c192fbff265e4b414|fixed #21 : added space between sampleText and sampleTextBold|Sun, 29 Jan 2017 04:43:38 +0100|Sun, 29 Jan 2017 05:41:12 +0100
+ef358725bea5aa9a8f92a9813f7d0e33c2cb7480|Upgraded SpringFramework to v4.3.6 (fixed #22)|Sun, 29 Jan 2017 04:41:19 +0100|Sun, 29 Jan 2017 05:40:30 +0100
+e0edfcb76e3191aab11ff7ef73f12af70aa56a13|webapp: updated lang switcher|Sun, 29 Jan 2017 00:09:28 +0100|Sun, 29 Jan 2017 00:09:28 +0100
+3dc1fca58d152c7df51c810a56f3c545dc885ab8|webapp: removed "Fork me on GitHub"|Sat, 28 Jan 2017 22:49:42 +0100|Sun, 29 Jan 2017 00:08:42 +0100
+ee8bd588d9b529a92fa5dc253bd9d0115500eb33|webapp - Lang cookie: added cookieMaxAge (2 months)|Sat, 28 Jan 2017 22:41:32 +0100|Sat, 28 Jan 2017 22:41:32 +0100
+33832d74a0ca4d9c70cf658e6af65953d9615445|typo|Sat, 28 Jan 2017 21:08:27 +0100|Sat, 28 Jan 2017 21:08:27 +0100
+b0f6f8127411bb52e7b7ea848899445d4fc08380|fixed #19|Thu, 26 Jan 2017 23:14:37 +0100|Thu, 26 Jan 2017 23:14:37 +0100
+f8601709ebffe43e4d3c42be2f22d4b8d65648f3|CHANGELOG : added missing entry for 0.4.3|Thu, 26 Jan 2017 23:03:15 +0100|Thu, 26 Jan 2017 23:03:15 +0100
+51205191a88c0b1fdc04c4ec3f0c251eadc45d90|set version to 0.4.4-dev|Wed, 25 Jan 2017 04:46:28 +0100|Wed, 25 Jan 2017 04:46:28 +0100
+aa1698feacf191ad5cb72eef8a99d781868b7281|set version to 0.4.3|Wed, 25 Jan 2017 04:28:21 +0100|Wed, 25 Jan 2017 04:35:46 +0100
+fb78390629635d65a82f7df812eac17197ff3fc5|typo|Wed, 25 Jan 2017 04:21:42 +0100|Wed, 25 Jan 2017 04:35:46 +0100
+e3118783b8407fd53a878784f3e559d71a3ac0a1|webapp - updated web.xml|Wed, 25 Jan 2017 03:08:06 +0100|Wed, 25 Jan 2017 03:08:06 +0100
+7a52c9ff1cd4bbf4123132ad83f3bc54b85a6598|Updated CHANGELOG|Wed, 18 Jan 2017 00:50:00 +0100|Wed, 18 Jan 2017 00:50:00 +0100
+a67a582f446abdce359739e86baf98a26fa1e767|Updated docker/RELEASE/README.md|Tue, 17 Jan 2017 23:18:41 +0100|Tue, 17 Jan 2017 23:18:41 +0100
+da0804a922392c362762ce55b47fb77c95d7e4c1|DOC - Updated "Other contrast tools"|Tue, 17 Jan 2017 21:19:35 +0100|Tue, 17 Jan 2017 21:19:35 +0100
+5569b72e760110f8a3f1b08358339b349dae8d2d|see #17 - Revert "Webapp - Used input tag type=color instead off type=text (fixed #2)"|Tue, 17 Jan 2017 21:06:20 +0100|Tue, 17 Jan 2017 21:06:20 +0100
+f31f4eded7a08c8916decfa6230363a3b9c819cf|Docker typo + test README|Sun, 15 Jan 2017 23:28:41 +0100|Sun, 15 Jan 2017 23:28:41 +0100
+2c0bb07114461df291d30d89193a0293167b70fb|Updated .gitignore|Sun, 15 Jan 2017 20:51:07 +0100|Sun, 15 Jan 2017 20:51:07 +0100
+2ea3b09307bdb863ae3a14cc57aa7936deb191ef|Docker: typo|Sun, 15 Jan 2017 20:47:12 +0100|Sun, 15 Jan 2017 20:47:12 +0100
+82bff0c7698d895287883b7364fe2af96cc886cd|Webapp - Updated favicon|Sun, 15 Jan 2017 20:20:13 +0100|Sun, 15 Jan 2017 20:20:13 +0100
+fc495802c0582d9b1d596bbf5447052db9faba46|Webapp - Loaded Piwik after the Onload event|Sun, 15 Jan 2017 12:42:30 +0100|Sun, 15 Jan 2017 12:42:30 +0100
+051e629bef7f038ce54d538e64200f7eca0f9e93|Webapp - Cleaned up loading javascript files|Sun, 15 Jan 2017 11:16:20 +0100|Sun, 15 Jan 2017 11:16:20 +0100
+f9bbe3d91f8716c0a1b35276c2e8e71d536d2e59|Webapp - Fixed HTML: bad value "Shortcut Icon" for attribute rel on element link|Sun, 15 Jan 2017 07:00:13 +0100|Sun, 15 Jan 2017 07:00:13 +0100
+804223eda84db2489aaa6a5b0e268e6c299bce13|Wepapp - Upgraded yuicompressor-maven-plugin|Sun, 15 Jan 2017 06:32:34 +0100|Sun, 15 Jan 2017 06:41:32 +0100
+aa6f361072c0f914139bb6b8558d5c680b154490|Webapp - Concatenation of js/css files|Sun, 15 Jan 2017 06:31:53 +0100|Sun, 15 Jan 2017 06:41:20 +0100
+b2ae6af67b6279a29051af94e99315b27c613955|Webapp - Fixed paths to JS files|Sun, 15 Jan 2017 06:17:52 +0100|Sun, 15 Jan 2017 06:40:53 +0100
+89c1dceef7c9138bd61fc640454fe704efca314e|Webapp - Renamed JS and CSS files|Sun, 15 Jan 2017 06:08:50 +0100|Sun, 15 Jan 2017 06:40:40 +0100
+fffbee25718915cbc8c0f728878e762b03d47fa9|i18n - English spelling correction: very closed -> very close|Sun, 15 Jan 2017 03:58:38 +0100|Sun, 15 Jan 2017 03:58:52 +0100
+3469f9788610b07d315b8dcf569df7447f48bb1e|set version to 0.4.3-dev|Sun, 15 Jan 2017 02:58:07 +0100|Sun, 15 Jan 2017 02:58:07 +0100
+c7cb5859fe9c9826064607b6d7713eac7f76c793|set version to 0.4.2|Sun, 15 Jan 2017 02:40:10 +0100|Sun, 15 Jan 2017 02:40:10 +0100
+99ba91a1842e807f1901ed7115668033dbe7134f|Updated CHANGELOG|Sun, 15 Jan 2017 02:32:38 +0100|Sun, 15 Jan 2017 02:32:38 +0100
+59a2aca4b8dae85960cf78433ec2e956de3cc80f|Merge branch 'upgrading-dependencies' into develop|Sun, 15 Jan 2017 02:20:38 +0100|Sun, 15 Jan 2017 02:20:38 +0100
+ded2ad3414bba0d98da84bd385907372c1504146|Fixed #16 - Changed JSTL artifact (jstl:jstl -> org.apache.taglibs:taglibs-standard-jstlel)|Sun, 15 Jan 2017 02:11:45 +0100|Sun, 15 Jan 2017 02:11:45 +0100
+7255f737aa1788b6e554f85c780410265de54542|Fixed #15 - Removed commons-httpclient dependency|Sat, 14 Jan 2017 23:09:23 +0100|Sat, 14 Jan 2017 23:11:39 +0100
+2990623b857cd5f82beb4a2d0a96ffad5b77b0f1|Fixed #14 - Upgraded SpringFrameworkt to v3.2.12 and remove spring-asm|Sat, 14 Jan 2017 22:52:24 +0100|Sat, 14 Jan 2017 23:11:30 +0100
+0b692136cf1df2442d23f4d291db15f4e2883187|Fixed #13 - Upgraded Apache.HttpComponents HttpClient to v4.3.6|Sat, 14 Jan 2017 22:20:14 +0100|Sat, 14 Jan 2017 23:11:14 +0100
+ab16a71b6cf665f725c6e76f150041d051916e5d|updated CONTRIBUTING.md|Sat, 14 Jan 2017 19:09:24 +0100|Sat, 14 Jan 2017 19:09:24 +0100
+0b24ec28ad3f2341814d0e88a512526982d78226|fixed #11 - color contrast falling for links|Sat, 14 Jan 2017 18:18:46 +0100|Sat, 14 Jan 2017 18:18:46 +0100
+781ae9bba4a58f0ca890bb4a24742b60fd2f10ee|fixed #10 - color contrast failing for "the color should be between (...)"|Sat, 14 Jan 2017 18:05:12 +0100|Sat, 14 Jan 2017 18:05:12 +0100
+d053520ac94771a35504db595c3cc4ac73ddb8e6|Dockerfile : typo|Thu, 12 Jan 2017 23:13:30 +0100|Thu, 12 Jan 2017 23:19:05 +0100
+769c3606905b408aa45648afa22f286c71844788|set version to 0.4.2-dev|Thu, 12 Jan 2017 23:18:58 +0100|Thu, 12 Jan 2017 23:18:58 +0100
+fc235e57db0d5c43815189c5b5393e2d0759033f|set version to 0.4.1|Thu, 12 Jan 2017 22:28:13 +0100|Thu, 12 Jan 2017 22:43:38 +0100
+60eee24a85946d2e0f2a762512b4599c47194fa4|Updated RELEASE/Dockerfile|Thu, 12 Jan 2017 22:41:39 +0100|Thu, 12 Jan 2017 22:41:39 +0100
+7620e911864dcb2384101380c2d64d38cfa87209|typo|Thu, 12 Jan 2017 22:02:11 +0100|Thu, 12 Jan 2017 22:02:11 +0100
+15923edb0ba1fab223e640891adab2cac88e0245|Added useHttpOnly flag for session ID (fixed #9)|Thu, 12 Jan 2017 01:02:10 +0100|Thu, 12 Jan 2017 01:02:10 +0100
+4b9dc7cdd6e1152d1d76e46a8970892c0976292b|typo Tomcat/Dockerfile|Mon, 9 Jan 2017 01:35:44 +0100|Mon, 9 Jan 2017 01:35:44 +0100
+5cc6900307bce4219f8a58278b4b3aec65dbc36e|Docker image based on Tomcat7 image OK|Sun, 8 Jan 2017 10:36:22 +0100|Mon, 9 Jan 2017 00:21:45 +0100
+f0aeeb17cffe56d3818012f098141c7175f8cbda|Enhanced docker image based on Tomcat7 (still WIP)|Sat, 7 Jan 2017 21:32:12 +0100|Mon, 9 Jan 2017 00:21:39 +0100
+50c063d2941dd1946029224fdfe94403b8249dbd|Dockerfile FROM tomcat:8.0-jre7 : not working (WIP)|Wed, 21 Dec 2016 04:46:16 +0100|Mon, 9 Jan 2017 00:21:30 +0100
+e61167b064d74a30b74f11be71e0714ac7693823|Fixed edge cases on tests|Sat, 7 Jan 2017 21:31:27 +0100|Mon, 9 Jan 2017 00:12:45 +0100
+37dd987d664609c0c75a878668666a33a091e8a4|typo|Thu, 5 Jan 2017 23:24:43 +0100|Thu, 5 Jan 2017 23:24:43 +0100
+fdc2049a0c3285c98661c148ccef4d83eacb9d63|Webapp - Used input tag type=color instead off type=text (fixed #2)|Thu, 5 Jan 2017 21:34:37 +0100|Thu, 5 Jan 2017 21:34:37 +0100
+e1b3798e72dbdff1a0dcbef293bcc353901f0919|typo|Thu, 5 Jan 2017 07:53:36 +0100|Thu, 5 Jan 2017 07:53:36 +0100
+294121eb27b6d00eaa78038961352e2f3c83858d|Updated docker/SNAPSHOT-local*|Mon, 2 Jan 2017 03:05:26 +0100|Mon, 2 Jan 2017 03:05:26 +0100
+651fca9ff682c83de5f5c965e5070eca0d66d1cd|updated .gitignore|Mon, 2 Jan 2017 02:51:39 +0100|Mon, 2 Jan 2017 02:51:39 +0100
+0e4f2a8e7a3b9d493b51fde3eec651e4d8f68166|fixed descriptor.xml|Mon, 2 Jan 2017 02:38:22 +0100|Mon, 2 Jan 2017 02:38:22 +0100
+399083461806c0fe51864b5f549e37da333a446e|added descriptor.xml (building tar.gz with maven)|Mon, 2 Jan 2017 02:21:42 +0100|Mon, 2 Jan 2017 02:21:42 +0100
+f1d83a047ce563246cd26ae02ddce6bfe9a1dfd7|refactor packaging|Mon, 2 Jan 2017 01:47:03 +0100|Mon, 2 Jan 2017 01:47:28 +0100
+59f6cd01bb722a9802a18703c66c7d4d0a75d33e|set version to 0.4.1-dev|Sat, 31 Dec 2016 00:32:12 +0100|Sat, 31 Dec 2016 00:32:12 +0100
+93d02d736e55d795d97d59287c8667d038b45229|set version to 0.4.0|Fri, 30 Dec 2016 23:54:31 +0100|Fri, 30 Dec 2016 23:54:31 +0100
+74fe81dd0903f6fd2db0c69ca8276078368f8027|updated footer and title|Fri, 30 Dec 2016 23:35:15 +0100|Fri, 30 Dec 2016 23:35:15 +0100
+5e32f26285bbbfa0f0066ee1949e64288450565d|updated CHANGELOG|Fri, 30 Dec 2016 21:06:45 +0100|Fri, 30 Dec 2016 21:06:45 +0100
+0c2ae14ee064f1a59b63a48add5c47317b39926d|Docker - Added RELEASE/Dockerfile|Fri, 30 Dec 2016 21:06:22 +0100|Fri, 30 Dec 2016 21:06:22 +0100
+9e279a60637e12d0753c9e622ddb726eb21a6f11|Docker - Added SNAPSHOT-local_from-Ubuntu/Dockerfile|Fri, 30 Dec 2016 20:42:51 +0100|Fri, 30 Dec 2016 20:42:51 +0100
+13bfc26565faf402236ed28b89d00969591cfe63|Docker - Updated pre-requisites_from-Ubuntu/Dockerfile|Tue, 27 Dec 2016 04:00:50 +0100|Tue, 27 Dec 2016 04:00:50 +0100
+1f2cf065a0fb85cb05f3f85128ed2033da944247|Docker - Added pre-requisites_from-Ubuntu/Dockerfile|Tue, 27 Dec 2016 03:16:08 +0100|Tue, 27 Dec 2016 03:16:08 +0100
+0c6a301cf8763d9b30e72baa8fedd36f15a9fb5f|typo + .gitignore|Fri, 23 Dec 2016 03:21:48 +0100|Fri, 23 Dec 2016 03:21:48 +0100
+bebf8629cfc71646af6661af067641beca5ba337|added docker/compile_and_build_docker_image.sh|Tue, 20 Dec 2016 00:21:32 +0100|Wed, 21 Dec 2016 04:29:10 +0100
+d8d1963d2e7a496a2bd247eb0cbeb4ebf0121acc|*/src/ : updated mail adress|Wed, 21 Dec 2016 03:37:00 +0100|Wed, 21 Dec 2016 03:37:00 +0100
+cf3cc9ee14f54fbf4bd2fb916caf6485185eb932|typo|Wed, 21 Dec 2016 03:24:16 +0100|Wed, 21 Dec 2016 03:24:16 +0100
+d7e54806317601e53e3822d36fd9254de1923e14|Upgrade Apache Commons Collections to v3.2.2|Tue, 8 Mar 2016 16:21:04 -0700|Tue, 20 Dec 2016 18:38:02 +0100
+cf1928e34be4710fb0bb3d5835ba35d01e13e520|fixed "added english screenshot"|Mon, 19 Dec 2016 23:10:31 +0100|Mon, 19 Dec 2016 23:10:31 +0100
+78ba3bd3644f791e7a5fba69d42971d83ff2cc83|added english screenshot|Mon, 19 Dec 2016 22:54:54 +0100|Mon, 19 Dec 2016 22:54:54 +0100
+2d951969f4b8dea59518c4456ac2b89798f1ad63|fixed "README : added screenshot + typo"|Mon, 19 Dec 2016 22:34:23 +0100|Mon, 19 Dec 2016 22:34:23 +0100
+e7b336f776d2d56c20a6b9ea62728b64f2939fb8|README : added screenshot + typo|Mon, 19 Dec 2016 22:31:26 +0100|Mon, 19 Dec 2016 22:31:26 +0100
+c443401c8674bcd7d15a3ae9293a4644c4a41ec9|DOC - How to use : added screenshot + typo|Mon, 19 Dec 2016 22:15:13 +0100|Mon, 19 Dec 2016 22:15:13 +0100
+14aae9d98ce8e8b67cab089fb1a4f44e5edd8acd|Added CHANGELOG|Mon, 19 Dec 2016 21:27:00 +0100|Mon, 19 Dec 2016 21:27:00 +0100
+88040e3eb65cb4a174af109ea93e27a70a477803|set version to 0.3.6-dev|Mon, 19 Dec 2016 00:13:18 +0100|Mon, 19 Dec 2016 00:13:30 +0100
+6e3ae84d864772e95c7f9366e8d853a4ca01b2b4|set version to 0.3.5|Mon, 19 Dec 2016 00:09:15 +0100|Mon, 19 Dec 2016 00:09:50 +0100
+96f3b544b5f9daa34fad864f0bf71774a642daa5|HEADER Renamed Asqatasun Contrast-Finder --> Contrast-Finder|Sun, 18 Dec 2016 13:20:37 +0100|Sun, 18 Dec 2016 13:29:12 +0100
+7600bd81116c4f9c36c0694fafd89bfb5f3df52e|FOOTER updated piwik stats|Sun, 18 Dec 2016 13:13:08 +0100|Sun, 18 Dec 2016 13:29:02 +0100
+a783d26067514c31c42179f110ad0b15215950b1|Revamped footer|Sat, 17 Dec 2016 21:56:41 +0100|Sat, 17 Dec 2016 21:56:41 +0100
+1bce0b53de6761d6cdb356321c7713155757269b|Added locally JQuery & JQuery-UI|Sat, 17 Dec 2016 21:29:20 +0100|Sat, 17 Dec 2016 21:29:20 +0100
+417ffd7d1b3c6093dc30b1e535ae6b2b724b96c5|Removed mention to Firefox Extension|Sat, 17 Dec 2016 21:14:56 +0100|Sat, 17 Dec 2016 21:21:13 +0100
+268b5995684b7f481e9fa4c458ca7116522b9525|Enhanced TITLE tag|Sat, 17 Dec 2016 20:46:52 +0100|Sat, 17 Dec 2016 21:21:09 +0100
+c456889e2302eaad124773173aa148db35cc66f0|Fix #7|Sat, 17 Dec 2016 17:45:48 +0100|Sat, 17 Dec 2016 21:18:56 +0100
+2bb9ea5235d341afb85cc9e5d2f91e80a8b52432|Set version to 0.3.5-dev|Sat, 17 Dec 2016 21:02:35 +0100|Sat, 17 Dec 2016 21:17:54 +0100
+ec07cff5bff7df5b6f96119dfc01f8df88f845ac|DOC updated install doc|Wed, 7 Dec 2016 19:05:30 +0100|Sat, 17 Dec 2016 21:16:41 +0100
+b8ba7efaa37dd6849146a702766dd6a3c46fe239|Merge pull request #6 from Asqatasun/revert-1-upgrade-apache-commons-collections--by-osake|Fri, 16 Dec 2016 15:08:22 +0100|Fri, 16 Dec 2016 15:08:22 +0100
+79ea58500830c909dac768198c19161fea7f840f|Revert "Upgrade Apache Commons Collections to v3.2.2"|Fri, 16 Dec 2016 15:04:24 +0100|Fri, 16 Dec 2016 15:04:24 +0100
+98433561cf3ca33fbb314e329d954a547454e963|Merge pull request #1 from Asqatasun/upgrade-apache-commons-collections--by-osake|Fri, 16 Dec 2016 10:55:13 +0100|Fri, 16 Dec 2016 10:55:13 +0100
+a86fdcbfb846295e5daecd8efdd52f1c46190124|DOC - Other contrast tools : added https://colorable.jxnblk.com/|Sat, 19 Nov 2016 21:00:23 +0100|Sat, 19 Nov 2016 21:00:23 +0100
+ae4f7e0ea23bca66b22dc72159635572e13239a9|DOC - Other contrast tools : added hexnaw.com|Sat, 12 Nov 2016 09:09:12 +0100|Sat, 12 Nov 2016 09:09:12 +0100
+08f783ba4c84704710ec674ae80dc81f4c4c7a9f|README: added release badge|Thu, 10 Nov 2016 20:44:07 +0100|Thu, 10 Nov 2016 20:44:07 +0100
+e11d597770a2bdef01c5f9122381e0159af44637|DOC - Other contrast tools : added aremycoloursaccessible.com|Thu, 10 Nov 2016 20:31:30 +0100|Thu, 10 Nov 2016 20:31:30 +0100
+ceb87f934b99d171c25a8319b2b1c45006d8d4e8|DOC - Other contrast tools : added github URL for "brandwood.com/a11y/"|Wed, 21 Sep 2016 23:49:35 +0200|Wed, 21 Sep 2016 23:49:35 +0200
+38e67efd7b1a8ce809328872e1aa7d0f0751e5c9|DOC - Other contrast tools : added new tools "brandwood.com/a11y/"|Wed, 14 Sep 2016 05:01:38 +0200|Wed, 14 Sep 2016 05:01:38 +0200
+ed7398fa3ecf34eb0ed1e3c12fb3a584fee44016|DOC - Other contrast tools : added new tools "A11y Color Palette"|Sun, 11 Sep 2016 16:21:44 +0200|Sun, 11 Sep 2016 16:21:44 +0200
+1fb22b1e2497240d62e301c7c120086427a8865a|Upgrade Apache Commons Collections to v3.2.2|Tue, 8 Mar 2016 16:21:04 -0700|Sun, 4 Sep 2016 21:55:09 +0200
+084d1a5def109e05e3d7e5753a6734bb23c90cfa|DOC - Other contrast tools : added new tools + typo|Sun, 4 Sep 2016 21:53:08 +0200|Sun, 4 Sep 2016 21:53:08 +0200
+35745fe9aeeb3fb57ceba0d430d25d5e92bda55a|README : fixed documention link|Tue, 16 Aug 2016 23:09:35 +0200|Tue, 16 Aug 2016 23:09:35 +0200
+cbb9ade28a9cd6ef187b2a1f38b5a223d0c3b158|README : updated RGAA link (fixed #3)|Tue, 16 Aug 2016 22:12:48 +0200|Tue, 16 Aug 2016 22:12:48 +0200
+5121752bb06d8137247279c45b9de524194aa16a|DOC - Other contrast tools : added jxnblk.com/colorable/demos/matrix/|Tue, 16 Aug 2016 21:38:39 +0200|Tue, 16 Aug 2016 21:38:39 +0200
+d9551724afa986e0b4f390e3c7b908c37b2c6ba9|updated  .gitignore + DOC "Other contrast tools"|Sun, 24 Jul 2016 00:38:37 +0200|Sun, 24 Jul 2016 00:38:37 +0200
+7d1fbe83d7fe645cbed086381a083a43b73545a2|move docs/* into the documentation/ directory|Fri, 6 May 2016 20:15:57 +0200|Fri, 6 May 2016 20:15:57 +0200
+1fe3c113bd382fa6390db353ba977bf4a4cfecd6|DOC - Other contrast tools : add colorsafe.co|Fri, 6 May 2016 20:10:27 +0200|Fri, 6 May 2016 20:10:27 +0200
+a5a8c34533308828dc3621470a53837eaeb340b5|Github templates for Issue and PR: rephrased content|Fri, 15 Apr 2016 22:26:43 +0200|Fri, 15 Apr 2016 22:26:43 +0200
+fa4c3b8e3ebd05541fecd0a977da74b313177fd5|Added ISSUE_TEMPLATE + PULL_REQUEST_TEMPLATE|Sat, 9 Apr 2016 16:14:24 +0200|Sat, 9 Apr 2016 16:14:24 +0200
+6628a7e86172c12bfce03142181f909082111c00|update .gitignore|Fri, 8 Apr 2016 01:33:25 +0200|Fri, 8 Apr 2016 01:33:25 +0200
+117b6041cb672900d4f22a6ead583bade2d08898|update README : add build status|Thu, 7 Apr 2016 23:51:00 +0200|Thu, 7 Apr 2016 23:51:00 +0200
+911d293c91d57e4ed929dce0a85f21f734c550b8|update README : satisfying web accessibility tests on contrasts|Wed, 30 Dec 2015 00:18:36 +0100|Wed, 30 Dec 2015 00:18:36 +0100
+addac3b8db2be09b238764fe37fd2846affd666c|update /docs/en/README|Wed, 30 Dec 2015 00:06:23 +0100|Wed, 30 Dec 2015 00:06:23 +0100
+22c6707c94353fac0d531e237f66fdf8429ec4ff|update README|Tue, 29 Dec 2015 23:27:07 +0100|Tue, 29 Dec 2015 23:27:07 +0100
+4d0f4f8232d8182db914dde306c0f6bbb09361ac|docs/* move in docs/en/|Tue, 29 Dec 2015 23:17:50 +0100|Tue, 29 Dec 2015 23:17:50 +0100
+708bcbb794e3c0b6b58b9f22a506fc6dfae62785|add CONTRIBUTING.md|Tue, 29 Dec 2015 23:01:55 +0100|Tue, 29 Dec 2015 23:01:55 +0100
+878e9310e40b9888a0d7d474b93ed31838865827|add CODE_OF_CONDUCT.md|Tue, 29 Dec 2015 22:37:52 +0100|Tue, 29 Dec 2015 22:37:52 +0100
+1cb3c52d01474d4b71f3446cb689979959a184ab|add a new "other contrast tool"|Mon, 14 Dec 2015 00:05:45 +0100|Mon, 14 Dec 2015 00:05:45 +0100
+1ccdcf401d24714139cec3f0e0da624aa1818fb0|docs/ and docker/|Tue, 1 Dec 2015 01:18:03 +0100|Tue, 1 Dec 2015 01:18:03 +0100
+4f6d4daeb8c07681735d49c9e16834221b668c5b|Initial fork from Tanaguru/Contrast-Finder|Tue, 1 Dec 2015 00:35:12 +0100|Tue, 1 Dec 2015 00:35:12 +0100
+b662e63097c0e55809955bca3626c9d1e080b938|update pom files to remove reference to the old name color-finder|Thu, 19 Feb 2015 14:38:41 +0100|Thu, 19 Feb 2015 14:40:01 +0100
+1493d25d0b070feb733bedf36de1bb820670e94b|update travis badge link to point to master branch|Thu, 19 Feb 2015 14:30:35 +0100|Thu, 19 Feb 2015 14:30:35 +0100
+a66746b06942c64ff926979251ce14b47ef1ed51|add travis build status badge to README|Thu, 19 Feb 2015 14:29:13 +0100|Thu, 19 Feb 2015 14:29:45 +0100
+bf5e08ffe3ad37a69d71a82f78cedd94cab5bb43|add .travis.yml to specify build langague and java version|Thu, 19 Feb 2015 14:23:28 +0100|Thu, 19 Feb 2015 14:23:46 +0100
+f5ac99cb9b74c40b033b2fe96d4d79706a30907e|update warning foreground color to be conform with 7.1 ratio|Thu, 19 Feb 2015 14:13:21 +0100|Thu, 19 Feb 2015 14:14:04 +0100
+7f43f8948a5d03c52d6efcc5d9d7e14807900847|old reference correction|Wed, 11 Jun 2014 16:09:27 +0200|Wed, 11 Jun 2014 16:09:27 +0200
+52469c37208e81a5476f41707b75f34a268afac7|Merge branch 'master' of github.com:Tanaguru/Contrast-Finder|Wed, 11 Jun 2014 15:52:00 +0200|Wed, 11 Jun 2014 15:52:00 +0200
+469ece560090fb269ba2aa34baa29aa696381947|contrast finder 0.3.4|Wed, 11 Jun 2014 15:51:38 +0200|Wed, 11 Jun 2014 15:51:38 +0200
+3a7e6b881f794001b9031602e54bbcc87b92619b|Bumped version number to 0.3.4|Wed, 11 Jun 2014 15:43:28 +0200|Wed, 11 Jun 2014 15:43:28 +0200
+3cb413f678d8cdb7efac5903b509febb205ccbaf|Delete bump-version.sh|Thu, 22 May 2014 17:02:58 +0200|Thu, 22 May 2014 17:02:58 +0200
+54296679519a929b09e7262faff2141e75475722|web app pom correction|Thu, 22 May 2014 16:58:27 +0200|Thu, 22 May 2014 16:58:27 +0200
+6403d413f360613e0bf6035dcf3aac5785c62460|parent pom version correction|Thu, 22 May 2014 16:55:20 +0200|Thu, 22 May 2014 16:55:20 +0200
+4d1d3f662f32d8d5f37ae38d88a13b47b817aab2|new version 0.3.3|Thu, 22 May 2014 16:50:22 +0200|Thu, 22 May 2014 16:50:22 +0200
+66ce37602720929cc196fb08abb9242bf322cac9|Bumped version number to 0.3.3|Thu, 22 May 2014 16:46:44 +0200|Thu, 22 May 2014 16:46:44 +0200
+39b91b6d19722f8d0f6877fe9ba5e70b542ab450|parent artifactid correction|Thu, 22 May 2014 16:41:31 +0200|Thu, 22 May 2014 16:41:31 +0200
+694841098f997464dde443b8a6bbc8605010ca4d|add cf extension message, css correction|Thu, 22 May 2014 16:37:18 +0200|Thu, 22 May 2014 16:37:18 +0200
+cb995eb2322e041aa634a14b05d806e4e04dfdc0|add configuration for analytics and piwik|Thu, 22 May 2014 15:45:04 +0200|Thu, 22 May 2014 15:45:04 +0200
+0bf7bf2d1a9d6c7d0e7e7c5befa748e969fd8b7e|fixed wrong color contrast on Bootstrap .alert-warning & translated comments in english|Thu, 22 May 2014 13:23:53 +0200|Thu, 22 May 2014 13:23:53 +0200
+8d760ab1c39f1895f4b321f8ac3f5d4f6945e6b5|forgottent reference to color finder|Mon, 28 Apr 2014 19:01:13 +0200|Mon, 28 Apr 2014 19:01:13 +0200
+57095e4070e8fa23df184a575aa23b8caad9c83b|last fix to erase color-finder mention|Mon, 28 Apr 2014 18:51:33 +0200|Mon, 28 Apr 2014 18:51:33 +0200
+259755fcd4741ab648ca26b0507131561a615074|rename artifact id contrast-fonder|Mon, 28 Apr 2014 18:44:45 +0200|Mon, 28 Apr 2014 18:44:45 +0200
+452872412227325731df11eefb57eafbe0652d02|fixed webapp pom error|Mon, 28 Apr 2014 18:39:14 +0200|Mon, 28 Apr 2014 18:39:14 +0200
+e7a2fc555873c11e0b9529de2eb884b8c62a4b43|fixed version conflict|Mon, 28 Apr 2014 18:30:53 +0200|Mon, 28 Apr 2014 18:30:53 +0200
+d8a0d7fa6229e0983abe1d584d9bb79b1cc7ac78|remove unused project|Mon, 28 Apr 2014 18:24:22 +0200|Mon, 28 Apr 2014 18:24:22 +0200
+b594f3798d5a2ecc09c47c6d8dfc455ed32e5b58|contrast finder 0.3.2 merge|Mon, 28 Apr 2014 18:23:20 +0200|Mon, 28 Apr 2014 18:23:20 +0200
+631b615ee8b770e3a2bc5c6835c21d9e1c20356f|Bumped version number to 0.3.2|Mon, 28 Apr 2014 18:20:01 +0200|Mon, 28 Apr 2014 18:20:01 +0200
+f3c92c8f77a5782e8733c80120a06af22cb93e73|footer changes|Mon, 28 Apr 2014 18:13:04 +0200|Mon, 28 Apr 2014 18:13:04 +0200
+f10557b155c6cad807626d0a83952a6d9588e494|UI footer correction, add contact|Mon, 28 Apr 2014 14:11:37 +0200|Mon, 28 Apr 2014 14:11:37 +0200
+a792efec35350cd43eeb914a75b273d0c2f7889d|add favicon and cf logo (issue #3)|Mon, 28 Apr 2014 13:11:34 +0200|Mon, 28 Apr 2014 13:11:34 +0200
+c6691e4fa810c7f5e58d23fdf33ade20badc9818|renaming each folder 'contrast-finder' (issue #4)|Mon, 28 Apr 2014 11:52:47 +0200|Mon, 28 Apr 2014 11:52:47 +0200
+0f9945a96b755cd1f336db11e13e5629b47e6e81|i18n correction, delete not use file|Mon, 28 Apr 2014 11:40:07 +0200|Mon, 28 Apr 2014 11:40:07 +0200
+cbc7a2e8839f1f7b668a5e05729c8175f831475c|Merge branch 'release-v0.3.1'|Thu, 27 Mar 2014 14:44:47 +0100|Thu, 27 Mar 2014 14:44:47 +0100
+128f9956f3bac35bfa50477a84b3f39f3774bfd4|Bumped version number to 0.3.1|Thu, 27 Mar 2014 14:44:11 +0100|Thu, 27 Mar 2014 14:44:11 +0100
+02b36af1ffd7f45a6df264ae37f21388dbf549d1|UI modifications footer|Thu, 27 Mar 2014 14:13:00 +0100|Thu, 27 Mar 2014 14:13:00 +0100
+09405c635ad9599e9a7e664acfc9ff147fcedeca|UI footer modifications, add contact|Thu, 27 Mar 2014 14:05:05 +0100|Thu, 27 Mar 2014 14:05:05 +0100
+f7ce85d59e3057da6957437864e83d0bcd8759e7|i18n improvements|Tue, 18 Feb 2014 11:43:11 +0100|Tue, 18 Feb 2014 11:43:11 +0100
+a3e01330e3bea1fd95239e427de4f4eb79617128|added demo link|Wed, 5 Feb 2014 18:56:48 +0100|Wed, 5 Feb 2014 18:56:48 +0100
+d18f82fbd103878300fd900f7574c8b4332f3afe|Delete bump-version.sh|Fri, 3 Jan 2014 10:06:41 +0100|Fri, 3 Jan 2014 10:06:41 +0100
+0e1115a2a6e209d776f47aa6e2062c6839e36026|clean|Fri, 20 Dec 2013 17:15:22 +0100|Fri, 20 Dec 2013 17:15:22 +0100
+0382dc16da52ce1577101e875f2328938b3f3aa3|Clean|Fri, 20 Dec 2013 17:10:36 +0100|Fri, 20 Dec 2013 17:10:36 +0100
+a0c0bdf5c842c9b86f87367b24307f2d33d8aecc|Merge branch 'release-0.3'|Fri, 20 Dec 2013 17:09:18 +0100|Fri, 20 Dec 2013 17:09:18 +0100
+4784990980cd4f7f1f602ec5a067a5bd1ddcd0c5|Bumped version number to 0.3|Fri, 20 Dec 2013 17:08:57 +0100|Fri, 20 Dec 2013 17:08:57 +0100
+220412381a357ca84c308191e10ec75ce66bf5ca|html correction|Fri, 20 Dec 2013 17:08:04 +0100|Fri, 20 Dec 2013 17:08:04 +0100
+6f3f527a3e576648281f897d63ddf083c264338e|V0.3 final with css correction|Fri, 20 Dec 2013 17:03:38 +0100|Fri, 20 Dec 2013 17:03:38 +0100
+7acc833b5e1102f648f2b999c7bb12e7ee5646b2|Bumped version number to 0.3|Fri, 20 Dec 2013 17:01:49 +0100|Fri, 20 Dec 2013 17:01:49 +0100
+1949a78c42b7f20c75843773b8bbec86cd9deeaa|css correction|Fri, 20 Dec 2013 17:00:25 +0100|Fri, 20 Dec 2013 17:00:25 +0100
+e48f1dc837567d55cd98e2e6c69a6104fb34d77b|Contrast Finder v0.3 final|Fri, 20 Dec 2013 16:00:17 +0100|Fri, 20 Dec 2013 16:00:17 +0100
+0ecb216189f15656a58f939d296a09690ba39280|Bumped version number to 0.3|Fri, 20 Dec 2013 15:58:38 +0100|Fri, 20 Dec 2013 15:58:38 +0100
+312adbcc5f8325ea38206d36a2719d592ca0918e|Contrast Finder v0.3|Fri, 20 Dec 2013 15:50:38 +0100|Fri, 20 Dec 2013 15:50:38 +0100
+e6b25a0bed33b233eac41f39836af0580afb546a|Bumped version number to 0.3|Fri, 20 Dec 2013 15:41:30 +0100|Fri, 20 Dec 2013 15:41:30 +0100
+399f45a81a510ccf85de347ea1488b39f30c5508|Css correction|Fri, 20 Dec 2013 15:37:45 +0100|Fri, 20 Dec 2013 15:37:45 +0100
+d218f81c4771d2aa591f397b9369d3cd12f49f90|Contrast Finder v0.3|Fri, 20 Dec 2013 14:39:44 +0100|Fri, 20 Dec 2013 14:39:44 +0100
+8c8e375a2f71a0c13c96585a42462cd64a8c6f3f|remove synchro annotation|Fri, 20 Dec 2013 09:43:06 +0100|Fri, 20 Dec 2013 09:43:06 +0100
+6192d24882d4bd112c6e90163feada931ede966a|full correction sonar|Thu, 19 Dec 2013 18:19:02 +0100|Thu, 19 Dec 2013 18:19:02 +0100
+e4659147c5c76be2f5bd46a6d2ee349936e777fb|full correction|Thu, 19 Dec 2013 18:15:56 +0100|Thu, 19 Dec 2013 18:15:56 +0100
+597ae1a53c17eaa6db174dd3d7ef1fc63ab31290|synchro|Thu, 19 Dec 2013 17:58:15 +0100|Thu, 19 Dec 2013 17:58:15 +0100
+1f5f1550db5adc666fc9fea719c6ed074ea83a9b|synchro|Thu, 19 Dec 2013 17:51:42 +0100|Thu, 19 Dec 2013 17:51:42 +0100
+e2bb56c02749617868836c66908bbe58fd66c3e1|package correction|Thu, 19 Dec 2013 17:47:23 +0100|Thu, 19 Dec 2013 17:47:23 +0100
+27da196a98a238b2fcfd24dda5719188ab237c2f|synchro colorResultFactory|Thu, 19 Dec 2013 17:29:46 +0100|Thu, 19 Dec 2013 17:29:46 +0100
+700afb7ce2b911d93d557fbc416c67a5c744b0f2|algorithm modifications|Thu, 19 Dec 2013 17:16:06 +0100|Thu, 19 Dec 2013 17:16:06 +0100
+a896dd12b1b2bed18bc1acb8e37de54841ed7395|redirect / to home page|Thu, 19 Dec 2013 10:19:33 +0100|Thu, 19 Dec 2013 10:19:33 +0100
+d9f08968ea95c6411aa03462e88e8258aa5aad96|provide a link with other result when Rgb is empty, the method form is now GET|Fri, 13 Dec 2013 17:22:31 +0100|Fri, 13 Dec 2013 17:22:31 +0100
+838e43b861afa702d638ec55c2b11058e8603693|remove webservice|Fri, 13 Dec 2013 09:58:56 +0100|Fri, 13 Dec 2013 09:58:56 +0100
+df34eb5971d6bb83de20af88415341a10ba83ff3|Contrast Finder V0.2 final|Thu, 12 Dec 2013 16:02:31 +0100|Thu, 12 Dec 2013 16:02:31 +0100
+4e0a0b8a44f4db06a4fb1e4226b6b4998c1f352e|Merge branch 'release-0.2'|Thu, 12 Dec 2013 15:48:32 +0100|Thu, 12 Dec 2013 15:48:32 +0100
+35c1311524f1e4c95b5d5428a298f8ed2665656f|Bumped version number to 0.2|Thu, 12 Dec 2013 15:47:23 +0100|Thu, 12 Dec 2013 15:47:23 +0100
+9875415f6cfe9a64afb0925936f36e986ff8e00b|Final Contrast Finder V0.2|Thu, 12 Dec 2013 15:27:29 +0100|Thu, 12 Dec 2013 15:27:29 +0100
+7a3fa481c312eb63537b33ec01654cc74729a57c|refractoring final for Contrast Finder v0.2|Thu, 12 Dec 2013 15:08:10 +0100|Thu, 12 Dec 2013 15:08:10 +0100
+370d1c788ed90e13207854e276c8570c91d4528a|refractoring|Thu, 12 Dec 2013 14:30:04 +0100|Thu, 12 Dec 2013 14:30:04 +0100
+b4120c1e61717625a82064cd3f4da1e3a9fe16bc|comment sonar plugin parent pom|Thu, 12 Dec 2013 13:23:44 +0100|Thu, 12 Dec 2013 13:23:44 +0100
+d821e6898ae8a91ea14915f5813aa7cacbe8da74|rm test|Thu, 12 Dec 2013 13:18:46 +0100|Thu, 12 Dec 2013 13:18:46 +0100
+39546341d10c7e7515d0c8bf0ec85859c9a91d8f|test|Thu, 12 Dec 2013 13:18:01 +0100|Thu, 12 Dec 2013 13:18:01 +0100
+f0bfa52753c26b486c841fda9e29fa3aba8ffaf2|rm test|Thu, 12 Dec 2013 11:15:49 +0100|Thu, 12 Dec 2013 11:15:49 +0100
+c630580a64e6a633c25177b191469843e757f9d1|rm test|Thu, 12 Dec 2013 11:14:53 +0100|Thu, 12 Dec 2013 11:14:53 +0100
+e7a903efcc02e8bf0f2801c4b87060df939275dc|test|Thu, 12 Dec 2013 11:13:28 +0100|Thu, 12 Dec 2013 11:13:28 +0100
+5cf82f08634fd4a6107c6cd18170aa72550207ea|test|Thu, 12 Dec 2013 11:03:11 +0100|Thu, 12 Dec 2013 11:03:11 +0100
+c5e90e7258a940ffa067f9f57e32b7de42e98f03|test|Thu, 12 Dec 2013 11:01:23 +0100|Thu, 12 Dec 2013 11:01:23 +0100
+ee4bd1a5074238a0afdf4b9630ceda1411b00e92|Merge correction|Fri, 6 Dec 2013 17:00:26 +0100|Fri, 6 Dec 2013 17:00:26 +0100
+e4321682aeb73b159f1c9816231fa9c62119d4c1|change initial POM|Fri, 6 Dec 2013 16:56:22 +0100|Fri, 6 Dec 2013 16:56:22 +0100
+2a7c81b9a93c6e3679cf30082104596cd5b43b9f|Merge branch 'master' of https://github.com/Tanaguru/Contrast-Finder|Fri, 6 Dec 2013 16:54:08 +0100|Fri, 6 Dec 2013 16:54:08 +0100
+5c1020e21f152afa76e5eba6a5e29072ed9c76ad|Contrast Finder V0.2|Fri, 6 Dec 2013 16:52:08 +0100|Fri, 6 Dec 2013 16:52:08 +0100
+4c7fc38cc1685d88cee46cacfe51bcfca37fd798|corrections to footer|Fri, 29 Nov 2013 19:14:16 +0100|Fri, 29 Nov 2013 19:14:16 +0100
+e0312259f907a3e220c054b59d702b743ec0a9a9|updated footer (added links)|Thu, 28 Nov 2013 18:46:34 +0100|Thu, 28 Nov 2013 18:46:34 +0100
+7a5d16c20c15e082b41a5e92e6b479b71e4e098a|UI modifs, templates added, compress html/css code to optimize|Thu, 21 Nov 2013 14:02:05 +0100|Thu, 21 Nov 2013 14:02:05 +0100
+897ea0ca508fe3f810edc0205584c1d3d30e53b3|change logs folder and file with the good name|Thu, 21 Nov 2013 10:00:52 +0100|Thu, 21 Nov 2013 10:00:52 +0100
+f259f9a85cb59fed42af703d73b76a76c556a655|added ribbon: Fork me on GitHub|Sat, 16 Nov 2013 12:28:10 +0100|Sat, 16 Nov 2013 12:28:10 +0100
+88be5f0682ce504e9b96645cdf845aa20516694d|added accessible table sorter|Sat, 16 Nov 2013 11:46:08 +0100|Sat, 16 Nov 2013 11:46:08 +0100
+45a27fb7910a2587c1b4b3317e69fc5145ba1e8e|UI modification|Fri, 15 Nov 2013 18:54:11 +0100|Fri, 15 Nov 2013 18:54:11 +0100
+4050a484141e0c94fffbc519057adb2ca6fc5933|text correction|Fri, 15 Nov 2013 16:21:48 +0100|Fri, 15 Nov 2013 16:21:48 +0100
+97f51a56a766de184752fc816ebc4fd73766852c|UI Correction|Fri, 15 Nov 2013 16:18:33 +0100|Fri, 15 Nov 2013 16:18:33 +0100
+5d39145aa47a3e4c7a21faa307efe939d3844c86|Infinite loop algorytm fix|Fri, 15 Nov 2013 15:46:41 +0100|Fri, 15 Nov 2013 15:46:41 +0100
+bad6836020e7b397ad6bba08a7f535ead106aabe|Result number et hsl value add, UI correction|Fri, 15 Nov 2013 13:59:57 +0100|Fri, 15 Nov 2013 13:59:57 +0100
+f532954e72b8e77cfaa33dd23b0c7774a3a9c76f|Create README.md|Thu, 14 Nov 2013 18:19:59 +0100|Thu, 14 Nov 2013 18:19:59 +0100
+84f7ed9f320531cea538205320d121ccf5cba583|Algo optimisation, Unit tests added|Thu, 14 Nov 2013 17:56:28 +0100|Thu, 14 Nov 2013 17:56:28 +0100
+85a6c8d911f6578b89f08b282558d80e5bb7a8ef|header + licence, pom optimisation|Thu, 14 Nov 2013 14:00:58 +0100|Thu, 14 Nov 2013 14:00:58 +0100
+20d2977cf73df15794f72f1da81f0dcba256c010|CSS optimisation|Fri, 8 Nov 2013 19:48:19 +0100|Fri, 8 Nov 2013 19:48:19 +0100
+1f11e9edc656f6c2883dd837f9fb8f9921737788|added licence (aGPL)|Fri, 8 Nov 2013 19:36:22 +0100|Fri, 8 Nov 2013 19:36:22 +0100
+46b78ba2fd59205f9b53d6c41c37f7f2b91048fb|Merge branch 'master' of https://github.com/Tanaguru/Contrast-Finder|Fri, 8 Nov 2013 19:16:26 +0100|Fri, 8 Nov 2013 19:16:26 +0100
+d9ee58cb09dbcd58f2de486ec1eb0aea867fb453|Fix algo bug, CombinaisonColor added, Positive result contrast in formView|Fri, 8 Nov 2013 19:08:54 +0100|Fri, 8 Nov 2013 19:08:54 +0100
+e00f268ac08324077e22d9b33ff0fb1e59b06912|COmmit gitignore|Fri, 8 Nov 2013 18:12:10 +0100|Fri, 8 Nov 2013 18:12:10 +0100
+5eaea9a3c9fb3f2183e08fadf14a7f5cbf4ff1ba|remove Target folders|Fri, 8 Nov 2013 18:06:51 +0100|Fri, 8 Nov 2013 18:06:51 +0100
+b2300857ba7fef22cd684de7318e7a95be499475|Bug fixed, UI modification, webapp rename|Fri, 8 Nov 2013 14:22:09 +0100|Fri, 8 Nov 2013 14:22:09 +0100
+d829a72bfc16920443bec37f05482d2dd2033c14|Add hexadecimal value with rgb on page Result, fix bug|Thu, 7 Nov 2013 19:12:49 +0100|Thu, 7 Nov 2013 19:12:49 +0100
+b6807ee4ce50f1165ffd83e633930ca3246d6313|remove cli and rgb algo project|Thu, 7 Nov 2013 16:40:33 +0100|Thu, 7 Nov 2013 16:40:33 +0100
+7c441abeb6cee6059ffc83e2b6ae9b5d590d123d|remove cli and rgb algo project|Thu, 7 Nov 2013 16:38:49 +0100|Thu, 7 Nov 2013 16:38:49 +0100
+6b1fd73490695fdcfc2e9b471a53536196eb38c6|Fix bug algo if the background is tested|Thu, 7 Nov 2013 16:23:11 +0100|Thu, 7 Nov 2013 16:23:11 +0100
+27755029fcd8f9e176f3ed0b7e9f0d79b57f51a3|initial commit Tanaguru ContrastFinder|Thu, 7 Nov 2013 12:02:22 +0100|Thu, 7 Nov 2013 12:02:22 +0100
+43e4ee858b7c2c6921c397ae3a7ab71afd54420f|Initial commit|Thu, 7 Nov 2013 01:27:50 -0800|Thu, 7 Nov 2013 01:27:50 -0800

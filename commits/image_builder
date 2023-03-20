@@ -1,0 +1,874 @@
+02886de41ddba9bc3596fb34894d0e28bc0ef6d9|Use image_namer rather than jq to get image_name from json file|Tue, 23 Jun 2020 06:46:10 +0100|Tue, 23 Jun 2020 06:46:10 +0100
+4f40bb49b26e8c2f47882417e034406c08cbe1f3|Drop checking for start_point/ dir|Mon, 22 Jun 2020 17:49:08 +0100|Mon, 22 Jun 2020 17:49:08 +0100
+288cdbbcfdcb3fba36445446691fe96fccfe9cfc|Script tidying|Mon, 22 Jun 2020 17:45:38 +0100|Mon, 22 Jun 2020 17:45:38 +0100
+ba54542dc600f1e249b3079cca7f51d37a24f9cd|Get image_name from docker/image_name.json|Mon, 22 Jun 2020 17:40:17 +0100|Mon, 22 Jun 2020 17:40:17 +0100
+dee9b8236b5ae00a47eaaf5adad2884625a074db|Add better handling when check_version.sh is missing|Mon, 22 Jun 2020 14:01:52 +0100|Mon, 22 Jun 2020 14:01:52 +0100
+89de5115bca1230222557f8fdb5c34036cfc534c|Always tag image to allow local testing|Mon, 22 Jun 2020 13:30:03 +0100|Mon, 22 Jun 2020 13:30:03 +0100
+9c0e62e5c4a2833724c170d2348286e50efe1a22|image_build_test_push_notify.sh now only builds image; start-points are in their own github org|Mon, 22 Jun 2020 12:38:57 +0100|Mon, 22 Jun 2020 12:38:57 +0100
+8c3929f28823aebe5868c19e616595d3d8768bb5|Add message showing the image tag|Sun, 14 Jun 2020 13:38:23 +0100|Sun, 14 Jun 2020 13:38:23 +0100
+3d0645a2cd6cfbd89d60ddb8898d24bc7689b875|Script tidying|Sun, 14 Jun 2020 13:38:00 +0100|Sun, 14 Jun 2020 13:38:00 +0100
+00a2f11f4ee7be89ffd7e90de0347c4003793416|Fix bash error|Sun, 14 Jun 2020 13:37:49 +0100|Sun, 14 Jun 2020 13:37:49 +0100
+ce85860f407c015376eae224ebaf636ee115507d|Fix main script so [start-point build] command is given tagged-url|Sun, 14 Jun 2020 09:52:13 +0100|Sun, 14 Jun 2020 09:52:13 +0100
+c350343ff180075c6f3c834ebb76dbda69955545|Tidy main script|Fri, 12 Jun 2020 21:14:09 +0100|Fri, 12 Jun 2020 21:14:09 +0100
+0f1bd7e9da501c86e71295bc8913cd7f35264c72|Use [cyber-dojo start-point build] to create tagged image-name inside start-point service used to test start_point/ dir|Fri, 12 Jun 2020 20:37:24 +0100|Fri, 12 Jun 2020 20:37:24 +0100
+928188162c4febe1094874d1990c4fc130b07cf3|Create language-start-point service ready to be used by hiker service|Thu, 11 Jun 2020 16:26:49 +0100|Thu, 11 Jun 2020 16:26:49 +0100
+a802e3b12a664a31d9651527a267970863b6dd59|Add --compress to docker build|Thu, 11 Jun 2020 13:38:50 +0100|Thu, 11 Jun 2020 13:38:50 +0100
+5d324e49a1366b9d65c5bc1abcea65ae417efbd6|Remove --force-rm from docker build|Thu, 11 Jun 2020 13:38:41 +0100|Thu, 11 Jun 2020 13:38:41 +0100
+ff86585878de0b05bd6254a091ab79f66118de55|Add check that SRC_DIR contains a git repo|Thu, 11 Jun 2020 13:34:36 +0100|Thu, 11 Jun 2020 13:34:36 +0100
+76334a5c9801be527f2d64307597bb73184b851d|Add --compress arg to docker build|Thu, 11 Jun 2020 12:49:22 +0100|Thu, 11 Jun 2020 12:49:22 +0100
+ea2aeac29a89132ea7bdfcc39563643a8b6e913a|Add missing backslash to help text|Thu, 11 Jun 2020 12:49:12 +0100|Thu, 11 Jun 2020 12:49:12 +0100
+6f0eb4af6c9ce3363502eb08d41b0571bb96087e|Create language-test-framework image directly from SRC_DIR|Thu, 11 Jun 2020 12:43:47 +0100|Thu, 11 Jun 2020 12:43:47 +0100
+47fde900b239dc0a923305745d941ed3ff15fb0a|Refactoring; simplify script by using cat+heredoc|Thu, 11 Jun 2020 12:03:14 +0100|Thu, 11 Jun 2020 12:03:14 +0100
+5b178cf1e1401a601d3887f8179f2a8fe7f76ec6|Add missing backslash escape|Thu, 11 Jun 2020 12:02:46 +0100|Thu, 11 Jun 2020 12:02:46 +0100
+386709a0fad7be13b17f042cb53c7b54f862ee9c|Add todo comments|Tue, 9 Jun 2020 10:48:32 +0100|Tue, 9 Jun 2020 10:48:32 +0100
+c665fa5b604823c32daf30a5a0505b3041a98bc0|[ci skip] readme update|Tue, 9 Jun 2020 06:41:10 +0100|Tue, 9 Jun 2020 06:41:10 +0100
+d51d1b9c164a89a4826b97713a326fc61bf79a5c|Add missing if to bash script|Tue, 9 Jun 2020 06:19:33 +0100|Tue, 9 Jun 2020 06:19:33 +0100
+4f83870bc8dc76f3cbdf1eebe1376a762013c175|Dont create images on CI cron jobs|Tue, 9 Jun 2020 06:16:00 +0100|Tue, 9 Jun 2020 06:16:00 +0100
+e190039c48df039110e5598c6b1b69c622390a48|Switch base startpoints image to busybox for smaller image|Mon, 8 Jun 2020 22:45:55 +0100|Mon, 8 Jun 2020 22:45:55 +0100
+659722ec15db44ef82dc3b5fb3fdc51f31f8fdb7|Create images on ci-run to create base start-point images|Mon, 8 Jun 2020 20:21:38 +0100|Mon, 8 Jun 2020 20:21:38 +0100
+5079a53026feb3848a7d233b533fad5e17b7a47e|Try to get full SHA inside start-points image|Mon, 8 Jun 2020 20:04:50 +0100|Mon, 8 Jun 2020 20:04:50 +0100
+7e697411444ba8e826ed70fd826dcb50cd19e3d1|Add SHA env-var to start-point image|Mon, 8 Jun 2020 19:49:54 +0100|Mon, 8 Jun 2020 19:49:54 +0100
+da83575b6f5cbc06c925bb081f213940f5cc22ca|Push cdl images before start-point images so manifest.json's image_name is not yet tagged|Mon, 8 Jun 2020 19:41:56 +0100|Mon, 8 Jun 2020 19:41:56 +0100
+44498a85aa9f9e04046bbca8da7a25e2e8bb5777|Put back line to create start-point image and push to dockerhub|Mon, 8 Jun 2020 19:25:33 +0100|Mon, 8 Jun 2020 19:25:33 +0100
+e9d785cf89100451dd392ca7aa7e35269b68f01a|Turn off start-point image creation till dockerhub org setup|Mon, 8 Jun 2020 19:00:56 +0100|Mon, 8 Jun 2020 19:00:56 +0100
+cab2a8694b0b61b38e50c0072687f50325d02e40|In main LTF build-script, add step to create and push tagged start-point image|Mon, 8 Jun 2020 17:55:23 +0100|Mon, 8 Jun 2020 17:55:23 +0100
+0aeda9ae8be8a1370b7945a2c13ae077c1f908f1|Fix incorrect script names|Thu, 4 Jun 2020 14:48:02 +0100|Thu, 4 Jun 2020 14:48:02 +0100
+a0dd07bedaf8fca8bb2a2c839682b8a2c71880c5|Put each test into separate file|Thu, 4 Jun 2020 14:37:19 +0100|Thu, 4 Jun 2020 14:37:19 +0100
+f8ea854c2ce37af254da9b5072439b021ad83995|Add empty statement to skipped function|Thu, 4 Jun 2020 14:19:26 +0100|Thu, 4 Jun 2020 14:19:26 +0100
+9201f73e1bbe5cbf53f0e7d0a0e643f94ce25d27|Turn off check for docker being installed|Thu, 4 Jun 2020 14:18:05 +0100|Thu, 4 Jun 2020 14:18:05 +0100
+947088d3ef8cb72be18be622b1fc3a6e0f001688|If docker is not installed, install it|Thu, 4 Jun 2020 14:15:12 +0100|Thu, 4 Jun 2020 14:15:12 +0100
+46fd78fa0765173ebc11168f833b9753ae50fc7f|Only push tagged images to dockerhub for a commit (not scheduled CI)|Thu, 4 Jun 2020 14:09:11 +0100|Thu, 4 Jun 2020 14:09:11 +0100
+4baed4558326f18d9f73ce9796fd1df9f2143666|Add info to long help text|Tue, 2 Jun 2020 19:57:32 +0100|Tue, 2 Jun 2020 19:57:32 +0100
+1619c06e682e3d96abb8a4a78246ad1fd89afbc9|Remove debug echoes|Tue, 2 Jun 2020 12:25:21 +0100|Tue, 2 Jun 2020 12:25:21 +0100
+e34b9382884bfa1cd67c54e7bc049143281d38b5|Use -q option in grep|Tue, 2 Jun 2020 12:18:54 +0100|Tue, 2 Jun 2020 12:18:54 +0100
+030f3cf04060a7ad16b6af72bd9b84466694daeb|Try upgrading shunit2|Tue, 2 Jun 2020 12:16:15 +0100|Tue, 2 Jun 2020 12:16:19 +0100
+b5a3a6227ce988637fb5e7ce810ad75ce84cdc9f|Beginning to suspect assertTrue is broken|Tue, 2 Jun 2020 12:13:05 +0100|Tue, 2 Jun 2020 12:13:05 +0100
+4721b9b5542e3aa7ede182b99ec7ef775ebd9e3c|Try using simpler diagnostic|Tue, 2 Jun 2020 12:07:57 +0100|Tue, 2 Jun 2020 12:07:57 +0100
+972b48df82d1d421ccd0229eacd7b3be8f3bc95d|Try doing the grep inside the docker container; I suspect /etc/issue has rogue chars|Tue, 2 Jun 2020 12:03:55 +0100|Tue, 2 Jun 2020 12:03:55 +0100
+ff8e386e4820503246db8315555e7300df3e79e3|Move problem line to start of function and add more echoes|Tue, 2 Jun 2020 11:56:28 +0100|Tue, 2 Jun 2020 11:56:28 +0100
+e07e8085865c657c90ff9997f88cf6889eed94a6|Try adding -t to docker run command|Tue, 2 Jun 2020 11:53:00 +0100|Tue, 2 Jun 2020 11:53:00 +0100
+05040c1c35bb220ff35508ca6d31fb492bd468b5|Try using only first line of /etc/issue|Tue, 2 Jun 2020 11:50:44 +0100|Tue, 2 Jun 2020 11:50:44 +0100
+3ceb19adb8ed5a4e80d34e61d13e3a44e5428f90|Try replacing newlines with spaces before grep|Tue, 2 Jun 2020 11:45:56 +0100|Tue, 2 Jun 2020 11:45:56 +0100
+b3e6f74ed4db8807b9df9c3a78cc36593486cfd2|Try here-doc on etc-issue|Tue, 2 Jun 2020 11:41:04 +0100|Tue, 2 Jun 2020 11:41:04 +0100
+7373239aa59c1ffa49187580a1707ca3be6f82ae|Try adding missing quotes|Tue, 2 Jun 2020 11:35:43 +0100|Tue, 2 Jun 2020 11:35:43 +0100
+f123b6851e1bc12cd5522aa49d0096ded881b781|Try even simpler grep|Tue, 2 Jun 2020 11:32:57 +0100|Tue, 2 Jun 2020 11:32:57 +0100
+dbdd388f9018c9680fe96a5368f682b495eb08cf|Use simpler grep in OS test|Tue, 2 Jun 2020 11:29:47 +0100|Tue, 2 Jun 2020 11:29:47 +0100
+9c9abe0a042e6f2c2593b0ee32fe06c4d3e44ff7|Add set-x to debug failing OS test on CI|Tue, 2 Jun 2020 11:23:25 +0100|Tue, 2 Jun 2020 11:23:25 +0100
+a2377c5158aae87d603fa4b8d2f939955d84e50b|Add set-x to debug failing OS test on CI|Tue, 2 Jun 2020 11:20:14 +0100|Tue, 2 Jun 2020 11:20:14 +0100
+cd632f7dac86cbe1790065846b2b0ca42ad564dc|Add back OS checks|Tue, 2 Jun 2020 11:06:49 +0100|Tue, 2 Jun 2020 11:06:49 +0100
+db637736709b822d56b0ca6704ae51095b1bd655|Strip script right back to just building images|Tue, 2 Jun 2020 11:00:46 +0100|Tue, 2 Jun 2020 11:00:46 +0100
+83a40963da8e145f3b5e012d57c49b8af47b61b8|Just run image-builds|Tue, 2 Jun 2020 10:57:09 +0100|Tue, 2 Jun 2020 10:57:09 +0100
+fc49c7c73c00ee2d2f73bc143999a11fe9dbc7bb|Prefer BASH_SOURCE in scripts|Tue, 2 Jun 2020 10:25:50 +0100|Tue, 2 Jun 2020 10:25:50 +0100
+25550cee1f9615a277c8d06da9c5346d996c08f8|Bring most tests back to life|Tue, 2 Jun 2020 10:12:32 +0100|Tue, 2 Jun 2020 10:12:32 +0100
+73e218f42becd37f27dd79a4f9b523b1c0fc598c|Embed commit sha inside image as SHA env-var; tag image and push tagged image to dockerhub|Tue, 2 Jun 2020 08:11:53 +0100|Tue, 2 Jun 2020 08:11:53 +0100
+ea30f19bd341abe2c7253320adf74921580139e9|Fix ci context|Tue, 2 Jun 2020 08:11:11 +0100|Tue, 2 Jun 2020 08:11:11 +0100
+dc1f7d74113ed963556437cfd4285b6e22f60254|Save to tmp git repo before building LTF image|Tue, 2 Jun 2020 07:39:16 +0100|Tue, 2 Jun 2020 07:39:16 +0100
+a6d9f7f2dbfe1ba586ac27df18a6445fe242b0f6|Refactoring; prefer BASH_SOURCE to plain 0 in .sh|Tue, 12 May 2020 07:47:09 +0100|Tue, 12 May 2020 07:47:09 +0100
+42eaf62bc888eadd34d08809fa767355244d5386|remove intermediate containers when trying to create image in main script|Fri, 7 Feb 2020 21:52:48 +0000|Fri, 7 Feb 2020 21:52:48 +0000
+0acbd26b103900471b20aca50a6f85a8ac7b860c|Turn off github notifications|Wed, 5 Feb 2020 13:58:38 +0000|Wed, 5 Feb 2020 13:58:38 +0000
+a44865cff7d166a43f10b6403eb20304ebb4d6d0|Add debug echoes to script|Wed, 5 Feb 2020 13:53:34 +0000|Wed, 5 Feb 2020 13:53:34 +0000
+475770b7977a7512385b50aba159b58b28ecaf1f|Fix error in bash script|Wed, 5 Feb 2020 13:49:58 +0000|Wed, 5 Feb 2020 13:49:58 +0000
+4d8eff746336cccb684864087dcc2e0e6e7071dc|Fix broken variable in script|Wed, 5 Feb 2020 13:48:25 +0000|Wed, 5 Feb 2020 13:48:25 +0000
+e2c8261c4442b0cd6464a1b4d3988db7b15884ef|Fix broken URL in script|Wed, 5 Feb 2020 13:44:52 +0000|Wed, 5 Feb 2020 13:44:52 +0000
+c8b3ce146c13fc146a22e6807af6a9116007141b|Fix script error|Wed, 5 Feb 2020 13:41:00 +0000|Wed, 5 Feb 2020 13:41:00 +0000
+1aa654f473c5a08db5ea35e09dfa189779e61fd7|Add set -x to debug on CI|Wed, 5 Feb 2020 13:38:41 +0000|Wed, 5 Feb 2020 13:38:41 +0000
+e3265a9ac0f3d73d6a8f31a0a57edc51603bda2a|Try turning on github notifications|Wed, 5 Feb 2020 13:34:31 +0000|Wed, 5 Feb 2020 13:34:31 +0000
+0cf1e14da3cfb83d35feeb801ef9133e1a80b094|On ci check image has entry in dependents.json|Sun, 2 Feb 2020 18:06:39 +0000|Sun, 2 Feb 2020 18:06:39 +0000
+549ef370726146d00b2ab7471d5d91c2d196bf53|[ci skip] Update --help text|Sat, 1 Feb 2020 08:19:25 +0000|Sat, 1 Feb 2020 08:19:25 +0000
+2d320fd3777623c993627a66b9c0ea5669967046|Add missing git-config commands when using temporary git repo|Sat, 1 Feb 2020 07:54:02 +0000|Sat, 1 Feb 2020 07:54:02 +0000
+468edcfffa102b823c7b9c05248a58945eb79d83|Copy repo-dir to a tmp-dir if there are uncommited changes|Fri, 31 Jan 2020 08:36:10 +0000|Fri, 31 Jan 2020 08:36:10 +0000
+92589aa98f3bcea03d0ce337d8e1b18a99393042|Script now checks docker is installed|Thu, 30 Jan 2020 21:41:22 +0000|Thu, 30 Jan 2020 21:41:22 +0000
+d51fc54ac87f7d9348cc336c24a9aa27e9c2a1e5|Delete dead files|Fri, 24 Jan 2020 09:03:29 +0000|Fri, 24 Jan 2020 09:03:29 +0000
+13d4bdb8eca6ae4838f683ad0940e4c6adf632d5|Move old scripts into dead/ dir|Thu, 23 Jan 2020 15:32:23 +0000|Thu, 23 Jan 2020 15:32:23 +0000
+d308b26c3f737b31e3d5e7def260115d861c0146|Use a heredoc to define the long help-text|Tue, 21 Jan 2020 13:39:34 +0000|Tue, 21 Jan 2020 13:39:34 +0000
+a68933151b413b7aefe7a52c1b8d2151c6235f30|In main script, use cyber-dojo script if on PATH; otherwise attempt to curl it|Sun, 19 Jan 2020 13:56:54 +0000|Sun, 19 Jan 2020 13:56:54 +0000
+084c068a8af41c6f17ae96b78128d91a17272064|chmod +x the main script|Sun, 19 Jan 2020 13:42:24 +0000|Sun, 19 Jan 2020 13:42:24 +0000
+95a1c118b951a03bf53e2a29983ce3cdd68cdc1a|Give main script a better name|Sun, 19 Jan 2020 13:26:37 +0000|Sun, 19 Jan 2020 13:26:37 +0000
+5485b8941c5593a7259dfb0099310cf77cc7b635|Echo info when no start_point/ dir|Sun, 19 Jan 2020 13:12:48 +0000|Sun, 19 Jan 2020 13:12:48 +0000
+30d6ce20dbdb231be83e4e924282e58e9ede282e|Tidy scripts|Sun, 19 Jan 2020 12:35:49 +0000|Sun, 19 Jan 2020 12:35:49 +0000
+470cbde433f961f28af6fb2704875e9f1eea3b7c|Simplify the script_path() function|Sat, 18 Jan 2020 18:30:27 +0000|Sat, 18 Jan 2020 18:30:27 +0000
+80710581f4d9bff0c918f996a4b9733e23808fa3|Remove languages-start-points now that image_hiker uses SRC_DIR directly|Sat, 18 Jan 2020 13:22:42 +0000|Sat, 18 Jan 2020 13:22:42 +0000
+25957474f75b1d63215674138770947fe06f08d7|[ci skip] Add info echoes to main script|Sat, 18 Jan 2020 06:53:26 +0000|Sat, 18 Jan 2020 06:53:26 +0000
+2c2f01c3ba9589b6b78b7f64d3020b43a4c168d3|Comment updates|Tue, 14 Jan 2020 12:45:54 +0000|Tue, 14 Jan 2020 12:45:54 +0000
+827053d6803e5d385af3fc2650c1ea92bad2e66c|Drop ragger service now runner returns traffic-light colour|Tue, 14 Jan 2020 11:10:44 +0000|Tue, 14 Jan 2020 11:10:44 +0000
+c89dd22108d7d98cfe9350a93254801d8af3e808|Update name of languages service as used inside image_hiker|Sat, 4 Jan 2020 08:12:49 +0000|Sat, 4 Jan 2020 08:12:49 +0000
+f537cde76b5b230ae28024c002e50608502a60ee|Pipe remove-resources command stdout to /dev/null|Fri, 3 Jan 2020 08:21:09 +0000|Fri, 3 Jan 2020 08:21:09 +0000
+de53bdc526862b2a79c416a5b6a5e075693443b4|Add --force option when removing start-point-image|Fri, 3 Jan 2020 08:16:17 +0000|Fri, 3 Jan 2020 08:16:17 +0000
+4166306f8ae98bc3754cb977ea522ed00d925cc4|Ensure removing resources does not fail the script|Fri, 3 Jan 2020 08:11:33 +0000|Fri, 3 Jan 2020 08:11:33 +0000
+21ec3283d1bf3526683734a58b342ce0d9b2a523|Add comments to main script|Thu, 2 Jan 2020 16:15:28 +0000|Thu, 2 Jan 2020 16:15:28 +0000
+e0fd8350061671dff943bac5b6484bfac7fad4b9|Add core infrastructure code for testing red->amber->green progression|Thu, 2 Jan 2020 15:54:16 +0000|Thu, 2 Jan 2020 15:54:16 +0000
+81191d8a8c3301825a00333f8151c02bf3b41714|Drop attempt to make script work on Travis as well as CircleCI|Tue, 17 Dec 2019 18:07:43 +0000|Tue, 17 Dec 2019 18:07:43 +0000
+9dfd0f9222d300b4615a177f896f8c9ae17c83ee|Try to get main build-test-push-notify script working on Travis as well as CircleCI|Tue, 17 Dec 2019 17:48:31 +0000|Tue, 17 Dec 2019 17:48:31 +0000
+ebd97b7b45fb46680e4a0380579e43e1d7bf69d0|Script tidying|Mon, 11 Nov 2019 10:18:07 +0000|Mon, 11 Nov 2019 10:18:07 +0000
+0988b69e30e493538110c9df1d345a3798cd38df|Script tidying|Mon, 11 Nov 2019 08:54:08 +0000|Mon, 11 Nov 2019 08:54:08 +0000
+020a4154928e4f200e1e82b675b6bab76f72938b|Revert script to work on CI only|Fri, 20 Sep 2019 10:07:06 +0100|Fri, 20 Sep 2019 10:07:06 +0100
+80fe1dd05efc3cecfb9e5a02f9cd4ba1e47368d1|Update script to work on Travis|Fri, 20 Sep 2019 09:54:21 +0100|Fri, 20 Sep 2019 09:54:21 +0100
+705706e66dea69c8c0bbc6404e19460356876103|switch back to docker/ dir|Sun, 23 Jun 2019 15:23:01 +0100|Sun, 23 Jun 2019 15:23:01 +0100
+60035fb619aa82b40d80affccc273113016e26c0|generate Dockerfile from Dockerfile.base|Wed, 19 Jun 2019 11:25:12 +0100|Wed, 19 Jun 2019 11:25:12 +0100
+d79d040d2cbb29ff3afa8a034faf3cf10fceeebb|in main-script restore TMP_DIR which is needed to hold curled cyber-dojo script|Wed, 19 Jun 2019 10:51:03 +0100|Wed, 19 Jun 2019 10:51:03 +0100
+01de07190a3ce74ac084d8a969071798c60c87c3|Dockerfile has to be in the context-dir; so writing a new Dockerfile to the SRC_DIR and using that|Wed, 19 Jun 2019 10:42:17 +0100|Wed, 19 Jun 2019 10:42:17 +0100
+dd3a7d80e2db653e3a79b44bd802eebc8798df6a|try simpler strategy of using [docker build --file] to name the augmented Dockerfile but retaining the original context dir|Wed, 19 Jun 2019 10:35:30 +0100|Wed, 19 Jun 2019 10:35:30 +0100
+cfe006a5e00a0739a0806070801200e5a09c393a|if running on CI put context-dir (for docker build) into /tmp otherwise [cp -R] fails as you cannot copy a dir onto itself|Wed, 19 Jun 2019 10:18:45 +0100|Wed, 19 Jun 2019 10:18:45 +0100
+d342d7006fba719cc187459838501f8fd614a178|in main script allow  to default to /Users/jonjagger/repos/cyber-dojo-languages/image_builder|Wed, 19 Jun 2019 09:59:19 +0100|Wed, 19 Jun 2019 09:59:19 +0100
+42ccc41f0db2f169e25a3e7630da6e686029726f|force ci run|Wed, 19 Jun 2019 09:43:52 +0100|Wed, 19 Jun 2019 09:43:52 +0100
+ab5bc814b50c60f3a55159f74ca9f5163b1302eb|assume Dockerfile is in root dir of supplied SRC_DIR|Tue, 18 Jun 2019 20:16:27 +0100|Tue, 18 Jun 2019 20:16:27 +0100
+cc04ba282b5f44d127aac0fe8c696bc0e489a3e6|use TMP_DIR locations that exist on default VM when using Docker Toolbox|Tue, 18 Jun 2019 20:15:54 +0100|Tue, 18 Jun 2019 20:15:54 +0100
+4231600b926eb7a85f1a0caf11fd74e451532632|refactoring; tidy main sh script|Mon, 17 Jun 2019 18:46:03 +0100|Mon, 17 Jun 2019 18:46:03 +0100
+d9c6cdbd0c135f1341f1e01395f0bf3e12708803|[ci skip] readme update|Mon, 17 Jun 2019 10:26:15 +0100|Mon, 17 Jun 2019 10:26:15 +0100
+c96c5683067ad0ae720f8ae83f0ddf015d954e8d|[ci skip] readme update|Mon, 17 Jun 2019 08:39:16 +0100|Mon, 17 Jun 2019 08:39:16 +0100
+ea54638a909879e1547421ac0fc904c2ec94f5c1|remove incorrect quotes around bash argument|Sun, 16 Jun 2019 18:47:12 +0100|Sun, 16 Jun 2019 18:47:12 +0100
+6ded25ffe12cc047a9e0a1f53dceef581b1f9e7a|fix incorrect image-name in main script|Sun, 16 Jun 2019 14:00:34 +0100|Sun, 16 Jun 2019 14:00:34 +0100
+f3944d0dacccb70270e0ae08767635e06f975bed|[ci skip] add empty script for existing Travis runs|Sat, 15 Jun 2019 21:50:43 +0100|Sat, 15 Jun 2019 21:50:43 +0100
+7cfe21ae16cecfae1be52e128c4e65371713c0e6|refactoring; drop unneeded docker run volume-mount|Sat, 15 Jun 2019 18:49:38 +0100|Sat, 15 Jun 2019 18:49:38 +0100
+ce5920af551b74777d94a8b80550d5d6cc8da63f|[ci skip] refactoring; delete dead code|Sat, 15 Jun 2019 18:27:59 +0100|Sat, 15 Jun 2019 18:27:59 +0100
+9cc01cb45e9ead64ae3f90f11d3e1d9a44d16576|split off dependents_notifier into two new repos|Sat, 15 Jun 2019 18:18:46 +0100|Sat, 15 Jun 2019 18:18:46 +0100
+021c9d513ff704e280df1a0620d2a60600d5b3ed|[ci skip] fix broken hyperlink in readme|Sat, 15 Jun 2019 17:00:23 +0100|Sat, 15 Jun 2019 17:00:23 +0100
+eab72d132a7b274c6c76853f34978e99db620848|delete dead code|Sat, 15 Jun 2019 16:30:14 +0100|Sat, 15 Jun 2019 16:30:14 +0100
+30ab64a0fd5edff4a0a86a744305cb41200f7026|move dockerfile-augmenter and image-namer into their own repos|Sat, 15 Jun 2019 16:26:51 +0100|Sat, 15 Jun 2019 16:26:51 +0100
+8a52cb23c6c5b1844e22f4890dcb0358bb834ef3|fix path error|Sat, 15 Jun 2019 14:47:30 +0100|Sat, 15 Jun 2019 14:47:30 +0100
+45fcc4a61aa55a29721a0ab9ea3a9d47f73970e7|refactoring; add dir/ structure to image_namer|Sat, 15 Jun 2019 14:37:37 +0100|Sat, 15 Jun 2019 14:37:37 +0100
+29b9d295b93049399ed4eb6cbb92946ed0d1d63c|refactoring; delete dead lines from dependents_notifier's Dockerfile|Sat, 15 Jun 2019 14:33:35 +0100|Sat, 15 Jun 2019 14:33:35 +0100
+fa24cdf2bc4ac36b3d105b38c631cb6cdf2c0b4e|refactoring; added dir/ structure to dependents_notifier|Sat, 15 Jun 2019 14:27:11 +0100|Sat, 15 Jun 2019 14:27:11 +0100
+d700b222ccb35a4277f71ab283653428289428dd|add name of base os to augmented Dockerfile comment|Sat, 15 Jun 2019 14:24:56 +0100|Sat, 15 Jun 2019 14:24:56 +0100
+350c5bffe859b0df44c8cff6e250e46db7b13493|refactoring; add dir/ structure to dockerfile_augmenter|Sat, 15 Jun 2019 14:23:00 +0100|Sat, 15 Jun 2019 14:23:00 +0100
+b86b7191acd341de096ba10dfa6252234ec4f050|fix incorrect image names|Sat, 15 Jun 2019 14:17:07 +0100|Sat, 15 Jun 2019 14:17:07 +0100
+fa07258f2f2b9906ce74c67aaab76eb5e22a3699|refactoring; rename script|Sat, 15 Jun 2019 07:14:32 +0100|Sat, 15 Jun 2019 07:14:32 +0100
+7a8fa0c6335f9bb559f735ebd6b2a88b65bbc90e|tweak test log messages|Sat, 15 Jun 2019 06:55:26 +0100|Sat, 15 Jun 2019 06:55:26 +0100
+57a970fdf9dad4bf50af68055733e218ded6187b|refactoring; use better name for circle-ci API token env-var|Sat, 15 Jun 2019 06:45:58 +0100|Sat, 15 Jun 2019 06:45:58 +0100
+cbe705acf1c5c55a4b4bd8856fad442dfaef69f5|use CIRCLE_API_USER_TOKEN env-var in dependents-notifier|Fri, 14 Jun 2019 22:46:37 +0100|Fri, 14 Jun 2019 22:46:37 +0100
+9e35ea5f6085eac0fd097cd2842a7f40c4992ad0|delete dead --env option|Fri, 14 Jun 2019 22:36:06 +0100|Fri, 14 Jun 2019 22:36:06 +0100
+cc793262b8e3c26c636dc55d9c3891ab2b45f517|move circleci notes into its trigger script file|Fri, 14 Jun 2019 22:30:54 +0100|Fri, 14 Jun 2019 22:30:54 +0100
+73374c9c40737c47fff2e47954bf23d2b090204d|added notes on the downside of switching to CircleCI and notifying dependent repos using a CircleCI API POST; viz your lose image immutability|Fri, 14 Jun 2019 22:15:40 +0100|Fri, 14 Jun 2019 22:15:40 +0100
+70f1cdc4c6c1b6693b3d9713fe7c2aa887aa9cc5|does a bash ! need a following space?|Fri, 14 Jun 2019 20:52:46 +0100|Fri, 14 Jun 2019 20:52:46 +0100
+742e98e964c7a2c64d795eb4e042b79da9dc65cf|add assertions to tests to verify build_test_push.sh script does not push to dockerhub nor notify dependent repos when running image_builders own tests|Fri, 14 Jun 2019 16:40:25 +0100|Fri, 14 Jun 2019 16:40:25 +0100
+fda0b528090ba69644a572a1ee03e635190eda8d|turn of stdout/stderr redirection to check image-builders tests are not trying to push the images they create as part of the tests|Fri, 14 Jun 2019 16:25:22 +0100|Fri, 14 Jun 2019 16:25:22 +0100
+f311e8f8f8f2deeaec0fc78c74a2187a7deb2c8e|add echo to see when script is being run as part of image_builder's own test-run|Fri, 14 Jun 2019 16:19:27 +0100|Fri, 14 Jun 2019 16:19:27 +0100
+441dce3a7b8da21b7b9b26c1af339e69fa67bed3|find ci env-var more directly|Fri, 14 Jun 2019 16:15:47 +0100|Fri, 14 Jun 2019 16:15:47 +0100
+66051888d3c125d271057586f589869450b09b0b|add echo to ci script to find env-var value|Fri, 14 Jun 2019 16:13:02 +0100|Fri, 14 Jun 2019 16:13:02 +0100
+a4f886a0c2f1d90a4b72e059d5b55f0992ab745a|add missing docker-login to ci script|Fri, 14 Jun 2019 16:09:14 +0100|Fri, 14 Jun 2019 16:09:14 +0100
+8b4d679307d198a1a032556560b65c0fed31b967|drop using duplicate script|Fri, 14 Jun 2019 16:03:40 +0100|Fri, 14 Jun 2019 16:03:40 +0100
+5be6eeadb2142f90b83c47c76c66e03644d39454|add new script (2) for use, currently, only in image-builders' test run|Fri, 14 Jun 2019 15:58:21 +0100|Fri, 14 Jun 2019 15:58:21 +0100
+89cb56f9086a1272228bbf2ff77ec1a9d88a329f|turn off building from Travis|Fri, 14 Jun 2019 15:50:20 +0100|Fri, 14 Jun 2019 15:50:20 +0100
+5ded9c4dc8e54c344abedc39c49bda8b5213d386|rename script run from circleCI scripts|Fri, 14 Jun 2019 15:40:37 +0100|Fri, 14 Jun 2019 15:40:37 +0100
+01b48e57ff8692df914816bbe8b274d5b48db03e|update scripts so bash functions are all lowercase|Fri, 14 Jun 2019 15:28:55 +0100|Fri, 14 Jun 2019 15:28:55 +0100
+d30fc810e2f70f2b9d883cbb2b288fa1f57f1fdc|add script which does not do docker-login|Fri, 14 Jun 2019 15:22:37 +0100|Fri, 14 Jun 2019 15:22:37 +0100
+78006ea0c74055594d3a6189be624773ee105f74|move docker image tools to cyberdojofoundation org|Fri, 14 Jun 2019 15:10:38 +0100|Fri, 14 Jun 2019 15:10:38 +0100
+007051d5bad3705395821ac41c396580608e1bef|readme update|Fri, 14 Jun 2019 14:35:42 +0100|Fri, 14 Jun 2019 14:35:42 +0100
+71b118c3f151dd82b796784fd7c626aa888e4484|[ci skip] remove dead file|Fri, 14 Jun 2019 13:07:22 +0100|Fri, 14 Jun 2019 13:07:22 +0100
+1df014e1e20f6f901c071d9e0e49e5ab15d09984|delete unneeded code from .circleci/config.yml; image_builder does not have a single docker-image; it has a single sh script and a few docker-image tools|Fri, 14 Jun 2019 13:03:17 +0100|Fri, 14 Jun 2019 13:03:17 +0100
+32737b24b8917c6453daa71c64f2870f1b7981f0|update script to recognize when it is running on Travis and CircleCI|Fri, 14 Jun 2019 12:55:19 +0100|Fri, 14 Jun 2019 12:55:19 +0100
+ac751fc4a325de6b922c58d905c3aa02bde9083d|use same ci-script name as all other repos|Fri, 14 Jun 2019 12:45:25 +0100|Fri, 14 Jun 2019 12:45:25 +0100
+4b0f157a7c97c3e195bc13467a369bf9ef9eea63|give cyber-dojo-languages organization its own context on CircleCI|Fri, 14 Jun 2019 12:40:50 +0100|Fri, 14 Jun 2019 12:40:50 +0100
+1bb2c76a054af23ec91a88ba35a4d9a9d942f61a|switch from Travis to CircleCI|Fri, 14 Jun 2019 12:36:48 +0100|Fri, 14 Jun 2019 12:36:48 +0100
+5a533ca5ce0eab06b6a2de179271a1f772b35f69|add debug echo's to run_build_image.sh script to see why images are not being pushed to dockerhub|Fri, 14 Jun 2019 12:10:19 +0100|Fri, 14 Jun 2019 12:10:19 +0100
+408f3764bcc075acd5ce30fc94a1b19a51753e04|refactoring; improve error message when running locally without sibling commander repo|Fri, 7 Jun 2019 16:05:49 +0100|Fri, 7 Jun 2019 16:05:49 +0100
+717efac4cc15dbf1a8a67248a351c8a05afef478|refactoring; delete dead file|Fri, 7 Jun 2019 15:07:36 +0100|Fri, 7 Jun 2019 15:07:36 +0100
+5936c7e5b7df1df6adbdc3f08cda480c10bbcc8f|Merge branch 'convert-tests-to-new-script'|Fri, 7 Jun 2019 11:28:39 +0100|Fri, 7 Jun 2019 11:28:39 +0100
+1109bb64c38b3ce5c5a2e3dcb016b2c048d45ff4|make old and new scripts the same to keep all LTFs running while branch is merged to master|Fri, 7 Jun 2019 11:24:36 +0100|Fri, 7 Jun 2019 11:24:36 +0100
+ca3c6018d436fc88ab72482f955150254650edf1|set COMMANDER_IMAGE env-var when running [cyber-dojo start-point create] locally; occurs when running language-test-framework's ./pipe_build_up_test.sh scripts and you need to avoid using versioner:latest image; in short allows local dev+testing|Thu, 6 Jun 2019 21:19:31 +0100|Thu, 6 Jun 2019 21:19:31 +0100
+d00f366b1c50d6c41cd84dc87b8b69390b69c4d3|in travis script limit git depth to 5 and branch to master|Thu, 30 May 2019 15:17:10 +0100|Thu, 30 May 2019 15:17:10 +0100
+b2c28fe9aa22c59dc559dacff3fadb0fab59055a|in travis script limit git depth to 5 and branch to master|Thu, 30 May 2019 15:12:26 +0100|Thu, 30 May 2019 15:12:26 +0100
+96ef3ba6cad8bb28fbe3da5f48a5bc3f35a49e0e|add version check to script so it can be removed from each CDL ci script|Thu, 30 May 2019 15:05:40 +0100|Thu, 30 May 2019 15:05:40 +0100
+503442b1f50e54cdeacd9b73a60d920900f799ef|set +x permission on script|Thu, 30 May 2019 15:02:18 +0100|Thu, 30 May 2019 15:02:18 +0100
+2ad6e0af162cc4de6f5d832c874fdf26e862225e|add copy of main script with different-name as used by a few of the CDL repos during manual testing|Thu, 30 May 2019 14:54:23 +0100|Thu, 30 May 2019 14:54:23 +0100
+3a0a915e3131adb4c9055368f460724542464b31|delete dead files|Thu, 30 May 2019 14:53:24 +0100|Thu, 30 May 2019 14:53:24 +0100
+d645a265b9f7b85ae5ce19c732fe9171dc5694b4|switch to new script|Thu, 30 May 2019 14:49:00 +0100|Thu, 30 May 2019 14:49:00 +0100
+14ea424ba07f2a5fc751e4e77d4bd8c9ebc3e36c|refactoring; collapse test duplication|Thu, 30 May 2019 14:42:58 +0100|Thu, 30 May 2019 14:42:58 +0100
+bfbfd230add9cb77f0a112a2b919d4a554454f48|tests pass using new script|Thu, 30 May 2019 14:33:03 +0100|Thu, 30 May 2019 14:33:03 +0100
+a69b7bd30409e8fbe1ccf745bea35c938596ede8|save point, partially complete|Thu, 30 May 2019 13:47:26 +0100|Thu, 30 May 2019 13:47:26 +0100
+5b0fa652edc1e96e9994f4161408102cc7f2b6f2|[ci skip] fix incorrect paths in new build-script|Thu, 30 May 2019 12:42:12 +0100|Thu, 30 May 2019 12:42:18 +0100
+c450b80c7b64d0d80eed40acb169d79ae979aa58|tidy scripts|Thu, 30 May 2019 10:13:16 +0100|Thu, 30 May 2019 10:13:16 +0100
+5b8c1fb8da31fc1810000c45c2d5687812127666|[ci skip] tidy ci script output|Thu, 30 May 2019 09:58:57 +0100|Thu, 30 May 2019 09:58:57 +0100
+1e042aca666b14860a552463fe1bc9a047c785dc|[ci skip] tidy ci script output|Thu, 30 May 2019 09:54:18 +0100|Thu, 30 May 2019 09:54:18 +0100
+441781a61d82fb4116de98d60e5b484f33be8db3|[ci skip] tidy new script's output|Thu, 30 May 2019 09:49:42 +0100|Thu, 30 May 2019 09:49:42 +0100
+168b349d30d123cf4cc87bc1969dd593fae23604|drop unused variable in notifier code|Thu, 30 May 2019 08:22:28 +0100|Thu, 30 May 2019 08:22:28 +0100
+54cb9fc3c11cf4b34f6e00a8c03429132380b763|flush writing to stream in notifier|Thu, 30 May 2019 08:21:57 +0100|Thu, 30 May 2019 08:21:57 +0100
+f589230a2696c87d2b255a8ecbadcc7420a5c35a|drop --verbose option in Dockerfile|Thu, 30 May 2019 08:21:35 +0100|Thu, 30 May 2019 08:21:35 +0100
+390081f7d21150eee9bba3c5c1dc5521060ea32f|[ci skip] add --verbose to help see why notifier is not running|Thu, 30 May 2019 08:16:53 +0100|Thu, 30 May 2019 08:16:53 +0100
+9ff10ff42fc285729edeae910015333884097ee1|[ci skip] check CI notification context in main script and not in notifier|Thu, 30 May 2019 08:01:29 +0100|Thu, 30 May 2019 08:01:29 +0100
+88c953cf660aaff4cc0313643510766615b4a0e4|[ci skip] refactoring; use lowercase for local bash variables|Thu, 30 May 2019 07:43:39 +0100|Thu, 30 May 2019 07:43:39 +0100
+c61fafe7a53224ebdeea5978d6f5c219dc5d6e14|refactoring; delete dead code|Thu, 30 May 2019 07:33:34 +0100|Thu, 30 May 2019 07:33:34 +0100
+5e00b33a8741f1d6208157a497a32e09730bf117|[ci skip] delete dead code|Thu, 30 May 2019 07:24:18 +0100|Thu, 30 May 2019 07:24:27 +0100
+82ce0e8a770d017f6bc8ebd532ca423748ddc622|[ci skip] refactor new build-script; move docker login,push,logout out of notifier tool and into main script|Thu, 30 May 2019 07:17:23 +0100|Thu, 30 May 2019 07:17:23 +0100
+6f58b9621374f31653a0a4f068d4ebc6e72377d9|refactoring; extract method|Thu, 30 May 2019 07:03:24 +0100|Thu, 30 May 2019 07:03:24 +0100
+dc06ce2558599d1a37a2cf3b79fcf0e7f62165e2|refactoring; renaming|Thu, 30 May 2019 06:58:32 +0100|Thu, 30 May 2019 06:58:32 +0100
+44f56fbe97b48b8d942efb507aff1730ff92c12a|refactoring; script tidying|Thu, 30 May 2019 06:55:06 +0100|Thu, 30 May 2019 06:55:06 +0100
+25f51714ea71a58f0f80c427fb22100a7b8ee323|[ci skip] script tidying|Thu, 30 May 2019 06:28:10 +0100|Thu, 30 May 2019 06:28:10 +0100
+9e085a7c22882369bd9f8d80ab4c3a87a32854d4|add missing file to notifier|Wed, 29 May 2019 22:21:35 +0100|Wed, 29 May 2019 22:21:35 +0100
+1237c7dc261b0e0732cc86b44860cadab0304dfa|fix missing include|Wed, 29 May 2019 22:12:08 +0100|Wed, 29 May 2019 22:12:08 +0100
+c84f78e6d00b3742370ead3b10124f0d48ce5149|[ci skip] fix incorrect path in dependents-notifier in new script|Wed, 29 May 2019 22:05:41 +0100|Wed, 29 May 2019 22:05:41 +0100
+68c9d1795aaa75487113dc769b006a4ab28ce042|add missing volume-mount to dependents-notifier and change FROM to docker-base|Wed, 29 May 2019 21:50:27 +0100|Wed, 29 May 2019 21:50:27 +0100
+b95db2f6a65edeca25038ff232041f78935680fb|[ci skip] fix bug around a logical not|Wed, 29 May 2019 21:45:31 +0100|Wed, 29 May 2019 21:45:35 +0100
+b6316b6f43b13fd1af124e921bfaa97d9afcfd69|[ci skip] fix incorrect context-dir path|Wed, 29 May 2019 21:35:38 +0100|Wed, 29 May 2019 21:35:46 +0100
+1dbd4ddd55533e7c2bae4896a1dd102fe6ed274f|[ci skip] add set -x and some [ls -al]'s on new script for debugging|Wed, 29 May 2019 21:09:01 +0100|Wed, 29 May 2019 21:09:07 +0100
+5730833261589576a766139287e845896bae24bf|[ci skip] update candidate script for testing with a cdl repo|Wed, 29 May 2019 20:59:27 +0100|Wed, 29 May 2019 20:59:27 +0100
+86f30bb5d95e48964224e74e688e7011b76ffd48|added notify-dependents call to end of main script|Wed, 29 May 2019 20:23:02 +0100|Wed, 29 May 2019 20:23:02 +0100
+36509c896b204b2172127a70ed74cff68a140a56|added replacement main-script to try on individual CDL repos|Wed, 29 May 2019 17:16:18 +0100|Wed, 29 May 2019 17:16:18 +0100
+18e13d4d40c1f904200dbbdf5f14d57cf5f678e0|added comments on what code will die when reorg is done|Wed, 29 May 2019 16:43:11 +0100|Wed, 29 May 2019 16:43:11 +0100
+6823d68fdc72340a067cc3cfe6a1adf26a930dbb|more wip for dependents-notifier|Wed, 29 May 2019 16:26:58 +0100|Wed, 29 May 2019 16:26:58 +0100
+2f059e2aa866101e39eafeadd5a60d6d3399d55d|more wip for dependents-notifier|Wed, 29 May 2019 16:03:57 +0100|Wed, 29 May 2019 16:03:57 +0100
+ea69719e6ad40a5626571f6732ea1b46e94ea234|add commands to notifier's Dockerfile|Wed, 29 May 2019 15:49:04 +0100|Wed, 29 May 2019 15:49:04 +0100
+3a371de424df992ce4852ffdcf9bf465130eb078|refactoring|Wed, 29 May 2019 13:01:32 +0100|Wed, 29 May 2019 13:01:32 +0100
+854aa17e2ef1da8c090314831167bdc83d273aca|add simple checking of  to src/build_image.sh|Wed, 29 May 2019 12:52:11 +0100|Wed, 29 May 2019 12:52:11 +0100
+897328b6b2b28b4a42416ecd9ee40352eda766d1|refactoring|Wed, 29 May 2019 12:40:24 +0100|Wed, 29 May 2019 12:40:24 +0100
+a0894e7c26cc0fe79b56bc8ff319ecc36a289eba|delete debug command|Wed, 29 May 2019 12:33:50 +0100|Wed, 29 May 2019 12:33:50 +0100
+80255f095127dbfbbb517cfeb3775f2d62ce1b73|refactoring|Wed, 29 May 2019 12:30:42 +0100|Wed, 29 May 2019 12:30:42 +0100
+8bfb7295c46383284a1b411ad32f912d65a7b454|rename test-data dir; image_namer now handles both kinds of start-point, base-language and test-framework|Wed, 29 May 2019 12:28:58 +0100|Wed, 29 May 2019 12:28:58 +0100
+1fff6213e7272deffb4c85c7e131f8db3c335b5d|restructure test data and add start of test-data for test-language|Wed, 29 May 2019 12:06:03 +0100|Wed, 29 May 2019 12:06:03 +0100
+5fc0307ead5868e278b6ae055179421f7cf38fff|add start of notifier to ci script|Wed, 29 May 2019 11:58:36 +0100|Wed, 29 May 2019 11:58:40 +0100
+c31b9c2b0048634bd899cd73f14aae3e59489534|rename dir and add a .dockerignore file for each tool|Wed, 29 May 2019 11:52:45 +0100|Wed, 29 May 2019 11:52:45 +0100
+390055be9c76b115f0385f09dc9d315c5f15dbc7|start splitting off notification of dependent images into its own docker tool|Wed, 29 May 2019 11:48:52 +0100|Wed, 29 May 2019 11:48:52 +0100
+a275a306747f88dd84331d4f75aa6c6e19fe574c|try to fix failing docker-login in ci script|Wed, 29 May 2019 11:23:03 +0100|Wed, 29 May 2019 11:23:03 +0100
+f9205f13c0915c7967f60a3dbfdab094d23066ad|try to fix failing docker-login in ci script|Wed, 29 May 2019 11:19:46 +0100|Wed, 29 May 2019 11:19:46 +0100
+cde7525fc40da6bae957e5615360ca4d071e7ea9|fix bad paths in CI script|Wed, 29 May 2019 10:49:46 +0100|Wed, 29 May 2019 10:49:46 +0100
+95ad8d740d5fd6c6c433dec3955b41ca2c93cd9c|in CI script build new docker tools and push to dockerhub|Wed, 29 May 2019 10:44:05 +0100|Wed, 29 May 2019 10:44:05 +0100
+cce733f74190873002f00d3cd72900c22624a464|dont install sudo into built images|Wed, 29 May 2019 10:22:40 +0100|Wed, 29 May 2019 10:22:40 +0100
+39c8be82e8afa2b847be0bad84e6e5c5c0fd0eb2|delete dead files|Wed, 29 May 2019 10:07:39 +0100|Wed, 29 May 2019 10:07:39 +0100
+589b498b74263c87faaad81e233718be94aa7653|refactoring; simplify generated Dockerfile commands|Wed, 29 May 2019 09:45:01 +0100|Wed, 29 May 2019 09:45:01 +0100
+3c888e425292879756065c63ce3b2ad12874b1e0|comment/notes update|Wed, 29 May 2019 09:34:54 +0100|Wed, 29 May 2019 09:34:54 +0100
+ed3d1ccb30319e67bc13814586b5caf9924ba0b5|now emits correct runner-requirements line into generated Dockerfile|Wed, 29 May 2019 09:19:12 +0100|Wed, 29 May 2019 09:19:12 +0100
+48cb4e448b28ccac288e634c7f24f960f0a21c47|switch implementation to copying context-dir to /tmp|Wed, 29 May 2019 06:57:19 +0100|Wed, 29 May 2019 06:57:19 +0100
+336c6e19a6f0feeb4f7ee25cbd2f418b21070343|fold image_namer.sh script into main script|Wed, 29 May 2019 06:32:09 +0100|Wed, 29 May 2019 06:32:09 +0100
+93bba8ec6ecf8b7a1893906cd20261369322959e|fold augemented_Dockerfile.sh into main script|Wed, 29 May 2019 06:25:18 +0100|Wed, 29 May 2019 06:25:18 +0100
+ebf3b1be3edb36e2be8b802a247a2221044d95c2|added todo notes|Wed, 29 May 2019 06:21:30 +0100|Wed, 29 May 2019 06:21:30 +0100
+567e595a8ac2b6bf0bae39ff01ec9646ba152642|basic infrastructure now in place; image-namer gets name from volume-mounted docker/image_name.json file|Wed, 29 May 2019 06:10:50 +0100|Wed, 29 May 2019 06:10:50 +0100
+3619a4234f0b001e35c8e4130e17578963e15e1c|image_name now comes from docker run command|Wed, 29 May 2019 06:01:38 +0100|Wed, 29 May 2019 06:01:38 +0100
+7e7943a34efa55063a620839fb249ab4e5a33247|more src/ reorganizing|Wed, 29 May 2019 05:58:08 +0100|Wed, 29 May 2019 05:58:08 +0100
+d154ef7b67c9017c0d457e891d6bba8b349e9f39|refactoring; organize src/ dir|Wed, 29 May 2019 05:47:53 +0100|Wed, 29 May 2019 05:47:53 +0100
+0d504e59fd3e5e9e6dc7d7e89dedd19c1c100ffe|start work on tool to get image_name|Wed, 29 May 2019 05:44:38 +0100|Wed, 29 May 2019 05:44:38 +0100
+8ddbd741ef39b4166a772599f6ab2187d2c437ce|refactoring; delete dead file|Wed, 29 May 2019 05:33:15 +0100|Wed, 29 May 2019 05:33:15 +0100
+bb18f8d981b92da4b0c2a006a4833306fa4a47c6|move md files into root dir|Wed, 29 May 2019 05:29:32 +0100|Wed, 29 May 2019 05:29:32 +0100
+7d5e4df6e2364d81848b9861b2c160521f4a4dad|refactoring; rename tools/ to src/|Wed, 29 May 2019 05:26:46 +0100|Wed, 29 May 2019 05:26:46 +0100
+7e14300f4afe04f4ff973ca3d036ecdb6a771690|more work on tools/ structure|Wed, 29 May 2019 05:26:29 +0100|Wed, 29 May 2019 05:26:29 +0100
+41171b9526e3bb687ac6d34f54f2c4bd07b87db2|simplify tools/ structure|Tue, 28 May 2019 21:45:22 +0100|Tue, 28 May 2019 21:45:22 +0100
+811f3e92b2f1cd5b91a26378c74a1a3d65a1a18a|start work on new much simpler architecture|Tue, 28 May 2019 21:30:59 +0100|Tue, 28 May 2019 21:30:59 +0100
+06a111ef699366b020ae60cfb4e00450c7b07ca7|SRC_DIR passed to run_build_image.sh is now a git-cloneable URL|Tue, 28 May 2019 19:56:09 +0100|Tue, 28 May 2019 19:56:09 +0100
+afb9cac7f466e91e8dd5abc69c544082f09dd7bb|save-point while I think about reworking SRC_DIR which, in the tests, cannot be the argument to [cyber-dojo start-point create] since it is not a git-cloneable URL|Tue, 28 May 2019 17:27:34 +0100|Tue, 28 May 2019 17:27:34 +0100
+38bc0e34c89f60385bbc9cb49313b34622c4d338|turn off lots of checks now that ragger does colour determination and not runner|Mon, 27 May 2019 21:52:05 +0100|Mon, 27 May 2019 21:52:05 +0100
+16991a5d2a92c805fdd73406386bedf093848533|image-builder no longer inserts create_text_file_tar_list.sh into the image; runner does it instead|Mon, 13 May 2019 15:23:01 +0100|Mon, 13 May 2019 15:23:01 +0100
+09811a92625d96b9af6fea999b303e920a0da268|comment out creating start-point ready for switch to start-points being images|Fri, 12 Apr 2019 21:26:04 +0100|Fri, 12 Apr 2019 21:26:04 +0100
+68def9802b0775a22b4defaeeb263accf8281de8|[ci skip] notes update|Fri, 12 Apr 2019 14:39:58 +0100|Fri, 12 Apr 2019 14:39:58 +0100
+114fd1af77f99eb7ec6efef3f07d3f49e2b394b1|fix readme typo|Wed, 12 Dec 2018 14:36:33 +0100|Wed, 12 Dec 2018 14:36:33 +0100
+d7808d4dcda243a87f842695ae922827d9cef34e|update readme|Wed, 12 Dec 2018 14:08:13 +0100|Wed, 12 Dec 2018 14:08:13 +0100
+4cf7c10d37f0951d4ded22c232477d4b91fd370d|delete dead files|Wed, 12 Dec 2018 14:00:00 +0100|Wed, 12 Dec 2018 14:00:00 +0100
+991569c0a969eb4be812742b2ae2b138bf1f6b55|moved md files into docs/ dir and update readme with info re not pushing images nor triggering dependent repos if the run is via a Travis cron-job|Wed, 12 Dec 2018 13:59:34 +0100|Wed, 12 Dec 2018 13:59:34 +0100
+d8c5cc88b9585234a047410ff01a5c0ad2fa3938|add more comments on starter re-architecture's impact on Travis triggers and dockerhub pushes|Wed, 12 Dec 2018 12:49:06 +0100|Wed, 12 Dec 2018 12:49:06 +0100
+2d645a4729a9c80bef4f9849ab7b332d43326dbb|dont push built image to DockerHub if the Travis run was triggered by a Travis cron-job|Wed, 12 Dec 2018 12:40:44 +0100|Wed, 12 Dec 2018 12:40:44 +0100
+4f512066142bd98b3584de505bf3b16973075ad8|update script to use new single /cyber-dojo volume-mount point dir|Mon, 10 Dec 2018 17:03:46 +0100|Mon, 10 Dec 2018 17:03:46 +0100
+0bf0e311ddce05bd2fd20235e8c627326db367e1|try to fix Travis failure|Sun, 9 Dec 2018 18:15:19 +0000|Sun, 9 Dec 2018 18:15:19 +0000
+7eca7721313ac9d7818ee45ea0ae2da943bf6df8|try mkdir with sudo|Sat, 8 Dec 2018 17:36:22 +0000|Sat, 8 Dec 2018 17:36:22 +0000
+164db57cde7f29f772c053b651cbcaa542109a55|mkdir needs -p option|Sat, 8 Dec 2018 17:32:51 +0000|Sat, 8 Dec 2018 17:32:51 +0000
+915cfcb42e2b7d9192bc5541043c753fac75121a|set host-dir permissions for groups/katas/id-map if running on Travis|Sat, 8 Dec 2018 17:30:33 +0000|Sat, 8 Dec 2018 17:30:33 +0000
+808067cfbdcdb9627cc09fb2618aea0ab7da6255|revive tests ready to merging back to main trunk|Fri, 7 Dec 2018 11:08:55 +0000|Fri, 7 Dec 2018 11:08:55 +0000
+0756765b96780dfb9d03462b8ce646ffe15cde9f|delete unneeded line in docker-compose.yml|Fri, 7 Dec 2018 06:24:42 +0000|Fri, 7 Dec 2018 06:24:42 +0000
+51d04fa985ab7e2405b4cb62ac21d836b63fe0af|change name of runner container to not clash with main runner|Fri, 7 Dec 2018 06:17:16 +0000|Fri, 7 Dec 2018 06:17:16 +0000
+8a1924733d74b1c3bba87f772c59dbdf9b6213d4|dropped stateful-runner|Thu, 6 Dec 2018 13:21:04 +0000|Thu, 6 Dec 2018 13:21:04 +0000
+5dc1fe16e3b9c9c3c2aabb82d994d9816a39b3b7|runner-service update; s/kata_id/id/ which is 6 chars long|Wed, 10 Oct 2018 13:52:48 +0200|Wed, 10 Oct 2018 13:52:48 +0200
+562bf29b49e44fb9a4ebec1bc2d2674279cadc91|base images on cyberdojo/docker-base|Mon, 1 Oct 2018 12:57:48 +0100|Mon, 1 Oct 2018 12:57:48 +0100
+74c4e3d2e9b60db0ba78f6840b58d3c88502828d|tests now drop avatars|Sat, 29 Sep 2018 06:20:27 +0100|Sat, 29 Sep 2018 06:20:27 +0100
+a9d6b3c2ca7a955db50a2e135f6521c770a8c3be|removed avatar|Sat, 29 Sep 2018 06:04:51 +0100|Sat, 29 Sep 2018 06:04:51 +0100
+97dcc22a4e79dd512e2a4c9e82563281a40838c6|gem install travis at latest as 1.8.8 is now unsupported|Sat, 22 Sep 2018 07:59:24 +0100|Sat, 22 Sep 2018 07:59:24 +0100
+ea9e61593f22db718d60dc3e07b2e009a78ccabf|add --tty to main [docker run] to get inner docker login (to dockerhub) working|Fri, 21 Sep 2018 07:24:07 +0100|Fri, 21 Sep 2018 07:24:07 +0100
+9792cc5fd9af2bed773f09a5e949caf19ba98e19|add sandbox user:group for upcoming runner refactoring|Mon, 17 Sep 2018 19:33:13 +0100|Mon, 17 Sep 2018 19:33:13 +0100
+1b325e7e35e2c4e481ef6f7741ce35b4e77e0c5f|upgraded to docker-compose 1.22.0|Wed, 15 Aug 2018 05:46:46 +0100|Wed, 15 Aug 2018 05:46:46 +0100
+8210a96a964d462aa396464814d9e82cad99badd|upgrade to glibc 2.28|Wed, 15 Aug 2018 05:44:29 +0100|Wed, 15 Aug 2018 05:44:29 +0100
+5c663c47111974901427d7734599114c2a7956ba|detect files of length zero or one as being text files (file utility fails for these)|Fri, 13 Jul 2018 09:56:17 +0100|Fri, 13 Jul 2018 09:56:17 +0100
+8662ea86cc603210f7a51690335eb4e46e787431|runner hostnames/ports now set via env-vars|Mon, 9 Jul 2018 17:17:31 +0100|Mon, 9 Jul 2018 17:17:31 +0100
+cf159a6869fd91c1d1240d94e331a62d9e1cbd3c|remove travis_retry prefix, despite docs, it does not exist. Sigh|Thu, 5 Jul 2018 09:07:01 +0100|Thu, 5 Jul 2018 09:07:01 +0100
+6a9058df1827fe4b2e3c74b506599e54c9f0a489|on Travis try rerunning the script to get past travis-related build failures mostly due, it seems, to limited network bandwidth at their end|Thu, 5 Jul 2018 09:02:41 +0100|Thu, 5 Jul 2018 09:02:41 +0100
+e6c19bf7aaf4149e620855497b5ea64cc042f8b1|refactoring; create method for apt-get-install|Sun, 17 Jun 2018 09:45:14 +0100|Sun, 17 Jun 2018 09:45:14 +0100
+81548acf1044998a9ec1a52004040a50914b6176|install sudo into docker images ready for use by runners|Sun, 17 Jun 2018 09:22:56 +0100|Sun, 17 Jun 2018 09:22:56 +0100
+873d34a4b3e455e4ac7fb2882b816921791b10b3|don't make adding sandbox_dirs live yet as it could impact runners which still attempt to create the sandbox dir|Sun, 17 Jun 2018 09:04:49 +0100|Sun, 17 Jun 2018 09:04:49 +0100
+dee54d8ad4709ea23d8fe2699e64728e9c3fcd5d|added readme file on improved design to reduce intermediate Dockerfile complexity|Sun, 17 Jun 2018 07:50:37 +0100|Sun, 17 Jun 2018 07:50:37 +0100
+0c4431c12efd15cba926934c9234c504cf0e0011|builder now adds sandboxes/ dirs for all 64 avatars|Sun, 17 Jun 2018 07:42:55 +0100|Sun, 17 Jun 2018 07:42:55 +0100
+5ddf46bbe8b8981b24ef3ee48db17c48cafede15|update create_text_file_tar_list.sh, which builder inserts into /usr/local/bin/, so that it puts the names of empty files into the file-list (the file utility reports that empty file are binary)|Tue, 12 Jun 2018 12:45:58 +0100|Tue, 12 Jun 2018 12:45:58 +0100
+45e06a78803d5cd8e8892cb327e0561956dc7d2d|dont quote false in the json file snippet (doh)|Wed, 30 May 2018 14:19:44 +0100|Wed, 30 May 2018 14:19:44 +0100
+448ccf73341416e7b82cc2f8ed30d0faacd1771c|[ci skip] readme tweak|Sun, 13 May 2018 12:22:24 +0100|Sun, 13 May 2018 12:22:24 +0100
+43fcb779895c52336757ab96017b2db14c6bcea3|changed runner_stateful to runner-stateful (hostnames cannot contain an underscore)|Fri, 27 Apr 2018 15:50:09 +0100|Fri, 27 Apr 2018 15:50:09 +0100
+5948d27518c2cdf17739973ca15b031b990838e6|runner_stateless is now called runner-stateless (cant use underscore in a hostname)|Fri, 27 Apr 2018 09:08:26 +0100|Fri, 27 Apr 2018 09:08:26 +0100
+78cb6cfdd24bf93d88a383af53870eb13581cbc5|inject script into docker image to create list of text files ready for runner doing a tar-pipe out of the container to retrieve generated files (eg in Approval style test frameworks)|Thu, 19 Apr 2018 20:33:13 +0100|Thu, 19 Apr 2018 20:33:13 +0100
+29bcd000c3eb79a80958e2717608b6fb6fb9ce3b|refactoring|Sat, 14 Apr 2018 20:01:49 +0100|Sat, 14 Apr 2018 20:01:49 +0100
+cb0d4afcb7d3d1249f53be6bae5d2defaadc9d75|refactoring; use more intention revealing names|Sat, 14 Apr 2018 19:53:19 +0100|Sat, 14 Apr 2018 19:53:19 +0100
+e1ff0e2aba3f6934cb3ffac8dda0ccc561080724|refactoring|Sat, 14 Apr 2018 19:29:50 +0100|Sat, 14 Apr 2018 19:29:50 +0100
+9c2b6cc6095933b0131dd8b9a2fae9a218e874c7|have to do apt-get update before trying apt-get install or you get 'unable to locate package'|Wed, 11 Apr 2018 19:15:01 +0100|Wed, 11 Apr 2018 19:15:01 +0100
+4ccaf1b610e8c202358ab2a7cf9facfb21c6387f|ensure file utility is installed in Ubuntu (used by runner to determine if file is binary/text when tar-piping out of test-framework container)|Wed, 11 Apr 2018 16:42:47 +0100|Wed, 11 Apr 2018 16:42:47 +0100
+b502d7489e5faabbb3dfc210f3e049a75afb97fc|install file utility inside docker image ready for runner tar-piping text files out of the test-framework container|Wed, 11 Apr 2018 15:22:13 +0100|Wed, 11 Apr 2018 15:22:13 +0100
+9313d058d5d03d78669f85a1006a58bf60e5d0b7|added checks that options.json filename exists, and from pattern exists|Wed, 4 Apr 2018 08:38:11 +0100|Wed, 4 Apr 2018 08:38:11 +0100
+da252339f858135d6938dfa5ec140a29c75d0f64|refactoring; dont install tini in Dockerfiles, instead use --init option in docker-compose.yml|Thu, 29 Mar 2018 09:37:53 +0100|Thu, 29 Mar 2018 09:37:53 +0100
+f3573169874ce157ed260c0230f38766cc041489|refactoring|Tue, 6 Mar 2018 19:26:34 +0000|Tue, 6 Mar 2018 19:26:34 +0000
+1555d8ace226fd0f2fcf5ce689569552f488fcee|[ci skip] fix broken readme|Sun, 4 Mar 2018 12:03:58 +0000|Sun, 4 Mar 2018 12:03:58 +0000
+213e2a7bd2c9fc19717cac0443f20a12580a560d|[ci skip] readme tweak|Sun, 4 Mar 2018 12:02:58 +0000|Sun, 4 Mar 2018 12:02:58 +0000
+2c06425cb7c765fb57adff4ff19647d4b35b57dd|tweak wording in run_build_image.sh help text|Sun, 4 Mar 2018 12:00:17 +0000|Sun, 4 Mar 2018 12:00:17 +0000
+1fc45fcce3f44a274bea2cd546e5b7f1c9c44708|[ci skip] update comment in core image_builder.rb file|Sun, 4 Mar 2018 11:59:47 +0000|Sun, 4 Mar 2018 11:59:47 +0000
+4daf3a3d9a3889b63c3018aca7cb516e6b7417da|[ci skip] readme tweak|Sun, 4 Mar 2018 11:59:14 +0000|Sun, 4 Mar 2018 11:59:14 +0000
+cf47997c6df262412a243c7fad3a91fd9725ef73|[ci skip] tweak readme|Sun, 4 Mar 2018 11:50:29 +0000|Sun, 4 Mar 2018 11:50:29 +0000
+b94662eeb7b7e974d7233b622da91f00f9d7c62b|[ci skip] readme update|Sun, 4 Mar 2018 11:43:43 +0000|Sun, 4 Mar 2018 11:43:43 +0000
+a81a466e141d7b96d17eeadaa51362f22c5f5b54|made bash the default shell for all avatars on Alpine based images|Sat, 3 Mar 2018 19:56:05 +0000|Sat, 3 Mar 2018 19:56:05 +0000
+c39159ee92d691980ac929d4f9715f8a2b4d45b7|dropped version number from base image_names in Dockerfiles and use latest tag instead; use 'image_builder_test' for tag on names of created images so as not to overwrite true images if they exist|Sun, 25 Feb 2018 10:08:08 +0000|Sun, 25 Feb 2018 10:08:08 +0000
+d748de19ef815d80671c8f98e9be1bb04363a950|[ci skip] tweak diagnostic text|Thu, 8 Feb 2018 15:47:47 +0000|Thu, 8 Feb 2018 15:47:47 +0000
+0f03b769632acf182104eb5984a74707922d7017|removed runner_processful as a runner - reinstate when it can pass the fork-bomb tests|Thu, 8 Feb 2018 14:32:57 +0000|Thu, 8 Feb 2018 14:32:57 +0000
+04643a095760bb1b34fe515752d919fc2640a59c|added support for building Debian based image|Tue, 6 Feb 2018 12:59:58 +0000|Tue, 6 Feb 2018 12:59:58 +0000
+eb1d5800ed836d3e52539bc86c92b12998d3eef3|updated perl Dockerfile|Tue, 6 Feb 2018 12:59:41 +0000|Tue, 6 Feb 2018 12:59:41 +0000
+8cb85e5a02d66744ea84114ffd74b5e4901718c1|updated script to tee stdout _and_ stderr to terminal as well as saving them to files; makes debugging simpler|Tue, 6 Feb 2018 12:59:26 +0000|Tue, 6 Feb 2018 12:59:26 +0000
+1217213f1bf34398e3ef3f67c53e359147744b50|removed no-stderr-assertion as you get 'Creating network app_default with the default driver' when --tty removed|Sat, 6 Jan 2018 21:29:46 +0000|Sat, 6 Jan 2018 21:29:46 +0000
+926b84bd3e2e0fa5b25dc09c2984487692718a94|removed --tty option from docker commands so I can use travis_wait helper function on Travis|Sat, 6 Jan 2018 21:09:47 +0000|Sat, 6 Jan 2018 21:09:47 +0000
+d603af49b9068361a9d7fa72a31884c082cd2942|added max-seconds as manifest parameter|Fri, 1 Dec 2017 13:10:31 +0000|Fri, 1 Dec 2017 13:10:31 +0000
+109b9dead3d82bea8cfe969fecc7f49712a4d98f|updated tests|Wed, 29 Nov 2017 13:34:43 +0000|Wed, 29 Nov 2017 13:34:43 +0000
+788b40c5e2a5a1910d4869cd249135164a8c54e8|switched runners to new run_cyber_dojo_sh API|Wed, 29 Nov 2017 10:44:08 +0000|Wed, 29 Nov 2017 10:44:08 +0000
+c917f58a844fe5e525e73389d2aa25ecc2b957a9|refactoring; working towards 3 runners having the same API|Thu, 9 Nov 2017 20:55:37 +0000|Thu, 9 Nov 2017 20:55:37 +0000
+21ce59f4b4492340557d10d387c038696f9539ab|remove intermediate docker image in ensure block|Thu, 9 Nov 2017 20:44:11 +0000|Thu, 9 Nov 2017 20:44:11 +0000
+59d028098b500d7ecb1b4f1e4628c56ce4dec013|remove intermediate docker image|Thu, 9 Nov 2017 20:41:26 +0000|Thu, 9 Nov 2017 20:41:26 +0000
+63b40e89e3acb6438e20ae6620f3ca2cea73c107|refactoring|Thu, 9 Nov 2017 20:35:25 +0000|Thu, 9 Nov 2017 20:35:25 +0000
+80bc766d142444a9c4edf50c86cc4deacaacdffc|deleted dead sleeps; alpine-based images are now enhanced to give sub-second granularity|Wed, 8 Nov 2017 08:32:49 +0000|Wed, 8 Nov 2017 08:32:49 +0000
+15104840e302fe7de256ae1807b89f47ed088470|reinstate caching when building to speed up local runs|Wed, 8 Nov 2017 08:29:38 +0000|Wed, 8 Nov 2017 08:29:38 +0000
+496e9e13f85c9905c6f3d170e1cdb21cc8a0d33b|[ci skip] added note on circular dependency to readme|Mon, 6 Nov 2017 12:17:36 +0000|Mon, 6 Nov 2017 12:17:36 +0000
+28edbc1738240fc7da53e4858b522063cdfeef3d|removed sleep() calls now that runners and Alpine-based testFramework images both have coreutils/tar so datetime file-stamps have microsecond granularity|Mon, 6 Nov 2017 11:04:20 +0000|Mon, 6 Nov 2017 11:04:20 +0000
+1c9b1f60dc1f09bd3fcc904580df1e9503c043ce|you need to install coreutils and _tar_ to ensure datetime file-stamps of tar-piped files have microsecond granularity|Mon, 6 Nov 2017 10:52:43 +0000|Mon, 6 Nov 2017 10:52:43 +0000
+7ac210c48eceb9efaac55851bd8554aa818cb738|on Alpine add [apk add coreutils] to generated Dockerfile so that datetime file-stamps have sub-microsecond granularity|Mon, 6 Nov 2017 08:28:43 +0000|Mon, 6 Nov 2017 08:28:43 +0000
+cae14e0bb081e1697972c23b8142be809c6eefe1|add todo comment|Mon, 6 Nov 2017 08:27:57 +0000|Mon, 6 Nov 2017 08:27:57 +0000
+28f2714b3d63e43355f2829d91a17c9fd2488cf3|comment tweaks|Mon, 6 Nov 2017 08:27:44 +0000|Mon, 6 Nov 2017 08:27:44 +0000
+613e39c5774e792e694a6d396d4cca0c414293b9|fix incorrect function argument|Sun, 5 Nov 2017 19:46:51 +0000|Sun, 5 Nov 2017 19:46:51 +0000
+ec0b18e26439ea66d359076d681bfdb3176e8156|added check that Dockerfile is based on Alpine or Ubuntu|Sun, 5 Nov 2017 19:24:51 +0000|Sun, 5 Nov 2017 19:24:51 +0000
+c2d938355b1a85ea4a20721564d84d290170a7be|[ci skip] added custom-start-point test-data example (not used yet)|Sun, 5 Nov 2017 09:51:34 +0000|Sun, 5 Nov 2017 09:51:34 +0000
+f3e061c398f17b043801a0d0f0f1304e44ade921|comment update|Sun, 5 Nov 2017 09:50:49 +0000|Sun, 5 Nov 2017 09:50:49 +0000
+1a4ccc2640c09053fbbd68958f05a2aa64484f83|dont send Travis triggers in alphabetical order in order to spread the repos triggered before you hit the Travis 10-triggers per hour limit|Sat, 4 Nov 2017 08:19:32 +0000|Sat, 4 Nov 2017 08:19:32 +0000
+620f43b173ac999d00b8331bf1e205c6764e0e5c|fix broken tests|Sat, 4 Nov 2017 07:13:19 +0000|Sat, 4 Nov 2017 07:13:19 +0000
+08c9444e29898a6b7ed749571da6e6b063c3a21a|added comments|Sat, 4 Nov 2017 06:48:51 +0000|Sat, 4 Nov 2017 06:48:51 +0000
+7913cfd3401dad2e3f20ee87c4be9b4e1c9f4ced|refactoring|Sat, 4 Nov 2017 06:32:49 +0000|Sat, 4 Nov 2017 06:32:49 +0000
+65c18aae370e47162ddbb7b3f53a5365b00922fb|print leading # on all info lines so output of [docker build] is easier to distinguish|Sat, 4 Nov 2017 06:26:06 +0000|Sat, 4 Nov 2017 06:26:06 +0000
+ed06aca216669f72d49c0a27ec43355c90201b1a|restore leading # on info lines|Sat, 4 Nov 2017 06:21:48 +0000|Sat, 4 Nov 2017 06:21:48 +0000
+9d0c6d998516d893a1908f5a552c32bd9c55680b|refactoring|Sat, 4 Nov 2017 06:08:37 +0000|Sat, 4 Nov 2017 06:08:37 +0000
+94c720b8478d6aec920f1d754e0625f2ff06fba6|refactoring|Sat, 4 Nov 2017 06:05:49 +0000|Sat, 4 Nov 2017 06:05:49 +0000
+0361004e4b9aa836e010646bd47c1a05436dbeca|refactoring|Sat, 4 Nov 2017 06:00:30 +0000|Sat, 4 Nov 2017 06:00:30 +0000
+c5ecf3ce199b522ecbb3e6d6e0083d130a0e1b2c|refactoring; properly test avatar users are added inside the created image|Fri, 3 Nov 2017 16:04:16 +0000|Fri, 3 Nov 2017 16:04:16 +0000
+7e9a6ca5695974114b2937ac07ebb2ba4fcde2e4|ensure sed matches only FROM lines which start on column zero|Fri, 3 Nov 2017 13:20:28 +0000|Fri, 3 Nov 2017 13:20:28 +0000
+a1d49d0d6639b98b52e226c58ae343c4be37fd43|fix [docker build] bug which seems to be related to a docker cache fault|Fri, 3 Nov 2017 13:19:48 +0000|Fri, 3 Nov 2017 13:19:48 +0000
+acf45d4f9dae1155fca5c137ed2e71f9c31b5ce9|add --no-cache to both [docker build] commands to minimize local-image-state effects|Fri, 3 Nov 2017 09:53:49 +0000|Fri, 3 Nov 2017 09:53:49 +0000
+593aee34683b18fefdb286aac43417b6689f9eb3|remove tini install from test-data Dockerfile as [docker run] command in runners now does '--init'|Fri, 3 Nov 2017 09:27:59 +0000|Fri, 3 Nov 2017 09:27:59 +0000
+01b45a1d0ba553a16a2ab229833dd0e76f6bb7cc|refactoring|Fri, 3 Nov 2017 07:08:53 +0000|Fri, 3 Nov 2017 07:08:53 +0000
+34b715a16b0b39dd856198177b922e3791290db1|refactoring; use new [docker build --file -] option to read Dockerfile from stdin so that I can volume mount SRC_DIR read-only|Thu, 2 Nov 2017 17:35:41 +0000|Thu, 2 Nov 2017 17:35:41 +0000
+e78a9de67ea1cf946cff92522fac2042f4f828e9|comment update|Thu, 2 Nov 2017 17:20:55 +0000|Thu, 2 Nov 2017 17:20:55 +0000
+38b212ee6b7b505fc9f3d840e05442b6c3d3d3a7|swap dockerfile build order|Thu, 2 Nov 2017 17:06:59 +0000|Thu, 2 Nov 2017 17:06:59 +0000
+e2f5f6ff410304580b3e43d6ccfb9ca6f64f8eb9|pass in Dockerfile's FROM entry into image-builder so it can swap dockerfile build order|Thu, 2 Nov 2017 15:46:34 +0000|Thu, 2 Nov 2017 15:46:34 +0000
+9f17bb81701d0431a86735e618eedcc697d093b0|fix argument checking and improve diagnostic output|Thu, 2 Nov 2017 15:39:50 +0000|Thu, 2 Nov 2017 15:39:50 +0000
+d2be42d281bdf80f1d5269dff564699774b84b7e|beef up the error-handling in the main script so resources are reclaimed|Thu, 2 Nov 2017 14:16:30 +0000|Thu, 2 Nov 2017 14:16:30 +0000
+2a95f67ae8f08f908da20194ca840ce68aee02ce|refactoring; added specific tests for avatar-users creation|Thu, 2 Nov 2017 11:30:09 +0000|Thu, 2 Nov 2017 11:30:09 +0000
+f8ab1ae16a64ec6c69f37dcab54028c4560fefa3|switched alpine language from gcc to java because it docker-builds more quickly and is (currently) a more representative alpine language|Thu, 2 Nov 2017 10:54:20 +0000|Thu, 2 Nov 2017 10:54:20 +0000
+5a274452d686ceea787ce3b7305646ca6d0271f6|remove Alpine web-proxy squid user from created docker-image so you dont have to manually do a [deluser squid] in the Dockerfile|Thu, 2 Nov 2017 09:17:12 +0000|Thu, 2 Nov 2017 09:17:12 +0000
+6c1e73be5e20e51535d0543b30c3aba1fc0bc1d3|switched avatar-used in red/amber/green runs to squid as that user has special handling on Alpine|Thu, 2 Nov 2017 08:17:56 +0000|Thu, 2 Nov 2017 08:17:56 +0000
+20dbf62bb4554745008d5064cbcf3fe5b9e24add|added test-data and test-cases for processful-runner|Wed, 1 Nov 2017 14:32:43 +0000|Wed, 1 Nov 2017 14:32:43 +0000
+7c1b33ab6b5847b1f5a7ddc47e1f7624ac188ebe|refactoring|Wed, 1 Nov 2017 14:20:38 +0000|Wed, 1 Nov 2017 14:20:38 +0000
+721b3c5bd2254cc9eaf06fbb72d1544053454c83|refactoring|Wed, 1 Nov 2017 11:26:58 +0000|Wed, 1 Nov 2017 11:26:58 +0000
+1a13cf13176f66f20c8b80ce5abc23acf1ef8fe3|refactoring|Wed, 1 Nov 2017 10:01:17 +0000|Wed, 1 Nov 2017 10:01:17 +0000
+792b50a4e7792d35f6dc33a22c39345997e09a5d|refactoring|Wed, 1 Nov 2017 09:46:53 +0000|Wed, 1 Nov 2017 09:46:53 +0000
+f3f2c604b9d204a44303cd2985a28af685e836f0|refactoring|Wed, 1 Nov 2017 09:35:50 +0000|Wed, 1 Nov 2017 09:35:50 +0000
+376032d1cf1f9045c957333387d54baf6e56a816|refactoring|Wed, 1 Nov 2017 09:15:10 +0000|Wed, 1 Nov 2017 09:15:10 +0000
+a51ee209cd6aa29618b6c2c50cd627a3517b296b|refactoring|Wed, 1 Nov 2017 09:00:49 +0000|Wed, 1 Nov 2017 09:00:49 +0000
+a1f3053a44785af3f4f6605a0d1b23dda4afe6e4|refactoring|Wed, 1 Nov 2017 08:51:19 +0000|Wed, 1 Nov 2017 08:51:19 +0000
+d4aee8026ff96b02f9b809103b601609537553ab|refactoring|Wed, 1 Nov 2017 07:09:52 +0000|Wed, 1 Nov 2017 07:09:52 +0000
+4832990d5e6a28eacc6146e2b658c8fe5ac3afb6|only check [cyber-dojo start-point create X --dir=src_dir] if src_dir/start_point_type.json exists|Wed, 1 Nov 2017 06:37:35 +0000|Wed, 1 Nov 2017 06:37:35 +0000
+c7e7f9788644d3e1db79b82965c2d6c6e39ba22f|refactoring; delete dead line|Tue, 31 Oct 2017 15:13:19 +0000|Tue, 31 Oct 2017 15:13:19 +0000
+e722cdea7b57aca9492a9b8cd49acb2a43032c1e|fixed banner-output text for runner-processful|Tue, 31 Oct 2017 12:37:55 +0000|Tue, 31 Oct 2017 12:37:55 +0000
+d1622db764e3839786562bf816ae6d02f8ef34be|started work on adding runner-processful|Tue, 31 Oct 2017 11:18:01 +0000|Tue, 31 Oct 2017 11:18:01 +0000
+47af0b26d85004c1e570c7b6eb74c55f12f21fa0|refactoring|Tue, 31 Oct 2017 11:06:38 +0000|Tue, 31 Oct 2017 11:06:38 +0000
+aff111ed7141ed8e23a6e5949d4affd1da94c39d|refactoring|Tue, 31 Oct 2017 10:51:01 +0000|Tue, 31 Oct 2017 10:51:01 +0000
+a12652322c158c832979e4185d676638a54e2208|refactoring|Tue, 31 Oct 2017 10:37:26 +0000|Tue, 31 Oct 2017 10:37:26 +0000
+f474623be3a817be7673c73a88b658316620747a|refactoring; delete dead code|Tue, 31 Oct 2017 10:26:43 +0000|Tue, 31 Oct 2017 10:26:43 +0000
+84b3e9bc32d5588d36dfe8c9efb485635971f43b|refactoring|Tue, 31 Oct 2017 10:18:28 +0000|Tue, 31 Oct 2017 10:18:28 +0000
+c24b371f2302c1a54dc6f13158cfeeb7172e9fe1|remove start-point volume after checking it can be created|Tue, 31 Oct 2017 10:15:18 +0000|Tue, 31 Oct 2017 10:15:18 +0000
+07eb0166adddf4ed04c83ba3ea716b942760c49f|refactoring|Tue, 31 Oct 2017 10:00:47 +0000|Tue, 31 Oct 2017 10:00:47 +0000
+0fc70682c08f2526ced6967d3238b0d5f9c3420c|refactoring|Tue, 31 Oct 2017 08:57:58 +0000|Tue, 31 Oct 2017 08:57:58 +0000
+dbc3df8fcc6471cc38a7b002c909c65b84f30e58|refactoring|Tue, 31 Oct 2017 08:55:35 +0000|Tue, 31 Oct 2017 08:55:35 +0000
+c5d22267af4fd72c41dcc9fa3753fec3bde6fe3e|refactoring|Tue, 31 Oct 2017 08:16:21 +0000|Tue, 31 Oct 2017 08:16:21 +0000
+64a43f57b68d3c338d618ec0d04210d510d9e47d|refactoring|Tue, 31 Oct 2017 08:09:20 +0000|Tue, 31 Oct 2017 08:09:20 +0000
+1bf0e927b23f83fcc08003fb9d0c51ef7b98113b|refactoring|Tue, 31 Oct 2017 08:01:45 +0000|Tue, 31 Oct 2017 08:01:45 +0000
+b8d6477cdd6c28a00f939b0a01ac29359fca9fb1|refactoring|Tue, 31 Oct 2017 06:16:43 +0000|Tue, 31 Oct 2017 06:16:43 +0000
+c7d6dff652d1edf78adc24f8a4be4e394678dbad|refactoring|Tue, 31 Oct 2017 06:12:52 +0000|Tue, 31 Oct 2017 06:12:52 +0000
+83cb2f63714b12b2621562a4f6bd247504c798c9|refactoring|Tue, 31 Oct 2017 06:00:23 +0000|Tue, 31 Oct 2017 06:00:23 +0000
+f9f0b5f1dfb1151ba682e1d292dec1e70bb1eaf6|add missing property|Mon, 30 Oct 2017 18:05:15 +0000|Mon, 30 Oct 2017 18:05:15 +0000
+30773f4ed1ff89fb7227429fc9dafd30b80c6e4d|refactoring|Mon, 30 Oct 2017 14:00:09 +0000|Mon, 30 Oct 2017 14:00:09 +0000
+fea90bbbcbdcfa5c24b72c0e66f02a6c9e150822|started working towards being able to run on custom start-points|Mon, 30 Oct 2017 13:52:09 +0000|Mon, 30 Oct 2017 13:52:09 +0000
+bb76e068141a6aa16e500cda47f6e95068d53b14|refactoring|Mon, 30 Oct 2017 13:32:51 +0000|Mon, 30 Oct 2017 13:32:51 +0000
+10a017a4d837731c61d937b6e16ccf97faf921a6|don't show GITHUB_TOKEN if [travis login] fails|Mon, 30 Oct 2017 13:30:55 +0000|Mon, 30 Oct 2017 13:30:55 +0000
+94c3910dcd6e74e017f064f866806829c47ae807|refactoring|Mon, 30 Oct 2017 12:17:23 +0000|Mon, 30 Oct 2017 12:17:23 +0000
+87a27a0deff46790df3c2b6b55519bfc06927893|refactoring|Mon, 30 Oct 2017 12:11:51 +0000|Mon, 30 Oct 2017 12:11:51 +0000
+972b7fc193267f9f6b3b40563f8e7fcd78d70632|refactoring|Mon, 30 Oct 2017 12:01:02 +0000|Mon, 30 Oct 2017 12:01:02 +0000
+a107196dcbc318b8f1c7b24fb6739f49c6eeee2e|refactoring|Mon, 30 Oct 2017 11:54:32 +0000|Mon, 30 Oct 2017 11:54:32 +0000
+0ecbe64ffd2332f90f540d9d2366e8a4a644415a|refactoring|Mon, 30 Oct 2017 11:51:35 +0000|Mon, 30 Oct 2017 11:51:35 +0000
+3aeacef4080a7390e10f234cbbb26674867eacd5|refactoring|Mon, 30 Oct 2017 11:46:19 +0000|Mon, 30 Oct 2017 11:46:19 +0000
+d8c28b7b20fc8eb3a6fa5f275a8f4c151fc2103d|refactoring|Mon, 30 Oct 2017 11:38:31 +0000|Mon, 30 Oct 2017 11:38:31 +0000
+7731d18597eddd8b2afabb923aa823c48dc1b9f7|refactoring|Mon, 30 Oct 2017 11:25:30 +0000|Mon, 30 Oct 2017 11:25:30 +0000
+d0256893555eb4a8e77b7ca1c11f8dab3f763e25|refactoring|Mon, 30 Oct 2017 11:20:09 +0000|Mon, 30 Oct 2017 11:20:09 +0000
+7a8f9811ebf567a2128444bb5fde5ff3728acb96|refactoring|Mon, 30 Oct 2017 09:43:32 +0000|Mon, 30 Oct 2017 09:43:32 +0000
+7fae88b7d44f66ea585ecc827fb0baebe310128e|refactoring|Mon, 30 Oct 2017 09:22:26 +0000|Mon, 30 Oct 2017 09:22:26 +0000
+06ef9b2ea536e1f491a1404fc497296e756c8f96|refactoring|Mon, 30 Oct 2017 07:16:57 +0000|Mon, 30 Oct 2017 07:16:57 +0000
+4a8c9afdffd32d21668d78cf61c9c22c1ce5455d|ensure image_name is set before adding it to triple|Mon, 30 Oct 2017 07:03:49 +0000|Mon, 30 Oct 2017 07:03:49 +0000
+d8da4e661532db1480b7ea0bf1c80114a290267b|refactoring|Mon, 30 Oct 2017 07:02:57 +0000|Mon, 30 Oct 2017 07:02:57 +0000
+006d1261244d700ea59780f953dbca7bbbd81570|refactoring|Mon, 30 Oct 2017 06:46:08 +0000|Mon, 30 Oct 2017 06:46:08 +0000
+53bff72b17f22eb7a7aaa52eef129cd788f9f8e2|refactoring|Mon, 30 Oct 2017 06:40:00 +0000|Mon, 30 Oct 2017 06:40:00 +0000
+b13e53f53a9d7d380822289b311f0464334917f4|refactoring|Mon, 30 Oct 2017 06:07:05 +0000|Mon, 30 Oct 2017 06:07:05 +0000
+24292872611bffa949b145a6dd136777f9a8b58b|refactoring|Sun, 29 Oct 2017 22:00:51 +0000|Sun, 29 Oct 2017 22:00:51 +0000
+498bc855b9e6d952d51e47329359654fc13004d8|refactoring; improve test name|Sun, 29 Oct 2017 21:23:01 +0000|Sun, 29 Oct 2017 21:23:01 +0000
+1b6d6907f84748c488ae5eb4c8bd69ecb9763801|fixed lagging test|Sun, 29 Oct 2017 21:22:22 +0000|Sun, 29 Oct 2017 21:22:22 +0000
+767cda458c98d04c08ef7e39e49f635ac9352ad8|fixed broken if/if statements|Sun, 29 Oct 2017 21:22:09 +0000|Sun, 29 Oct 2017 21:22:09 +0000
+02502655203f03054d0ba945e80b4a6dbbcbf664|refactoring|Sun, 29 Oct 2017 20:02:21 +0000|Sun, 29 Oct 2017 20:02:21 +0000
+22ac70c14ab1a48e63d87f20fbb7b6c112703ba7|refactoring|Sun, 29 Oct 2017 19:56:09 +0000|Sun, 29 Oct 2017 19:56:09 +0000
+c49ff2596738bc115b0b5606dd46971487709f79|refactoring|Sun, 29 Oct 2017 19:46:14 +0000|Sun, 29 Oct 2017 19:46:14 +0000
+3a6bfa3a71ce7ae86ce8c7e99f3757a2f8a51e28|refactoring|Sun, 29 Oct 2017 19:41:54 +0000|Sun, 29 Oct 2017 19:41:54 +0000
+58e1aeaa374f9b1762cc466fc56135fa868257de|refactoring|Sun, 29 Oct 2017 19:37:20 +0000|Sun, 29 Oct 2017 19:37:20 +0000
+301f818ad7a70b155b2d67088964fdb20deb97c6|refactoring|Sun, 29 Oct 2017 19:30:25 +0000|Sun, 29 Oct 2017 19:30:25 +0000
+a6c00fcb95669a18f7ca7c23ed490a429223a8c1|refactoring; delete dead expression|Sun, 29 Oct 2017 19:06:27 +0000|Sun, 29 Oct 2017 19:06:27 +0000
+fa971e6cd6fd740868714dc4eaf8994b3d309992|fix broken edit|Sun, 29 Oct 2017 19:06:04 +0000|Sun, 29 Oct 2017 19:06:04 +0000
+4ff5e945c6708b8e2e183e81fae6c5acb897ab30|refactoring; delete dead comment|Sun, 29 Oct 2017 19:02:16 +0000|Sun, 29 Oct 2017 19:02:16 +0000
+3333deecb6454e7bb267ffe8aa687c32e7482f7e|refactoring|Sun, 29 Oct 2017 19:00:50 +0000|Sun, 29 Oct 2017 19:00:50 +0000
+23b683cef7d434b8c205a1cc2a7ce2a704265ec6|refactoring|Sun, 29 Oct 2017 18:53:17 +0000|Sun, 29 Oct 2017 18:53:17 +0000
+3b29e20ba1161d669726e4dd3e6108854f0b198e|refactoring|Sun, 29 Oct 2017 18:39:13 +0000|Sun, 29 Oct 2017 18:39:13 +0000
+bfe81a644587f3d72bb453a3f20a992b432fe001|refactoring|Sun, 29 Oct 2017 18:35:44 +0000|Sun, 29 Oct 2017 18:35:44 +0000
+3b60d483b5d97333e3e4ccad9c0444cd08ac717f|[ci skip] comment update|Sun, 29 Oct 2017 17:16:41 +0000|Sun, 29 Oct 2017 17:16:41 +0000
+285ed8ac507b2ecd015410ec26b20daca9167c62|added test for reading 6*9 options directly from start_point/options.json file|Sun, 29 Oct 2017 08:56:37 +0000|Sun, 29 Oct 2017 08:56:37 +0000
+ab8dc1c18331e1c90ead6d6fb93ab06444114503|updated test to match changed output|Sun, 29 Oct 2017 08:55:42 +0000|Sun, 29 Oct 2017 08:55:42 +0000
+b7a96419b9004eaddf49f68976115bac09975664|updated test to match changed output|Sun, 29 Oct 2017 08:51:03 +0000|Sun, 29 Oct 2017 08:51:03 +0000
+90edcbf4cdafcb8e0b1f32cd8d1ac5c77ea1c5e2|refactoring|Sun, 29 Oct 2017 08:39:26 +0000|Sun, 29 Oct 2017 08:39:26 +0000
+4cdc7bc07e66bd663bfc26f33a68243729d3830d|refactoring|Sun, 29 Oct 2017 08:36:33 +0000|Sun, 29 Oct 2017 08:36:33 +0000
+a18d0a6911ee3d9420b58ef881ce219dda37cb71|refactoring|Sun, 29 Oct 2017 08:23:12 +0000|Sun, 29 Oct 2017 08:23:12 +0000
+d611d1bb70b9a4737f6b2faf137f11fc3c52ff33|refactoring|Sun, 29 Oct 2017 08:10:58 +0000|Sun, 29 Oct 2017 08:10:58 +0000
+98c07257dda91f17ffab83d0da72a175842a3c97|refactoring|Sun, 29 Oct 2017 08:06:29 +0000|Sun, 29 Oct 2017 08:06:29 +0000
+b2288db08e261e3d0b9941ef2ed5c1b3cf332bd2|refactoring|Sun, 29 Oct 2017 08:03:30 +0000|Sun, 29 Oct 2017 08:03:30 +0000
+67cd61cd4394d126918b8725371021498da67c34|refactoring|Sun, 29 Oct 2017 08:00:27 +0000|Sun, 29 Oct 2017 08:00:27 +0000
+dc1c322d7a258f321ae7255ce2b739afff9946e4|refactoring|Sun, 29 Oct 2017 07:51:38 +0000|Sun, 29 Oct 2017 07:51:38 +0000
+a63c70976cd950d5755b5b980570b8ec99692142|refactoring|Sun, 29 Oct 2017 07:48:08 +0000|Sun, 29 Oct 2017 07:48:08 +0000
+372011f114ee9ba7fdcb09df7ba20bfbef76ba16|refactoring|Sun, 29 Oct 2017 07:34:14 +0000|Sun, 29 Oct 2017 07:34:14 +0000
+894a7f331efa8919b9a54aa03381575849746fc5|refactoring|Sun, 29 Oct 2017 07:26:32 +0000|Sun, 29 Oct 2017 07:26:32 +0000
+ec22c84680381d876b93bcbf8b22f202a9148ef1|refactoring|Sun, 29 Oct 2017 07:16:28 +0000|Sun, 29 Oct 2017 07:16:28 +0000
+316ce4db08aee1a938e85c08e4f127fef7f76f15|refactoring|Sun, 29 Oct 2017 07:11:25 +0000|Sun, 29 Oct 2017 07:11:25 +0000
+7b44f47810abf46a756b68130b874c651c6e19e7|refactoring|Sun, 29 Oct 2017 07:04:33 +0000|Sun, 29 Oct 2017 07:04:33 +0000
+e0f4bdcc299231a48be85d94657f12ab3ea38aa3|refactoring|Sun, 29 Oct 2017 06:46:35 +0000|Sun, 29 Oct 2017 06:46:35 +0000
+51a0ce14cb491724ca4f32df3ad8f366023ee02b|refactoring|Sun, 29 Oct 2017 06:36:21 +0000|Sun, 29 Oct 2017 06:36:21 +0000
+447c675a36202023a53f3c6c76f7145a5248d93b|refactoring|Sun, 29 Oct 2017 06:33:02 +0000|Sun, 29 Oct 2017 06:33:02 +0000
+a1d214f848e32ee3132f8e2ec6a19cf590016aab|refactoring|Sun, 29 Oct 2017 06:30:36 +0000|Sun, 29 Oct 2017 06:30:36 +0000
+980cd840e672c6692a2a99f52035cb9bd2b1377a|refactoring|Sun, 29 Oct 2017 06:26:27 +0000|Sun, 29 Oct 2017 06:26:27 +0000
+60e3c40f0eb1d0a377385e2637177fe9685e87ed|refactoring|Sun, 29 Oct 2017 06:13:23 +0000|Sun, 29 Oct 2017 06:13:23 +0000
+20fecd94118ccd1e38fa5629159e62a0855d4cbb|refactoring|Sun, 29 Oct 2017 06:10:03 +0000|Sun, 29 Oct 2017 06:10:03 +0000
+1a8a25c79a32780f2407e442ad4a14c2101be69b|refactoring|Sun, 29 Oct 2017 05:34:45 +0000|Sun, 29 Oct 2017 05:34:45 +0000
+3dbd480f43118402022409d469218ebb0cbd858c|refactoring|Sun, 29 Oct 2017 05:32:36 +0000|Sun, 29 Oct 2017 05:32:36 +0000
+de33aaf3146283b561434982923de22edd5a46a8|refactoring|Sun, 29 Oct 2017 05:29:28 +0000|Sun, 29 Oct 2017 05:29:28 +0000
+af986e9cfad8eb0f12484f00defd50729dc72edd|refactoring|Sun, 29 Oct 2017 05:26:12 +0000|Sun, 29 Oct 2017 05:26:12 +0000
+ebe5d24a1b852bddba4336fd7218de7a92b5c7cf|refactoring|Sun, 29 Oct 2017 05:11:41 +0000|Sun, 29 Oct 2017 05:11:41 +0000
+f8db77b90c86b3220364f58d5904634e1e176759|refactoring|Sun, 29 Oct 2017 05:03:43 +0000|Sun, 29 Oct 2017 05:03:43 +0000
+0fdb02c51c21d609070c80a09764f74fb24a9c85|switched ubuntu test cases from python to perl because its [docker build] steps are quicker|Sat, 28 Oct 2017 10:44:01 +0100|Sat, 28 Oct 2017 10:44:01 +0100
+a175acdae8c5122a64fcf58972b8e0c4ffb4cb60|refactoring; improve diagnostic message when assert/refure fails|Sat, 28 Oct 2017 10:19:48 +0100|Sat, 28 Oct 2017 10:19:48 +0100
+a17dc641b8d2f1e5387f9d24860eb2a7881a6841|added missing image_name property|Sat, 28 Oct 2017 09:40:36 +0100|Sat, 28 Oct 2017 09:40:36 +0100
+a997367f299744bed9bb730a78871f4e3964da9d|add missing require/include|Sat, 28 Oct 2017 09:29:52 +0100|Sat, 28 Oct 2017 09:29:52 +0100
+6e3d3380c5a33cb4323c07f51d8304c4d7091ce4|refactoring|Sat, 28 Oct 2017 09:25:29 +0100|Sat, 28 Oct 2017 09:25:29 +0100
+0af1bfad307fb09699419ff302b96c0bfe6b0b08|fix class name DockerHub has a capital H|Sat, 28 Oct 2017 08:50:33 +0100|Sat, 28 Oct 2017 08:50:33 +0100
+8524310c49d3661c6aeab470abb385312248b84c|refactoring; delete dead code|Sat, 28 Oct 2017 08:50:10 +0100|Sat, 28 Oct 2017 08:50:10 +0100
+38f4fbf216ca95bc4678e407c15b068807faf4a9|remove redirection to see if on-Travis tests pass|Sat, 28 Oct 2017 08:39:15 +0100|Sat, 28 Oct 2017 08:39:15 +0100
+869d8802e0cb479eafb78c7f98d559951c5ab4c7|remove dead require/include|Sat, 28 Oct 2017 08:35:23 +0100|Sat, 28 Oct 2017 08:35:23 +0100
+329658c65fc7c0e3b32c200c52f1e83b5689f985|comment out redirection to see error on Travis|Sat, 28 Oct 2017 08:31:27 +0100|Sat, 28 Oct 2017 08:31:27 +0100
+b90e372ec97dbd200b9fc2e55935d76b7680234a|refactoring|Sat, 28 Oct 2017 08:27:24 +0100|Sat, 28 Oct 2017 08:27:24 +0100
+80d860c04dbdcc2bbd2216551f07254da5f28843|refactoring; delete dead code|Sat, 28 Oct 2017 07:59:07 +0100|Sat, 28 Oct 2017 07:59:07 +0100
+21134d9f225c89a40f55b2527de2db2888f2a044|add missing include|Sat, 28 Oct 2017 07:50:18 +0100|Sat, 28 Oct 2017 07:50:18 +0100
+f0e723dc27c2e3b76075ff5d6bf82bee4c5a678d|comment out redirection to see error on Travis|Sat, 28 Oct 2017 07:32:55 +0100|Sat, 28 Oct 2017 07:32:55 +0100
+786b8ae4eb86d8ea0455bb0ed89b458795100af9|refactoring|Sat, 28 Oct 2017 07:23:18 +0100|Sat, 28 Oct 2017 07:23:18 +0100
+1a2c2fdecdd029c07583294ace2fe89fc0b6c6d7|refactoring; rename identifiers|Sat, 28 Oct 2017 06:47:17 +0100|Sat, 28 Oct 2017 06:47:17 +0100
+9bca6101d75488f616d8dc8cd3ef2472f11971f6|refactoring; delete dead code|Sat, 28 Oct 2017 06:24:49 +0100|Sat, 28 Oct 2017 06:24:49 +0100
+a3cbd6c65337d64644cf6efef5eeb2de796555da|added test for ubuntu-python-pytest running statefully|Sat, 28 Oct 2017 05:56:29 +0100|Sat, 28 Oct 2017 05:56:29 +0100
+bcc5cd41e74d3e5682e76210ba2391a3e62de14e|added test for alpine-gcc-assert running statelessly|Sat, 28 Oct 2017 05:53:19 +0100|Sat, 28 Oct 2017 05:53:19 +0100
+f6b5e70c7dd5105a70f913dbc5f6db510b311782|refactoring; change old-name runner into new-name runner_stateful|Sat, 28 Oct 2017 05:49:50 +0100|Sat, 28 Oct 2017 05:49:50 +0100
+36d5df62ddaad5902deb7fa0089dde59411bc1a5|refactoring|Fri, 27 Oct 2017 19:54:50 +0100|Fri, 27 Oct 2017 19:54:50 +0100
+b0ac3b3da05ec8ac744f49f1307ca37c93059997|refactoring|Fri, 27 Oct 2017 19:29:17 +0100|Fri, 27 Oct 2017 19:29:17 +0100
+decf080d3c378a137e4a0d12731bb4cd17714b2c|remove Travis debug echoes|Fri, 27 Oct 2017 19:23:19 +0100|Fri, 27 Oct 2017 19:23:19 +0100
+3d7c55f8b1857fe2f0f251d4c5d6f7150bb22a6f|more Travis debugging|Fri, 27 Oct 2017 19:16:02 +0100|Fri, 27 Oct 2017 19:16:02 +0100
+968591f6fbe70ea8bd4429cc2fabd225c9aec603|more Travis debugging|Fri, 27 Oct 2017 18:05:46 +0100|Fri, 27 Oct 2017 18:05:46 +0100
+348938e1ad6e8a693fe1f090ba714ccfa6039fed|added more echo's debugging Travis run|Fri, 27 Oct 2017 17:59:16 +0100|Fri, 27 Oct 2017 17:59:16 +0100
+cad24fa4a0fe4ad3b51fecc58c1e46c9bd51b0b8|cat stdout on Travis to see why its failing|Fri, 27 Oct 2017 17:53:57 +0100|Fri, 27 Oct 2017 17:53:57 +0100
+cf7f5a50f522a0f3ae39b8c0bd7e4a671d81f129|refactoring; improved tests|Fri, 27 Oct 2017 17:43:39 +0100|Fri, 27 Oct 2017 17:43:39 +0100
+dc82ca5734973c0d55c93493eeaab00ed8050d7a|refactoring; improve tests|Fri, 27 Oct 2017 17:12:13 +0100|Fri, 27 Oct 2017 17:12:13 +0100
+fb8f3725e7a8c1afaa2d3748e43b868396ced3f5|force image-build to not use cache|Fri, 27 Oct 2017 17:10:14 +0100|Fri, 27 Oct 2017 17:10:14 +0100
+82a61ed8fef8e8dc1e866bb1a570c1699533de4e|added tests for language-only dir; docker/ dir but no start_point/ dir|Fri, 27 Oct 2017 16:58:50 +0100|Fri, 27 Oct 2017 16:58:50 +0100
+d2761a6c42467231689b2f9ed8d4fa100c0f43b4|upgrade docker-compose to 1.16.1|Fri, 27 Oct 2017 16:06:51 +0100|Fri, 27 Oct 2017 16:06:51 +0100
+625487781e7abc088c8ba389e1351fa57f9b085e|remove cat/echo from test-scripts|Fri, 27 Oct 2017 15:00:52 +0100|Fri, 27 Oct 2017 15:00:52 +0100
+a5c795d3fb5dc0997a09a34b50861ed0daeb9e1b|dont use real image-names in test-data so as not to clash with real cyber-dojo-languages/repo image-names|Fri, 27 Oct 2017 14:53:14 +0100|Fri, 27 Oct 2017 14:53:14 +0100
+9ff7dbac8117be057a49a2f4b7976d4a58132076|if running image-builder tests (on Travis) then do not run standard cyber-dojo-languages/repo steps (eg validate the triple, dockerhub login/push/logout, trigger dependent repos)|Fri, 27 Oct 2017 14:52:10 +0100|Fri, 27 Oct 2017 14:52:10 +0100
+a185f596020f5990bbe06581d8eea7dc196b34b3|echo TRAVIS_REPO_SLUG in tests to verify it can be used to turn of triple-validation|Fri, 27 Oct 2017 14:41:27 +0100|Fri, 27 Oct 2017 14:41:27 +0100
+da93e931f2807da3ab3d8657f351d12a25f8575c|switch image-names in test-framework dirs back to real-names so Travis validation passes|Fri, 27 Oct 2017 14:39:45 +0100|Fri, 27 Oct 2017 14:39:45 +0100
+cdfce8e39f912a3d1af4c58484f3510074b63e0e|show stdout to see what's happening on Travis|Fri, 27 Oct 2017 14:33:59 +0100|Fri, 27 Oct 2017 14:33:59 +0100
+c4d6e9712f1829cae8ae7d3336ae44c270bae262|only push image is build-test succeeded|Fri, 27 Oct 2017 14:33:36 +0100|Fri, 27 Oct 2017 14:33:36 +0100
+af06fb7ce2150a49c22c5d603c7d3880faa05063|refactoring; move test data into named dirs; delete dead files|Fri, 27 Oct 2017 14:27:28 +0100|Fri, 27 Oct 2017 14:27:28 +0100
+40da61e59ddbd1d86d46e8edf256794f4f07f57e|changed image_name of test-images so as not to clash with genuine image names|Fri, 27 Oct 2017 14:19:29 +0100|Fri, 27 Oct 2017 14:19:29 +0100
+0d8c7338a4a29415fb1f770f4763df2311d807e3|added some shunit2 tests for building from testFramework-dir (containing docker/ and start_point/ dirs)|Fri, 27 Oct 2017 14:15:22 +0100|Fri, 27 Oct 2017 14:15:22 +0100
+28991d202db728bb539e317c2a9a0e2aa4f300de|refactoring; rename method as the intention is for it to check start_point/ which does not have associated docker/ dir|Fri, 27 Oct 2017 11:51:42 +0100|Fri, 27 Oct 2017 11:51:42 +0100
+5cb924be5df33d4809f6a97226b7014fc2c6258c|refactoring; put all [if running_on_travis?] statements together|Fri, 27 Oct 2017 11:38:34 +0100|Fri, 27 Oct 2017 11:38:34 +0100
+8e71afd56ec075248817f40c6e0fcd2ed3f2967e|refactoring; stateful is spelled with one L not two|Fri, 27 Oct 2017 11:18:21 +0100|Fri, 27 Oct 2017 11:18:21 +0100
+fe79ece59bd1cea988d50d7daacf28c2043e4542|refactoring; base inner Dockerfile on docker/latest image|Fri, 27 Oct 2017 11:15:11 +0100|Fri, 27 Oct 2017 11:15:11 +0100
+8e68df7c3d5238181c92d3e673d9933ccf3e2e70|refactoring; runner-choice is now a required manifest.json parameter|Fri, 27 Oct 2017 11:08:28 +0100|Fri, 27 Oct 2017 11:08:28 +0100
+4feb76007fa62a58545b227f0e6bcc3e3b5d3fd2|refactoring; updated main outer Dockerfile|Fri, 27 Oct 2017 11:08:00 +0100|Fri, 27 Oct 2017 11:08:00 +0100
+fbaeadc9f4981c85751323602df42dd9063ad12c|the runner's tar-pipes create datetime stamps on files to second granularity (microseconds are always zero); so add delays between stateful-runner calls to red/green/amber to ensure datetime stamps actually change|Tue, 19 Sep 2017 08:24:51 +0200|Tue, 19 Sep 2017 08:24:51 +0200
+b78dba2e3d77685d314fcdeeeea336b395576186|simplify diagnostic message when red_amber_green.rb file inside built image does not return expected colour|Sat, 16 Sep 2017 15:25:17 +0100|Sat, 16 Sep 2017 15:25:17 +0100
+f77f5232c4c0de836c38e34cd0d9971640b6c5b9|runner.run already returns colour|Sat, 16 Sep 2017 15:11:49 +0100|Sat, 16 Sep 2017 15:11:49 +0100
+1c10264aae891cdd0db3f88b1822d713759fd5a1|refactoring; delete dead comments|Sat, 16 Sep 2017 14:29:58 +0100|Sat, 16 Sep 2017 14:29:58 +0100
+e5ae698dd64bf083c2fb7ae05b84d249698f8aad|emit less verbose diagnostic message if json.parse fails|Sat, 16 Sep 2017 14:28:31 +0100|Sat, 16 Sep 2017 14:28:31 +0100
+aacf5866954771269094835166ccb7b3371cf892|skip the json-triple validation unless running on Travis|Sat, 16 Sep 2017 14:07:27 +0100|Sat, 16 Sep 2017 14:07:27 +0100
+12e85f74e02c0031545e4cdac53789993e6b0cf1|refactoring|Sat, 16 Sep 2017 14:00:08 +0100|Sat, 16 Sep 2017 14:00:08 +0100
+dd6872a260502675aad70f794b2b91e1769680f7|refactoring; create modules for banner and print_to|Sat, 16 Sep 2017 13:58:30 +0100|Sat, 16 Sep 2017 13:58:30 +0100
+42e203a53bb3d6e9fade48d1e3c29b2b30581386|put banner|banner_end either side of a yield|Sat, 16 Sep 2017 13:50:00 +0100|Sat, 16 Sep 2017 13:50:00 +0100
+475f940f9f227c184b91f756e06bcff13e9e4cac|refactoring; convert dockerhub to module|Sat, 16 Sep 2017 13:26:10 +0100|Sat, 16 Sep 2017 13:26:10 +0100
+249392823b5e021359052912ffef2339c4690682|delete dead code|Sat, 16 Sep 2017 13:12:22 +0100|Sat, 16 Sep 2017 13:12:22 +0100
+940f4b0c018e82cb0ca5e4186d91c5b4b897a8c3|[ci skip] readme update|Wed, 13 Sep 2017 12:09:41 +0100|Wed, 13 Sep 2017 12:09:41 +0100
+cf3196587c2d6263600bb6e46e79d760def894f8|put runner-choice back to having a default|Wed, 13 Sep 2017 07:29:55 +0100|Wed, 13 Sep 2017 07:29:55 +0100
+7905ab2da76946e215bb03bb47b5ccae6ec43c4e|delete dead code; squid user is now removed in base-language Dockerfiles|Tue, 12 Sep 2017 07:31:54 +0100|Tue, 12 Sep 2017 07:31:54 +0100
+bf133e9c0eb58223434fd298fe8ec1e415ddb681|update Dockerfile version in test/gcc-assert|Tue, 12 Sep 2017 05:57:12 +0100|Tue, 12 Sep 2017 05:57:12 +0100
+c3fc8bd7d93e02692c17f4e58f776d85fa2b088e|display only one diagnostic for runner_choice now it is a required parameter|Mon, 11 Sep 2017 17:03:04 +0100|Mon, 11 Sep 2017 17:03:04 +0100
+d0514f6e29b33b2ba2b9763a98b61f8c8e7b3d8b|fix broken diagnostic when '6 * 9' cannot be found|Sat, 9 Sep 2017 19:32:17 +0100|Sat, 9 Sep 2017 19:32:17 +0100
+58a317e1289eba3996671391b1e31ec39813f66a|fix printing only one line of /etc/issue that works in Ubuntu and Alpine|Thu, 7 Sep 2017 10:17:33 +0100|Thu, 7 Sep 2017 10:17:33 +0100
+df44ca01b8129fae0e16a5f6bb37586c4a6ac684|refactoring; only print the needed line of /etc/issue|Thu, 7 Sep 2017 10:09:19 +0100|Thu, 7 Sep 2017 10:09:19 +0100
+331f41b655b5a872d12e95617293fba5e49225ea|fix error in print-image-info grep|Thu, 7 Sep 2017 09:52:17 +0100|Thu, 7 Sep 2017 09:52:17 +0100
+715f58490f0ab583fce677ce9d271dd4d10835b6|see what [docker images] prints on Travis|Thu, 7 Sep 2017 09:09:37 +0100|Thu, 7 Sep 2017 09:09:37 +0100
+e5746706a9686071d027b4e407f374c6399c6d9a|logout of travis after getting token|Thu, 7 Sep 2017 08:59:05 +0100|Thu, 7 Sep 2017 08:59:05 +0100
+51a99b392ae84687b40fb007fc1e0f1ebc07b920|print date, build duration, image info ready for scraping|Thu, 7 Sep 2017 06:38:26 +0100|Thu, 7 Sep 2017 06:38:26 +0100
+6cc1518d01f18282cb34a045d415b216845b1b4e|merge commands in Dockerfile for smaller image|Wed, 6 Sep 2017 07:28:26 +0100|Wed, 6 Sep 2017 07:28:26 +0100
+e384993fdeacacf0f7fb1c45d7f001111dd19f75|refactoring|Wed, 6 Sep 2017 07:18:14 +0100|Wed, 6 Sep 2017 07:18:14 +0100
+45299cc916434a2cea1454d88a284ef5d2984225|install bash in Dockerfile to run curl'd cyber-dojo script|Tue, 5 Sep 2017 15:11:03 +0100|Tue, 5 Sep 2017 15:11:03 +0100
+8fc19811a3e637130103bf5fbcedfeba241994b3|fail fast if avatar users have already been added|Tue, 5 Sep 2017 14:45:38 +0100|Tue, 5 Sep 2017 14:45:38 +0100
+387f6163b39a8a83e84791ac8f43ddee1470e5fd|show trigger-output when it succeeds|Tue, 5 Sep 2017 14:01:39 +0100|Tue, 5 Sep 2017 14:01:39 +0100
+73687e888c4b6a0549727e9eb491c62199be2de9|dont use bash as Alpine image may not have it|Tue, 5 Sep 2017 13:49:52 +0100|Tue, 5 Sep 2017 13:49:52 +0100
+a01be9ce16b95e54fe5bbb5409259177c4ffcf2f|don't print diagnostic containing login token|Tue, 5 Sep 2017 13:49:35 +0100|Tue, 5 Sep 2017 13:49:35 +0100
+b873f27fb49ccb59bb9f605032edbda9c0405c9d|base inner build image on Alpine, Travis will pull smaller image faster|Tue, 5 Sep 2017 13:34:31 +0100|Tue, 5 Sep 2017 13:34:31 +0100
+41b9303ffa36166ccec70a057ef266818e5fc5f0|fix missing unsplat|Tue, 5 Sep 2017 09:56:58 +0100|Tue, 5 Sep 2017 09:56:58 +0100
+e2670459a4d2d8341843a865d371fe0098a8aaa6|[ci skip] added comments on red/amber/green stateful test-run subleties|Tue, 5 Sep 2017 07:59:52 +0100|Tue, 5 Sep 2017 07:59:59 +0100
+cb051e8a5af1227614296835ec56be4c4b60dd8c|do amber test last - avoids stateful-runner amber edit persisting to subsequent test-events|Tue, 5 Sep 2017 07:49:13 +0100|Tue, 5 Sep 2017 07:49:13 +0100
+073ac437cbd9ab6a85bcf2b48544f953a5be5d12|fix splat-delegation syntax error|Tue, 5 Sep 2017 07:23:37 +0100|Tue, 5 Sep 2017 07:23:37 +0100
+12ac2fe5ea4b3d72e586e168cdab436ee95b7eb3|fix typo|Mon, 4 Sep 2017 09:15:13 +0100|Mon, 4 Sep 2017 09:15:13 +0100
+a0246facec058e50e78cd57531fd4f0ef8c172ff|delete duplicated [docker logout] command|Mon, 4 Sep 2017 09:06:32 +0100|Mon, 4 Sep 2017 09:06:32 +0100
+9b58338145ff43d0407e166f7ac068192a81d465|added # to start of each diagnostic line to distinguish it from output of executed commands|Mon, 4 Sep 2017 09:01:19 +0100|Mon, 4 Sep 2017 09:01:19 +0100
+743a49c1dfc8656334bab4c3424269d093968e81|display exit-status of each curl post to trigger a Travus build on its own line|Mon, 4 Sep 2017 08:20:27 +0100|Mon, 4 Sep 2017 08:20:27 +0100
+1dc926d9588d4575af3470649ffaf60ae38ead90|don't do [travis login] if there are no dependent repos|Mon, 4 Sep 2017 08:19:46 +0100|Mon, 4 Sep 2017 08:19:46 +0100
+873fce5df04a7e0fea9871d1d92c18b62127878b|display exit-status of each curl post to trigger Travis build|Mon, 4 Sep 2017 08:04:05 +0100|Mon, 4 Sep 2017 08:04:05 +0100
+2394fcfcdc1be39ac5476e9a2b525ccef69d9d57|use more accurate [travis login] option|Mon, 4 Sep 2017 08:03:39 +0100|Mon, 4 Sep 2017 08:03:39 +0100
+5635f4bdfdee1e354526abd229cb7b7f7bef3a84|separate out each repo trigger request json reponse|Sun, 3 Sep 2017 23:09:30 +0100|Sun, 3 Sep 2017 23:09:30 +0100
+f5d8d15221483413e16ce0ccde41e19060ae6017|print number of dependent repos, add trailing banner-line to be consistent with other output sections|Sun, 3 Sep 2017 22:48:58 +0100|Sun, 3 Sep 2017 22:48:58 +0100
+1a5a2de3d2006a08a60e536374498f4cbf4f0071|show json response of triggering repo build as sometimes the trigger seems to fail to cause a new build to run|Sun, 3 Sep 2017 22:38:45 +0100|Sun, 3 Sep 2017 22:38:45 +0100
+a63eee14e323910373aef95c8b5f4c5eefd4b43f|don't show json response of triggering repo build|Sun, 3 Sep 2017 22:18:30 +0100|Sun, 3 Sep 2017 22:18:30 +0100
+26a78986b0c4df4f1f508d8a7ea720f243343423|don't show token,name,tag when triggering dependent repo|Sun, 3 Sep 2017 22:17:13 +0100|Sun, 3 Sep 2017 22:17:13 +0100
+a356cbceee28c1a1769a4647af9de4ed8df0acde|switched to Ubuntu-based docker image, triggering Travis using simple shell curl|Sun, 3 Sep 2017 22:04:30 +0100|Sun, 3 Sep 2017 22:04:30 +0100
+5fad34149a5e3fcf98f19079a7fb05c5c9752e15|[ci skip] used github-token for travis login|Sun, 3 Sep 2017 16:30:29 +0100|Sun, 3 Sep 2017 16:31:12 +0100
+09702d1e2b17718e80b7424edc8f7d0e42f6b3cc|[ci skip] check to see if ruby is installed, if so install travis to get its cli and see what travis user I am|Sun, 3 Sep 2017 16:23:51 +0100|Sun, 3 Sep 2017 16:23:51 +0100
+5bc6b029db928fe80072384424931fb24ce52229|[ci skip] see if travis cli is installed when on Travis|Sun, 3 Sep 2017 16:15:02 +0100|Sun, 3 Sep 2017 16:15:02 +0100
+938afb2f154bfb9f3ec34991f19579bb436a7770|turn off triggering dependent repos inside the docker-image|Sun, 3 Sep 2017 16:11:21 +0100|Sun, 3 Sep 2017 16:11:21 +0100
+f9b20580babefeb5d55e1b7d17edfdb3cab8816c|don't install nodejs/travis-cli inside image - I need the travis user to be logged in so I can get the access token, so run_build_image.sh will need to trigger the dependent repos|Sun, 3 Sep 2017 16:09:57 +0100|Sun, 3 Sep 2017 16:09:57 +0100
+31a7c8ac24ba0e06531e8a5a29910b24e76f13df|use LABEL instead of MAINTAINER in Dockerfile|Sun, 3 Sep 2017 16:08:28 +0100|Sun, 3 Sep 2017 16:08:28 +0100
+0a2eac61a084cda22a51b2944020f1c458ce3e9b|use local js file instead of curling it, add more console.log calls to help debug why triggers are failing|Sun, 3 Sep 2017 14:33:47 +0100|Sun, 3 Sep 2017 14:33:47 +0100
+a988f84dc3a39d5a4bcdd2027d1f3928c1ae5b76|remove special case handling of java-cucumberspring, restart build for java-1.8 and see if problem re-occurs|Sun, 3 Sep 2017 14:11:14 +0100|Sun, 3 Sep 2017 14:11:14 +0100
+482d2482bd0c4e0a9a564a53b70da0a3e3960a35|turn off triggering java-cucumberspring to see if the problem is specific to it or not|Sun, 3 Sep 2017 13:47:43 +0100|Sun, 3 Sep 2017 13:47:43 +0100
+40cb3ed5d2951f34ab343842ec50977044ad8e89|turn on repo trigger when running on Travis|Sun, 3 Sep 2017 11:22:23 +0100|Sun, 3 Sep 2017 11:22:23 +0100
+48f1a0fc6bb53ddc80cdd23d10d30099e1dc7b3a|don't repeat docker related banners|Sun, 3 Sep 2017 11:11:13 +0100|Sun, 3 Sep 2017 11:11:13 +0100
+a0fe3274ca8c41856615b5eac57aa2df6693ef5f|added commented out command to trigger dependent repos|Sun, 3 Sep 2017 08:35:30 +0100|Sun, 3 Sep 2017 08:35:30 +0100
+f3e41211fa50ef06719efde7881edc4236eca01d|updated Dockerfile so it can use node to trigger dependent repos|Sun, 3 Sep 2017 08:34:15 +0100|Sun, 3 Sep 2017 08:34:15 +0100
+d7ef34cd18b5c26fde3b5f74f3a6b0dd767ea1d8|added more diagnostic messages, gathered names of repos to trigger|Sun, 3 Sep 2017 08:00:32 +0100|Sun, 3 Sep 2017 08:00:32 +0100
+2ed4726869e69016c52e7cee866775bc1ccefcf4|refactoring|Sun, 3 Sep 2017 07:29:03 +0100|Sun, 3 Sep 2017 07:29:03 +0100
+98ff799c5f230ab2e99f22d4a6f20083a1289cab|make triple-date validation print diagnostic, not do dockerhub login/push or github triggers, but still to image build and image test|Sat, 2 Sep 2017 10:49:58 +0100|Sat, 2 Sep 2017 10:49:58 +0100
+e8aed3e10f87f7f338b70377fa6b84fb2856ee81|refactoring|Sat, 2 Sep 2017 10:09:09 +0100|Sat, 2 Sep 2017 10:09:09 +0100
+cf4a921a8ff11660addb11371bac021f191ddb15|refactoring; moved triple-validation up call stack so it is easier to selectively run|Sat, 2 Sep 2017 10:03:57 +0100|Sat, 2 Sep 2017 10:03:57 +0100
+59aa9b7a37e737377d13cfacfad557507eb27f64|refactoring|Sat, 2 Sep 2017 08:24:16 +0100|Sat, 2 Sep 2017 08:24:16 +0100
+022bdf76e69c271874c7d0a21486aac54ea15c3b|add the readme file|Sat, 2 Sep 2017 08:24:04 +0100|Sat, 2 Sep 2017 08:24:04 +0100
+be6988feb5fadc7bdfc89c6f94f6c3776ceeead6|refactoring; move main comment to its own readme file|Sat, 2 Sep 2017 08:23:46 +0100|Sat, 2 Sep 2017 08:23:46 +0100
+03abf80d7a1c5acd814bcf41805ce3eb3858786b|check image_name/from/test_framework triple against images_info.json list from repo|Sat, 2 Sep 2017 08:17:47 +0100|Sat, 2 Sep 2017 08:17:47 +0100
+fb32b5ee2f89cedd410f01f4cacc418ff051ef32|refactoring; delete dead code|Sat, 2 Sep 2017 07:13:52 +0100|Sat, 2 Sep 2017 07:13:52 +0100
+1447aa87e3d895cc59d8afd9510bfc04a1182b87|refactoring; delete dead code|Wed, 30 Aug 2017 06:55:34 +0000|Wed, 30 Aug 2017 06:55:34 +0000
+6ef8c6ab486fad338c57bfeccfba1c20d0674617|refactoring; delete dead files|Wed, 30 Aug 2017 06:53:59 +0000|Wed, 30 Aug 2017 06:53:59 +0000
+659ecb2a31cf267ba1904bcb2bb66b82fba197c7|refactoring|Wed, 30 Aug 2017 06:32:33 +0000|Wed, 30 Aug 2017 06:32:33 +0000
+393fe78d88f081ba323d64c892b7b597b31fbf57|started work splitting off harvesting-dependencies into a separate repo|Wed, 30 Aug 2017 06:21:34 +0000|Wed, 30 Aug 2017 06:21:34 +0000
+5be52beeb011fa51a887d199c061fd1a3256e2bc|refactoring; use consistent naming|Tue, 29 Aug 2017 13:10:27 +0000|Tue, 29 Aug 2017 13:10:27 +0000
+2fbd81a8f7f6c6cefa51534f2c5310204babf5db|added python-pytest to as test-case for building Ubuntu based image|Tue, 29 Aug 2017 06:21:23 +0000|Tue, 29 Aug 2017 06:21:23 +0000
+e87f819c2ccd27d385ee985bcb8c9e35d636b3da|refactoring; add all users in a single RUN command for big speed up|Tue, 29 Aug 2017 06:07:36 +0000|Tue, 29 Aug 2017 06:07:36 +0000
+0deae57864bb9c08e55b11aeb14f3ea58839bb54|refactoring|Tue, 29 Aug 2017 06:07:12 +0000|Tue, 29 Aug 2017 06:07:12 +0000
+9885ef8d125453cceb5126fa53a393c5e2152fc0|[ci skip] delete notes files|Mon, 28 Aug 2017 12:41:49 +0000|Mon, 28 Aug 2017 12:41:49 +0000
+5c24bf513a7c1f7f0c9ec984c8a61eff54b55cdc|refactoring|Mon, 28 Aug 2017 12:40:45 +0000|Mon, 28 Aug 2017 12:40:45 +0000
+a21ef8a23bf81eed00f77d7b11ea8a3a38ead04a|add cyber-dojo group and users for all avatar-names when building Alpine/Ubuntu test-framework image|Mon, 28 Aug 2017 08:03:42 +0000|Mon, 28 Aug 2017 08:03:42 +0000
+dd7838c57708a144df9544fcea4b3c4b9d19f312|[ci skip] added notes on planned steps for moving creation of user/group into language-test-framework images|Thu, 24 Aug 2017 13:25:08 +0530|Thu, 24 Aug 2017 13:25:08 +0530
+2058d9862d19e325eaf7d8ada3839944963143e0|dont run stateful red/amber/green when choice is stateless|Thu, 24 Aug 2017 06:09:28 +0530|Thu, 24 Aug 2017 06:09:28 +0530
+cd88e25c8386556836f9bf3190fef1cf803d5858|[ci skip] readme tweak|Wed, 23 Aug 2017 21:11:17 +0530|Wed, 23 Aug 2017 21:11:17 +0530
+8dc2704f77ffc0aade35e6e879bdeab974e7729b|run stateful red/amber/green tests on the same avatar so they are properly stateful|Tue, 22 Aug 2017 10:26:22 +0530|Tue, 22 Aug 2017 10:26:22 +0530
+2b5ec245edebbef50275fe27d33cd17058244ce3|[ci skip] readme update|Tue, 22 Aug 2017 10:12:16 +0530|Tue, 22 Aug 2017 10:12:16 +0530
+a0321fa28ff5f62d4e62f1960679a9af11fb5b40|[ci skip] added license file|Tue, 22 Aug 2017 09:37:12 +0530|Tue, 22 Aug 2017 09:37:12 +0530
+fdd2ac908227cea569c0b4cd3b4ff673ebaf815a|drop rarely used local --push option|Tue, 22 Aug 2017 09:35:15 +0530|Tue, 22 Aug 2017 09:35:15 +0530
+2a1845ef071769d87681f4d755fbe9329dc06229|[ci skip] added comments|Tue, 22 Aug 2017 09:21:22 +0530|Tue, 22 Aug 2017 09:21:22 +0530
+2664ef9753be00b01d99d614e403ad93097af4d3|[ci skip] move notes file out of /|Tue, 22 Aug 2017 09:15:00 +0530|Tue, 22 Aug 2017 09:15:00 +0530
+f4105da6993c42952fe491f1cf2912dd007300f2|removed dead files and echo.puts debug lines|Tue, 22 Aug 2017 09:07:06 +0530|Tue, 22 Aug 2017 09:07:06 +0530
+5375c9140fa9c67a87ba65d86090ea645dca216d|add test/gcc-assert/ dir back without .git subdir|Tue, 22 Aug 2017 09:01:31 +0530|Tue, 22 Aug 2017 09:01:31 +0530
+601064f85ca6635065cfd03fe64942ab9e6484e0|added debug printfs to trace travis run|Tue, 22 Aug 2017 08:51:28 +0530|Tue, 22 Aug 2017 08:52:06 +0530
+d9d9dd978adc0f0ad20681c7dbe093cc8187cc3c|work to revive travis script|Tue, 22 Aug 2017 08:35:27 +0530|Tue, 22 Aug 2017 08:35:27 +0530
+e47c56e47971e46650501d630f10004a9788bc59|refactoring; move script files into sh/ dir|Tue, 22 Aug 2017 08:26:04 +0530|Tue, 22 Aug 2017 08:26:04 +0530
+519db38b07d20803f24365a510b3cd3dd4b458db|refactoring; better filenames|Tue, 22 Aug 2017 08:21:35 +0530|Tue, 22 Aug 2017 08:21:35 +0530
+c34defd7982b700a6c9d998e9322b3348db60da9|comment tidying|Tue, 22 Aug 2017 08:16:21 +0530|Tue, 22 Aug 2017 08:16:21 +0530
+550410e4efcfa9212ed886c5e855749318a8bc90|rename 'outer' build entry point as main to help distinguish inner and outer main|Tue, 22 Aug 2017 08:13:22 +0530|Tue, 22 Aug 2017 08:13:22 +0530
+ccfb39c949433b4d46e26a9e7c68076234f3e0e0|rename 'inner' build entry point as main to help distinguish inner and outer main|Tue, 22 Aug 2017 08:10:27 +0530|Tue, 22 Aug 2017 08:10:27 +0530
+d3dd543d713fdaa4aba4446ea21bcb1f442d46e5|switch to use gcc-assert for smoke test as its red/amber/greens are quicker|Tue, 22 Aug 2017 08:06:10 +0530|Tue, 22 Aug 2017 08:06:10 +0530
+0acb6364261b8483b855c24a16132813bc93d65a|do push as separate script to help local dev work|Tue, 22 Aug 2017 07:58:42 +0530|Tue, 22 Aug 2017 07:58:42 +0530
+21a56834a76b0d9fdf1fc4d4ab74503ce9f171dc|refactoring|Tue, 22 Aug 2017 07:02:46 +0530|Tue, 22 Aug 2017 07:02:46 +0530
+b3056b8a1013ee8a3795767e62b6e3476fc11168|refactoring|Tue, 22 Aug 2017 06:49:31 +0530|Tue, 22 Aug 2017 06:49:31 +0530
+ffe121d20f06deea57ad5d6269a7bd15ca09da63|[ci skip] readme tweak|Tue, 18 Jul 2017 08:02:15 +0100|Tue, 18 Jul 2017 08:02:15 +0100
+8662484eb015ecf4e4764644592017a619f06ed8|used runner_choice in manifest.json file instead of runner_statefull_only in options.json|Mon, 17 Jul 2017 14:35:33 +0100|Mon, 17 Jul 2017 14:35:33 +0100
+dfc78ded16aa608792ca98e77fdb4dc3a838095b|added extra puts statement so last output from image-builder is separated from [docker-compose down] output|Mon, 17 Jul 2017 14:34:41 +0100|Mon, 17 Jul 2017 14:34:41 +0100
+c8752c37dded6731447a63b0340e36484032128b|[ci skip] readme update|Sat, 15 Jul 2017 09:42:31 +0100|Sat, 15 Jul 2017 09:42:31 +0100
+0a2537e53faebb388a46496520148a7ad68d3e3b|[ci skip] readme update|Sat, 15 Jul 2017 09:40:56 +0100|Sat, 15 Jul 2017 09:40:56 +0100
+5e2823b497a4ff11f11bafb4a75e72f64dfa5f3a|added command-line option to display depdendencies|Thu, 13 Jul 2017 18:45:11 +0100|Thu, 13 Jul 2017 18:45:11 +0100
+ac170e0db8203890a8b1a87acaa182cabbabeb65|removed unneeded banner line from output|Thu, 13 Jul 2017 09:48:21 +0100|Thu, 13 Jul 2017 09:48:21 +0100
+b4a940656085c8689c605d94435064cd48835ec5|refactoring|Tue, 11 Jul 2017 21:09:44 +0100|Tue, 11 Jul 2017 21:09:44 +0100
+a80bbe3ada785b21d80c9cff151ae6a9e5f01abb|refactoring|Tue, 11 Jul 2017 21:07:46 +0100|Tue, 11 Jul 2017 21:07:46 +0100
+f07e4c9ab9ab437ee40ff4f0541b11acf7435206|refactoring|Tue, 11 Jul 2017 21:01:40 +0100|Tue, 11 Jul 2017 21:01:40 +0100
+4881718efa2e25fcb0112edbc339fa9d40bfb7be|refactoring|Tue, 11 Jul 2017 20:54:43 +0100|Tue, 11 Jul 2017 20:54:43 +0100
+d279627b08c622151850fb349cd2c4ecfb2b26d1|refactoring|Tue, 11 Jul 2017 20:37:17 +0100|Tue, 11 Jul 2017 20:37:17 +0100
+d9010676ad3cbc2caa0c7cfab44a88ef5b71727e|refactoring|Tue, 11 Jul 2017 20:29:45 +0100|Tue, 11 Jul 2017 20:29:45 +0100
+bf7d2bbefe7928609142be3a1e985818bc5df6f8|refactoring|Tue, 11 Jul 2017 20:23:51 +0100|Tue, 11 Jul 2017 20:23:51 +0100
+2a6216a5f0f3bb82a064e8e2f71f7cf9388575ba|don't call inner build twice|Tue, 11 Jul 2017 20:17:30 +0100|Tue, 11 Jul 2017 20:17:30 +0100
+9e15fa230450118f2cc54193c963dda99b2931b1|refactoring|Tue, 11 Jul 2017 20:16:04 +0100|Tue, 11 Jul 2017 20:16:04 +0100
+c55dd58b8a950601e286069f8a478ff9a8982d18|refactoring|Tue, 11 Jul 2017 20:07:38 +0100|Tue, 11 Jul 2017 20:07:38 +0100
+fc15669c9d8c8763157f139dfe2ce041a0ad3a5f|refactoring|Tue, 11 Jul 2017 19:53:46 +0100|Tue, 11 Jul 2017 19:53:46 +0100
+4bfaba3d4dd57fa24fb3320fba3fe8a803564ee2|refactoring|Tue, 11 Jul 2017 19:17:22 +0100|Tue, 11 Jul 2017 19:17:22 +0100
+2ff4a17bafb1259e9314a2ebc20fdd10f6957c84|refactoring|Tue, 11 Jul 2017 19:09:35 +0100|Tue, 11 Jul 2017 19:09:35 +0100
+9e9bb9c536be053c89d26bb85dd1fbb6e163b9a3|refactoring|Tue, 11 Jul 2017 19:04:30 +0100|Tue, 11 Jul 2017 19:04:30 +0100
+4c24320943d367db110c0cff2f67862d7f5129f1|refactored json file providing override defaults|Tue, 11 Jul 2017 18:50:38 +0100|Tue, 11 Jul 2017 18:50:38 +0100
+f2085a65e2c29261c39114c6b1c983b350f3430e|do inner-build in outer-build command so building appears as single operation|Tue, 11 Jul 2017 18:20:40 +0100|Tue, 11 Jul 2017 18:20:40 +0100
+ac8c0bacce4baec7130c96dc58696e1fee50f252|added comment on poorly named ENV-vars which aren't now worth changing|Tue, 11 Jul 2017 18:19:13 +0100|Tue, 11 Jul 2017 18:19:13 +0100
+b3a61a4b6cc31de5316eb2aa1ab04cb1e7e6d4dc|refactoring|Tue, 11 Jul 2017 08:03:42 +0100|Tue, 11 Jul 2017 08:03:42 +0100
+4e6e23bd34c779b2c89d467b2a0d860c4c624945|[ci skip] added function separator comment|Mon, 10 Jul 2017 12:44:20 +0100|Mon, 10 Jul 2017 12:44:20 +0100
+cddb0dbb54e1b23a4073a445757c693a0bfe1bb1|[ci skip] added function separator comment|Mon, 10 Jul 2017 12:41:09 +0100|Mon, 10 Jul 2017 12:41:09 +0100
+a924837d10fd536a8527b005cfdcee119d22cd76|refactoring; gathering dependency info when on Travis reuses common code when gathering locally|Mon, 10 Jul 2017 12:39:04 +0100|Mon, 10 Jul 2017 12:39:04 +0100
+342cac97a9d404aa3d86bf28d809e727048b70fa|refactoring|Mon, 10 Jul 2017 12:10:41 +0100|Mon, 10 Jul 2017 12:10:41 +0100
+026dd1548edc87bcf4a10d00aa53708655e1fbf5|work towards gathering dependent child information after build/test/push|Mon, 10 Jul 2017 11:14:02 +0100|Mon, 10 Jul 2017 11:14:02 +0100
+b0d7346729b2651f78abed0180aec37a85fe4f0b|[ci skip] comment updates|Sun, 9 Jul 2017 18:55:28 +0100|Sun, 9 Jul 2017 18:55:28 +0100
+43a052c6d8fbc474ce783ca1fa57d2a71fd2b4d8|dont show list of all repo info, just show dependency graph of repo being processed|Sun, 9 Jul 2017 11:56:54 +0100|Sun, 9 Jul 2017 11:56:54 +0100
+5b7f0c175450911a58716e4f0409e2202a85a8ea|updated github API call to retrieve list of repo names so it returns 1000 names per call, it was defaulting to 28|Sun, 9 Jul 2017 11:47:24 +0100|Sun, 9 Jul 2017 11:47:24 +0100
+e8f1b02868fdc0c75cc2fb85f84b570c751b8af0|display number of repos gathered when checking dependencies|Sun, 9 Jul 2017 11:22:08 +0100|Sun, 9 Jul 2017 11:22:08 +0100
+8e502d2d6ab02f5dcf14b265f6673b81216c8040|added better checking if github_token is set|Sun, 9 Jul 2017 07:54:53 +0100|Sun, 9 Jul 2017 07:54:53 +0100
+8b11b9ae1ed4389a6a6543849c35ef3b3e6f98be|removed debug puts statements|Sat, 8 Jul 2017 09:26:38 +0100|Sat, 8 Jul 2017 09:26:38 +0100
+870ac9aaa3a1cc8ef5053da33777ebb59663a7e7|add puts statements to see why start-point check is not happening|Sat, 8 Jul 2017 09:20:11 +0100|Sat, 8 Jul 2017 09:20:11 +0100
+90a4d7493e30a2f88279ccad7904ef0456146db1|refactoring|Fri, 7 Jul 2017 12:50:33 +0100|Fri, 7 Jul 2017 12:50:33 +0100
+8d017e476d07de2a9cfe0902cdf0dce8a5775f00|refactoring|Fri, 7 Jul 2017 12:49:04 +0100|Fri, 7 Jul 2017 12:49:04 +0100
+0fffa397245cf4e6c3ff0c804a36ca33ac28b785|refactoring|Fri, 7 Jul 2017 12:40:58 +0100|Fri, 7 Jul 2017 12:40:58 +0100
+ba2f9518823ffc5c3e37c0fa42e2f0a656b3169a|added explicit red/amber/green pattern files for changing the initial start_files into files that should produce red/amber/green traffic-light|Fri, 7 Jul 2017 12:33:15 +0100|Fri, 7 Jul 2017 12:33:15 +0100
+0b7a43d946154c56d6d1f3c5efc8e49c8e1c0ac8|refactoring|Fri, 7 Jul 2017 12:18:04 +0100|Fri, 7 Jul 2017 12:18:04 +0100
+7631c0a9c20cb8482f62b36df389b845c3f3761e|refactoring|Fri, 7 Jul 2017 11:06:12 +0100|Fri, 7 Jul 2017 11:06:12 +0100
+377328422614d7c0eea0baedf4aafbf3a497c813|refactoring|Fri, 7 Jul 2017 10:54:52 +0100|Fri, 7 Jul 2017 10:54:52 +0100
+1a10954da8289207d4d9e5de0174b34203382c85|refactoring|Fri, 7 Jul 2017 10:52:17 +0100|Fri, 7 Jul 2017 10:52:17 +0100
+724005bcce9f9ca5e2eaad38d485c98ce3b35b2a|refactoring|Fri, 7 Jul 2017 10:48:51 +0100|Fri, 7 Jul 2017 10:48:51 +0100
+08b4d47ac3bc6fb08c85a205623db133a28578cb|refactoring|Fri, 7 Jul 2017 10:43:01 +0100|Fri, 7 Jul 2017 10:43:01 +0100
+197dbf694ce9eeab845b25a5d5a655c93f226369|refactor red/amber/green runner-statefull src-files ready for parameterization from json file|Fri, 7 Jul 2017 10:30:25 +0100|Fri, 7 Jul 2017 10:30:25 +0100
+029ff69c8a3bee6a36ca86dbbe97fef3562aff33|refactor red/amber/green src-files ready for parameterization|Thu, 6 Jul 2017 17:01:18 +0100|Thu, 6 Jul 2017 17:01:18 +0100
+9ef30641be050edf6542496347d58bf70d3412f9|[ci skip] notes update|Wed, 5 Jul 2017 18:05:27 +0100|Wed, 5 Jul 2017 18:05:27 +0100
+5d22e7ff08535f031f117df74d9002d30d71ec72|remove Travis debug puts statements; only do test on one language-repo|Wed, 5 Jul 2017 15:06:06 +0100|Wed, 5 Jul 2017 15:06:06 +0100
+69095cfa8007ebb56d1d954dfc492c2be82b55ba|fake calling from cyber-dojo-language repo in image_builder test|Wed, 5 Jul 2017 14:57:29 +0100|Wed, 5 Jul 2017 14:57:29 +0100
+8567ed66eb4d2e11ff62e0e49ad0701237e6da23|add puts to see what's happening on Travis|Wed, 5 Jul 2017 14:48:51 +0100|Wed, 5 Jul 2017 14:48:51 +0100
+7f327cd87c07f0a273fcfa83e3706395c23e88db|when running on Travis, git-clone the repo to /tmp/|Wed, 5 Jul 2017 14:40:12 +0100|Wed, 5 Jul 2017 14:40:12 +0100
+773572824b590f2fa377d72f0ebaeca71f401501|do dev/null redirection correcly with pre-emptive start-point rm|Wed, 5 Jul 2017 10:47:54 +0100|Wed, 5 Jul 2017 10:47:54 +0100
+79d3fbd36ba03a5d08b150994e6d8ebfc2009062|started work in creating the image-dependency graph|Wed, 5 Jul 2017 10:24:46 +0100|Wed, 5 Jul 2017 10:24:46 +0100
+930cb5ac9f3519711883ab184f21c661e2be17f0|print duration of red/amber/green runs for stateless and statefull runner tests|Tue, 4 Jul 2017 09:16:26 +0100|Tue, 4 Jul 2017 09:16:26 +0100
+b9075ee7433bbbc1444d44cea9efcbab6720ca24|added red/amber/green tests for runner-statefull|Tue, 4 Jul 2017 09:02:44 +0100|Tue, 4 Jul 2017 09:02:44 +0100
+d759454e1e314ff811926d4928f694c2ee7ed5f1|added red/amber/green tests for runner-stateless|Tue, 4 Jul 2017 08:53:34 +0100|Tue, 4 Jul 2017 08:53:34 +0100
+52d37828e27a2b8c94a714fb225bbb5146192df6|refactoring; file rename|Tue, 4 Jul 2017 08:26:42 +0100|Tue, 4 Jul 2017 08:26:42 +0100
+e6deabd0cb224e6d0fd8ee9eb4f2f59d6f2ad610|print dot for each curl when gathering dependencies from repos|Mon, 3 Jul 2017 14:53:28 +0100|Mon, 3 Jul 2017 14:53:28 +0100
+f9d59611d2f84354e9269a00bdeb5c73c991f484|add option to push image to dockerhub when running locally|Mon, 3 Jul 2017 11:30:39 +0100|Mon, 3 Jul 2017 11:30:39 +0100
+1695652b28449154c9535f70397d500c59519872|make SRC_DIR a required argument when calling main script|Mon, 3 Jul 2017 10:55:19 +0100|Mon, 3 Jul 2017 10:55:19 +0100
+ecc942a83cc86a8709f59dafca03809f6175eaec|refactoring|Mon, 3 Jul 2017 10:06:29 +0100|Mon, 3 Jul 2017 10:06:29 +0100
+3db0a7f230f02c5ab608984703b7c6b496acc25b|refactoring|Mon, 3 Jul 2017 09:44:18 +0100|Mon, 3 Jul 2017 09:44:18 +0100
+2dc42f37df3b1f72f916dd49001d9b1864755629|refactoring|Mon, 3 Jul 2017 09:36:18 +0100|Mon, 3 Jul 2017 09:36:18 +0100
+ef3841cfc0928cb28d660c7fc7947f540142c117|refactoring|Mon, 3 Jul 2017 09:28:39 +0100|Mon, 3 Jul 2017 09:28:39 +0100
+64cfb70d2ef05e62d3c4298f70013da97d3c3ef3|added retrieval of image-name from repos when running on travis|Sun, 2 Jul 2017 11:28:15 +0100|Sun, 2 Jul 2017 11:28:15 +0100
+444d9070d04168d07800b2e57251bf42cee2886f|refactoring|Sun, 2 Jul 2017 11:14:40 +0100|Sun, 2 Jul 2017 11:14:40 +0100
+6b32b722dfc1ed6671ca618eee3c6065809b9244|refactoring|Sun, 2 Jul 2017 11:06:05 +0100|Sun, 2 Jul 2017 11:06:05 +0100
+9e1e61f202237f69c6dd8dd018515d4fca02fc33|refactoring|Sun, 2 Jul 2017 10:47:21 +0100|Sun, 2 Jul 2017 10:47:21 +0100
+8657ac4bad199e7c9e570204628855a93399d359|refactoring|Sun, 2 Jul 2017 10:45:05 +0100|Sun, 2 Jul 2017 10:45:05 +0100
+bf03847fa067e2863c541385c53fc4f5555d4b74|refactoring|Sun, 2 Jul 2017 10:16:26 +0100|Sun, 2 Jul 2017 10:16:26 +0100
+1e7117d485909e5c0b4a03e3857cb27bc438a11c|refactoring|Sun, 2 Jul 2017 10:06:01 +0100|Sun, 2 Jul 2017 10:06:01 +0100
+334c76471094dbc8afee78bd176c057c9459bdb7|started harvesting dependency triple data directly from github repos|Sat, 1 Jul 2017 06:23:41 +0100|Sat, 1 Jul 2017 06:23:41 +0100
+ea57f8aa391fce7f49ae3bde13e2e83a8f9f4c1b|use --silent option on curl commands to reduce output|Sat, 1 Jul 2017 05:44:27 +0100|Sat, 1 Jul 2017 05:44:27 +0100
+f21739234a38114e0d17195652ecdd721837a113|see if sudo is required on travis|Fri, 30 Jun 2017 22:03:24 +0100|Fri, 30 Jun 2017 22:03:24 +0100
+f7dd6ccadc1278c41f14c34348c8175c6e32b8c2|refactoring; general output tidying|Fri, 30 Jun 2017 17:41:01 +0100|Fri, 30 Jun 2017 17:41:01 +0100
+6e00bfbb8fda718ac3fee2299556fda6698edbb3|started implementing code to retrieve dependencies dynamically from github repos when running on Travis|Fri, 30 Jun 2017 17:11:54 +0100|Fri, 30 Jun 2017 17:11:54 +0100
+8e93a9950a6d82b62dfb8be251a63c3b81183f90|pass GITHUB_TOKEN env-var ready for Travis getting image dependencies dynamically from github repos|Fri, 30 Jun 2017 16:40:54 +0100|Fri, 30 Jun 2017 16:40:54 +0100
+bac54d3eb29067769cd29d14a7aab4d902294d8d|trying to fix broken travis|Fri, 30 Jun 2017 12:35:26 +0100|Fri, 30 Jun 2017 12:35:26 +0100
+c3cbc131f81ea2853daf6afbd79d71825c3ccf7a|delete dead code|Fri, 30 Jun 2017 12:34:21 +0100|Fri, 30 Jun 2017 12:34:21 +0100
+b3ecb11f97228fee6075bc3c9c67a0a3f14c72ae|redirect all output to dev/null when pre-deleting start-point|Fri, 30 Jun 2017 12:28:17 +0100|Fri, 30 Jun 2017 12:28:17 +0100
+3900eccb343770a08862ef751d58d1bef8d88dfc|delete dead code|Fri, 30 Jun 2017 12:27:45 +0100|Fri, 30 Jun 2017 12:27:45 +0100
+b10936455ae84906aa346e948c8ebc69305e45c4|move image_name checking out of builder|Fri, 30 Jun 2017 12:23:39 +0100|Fri, 30 Jun 2017 12:23:39 +0100
+cfbd6d8ff68a10f5185e082a9535d5b706678b04|use hash for builder args|Fri, 30 Jun 2017 12:00:45 +0100|Fri, 30 Jun 2017 12:00:45 +0100
+08558ee14311c935da0d3844360dd4f8818a43f2|pass image_name into Builder as ctor arg|Fri, 30 Jun 2017 11:56:42 +0100|Fri, 30 Jun 2017 11:56:42 +0100
+ec0892e3c4ba41c4787ddcd872c12edc58fe186b|use [cyber-dojo start-point create NAME --dir=...] to check start-point validity|Fri, 30 Jun 2017 09:56:07 +0100|Fri, 30 Jun 2017 09:56:07 +0100
+0636c65de6b9d321cf745757b74bfda72976e2d8|start to implement gathering dependencies from dirs if running locally|Fri, 30 Jun 2017 09:47:40 +0100|Fri, 30 Jun 2017 09:47:40 +0100
+4797a5e715f5fa05c67b52003c479b23fa11eb3b|delete dead md files|Fri, 30 Jun 2017 09:01:03 +0100|Fri, 30 Jun 2017 09:01:03 +0100
+ba9c1ad80cab6f3eb32faf67346b0381bb12c7d5|[ci skip] more notes on dynamically retrieving repo dependency info|Wed, 28 Jun 2017 19:21:24 +0100|Wed, 28 Jun 2017 19:21:24 +0100
+439745509820730df639eb48b9582e431709394b|[ci skip] added more notes on dynamically retrieving repo dependency info|Wed, 28 Jun 2017 18:34:12 +0100|Wed, 28 Jun 2017 18:34:12 +0100
+6875389ddc5caed361c2482c58a12506836e38bc|[ci skip] added notes on how to dynamically retrieve dependency information|Wed, 28 Jun 2017 18:07:16 +0100|Wed, 28 Jun 2017 18:07:16 +0100
+4d07518dd1afc90b54c9b26647235b49dae3c2e6|set BASE_DIR to .. of SRC_DIR if running locally|Wed, 28 Jun 2017 11:31:41 +0100|Wed, 28 Jun 2017 11:31:41 +0100
+7ad582f0b0047838aed1b6c7bd6e7ad01d7793d7|refactoring; delete check for env-vars which is already in dockerhub class|Wed, 28 Jun 2017 11:26:43 +0100|Wed, 28 Jun 2017 11:26:43 +0100
+f0c5a2c1ed3246c9220bb5b52ed882f1784dcb5d|refactoring; moved login/push into Dockerhub class|Wed, 28 Jun 2017 11:23:54 +0100|Wed, 28 Jun 2017 11:23:54 +0100
+97e37ebe4de41c3fd001913e446d2ffb71707faf|added missing def for success=0|Wed, 28 Jun 2017 10:53:58 +0100|Wed, 28 Jun 2017 10:53:58 +0100
+3a06cd8cf92d5e032a1365863d1850e62e31e839|refactored global methods into class methods ready for dependency-chaining to build DAG of images|Wed, 28 Jun 2017 10:50:35 +0100|Wed, 28 Jun 2017 10:50:35 +0100
+492e7c4e414de71d0dc3f0185570cdeb86398c20|improve method names|Wed, 28 Jun 2017 08:39:29 +0100|Wed, 28 Jun 2017 08:39:29 +0100
+29ebe92fc6f4d077399ba66b66ae282bf96de5ac|un-hardwire my_dir in rb|Wed, 28 Jun 2017 08:28:15 +0100|Wed, 28 Jun 2017 08:28:15 +0100
+56da13ca0eb2e613a80efab23969062810e2c94f|only do [docker login] and [docker push] if running on Travis|Wed, 28 Jun 2017 08:24:50 +0100|Wed, 28 Jun 2017 08:24:50 +0100
+a0e34b37505b9a6cbb164797eb1016bfa138b421|pipe output to /dev/null as we don't need to see container IDs|Tue, 27 Jun 2017 15:32:11 +0100|Tue, 27 Jun 2017 15:32:11 +0100
+21e85dcffc0b30c7e2d519d60f2046b0856e2bd4|create data-volume-container from base-dir ready for local globbing to get dependencies and subsequent build chaining|Tue, 27 Jun 2017 15:29:01 +0100|Tue, 27 Jun 2017 15:29:01 +0100
+2e85638a6b1a17e13df7586b929c67362a005bf1|mount volumes_from as read-only|Tue, 27 Jun 2017 15:13:38 +0100|Tue, 27 Jun 2017 15:13:38 +0100
+eca31ac0ca52898a20db7d19c7b4e72b35dc48e9|[ci skip] readme update|Tue, 27 Jun 2017 12:55:18 +0100|Tue, 27 Jun 2017 12:55:18 +0100
+814a823d881280b306311f24fed31ea765e66651|delete dead file|Tue, 27 Jun 2017 12:49:46 +0100|Tue, 27 Jun 2017 12:49:46 +0100
+1021b295224763e57c467c035c104874ab58ba38|[ci skip] delete dead files|Tue, 27 Jun 2017 12:47:35 +0100|Tue, 27 Jun 2017 12:47:35 +0100
+8c13b6eefe22aad35dd2a12f3da185f7f00e8feb|use smaller alpine-based elixir in tests instead of larger ubuntu-based haskell tests for faster travis run|Tue, 27 Jun 2017 12:44:15 +0100|Tue, 27 Jun 2017 12:44:15 +0100
+10ab664ed5b3f0510c30c43435fed01610af4063|delete test/elixir dirs as they don't seem to be appearing on github properly|Tue, 27 Jun 2017 12:38:54 +0100|Tue, 27 Jun 2017 12:38:54 +0100
+4f398de4944aa24981bb45f6274d78d33e2ef524|use smaller alpine-based images in test.sh instead of ubuntu-based images for faster travis run|Tue, 27 Jun 2017 12:32:15 +0100|Tue, 27 Jun 2017 12:32:15 +0100
+4130669b1424a19ec446ce78664462cc366753ae|correct dirname from Docker to docker|Tue, 27 Jun 2017 12:24:21 +0100|Tue, 27 Jun 2017 12:24:21 +0100
+41f4b760caac14bf64de7e83875c53fc4bf65463|start working on image-builder tests; start with one good-language and one good-test-framework and if they both build and pass their builder-tests then push image-builder images to dockerhub|Tue, 27 Jun 2017 12:17:08 +0100|Tue, 27 Jun 2017 12:17:08 +0100
+b351e2f60390d6b84a6100451ac6b80e55922b2b|refactoring; now using a data-volume-container to hold src-dir|Tue, 27 Jun 2017 11:42:46 +0100|Tue, 27 Jun 2017 11:42:46 +0100
+014f02b6c65aa4936ba65c9265794303557a5d93|[ci skip] notes tidying|Tue, 27 Jun 2017 10:42:12 +0100|Tue, 27 Jun 2017 10:42:12 +0100
+feb0f8a918631313c13ff23a0a94b5e5ff1299b8|clean-up language-volume if image-build fails or is Control-C'd|Wed, 21 Jun 2017 12:14:23 +0200|Wed, 21 Jun 2017 12:14:23 +0200
+f5a42824ab0525920af1e8f705d9e4d8b155a29b|added dependency triples for g++/assert and g++/catch|Wed, 21 Jun 2017 11:20:45 +0200|Wed, 21 Jun 2017 11:20:45 +0200
+afdabfe4b7453925fbe4096f372ac403f78bbd27|[ci skip] notes update|Sat, 17 Jun 2017 17:54:16 +0100|Sat, 17 Jun 2017 17:54:16 +0100
+0c7f961cfc4c94e96a5708ca8287d30dddbfb2f4|[ci skip] notes/comments update|Thu, 15 Jun 2017 08:35:39 -0400|Thu, 15 Jun 2017 08:35:39 -0400
+f6ba80e7348eb056adf8ac25a170b3ce49e9290e|remove use of GITHUB_TOKEN env-var|Thu, 15 Jun 2017 06:09:25 -0400|Thu, 15 Jun 2017 06:09:25 -0400
+44e3fb9d51e4a38e5f6aca7c5c57f074fea075ed|refactoring; delete dead code|Thu, 15 Jun 2017 05:06:03 -0400|Thu, 15 Jun 2017 05:06:03 -0400
+01c8c7f865a2f26519490a98c551a006a9a6cd69|added comment on design tension re making Travis do a [git clone] for dependent repos instead of doing a github POST notification|Wed, 14 Jun 2017 13:19:29 -0400|Wed, 14 Jun 2017 13:19:29 -0400
+c7990c7f4c41e19b8b23e097f859eef9c1471f13|[ci skip] added notes on possible alternative to notifying-dependent-git-repos|Wed, 14 Jun 2017 01:41:58 -0400|Wed, 14 Jun 2017 01:41:58 -0400
+8a8b36faa1d8af4e408d02e13cc3d9ee99a40ce6|reinstate docker login/push|Tue, 13 Jun 2017 19:41:18 -0400|Tue, 13 Jun 2017 19:41:18 -0400
+9475e0ae6ae3044a033ffe49793f6dcdc7f2b46d|refactoring; layout and delete dead code|Tue, 13 Jun 2017 19:46:14 +0100|Tue, 13 Jun 2017 19:46:14 +0100
+dddf9f0dae6d5702e8680211f89b6d0b026cc8bd|refactoring; layout|Tue, 13 Jun 2017 19:42:41 +0100|Tue, 13 Jun 2017 19:42:41 +0100
+02a1b2a6d1e0773ce46e337b496a375f67737def|refactoring; collapse duplication into assert_rag() function|Tue, 13 Jun 2017 19:38:44 +0100|Tue, 13 Jun 2017 19:38:44 +0100
+c3e452a387537f010a1439fdaadb8acd67d20908|refactoring; collapse duplication|Tue, 13 Jun 2017 19:27:24 +0100|Tue, 13 Jun 2017 19:27:24 +0100
+c7bcff9e430930212403707cb39d0c5dc1a6612a|refactoring; move check start-point output is red into separate function|Tue, 13 Jun 2017 19:20:29 +0100|Tue, 13 Jun 2017 19:20:29 +0100
+7f885749723434c0800f3319aa9f6544c6116de0|added test for start-point being red in runner-statefull|Tue, 13 Jun 2017 19:17:14 +0100|Tue, 13 Jun 2017 19:17:14 +0100
+9fc93bb79bbd9638e814d40be40dc622a1d11130|refactoring; collapse duplication into function returning start_point_visible_files|Tue, 13 Jun 2017 19:09:21 +0100|Tue, 13 Jun 2017 19:09:21 +0100
+df8aff3f8780e47559955669f92f243ae8a984ac|refactoring; there is already a function to get the image_name|Tue, 13 Jun 2017 19:03:08 +0100|Tue, 13 Jun 2017 19:03:08 +0100
+a73d6a6a5f0d601674264857305eef19f16ff8d3|added placeholder function for testing saved traffic_lights/ filesets|Tue, 13 Jun 2017 19:00:39 +0100|Tue, 13 Jun 2017 19:00:39 +0100
+931eb5f32f7fedaddadd3bb23ee9787136ed8cfa|dropped looking for stored outputs; there is no need to check this now that the determination of a tests output is determined by the image's embedded red_amber_green.rb lamda. If you fork from a session that used a previous version of the test-framework you will get the new test-framework|Tue, 13 Jun 2017 18:58:54 +0100|Tue, 13 Jun 2017 18:58:54 +0100
+68838183b20fab6304be28044d3682a89a90f6c5|pass GITHUB_TOKEN env-var, check for required env-vars|Tue, 13 Jun 2017 17:17:44 +0100|Tue, 13 Jun 2017 17:17:44 +0100
+380aaf075a2cad548c86844aa068ef0e8637b42a|refactoring; deleted dead sh file|Tue, 13 Jun 2017 17:06:50 +0100|Tue, 13 Jun 2017 17:06:50 +0100
+372a4f0a46c99e79ae32ad9a08b8d19d70f710a2|reduce amount of output run_build_image.sh produces|Tue, 13 Jun 2017 17:04:02 +0100|Tue, 13 Jun 2017 17:04:02 +0100
+9f3f86cc287001c1e798b5385f5545dda0f4e0f4|refactoring|Tue, 13 Jun 2017 16:56:44 +0100|Tue, 13 Jun 2017 16:56:44 +0100
+90921fb40892f0ee9f92e3caccb5fa25edbacdc3|translating build_image.sh into Ruby|Tue, 13 Jun 2017 16:46:00 +0100|Tue, 13 Jun 2017 16:46:00 +0100
+c0984712f4e46a6780567ce52af18bc0c128e467|pipe-script has to push two images now image-builder is split and has outer and inner images|Tue, 13 Jun 2017 12:33:29 +0100|Tue, 13 Jun 2017 12:33:29 +0100
+b472e66093932ec600a951a67688cdc64d5bd68e|have to build inner-image-builder now it is a service below the outer-image-builder|Tue, 13 Jun 2017 12:31:35 +0100|Tue, 13 Jun 2017 12:31:35 +0100
+6b99818708be7bd15eb88aff350854c162125200|restore pipe-script, uncomment commands that needed internet access which I temporarily did not have|Tue, 13 Jun 2017 12:26:56 +0100|Tue, 13 Jun 2017 12:26:56 +0100
+392746f69c0aa556cdd6c7081f39e3250b0d4613|added design comments|Tue, 13 Jun 2017 12:18:27 +0100|Tue, 13 Jun 2017 12:18:27 +0100
+6d8f9cbe074328a2cff357e7f1dcff5e3c210a00|refactoring; added todo comment re clean-up being bypassed on earlier failing command|Tue, 13 Jun 2017 11:31:02 +0100|Tue, 13 Jun 2017 11:31:02 +0100
+92a5575b0cdf3610b3cd9307dd54f84412e4c76e|added check that SRC_DIR arg passed to run_build_image.sh exists|Tue, 13 Jun 2017 11:27:54 +0100|Tue, 13 Jun 2017 11:27:54 +0100
+b953be15f9b3c2704977556e362af3ef0c7f7fd4|refactoring; switch to running build_image.rb using [docker-compose run] rather than [docker-compose exec]|Tue, 13 Jun 2017 11:23:13 +0100|Tue, 13 Jun 2017 11:23:13 +0100
+7aa759ff6420a1d7e9f51ccb125058886ccc6f31|add comment on how to enhance check-up()|Tue, 13 Jun 2017 10:39:15 +0100|Tue, 13 Jun 2017 10:39:15 +0100
+7c6a6fa9d885432e9568e52bef9d7b13cacf2c95|refactoring; dropped up.sh since the idea is that from the outside you only need run_build_image.sh|Tue, 13 Jun 2017 10:36:28 +0100|Tue, 13 Jun 2017 10:36:28 +0100
+21b514bfbe6babd5912f3238a8205f0c1322dac9|refactoring; renamed inner image_builder so outer image_builder can just be called image_builder|Tue, 13 Jun 2017 10:29:18 +0100|Tue, 13 Jun 2017 10:29:18 +0100
+9e768c6acc91806be0b74aa625bc22aef5afe2d7|refactoring; delete dead comment|Tue, 13 Jun 2017 10:21:17 +0100|Tue, 13 Jun 2017 10:21:17 +0100
+71d7532a30ae39cad69db263a16b55a652728f9b|refactoring; added comments on what is building what|Tue, 13 Jun 2017 10:20:15 +0100|Tue, 13 Jun 2017 10:20:15 +0100
+d0025383aa59622ebb7e4fb900241025f1b87fb1|added comments on next step|Tue, 13 Jun 2017 10:15:38 +0100|Tue, 13 Jun 2017 10:15:38 +0100
+30d6734f1feb5e9206c6a01436d452d4719afd8d|refactoring; improve variable name|Tue, 13 Jun 2017 10:15:16 +0100|Tue, 13 Jun 2017 10:15:16 +0100
+c96d49c47fa19fca944526f06599b13682df4876|allow SRC_DIR to be passed as arg to run_build_image.sh|Tue, 13 Jun 2017 10:12:31 +0100|Tue, 13 Jun 2017 10:12:31 +0100
+9a077845d1f3c7aecf1b2e25721d1a265734fb4e|refactoring; comment update|Tue, 13 Jun 2017 10:10:09 +0100|Tue, 13 Jun 2017 10:10:09 +0100
+a7e5c964c0b6aa4614cc7693c58b842fc95438e1|revived pipe_build_up_test_push.sh|Tue, 13 Jun 2017 10:08:00 +0100|Tue, 13 Jun 2017 10:08:00 +0100
+5aaf740236d2650005190d2d083987ffd59a2907|refactoring; split docker-compose up into 3 separate ups|Tue, 13 Jun 2017 09:37:00 +0100|Tue, 13 Jun 2017 09:37:00 +0100
+3669f0e6ed360743da01f77e9cad6a603014a105|use simpler test data that does not have nested dirs|Tue, 13 Jun 2017 09:28:18 +0100|Tue, 13 Jun 2017 09:28:18 +0100
+b3362896ceba8915afb118a7b64b84e2d9aecedf|refactoring; move new files into place|Tue, 13 Jun 2017 08:26:28 +0100|Tue, 13 Jun 2017 08:26:28 +0100
+e2f508b10bb98a8c93cb1c562c4d2ad7c5fdaa4a|refactoring|Tue, 13 Jun 2017 08:02:04 +0100|Tue, 13 Jun 2017 08:02:04 +0100
+657b2e7d9c9d2d4372fe8adf543d6621112c759c|rough version of image-builder containing docker-compose and its own docker-compose.yml file|Tue, 13 Jun 2017 07:54:03 +0100|Tue, 13 Jun 2017 07:54:03 +0100
+c9449465f4be0ed1f7c6099a023ab18538218154|create image_builder in builder sub-dir to make way for top-level having its own Dockerfile which installs docker-compose|Mon, 12 Jun 2017 21:03:28 +0100|Mon, 12 Jun 2017 21:03:28 +0100
+3a57f03f46663bc823bce0570eed361333b36ebb|added notes on pushing builder down a level and putting docker-compose + docker-compose.yml inside new top-level image_builder|Mon, 12 Jun 2017 20:52:58 +0100|Mon, 12 Jun 2017 20:52:58 +0100
+bbd037dd36eb887e0eecc7009535bbb94e0612e1|add design comments on checking red/amber/green from start-point files|Mon, 12 Jun 2017 20:04:40 +0100|Mon, 12 Jun 2017 20:04:40 +0100
+f953b1ec2b98ce8b717761571e1169806bd4d55b|simplify passing env-vars in docker exec call|Mon, 12 Jun 2017 19:27:47 +0100|Mon, 12 Jun 2017 19:27:47 +0100
+eeb0a830d82013796b4b34649d3f320430c64810|delete debug echoes|Mon, 12 Jun 2017 18:49:21 +0100|Mon, 12 Jun 2017 18:49:21 +0100
+26f2e6b75173895824540b6baa32e87adc4b5a5e|it seems [docker exec] on Travis does not have the --env option so I'm setting them from the command-line|Mon, 12 Jun 2017 18:45:50 +0100|Mon, 12 Jun 2017 18:45:50 +0100
+07d03e974ff22ee6f217bef7742e6b89b7b0d6f9|trying yet another syntax for [docker exec --env]|Mon, 12 Jun 2017 18:35:02 +0100|Mon, 12 Jun 2017 18:35:02 +0100
+ec45eae26872083256d12512aa6060b5147720d7|remove set-e and add set-x to debug what's happening on Travis|Mon, 12 Jun 2017 18:30:35 +0100|Mon, 12 Jun 2017 18:30:35 +0100
+c9a09a06a1144cdd607ea556a24da2ce99bdafdd|trying different [docker exec --env] syntax|Mon, 12 Jun 2017 18:27:26 +0100|Mon, 12 Jun 2017 18:27:26 +0100
+88a017c1c1f99ec2b30d00d812ded0a3cca0e2d9|add echos to script to see what's happening in Travis|Mon, 12 Jun 2017 18:22:23 +0100|Mon, 12 Jun 2017 18:22:23 +0100
+4e407407ad414970beba6bc0113b5397f33840a9|don't pass in GITHUB_TOKEN as its not defined in most Travis repos and not used yet anyway|Mon, 12 Jun 2017 18:16:14 +0100|Mon, 12 Jun 2017 18:16:14 +0100
+360f8d99b7c5f0537f8ffa07e5bb6ca48715410a|pull image_builder in run_build_image.sh so it does not try to do [docker build] to create it which won't work because the current dir is for the language running run_build_image and not the image_builder itself|Mon, 12 Jun 2017 18:09:46 +0100|Mon, 12 Jun 2017 18:09:46 +0100
+7cebb0c5e95a3abc89d1429a21e40e19231f2280|image_builder now passes start-point src files to runner to get sss [stdout,stderr,status] and then passes sss to rag-lambda and verifies the colour as red|Mon, 12 Jun 2017 14:25:05 +0100|Mon, 12 Jun 2017 14:25:05 +0100
+a368d8c1fb4e6350cd1a9cf1677ac01327efaa99|fix-up run_build_image.sh so it works from travis script run|Mon, 12 Jun 2017 14:07:37 +0100|Mon, 12 Jun 2017 14:07:37 +0100
+69a886a6f2d066279e9145638755f9d2e3f32421|added notes on how to proceed because at the moment run_build_image.sh cannot be called from a language repos .travis.yml script|Mon, 12 Jun 2017 10:35:36 +0100|Mon, 12 Jun 2017 10:35:36 +0100
+c6bb3b6d9d599a02838ba54ac14529601572001a|reading information from start-point manifest (image-name and visible-files) and sending it to runner-service|Mon, 12 Jun 2017 10:19:24 +0100|Mon, 12 Jun 2017 10:19:24 +0100
+46fa50650877ee97e00bba7f8f481b7472a83701|remove call to spike file which has has been deleted|Sun, 11 Jun 2017 19:38:17 +0100|Sun, 11 Jun 2017 19:38:17 +0100
+6d9d94d253ae3f6f8c6e8e197caf50573c7205de|image_builder now using http_service to call into runner_stateless/run|Sun, 11 Jun 2017 19:35:10 +0100|Sun, 11 Jun 2017 19:35:10 +0100
+c3e1d8e98d724809f11d1d6bdef3793b567b0bc3|restored [docker push] called from pipe_build_up_test_push.sh|Sun, 11 Jun 2017 19:22:54 +0100|Sun, 11 Jun 2017 19:22:54 +0100
+f473adc4718c3b8638773a3af79152a594cd65ed|deleted dead file|Sun, 11 Jun 2017 19:22:13 +0100|Sun, 11 Jun 2017 19:22:13 +0100
+1fc8f8876f33947cd967299529cd8687eea06756|pass env-vars in [docker exec] call instead of putting them in docker-compose.yml|Sun, 11 Jun 2017 19:18:47 +0100|Sun, 11 Jun 2017 19:18:47 +0100
+96f943c11954471688225de3411d8c4cc0330e5e|switched to using docker-compose.yml in run_build_image.sh file|Sun, 11 Jun 2017 18:55:13 +0100|Sun, 11 Jun 2017 18:55:13 +0100
+3a56806ed55d4df611289ab0062506cd5f8c4e7a|added missing up call to pipe_build_up_test_push script|Sun, 11 Jun 2017 13:47:05 +0100|Sun, 11 Jun 2017 13:47:05 +0100
+58f29564c0da8e0ac33bb76b4f3dd93736ad2026|added simple check to ensure services are up|Sun, 11 Jun 2017 11:11:55 +0100|Sun, 11 Jun 2017 11:11:55 +0100
+d6caa29a464c6aab2d56daa732c84524c4a6ed3d|added options to docker-compose.yml for image_builder so it stays up when started with [docker-compose up -d] and can be subsequently [docker exec]'d into|Sun, 11 Jun 2017 11:06:45 +0100|Sun, 11 Jun 2017 11:06:45 +0100
+52a97d4ca94715d7068dee79902a1f1f478c82b7|use docker-compose.yml to start knitting image-builder to the runner_stateless service it will need|Sun, 11 Jun 2017 10:30:52 +0100|Sun, 11 Jun 2017 10:30:52 +0100
+8a52edce6d046b33aa115bfa898a75eba7c3478e|[ci skip] pass ip-address into spike script|Sat, 10 Jun 2017 18:08:58 +0100|Sat, 10 Jun 2017 18:08:58 +0100
+1a13a2caed1b5f8173eb0a5079751cfd69c1ec6b|[ci skip] spiking how to run start-point's source files inside runner container inside image_builder|Sat, 10 Jun 2017 17:05:12 +0100|Sat, 10 Jun 2017 17:05:12 +0100
+378e10d1ff5a40fdbcd0322f204a014f54f37f9e|[ci skip] refactoring; comment improvements|Sat, 10 Jun 2017 09:43:40 +0100|Sat, 10 Jun 2017 09:43:40 +0100
+c8874a510b7ce608644ed93b5480ea1fb37a58e6|added check for GITHUB_TOKEN being set, updated comments that incorrectly said a repo did not require a /docker/Dockerfile|Sat, 10 Jun 2017 09:35:47 +0100|Sat, 10 Jun 2017 09:35:47 +0100
+e1ce67f9b8534e2c5adc48c75d5b541fadbd414e|refactoring; removed dead comment|Sat, 10 Jun 2017 07:43:14 +0100|Sat, 10 Jun 2017 07:43:14 +0100
+06b29b6236e9c8147f296abe5a1bc1bbce6786b5|refactoring; docker/Dockerfile is required even if it is a single FROM line|Sat, 10 Jun 2017 07:42:41 +0100|Sat, 10 Jun 2017 07:42:41 +0100
+312716a6937c83b82ca55a1f43b99316c26adb78|refactoring; check env-vars for docker login at point it happens|Sat, 10 Jun 2017 00:15:24 +0100|Sat, 10 Jun 2017 00:15:24 +0100
+2807e94e29cd1e3b75a41a7fdf062c3a6e13c886|fix dependency for swift-swordfish|Fri, 9 Jun 2017 23:48:18 +0100|Fri, 9 Jun 2017 23:48:18 +0100
+07d171f343ec2182cadcda9933027d15f259792c|add dependency for swift-swordfish|Fri, 9 Jun 2017 23:36:40 +0100|Fri, 9 Jun 2017 23:36:40 +0100
+7889734283ca2957dc19c8d6c9613d267f08b9d6|fix another ruby syntax error|Fri, 9 Jun 2017 23:32:33 +0100|Fri, 9 Jun 2017 23:32:33 +0100
+9319ca7bd4614e0ad99686cafc4f550b18184a89|fix ruby syntax error|Fri, 9 Jun 2017 23:26:34 +0100|Fri, 9 Jun 2017 23:26:34 +0100
+e03f120018e6800569a23021786b8e6890006b83|add dependency for swift-xctest|Fri, 9 Jun 2017 23:21:50 +0100|Fri, 9 Jun 2017 23:21:50 +0100
+3f07fafad260a77fbbb7d6985edd6c1bfd8e67bd|added dependency for swift:3.1|Fri, 9 Jun 2017 23:03:21 +0100|Fri, 9 Jun 2017 23:03:21 +0100
+cb9510924c5bd99a9e967f7efea4623e90df71ac|[ci skip] improved comments on (in)dependency design|Fri, 9 Jun 2017 22:25:04 +0100|Fri, 9 Jun 2017 22:25:04 +0100
+a0a7e214d4e6de905b1c3fec77762af7c0df8372|fix bild script typo|Fri, 9 Jun 2017 11:55:59 +0100|Fri, 9 Jun 2017 11:55:59 +0100
+eb760fab9dc3346a8321749314acf98bd364d2e7|simplify caller by creating repo-url from name of dir|Fri, 9 Jun 2017 11:46:03 +0100|Fri, 9 Jun 2017 11:46:03 +0100
+6e06ffb3db9035c58f8be8f6d782234bb0bf61e2|simplify calling the build script by defaulting  to PWD|Fri, 9 Jun 2017 11:28:51 +0100|Fri, 9 Jun 2017 11:28:51 +0100
+0b1a10e1260de550e1f68bf011285eaca57a8588|refactoring; collapse duplication|Fri, 9 Jun 2017 11:00:19 +0100|Fri, 9 Jun 2017 11:00:19 +0100
+5564f0c2758ce62d3a12dc785f829b4facc6bc55|docker login before building building image for faster fail|Fri, 9 Jun 2017 10:57:04 +0100|Fri, 9 Jun 2017 10:57:04 +0100
+ec4fdcb2129d9cef10e2a8373d923d9d9bdd41f3|check required env-vars in .rb script inside container|Fri, 9 Jun 2017 10:53:38 +0100|Fri, 9 Jun 2017 10:53:38 +0100
+75aaec6c11e5bd6fa9985e1d45505c14714b149a|simplified build script by using single volume mount|Fri, 9 Jun 2017 10:35:55 +0100|Fri, 9 Jun 2017 10:35:55 +0100
+1edf736f0c43ed84be31a7227a3ca537b0509554|[ci skip] fix comment grammar|Thu, 8 Jun 2017 21:11:00 +0100|Thu, 8 Jun 2017 21:11:00 +0100
+13e3c9cec5684b8e1c8653bb72fc62a4e6c3506e|volume mount start_point-type.json file so start-point check can see it|Thu, 8 Jun 2017 20:25:46 +0100|Thu, 8 Jun 2017 20:25:46 +0100
+f9f3cbb9d43183c32146110e99c678ff9a0ce76b|fix syntax errors|Thu, 8 Jun 2017 20:02:35 +0100|Thu, 8 Jun 2017 20:02:35 +0100
+f5c4c56cdf3e72ae5291aa5e1e1dab4b79a172bf|drop requirement to have traffic_lights/ and outputs/ dirs in a test-framework repo|Thu, 8 Jun 2017 17:18:31 +0100|Thu, 8 Jun 2017 17:18:31 +0100
+611e79660576f68560ca947a38387d25a0686de9|there does not need to be a /docker/ dir because a test-framework repo might be reusing an another test-framework's docker-image|Thu, 8 Jun 2017 17:00:32 +0100|Thu, 8 Jun 2017 17:00:32 +0100
+187b148aa361577fbabd3467a2d62f9a43ab5667|[ci skip] notes update|Thu, 8 Jun 2017 08:49:02 +0100|Thu, 8 Jun 2017 08:49:02 +0100
+96c4625cc0681fd6b6ca3d83680c73bf5e4d94d3|[ci skip] added notes file|Wed, 7 Jun 2017 17:24:28 +0100|Wed, 7 Jun 2017 17:24:28 +0100
+559b352a2081c6b914f3d448d31828c25a67b9fc|call the right function|Wed, 7 Jun 2017 16:56:55 +0100|Wed, 7 Jun 2017 16:56:55 +0100
+a8783156ffeaec4856a59dd9eb25d8aa45e3681f|display image_name before pushing it to dockerhub|Wed, 7 Jun 2017 16:28:41 +0100|Wed, 7 Jun 2017 16:28:41 +0100
+46d913c18bdb02c169b6fcb78a3eafd91715c0dc|fix missing comma|Wed, 7 Jun 2017 15:14:41 +0100|Wed, 7 Jun 2017 15:14:41 +0100
+4959ac9090d9edcddc37083a45ef0e25acdd5e82|refactoring and added entries for forthcoming Chapel and Elixir images|Wed, 7 Jun 2017 15:08:31 +0100|Wed, 7 Jun 2017 15:08:31 +0100
+c602d416214d3b7d55a4993eeb9a0b0881080149|added comments on dependency triple name design|Wed, 7 Jun 2017 14:46:47 +0100|Wed, 7 Jun 2017 14:46:47 +0100
+e610b99ba6cadb943aef543ed175e139bbd3e266|use -version numbers for repo-names and .version numbers for image-names|Wed, 7 Jun 2017 14:17:43 +0100|Wed, 7 Jun 2017 14:17:43 +0100
+b87b3c081184c56f10103499b02d90a0cbcdb9af|added dependency for ubuntu-14-04-build-dependency|Wed, 7 Jun 2017 13:13:43 +0100|Wed, 7 Jun 2017 13:13:43 +0100
+cde6a546093c91b50aef0a78c2306030461d9f67|check directory/file structure, show more output, refactoring|Wed, 7 Jun 2017 08:34:47 +0100|Wed, 7 Jun 2017 08:34:47 +0100
+77778490bc248adc6e0674e42a569331bb58c21e|refactoring|Wed, 7 Jun 2017 06:44:47 +0100|Wed, 7 Jun 2017 06:44:47 +0100
+e5de47f36cbbbdabb6666636190ab0efe43e4191|added finding names of dependent repos|Tue, 6 Jun 2017 19:25:48 +0100|Tue, 6 Jun 2017 19:25:48 +0100
+de7617652e9e149ce857cf7c70b8c90a1dca7ae9|lose build script dependency on Travis env-var so it can be run locally|Tue, 6 Jun 2017 19:25:27 +0100|Tue, 6 Jun 2017 19:25:27 +0100
+2c7573d0dc5610a1f565643e2907424ed063d7ef|refactoring|Tue, 6 Jun 2017 12:36:09 +0100|Tue, 6 Jun 2017 12:36:09 +0100
+5e311c32686135fef1a9221bb8757e91701ad5cb|create standard scripts to call from travis|Tue, 6 Jun 2017 11:39:04 +0100|Tue, 6 Jun 2017 11:39:04 +0100
+442cd0f08d6534bd9d360491017178d5a63bd103|notes update|Tue, 6 Jun 2017 11:32:11 +0100|Tue, 6 Jun 2017 11:32:11 +0100
+053e03a027eb98a440c234ae3d832bb7bfddba72|move test files into test/ dir|Tue, 6 Jun 2017 11:28:17 +0100|Tue, 6 Jun 2017 11:28:17 +0100
+d5e4f68e2e1cffef339acd907b415cd3456bb038|comment update|Tue, 6 Jun 2017 11:12:22 +0100|Tue, 6 Jun 2017 11:12:22 +0100
+e2877a968f993c761f39232088a77356b4228391|start code to process outputs/ and traffic_lights/ dirs|Tue, 6 Jun 2017 10:26:58 +0100|Tue, 6 Jun 2017 10:26:58 +0100
+647d50c5d4a6f8f5da9e6b795c3e2f1b2c53a2e4|volume mount /traffic_lights dir if it exists|Tue, 6 Jun 2017 09:20:59 +0100|Tue, 6 Jun 2017 09:20:59 +0100
+8c7aca86373ce9e43f6f9807b016ef2d047a7526|volume mount /outputs dir if it exists|Tue, 6 Jun 2017 09:14:21 +0100|Tue, 6 Jun 2017 09:14:21 +0100
+5013a77907f338a67ef6809a51a168773f68fcbf|added dependency info for Haskell base image|Tue, 6 Jun 2017 09:02:20 +0100|Tue, 6 Jun 2017 09:02:20 +0100
+476452787e4311236defa98556ce1a8028278363|checks start-point by calling [cyber-dojo start-point create] after curling cyber-dojo script|Tue, 6 Jun 2017 08:03:52 +0100|Tue, 6 Jun 2017 08:03:52 +0100
+46031377ef2629c5a654ef34bb70083e7181acd9|pass env-vars into image_builder as actual env-vars|Tue, 6 Jun 2017 06:28:24 +0100|Tue, 6 Jun 2017 06:28:24 +0100
+37097ff61d959549b444a0e42f4a00ccb858e4b5|pass env-vars into image_builder|Tue, 6 Jun 2017 05:59:47 +0100|Tue, 6 Jun 2017 05:59:47 +0100
+f1e1a41535b6b66c3462332c409985e414e1b1df|add [docker images] to verify manually image is being built on travis|Mon, 5 Jun 2017 22:31:30 +0100|Mon, 5 Jun 2017 22:31:30 +0100
+0280ca6cfa2764ecf8a863059aab8c22342dc721|add back volume-mount of docker-socket|Mon, 5 Jun 2017 22:22:29 +0100|Mon, 5 Jun 2017 22:22:29 +0100
+f2ed3207e15a8011fdc7f308eee38d9fc36d839c|problem seems to be space being inserted after --volume so going back to previous way of repeating --volume inside each local var|Mon, 5 Jun 2017 22:08:33 +0100|Mon, 5 Jun 2017 22:08:33 +0100
+9c66594e9fbca798bc8109caf16564ffbdcfa957|try removing volume mount of docker-socket seeing as docker is already installed inside the image_builder image|Mon, 5 Jun 2017 22:05:06 +0100|Mon, 5 Jun 2017 22:05:06 +0100
+80033af06d3b096725fd61750021b529f0534836|more debug to try and locate docker.dock on travis|Mon, 5 Jun 2017 21:57:01 +0100|Mon, 5 Jun 2017 21:57:01 +0100
+cb7994a4dcba66796e6d5e0ce387abea059bd574|add debug options to see why script fails when run on travis|Mon, 5 Jun 2017 21:33:27 +0100|Mon, 5 Jun 2017 21:33:27 +0100
+87a54eadf50727249549352f51bcf0547b771b72|added volume for docker-socket to sh file, build image in rb file inside image_builder|Mon, 5 Jun 2017 21:25:11 +0100|Mon, 5 Jun 2017 21:25:11 +0100
+51f4566173959f83c9439cea9d8ca482ae149674|fix getting image-name from base-language repo|Mon, 5 Jun 2017 08:27:10 +0100|Mon, 5 Jun 2017 08:27:10 +0100
+f5ebe3b0a7fc16d05a47f2d4fb32218c4b2b6f04|hard-wire docker image name|Mon, 5 Jun 2017 08:22:47 +0100|Mon, 5 Jun 2017 08:22:47 +0100
+f925e102e29551ea4ce807a1949c9af62d97b960|made repo_name a parameter|Mon, 5 Jun 2017 07:51:22 +0100|Mon, 5 Jun 2017 07:51:22 +0100
+467b35c56ef0590d54f3616abb4308817f2a2b6a|push image_builder to dockerhub so it can be used in language repo's travis scripts|Mon, 5 Jun 2017 07:42:18 +0100|Mon, 5 Jun 2017 07:42:18 +0100
+d90ca1d5084672599bae01f994ea63bcb9569a59|[ci skip] readme update|Mon, 5 Jun 2017 06:16:31 +0100|Mon, 5 Jun 2017 06:16:31 +0100
+d41fcd0ad3f9a67c6bd263ce277bbdfeec25c5f8|[ci skip] readme update|Mon, 5 Jun 2017 06:15:39 +0100|Mon, 5 Jun 2017 06:15:39 +0100
+da52e6d9cb18ea1401062be72f497d037c97da94|[ci skip] readme update|Mon, 5 Jun 2017 06:13:40 +0100|Mon, 5 Jun 2017 06:13:40 +0100
+e37c51dde73d6cc8c1a78b8d5105ac8ae9ad3c17|rename files to builder theme|Mon, 5 Jun 2017 06:09:05 +0100|Mon, 5 Jun 2017 06:09:05 +0100
+8cf80e1c24a03e39b17790ad14746ade2224f6db|fake repo-name in script|Sun, 4 Jun 2017 21:41:54 +0100|Sun, 4 Jun 2017 21:41:54 +0100
+855a6ddbb27a910e1e1fbc5864ef0e4d7a81a5ff|update travis script|Sun, 4 Jun 2017 21:37:30 +0100|Sun, 4 Jun 2017 21:37:30 +0100
+083704351f3a4d0221e5d667691141edca2f6a40|notes update|Sun, 4 Jun 2017 21:27:56 +0100|Sun, 4 Jun 2017 21:27:56 +0100
+972756c93d025edef99f13e3e29e1fcb81854f75|working towards verify working for base-language repos and also language+testFramework repos|Sun, 4 Jun 2017 21:07:16 +0100|Sun, 4 Jun 2017 21:07:16 +0100
+d240943407fdd995d3d766bee221d3c0c4d43183|started work on verify.rb functionality|Sun, 4 Jun 2017 20:04:55 +0100|Sun, 4 Jun 2017 20:04:55 +0100
+422d72173b7df19367d90e514db78658d4af3d14|made sure all .rb files get into docker image|Sat, 3 Jun 2017 11:32:14 +0100|Sat, 3 Jun 2017 11:32:14 +0100
+9a0431b0fc7dfab088a2e216c2be7f30dcb88436|added notes file|Sat, 3 Jun 2017 11:29:38 +0100|Sat, 3 Jun 2017 11:29:38 +0100
+2a48c2fb5f454f155d06826ee0e6d8924497a557|added files for basic structure of verification step|Sat, 3 Jun 2017 11:24:04 +0100|Sat, 3 Jun 2017 11:24:04 +0100
+d9177a69af3b01601a0b1d1d04bfc212a61478f3|push to dockerhub cyberdojofoundation|Sat, 3 Jun 2017 11:03:53 +0100|Sat, 3 Jun 2017 11:03:53 +0100
+78303462c3614579eefc52179d53ea1149b52694|need explicit path to of.rb|Sat, 3 Jun 2017 10:54:31 +0100|Sat, 3 Jun 2017 10:54:31 +0100
+cf471a5e3390038c049682a6cac2acfb15aa52bb|force first travis run|Sat, 3 Jun 2017 10:51:04 +0100|Sat, 3 Jun 2017 10:51:04 +0100
+831521c1c572809d8624dce76864286be7fe3e4f|added files to flesh out basic structure|Sat, 3 Jun 2017 10:46:42 +0100|Sat, 3 Jun 2017 10:46:42 +0100
+fe63490c1e0282b7afa87a397b074081168b63e9|first commit|Sat, 3 Jun 2017 10:25:07 +0100|Sat, 3 Jun 2017 10:25:07 +0100

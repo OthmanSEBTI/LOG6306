@@ -1,0 +1,485 @@
+8644e512272006eaeedd0928ac743fd6295bd731|Bump djangorestframework from 3.10.3 to 3.11.2 in /bridge_adaptivity|Fri, 19 Mar 2021 22:04:27 +0000|Mon, 22 Mar 2021 07:41:21 +0200
+99b450396c98a134889b42a6d6aebbebc0d7b1bb|Bump django from 2.2.13 to 2.2.18 in /bridge_adaptivity|Thu, 18 Mar 2021 20:52:08 +0000|Mon, 22 Mar 2021 07:41:01 +0200
+3efd17f23b0a056a0a11078cf46c5f9b2b091f6f|Fix issue #266 unable to login on the local instance.|Wed, 13 Jan 2021 11:01:09 +0200|Wed, 13 Jan 2021 11:02:48 +0200
+e1e3aea6a8aa16d75611713eaf45ea09fcf419af|Bump django from 2.2.10 to 2.2.13 in /bridge_adaptivity|Fri, 5 Jun 2020 18:34:03 +0000|Wed, 13 Jan 2021 11:01:34 +0200
+230206abfecec79b1a3bd2f83a4f815fe2aaa054|Fix: missing comma|Fri, 27 Mar 2020 16:24:14 -0400|Fri, 27 Mar 2020 16:24:14 -0400
+08c7b499cdcc5a8c9332c2056200acaf6bafd68d|Merge branch 'master' into lykhoman/ALOSI-184/bugfix/add_samesite_middleware|Fri, 27 Mar 2020 15:25:29 -0400|Fri, 27 Mar 2020 15:25:29 -0400
+1358b408bcc814965cafc80bb3601781d7406775|Merge branch 'jsaikali/top-navigation-fix'|Fri, 27 Mar 2020 15:07:59 -0400|Fri, 27 Mar 2020 15:07:59 -0400
+7256f4ffdb75dd73e56da9e301908a0257aead39|Add BridgeSameSiteMiddleware for setting SameSite to None|Fri, 27 Mar 2020 20:40:30 +0200|Fri, 27 Mar 2020 20:47:25 +0200
+3d40c13e7762eba4a14d2a749a5a76e4e34b9810|Bump django from 2.2.9 to 2.2.10 in /bridge_adaptivity|Tue, 11 Feb 2020 22:58:49 +0000|Thu, 5 Mar 2020 21:37:02 +0200
+29b52c787823f95733caac087d61de06141a483f|fix: adding allow-top-navigation to sandboxes|Fri, 7 Feb 2020 15:36:47 -0500|Fri, 7 Feb 2020 15:36:47 -0500
+938ea157f87a4ad2c76df1aa6024f12e44f2cb32|Missed two before|Wed, 5 Feb 2020 14:46:38 -0500|Wed, 5 Feb 2020 23:18:23 +0200
+b02e11bb50df7258223985f25005470be81943c0|Allow pop-ups from LTI activities|Wed, 5 Feb 2020 14:43:20 -0500|Wed, 5 Feb 2020 23:18:23 +0200
+12680e1b8ba80cda06fcce3d553669f5908c285a|Fix security vulnerability for Django package|Tue, 21 Jan 2020 09:57:57 +0200|Tue, 21 Jan 2020 09:57:57 +0200
+3fe211df433a452c10fec92fe57ba95aa5d1810d|Bump django from 2.2 to 2.2.8 in /bridge_adaptivity|Mon, 9 Dec 2019 11:00:22 +0000|Mon, 9 Dec 2019 13:02:52 +0200
+5b13f02d189055a458f27e0db920e46cf0168608|Fix security vulnerabilities|Mon, 9 Dec 2019 11:52:56 +0200|Mon, 9 Dec 2019 12:59:51 +0200
+2618b47f46f51d749d1f5f0226488bb4e39a047e|Refreshing index and atype variable after writing indexes.|Mon, 21 Oct 2019 21:36:43 +0300|Tue, 22 Oct 2019 17:01:47 +0300
+f873b573e7189b3c55b24936d5d72f5d5da28134|Fix _check_and_build_web_socket_message method. Use calculated grate. Rewrite regexp for parsing cookie.|Fri, 11 Oct 2019 11:13:16 +0300|Fri, 11 Oct 2019 16:53:19 +0300
+b47a9dbe8f8ad66d8807d2efa150d846848e2479|Add showing congratulation pop-up messages if score 95% or above|Thu, 3 Oct 2019 00:23:51 +0300|Fri, 4 Oct 2019 21:53:42 +0300
+f3fb43c7a20a6c331ccf9b0bf82087b47c401357|Delete dublicate row.|Thu, 3 Oct 2019 11:39:52 +0300|Thu, 3 Oct 2019 17:57:22 +0300
+7c212eec59be6bc1d022c12bd4d2786e260da0e6|Round score to 3 places|Fri, 20 Sep 2019 16:21:56 +0300|Tue, 24 Sep 2019 13:51:55 +0300
+a5c863e30a83d08d0f234cc1e3ae61a5f21388ef|Change version of psycopg2, write version of Postgres. Fix grading_policy_form url. Fix js script.|Tue, 17 Sep 2019 14:53:12 +0300|Fri, 20 Sep 2019 13:15:29 +0300
+75e50e6ac5346886a0509671ec5dc973f379ee4b|Merge pull request #245 from harvard-vpal/aang/group-fix|Wed, 5 Jun 2019 16:26:01 -0400|Wed, 5 Jun 2019 16:26:01 -0400
+5fe8193f04e7f0e1cc0beea5bae51341dad2b814|Add daphne as asgi web server for django channels. (#248)|Wed, 5 Jun 2019 16:52:39 +0300|Wed, 5 Jun 2019 16:52:39 +0300
+89b4712f77bfeaf8f9c9cecce5e58f67c8274e79|refactor: formatting to fix line length|Fri, 31 May 2019 13:03:47 -0400|Fri, 31 May 2019 13:03:47 -0400
+68d92c901b340da41732a5f9a248f1f5b0e3c8d3|fix: replace group reference from sequence with collection_order|Fri, 31 May 2019 11:50:09 -0400|Fri, 31 May 2019 11:50:09 -0400
+afe80da2eaca9fcb4ce59dc4551b7707ac2920be|add redirect to the collection with a new slug|Thu, 30 May 2019 12:14:06 +0300|Thu, 30 May 2019 15:40:50 +0300
+f93c8fdb6018dfe9149454c2e1cf28922f76b39e|Reorganization activity form (#243)|Thu, 30 May 2019 15:38:12 +0300|Thu, 30 May 2019 15:38:12 +0300
+b5ac8a36ece891e607c7372cc9a886080adeec39|fix showing modal form for deleting collection|Wed, 29 May 2019 16:28:49 +0300|Thu, 30 May 2019 11:29:49 +0300
+1c111fbbc3d2dcea69b6cc28dcd678652adce151|Change tips information in the module groupe page|Wed, 29 May 2019 12:21:32 +0300|Wed, 29 May 2019 14:01:08 +0300
+2f237c1c0a30c51a03d79b7385ed6dd7ad666035|delete static volume from the bridge configuration|Tue, 28 May 2019 22:32:46 +0300|Wed, 29 May 2019 13:59:41 +0300
+199346a89302f4779ef469c8b3594ebb29137b52|fix data attr for next button|Tue, 28 May 2019 16:01:12 +0300|Tue, 28 May 2019 16:21:36 +0300
+248208f77bb2a586921e500188d69af3e3707a96|Using the Django channels for the button "Next" in the demo and the learner flow. (#232)|Tue, 28 May 2019 14:00:00 +0300|Tue, 28 May 2019 14:00:00 +0300
+0a9acef6864b391c2bf37dcd4b811c95cc39aea1|Add missed command for running stage mashine|Tue, 21 May 2019 10:39:26 +0300|Tue, 21 May 2019 10:53:41 +0300
+7c109a1a93299a936149f725f87581e97fa61aa9|Ci refactoring (#233)|Mon, 20 May 2019 13:48:37 +0300|Mon, 20 May 2019 13:48:37 +0300
+a2a23b94c3ddfee31cf6e1edc6918c15076e7177|Fix problem with characters in the Display Name|Tue, 30 Apr 2019 18:45:44 +0300|Tue, 30 Apr 2019 19:55:45 +0300
+84c49878a64ae47632597dab71538d34edcaee2f|As an instructor I want to share a collection group with other bridge instructor users (#230)|Tue, 9 Apr 2019 17:02:11 +0300|Tue, 9 Apr 2019 17:02:11 +0300
+8a295b24dddc8172fbbd9d34d005f3589dc489fb|Fix step, max and min limit parameters for difficulty field (#231)|Tue, 9 Apr 2019 14:55:45 +0300|Tue, 9 Apr 2019 14:55:45 +0300
+3c69e791f277d1aa01b9b12a740ca74ab87992f3|Merge pull request #229 from harvard-vpal/aang/dockerfile-optimize|Sun, 31 Mar 2019 08:48:39 -0700|Sun, 31 Mar 2019 08:48:39 -0700
+35f6464eee5d4a00e32f7760391eee411368d4bf|feat: optimized dockerfile|Sun, 31 Mar 2019 08:42:19 -0700|Sun, 31 Mar 2019 08:42:19 -0700
+110c17e16a9fe0c969a553e33685a3999a1c60b1|UI/UX Changes (#228)|Tue, 26 Mar 2019 21:03:55 +0300|Tue, 26 Mar 2019 20:03:55 +0200
+042e5f753d029aab935ce6bc762c220c256b873a|Remove Course models and functionality related with it.|Thu, 21 Mar 2019 18:02:59 +0200|Fri, 22 Mar 2019 11:52:13 +0200
+01c579adade310ccf6e428d4d144fb0e4d4f45c7|fix js import in collectionorder modal form|Wed, 20 Mar 2019 18:00:18 +0200|Thu, 21 Mar 2019 12:24:27 +0200
+333e7b90bcf88c0ff18eae6458648fb6f0667095|Combine course and collection. Add slug to collection_order. (#225)|Wed, 20 Mar 2019 14:58:46 +0300|Wed, 20 Mar 2019 13:58:46 +0200
+54247d94a843272525be31e54b046606a7aa7857|Optimization alerts notification that related to the ContentSource Errors (#224)|Thu, 28 Feb 2019 12:24:31 +0300|Thu, 28 Feb 2019 11:24:31 +0200
+72aa7d47b853d00e0024e7565b9868e7e0993b24|Encodin unsupport characters in Activity names|Wed, 27 Feb 2019 13:46:31 +0200|Thu, 28 Feb 2019 06:31:38 +0200
+b7011d01ce9d346a16a987a2c915eed7b4a1540e|Handled case where the instructor user has no content providers (#221)|Wed, 27 Feb 2019 17:20:41 +0300|Wed, 27 Feb 2019 16:20:41 +0200
+fdc32f22daa5faee325e8bcfee65c0c1972fcf09|Fix drug and drop and change activity type (#218)|Wed, 20 Feb 2019 18:33:26 +0300|Wed, 20 Feb 2019 17:33:26 +0200
+32e5b934f0f975cc3b96a0bf8036ed7dfaaa2ba3|Improve Django version.|Tue, 19 Feb 2019 11:32:50 +0200|Tue, 19 Feb 2019 11:44:17 +0200
+e410e827541cdd7616119689d4a4982533acf5ef|Filter collection and activity api by field (#219)|Tue, 19 Feb 2019 04:44:00 -0500|Tue, 19 Feb 2019 11:44:00 +0200
+aff6d1e790e51fd7b6ff48b6bc7093b5131cbc93|Add owner filtering to the data got by the API. (#217)|Mon, 4 Feb 2019 15:58:05 +0200|Mon, 4 Feb 2019 15:58:05 +0200
+2d48695bc19f53cd8144c191ee9fd6ed9b665f44|Extend success API response statuses to 200 and 201.|Mon, 4 Feb 2019 12:11:16 +0200|Mon, 4 Feb 2019 12:21:10 +0200
+44f83c1a41b7546fb9d7946b1c0faa3c9b1c95ff|fix bug with setup element incorrect order by js|Thu, 31 Jan 2019 19:32:41 +0200|Mon, 4 Feb 2019 11:44:40 +0200
+4436a5d5bcd60b533d44b3a47502a4f73e2ec54b|Reduce db queries in Log admin views|Tue, 29 Jan 2019 10:36:56 -0500|Wed, 30 Jan 2019 13:38:31 +0200
+9898475bbbf2b3a6d6cbd24e469a0a6f0990f32b|Sources available for user's groups. (#211)|Wed, 30 Jan 2019 11:13:29 +0200|Wed, 30 Jan 2019 11:13:29 +0200
+a7615d0058c123d480ebd0a720c8d9b7a89356e7|Add Sentry configuration to the project.|Tue, 29 Jan 2019 15:32:02 +0200|Tue, 29 Jan 2019 21:31:01 +0200
+4390b28a266815b5b064174919eac72e03fc6ff8|Fix found potential security vulnerability in Django dependency.|Mon, 28 Jan 2019 14:39:19 +0200|Mon, 28 Jan 2019 15:01:24 +0200
+63548567de6bffbb8b059199fff087564342e619|Fix bugs in collection (#209)|Mon, 28 Jan 2019 15:32:34 +0300|Mon, 28 Jan 2019 14:32:34 +0200
+cd864c321c8c26be63b2c5820ae31fc87f22ea8f|Add drag and drop to collection detail page (#207)|Tue, 15 Jan 2019 16:31:02 +0300|Tue, 15 Jan 2019 15:31:02 +0200
+9961f562cf4639356f32d8e06c9ce4d933d74d79|Read only Instructor feature (#208)|Mon, 14 Jan 2019 14:20:16 +0200|Mon, 14 Jan 2019 14:20:16 +0200
+46812024ed2c0e8e2549cbde3807c023e7876123|Added tests for checking: session variable, csrf token, and correct LTI request (#204)|Thu, 10 Jan 2019 17:39:08 +0300|Thu, 10 Jan 2019 16:39:08 +0200
+c25ff3a99d3323dd6835c283b2b6e92e9ee9f281|Revert csrf and session same-origin behaviour.|Tue, 18 Dec 2018 22:06:37 +0200|Wed, 19 Dec 2018 21:42:00 +0200
+8a03dc584d1c14c67594e8c177f4bb4561665ce8|Merge pull request #202 from harvard-vpal/config-update|Fri, 14 Dec 2018 13:39:02 -0500|Fri, 14 Dec 2018 13:39:02 -0500
+af93165b235e6ef73fc2cb35ab6c23be8b06cf6b|config: add dockerignore|Thu, 13 Dec 2018 15:56:10 -0500|Thu, 13 Dec 2018 15:56:10 -0500
+40720f0c768be622e1ccde293c94d4ba862f99b2|config: update gitignore|Thu, 13 Dec 2018 15:52:08 -0500|Thu, 13 Dec 2018 15:52:08 -0500
+93b5fffb064ff02cbdec8c77077280a7cc401291|refactor: depreciate entrypoint and simplify dockerfile|Thu, 13 Dec 2018 15:51:35 -0500|Thu, 13 Dec 2018 15:51:35 -0500
+403f7a6e5a6de7364aabd56f6af07057d1d70526|Fix js for the unable to unlink colllection issue|Thu, 13 Dec 2018 14:49:13 +0200|Thu, 13 Dec 2018 14:49:13 +0200
+d34dfbce302f19b0a1d0cad665f20acdb96acb89|Make docker image name be unrelated from the building process.|Thu, 13 Dec 2018 14:08:36 +0200|Thu, 13 Dec 2018 14:19:10 +0200
+8cfef63bae0bc243ae3cc28931df41ac2c83500a|Add Drag&Drop option for the collections in the Group detail view.|Thu, 13 Dec 2018 13:11:01 +0200|Thu, 13 Dec 2018 13:40:55 +0200
+116b47dd1b0080c38fe943808d40c3570eb40912|Improve  markup and style nits(#199)|Mon, 3 Dec 2018 15:52:56 +0200|Mon, 3 Dec 2018 15:52:56 +0200
+972af857874c1a3325e5b2da2f2c8d7ecea5ea36|Set Collection Group list page as the home page.|Wed, 28 Nov 2018 14:38:47 +0200|Wed, 28 Nov 2018 17:34:20 +0200
+39df3dba712b48fc4633d86a026927139b101640|Upgrade Django and Requests dependencies to secure versions.|Wed, 28 Nov 2018 13:30:23 +0200|Wed, 28 Nov 2018 14:22:26 +0200
+3bed3d9b8bdd056bd163ba950e31368f7606aadb|Feature [Multiple UI Options] AD-247|Tue, 27 Nov 2018 10:40:13 +0200|Tue, 27 Nov 2018 16:33:12 +0200
+3aba9e1f9ce69eb9e4bbc6d52cd918ad0198b5a8|Feature [Switcher for optional upper-right NEXT button] AD-247.|Mon, 26 Nov 2018 13:08:59 +0200|Tue, 27 Nov 2018 11:18:36 +0200
+d619087a5962df987fe6dfb0de1a4598fd01c382|Feature [Default policy values]|Sat, 24 Nov 2018 12:48:49 +0200|Tue, 27 Nov 2018 11:18:26 +0200
+424b293f8ecf001efb69d69c366c9475d7a63bf7|Fix uniqueness of the answers in every demo sequence.|Mon, 19 Nov 2018 18:35:54 +0200|Mon, 19 Nov 2018 19:03:18 +0200
+b8b5f3b9f83cb2cec968706fb7abf444e973f4c4|Adaptivity Demo feature.|Mon, 5 Nov 2018 11:17:17 +0200|Wed, 7 Nov 2018 16:39:20 +0200
+17459fa2fbc1f56a34382473b6100799778d4405|Unify test configuration settings for local and travis testing.|Wed, 31 Oct 2018 17:36:39 +0200|Wed, 31 Oct 2018 18:03:32 +0200
+831d43262a5b181cee9668167e7d08fb030f944e|Add option for showing right/wrong answers in the label.|Wed, 31 Oct 2018 16:40:57 +0200|Wed, 31 Oct 2018 18:03:32 +0200
+a0bad95a5ffe003f3b52cdeb75e4e920a7cccd0c|Add the feature which make possible adding an optional UI info-block. (#190)|Wed, 31 Oct 2018 16:20:04 +0200|Wed, 31 Oct 2018 16:20:04 +0200
+83ef32d6d67c4ab36057daebf0480a287e7cd6ce|Add additional Next button on the top of the activity.|Wed, 17 Oct 2018 15:02:03 +0300|Wed, 17 Oct 2018 15:07:55 +0300
+0d0357a717f73b5cafab36a4f585abfdb9b8ba5b|Add redirect for the instructor flow to the linked collection in LTI url|Wed, 10 Oct 2018 17:28:32 +0300|Wed, 10 Oct 2018 17:38:51 +0300
+92b381c1ea24c3c9bf71bdac048ad56f0507fe3f|Add feature for collapsing navbar to toggle on the narrow screen.|Wed, 10 Oct 2018 15:56:32 +0300|Wed, 10 Oct 2018 16:00:38 +0300
+70b026d7d7e4f6f88f87bb93cfeb47ba09b77f4b|Exchange grading policy parameters to flexible JSON field.|Mon, 1 Oct 2018 20:28:39 +0300|Wed, 10 Oct 2018 11:03:38 +0300
+a9023e718461e4ee0976f2abc0d031ba19438fa6|Fix activity update modal redirection. [AD-235] (#185)|Mon, 1 Oct 2018 20:38:18 +0300|Mon, 1 Oct 2018 20:38:18 +0300
+f866b98bf5786cfb68a7e0cf076ad1ab82e321e4|Add ordering to the collections in the group (#184)|Wed, 26 Sep 2018 14:19:51 +0300|Wed, 26 Sep 2018 14:19:51 +0300
+2bb3d0385d0567ab163d27903f320f42f32a107f|Add sync api endpoint /api/collection/<slug>/sync/|Fri, 7 Sep 2018 18:25:38 +0300|Thu, 13 Sep 2018 15:23:47 +0300
+134c634d371b6a4995de026b4a1b53df5982685e|Add notification message to the opened course if it is empty. (#182)|Thu, 6 Sep 2018 15:04:17 +0300|Thu, 6 Sep 2018 15:04:17 +0300
+679f025cd2a87e58f158e4bdbf2ed8493bec3391|Sequence item visibility (fix for AD-222 and AD-225) (#181)|Fri, 31 Aug 2018 14:33:32 +0300|Fri, 31 Aug 2018 15:25:18 +0300
+d62666e9f3e4fabcd507c24191374258ed4f7e7e|Fix sequence completed strict forward (#180)|Mon, 27 Aug 2018 10:06:33 +0300|Mon, 27 Aug 2018 10:06:33 +0300
+eb515230e3d41bdc5174b450518eb65762f38f07|AD-221 By submit modal window user will be redirected to same page, instead reload it (#179)|Thu, 23 Aug 2018 20:31:47 +0300|Thu, 23 Aug 2018 20:31:47 +0300
+ede5cf854588f7188eadd5eff9cc845f9f5cebb2|Added session storage clearing by the refresh event (#178)|Wed, 22 Aug 2018 14:55:43 +0300|Wed, 22 Aug 2018 14:55:43 +0300
+8d863b4ac2b2cc591bbf1998492e0871530c6ea9|Fix sequence is completed marker (#177)|Wed, 22 Aug 2018 14:53:32 +0300|Wed, 22 Aug 2018 14:53:32 +0300
+75025ec8d347aad67d332acb65d7b8ccd0a82105|Fix back button after collection sync (#176)|Tue, 21 Aug 2018 15:35:56 +0300|Tue, 21 Aug 2018 15:35:56 +0300
+02673200c4060fb3dbb5503c32102f4df9a47f61|fix 404 error after collection editing (#175)|Tue, 21 Aug 2018 15:27:24 +0300|Tue, 21 Aug 2018 15:27:24 +0300
+85728b3858a7843b7346d1a05e337313eda03ff6|Remove source context (#174)|Mon, 20 Aug 2018 21:07:17 +0300|Mon, 20 Aug 2018 21:07:17 +0300
+c903dc34dfd5a83900bdd6087560fee32508edcb|Merge pull request #172 from harvard-vpal/update-403-template-links|Tue, 31 Jul 2018 12:15:53 -0400|Tue, 31 Jul 2018 12:15:53 -0400
+5bd8b10842f8eba2d4ff04548ffed431df6620ac|Update 403 template with browser download links|Tue, 31 Jul 2018 11:17:27 -0400|Tue, 31 Jul 2018 11:17:27 -0400
+09c8bc54b1e3b4670a0bac547ae4fc32d0f49804|Merge pull request #171 from harvard-vpal/vpal-engine-learner|Tue, 31 Jul 2018 11:11:56 -0400|Tue, 31 Jul 2018 11:11:56 -0400
+b795790a1c58981330dfca73a8d5b9aa2c92598b|Change expected payload in vpal engine tests|Tue, 31 Jul 2018 11:05:36 -0400|Tue, 31 Jul 2018 11:05:36 -0400
+8db362edb37017ad652a0c8f46aa8ca1dac2a794|Change lti_user attribute passed to engine from primary key to lti user id|Tue, 31 Jul 2018 10:55:50 -0400|Tue, 31 Jul 2018 10:55:50 -0400
+cf4f4fd9feeea9361dba6779ec8ed0cc60921c97|Add tool to select the content source!!! (#170)|Thu, 26 Jul 2018 16:04:20 +0300|Thu, 26 Jul 2018 16:04:20 +0300
+49394b6f428b6191e2f1f5a39177cd5db335f7b4|DART MVP (#169)|Wed, 25 Jul 2018 18:39:15 +0300|Wed, 25 Jul 2018 18:39:15 +0300
+00df29cc417a09836d7150ce5458aab23723606f|Update migrations for the new release.|Tue, 17 Jul 2018 12:37:05 +0300|Tue, 17 Jul 2018 12:37:05 +0300
+fb67a499cf3c757210a5a6aaa92a5e572724629b|Update 403 template with browser suggestion (#168)|Mon, 16 Jul 2018 03:20:25 -0400|Mon, 16 Jul 2018 10:20:25 +0300
+9edb0ceb3de376ed03f3be48b2ac597de003df64|Fix javascript issue when content source does not available|Fri, 13 Jul 2018 18:52:54 +0300|Fri, 13 Jul 2018 18:52:54 +0300
+44ed1485d7cb36a008af263e3d1cbda8233f778c|Add additional error logging for VPAL engine (#166)|Fri, 13 Jul 2018 05:05:49 -0400|Fri, 13 Jul 2018 12:05:49 +0300
+7a89341eeac8ae282880f035d91ab1aab30feb8b|Fix creating activity with empty stype. (#165)|Thu, 12 Jul 2018 11:24:08 +0300|Thu, 12 Jul 2018 11:24:08 +0300
+872411ffa60431e5c8e222502939580abd60e858|Update engine api base url for v2 (#164)|Wed, 11 Jul 2018 14:56:39 -0400|Wed, 11 Jul 2018 21:56:39 +0300
+2e810a929bed39c12629b4fe32b7c69dd6c930a7|Braiko/for student visable only (#163)|Wed, 11 Jul 2018 16:53:01 +0300|Wed, 11 Jul 2018 16:53:01 +0300
+113ee1b6c42659b96d718dab70ac43666f5b5fbd|Add message for prevent preview for the empty group (#162)|Tue, 10 Jul 2018 18:42:53 +0300|Tue, 10 Jul 2018 18:42:53 +0300
+6b96ee8230e28df5a1c73b7599829eb422671d8e|Add collection creation modal in the group (#159)|Tue, 10 Jul 2018 15:22:28 +0300|Tue, 10 Jul 2018 15:22:28 +0300
+3fdbf058ba51c0cee8a9cc00f8bdad7c64e76017|Fix sync url for collection synchronization with engines. (#161)|Fri, 6 Jul 2018 22:42:01 +0300|Fri, 6 Jul 2018 22:42:01 +0300
+cc0aa504d504dc89a7711b499935c00c9a5aacfc|Fix wrong modal delete window on deleting collection/group (#160)|Fri, 6 Jul 2018 22:30:31 +0300|Fri, 6 Jul 2018 22:30:31 +0300
+633b7a4ceda659539231134923f05622612fe4c9|Fix issue with the threshold of the points_earned policy is used with 0 (#158)|Fri, 6 Jul 2018 22:22:18 +0300|Fri, 6 Jul 2018 22:22:18 +0300
+b845c8d48937e879039e663dc2ae86a9d56f5741|Modal for the collection edition (#157)|Fri, 6 Jul 2018 16:37:50 +0300|Fri, 6 Jul 2018 16:37:50 +0300
+a6f04833afff3b8b2c4080538365aadcf1fb95e7|Fix points earned policy for the first sequence non-problem item (#156)|Fri, 6 Jul 2018 13:45:24 +0300|Fri, 6 Jul 2018 13:45:24 +0300
+58705a7436e5f733123987ac8badcdc3fc9480dc|Remove elastic beanstalk configuration files (#155)|Fri, 6 Jul 2018 04:54:53 -0400|Fri, 6 Jul 2018 11:54:53 +0300
+e411fba26ce1e9a6bb85774cfd060677b6f9be6a|Feature manually update students grades (#154)|Thu, 5 Jul 2018 17:06:59 +0300|Thu, 5 Jul 2018 17:06:59 +0300
+91333c5323582fb481e4233c373e28dcd600ac58|Add stage configuration (#153)|Tue, 3 Jul 2018 17:04:04 +0300|Tue, 3 Jul 2018 17:04:04 +0300
+471930589f3a47dad527a8adbb1b337f3bac295f|Fix `unlink` collection from the collection-group (#152)|Tue, 26 Jun 2018 18:19:56 +0300|Tue, 26 Jun 2018 18:19:56 +0300
+7c366a662feb5bbf174fb43bf75557facfddb1f2|Add sequence preview  (#150)|Tue, 26 Jun 2018 17:56:35 +0300|Tue, 26 Jun 2018 17:56:35 +0300
+d0cd1dfd103210c2828bd2aa6f22814cafdcd45c|Fix vpal engine payload (#151)|Tue, 26 Jun 2018 10:17:58 +0300|Tue, 26 Jun 2018 10:17:58 +0300
+ed5fa0e7f0b304cb053c3507077b05485fdc3bff|Added tests for adding and removing course for the group. (#145)|Mon, 25 Jun 2018 15:59:16 +0300|Mon, 25 Jun 2018 15:59:16 +0300
+d93175fbb2053f5c9f383b61e5595e313675fe84|Vpal engine payload change (#149)|Mon, 25 Jun 2018 12:29:24 +0300|Mon, 25 Jun 2018 12:29:24 +0300
+330e0a7fa922d59f48cfbf29de3c0237aa665d4a|Add fixes and refactoring corresponding to the issues 66 and 67 (#144)|Fri, 22 Jun 2018 18:34:55 +0300|Fri, 22 Jun 2018 18:34:55 +0300
+613f76bf544a33866cb59e2c588a5d297f02a037|Fix bug with collection slug on delete button (#148)|Thu, 21 Jun 2018 19:22:56 +0300|Thu, 21 Jun 2018 19:22:56 +0300
+9b6419a4b2c18ef648c9b7118fba9723adc0fddd|Idegtiarov/add collection slug (#147)|Thu, 21 Jun 2018 18:06:28 +0300|Thu, 21 Jun 2018 18:06:28 +0300
+211f6eb583931771e0915352ea88a565f828fff5|Fix badges in the README file (#146)|Wed, 20 Jun 2018 12:10:38 +0300|Wed, 20 Jun 2018 12:10:38 +0300
+185a6cea9fc351a97caefd3e27d2f0fa77a149a2|fix parent redirection from the iframe (#143)|Wed, 13 Jun 2018 16:34:01 +0300|Wed, 13 Jun 2018 16:34:01 +0300
+0ea68e007c2487f68b34b25db7d27ba12d767c6f|Added base api client for abstract content source (#142)|Mon, 11 Jun 2018 12:27:54 +0300|Mon, 11 Jun 2018 12:27:54 +0300
+0aeef869f79f5912fd830ac84ed826dc334250c2|Add LTI component as the Activity to the Bridge's Collection (#141)|Wed, 6 Jun 2018 18:44:51 +0300|Wed, 6 Jun 2018 18:44:51 +0300
+2c8265d448619599f0296b361a62060d1d069075|Change storage for the static files. (#140)|Wed, 6 Jun 2018 13:06:19 +0300|Wed, 6 Jun 2018 13:06:19 +0300
+ae78c2701f600603a556438b498802d23b44faaf|Fixed generation LTI user for the consumer and add dummy client inside validator (#139)|Wed, 6 Jun 2018 12:51:36 +0300|Wed, 6 Jun 2018 12:51:36 +0300
+e44ab28552d7e56efbee13653d6d58c10e85032d|AD-155 (#138)|Tue, 5 Jun 2018 11:52:45 +0300|Tue, 5 Jun 2018 11:52:45 +0300
+19fd0be8a15e5e1df6c2889201b805e46b5b1486|py2 to py3 (#137)|Fri, 1 Jun 2018 15:12:01 +0300|Fri, 1 Jun 2018 15:12:01 +0300
+6ea3f7b3ef07254bf5468237dc717611454e09a5|Yurabraiko/small fixes (#136)|Fri, 1 Jun 2018 13:09:50 +0300|Fri, 1 Jun 2018 13:09:50 +0300
+2d9005b286720ced9ab5ed4f77d6f74ae03f0344|Add new feature for Activity repetition. (#135)|Fri, 1 Jun 2018 11:39:37 +0300|Fri, 1 Jun 2018 11:39:37 +0300
+eb0eb16fbcd5a2804ab8918c12f7be9d1adc0661|Ad 151/add simple implementation (#134)|Thu, 31 May 2018 18:45:52 +0300|Thu, 31 May 2018 18:45:52 +0300
+2f80b1e83944e756bc9e1650a2dac359845bc954|Move to django2 (#133)|Wed, 30 May 2018 15:34:42 +0300|Wed, 30 May 2018 15:34:42 +0300
+4d0bf9a8cd0167b241d46c5b8df89b5533dfe9d1|move from python 2 to python 3 (#132)|Wed, 30 May 2018 12:09:20 +0300|Wed, 30 May 2018 12:09:20 +0300
+0ea5c5bb2113a3f7ce8f40da47905e780c1315fd|Upgrade celery version (#131)|Tue, 22 May 2018 12:46:04 -0400|Tue, 22 May 2018 19:46:04 +0300
+a41289d81c583c4a1f7c31a8eddcdc8414615f44|Release v0.2.0 (#130)|Fri, 16 Mar 2018 18:01:22 +0200|Fri, 16 Mar 2018 18:01:22 +0200
+52480949e35752cb5a2c26fab91adcdf6a5f3331|Fix Bridge - VPAL engine communication (#129)|Fri, 16 Mar 2018 17:42:04 +0200|Fri, 16 Mar 2018 17:42:04 +0200
+c002f2920369e35469244d6dca02c15021112b1b|fix unicode issues, typos, add migration (#128)|Fri, 16 Mar 2018 16:24:06 +0200|Fri, 16 Mar 2018 16:24:06 +0200
+8baadce632108393f6c45c6540647e94ccda8190|fix(AD-129): Fixes to make all pages look similar. (#123)|Fri, 16 Mar 2018 15:09:16 +0200|Fri, 16 Mar 2018 15:09:16 +0200
+99568af884ef82b0581654d0ef006f72f118d0bf|fix(AD-133): If threshold is not required by policy don't show it in group-list view (#126)|Fri, 16 Mar 2018 15:04:36 +0200|Fri, 16 Mar 2018 15:04:36 +0200
+572e91664b4794dcfbd6801a3fa8f63d42ee7daf|Fix evaluating of the error msg for the sync response from VPAL engine (#127)|Fri, 16 Mar 2018 13:00:07 +0200|Fri, 16 Mar 2018 13:00:07 +0200
+519984b6293df28dee14f5fcfd467774f001207e|Fix js data storage, exchange localStorage with sessionStorage (#125)|Thu, 15 Mar 2018 14:34:17 +0200|Thu, 15 Mar 2018 14:34:17 +0200
+a6caabd055d9b3a2990b2fde355d5869755f565b|Fix sync task database communication (#124)|Wed, 14 Mar 2018 16:54:29 +0200|Wed, 14 Mar 2018 16:54:29 +0200
+0e5472458336733ceb9e48db2b889f70d1d7d4f3|fix(template_not_found): Fix error. (#122)|Tue, 13 Mar 2018 17:19:16 +0200|Tue, 13 Mar 2018 17:19:16 +0200
+0fc8fa3b2a29fca360b6cbe5d49581803b044e94|fix(template_not_found): Fix error. (#121)|Tue, 13 Mar 2018 16:12:44 +0200|Tue, 13 Mar 2018 16:12:44 +0200
+b06782a57c99c11d4b45802e56d0472ff99d9a08|fix(AD-117): Add group in course functionality inplementation. (#118)|Tue, 13 Mar 2018 14:48:05 +0200|Tue, 13 Mar 2018 14:48:05 +0200
+cfe2ccd57d9ecd9f54e68bd17533f0141114ee35|fix(AD-71): Fix grading policy widget (#119)|Tue, 13 Mar 2018 14:15:21 +0200|Tue, 13 Mar 2018 14:15:21 +0200
+aa167ee35092bfa2833ca0007dd7f2d5fff41915|fix(AD-113): Add modal warning and alram before object delete. (#116)|Tue, 13 Mar 2018 14:11:30 +0200|Tue, 13 Mar 2018 14:11:30 +0200
+4ee7ec11b639c9d29bfe483a379c439e05b81660|Fix organization's icon shifting with too long course's name (AD-125) (#120)|Tue, 13 Mar 2018 14:10:09 +0200|Tue, 13 Mar 2018 14:10:09 +0200
+6897face677afc8be1dca8514c16eac302b7efce|Fix response's page size for the course list request (#117)|Sat, 10 Mar 2018 08:50:22 +0200|Sat, 10 Mar 2018 08:50:22 +0200
+66b54fdd39649350b0e1bd4d482bb540c72f935b|Fix stub template. Add correct error message (#115)|Wed, 7 Mar 2018 19:21:24 +0200|Wed, 7 Mar 2018 19:21:24 +0200
+cb51c6980a8277eab4cc25c7969d41eecc43d737|fix(AD-104): Added possibility to get courses from different content sources (not from only one). (#112)|Wed, 7 Mar 2018 18:41:05 +0200|Wed, 7 Mar 2018 18:41:05 +0200
+57377f81308c39447b89ae9811230f7273c77da1|Improve VPAL engine endpoint (#114)|Tue, 6 Mar 2018 17:00:20 +0200|Tue, 6 Mar 2018 17:00:20 +0200
+570ff7736bce4baf9cfc383d0cc1ddc615e5e209|fix(AD-119): Adds summary and detail text for engine graded policy. (#111)|Tue, 6 Mar 2018 16:59:29 +0200|Tue, 6 Mar 2018 16:59:29 +0200
+d355b3b682917a43c299ec47ca7a565da3377f15|fix(AD-107): Add require submission when click on delete course button on course detail page. (#113)|Tue, 6 Mar 2018 16:58:10 +0200|Tue, 6 Mar 2018 16:58:10 +0200
+e5c86e4476d549d1c928988476e141f2f43e2cb7|fix(AD-95): Add policy description, fix bugs AD-107, AD-108. (#108)|Mon, 26 Feb 2018 13:28:09 +0200|Mon, 26 Feb 2018 13:28:09 +0200
+a9ed4601eb62d4809ed636e10fae9df0a8c302e7|fix(AD-79): Add grading policy that ask grade from engine (#104)|Fri, 23 Feb 2018 16:25:53 +0200|Fri, 23 Feb 2018 16:25:53 +0200
+44c8acc1bc7700043e7b923c6fc5f2eb5d36b5c0|fix(AD-102): Don't delete collections when delete group, don't delete group when delete course.|Fri, 23 Feb 2018 13:03:22 +0200|Fri, 23 Feb 2018 13:03:22 +0200
+2723416d0487e181a320a26184677063e554ce47|Revert "fix(AD-102): Don't delete collections when delete group, don't delete group when delete course. (#106)"|Fri, 23 Feb 2018 12:46:18 +0200|Fri, 23 Feb 2018 12:46:18 +0200
+f5dd6c8d0ab6253a35bdd5ad0ac1e300ba1a7ad0|fix(AD-102): Don't delete collections when delete group, don't delete group when delete course. (#106)|Fri, 23 Feb 2018 12:36:42 +0200|Fri, 23 Feb 2018 12:36:42 +0200
+9f016b9e4542e9e431ac4c4b6c3d3ee08dee7c82|fix(AD-109): When user update group - GetGradingPolicyForm view should pass policy to form. (#109)|Fri, 23 Feb 2018 12:35:14 +0200|Fri, 23 Feb 2018 12:35:14 +0200
+bea64e34fff3bf6ad7876deb0bb22d662e1649b7|Add filtering to the source activities on edit Collection view. (#110)|Thu, 22 Feb 2018 16:02:30 +0200|Thu, 22 Feb 2018 16:02:30 +0200
+fa4adfb8c4b82ed37cf3613093042d20dc456a93|Revert Send Grade API engine endpoint. (#107)|Thu, 22 Feb 2018 13:06:32 +0200|Thu, 22 Feb 2018 13:06:32 +0200
+af8286c26a06284edfc342d141136560d6cf7222|Add possibility to sync collection immediately. (#103)|Wed, 21 Feb 2018 13:29:59 +0200|Wed, 21 Feb 2018 13:29:59 +0200
+1ab67352b97c29151a8b2e10edddc372873eebd4|Update VPAL engine recommend request with the optional LTI params. (#105)|Wed, 21 Feb 2018 13:18:39 +0200|Wed, 21 Feb 2018 13:18:39 +0200
+0a92f77e231a6170cf579976809dabad85bcc13d|CRUD API for collection and activity models (#101)|Sat, 17 Feb 2018 12:37:16 +0200|Sat, 17 Feb 2018 12:37:16 +0200
+9ffac5b59cdb76990dbc326409a844f498228013|Fix staging server (#102)|Fri, 16 Feb 2018 18:18:53 +0200|Fri, 16 Feb 2018 18:18:53 +0200
+49d24f11f389767ea190a8a1cf4e2d385c914228|(fix/AD-96): Add course, create, update, delete, detail views, tests for these views. (#97)|Fri, 16 Feb 2018 15:22:59 +0200|Fri, 16 Feb 2018 15:22:59 +0200
+07bd6e7497db10a8045ba7833dcbe6b0002ba7b9|(fix/AD-93): Hide part of activity creation form, add Show Advanced options button, make tag field not required. (#100)|Fri, 16 Feb 2018 14:47:37 +0200|Fri, 16 Feb 2018 14:47:37 +0200
+d52b690a629e4c84cd75d39dbb9486809e2f567f|(fix/AD-91): Added Remove collection view, some changes in UI/X. (#96)|Fri, 16 Feb 2018 14:46:56 +0200|Fri, 16 Feb 2018 14:46:56 +0200
+b04299d9ce1df8bf884025a96c722c3c03336e11|(fix/AD-89): User should be able to create empty Group (#99)|Fri, 16 Feb 2018 14:46:27 +0200|Fri, 16 Feb 2018 14:46:27 +0200
+a7a26bab43aa699db978285733710d3a9144af44|Improve VPAL engine endpoint (#98)|Wed, 14 Feb 2018 11:12:13 +0200|Wed, 14 Feb 2018 11:12:13 +0200
+804567d467c98af3f96c2bffe2bb9bb93baab337|Fix Bug with strict forward stuck, after answer was submitted (AD-97) (#95)|Tue, 13 Feb 2018 14:59:54 +0200|Tue, 13 Feb 2018 14:59:54 +0200
+aef48f4bdc663a25bab7b4400022cdb32f15e80d|Add tests for send_grade method in all policies (#94)|Tue, 13 Feb 2018 13:35:49 +0200|Tue, 13 Feb 2018 13:35:49 +0200
+1f33723a87525e33ff46178be26f011c8ad7f136| Disregard non problem activities for PointsEarned policy (#87)|Fri, 9 Feb 2018 14:43:57 +0200|Fri, 9 Feb 2018 14:43:57 +0200
+9e07be3dd86a11af4eb87719c45466f444a27135|Fix send grade with policy full_credit (AD-86) (#92)|Fri, 9 Feb 2018 14:24:11 +0200|Fri, 9 Feb 2018 14:24:11 +0200
+319e2c53d00997a25cfb11dd08d4597cb5bf4159|Remove fields engine and grading_policy from sequence and replace them with group (#93)|Fri, 9 Feb 2018 13:58:03 +0200|Fri, 9 Feb 2018 13:58:03 +0200
+986f102831a66cb723016635aeffa8ae8759fe98|Improve vpal driver api (#89)|Fri, 9 Feb 2018 10:19:54 +0200|Fri, 9 Feb 2018 10:19:54 +0200
+cf246a39545c910d9b0dee90816a51b59eef44d8|Merge pull request #91 from harvard-vpal/eb-deploy|Tue, 6 Feb 2018 22:04:01 +0100|Tue, 6 Feb 2018 22:04:01 +0100
+b1d24093dfdc0d20beea119abdc42ec46ad949ff|Ensure cloudwatch tracks correct log file on config update|Tue, 6 Feb 2018 15:58:40 -0500|Tue, 6 Feb 2018 15:58:40 -0500
+62a17c5163044e7c844972f6b8f04d16901fa2b4|Merge pull request #90 from harvard-vpal/eb-deploy|Tue, 6 Feb 2018 21:11:53 +0100|Tue, 6 Feb 2018 21:11:53 +0100
+a1bcc004a3de9e05703127057f714d3a0529a81b|Remove app code volume mounts in eb dockerrun|Tue, 6 Feb 2018 14:42:15 -0500|Tue, 6 Feb 2018 14:42:15 -0500
+1bdfb9913f36e5863838cd226ec0f775381e2e44|Move leader marker to subfolder|Tue, 6 Feb 2018 13:08:50 -0500|Tue, 6 Feb 2018 13:08:50 -0500
+e7299557e64579901ae9d3b5db044be2f898940c|Delete old leader markers right before creating new one|Tue, 6 Feb 2018 12:35:47 -0500|Tue, 6 Feb 2018 12:35:47 -0500
+8956a682c6fffa49e22f52ec6bdd76b8828be868|Ensure cloudwatch monitors most recent log file, even on config change|Tue, 6 Feb 2018 12:33:21 -0500|Tue, 6 Feb 2018 12:33:21 -0500
+b8a2804b9a96404d7240c619832f25c51cad4e2f|Delete old container log files on host after redeploying|Tue, 6 Feb 2018 12:19:21 -0500|Tue, 6 Feb 2018 12:19:21 -0500
+d1e612cd5fd63607c0ef38dfc6e6ca90958c130d|Merge branch 'master' into eb-deploy|Tue, 6 Feb 2018 17:30:45 +0100|Tue, 6 Feb 2018 17:30:45 +0100
+e6b49b831f30a2c1ff4c1fb2eef29b96adc05477|Add eb multicontainer docker config and entrypoint|Tue, 6 Feb 2018 11:27:57 -0500|Tue, 6 Feb 2018 11:27:57 -0500
+7d27da298d4a5e6fdd428a1731174379841635d8|Change entrypoint used for prod dockerfile|Mon, 5 Feb 2018 23:09:31 -0500|Mon, 5 Feb 2018 23:09:31 -0500
+503686f6311bfe8f0b19be97c21abd5ad673159c|Remove rabbit log streaming for eb deploy|Mon, 5 Feb 2018 23:07:53 -0500|Mon, 5 Feb 2018 23:07:53 -0500
+35437ec4c406c237e41e06ae67efd90b95592acc|Additional production requirements for sqs|Mon, 5 Feb 2018 15:32:23 -0500|Mon, 5 Feb 2018 15:32:23 -0500
+1f96b06ea6cb4b5e2fdd5f1f81930ce678123e43|Merge pull request #88 from harvard-vpal/kunanit-patch-1|Mon, 5 Feb 2018 20:12:58 +0100|Mon, 5 Feb 2018 20:12:58 +0100
+ce9d334ec534adfb397a83032bfb7c048480ad2c|Non problem activities (#86)|Mon, 5 Feb 2018 19:28:38 +0200|Mon, 5 Feb 2018 19:28:38 +0200
+0f9fa8c9c9cf73d812e73b6dcd3a6639aa84b8a3|Fix typo in rabbit env file|Mon, 5 Feb 2018 11:30:58 -0500|Mon, 5 Feb 2018 11:30:58 -0500
+5b8773458287210a900995b550160ad4130568ec|Pin gunicorn requirement|Mon, 5 Feb 2018 11:27:30 -0500|Mon, 5 Feb 2018 11:27:30 -0500
+3ac3ed4050590f186bc6d69965893040967054c9|Configure container log streaming to cloudwatch for eb deployment|Mon, 5 Feb 2018 11:18:47 -0500|Mon, 5 Feb 2018 11:18:47 -0500
+855dc66d915f39dc7c287a25b1f141ba72cf6bf8|Remove obsolete elastic beanstalk single container docker deploy files|Sat, 3 Feb 2018 00:02:22 -0500|Sat, 3 Feb 2018 00:02:22 -0500
+694b403d093c68b47bd7c551cb3e6d8d49fb4426|Fix the bug #AD-67 (#85)|Fri, 2 Feb 2018 16:48:30 +0200|Fri, 2 Feb 2018 16:55:50 +0200
+8d5f3f03810abe01be8dad7f2f656ec142e6cb13|Fix the bug #AD-67 (#85)|Fri, 2 Feb 2018 16:35:13 +0200|Fri, 2 Feb 2018 16:35:13 +0200
+deb3a30e8575dfdb7862f632636b1e57fb5c78cd|Fix bug #AD-67 with incorrect redirection|Thu, 1 Feb 2018 22:14:25 +0200|Thu, 1 Feb 2018 22:14:25 +0200
+509eba36f12f53df9fd7d9f4be0f543bc38a9101|Merge remote-tracking branch 'origin/master'|Thu, 1 Feb 2018 17:38:44 +0200|Thu, 1 Feb 2018 17:38:44 +0200
+2abc17dbb5427a4f1df426285a0a3b3324899c7d|Fix select_activity function and a couple of other fixes (#84)|Thu, 1 Feb 2018 14:34:51 +0200|Thu, 1 Feb 2018 14:34:51 +0200
+8cdfe3e58d7a9625a7522b3aaecf4ca0c33de7c7|Merge branch 'master' of github.com:harvard-vpal/bridge-adaptivity|Wed, 31 Jan 2018 12:58:43 +0200|Wed, 31 Jan 2018 12:58:43 +0200
+7ac979fedbc9583a7d859701c08916b5b7ef8670|revert form prefix (updated) (#83)|Wed, 31 Jan 2018 12:57:53 +0200|Wed, 31 Jan 2018 12:57:53 +0200
+c66bedfcb970574ea82c58c7d3eb54eac24db444|Revert form prefix (#82)|Wed, 31 Jan 2018 11:47:39 +0200|Wed, 31 Jan 2018 11:47:39 +0200
+8217848a4e2dafe13849969226a9dadfdd523568|Merge branch 'master' of github.com:harvard-vpal/bridge-adaptivity|Wed, 31 Jan 2018 11:38:43 +0200|Wed, 31 Jan 2018 11:38:43 +0200
+1d0e3a61696e51845f2146fe050ce6aceb5537c8|Alexbojko/fix/grading policy p2 (#76)|Tue, 30 Jan 2018 18:26:00 +0200|Tue, 30 Jan 2018 18:26:00 +0200
+b208c1bb3245f7281ca4630913557015a7695cbc|Fix 502 error bug with collection creating/updating (#70) (#81)|Mon, 29 Jan 2018 13:51:24 +0200|Mon, 29 Jan 2018 13:51:24 +0200
+c571c763706467a1a175008b5d621602844ba18e|Fix 502 error bug with collection creating/updating (#70)|Fri, 26 Jan 2018 19:51:47 +0200|Fri, 26 Jan 2018 19:57:27 +0200
+0b7b7553f10c7861cfa0f50e976a2c4e10a68ffc|Fix error 500 on stage server for students. (#80)|Fri, 26 Jan 2018 14:27:00 +0200|Fri, 26 Jan 2018 14:27:00 +0200
+a30820d5496dc21d6a6212ca5fa8cc92f2d7793c|Add source_launch_url as an identifier for the activity in the engine. (#79)|Thu, 25 Jan 2018 19:36:24 +0200|Thu, 25 Jan 2018 19:36:24 +0200
+5ced3bdb8435ff9a4702fe807cc9c50fecb9d816|fix/ad 47 - Add description for collection group (#75)|Thu, 25 Jan 2018 15:21:29 +0200|Thu, 25 Jan 2018 15:21:29 +0200
+1a92737af6e2830cac6efdc7b4abfc289e56fe1d|Multiple Engines add Sync API endpoint (#78)|Thu, 25 Jan 2018 15:17:34 +0200|Thu, 25 Jan 2018 15:17:34 +0200
+d48b78786475366f5b490c3ded31bb0266fdbf9b|Alexbojko/feature/grading policy (#73)|Tue, 23 Jan 2018 18:26:24 +0200|Tue, 23 Jan 2018 18:26:24 +0200
+a71eab2d0210ae7d928575b25206ccf007e29e43|Add multiple engines feature (#74)|Mon, 15 Jan 2018 19:21:07 +0200|Mon, 15 Jan 2018 19:21:07 +0200
+35eb168625fdea8af5ba5d465a9ff8bb903ddb3e|Added Collection Groups models, migrations, test for CRU(D?) functionality with this model. (#70)|Thu, 11 Jan 2018 17:56:05 +0200|Thu, 11 Jan 2018 17:56:05 +0200
+a9111fe8ec4df55d4d1660d47e51d2937918e1b5|Merge pull request #72 from harvard-vpal/fix/typos|Wed, 3 Jan 2018 09:45:03 -0500|Wed, 3 Jan 2018 09:45:03 -0500
+8d3a50e84e83ca1b56ef6beec8612c8894df6326|Grammar fixes in readme|Tue, 2 Jan 2018 12:34:23 -0500|Tue, 2 Jan 2018 12:34:23 -0500
+a0861f0b6e4b4f2eaeb59dc2d4a996d161f0cddf|Adds test runner codeclimate.yml exlude paths.|Tue, 26 Dec 2017 18:01:51 +0200|Tue, 26 Dec 2017 18:01:51 +0200
+15f55bf99805e19aac5ab68322cb2b3df8164759|Fix markdown in README file (how run tests, etc)|Thu, 21 Dec 2017 16:57:44 +0200|Thu, 21 Dec 2017 17:04:36 +0200
+f6082d73326f513cadc8a26d637251efd1620b3f|Various fixes (typos, new line at end of file, etc)|Thu, 21 Dec 2017 16:54:42 +0200|Thu, 21 Dec 2017 16:54:42 +0200
+dd96d08b73c0a70a14619e1e0af4fedc71019129|Merge pull request #68 from harvard-vpal/fix/ad-6|Wed, 20 Dec 2017 23:19:24 -0500|Wed, 20 Dec 2017 23:19:24 -0500
+14810ec48fb2b8d12609568fcd1cdbc57f636efe|Merge branch 'master' into fix/ad-6|Wed, 20 Dec 2017 23:15:34 -0500|Wed, 20 Dec 2017 23:15:34 -0500
+002684b98bd67d3541647e4ad3e281e7737129cc|Remove extra test settings|Wed, 20 Dec 2017 23:09:48 -0500|Wed, 20 Dec 2017 23:09:48 -0500
+ec9f4a544e2174e9f8e10c96c8d8b7d0f376da34|Merge pull request #71 from harvard-vpal/fix/ad-36|Wed, 20 Dec 2017 15:12:53 -0500|Wed, 20 Dec 2017 15:12:53 -0500
+a60aa517f0ae48c587d68b61e5e93e59b416a87c|Change text description of correctness matters setting|Wed, 20 Dec 2017 14:57:41 -0500|Wed, 20 Dec 2017 14:57:41 -0500
+e15c1cf8ff257abe5bf88d31a39b2997e2505bda|Fixes to follow PEP8|Wed, 20 Dec 2017 14:29:31 +0200|Wed, 20 Dec 2017 14:29:31 +0200
+4febeefdff1f565f8dcfe311d1af08aa33c9833d|Adds correctness_meter flag into change collection and create collection forms. Update README file|Wed, 20 Dec 2017 14:22:44 +0200|Wed, 20 Dec 2017 14:22:44 +0200
+801885ae1ca31c6fcb166e8170f5c84ff684512f|Merge pull request #69 from harvard-vpal/fix/canvas_lti|Tue, 19 Dec 2017 16:33:54 -0500|Tue, 19 Dec 2017 16:33:54 -0500
+01ae256bdaeb68f65d79bc103f0434d7d5f63f60|Fixes to fit flake8 and changed tox file to run pytests|Tue, 19 Dec 2017 00:03:23 +0200|Tue, 19 Dec 2017 00:03:23 +0200
+1cc2ee96d431bfb30c88e16fd04b995a5621b4f6|Fixes in tox.ini and pytest.ini files to run tests from tox|Mon, 18 Dec 2017 19:16:41 +0200|Mon, 18 Dec 2017 19:16:41 +0200
+c651189d0ff2cd5bce70edace19caaff8fbfae9a|Changes in .gitignore, added templates for 400, 403, 404, 500 errors, replaced returning http response with error code with raising corresponding error|Thu, 14 Dec 2017 20:10:34 +0200|Thu, 14 Dec 2017 20:10:34 +0200
+5568de4bb3635854ce13edbe8aab84d8207eb156|Added one more section into tox.ini file to run pytests|Thu, 14 Dec 2017 20:07:14 +0200|Thu, 14 Dec 2017 20:07:14 +0200
+4f3f2814b22389a42045627a243a6bd42239bc37|[AD-6] Added coverage (coverall) into travis config. Added pytest.ini file Some changes in gitignore|Thu, 14 Dec 2017 20:06:31 +0200|Thu, 14 Dec 2017 20:06:31 +0200
+f6b69290bff26e37df29d87ec074142d8133c140|Fix to correctly work with canvas.|Tue, 12 Dec 2017 18:06:20 +0200|Tue, 12 Dec 2017 18:06:31 +0200
+5c157bc23303fabc38c9df7fe5eef0b2e63d1ce9|Update README.md|Tue, 7 Nov 2017 18:12:10 -0500|Tue, 7 Nov 2017 18:12:10 -0500
+13bb9375cf84e417fd9ed4f08dee2a23f9787e2b|Update README.md|Tue, 7 Nov 2017 18:11:42 -0500|Tue, 7 Nov 2017 18:11:42 -0500
+e92265b4cb3449e3101eda3afcf220f19748dbae|Update README.md|Tue, 7 Nov 2017 18:07:15 -0500|Tue, 7 Nov 2017 18:07:15 -0500
+5c75213b8dbaeeea05513f3e21173bef86cfca2c|Add image|Tue, 7 Nov 2017 17:46:51 -0500|Tue, 7 Nov 2017 17:46:51 -0500
+9ea2bb6a38df260e88504780720cb6172bf29d15|Merge pull request #63 from harvard-vpal/aang/sessions|Thu, 12 Oct 2017 00:32:34 -0400|Thu, 12 Oct 2017 00:32:34 -0400
+63327921aa20192c8fc8fdaf2a313f07a4a29393|Populate session variables on lti launch even when sequence is complete|Thu, 12 Oct 2017 00:03:34 -0400|Thu, 12 Oct 2017 00:03:34 -0400
+692211ede70a3807b48363cd3475a5c2d2e56719|Fix newly found bug with update_activity workflow (#62)|Tue, 10 Oct 2017 17:03:01 +0300|Tue, 10 Oct 2017 17:03:01 +0300
+2d1535e21e28c6eca08cff7ae986f883dc4e84f4|Merge pull request #61 from harvard-vpal/aang/grading-policy|Mon, 9 Oct 2017 15:44:56 -0400|Mon, 9 Oct 2017 15:44:56 -0400
+a9e3643c8ff524a5b40f5106a0f36e1fbdbcfaaa|Formatting|Sat, 7 Oct 2017 14:44:14 -0400|Sat, 7 Oct 2017 14:44:14 -0400
+7c88f77cf696dd85bb22dc0d304355b96af4009e|Round collection grade to 4 decimal places|Sat, 7 Oct 2017 13:54:58 -0400|Sat, 7 Oct 2017 13:54:58 -0400
+0498697531d467bad0bd66a73e3f3fa537e23310|Modify grading policy|Sat, 7 Oct 2017 13:42:32 -0400|Sat, 7 Oct 2017 13:42:32 -0400
+85c804d8fec953a215af9b62228cb6414c43052b|Add grading variable correctness_matters to collection|Sat, 7 Oct 2017 12:35:35 -0400|Sat, 7 Oct 2017 12:35:35 -0400
+9af1f52f71e3e8593f1cc69f7a504ca68b26a1a6|Merge pull request #60 from harvard-vpal/aang/dev|Fri, 6 Oct 2017 22:06:11 -0400|Fri, 6 Oct 2017 22:06:11 -0400
+0d8cfb1bab06ac118eea1c8d843084f9bbb61b9e|Prevent log error on grade passback from content source|Fri, 6 Oct 2017 22:03:16 -0400|Fri, 6 Oct 2017 22:03:16 -0400
+80aa653b9bf235bdf3aaf381238ebe50b34bcba8|Merge pull request #58 from harvard-vpal/aang/config|Thu, 5 Oct 2017 19:11:01 -0400|Thu, 5 Oct 2017 19:11:01 -0400
+1d57bec1693e68961ef0a373fc2ebb1715643925|Settings to enable elb health check|Thu, 5 Oct 2017 19:07:41 -0400|Thu, 5 Oct 2017 19:07:41 -0400
+57781bdd8853458fc136f9d21648b9b41bec3ba5|formatting|Thu, 5 Oct 2017 19:04:54 -0400|Thu, 5 Oct 2017 19:04:54 -0400
+80ab9c0158e013b17a3b5661c5cd9480ce720590|Add health check endpoint|Thu, 5 Oct 2017 18:58:03 -0400|Thu, 5 Oct 2017 18:58:03 -0400
+2d02293ad8fdda780593c3d3d7a61d374e3299b0|Set ALLOWED_HOSTS explicitly in base settings|Thu, 5 Oct 2017 18:56:34 -0400|Thu, 5 Oct 2017 18:56:34 -0400
+89a8f2868dad0411070bf93c446ee503d894e41f|Remove nginx restart cmd on eb deploy|Thu, 5 Oct 2017 16:26:57 -0400|Thu, 5 Oct 2017 16:26:57 -0400
+ed1df0f162fd263c4a6df4108e1cb6176131bfd1|Merge pull request #57 from harvard-vpal/aang/vpal-engine-driver|Wed, 4 Oct 2017 17:21:01 -0400|Wed, 4 Oct 2017 17:21:01 -0400
+c2918a6400b218a8d0e0efe0091acfa53f586702|Merge pull request #56 from harvard-vpal/aang/config|Wed, 4 Oct 2017 17:12:45 -0400|Wed, 4 Oct 2017 17:12:45 -0400
+92104aaf7963fb3f5c92f98dc097f76b1cccf4e5|Merge pull request #55 from harvard-vpal/aang/local-config|Wed, 4 Oct 2017 17:07:02 -0400|Wed, 4 Oct 2017 17:07:02 -0400
+b6d11332583c32b65fab27d3570e1ce90af93644|Fix log streaming to cloudwatch on eb redeploy|Wed, 4 Oct 2017 16:50:27 -0400|Wed, 4 Oct 2017 16:50:27 -0400
+bb0461592f3591c7c29578202a062f412bed9df6|Clean formatting|Wed, 4 Oct 2017 16:22:45 -0400|Wed, 4 Oct 2017 16:22:45 -0400
+e42ea1c9dd98764347088d7ccf1c80340d3368fd|Fix the setting of learner and activity parameters in engine driver|Wed, 4 Oct 2017 16:21:15 -0400|Wed, 4 Oct 2017 16:21:15 -0400
+cd04e702ec6a645ba8db371362b2f4fa97f60d1e|nginx config for eb deploy|Sun, 1 Oct 2017 01:30:05 -0400|Sun, 1 Oct 2017 01:30:05 -0400
+a203f85c1a9a061a6dbe1e404b776f0a511d3edf|Prod settings file|Sun, 1 Oct 2017 01:29:40 -0400|Sun, 1 Oct 2017 01:29:40 -0400
+9f8b20d3d4396a0afe09967aaa3d4b65d966381c|Rename static collection folder|Sun, 1 Oct 2017 01:21:07 -0400|Sun, 1 Oct 2017 01:21:07 -0400
+aa37708a1cd3c8762c7761de90c32bc440923f9c|Add run defaults to Dockerfile|Sun, 1 Oct 2017 01:19:49 -0400|Sun, 1 Oct 2017 01:19:49 -0400
+6a8b35fe57dfa0c0f076bf1b6056b7a8cebbc768|Fix formatting|Sat, 30 Sep 2017 22:00:07 -0400|Sat, 30 Sep 2017 22:00:07 -0400
+50707706643433d3c33319e37b369a74862de1f1|Reorganize local vs base settings, and use secure_example settings as local defaults|Sat, 30 Sep 2017 21:57:07 -0400|Sat, 30 Sep 2017 21:57:07 -0400
+65115c0355ce934647d8be6fdc65f31fd78c8590|Change docker-compose db port mapping for local dev|Tue, 26 Sep 2017 11:36:38 -0400|Tue, 26 Sep 2017 11:36:38 -0400
+d3bf6826dd50681bcf36be1e1b23e5ab35e52054|Merge branch 'master' of github.com:harvard-vpal/bridge-adaptivity|Fri, 22 Sep 2017 18:37:16 +0300|Fri, 22 Sep 2017 18:37:16 +0300
+3141e130956d98fd465636bedd9347f57996525b|Squash all useless migrations before release|Fri, 22 Sep 2017 18:36:07 +0300|Fri, 22 Sep 2017 18:36:07 +0300
+c16b014f816d34f5d62f2d89dfcf5ddf79dc646c|Add API token caching (#51)|Fri, 22 Sep 2017 15:08:52 +0300|Fri, 22 Sep 2017 15:08:52 +0300
+fadf487427f5996f0eda0732cbb68bda3f657a98|Update Collection list view template (#53)|Fri, 22 Sep 2017 14:40:19 +0300|Fri, 22 Sep 2017 14:40:19 +0300
+7a51a358e6d9c5b2ea7f8327be5f943fb8dbdea7|Merge branch 'master' of github.com:harvard-vpal/bridge-adaptivity|Fri, 22 Sep 2017 13:45:36 +0300|Fri, 22 Sep 2017 13:45:36 +0300
+345afbc8bc32301ec3327f7cabcbd1c760dbb0a6|The collection list page doesn't show more than 10 collections (#49)|Fri, 22 Sep 2017 13:29:23 +0300|Fri, 22 Sep 2017 13:29:23 +0300
+62a44a2d7f028a0ab9b73bb54a7e1bc75a776dff|Fix creating activity on the Engine side. (#52)|Thu, 21 Sep 2017 17:44:52 +0300|Thu, 21 Sep 2017 17:44:52 +0300
+3e3bf190366355328e18b252173f442df3b16ccc|Fix creating activity on the Engine side.|Thu, 21 Sep 2017 17:40:42 +0300|Thu, 21 Sep 2017 17:40:42 +0300
+333d1dd99185a558077b36858f6e0994dd31f77d|Refactor: LMS grade updates. (#45)|Thu, 21 Sep 2017 16:49:09 +0300|Thu, 21 Sep 2017 16:49:09 +0300
+10c5a03f0b647f9804caeaab76df2ebf5285173a|Update prod configuration (#48)|Thu, 21 Sep 2017 16:48:34 +0300|Thu, 21 Sep 2017 16:48:34 +0300
+f17987fb16d88905ff16c5bf4ac5879f72a0ab5a|Prevent double forms submission (#46)|Thu, 21 Sep 2017 15:46:55 +0300|Thu, 21 Sep 2017 15:46:55 +0300
+8853c47e91b7fd76731120df199caa4a414d1ef5|Reinforce style project linting (#50)|Thu, 21 Sep 2017 15:39:30 +0300|Thu, 21 Sep 2017 15:39:30 +0300
+fba7bcc88f1b54e1cb91d448159818a1c2e4236c|Add VPAL Engine driver. (#47)|Thu, 21 Sep 2017 13:05:09 +0300|Thu, 21 Sep 2017 13:05:09 +0300
+4ed35d6be05e8aac4a95c3cdda80fc5ef12c966f|Refactor receiving grade from the Content Source with usage lti lib (#44)|Tue, 19 Sep 2017 17:35:40 +0300|Tue, 19 Sep 2017 17:35:40 +0300
+d47bcc4964b8cf84b3f8ce27188bfd7558b69e95|Add launch URL fetch button (#43)|Tue, 19 Sep 2017 17:00:29 +0300|Tue, 19 Sep 2017 17:00:29 +0300
+ef0eadb3af8af54e46b2b2a16f21e3372ee00809|Add collection update view. (#42)|Tue, 19 Sep 2017 16:29:12 +0300|Tue, 19 Sep 2017 16:29:12 +0300
+fcc94c862e9bf732d18b4a6c956d24852fd3b67a|Restrict activity order option buttons (#41)|Mon, 18 Sep 2017 20:53:28 +0300|Mon, 18 Sep 2017 20:53:28 +0300
+6fc0362a35b33cff73242dc84f74237b86373757|Implement log type 'admin' (#39)|Mon, 18 Sep 2017 17:50:11 +0300|Mon, 18 Sep 2017 17:50:11 +0300
+b400bd1b51513d5a7ce129af3ac30905372a306d|Add pre-(post-)assessment logic into MockEngine (#40)|Mon, 18 Sep 2017 15:16:28 +0300|Mon, 18 Sep 2017 15:16:28 +0300
+2d2cffe2be8ee901844738f90b0d75a26a841e39|quickfix/ui option buttons improvements (#38)|Mon, 18 Sep 2017 12:04:35 +0300|Mon, 18 Sep 2017 12:04:35 +0300
+840038857904d05da041c83807ffc762a79fcab3|Add strict forward behavior (#37)|Fri, 15 Sep 2017 18:28:46 +0300|Fri, 15 Sep 2017 18:28:46 +0300
+1f9d060853ea999dd9520107429e65756fe7c1ef|I23: pre/post-assessment activities (#36)|Fri, 15 Sep 2017 16:17:45 +0300|Fri, 15 Sep 2017 16:17:45 +0300
+2715787f40da7c04526368da76687105239540c5|Provide UI optimizations (#32)|Fri, 15 Sep 2017 13:40:52 +0300|Fri, 15 Sep 2017 13:40:52 +0300
+2f6c7d523ef3f29b6d30615f30e5759134aa9877|Move engine update grade entry point to SequenceItem save() method (#35)|Thu, 14 Sep 2017 15:50:59 +0300|Thu, 14 Sep 2017 15:50:59 +0300
+9d5db991780661d4e0334b872b450d4d384c7f78|Add LTI session which is used for student views (#33)|Wed, 13 Sep 2017 18:26:32 +0300|Wed, 13 Sep 2017 18:26:32 +0300
+b4feeff4909fcb8d75352a76dc2ee642761e872d|Refactor provider, improve validator module (#34)|Wed, 13 Sep 2017 17:45:04 +0300|Wed, 13 Sep 2017 17:45:04 +0300
+fade64af9366f4f53e853a26d667c8839194a2d8|Add CallBack view for fetching grade received from the Source (#31)|Fri, 8 Sep 2017 15:00:51 +0300|Fri, 8 Sep 2017 15:00:51 +0300
+7d16f62ccebb6f23707d7845f3d07ccc4378b04f|Implement policy-1a grade calculation (#30)|Fri, 8 Sep 2017 14:07:23 +0300|Fri, 8 Sep 2017 14:07:23 +0300
+c9136d850ecf88441b437920a6c9c5cb32908cb8|Add inline activity preview (#29)|Thu, 7 Sep 2017 18:03:50 +0300|Thu, 7 Sep 2017 18:03:50 +0300
+7dd220be1b2e98a095c0297ca2749416e8cfd219|Add Mock Engine|Thu, 7 Sep 2017 15:25:35 +0300|Thu, 7 Sep 2017 15:25:35 +0300
+e8379ebdec85070ae71d0fa4e65593786b8540eb|Add Outcomes processing (#24)|Wed, 6 Sep 2017 13:29:43 +0300|Wed, 6 Sep 2017 13:29:43 +0300
+8356616cc84ee9ea6086f6e7d9d98dda64e4acd4|After project refactoring merge fixes (#26)|Tue, 5 Sep 2017 16:36:00 +0300|Tue, 5 Sep 2017 16:36:00 +0300
+3f5210f3ce1fdb6262de1d44fd72b62a25ecfee2|Refactor project structure to make it more consistent. (#25)|Mon, 4 Sep 2017 14:34:20 +0300|Mon, 4 Sep 2017 14:34:20 +0300
+bfdf74a7d0b837f87dc1f553292011e85b4bf517|Add Collection unique_together validation (owner, name) (#23)|Mon, 4 Sep 2017 14:15:02 +0300|Mon, 4 Sep 2017 14:15:02 +0300
+9c96b43a26bc5c745daa60ef3225680e083be37b|Make trailing slash in Bridge LTI launch URLs optional (#19)|Mon, 4 Sep 2017 13:42:07 +0300|Mon, 4 Sep 2017 13:42:07 +0300
+7ef3c03cf076ef131646358e31bc625e112aa0fa|Collection editing. (#17)|Mon, 4 Sep 2017 11:46:08 +0300|Mon, 4 Sep 2017 11:46:08 +0300
+39a6df7e2b1c6bba8bf9188db0f593dbf21e2fb3|Make informative feedback for LMS while LTI misconfigurations (#22)|Wed, 30 Aug 2017 19:25:32 +0300|Wed, 30 Aug 2017 19:25:32 +0300
+a1a7b4a93a7461c7d543d4d2958b47bc05e581a1|Merge pull request #21 from harvard-vpal/aang/update-secure-settings-example|Tue, 29 Aug 2017 17:13:35 -0400|Tue, 29 Aug 2017 17:13:35 -0400
+60c007af31b406440d8fff3fcce0eaaecd856b03|Update example secure settings file|Tue, 29 Aug 2017 16:55:39 -0400|Tue, 29 Aug 2017 16:55:39 -0400
+723b810da385a6caad63346a01d9bcdcf3daeabb|Project code style revision (#18)|Tue, 29 Aug 2017 17:17:18 +0300|Tue, 29 Aug 2017 17:17:18 +0300
+86b4b2afaeef05942ea33f230028aec6cdcf7abd|Update logging to be more informative. (#16)|Tue, 29 Aug 2017 11:01:10 +0300|Tue, 29 Aug 2017 11:01:10 +0300
+e277ef1d9ac8299432a0b1fae941eb3f37fa4f43|Data schema design fixes (#15)|Fri, 25 Aug 2017 18:07:28 +0300|Fri, 25 Aug 2017 18:07:28 +0300
+1adc6dbfd235aaeeadced672fa90d7b94000ee6a|I12: Activity configuration (#14)|Fri, 25 Aug 2017 16:11:10 +0300|Fri, 25 Aug 2017 16:11:10 +0300
+dd3d925ac2296d6e06f7d1c2ff3959d1f169376e|A5: OpenEdx API (courses/blocks) content source connection (#13)|Wed, 23 Aug 2017 00:16:00 +0300|Wed, 23 Aug 2017 00:16:00 +0300
+3a61c427264be1097f45d2ab3012416fac16f9cc|render block lti in LMS (#12)|Wed, 23 Aug 2017 00:11:18 +0300|Wed, 23 Aug 2017 00:11:18 +0300
+6e3c659968602c01cde7a470ca64a9b54171fb83|Update deployment configuration (#8)|Tue, 15 Aug 2017 18:02:17 +0300|Tue, 15 Aug 2017 18:02:17 +0300
+285520e2f2a976122c5b4dea36ccfb6d8b3b687b|Migrate engine prototype to new repo (#9)|Tue, 15 Aug 2017 04:12:45 -0400|Tue, 15 Aug 2017 11:12:45 +0300
+cb17fa3354a1503a50743cfe18d6063d6992b302|Add files via upload|Mon, 14 Aug 2017 10:21:44 -0400|Mon, 14 Aug 2017 10:21:44 -0400
+769a4fd5b9751647a4bd7c0d9d2befe6b50c198c|Add files via upload|Mon, 14 Aug 2017 10:21:13 -0400|Mon, 14 Aug 2017 10:21:13 -0400
+e2ba099ae9c50e04de861083fb6f53795f66d7ae|Add files via upload|Fri, 11 Aug 2017 10:53:20 -0400|Fri, 11 Aug 2017 10:53:20 -0400
+2597603c640ab4844abbb0e89a654b54a95b08be|Add files via upload|Fri, 11 Aug 2017 09:58:03 -0400|Fri, 11 Aug 2017 09:58:03 -0400
+a118554bab2e1c5fd445a892ddd5a920c49d74a6|Add files via upload|Fri, 11 Aug 2017 09:42:17 -0400|Fri, 11 Aug 2017 09:42:17 -0400
+edeeed79820517d874c7d932ab1bff7e62383f25|I-10.1 - As an administrator I want to use a bridge as lti tool. (#7)|Fri, 11 Aug 2017 11:03:17 +0300|Fri, 11 Aug 2017 11:03:17 +0300
+d84464537c993be56ef4fc95b3d542a37a953a65|Add files via upload|Thu, 10 Aug 2017 17:06:47 -0400|Thu, 10 Aug 2017 17:06:47 -0400
+1ff40489864dbf96b833e4a2c89b564326ca27bc|Add Travis CI configuration files (#3)|Thu, 10 Aug 2017 20:40:47 +0300|Thu, 10 Aug 2017 20:40:47 +0300
+baeb7f178f1297e2d63ca2507fa8608bfac4167c|Add docker configs for local and production Bridge deployment (#2)|Thu, 10 Aug 2017 20:38:15 +0300|Thu, 10 Aug 2017 20:38:15 +0300
+65c59097b19d873a4371a496954d92bdec73e37c|A-2: I want to connect Open edX as a Content Source via LTI protocol (#4)|Thu, 10 Aug 2017 12:14:34 +0300|Thu, 10 Aug 2017 12:14:34 +0300
+0c5564a28d71f23c966ea2a5f02e6341bdb8c8ae|Implement Collections creation UI. (#5)|Thu, 10 Aug 2017 11:57:43 +0300|Thu, 10 Aug 2017 11:57:43 +0300
+d490b64e2f3426ae1be77511358ff49969917aab|Update import statement for new module name|Mon, 7 Aug 2017 16:30:55 -0400|Mon, 7 Aug 2017 16:30:55 -0400
+24f3e9655eb114c9d5e6d153a0a908efb472c8c9|Initial project setup|Fri, 4 Aug 2017 15:01:56 +0300|Fri, 4 Aug 2017 15:01:56 +0300
+2ae987d46b08431b5247f5b2dfe46188bdd52e7c|Add files via upload|Tue, 1 Aug 2017 13:18:49 -0400|Tue, 1 Aug 2017 13:18:49 -0400
+c093afacdbcf3c414831953288405e3de268ae41|Delete propagator.R|Tue, 1 Aug 2017 13:17:28 -0400|Tue, 1 Aug 2017 13:17:28 -0400
+ba59c848ed74653c3261c1a5f584a9a820c8e1ef|Delete optimizer.R|Tue, 1 Aug 2017 13:17:17 -0400|Tue, 1 Aug 2017 13:17:17 -0400
+a3f245fbd8b92314e36c8e68fce7b4414ba14ca0|Delete master.R|Tue, 1 Aug 2017 13:17:01 -0400|Tue, 1 Aug 2017 13:17:01 -0400
+58b003af173f347f449e7bb7528f0813d54c1ca6|Delete fakeInitials.R|Tue, 1 Aug 2017 13:16:52 -0400|Tue, 1 Aug 2017 13:16:52 -0400
+966f1bef7df188315acf07d54d7a6415eab037e5|Delete derivedData.R|Tue, 1 Aug 2017 13:16:41 -0400|Tue, 1 Aug 2017 13:16:41 -0400
+576bd29340a0a5441c9356801674632e1425db75|Add files via upload|Tue, 1 Aug 2017 13:15:36 -0400|Tue, 1 Aug 2017 13:15:36 -0400
+9b6a6fcdffee782a37102399544f1389e3c86d2b|Add files via upload|Tue, 1 Aug 2017 13:14:27 -0400|Tue, 1 Aug 2017 13:14:27 -0400
+d7c9255c63cd462db5c6e85f590f2520a5cb4f62|Add files via upload|Tue, 25 Jul 2017 14:55:32 -0400|Tue, 25 Jul 2017 14:55:32 -0400
+b380541e34e67720543f73d12fc05314d204beff|Add files via upload|Tue, 25 Jul 2017 14:54:17 -0400|Tue, 25 Jul 2017 14:54:17 -0400
+9e7de82e8283f2268d076b5c6425f90893c6b7f9|Add files via upload|Mon, 24 Jul 2017 16:44:37 -0400|Mon, 24 Jul 2017 16:44:37 -0400
+bd2117aa2193553bc0c2b5ac89657e519fa29a77|Add files via upload|Mon, 24 Jul 2017 11:57:55 -0400|Mon, 24 Jul 2017 11:57:55 -0400
+82e9f615d14e5e11edb8c9a3b0cc848825ee8b39|Add files via upload|Sat, 22 Jul 2017 14:16:02 -0400|Sat, 22 Jul 2017 14:16:02 -0400
+932c37bd8197c0527cac301326966b5b4a3a43ed|Add files via upload|Sat, 22 Jul 2017 14:14:38 -0400|Sat, 22 Jul 2017 14:14:38 -0400
+79f87f5a16fd9d1c58f584baa36b2fac01d5617b|Add files via upload|Tue, 18 Jul 2017 14:03:14 -0400|Tue, 18 Jul 2017 14:03:14 -0400
+9a306e6bc3ed05b5d2e1339c282d4b2a07b83f04|Add files via upload|Tue, 18 Jul 2017 13:36:51 -0400|Tue, 18 Jul 2017 13:36:51 -0400
+f716d7823ff7558e08a4009f8bdc689c27b44a12|Add files via upload|Tue, 11 Jul 2017 09:49:42 -0400|Tue, 11 Jul 2017 09:49:42 -0400
+a8d2e29fadd5443ec932baaef706b0296affa7ba|Add files via upload|Tue, 11 Jul 2017 09:46:03 -0400|Tue, 11 Jul 2017 09:46:03 -0400
+3c8739addcf8ec0f8f6c6e822add596bb5b7a416|Delete derivedData.R|Mon, 10 Jul 2017 11:17:59 -0400|Mon, 10 Jul 2017 11:17:59 -0400
+3aab07040fc00f1efaa9e0325c41fc2c745d410a|Delete fakeInitials.R|Mon, 10 Jul 2017 11:17:46 -0400|Mon, 10 Jul 2017 11:17:46 -0400
+8c81d9d5d756bb0a60ac5ca60c250d8ffe4b84a4|Delete initialsSuperEarths.R|Mon, 10 Jul 2017 11:17:24 -0400|Mon, 10 Jul 2017 11:17:24 -0400
+4e9ea547cbd4a96ed9b52371e6533bbd0e15ca6d|Delete master.R|Mon, 10 Jul 2017 11:17:13 -0400|Mon, 10 Jul 2017 11:17:13 -0400
+d88452ec189468f67f8fc645c539b8c75b7cbead|Delete optimizer.R|Mon, 10 Jul 2017 11:17:00 -0400|Mon, 10 Jul 2017 11:17:00 -0400
+fd030a4189f35735effdea8d54532ac567dfada3|Delete propagator.R|Mon, 10 Jul 2017 11:16:42 -0400|Mon, 10 Jul 2017 11:16:42 -0400
+c49c18efe0dfc319a9d17d566cc8530d54c333ee|Add files via upload|Mon, 10 Jul 2017 11:15:45 -0400|Mon, 10 Jul 2017 11:15:45 -0400
+1d2eb6fb9f1bf8a81dac334f012f7cb794a9039c|Add files via upload|Mon, 10 Jul 2017 11:13:50 -0400|Mon, 10 Jul 2017 11:13:50 -0400
+91ab079ffa744fba2ab34ca034994c4407b3d267|Add files via upload|Mon, 10 Jul 2017 11:12:45 -0400|Mon, 10 Jul 2017 11:12:45 -0400
+eb6c8645a8241ae9d8b17f1453fbddb15717d4a5|Add files via upload|Wed, 21 Jun 2017 13:19:01 -0400|Wed, 21 Jun 2017 13:19:01 -0400
+7e80a83a306cfff1557742a699772c17670b7723|Add files via upload|Wed, 21 Jun 2017 11:34:36 -0400|Wed, 21 Jun 2017 11:34:36 -0400
+bc9cd77516456017399e15fdde5fab56ab1b1912|Create LICENSE|Fri, 16 Jun 2017 15:15:39 -0400|Fri, 16 Jun 2017 15:15:39 -0400
+618afd8e95e4163bb3d336b8452681698f6b98e9|Add files via upload|Mon, 12 Jun 2017 10:59:47 -0400|Mon, 12 Jun 2017 10:59:47 -0400
+4be8cf609fe5827c394aeaf8f33baab158198164|Add files via upload|Mon, 12 Jun 2017 10:34:30 -0400|Mon, 12 Jun 2017 10:34:30 -0400
+d6c5a26d278bd4f359d46f188e8bc53ee606374b|Add files via upload|Tue, 30 May 2017 15:12:37 -0400|Tue, 30 May 2017 15:12:37 -0400
+8b5b179578d89e5278894fdebef11bee749e50ea|Add files via upload|Fri, 26 May 2017 17:33:55 -0400|Fri, 26 May 2017 17:33:55 -0400
+397715a2748395ee5ab26e78af11cc67990b0a27|Add files via upload|Fri, 26 May 2017 09:48:55 -0400|Fri, 26 May 2017 09:48:55 -0400
+2391266b4ef5af667187758c3834709712f9c9d3|Add files via upload|Tue, 16 May 2017 09:43:27 -0400|Tue, 16 May 2017 09:43:27 -0400
+663048356a4a6e877cc24392a71cfa3d623df77b|Add files via upload|Tue, 16 May 2017 09:38:13 -0400|Tue, 16 May 2017 09:38:13 -0400
+276c5dd552a1bf8b1b79e93ad6fcb990017581dc|Add files via upload|Mon, 15 May 2017 17:23:57 -0400|Mon, 15 May 2017 17:23:57 -0400
+49254ce3102134523b2d0d2908b6152d6113517b|Add files via upload|Mon, 15 May 2017 16:30:58 -0400|Mon, 15 May 2017 16:30:58 -0400
+a3b866b931a20842f30d8b752ca911ba168696b7|Add files via upload|Mon, 15 May 2017 15:58:59 -0400|Mon, 15 May 2017 15:58:59 -0400
+798e80601fdca632e1d16a07100f3da13aad5854|Add files via upload|Mon, 15 May 2017 15:45:48 -0400|Mon, 15 May 2017 15:45:48 -0400
+9a67c164bdb68b238be94d3d0678f39c6f5617df|Add files via upload|Mon, 15 May 2017 14:36:25 -0400|Mon, 15 May 2017 14:36:25 -0400
+2ecb47b4774ffdf209ed066ab70cdb56b4a2171f|Add files via upload|Mon, 15 May 2017 13:37:05 -0400|Mon, 15 May 2017 13:37:05 -0400
+1e7ac819450b780ebb67304d0957ad706a8f0db2|Add files via upload|Mon, 15 May 2017 13:34:38 -0400|Mon, 15 May 2017 13:34:38 -0400
+8025d86e5c693f59b4fc4113f06ac6b4bfc8e367|Add files via upload|Mon, 15 May 2017 13:15:47 -0400|Mon, 15 May 2017 13:15:47 -0400
+59e71cacfcfda505f9a46c0b9b440123841e863a|Add files via upload|Mon, 15 May 2017 13:01:22 -0400|Mon, 15 May 2017 13:01:22 -0400
+bd8c76ab8e8839e4e86ecf320fe471bf9a41afbc|Add files via upload|Mon, 15 May 2017 12:58:24 -0400|Mon, 15 May 2017 12:58:24 -0400
+12b4008a48c0bdfdc3860f9bd0a3cb0a955a599c|Add files via upload|Mon, 15 May 2017 12:52:47 -0400|Mon, 15 May 2017 12:52:47 -0400
+d805f1e0179433b23b0491278c7de47180e85961|Add files via upload|Mon, 15 May 2017 12:15:51 -0400|Mon, 15 May 2017 12:15:51 -0400
+4cbbd24e3cb4d8b92eaa5a42352d637414549c47|Add files via upload|Mon, 24 Apr 2017 09:21:50 -0400|Mon, 24 Apr 2017 09:21:50 -0400
+85ad85365aaf567099343278155a49376aa186c1|Add files via upload|Sat, 22 Apr 2017 14:39:45 -0400|Sat, 22 Apr 2017 14:39:45 -0400
+725c4c8895b89f68bc576c9399c956dadf36369c|Add files via upload|Sat, 22 Apr 2017 14:38:39 -0400|Sat, 22 Apr 2017 14:38:39 -0400
+e06659ea9933946f5def859d39aba543249191ae|Update README.md|Fri, 21 Apr 2017 21:43:02 -0400|Fri, 21 Apr 2017 21:43:02 -0400
+e0aeaba22760e865e1356cb0ed751242e2f55b40|Add files via upload|Fri, 21 Apr 2017 18:40:05 -0400|Fri, 21 Apr 2017 18:40:05 -0400
+5c06362f57a7e51eb4f3813aaae8b45560cc770d|Add files via upload|Fri, 21 Apr 2017 16:41:17 -0400|Fri, 21 Apr 2017 16:41:17 -0400
+154d721eb48115eb0256ef3cfcdce1ace4bf706f|Add files via upload|Fri, 21 Apr 2017 16:33:43 -0400|Fri, 21 Apr 2017 16:33:43 -0400
+d57f8599d369a61d2f3ca035762ba015ca0e0042|Add files via upload|Fri, 21 Apr 2017 16:22:03 -0400|Fri, 21 Apr 2017 16:22:03 -0400
+d53bbd801d75b964ee345a6e413df222c3c7b02d|Add files via upload|Fri, 21 Apr 2017 16:07:01 -0400|Fri, 21 Apr 2017 16:07:01 -0400
+e7e8c759116775df964aac49e4345914dc7198fe|Add files via upload|Fri, 21 Apr 2017 15:55:32 -0400|Fri, 21 Apr 2017 15:55:32 -0400
+4922c8b678d1885cea042f14934723944c4543f4|Add files via upload|Tue, 18 Apr 2017 14:22:35 -0400|Tue, 18 Apr 2017 14:22:35 -0400
+0e1d575c1b46bbb163616c3fa2de31cf43d2052d|Add files via upload|Mon, 17 Apr 2017 17:22:43 -0400|Mon, 17 Apr 2017 17:22:43 -0400
+ac1a14c5dad81dc418065cd36e4871390c71654a|Add files via upload|Sat, 15 Apr 2017 13:45:23 -0400|Sat, 15 Apr 2017 13:45:23 -0400
+d1d86a899cd4f4891b9856b558f2dbdad4be0414|Add files via upload|Sat, 15 Apr 2017 13:42:09 -0400|Sat, 15 Apr 2017 13:42:09 -0400
+1c72e12eabf8d477afb239dcb2ff21f36f5ed637|Add files via upload|Fri, 14 Apr 2017 13:22:05 -0400|Fri, 14 Apr 2017 13:22:05 -0400
+f7eb40ae97b80cea49211581c0eebc1ad07a01ed|Add files via upload|Fri, 14 Apr 2017 13:21:23 -0400|Fri, 14 Apr 2017 13:21:23 -0400
+2555bcdf3c2e9501bdd64a0627e88fcf4eccfb9d|Updates to Algorithm from Ilia on 2017-04-11|Wed, 12 Apr 2017 08:51:20 -0400|Wed, 12 Apr 2017 08:51:20 -0400
+4347216de2f9db3d2ea783bf3c496519a36c6d41|Update R files and writeup|Tue, 11 Apr 2017 09:42:58 -0400|Tue, 11 Apr 2017 09:42:58 -0400
+32c4653c1df2fbb781230fbb0c7b279f154428de|Update gitignore|Tue, 11 Apr 2017 09:42:11 -0400|Tue, 11 Apr 2017 09:42:11 -0400
+a339961dfb35c7d9e9be01107b631c61e624a510|Add adaptive engine R prototype and writeup|Fri, 7 Apr 2017 10:46:35 -0400|Fri, 7 Apr 2017 10:46:35 -0400
+f34e112cb0d29bcc6e45b049a3b6902a8a9e3cc4|Merge branch 'master' of https://github.com/harvard-vpal/bridge-adaptivity|Fri, 7 Apr 2017 10:44:23 -0400|Fri, 7 Apr 2017 10:44:23 -0400
+aa454dfec79cd119893aa24b2efd8bc68edcee3d|Move bridge app to subdirectory|Fri, 7 Apr 2017 10:44:09 -0400|Fri, 7 Apr 2017 10:44:09 -0400
+c4efae8b571e3f0caaa21875dd2858172396d0c6|Update README.md|Fri, 7 Apr 2017 09:41:34 -0400|Fri, 7 Apr 2017 09:41:34 -0400
+5c1850ba3fdf47e3b93b60f60501d94b9563e4cf|manual field on attempt object|Mon, 7 Nov 2016 16:27:37 -0500|Mon, 7 Nov 2016 16:27:37 -0500
+1b7845d504279fd5ef2be344fc7e95de64235193|moved ALLOWED HOSTS setting to env settings files|Mon, 7 Nov 2016 13:15:55 -0500|Mon, 7 Nov 2016 13:15:55 -0500
+3e8907b2997d05e79f157c7b2abf255f4ae708f0|environment specific aws database setting|Mon, 7 Nov 2016 13:06:50 -0500|Mon, 7 Nov 2016 13:06:50 -0500
+ce905b09efa20bdd49ea946e9701ddd3e11b5d85|update ALLOWED_HOSTS setting for django 1.10.3 compatibility|Mon, 7 Nov 2016 13:06:21 -0500|Mon, 7 Nov 2016 13:06:21 -0500
+a16062d6eca318892bbfe5da80e2df382ed3fdd1|rename function for checking activity in prior sequence items|Thu, 3 Nov 2016 20:42:14 -0400|Thu, 3 Nov 2016 20:42:14 -0400
+d3398f44844d4d7cce99e16198cb267983fe0cea|Merge branch 'master' into develop|Thu, 3 Nov 2016 20:11:05 -0400|Thu, 3 Nov 2016 20:11:05 -0400
+e4dee5925dfc9e861a0debe6ad238e8c89929be7|hotfix, catch nonsense max_points on problem submit|Wed, 26 Oct 2016 15:39:24 -0400|Wed, 26 Oct 2016 15:39:24 -0400
+104ed628794a6a5cce81b5c3c23e3a116bd017f4|add method logging for imported sequence items|Wed, 26 Oct 2016 15:16:24 -0400|Wed, 26 Oct 2016 15:16:24 -0400
+a93c5be1539a4fc29a2b2bc10ad5f1f86ab0c51d|hotfix, assign prior activity to module only if possible to see in module|Wed, 26 Oct 2016 14:53:22 -0400|Wed, 26 Oct 2016 14:53:22 -0400
+28fa169241bf5b6a0b1f98da69ba3daced86038c|hotfix for assign prior activities|Wed, 26 Oct 2016 14:33:44 -0400|Wed, 26 Oct 2016 14:33:44 -0400
+ec13ad9899106ecbfe2897e318772743960de926|filter options in admin|Wed, 26 Oct 2016 00:00:41 -0400|Wed, 26 Oct 2016 00:00:41 -0400
+ceb2fceb501c36733ca6e235bc66477d4854d719|Merge pull request #4 from kunanit/develop|Wed, 19 Oct 2016 13:08:42 -0400|Wed, 19 Oct 2016 13:08:42 -0400
+8ea561cb88368a0c2592d8bca6a8d27570205bf0|remove excess logging in problem_attempt endpoint|Tue, 18 Oct 2016 13:46:33 -0400|Tue, 18 Oct 2016 13:46:33 -0400
+f258c833f880ce11ba7ed911c7cb1297dbe5c011|fix error in max points checking|Tue, 18 Oct 2016 13:43:52 -0400|Tue, 18 Oct 2016 13:43:52 -0400
+39cdb43b4acc662938626f2ada5adf6e3141dbc6|prevent iframe from taking over browser|Tue, 18 Oct 2016 12:54:44 -0400|Tue, 18 Oct 2016 12:54:44 -0400
+9ecc884dbb29d0d562acf1da350cfbcb6d9fb4cc|add method message for edge case of associating activity with existing user module|Fri, 14 Oct 2016 09:40:48 -0400|Fri, 14 Oct 2016 09:40:48 -0400
+b965ce9fce469d652c7ca43fc4512a8cc7b840ea|fix unicode method for attempt|Fri, 14 Oct 2016 09:13:09 -0400|Fri, 14 Oct 2016 09:13:09 -0400
+67260c4ee0eb4d6dec4ee31a57e9a03df78fdbeb|correct filter for attempt finding|Fri, 14 Oct 2016 02:40:06 -0400|Fri, 14 Oct 2016 02:40:06 -0400
+3aae4ec9640a60c111b006fa7f5f4c61999d2374|models cleanup|Fri, 14 Oct 2016 02:14:57 -0400|Fri, 14 Oct 2016 02:14:57 -0400
+7529c873f49cc6c057680212626fd7294a8f2ee4|remove username field from attempt|Fri, 14 Oct 2016 01:54:45 -0400|Fri, 14 Oct 2016 01:54:45 -0400
+b7a7464738ee10a9bf5e346e53f39f9c9e7611b2|helpful filtering in attempt admin|Fri, 14 Oct 2016 01:54:14 -0400|Fri, 14 Oct 2016 01:54:14 -0400
+cffe659e894a069fc02e2bd484ec5cd4fba75237|fix issue where on completion next activity only goes to completion screen|Fri, 14 Oct 2016 01:50:31 -0400|Fri, 14 Oct 2016 01:50:31 -0400
+26e2dd57cdea034c1168860f72b97c502105909e|Merge pull request #3 from kunanit/develop|Thu, 13 Oct 2016 22:03:12 -0400|Thu, 13 Oct 2016 22:03:12 -0400
+41deb132117a4ace82471e351692a241f94330c5|Merge pull request #2 from kunanit/activity-dependency|Thu, 13 Oct 2016 21:51:55 -0400|Thu, 13 Oct 2016 21:51:55 -0400
+6e026f04c13136950c208c464f3d019c8ce5b331|delay next activity button for 2 seconds|Thu, 13 Oct 2016 21:48:13 -0400|Thu, 13 Oct 2016 21:48:13 -0400
+b8fde92079be5207f9138d3ed2ce3f0d2efc5895|helpful admin for sequence item|Thu, 13 Oct 2016 14:19:45 -0400|Thu, 13 Oct 2016 14:19:45 -0400
+420aae7d8cc478dcba7e56e57027e75e7a7fc88a|fix invalid syntax|Thu, 13 Oct 2016 13:45:03 -0400|Thu, 13 Oct 2016 13:45:03 -0400
+904ee5fbb5ab2a3edd4b0bba056bb5f4c7c04fbf|dont use last sequence item when looking for duplicates|Thu, 13 Oct 2016 13:38:29 -0400|Thu, 13 Oct 2016 13:38:29 -0400
+8b8c97bf8cc2cf0ec88f0e3e05ea6656e98a2ffe|fix for prereq checking|Thu, 13 Oct 2016 09:35:22 -0400|Thu, 13 Oct 2016 09:35:22 -0400
+740b2bfd208b3623223881fdb043a2b8383b902d|cleanup|Thu, 13 Oct 2016 09:34:29 -0400|Thu, 13 Oct 2016 09:34:29 -0400
+e0af6c5b27268e6e0e6e90ee01ee8434274d3203|change text of next button, problem -> activity|Thu, 13 Oct 2016 09:07:57 -0400|Thu, 13 Oct 2016 09:07:57 -0400
+e499128f995e5c249159eee56d86f9c3065e02df|fix dependencies in activity fixture|Thu, 13 Oct 2016 08:53:16 -0400|Thu, 13 Oct 2016 08:53:16 -0400
+351ecba878d43080043cc0e7f2ed5c7cbaf4bb9e|remove unused code, including get activity retry and old assign attempts|Wed, 12 Oct 2016 20:58:21 -0400|Wed, 12 Oct 2016 20:58:21 -0400
+425bc2f9eeeccd12f3b45ee5f43d2039896c32f7|cleanup; using sequence() model method|Wed, 12 Oct 2016 20:55:12 -0400|Wed, 12 Oct 2016 20:55:12 -0400
+cc28381ae0ee73eef7d3170ba5922643efa7fb5c|fix get_or_create syntax|Wed, 12 Oct 2016 20:32:23 -0400|Wed, 12 Oct 2016 20:32:23 -0400
+98bc5276f44d909c0ce1f61bdc671f756b0b3983|forgot to import User model in api view|Wed, 12 Oct 2016 20:23:49 -0400|Wed, 12 Oct 2016 20:23:49 -0400
+058f13ba0490120901523edcd82fab5b492074f0|changes to problem javascript for updated edX UI Oct 2016|Wed, 12 Oct 2016 20:23:24 -0400|Wed, 12 Oct 2016 20:23:24 -0400
+d65d95e6fbbf2ae40f25d04107734c8307375b1d|correct filter syntax|Wed, 12 Oct 2016 18:28:24 -0400|Wed, 12 Oct 2016 18:28:24 -0400
+8aba1b53056b161ae91a9d61c82b680915ab19c5|adjustments for max_points change in grade passback|Wed, 12 Oct 2016 17:58:37 -0400|Wed, 12 Oct 2016 17:58:37 -0400
+7f34666bd7d7b53cbb9523bc0a8b3167815de787|adjustments for max_points change in grade passback|Wed, 12 Oct 2016 17:58:07 -0400|Wed, 12 Oct 2016 17:58:07 -0400
+ccb724c6e3999cab4c73879dbf0109c32a620efc|migrations for prev commit|Wed, 12 Oct 2016 17:47:00 -0400|Wed, 12 Oct 2016 17:47:00 -0400
+e297537ae1d5a1d0feb6155f6712f757c83de6ad|move module max_points back to module model and add messages for activity service method|Wed, 12 Oct 2016 17:46:33 -0400|Wed, 12 Oct 2016 17:46:33 -0400
+9fabf9ae3787b3f2cbc1c05134d57a11a10b442e|add field max_weight to activity|Wed, 12 Oct 2016 16:06:25 -0400|Wed, 12 Oct 2016 16:06:25 -0400
+f636ce8c9807d8071353666bd5bec62120a657d6|small fix|Wed, 12 Oct 2016 14:02:23 -0400|Wed, 12 Oct 2016 14:02:23 -0400
+20089b1f7ad9609e4d2af9638e6f6c2c00b4f809|bugfix in grade_passback and rename grade variable for clarity|Wed, 12 Oct 2016 14:01:08 -0400|Wed, 12 Oct 2016 14:01:08 -0400
+bb07bb310d01958c35ba575e3c845cd6f85e6efb|forgot custom_ in front of custom lti parameter name|Wed, 12 Oct 2016 13:58:52 -0400|Wed, 12 Oct 2016 13:58:52 -0400
+b967329383f75d24afbe2d6829a726f7adc6a556|max_points and sequence_item related changes|Wed, 12 Oct 2016 13:56:38 -0400|Wed, 12 Oct 2016 13:56:38 -0400
+847c4b637278c5c4e51bc15c7501c8cc95ced0cf|track roles lti parameter|Wed, 12 Oct 2016 13:55:35 -0400|Wed, 12 Oct 2016 13:55:35 -0400
+24d8732ce8bc66f5884ea4a549b19f2c3f835a74|move max_points to usermodule model|Wed, 12 Oct 2016 13:49:49 -0400|Wed, 12 Oct 2016 13:49:49 -0400
+d346e1f29800e19809888b37ecb853fb2cd41b7d|change style of sequence item buttons based on item type|Wed, 12 Oct 2016 13:18:54 -0400|Wed, 12 Oct 2016 13:18:54 -0400
+bffc028c11ab9d632fa22898781d2baa76d4fb94|assigning of prior activities in views|Wed, 12 Oct 2016 13:00:12 -0400|Wed, 12 Oct 2016 13:00:12 -0400
+3711f8576b9fc9d61eb84fe8544c8a96198cd946|util function for assigning prior activities and attempts to new modules|Wed, 12 Oct 2016 12:47:27 -0400|Wed, 12 Oct 2016 12:47:27 -0400
+4ec271f2f6223abfeccc8fdc925b440d79484897|rewrite api endpoint for better exception handling|Wed, 12 Oct 2016 11:08:40 -0400|Wed, 12 Oct 2016 11:08:40 -0400
+7ea9367819c154b1a046b6d5002194f8b563ffd2|move activity dependency handling to utils|Wed, 12 Oct 2016 09:25:18 -0400|Wed, 12 Oct 2016 09:25:18 -0400
+5de07796bc8f06ad1d31c4dd0ac88fc288c9af41|serve html dependency in next_activity view|Wed, 12 Oct 2016 09:14:44 -0400|Wed, 12 Oct 2016 09:14:44 -0400
+978b0d4ff1d5f4e05bc91b7802cc52e5ccce2b6b|add field visible to activity|Wed, 12 Oct 2016 00:18:57 -0400|Wed, 12 Oct 2016 00:18:57 -0400
+94dc62d01c8f13e110c56cfc48c0f36434ed8efd|new fixtures|Tue, 11 Oct 2016 23:46:08 -0400|Tue, 11 Oct 2016 23:46:08 -0400
+b544c2048723a871748c294300d55894e82d1183|adjust problem_attempt api endpoint to record user for all attempts|Tue, 11 Oct 2016 23:26:23 -0400|Tue, 11 Oct 2016 23:26:23 -0400
+ea4d64d9117582980569c2abb9dc498990ee14e9|move max_points to lti parameter|Tue, 11 Oct 2016 19:12:15 -0400|Tue, 11 Oct 2016 19:12:15 -0400
+074eac5686555d635145727eba8c9a99764b06ab|fix - argument not provided to get_backup_activity()|Fri, 7 Oct 2016 09:37:31 -0400|Fri, 7 Oct 2016 09:37:31 -0400
+106972457c0e310a3fbfd70705a41d86e8f9bcb9|Merge pull request #1 from kunanit/develop|Thu, 29 Sep 2016 13:49:31 -0400|Thu, 29 Sep 2016 13:49:31 -0400
+fd9918b270e1b49dbd5673d7a918b669565e59ba|display 2 decimal points for running score|Wed, 28 Sep 2016 17:08:00 -0400|Wed, 28 Sep 2016 17:08:00 -0400
+38d7910e70ba3f08643c43c08ca2ab70465c8ae1|fix max_points recording error on attempt objects|Wed, 28 Sep 2016 16:49:44 -0400|Wed, 28 Sep 2016 16:49:44 -0400
+66103cde976d7aa533f508584dbc39520cc2ed53|explicitly specify update field on save in api view|Wed, 28 Sep 2016 14:30:17 -0400|Wed, 28 Sep 2016 14:30:17 -0400
+7bde729300fb056e24405db9ad55de0963093e73|remove faulty update syntax|Wed, 28 Sep 2016 14:27:18 -0400|Wed, 28 Sep 2016 14:27:18 -0400
+fd1cdc1e7b243432c21fa0e96db88f3b3e1309b4|avoid creation of duplicate sequence_items in next_question view|Wed, 28 Sep 2016 13:47:07 -0400|Wed, 28 Sep 2016 13:47:07 -0400
+fed98e355f3f4378427980fadbf03a3733fb0662|problem_attempt submit function cleanup|Wed, 28 Sep 2016 13:45:32 -0400|Wed, 28 Sep 2016 13:45:32 -0400
+6133202587e41293601c332b0e98372b7f95ec64|make sequenceitem unique for user_module and position|Wed, 28 Sep 2016 13:19:41 -0400|Wed, 28 Sep 2016 13:19:41 -0400
+8d432e2d4ed463345d412377b742ca938732880c|envionment specific settings for activity service and settings cleanup|Wed, 28 Sep 2016 11:32:50 -0400|Wed, 28 Sep 2016 11:32:50 -0400
+aa9644686c7f97fe82ab8f17df9e190476123281|minor notes|Tue, 27 Sep 2016 16:50:49 -0400|Tue, 27 Sep 2016 16:50:49 -0400
+d1bffcadfd3ed86b9f3545d90c4e9e9cad6d15df|fix firefox bug where post to problem_attempt doesn't occur|Tue, 27 Sep 2016 16:47:58 -0400|Tue, 27 Sep 2016 16:47:58 -0400
+ed3b6374e6ecd83e4d6c7c9ce51ea4c29a4cba0a|handle cases with no max_points cont.|Tue, 27 Sep 2016 15:05:40 -0400|Tue, 27 Sep 2016 15:05:40 -0400
+995cd91781c149767ef9ad3d382590057767e82d|handle cases with no max_points|Tue, 27 Sep 2016 14:55:47 -0400|Tue, 27 Sep 2016 14:55:47 -0400
+056e157fc5ebd2df59dc6909640dc02070b92e78|clean up|Tue, 27 Sep 2016 09:46:35 -0400|Tue, 27 Sep 2016 09:46:35 -0400
+06bf928d6e20d0b2d70ec565a2e5987464a1b623|show completion screen after seeing all module questions|Tue, 27 Sep 2016 09:40:04 -0400|Tue, 27 Sep 2016 09:40:04 -0400
+aa3c2c1ccc7c15fe011883587b09aa5b8ac934a8|fixes and logging for tutorgen interfacing|Tue, 27 Sep 2016 09:39:24 -0400|Tue, 27 Sep 2016 09:39:24 -0400
+4135d950ac3cea902fe827f0798786d0599db61d|create new sequence item for first question in model|Mon, 26 Sep 2016 13:22:20 -0400|Mon, 26 Sep 2016 13:22:20 -0400
+f0fdc8c07c9e267c3caa764f654647424a0910d3|initial app version|Mon, 26 Sep 2016 10:04:26 -0400|Mon, 26 Sep 2016 10:04:26 -0400
+e224b55d752b3a8984c862096a346ac239ab7289|first commit|Mon, 26 Sep 2016 10:02:36 -0400|Mon, 26 Sep 2016 10:02:36 -0400

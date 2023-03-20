@@ -1,0 +1,685 @@
+f00d552798019788df465d816cf91240eb7a3b61|push storer image to dockerhub when all tests pass on Travis|Mon, 31 Dec 2018 21:36:19 +0000|Mon, 31 Dec 2018 21:36:19 +0000
+ffe4820d9c7af9b923bfa3fdb89c95ba7ca7f1de|use [git ls-tree] to find size of file before retrieving it|Mon, 31 Dec 2018 21:27:57 +0000|Mon, 31 Dec 2018 21:27:57 +0000
+5100972a97a941a2f8440d2e5532ac18df9c451a|made test for too-large manifest.json file fail if it takes too long|Mon, 31 Dec 2018 21:20:56 +0000|Mon, 31 Dec 2018 21:20:56 +0000
+ac3eff8f8911874f43ccef060725ae13e70053e0|added notes on finding size of file in git tag before retrieving it|Mon, 31 Dec 2018 21:08:56 +0000|Mon, 31 Dec 2018 21:08:56 +0000
+f868a751ac607d7b8b1c66df74f76c54140b876f|refactoring|Mon, 31 Dec 2018 09:21:02 +0000|Mon, 31 Dec 2018 09:21:02 +0000
+6ac010d0772ea051e87efd157838c27c71a3e71f|fix large-files-killing-the-service test|Sun, 30 Dec 2018 21:33:06 +0000|Sun, 30 Dec 2018 21:33:06 +0000
+bc016658de686c06a4f8ec5d9a088d814a684897|added failing test for large files killing the service|Sun, 30 Dec 2018 21:15:42 +0000|Sun, 30 Dec 2018 21:15:42 +0000
+846fb06d1bc9022e6c7ec2f9d4070b5ddea5f45a|update incorrect comment|Sun, 30 Dec 2018 20:43:42 +0000|Sun, 30 Dec 2018 20:43:42 +0000
+89ab9a973129256771e03a29d14159948243dbe1|[ci skip] readme update|Sun, 30 Dec 2018 14:05:57 +0000|Sun, 30 Dec 2018 14:05:57 +0000
+12aed482172aad3de75b1995e84c988cab1d06d6|simplify .travis.yml file|Sat, 29 Dec 2018 10:38:48 +0000|Sat, 29 Dec 2018 10:38:48 +0000
+611ed546f94aef142b1f38b58f646419b5aa3877|reduce change of false negative in sample tests|Sat, 29 Dec 2018 10:24:53 +0000|Sat, 29 Dec 2018 10:24:53 +0000
+138a0e84cec3f9a6e7507ea3f3622f48e73af121|delete dead property 'name' from manifest.json|Sat, 29 Dec 2018 10:23:19 +0000|Sat, 29 Dec 2018 10:23:19 +0000
+356f84df7491a70e9e58c782ec6c2ddf5a60f134|added failing test for kata containing name property which needs to be stripped out|Sat, 29 Dec 2018 10:21:39 +0000|Sat, 29 Dec 2018 10:21:39 +0000
+66a07607382cb859afffd5121de17aa4e1a9e6b8|drop prometheus/grafana from test runs|Sat, 29 Dec 2018 10:04:38 +0000|Sat, 29 Dec 2018 10:04:38 +0000
+8cc00450be17aead04267b3fded0c198458baa61|fix failing test for manifest with null exercise entry|Sat, 29 Dec 2018 10:00:35 +0000|Sat, 29 Dec 2018 10:00:35 +0000
+0af0815c609fec9d5ac97da01f3a9b26fd88dc81|added failing test for katas whose manifest has a null exercise entry|Sat, 29 Dec 2018 09:58:03 +0000|Sat, 29 Dec 2018 09:58:03 +0000
+3d31347050a3cf7c515d3f25f43407bcb1cb839e|kata_exists?() must also check DELETED.marker file|Sat, 29 Dec 2018 02:20:07 +0000|Sat, 29 Dec 2018 02:20:07 +0000
+63f9f02d3cc0986fb9c99c16ba951e51f4fc6f17|katas_completions() now does not list deleted katas even if permissions prevent actual dir deletion|Fri, 28 Dec 2018 22:04:45 +0000|Fri, 28 Dec 2018 22:04:45 +0000
+892bc46184253ed997d54116a30e9c6463281d07|added failing test for katas_completions() still seeing deleted kata|Fri, 28 Dec 2018 21:40:14 +0000|Fri, 28 Dec 2018 21:40:14 +0000
+9df067fa4aca459f081c381812771c09f1c19489|[ci skip] added notes on problem with kata_delete()|Fri, 28 Dec 2018 19:25:23 +0000|Fri, 28 Dec 2018 19:25:23 +0000
+c3bd45c3717b02ef6d5fa8e1b110ae6bc3f94abd|refactoring; test tidying|Fri, 28 Dec 2018 11:33:45 +0000|Fri, 28 Dec 2018 11:33:45 +0000
+8b60f07a7c62ee0e6a604f240b5f41df3cdb4196|fix new failing test for data error where some avatars had no increments.json file|Fri, 28 Dec 2018 10:49:26 +0000|Fri, 28 Dec 2018 10:49:26 +0000
+af05ccca36c251cf289fbdb02a28d73265b65a9d|added new failing test for data error discovered by porter|Fri, 28 Dec 2018 10:44:09 +0000|Fri, 28 Dec 2018 10:44:09 +0000
+4b47d56f952e6ce25e2dd82c86e7e68e0eebf264|fix incorrect readme info|Thu, 27 Dec 2018 08:18:12 +0000|Thu, 27 Dec 2018 08:18:12 +0000
+130f329bd9801b221ce3eafdd4bb5afc05d54821|do proper ready/clean tests when bringing up server|Tue, 25 Dec 2018 11:47:14 +0000|Tue, 25 Dec 2018 11:47:14 +0000
+aa5483cc066f4eae8167f243a76168ca12fdd60d|drop unneeded [bundle exec] from up.sh which prevents test for clean startup|Tue, 25 Dec 2018 11:42:29 +0000|Tue, 25 Dec 2018 11:42:29 +0000
+3567c16e634b30e6d296f48002d2b5f85dc3fae4|increase sample size in tests to reduce false reds|Tue, 25 Dec 2018 11:40:02 +0000|Tue, 25 Dec 2018 11:40:02 +0000
+0e228d59eff490577b16da4802826ae1ff26f791|refactoring; tidy scripts|Tue, 25 Dec 2018 11:31:56 +0000|Tue, 25 Dec 2018 11:31:56 +0000
+eb016b7185acf7d4cc1fc6e87a33edd8836b67b4|install git in Dockerfile now that rack-base does not|Tue, 25 Dec 2018 11:28:54 +0000|Tue, 25 Dec 2018 11:28:54 +0000
+e95b535449d33826423d22a7d493c5c1af19f24e|ensure docker logs are clean on startup|Mon, 24 Dec 2018 17:14:19 +0000|Mon, 24 Dec 2018 17:14:19 +0000
+5f163c7d1449ae68125bade9749c04e3a62d8c17|delete dead test code; sample-test refactoring: improve diagnostic, increase repeat count to decrease likelihood of false negative|Mon, 24 Dec 2018 09:56:17 +0000|Mon, 24 Dec 2018 09:56:17 +0000
+9f0a9d04846fb52c39fee1c20e8a9b8b772ce6c5|added sample_id10/sample_id2 to rack API|Mon, 24 Dec 2018 09:47:38 +0000|Mon, 24 Dec 2018 09:47:38 +0000
+121561b2e1d57c0d68a0deb269ee9d28f3d7b904|change implementation of sample_id10 to be fast even for large data-container|Mon, 24 Dec 2018 09:18:30 +0000|Mon, 24 Dec 2018 09:18:30 +0000
+7efc7b692674c56a95137a7626165174a583579a|added code/test for sample_id2 method|Mon, 24 Dec 2018 09:08:32 +0000|Mon, 24 Dec 2018 09:08:32 +0000
+3ec0ffb2ef95970f760760bb35305670122e5ff3|add sample_id10 implementation|Mon, 24 Dec 2018 09:02:12 +0000|Mon, 24 Dec 2018 09:02:12 +0000
+71324b0c69b6dde2125c192038820774c542284d|added first failing test for new sample_id10 method (to help porter)|Mon, 24 Dec 2018 08:28:35 +0000|Mon, 24 Dec 2018 08:28:35 +0000
+43cebd9e50fd07120f5fe168ba6cb2f90e2fc4e4|[ci skip] added note on why not using CircleCI|Sun, 23 Dec 2018 06:55:21 +0000|Sun, 23 Dec 2018 06:55:21 +0000
+ef6155ae536d0434b18e61ee9500f5140aa043ff|don't deploy image to beta, storer is only needed for porter script on old servers|Sun, 23 Dec 2018 06:52:00 +0000|Sun, 23 Dec 2018 06:52:00 +0000
+166512ea6d1fcb477ee4a72a750a14388d74a9f2|refactoring; capture duplication in CircleCI/config.yml|Sun, 23 Dec 2018 06:45:54 +0000|Sun, 23 Dec 2018 06:45:54 +0000
+2de25619a2260d7cbd29c13f330c8a155a3b3d8c|use env-var to set SHA, use WORKDIR to simplify Dockerfile, update shell test with new expected-stderr (Alpine new version)|Sun, 23 Dec 2018 06:42:20 +0000|Sun, 23 Dec 2018 06:42:20 +0000
+619abea1fb1b3b4937075441fab522b41635e742|refactoring; rename variable which was hiding variable with same name in outer scope|Thu, 20 Dec 2018 16:25:11 +0000|Thu, 20 Dec 2018 16:25:11 +0000
+c1abc5db38eef889b4897cbb0ddcff6a2a4c587d|docker-compose on Travis needs -d option|Sat, 8 Dec 2018 13:56:19 +0000|Sat, 8 Dec 2018 13:56:19 +0000
+178f40abe54d859fc9fcb75a7ff5c74c329e266f|fix broken test|Sat, 8 Dec 2018 11:10:08 +0000|Sat, 8 Dec 2018 11:10:08 +0000
+c7cc354a7b8b4b10d9d673f50e454b36b331de0e|added entry for one-time only custom-start-point called [git,bash]|Sun, 18 Nov 2018 11:15:05 +0000|Sun, 18 Nov 2018 11:15:05 +0000
+89b59d41ffa9f0a7f344e45f58636a91b6d0055f|refactoring; handle Java,JUnit-Mockito as a rename|Sun, 18 Nov 2018 07:15:16 +0000|Sun, 18 Nov 2018 07:15:16 +0000
+52a1e6a50761d9a23dc8aa7ca58095945ed9450c|refactoring|Sun, 18 Nov 2018 07:00:25 +0000|Sun, 18 Nov 2018 07:00:25 +0000
+ada5c238d4d6e40b27007907ccf1293741e157ea|refactoring; simplify hash.find|Sat, 17 Nov 2018 18:56:11 +0000|Sat, 17 Nov 2018 18:56:11 +0000
+6b9af662312def495d8d60c7d50366fa186c1ef3|refactoring; use destructuring in tests|Sat, 17 Nov 2018 17:56:07 +0000|Sat, 17 Nov 2018 17:56:07 +0000
+2f3833989786855cff43b6bc499f6c2491e399c8|refactoring; rename test file|Sat, 17 Nov 2018 17:55:18 +0000|Sat, 17 Nov 2018 17:55:18 +0000
+d66f65c23ef398e13fe0f17976b26d3efef9b8cc|added test for Updating manifests from custom sessions that have no runner_choice|Sat, 17 Nov 2018 17:43:57 +0000|Sat, 17 Nov 2018 17:43:57 +0000
+33538d1b76237484a1fcc35789d4f36928b06685|added more test cases to 0D4 (missing entries in Updater's cache)|Sat, 17 Nov 2018 17:28:33 +0000|Sat, 17 Nov 2018 17:28:33 +0000
+2c8f4308d5c8a9e762108cea3d1cd64f32a3a408|refactoring|Sat, 17 Nov 2018 17:18:03 +0000|Sat, 17 Nov 2018 17:18:03 +0000
+0537668ab30be26e445046448970fa601b525a65|added missing entry for 'Clojure, .test' to Updater|Sat, 17 Nov 2018 17:08:19 +0000|Sat, 17 Nov 2018 17:08:19 +0000
+b209ea4d5a6978b26873ad34cfc43426d19cd2de|added missing entry for 'C (gcc), Unity' to Updater|Sat, 17 Nov 2018 17:00:20 +0000|Sat, 17 Nov 2018 17:00:20 +0000
+306cbf9072a5076d51566e0ba7b8559525968100|porter tests found some more deleted manifest properties|Sat, 17 Nov 2018 16:47:55 +0000|Sat, 17 Nov 2018 16:47:55 +0000
+409e13bada2a7c67aa35a476e4bd30d7e593ef25|refactoring; give test-placeholder name its now concrete name|Sat, 17 Nov 2018 15:09:07 +0000|Sat, 17 Nov 2018 15:09:07 +0000
+a6179a0e46a6789cf73d4afee082015ece7dc4b1|adding missing entries to Updater.cache|Sat, 17 Nov 2018 14:10:09 +0000|Sat, 17 Nov 2018 14:10:09 +0000
+f1683cb885105d6b41f882aa1fe8391bdc2be171|only use required test-data|Fri, 16 Nov 2018 15:00:45 +0000|Fri, 16 Nov 2018 15:00:45 +0000
+46a3bb7c1f25a9caff31ed9b8891da98e719b085|refactoring; use faster parse! method for already stored json|Wed, 14 Nov 2018 11:44:26 +0000|Wed, 14 Nov 2018 11:44:26 +0000
+c05dd54d3be7ba7ef92c7af1ec25089e1e824c6f|ensure returned manifest contains filename_extension as an array|Fri, 2 Nov 2018 08:07:28 +0000|Fri, 2 Nov 2018 08:07:28 +0000
+9b88cc8cd9d8ab03a085001c84c1515ec213904c|refactoring|Fri, 2 Nov 2018 06:34:25 +0000|Fri, 2 Nov 2018 06:34:25 +0000
+3d23588793e751d0db8e88bde28527fc94e44690|moved src/ and test/ from server/ to root dir|Mon, 29 Oct 2018 22:48:59 +0000|Mon, 29 Oct 2018 22:48:59 +0000
+0351c0cd083f92593297494861b56b37404a15f3|moved md files into docs/|Mon, 29 Oct 2018 22:46:34 +0000|Mon, 29 Oct 2018 22:46:34 +0000
+d7d19a2413dabf904b88c0015495ff83cf1b4a3c|test data now comes from dedicated image|Mon, 29 Oct 2018 22:45:35 +0000|Mon, 29 Oct 2018 22:45:35 +0000
+fb676376aa3efe6392a4fbef2cd079006d437cbe|implemented new katas_completed()|Sat, 20 Oct 2018 13:59:01 +0100|Sat, 20 Oct 2018 13:59:01 +0100
+c2acd92e0250b444eeb89e20e9cfba1ea8f81ba0|delete dead code/tests|Sat, 20 Oct 2018 13:49:10 +0100|Sat, 20 Oct 2018 13:49:10 +0100
+4400d0b6562f57c6755528bc1a3c1bab88962005|updated readme to new api for katas_completed|Sat, 20 Oct 2018 13:46:45 +0100|Sat, 20 Oct 2018 13:46:45 +0100
+be0b90a33108a5abfe0179bea53bde122b2324de|readme update|Sat, 20 Oct 2018 13:31:51 +0100|Sat, 20 Oct 2018 13:31:51 +0100
+f5fede778de059d4b934bfc671feda48ef7ce49b|set user in Dockerfile|Fri, 19 Oct 2018 06:46:46 +0100|Fri, 19 Oct 2018 06:46:46 +0100
+cd3ced285948f0314c5c556e57003c94be03f180|refactoring s/STORAGE_COVERAGE_ROOT/COVERAGE_ROOT/|Fri, 19 Oct 2018 06:44:21 +0100|Fri, 19 Oct 2018 06:44:21 +0100
+dae8cf17b88e2633b880100f6c037744c8f14eea|run tests as the target user and not as root|Fri, 19 Oct 2018 06:40:57 +0100|Fri, 19 Oct 2018 06:40:57 +0100
+b942923baa43ac2354e8a3b0c1d46b83647add05|fix failing test|Thu, 18 Oct 2018 12:54:32 +0100|Thu, 18 Oct 2018 12:54:32 +0100
+3e86b133d04ff798711f1d23cdcc202916d28ea9|added kata_delete() to API for porter|Wed, 17 Oct 2018 14:31:00 +0100|Wed, 17 Oct 2018 14:31:00 +0100
+67085884d82fbad7dedbd0344ffd58c5e2f0ac41|do test that lowlight_filenames has been dropped in different tests|Tue, 16 Oct 2018 09:35:34 +0100|Tue, 16 Oct 2018 09:35:34 +0100
+5827abca47746922f57de1cd71f0ac455a6d8c0a|remove lowlight_filenames from manifest|Tue, 16 Oct 2018 09:31:33 +0100|Tue, 16 Oct 2018 09:31:33 +0100
+595712687c0958b522f76b695fa62f41ff2aa76a|added more info to log/exception message|Tue, 16 Oct 2018 08:09:40 +0100|Tue, 16 Oct 2018 08:09:40 +0100
+5be098e82c2076e51f39005a72c20e2b3f8fbbcf|make log output prettier|Tue, 16 Oct 2018 08:05:58 +0100|Tue, 16 Oct 2018 08:05:58 +0100
+1d761f0cd4ba7d91d569be3afb8c734b66d4523c|make name of exception more specific|Tue, 16 Oct 2018 07:58:17 +0100|Tue, 16 Oct 2018 07:58:17 +0100
+ee4c5a986f2995d464ae3b157851edb8e980dd59|refactoring|Mon, 15 Oct 2018 10:50:01 +0100|Mon, 15 Oct 2018 10:50:01 +0100
+0c15105f1a996fd8f375aa29e172a19bd1ac95ed|test catchup|Mon, 15 Oct 2018 10:49:50 +0100|Mon, 15 Oct 2018 10:49:50 +0100
+a27316c0775f69cde0cffd0b3a705ed0dc73ba69|set storer user in docker-compose.yml only as spike to get k8s up|Sun, 23 Sep 2018 06:11:51 +0100|Sun, 23 Sep 2018 06:11:51 +0100
+7330ad0034f8537a34a73ab6d3a0b31b7cb6ae9f|deleted iid() method, put only into 'refitter' service|Sat, 15 Sep 2018 09:02:31 +0100|Sat, 15 Sep 2018 09:02:31 +0100
+5ddc50187714409f7386eac2be5a2e83c8b9f455|turn off --reuse-values in .circleci/config.yml to try and get storer deploying|Fri, 14 Sep 2018 18:18:10 +0100|Fri, 14 Sep 2018 18:18:10 +0100
+7254616b4ab7170008d9f99c7b11cd8535f9a49f|improve iid tests|Fri, 14 Sep 2018 16:24:34 +0100|Fri, 14 Sep 2018 16:24:34 +0100
+c6dbd2adcb550a5d56bf407330b8aa4510786985|[ci skip] move readme into root dir|Fri, 14 Sep 2018 16:19:14 +0100|Fri, 14 Sep 2018 16:19:14 +0100
+7292e8047e1f07c95714f877099a429cfe9b5aab|added iid() method ready for introducing new singler/grouper services|Fri, 14 Sep 2018 16:18:47 +0100|Fri, 14 Sep 2018 16:18:47 +0100
+d0c0ae53c59ffc6589e7ac9f5bd5ec162396a892|force a circle-ci run|Sun, 9 Sep 2018 08:36:04 +0100|Sun, 9 Sep 2018 08:36:04 +0100
+790f59aaf354fe9af6ae8b6b1ce970be2156748a|[ci skip] readme update|Sat, 8 Sep 2018 09:06:14 +0100|Sat, 8 Sep 2018 09:06:14 +0100
+632a4c92e0e77956f29e3badeee4ef51b609c87b|refactoring|Fri, 7 Sep 2018 09:48:11 +0100|Fri, 7 Sep 2018 09:48:11 +0100
+a104c63d2f00418806003f95185241787fb14848|refactoring|Fri, 7 Sep 2018 07:51:26 +0100|Fri, 7 Sep 2018 07:51:26 +0100
+a4a7b1b7e3c9ff40822cfe11f2ff82048a51832e|refactoring|Fri, 7 Sep 2018 07:03:24 +0100|Fri, 7 Sep 2018 07:03:24 +0100
+9977784f2e0c6fe6d2987e697d703ce07224bb20|refactoring|Thu, 6 Sep 2018 18:23:15 +0100|Thu, 6 Sep 2018 18:23:15 +0100
+33825c603c8ff5754ba94acb2c75af2b61980f36|refactoring|Thu, 6 Sep 2018 18:21:49 +0100|Thu, 6 Sep 2018 18:21:49 +0100
+e030b9f3fd1da41dac3b86779f83cdc1a102a8b8|refactoring|Thu, 6 Sep 2018 16:43:13 +0100|Thu, 6 Sep 2018 16:43:13 +0100
+f0abbfd51fef26b2575de2d941d1a3de98eb507e|refactoring|Thu, 6 Sep 2018 16:18:17 +0100|Thu, 6 Sep 2018 16:18:17 +0100
+0b10b7e07e7fda937f3beb9a8310804997d532c3|improved error handling by distinguishing 400/500 status|Thu, 6 Sep 2018 16:02:06 +0100|Thu, 6 Sep 2018 16:02:06 +0100
+5e0611db1b453fab9789fa78745b157323f9c2d1|exceptions are now logged to stderr and returned as content of 400 message|Thu, 6 Sep 2018 11:08:52 +0100|Thu, 6 Sep 2018 11:08:52 +0100
+b9683bfb9b8f9ace4d317f01724e25758687a72c|use cyberdojo/rack-base as base image in Dockerfile for faster builds|Tue, 4 Sep 2018 09:25:28 +0100|Tue, 4 Sep 2018 09:25:28 +0100
+dc690cd362c9905f38c9a573ac1f941e1925dd2f|[ci skip] notes correction|Sun, 2 Sep 2018 18:02:08 +0100|Sun, 2 Sep 2018 18:02:08 +0100
+8f88ef04eb8e89519551476fdd7ab37030fc79e5|Dockerfile tidyup|Sun, 2 Sep 2018 08:23:13 +0100|Sun, 2 Sep 2018 08:23:13 +0100
+6226bac9bb52290916aebeba8a18dc93b2acd0a0|moved Dockerfile build args directly into Dockerfile|Sun, 2 Sep 2018 07:59:51 +0100|Sun, 2 Sep 2018 07:59:51 +0100
+880f9e32d221af024ff15755ae55bd4e6b9198ba|dropped CYBER_DOJO_KATAS_ROOT from docker-compose yml file environment to simplify circle-ci k8s pipeline|Sun, 2 Sep 2018 07:48:43 +0100|Sun, 2 Sep 2018 07:48:43 +0100
+561521e162f982c2ae636447dbccaae5f9705ee5|fixup failing test|Sun, 2 Sep 2018 07:29:04 +0100|Sun, 2 Sep 2018 07:29:04 +0100
+b896fc9b33ec3dc604d24b84243e356c329f6472|used the same CYBER_DOJO_KATAS_ROOT env-var value for prod and test|Sun, 2 Sep 2018 07:25:58 +0100|Sun, 2 Sep 2018 07:25:58 +0100
+44663656c7f93799d5fef020860ab506401f1af4|included test/ inside image directly and dropped volume mount of test/|Sun, 2 Sep 2018 07:01:29 +0100|Sun, 2 Sep 2018 07:01:29 +0100
+9d6cb3ee283aef3c2dd07be4b0439914860bc879|removed STARTER_SERVICE_PORT env-var and inlined it|Sat, 1 Sep 2018 14:17:01 +0200|Sat, 1 Sep 2018 14:17:01 +0200
+7ef289a771a6d3213932592854bf5a6461c6862c|removed more env-vars to simplify circle-ci k8s pipeline|Sat, 1 Sep 2018 14:14:24 +0200|Sat, 1 Sep 2018 14:14:24 +0200
+9517def8a07bb34a0e3d9fb95d5b7c5f66054bec|remove PORT env-vars from .env file and docker-compose.yml environment; use explicit settings; simplifies circle-ci k8s pipeline|Sat, 1 Sep 2018 14:01:44 +0200|Sat, 1 Sep 2018 14:01:44 +0200
+960480612fba2deaaef7272a96bf0c0de530f859|refactoring; better test name|Sat, 1 Sep 2018 12:03:37 +0200|Sat, 1 Sep 2018 12:03:37 +0200
+62988332fd35631756b023d254ed57c392daf043|moved exposing server's port out of docker-compose.yml and into Dockerfile; simplifies circle-ci k8s pipeline|Sat, 1 Sep 2018 11:44:28 +0200|Sat, 1 Sep 2018 11:44:28 +0200
+0a71ae0a9595de2be4cd19ca9563bddaeffd7172|moved ALPINE_VERSION env-var out of .env file|Sat, 1 Sep 2018 11:31:31 +0200|Sat, 1 Sep 2018 11:31:31 +0200
+6c8f90355b5c9695e5f01612c47c1fddce036464|reduced uniqueness test limit on base58 test|Sat, 1 Sep 2018 11:27:16 +0200|Sat, 1 Sep 2018 11:27:16 +0200
+6ca9d9f1119bfeb47b710910ed224fdf83a77ff8|moved STORER_COVERAGE_ROOT out of env-var and docker-compose.yml to simplify circle-ci k8s pipeline|Sat, 1 Sep 2018 11:25:52 +0200|Sat, 1 Sep 2018 11:25:52 +0200
+335180ed27a1ae792030b94863ddd34b8ef6af39|added .circleci/config.yml file|Fri, 31 Aug 2018 19:48:44 +0200|Fri, 31 Aug 2018 19:48:44 +0200
+72d7f1e1d6d0645f9d77817912113386c7e6588b|[ci skip] delete dead script|Fri, 31 Aug 2018 08:29:03 +0200|Fri, 31 Aug 2018 08:29:03 +0200
+486473143ce5e38bdb9de1e26af54ebdcd4817fb|added test-case for custom display_name being correctly handled by updater|Fri, 31 Aug 2018 08:28:20 +0200|Fri, 31 Aug 2018 08:28:20 +0200
+889dcc0d09cb980c11dd3f28cc6fbfbb8d04751e|fixed bug which prevented custom start-points from updating properly; if they have an image name then do no change it based on the display name|Fri, 31 Aug 2018 07:02:12 +0200|Fri, 31 Aug 2018 07:02:12 +0200
+06a8c69bde6f6d3e2f28b339df4d790076f25e07|use correct env-var in script|Tue, 28 Aug 2018 07:55:27 +0200|Tue, 28 Aug 2018 07:55:27 +0200
+8ac519fc7695e6a71302886a2722ea0e37c33e03|ensure sha.txt get inside docker image|Tue, 28 Aug 2018 07:51:01 +0200|Tue, 28 Aug 2018 07:51:01 +0200
+1e8362066db59cc025b0268ba4dee0f9573cfb0e|refactoring; delete unneeded expressions from docker-compose.yml|Mon, 9 Jul 2018 14:18:01 +0100|Mon, 9 Jul 2018 14:18:01 +0100
+680197d77b53322be010a666d418693d6c8d620b|upgrade to Alpine 3.7|Mon, 9 Jul 2018 14:01:00 +0100|Mon, 9 Jul 2018 14:01:00 +0100
+24fde15e3810bad245b4399eef520b47a4fecccd|move starter env-var values into env.test file|Sun, 8 Jul 2018 18:26:51 +0100|Sun, 8 Jul 2018 18:26:51 +0100
+e4c57302f8baaf604a73b8024e00b601ee25d58e|use STORER_HOME env-var|Sun, 8 Jul 2018 17:50:02 +0100|Sun, 8 Jul 2018 17:50:02 +0100
+c43ab0665fabd9353335dd655b852058aca010ae|use STORER_COVERAGE_ROOT as env-var|Sun, 8 Jul 2018 17:17:54 +0100|Sun, 8 Jul 2018 17:17:54 +0100
+314484c0f44cc3f9fa5d3dbb7f6a62abe0060329|add missing .to_i to port|Sun, 8 Jul 2018 17:02:19 +0100|Sun, 8 Jul 2018 17:02:19 +0100
+25ebd0c9f07cc0f45cc100133d2f0405f29d59aa|set ports via env-vars and not hard-wired in Dockerfiles|Sun, 8 Jul 2018 16:35:48 +0100|Sun, 8 Jul 2018 16:35:48 +0100
+525625bc1dbf8c69b1c07229e7b57e19ec9d7ae6|dropped CYBER_DOJO_ prefix from env-vars naming ports|Sun, 8 Jul 2018 16:24:27 +0100|Sun, 8 Jul 2018 16:24:27 +0100
+182b82319dd871f9036a29e2a33f1bbb15e0923c|make alpine-base image version explicit at 3.6 as 3.7 is causing build failure 'uninitialized constant #<Class:Bundler>::Etc (NameError)'|Sun, 8 Jul 2018 12:30:55 +0100|Sun, 8 Jul 2018 12:30:55 +0100
+f4fa3d4cc6e49d812f3037869eefbd71c37ac3eb|[ci skip] readme update|Mon, 4 Jun 2018 15:32:56 +0100|Mon, 4 Jun 2018 15:32:56 +0100
+b7ab525ebaaebf31bf81fddf33fcf54d3bb9e744|return increments from avatar_ran_tests() as optimization to save a second storer call in web's run_tests controller|Sun, 3 Jun 2018 17:59:05 +0100|Sun, 3 Jun 2018 17:59:05 +0100
+819e2ffafe19ccf832aadcbd2cf9ea2696307c88|return increments from avatar_ran_tests() as optimization to save a second storer call in web's run_tests controller|Sun, 3 Jun 2018 17:58:49 +0100|Sun, 3 Jun 2018 17:58:49 +0100
+d09b99080b94f598cea96c0fc9c235aa48796b31|refactoring; delete dead code (assert is already done in tag_visible_files)|Sun, 3 Jun 2018 12:54:53 +0100|Sun, 3 Jun 2018 12:54:53 +0100
+9d9e0f6d355544c2bf641c98efcc8660a14ef934|fixed bug introduced by recent 'refactoring'|Sun, 3 Jun 2018 11:37:56 +0100|Sun, 3 Jun 2018 11:37:56 +0100
+b5e02d1dd01a55c15af4396922710cc22b12cd63|refactoring; rename rag_count() to most_recent_tag() and change implementation back to one more sympathetic to non test event tags|Sat, 2 Jun 2018 16:59:43 +0100|Sat, 2 Jun 2018 16:59:43 +0100
+6755d48685a068921e999312e0a800121ce49f03|refactoring; delete redudant preconditions (avatar dir is a sub-dir of kata dir)|Sat, 2 Jun 2018 15:12:01 +0100|Sat, 2 Jun 2018 15:12:01 +0100
+294e5cfea84023df4a7090903f0e3ba58da7c76e|[ci skip] notes update|Sat, 2 Jun 2018 14:45:22 +0100|Sat, 2 Jun 2018 14:45:22 +0100
+b635707d4b73a3dae1f462f4f067bfedf8b86777|[ci skip] copy some notes/scripts from converter repo detailing how to get test data|Sat, 2 Jun 2018 12:57:25 +0100|Sat, 2 Jun 2018 12:57:25 +0100
+86c5c3f887df36b8a5d55cbc73d8d3444fa65c5c|refactoring; calculate the last traffic-light number using documented file format so it will work when events other than traffic-lights from test events are recorded|Sat, 2 Jun 2018 12:14:02 +0100|Sat, 2 Jun 2018 12:14:02 +0100
+9e81c0aa344133d17a6aebf7cec0c92c63eb4b4e|added hidden_filenames manifest option|Thu, 17 May 2018 15:29:46 +0100|Thu, 17 May 2018 15:29:46 +0100
+8946f431625e0fae7a2f3536ab8c99f8e5e5d52c|filter out kata IDs (base58 string) that contain lowercase 'ell' or uppercase 'ell'|Mon, 30 Apr 2018 09:13:14 +0100|Mon, 30 Apr 2018 09:13:14 +0100
+27a91f4e91365498eadf1f3b5843f50acefd15b6|refactoring; simplify base58 code|Mon, 30 Apr 2018 08:55:09 +0100|Mon, 30 Apr 2018 08:55:09 +0100
+4277d4e8aab1ff04a038fc41a96c1bb3644d8f82|[ci skip] readme tweak|Sun, 29 Apr 2018 21:09:27 +0100|Sun, 29 Apr 2018 21:09:27 +0100
+b74fe76ef543544faeebc5a5a1b8b0b15340de0b|[ci skip] use sha from storer's history|Sun, 29 Apr 2018 21:02:47 +0100|Sun, 29 Apr 2018 21:02:47 +0100
+adc763611e09497bdfcb892391fe4b379e76aca8|added sha() to the APU; returns git commit for the image|Sun, 29 Apr 2018 21:00:21 +0100|Sun, 29 Apr 2018 21:00:21 +0100
+afe46e4bba4c7c5b630ef7fceda52f29001a10da|refactoring; use env-var in Dockerfile|Sun, 29 Apr 2018 16:34:42 +0100|Sun, 29 Apr 2018 16:34:42 +0100
+c666eb91ca8f9e1b5142e40afbbf6f6e22f14d5c|refactoring; bash quote style|Sun, 29 Apr 2018 16:16:15 +0100|Sun, 29 Apr 2018 16:16:15 +0100
+4726b8e2d49a5915a17d9751a7d291a42e536f93|refactoring; put quotes around use of bash variables|Sun, 29 Apr 2018 15:50:54 +0100|Sun, 29 Apr 2018 15:50:54 +0100
+a3f97bc01ed146aeb7a80c37c1812e2e0d4d81a4|refactoring; replace underscore with hyphen in image/container names (cant use underscore in a hostname)|Sun, 29 Apr 2018 13:12:34 +0100|Sun, 29 Apr 2018 13:12:34 +0100
+11fa4e8f2285ac86a478eb8211182fe3ecac742e|put file containing git sha into the docker image|Sun, 29 Apr 2018 13:05:33 +0100|Sun, 29 Apr 2018 13:05:33 +0100
+106d8786e1e33c675baeff1eb230a0bf69ecbb33|refactoring; .sh file improvements|Mon, 2 Apr 2018 15:42:37 +0100|Mon, 2 Apr 2018 15:42:37 +0100
+c55110f3b4724eaab41b70310ad6394b79341b99|refactoring|Sun, 1 Apr 2018 07:50:43 +0100|Sun, 1 Apr 2018 07:50:43 +0100
+324fc0b06d3032508385311091128fe3780ce653|filename_extension is now a required manifest parameter and can be a string or an array of strings|Thu, 29 Mar 2018 21:17:33 +0100|Thu, 29 Mar 2018 21:17:33 +0100
+691dbdfe9c89793d743f1b2155004e4957384d05|[ci skip] readme update|Thu, 29 Mar 2018 09:28:03 +0100|Thu, 29 Mar 2018 09:28:03 +0100
+20e0ce8e6a1ff51c109cf5eeea532f4fc9655a71|[ci skip] readme update|Thu, 29 Mar 2018 09:26:13 +0100|Thu, 29 Mar 2018 09:26:13 +0100
+57ab6f92bfa5360d855743f1e4f18f8cee9463bf|[ci skip] readme update|Thu, 29 Mar 2018 05:44:16 +0100|Thu, 29 Mar 2018 05:44:16 +0100
+aa074ce1f67c067147bfa135a4e26cf67f8c92fd|[ci skip] readme update|Thu, 29 Mar 2018 05:35:43 +0100|Thu, 29 Mar 2018 05:35:43 +0100
+82add758d0eda19ce7778586158e35c6301eeac4|added last missing rack-dispatcher test|Thu, 29 Mar 2018 05:28:45 +0100|Thu, 29 Mar 2018 05:28:45 +0100
+03a003aa39c8cf049adce0844fd78040495222e4|added missing rack-dispatcher test|Thu, 29 Mar 2018 05:21:46 +0100|Thu, 29 Mar 2018 05:21:46 +0100
+39ddedf7a98b2c6b1f9a239af3d56cbcb2d31bc2|refactoring; delete dead code|Wed, 28 Mar 2018 21:46:24 +0100|Wed, 28 Mar 2018 21:46:24 +0100
+4d9358761d3a1f4c9d9d9fd3b1662fbbce5b5c21|refactoring; speed up base58 tests|Wed, 28 Mar 2018 21:41:07 +0100|Wed, 28 Mar 2018 21:41:07 +0100
+e87e07c67cbf63efe8815ea1ca4d3b78f115a68e|refactoring; delete dead tests|Wed, 28 Mar 2018 21:27:10 +0100|Wed, 28 Mar 2018 21:27:10 +0100
+cb109732b118d44a8e357e36b679412cfc99e3f7|now have one dispatch test for each method in the API|Wed, 28 Mar 2018 21:19:04 +0100|Wed, 28 Mar 2018 21:19:04 +0100
+3d696b4269fd03176e263d03e5f2c63dc05e86f1|add missing external tests|Wed, 28 Mar 2018 20:49:50 +0100|Wed, 28 Mar 2018 20:49:50 +0100
+3b805ae90b816165011b34a20234ce68e900a308|refactoring; start looser-coupled rack-dispatcher tests|Wed, 28 Mar 2018 20:47:07 +0100|Wed, 28 Mar 2018 20:47:07 +0100
+cd50c941e55e14b9bbfada17122656ab6b9c92c2|refactoring; looser coupling|Wed, 28 Mar 2018 20:18:59 +0100|Wed, 28 Mar 2018 20:18:59 +0100
+53a1e17cde1f79a94db2e177c617b991b4449a8d|refactoring; put Externals into their own class for better decoupling|Wed, 28 Mar 2018 20:16:28 +0100|Wed, 28 Mar 2018 20:16:28 +0100
+87707e167ed0d21b530f8d5359f2f1cc7c8dc880|refactoring; working to decouple dispatcher tests|Wed, 28 Mar 2018 19:48:07 +0100|Wed, 28 Mar 2018 19:48:07 +0100
+9f7542b41affdacc4cfc269f296634e9862fca2a|added dedicated tests for well-formed-args|Wed, 28 Mar 2018 19:26:29 +0100|Wed, 28 Mar 2018 19:26:29 +0100
+55f12ec55ab28e2a11d8ca853216a69014bfcacd|refactoring; test tweaks|Wed, 28 Mar 2018 17:33:12 +0100|Wed, 28 Mar 2018 17:33:12 +0100
+ea4717dbcecb8b036b4ce3452e016b1fbe5c0ac0|comment out debug puts statements|Wed, 28 Mar 2018 12:19:28 +0100|Wed, 28 Mar 2018 12:19:28 +0100
+8a2beda3d4cccd1fe696b74bbfce3e73f5716a13|refactoring; improve katas_completions test|Wed, 28 Mar 2018 12:14:02 +0100|Wed, 28 Mar 2018 12:14:02 +0100
+2c8447f631ba4594cba19e11ca480e2fa74798c2|added missing optional key 'exercise' to manifest; adding missing info to client side manifest test data|Wed, 28 Mar 2018 12:03:32 +0100|Wed, 28 Mar 2018 12:03:32 +0100
+f3e39a9065910777ddd508ca72a7c9e4fb721096|added missing required manifest argument 'created'|Wed, 28 Mar 2018 11:39:06 +0100|Wed, 28 Mar 2018 11:39:06 +0100
+2fbdd9f0f3357ebfa18a5767f117cd8a7faf88a1|refactoring; split off rack-dispatcher malformed tests into their own file|Wed, 28 Mar 2018 11:25:56 +0100|Wed, 28 Mar 2018 11:25:56 +0100
+1c6d24e5f61daf3a59ccbc75cc6d4ab46026f14b|full test coverage of well-formed-args class|Wed, 28 Mar 2018 10:17:17 +0100|Wed, 28 Mar 2018 10:17:17 +0100
+fcabedc8954cd5f4c400d4281711418d0e6c3ad8|move argument-checking into its own class|Wed, 28 Mar 2018 09:05:50 +0100|Wed, 28 Mar 2018 09:05:50 +0100
+a41de90d715ac429d425212fe996dca9d4c74316|refactoring; move argument well-formedness checking into its own module|Wed, 28 Mar 2018 07:26:52 +0100|Wed, 28 Mar 2018 07:26:52 +0100
+e34b6caaf808c3483bd2194dde16902828aa2548|added more tests based on rack-dispatcher missing coverage|Tue, 27 Mar 2018 16:45:06 +0100|Tue, 27 Mar 2018 16:45:06 +0100
+7a797809cad4c056de40b89e80a5e16c52d04f73|added more tests based on rack-dispatcher missing coverage|Tue, 27 Mar 2018 14:56:23 +0100|Tue, 27 Mar 2018 14:56:23 +0100
+5f4badfee8566c1bde3cec9fa8ba8f59db3568a1|refactoring; fix test filename typo|Tue, 27 Mar 2018 14:33:46 +0100|Tue, 27 Mar 2018 14:33:46 +0100
+ec46eaa421b16b32707d4efc3263c85f43f8be18|refactoring; delete dead code|Tue, 27 Mar 2018 13:49:37 +0100|Tue, 27 Mar 2018 13:49:37 +0100
+d85adb3bdda5386f7dd83eeb4b80db668519f195|refactoring|Tue, 27 Mar 2018 13:48:16 +0100|Tue, 27 Mar 2018 13:48:16 +0100
+34971733f9eab89ff942121e47b7220c50634ef4|added rack-dispatcher test for malformed avatar_ran_tests() now|Tue, 27 Mar 2018 13:46:04 +0100|Tue, 27 Mar 2018 13:46:04 +0100
+16b7528fcc885f85c8b2443268c93fa34784afce|added rack-dispatcher test for malformed avatar_ran_tests() colour|Tue, 27 Mar 2018 13:41:23 +0100|Tue, 27 Mar 2018 13:41:23 +0100
+85a26704d06412ded88d903d9352f6a019bd4ded|added rack-dispatcher tests for malformed files|Tue, 27 Mar 2018 11:57:44 +0100|Tue, 27 Mar 2018 11:57:44 +0100
+0ed11f8ae69321fea7bee9aaf6c36e79859f0ce8|added rack-dispatcher tests for malformed stdout/stderr|Tue, 27 Mar 2018 10:02:32 +0100|Tue, 27 Mar 2018 10:02:32 +0100
+a26a9c547073cb42fc55ea62f1d723980dacb4c1|put fine-grained argument checking back into tag_fork() because web's forker-controller currently relies on it|Tue, 27 Mar 2018 09:52:30 +0100|Tue, 27 Mar 2018 09:52:30 +0100
+2000b54527ab80ff0a3a3fd3ac674b6837d7dddb|refactoring; delete dead code|Tue, 27 Mar 2018 09:43:59 +0100|Tue, 27 Mar 2018 09:43:59 +0100
+ee26ba3e1070cb0d38b5651f41e098155132e05e|refactoring; delete dead code|Tue, 27 Mar 2018 09:39:02 +0100|Tue, 27 Mar 2018 09:39:02 +0100
+c5b9f487f5d76e6709d377c36e03a812fe37f276|refactoring; delete dead code|Tue, 27 Mar 2018 09:38:26 +0100|Tue, 27 Mar 2018 09:38:26 +0100
+f4a9d4d2f81678267dce16e88674508d7cc7f87d|added todo notes|Tue, 27 Mar 2018 09:37:26 +0100|Tue, 27 Mar 2018 09:37:26 +0100
+dfbfde8b023e54e546b8ff2d51e1026978b15dae|refactoring; delete dead code|Tue, 27 Mar 2018 09:37:10 +0100|Tue, 27 Mar 2018 09:37:10 +0100
+c00627018fee8346d2b3f1571f00e02d114c2361|refactoring|Tue, 27 Mar 2018 09:36:56 +0100|Tue, 27 Mar 2018 09:36:56 +0100
+69f8b2947ee6ca1a3334ad8c58d111674958f280|add missing require|Tue, 27 Mar 2018 09:36:42 +0100|Tue, 27 Mar 2018 09:36:42 +0100
+de949a55e6b04512991f55abc9beed2f2250deb8|rename avatar_names to avatars_names in avatar_start()|Tue, 27 Mar 2018 09:36:12 +0100|Tue, 27 Mar 2018 09:36:12 +0100
+1a65ce8a2517e6856aa61ec158fd4d4108fa1818|added rack-dispatcher tests for malformed avatar_names|Tue, 27 Mar 2018 09:20:49 +0100|Tue, 27 Mar 2018 09:20:49 +0100
+bad812d6f4719c792518576c4271a048894d4fff|added rack-dispatcher tests for malformed was_tag/now_tag|Tue, 27 Mar 2018 08:47:05 +0100|Tue, 27 Mar 2018 08:47:05 +0100
+4497b21ecede5251d6039a81a9905a6c6223788c|add specific argument for katas_completions() method|Mon, 26 Mar 2018 16:57:28 +0100|Mon, 26 Mar 2018 16:57:28 +0100
+f0464a87232607a91774455f0640d424c6000061|refactoring; fix shellcheck .sh warnings|Mon, 26 Mar 2018 16:23:21 +0100|Mon, 26 Mar 2018 16:23:21 +0100
+e5b7c4de5408c392ed63b3b8b863246d1cceb62c|refactor sh file based on shellcheck warnings|Mon, 26 Mar 2018 15:55:00 +0100|Mon, 26 Mar 2018 15:55:00 +0100
+2f30ac7ba78dc687e3113aa0a42d338b35496a0a|added more rack-dispatcher tests|Mon, 26 Mar 2018 13:30:50 +0100|Mon, 26 Mar 2018 13:30:50 +0100
+81869b2c8d1fce996cd1381f012a95450864690d|added first rack-dispatcher test|Mon, 26 Mar 2018 11:06:08 +0100|Mon, 26 Mar 2018 11:06:08 +0100
+d21861347586f0895df1b2be5f563c5b278d8916|save-point|Mon, 26 Mar 2018 08:48:01 +0100|Mon, 26 Mar 2018 08:48:01 +0100
+631c204694707bab09cdafff1a83e92505164b8d|removed old completion methods now web service is using the new ones|Sun, 25 Mar 2018 10:26:10 +0100|Sun, 25 Mar 2018 10:26:10 +0100
+d075b0d25fc0f8a45a0101730638be1b4e35593b|refactoring; improve completion method names and parameters|Sun, 25 Mar 2018 09:13:44 +0100|Sun, 25 Mar 2018 09:13:44 +0100
+238f5266d51be474a1f53ead013ac5624bb65a6b|[ci skip] readme formatting|Wed, 21 Mar 2018 08:14:35 +0000|Wed, 21 Mar 2018 08:14:35 +0000
+d6f322ec75f05de165a5e975d64c3bf38b60b3e9|pass in stdout,stderr instead of output on avatar_ran_tests()|Sun, 18 Mar 2018 06:21:33 +0000|Sun, 18 Mar 2018 06:21:33 +0000
+e95b380cbf093f1686eb6c6c7b904c11c8e4106a|completed() now returns empty string if there is no completion|Sat, 17 Mar 2018 08:21:45 +0000|Sat, 17 Mar 2018 08:21:45 +0000
+291685f4af95dea3b09640bbbfbfbd9a988e31e5|[ci skip] readme update|Sat, 17 Mar 2018 07:11:35 +0000|Sat, 17 Mar 2018 07:11:35 +0000
+2ab902394897decdb0ccec6d51d97e6be229dee1|[ci skip] readme update|Sat, 17 Mar 2018 07:08:42 +0000|Sat, 17 Mar 2018 07:08:42 +0000
+fa7b841a4529a7009cf31491112e6b88c0a96fcf|refactoring; remove old API methods now all clients have moved to new API methods|Fri, 16 Mar 2018 15:15:26 +0000|Fri, 16 Mar 2018 15:15:26 +0000
+17959f8c72316b93167f1af0ad448943e13b2e72|refactoring; simplify API method names|Fri, 16 Mar 2018 14:50:47 +0000|Fri, 16 Mar 2018 14:50:47 +0000
+3338f4ec9a5203f7721b185603f55064a885daf3|add notes on how manifest format changed|Fri, 16 Mar 2018 11:04:16 +0000|Fri, 16 Mar 2018 11:04:16 +0000
+2ffdf985e7136c5de1cf26c0080df6995f9d07de|added simple client-side smoke-tests for tag_fork()|Fri, 16 Mar 2018 10:20:37 +0000|Fri, 16 Mar 2018 10:20:37 +0000
+e52e405a298f625b136dd2fa190c26f8ace1e41a|refactoring|Fri, 16 Mar 2018 10:16:06 +0000|Fri, 16 Mar 2018 10:16:06 +0000
+35e9a7f21c39b750e2ff2d6042b8ca9104a9125f|added tag_fork() method|Fri, 16 Mar 2018 10:12:33 +0000|Fri, 16 Mar 2018 10:12:33 +0000
+e6946bf2e6915ef26ee8718af304e629ed53e507|[ci skip] add comment on maybe dropping lowercase L from kata-id alphabet|Fri, 16 Mar 2018 09:14:29 +0000|Fri, 16 Mar 2018 09:14:29 +0000
+0df9640aaf57b0d555865487f01b94acd6a03b8e|refactoring; simplify kata-updated tests|Fri, 16 Mar 2018 08:55:53 +0000|Fri, 16 Mar 2018 08:55:53 +0000
+1ab8533c5a3a9f5c8479ded6dd03d1a87de93fe0|enhance automatically updated manifest so it added missing filename-extension property|Thu, 15 Mar 2018 15:30:44 +0000|Thu, 15 Mar 2018 15:30:44 +0000
+d92c02b76654f173c3868cde6767e3377d6ccd65|fix incorrect manifest-update cache data|Thu, 15 Mar 2018 15:08:27 +0000|Thu, 15 Mar 2018 15:08:27 +0000
+fc5c92c8dae79951c02f79a14562b8b0d19b022f|kata_manifest() now does returns automatically updated manifest if kata-id refers to an old kata|Thu, 15 Mar 2018 15:03:47 +0000|Thu, 15 Mar 2018 15:03:47 +0000
+28a386421f3d49bc9392b3bd8df42a5c97709e00|[ci skip] notes update|Thu, 15 Mar 2018 11:29:19 +0000|Thu, 15 Mar 2018 11:29:19 +0000
+08d797fa054db59991086dd0143653a3c03750db|refactoring|Tue, 13 Mar 2018 08:55:19 +0000|Tue, 13 Mar 2018 08:55:19 +0000
+7a42c8b3183f05c94817facb3df73fde790e2096|refactoring|Mon, 12 Mar 2018 12:56:30 +0000|Mon, 12 Mar 2018 12:56:30 +0000
+5162298e0203e73bb659b7f0c8b8d33eab29fd3c|refactoring|Mon, 12 Mar 2018 12:08:49 +0000|Mon, 12 Mar 2018 12:08:49 +0000
+cd68970208202c390e580ab791d13de168ccbe36|refactoring|Mon, 12 Mar 2018 11:49:52 +0000|Mon, 12 Mar 2018 11:49:52 +0000
+36b83032c36ad60f2a95eb108adf86313a90744e|switch to using Base58 to generate kata-ids|Mon, 12 Mar 2018 11:20:39 +0000|Mon, 12 Mar 2018 11:20:39 +0000
+07ddaff367157019609a70355829ce9fa3b62999|refactoring|Mon, 12 Mar 2018 10:54:14 +0000|Mon, 12 Mar 2018 10:54:14 +0000
+fedac6eddd7f95491d33e0827358382c70cd83a8|refactoring|Mon, 12 Mar 2018 10:16:26 +0000|Mon, 12 Mar 2018 10:16:26 +0000
+78d85cedcaa8ec78890dd9a39ca113663f2e7082|refactoring; preparation for switching to base58 kata-ids|Mon, 12 Mar 2018 10:11:47 +0000|Mon, 12 Mar 2018 10:11:47 +0000
+c8589b9e8e9690241a2b04f4f858a7139a5843e7|refactoring; preparation for switching to kata-ids using Base60 alphabet|Mon, 12 Mar 2018 08:58:34 +0000|Mon, 12 Mar 2018 08:58:34 +0000
+5f76e0b7b12634ae842b3dcde2a27c9f9b21100c|split docker-compose settings into test/prod files; stop prometheus/grafana container names clashing with the main server's|Mon, 12 Mar 2018 08:23:42 +0000|Mon, 12 Mar 2018 08:23:42 +0000
+061214cb2698196e6194e914f98d4067eea98c5e|working towards adding prometheus/grafana to stand-alone storer server|Sun, 11 Mar 2018 15:23:57 +0000|Sun, 11 Mar 2018 15:23:57 +0000
+f75e2ee2b87de7385781120282c9066eb4109836|refactoring|Sun, 11 Mar 2018 14:29:28 +0000|Sun, 11 Mar 2018 14:29:28 +0000
+72f05c665f8125cd84c79ac6f98ad9bd1a33eefd|refactoring|Sun, 11 Mar 2018 14:26:48 +0000|Sun, 11 Mar 2018 14:26:48 +0000
+67e74e2776b71034f23302700f0696c764c49648|refactoring|Sun, 11 Mar 2018 14:24:11 +0000|Sun, 11 Mar 2018 14:24:11 +0000
+14aaf71a7d76b5d932a246d7fcf9fe8456af7182|test refactoring|Sun, 11 Mar 2018 09:35:53 +0000|Sun, 11 Mar 2018 09:35:53 +0000
+fee6a389ad46c72e2ef0b21259e2f13c8aaac80b|refactoring; delete dead code|Sun, 11 Mar 2018 09:17:36 +0000|Sun, 11 Mar 2018 09:17:36 +0000
+a3efeceef2acb0ee9e9074bb21d3bf06b2335a92|refactoring; file rename|Sun, 11 Mar 2018 09:16:39 +0000|Sun, 11 Mar 2018 09:16:39 +0000
+37c2ec8942350ff4573bf8e2e74cf758d155a9a5|refactoring|Sat, 10 Mar 2018 11:43:48 +0530|Sat, 10 Mar 2018 11:43:48 +0530
+b550eab3bb91c530f5141e19609aa3a17c273124|bump test metric limits|Fri, 9 Mar 2018 20:17:18 +0530|Fri, 9 Mar 2018 20:17:18 +0530
+fb00166feff76bac8bbf58ae63b39541e5a0201c|delete dead code|Fri, 9 Mar 2018 20:15:10 +0530|Fri, 9 Mar 2018 20:15:10 +0530
+afcac27b7c6929f0ab7f6218145e4160d7d563bb|fix broken test|Fri, 9 Mar 2018 20:13:45 +0530|Fri, 9 Mar 2018 20:13:45 +0530
+a9249b9bef2158867de76ee14a1bd0acd650977f|delete dead code|Fri, 9 Mar 2018 20:07:10 +0530|Fri, 9 Mar 2018 20:07:10 +0530
+8078fd2aa5df0931e79fd93bbb31b977c9ef4964|add missing client side tests|Fri, 9 Mar 2018 20:00:32 +0530|Fri, 9 Mar 2018 20:00:32 +0530
+a4b1bccd489c5e85b4544711bedf6a866d23e7b2|notes update|Fri, 9 Mar 2018 12:58:29 +0000|Fri, 9 Mar 2018 12:58:29 +0000
+1d9cf17df205b10df6a62f354bb9a91038687d07|client side tests now all pass|Fri, 9 Mar 2018 12:26:16 +0000|Fri, 9 Mar 2018 12:26:16 +0000
+5e3a9d8b7fc99accb127c7325873818da32996c2|fixed flawed tests; id-completion tests could interfere with each others state unless they their root-paths are different|Fri, 9 Mar 2018 11:02:17 +0000|Fri, 9 Mar 2018 11:02:17 +0000
+1e5a1b0357c6b789d2c680501473c7ba0e6f94d5|delete dead code|Fri, 9 Mar 2018 10:24:22 +0000|Fri, 9 Mar 2018 10:24:22 +0000
+258482ff0a1e4b77b5de5712a77ce7d9a108a89e|tests all pass|Fri, 9 Mar 2018 10:20:24 +0000|Fri, 9 Mar 2018 10:20:24 +0000
+7b832c22048b8d6294263350603984b97ac73107|save-point; storer will now generate its own kata-id which is valid and does not already exist|Fri, 9 Mar 2018 09:02:22 +0000|Fri, 9 Mar 2018 09:02:22 +0000
+997f9b9c33c3238dee279472a908c8b9c3e2a6df|save point|Fri, 9 Mar 2018 07:52:03 +0000|Fri, 9 Mar 2018 07:52:03 +0000
+3ada20c4c0a68ce6f98410c4ef46d416e64c4470|save point|Fri, 9 Mar 2018 04:45:37 +0000|Fri, 9 Mar 2018 04:45:37 +0000
+00276d64d6850e4125315f3ea452eb0029193140|started adding kata-id-factory class|Thu, 8 Mar 2018 11:49:27 +0000|Thu, 8 Mar 2018 11:49:27 +0000
+5b240eeadf3d844bea31a1f884b9b26f9c46c107|make hex-id suitable for creating kata-id from ready for id-factory external|Wed, 7 Mar 2018 17:19:53 +0000|Wed, 7 Mar 2018 17:19:53 +0000
+367d074e07719188f17998ab9c5fee57284919ae|added uuidtools gem in preparation for storer being responsible for kata.id allocation|Wed, 7 Mar 2018 09:29:38 +0000|Wed, 7 Mar 2018 09:29:38 +0000
+b7573098c8140dadf5b4926b66c537b25ce4ade6|[ci skip] fix broken link in readme|Tue, 6 Mar 2018 12:16:01 +0000|Tue, 6 Mar 2018 12:16:01 +0000
+bd49eae02f5ed9c20eab056c874104616516be45|revert Dockerfile back to not cat'ing prometheus after common bundle-install|Mon, 5 Mar 2018 15:17:07 +0000|Mon, 5 Mar 2018 15:17:07 +0000
+c80e379d7a43ca5e22f815884a82abfff459141f|refactor Dockerfile to maximize early commonality|Mon, 5 Mar 2018 15:05:54 +0000|Mon, 5 Mar 2018 15:05:54 +0000
+712b35045067ed74aeb0da8b6d488e1d973c2d83|change to common env-var name to maximize Dockerfile similarities|Mon, 5 Mar 2018 12:03:07 +0000|Mon, 5 Mar 2018 12:03:07 +0000
+c657ef068014e830ab56b846e5d3fd6f18f0266c|refactor Dockerfile so early RUN command is common across many repos|Mon, 5 Mar 2018 11:38:23 +0000|Mon, 5 Mar 2018 11:38:23 +0000
+bf057856d1eab81caee8a369f82e6dbb4f6c5c7c|update tests to new starter API|Sun, 4 Mar 2018 20:56:29 +0000|Sun, 4 Mar 2018 20:56:29 +0000
+95b09a1be58d0f8423b5352f966822acb2e033fe|[ci skip] readme tweak|Tue, 20 Feb 2018 10:44:34 +0000|Tue, 20 Feb 2018 10:44:34 +0000
+0e9814aa903f8091ab213be9941744e0eb488b68|[ci skip] tweak readme|Tue, 20 Feb 2018 10:22:45 +0000|Tue, 20 Feb 2018 10:22:45 +0000
+487cf74aa26b9b4f23faa583e73812974e9d3d31|[ci skip] comment out creating katas-volume in custom script that creates stand-alone storer server|Tue, 30 Jan 2018 14:34:42 +0000|Tue, 30 Jan 2018 14:34:42 +0000
+e6ac490d691e730f12ce9dd9231c6485935e2ed8|[ci skip] fix out of date comment in Dockerfile|Mon, 29 Jan 2018 09:22:27 +0000|Mon, 29 Jan 2018 09:22:27 +0000
+c3848569ab2dc71082c39075417f6b7ca4dd938c|refactoring; added readme re creating the main storer data-container|Wed, 3 Jan 2018 14:36:22 +0000|Wed, 3 Jan 2018 14:36:22 +0000
+275e150a6faa868ac64041708810750d952c5900|refactoring; moved katas_volume/ dir to /|Wed, 3 Jan 2018 14:31:39 +0000|Wed, 3 Jan 2018 14:31:39 +0000
+b4a69faa9cc5ffe82ecf5e1c88e801ebd2babf0a|refactoring; don't put test/ into storer images, volume-mount in instead|Wed, 3 Jan 2018 14:27:16 +0000|Wed, 3 Jan 2018 14:27:16 +0000
+305f7afff2e5c306fbb49629b2b37edc5dbf12b5|refactoring; don't put katas_old into storer image, tar-pipe it into starter|Wed, 3 Jan 2018 14:22:11 +0000|Wed, 3 Jan 2018 14:22:11 +0000
+a2047ade81f201dd05810198f7fe6214208fa425|refactoring; don't put start-points into storer image, volume-mount it into starter|Wed, 3 Jan 2018 14:18:00 +0000|Wed, 3 Jan 2018 14:18:00 +0000
+cd12b46e93b0a87b4dcf589e8d3475f37db617b7|refactoring; renamed file|Wed, 3 Jan 2018 14:15:22 +0000|Wed, 3 Jan 2018 14:15:22 +0000
+998399d6574c5b7a043a278b23cf5b57667ab84d|refactoring; set home-dir via ENV-var|Wed, 3 Jan 2018 14:13:22 +0000|Wed, 3 Jan 2018 14:13:22 +0000
+74c7a87f6cc6400dc177a729d057aadac011c01d|refactoring; tidy docker-compose.yml .env vars|Wed, 3 Jan 2018 10:50:27 +0000|Wed, 3 Jan 2018 10:50:27 +0000
+194828ef95e5e77034d3cf8ce8a4322cb3925240|refactoring; simplified scripts by dropping unused param variable|Sun, 31 Dec 2017 16:12:22 +0000|Sun, 31 Dec 2017 16:12:22 +0000
+292ede101483044eb43d06279c7864aee1c30459|refactoring; dropped unneeded arg from script|Sun, 31 Dec 2017 16:07:25 +0000|Sun, 31 Dec 2017 16:07:25 +0000
+12d88a35d509190263e18bd1e50cf050d3657cd2|added stand-alone server options to docker-compose.prod.yml|Sun, 31 Dec 2017 16:06:01 +0000|Sun, 31 Dec 2017 16:06:01 +0000
+6a786775c1cd71a451fa18df3d1986f0b1971d51|refactoring; dropped word test from tag name of stand-alone server|Sun, 31 Dec 2017 16:05:28 +0000|Sun, 31 Dec 2017 16:05:28 +0000
+dcbbe219df8fc94a4c63485e1b0dd7c3bb6f1552|refactoring; move test-only settings into docker-compose.test.yml|Sun, 31 Dec 2017 16:04:40 +0000|Sun, 31 Dec 2017 16:04:40 +0000
+85cfc32ce976fee22afdd1accd09731bb3bc0265|refactoring; deleted dead code|Sun, 31 Dec 2017 15:55:47 +0000|Sun, 31 Dec 2017 15:55:47 +0000
+f8e262e65512e4fa3bda848607c4cd18bfac05ca|refactoring; dont create a data-container for katas when testing as its easier to avoid leaking volumes|Sun, 31 Dec 2017 15:55:04 +0000|Sun, 31 Dec 2017 15:55:04 +0000
+51e15f44e127a8494c4c23cb50bac7475c45c50b|refactoring; made test container names start with test_ so they don't clash with other tests containers|Sun, 31 Dec 2017 14:19:44 +0000|Sun, 31 Dec 2017 14:19:44 +0000
+64331d7db4964d38cc7320977e8dd40ff357d475|refactoring; move test data classes into server/test/ dir|Sun, 31 Dec 2017 11:47:20 +0000|Sun, 31 Dec 2017 11:47:20 +0000
+5046cbeeb8b6025fca658f0203dcb3bf912c831b|refactoring; changed container username to storer to avoid confusion with cyber-dojo group used by runners|Sun, 31 Dec 2017 11:41:51 +0000|Sun, 31 Dec 2017 11:41:51 +0000
+69904c02cb6249945e80d205bb1856e2c55defb7|refactoring; tag parameter must be an Integer|Sun, 31 Dec 2017 08:32:49 +0000|Sun, 31 Dec 2017 08:32:49 +0000
+2eac386dc93a6a8b56639a7d3c800b67a65f4baf|refactoring; Dockerfile improvements|Sat, 30 Dec 2017 14:42:40 +0000|Sat, 30 Dec 2017 14:42:40 +0000
+3fbde91a056eb755c9a9cd7f9f35fdfca5e4a552|refactoring; simplify meta-test metrics|Thu, 28 Dec 2017 22:00:02 +0000|Thu, 28 Dec 2017 22:00:02 +0000
+2e360cfc749f49a5f9850683795e014f19905fc6|refactoring; .class.name==('X') is better as .is_a?(X)|Thu, 28 Dec 2017 13:15:30 +0000|Thu, 28 Dec 2017 13:15:30 +0000
+0ec109c7bc1decd8bc7ffac60943e54eb411ac08|refactoring; removed Fixnum-code as storer is on Ruby 2.4+ which unified Fixnum and Bignum into Integer|Thu, 28 Dec 2017 13:13:53 +0000|Thu, 28 Dec 2017 13:13:53 +0000
+467317e376f3a66bbe9592980fd53282234d4e2d|refactoring; handle tag argument as string or integer|Thu, 28 Dec 2017 12:54:38 +0000|Thu, 28 Dec 2017 12:54:38 +0000
+e64399db61cfb550f2faa2fa6d02a1d4a62d40a9|refactoring; delete dead code, improve test names|Thu, 28 Dec 2017 11:04:06 +0000|Thu, 28 Dec 2017 11:04:06 +0000
+c425071b20b2ef97219107cff37c2d32ba5ba6ad|added tag==-1 handling to tag_visible_files()|Thu, 28 Dec 2017 10:00:24 +0000|Thu, 28 Dec 2017 10:00:24 +0000
+10e373148641412e7c3e4baee6be2190477d4574|refactoring; simplified assert helper-methods|Thu, 28 Dec 2017 09:53:10 +0000|Thu, 28 Dec 2017 09:53:10 +0000
+36b82699be257c9ae55c24cd3edf06a1fc116645|refactoring; reorder method statements|Thu, 28 Dec 2017 08:48:02 +0000|Thu, 28 Dec 2017 08:48:02 +0000
+e59d93d887a805444e80dc6dfec08f44b7cfad93|refactoring; added tests for tag_visible_files|Thu, 28 Dec 2017 07:57:48 +0000|Thu, 28 Dec 2017 07:57:48 +0000
+11af334ddbade047cc372625670786d9e88ecd6e|refactoring; class name improvement|Thu, 28 Dec 2017 07:43:09 +0000|Thu, 28 Dec 2017 07:43:09 +0000
+af783729345e83568157ef602835746b6f1bfa80|refactoring; deleted dead tests|Thu, 28 Dec 2017 07:42:38 +0000|Thu, 28 Dec 2017 07:42:38 +0000
+f3c6ee0b6dccdbfec1f7156030f50e67d3ca4339|refactoring; simplify method|Thu, 28 Dec 2017 07:36:29 +0000|Thu, 28 Dec 2017 07:36:29 +0000
+0bf9ef15294431e9bd2c1a541cc6ba6a2e92faa3|refactoring; deleted dead code|Thu, 28 Dec 2017 07:25:08 +0000|Thu, 28 Dec 2017 07:25:08 +0000
+30411572522402282e6a7e7799f1617f624d193e|[ci skip] refactoring; renaming|Mon, 25 Dec 2017 13:00:48 +0000|Mon, 25 Dec 2017 13:00:48 +0000
+755c884c7aa1115a4d143d3e081d0c2054121612|refactoring; moved kata-defaults to web service|Mon, 25 Dec 2017 10:18:09 +0000|Mon, 25 Dec 2017 10:18:09 +0000
+be9a125daef592ce958cec84c92e3805bb424c6c|set manifest defaults (was in starter)|Sat, 23 Dec 2017 14:04:06 +0000|Sat, 23 Dec 2017 14:04:06 +0000
+4d4a29001883f57baa28f753319cf3373598ddc1|started adding kata-defaults to here (rather than starter or web)|Sat, 23 Dec 2017 11:01:14 +0000|Sat, 23 Dec 2017 11:01:14 +0000
+96920ecb08b557f44cfa59424da4908ef51d3eb3|refactoring; ensure there is no old-style 'language' property in returned manifest|Fri, 22 Dec 2017 13:24:00 +0000|Fri, 22 Dec 2017 13:24:00 +0000
+efbe347ce6eeeecd3f410b78de5f974a38b5a3c4|refactoring|Wed, 20 Dec 2017 22:20:03 +0000|Wed, 20 Dec 2017 22:20:03 +0000
+ecff64a1d36738415ce2385275391c22327910cd|refactoring; use bash-variable in tar_pipe_in.sh script|Wed, 20 Dec 2017 22:00:24 +0000|Wed, 20 Dec 2017 22:00:24 +0000
+9ebeb0ed35e823dfda55408769c60775c7e64d3c|added last test for kata_manifest()|Wed, 20 Dec 2017 12:53:46 +0000|Wed, 20 Dec 2017 12:53:46 +0000
+49a454da4d7cfa24b7f388e8b0fe30db48a2ac2b|added first test for kata_manfifest() for kata-id that requires stater.manifest() renaming|Wed, 20 Dec 2017 12:20:41 +0000|Wed, 20 Dec 2017 12:20:41 +0000
+4df13d8aa5f77ce79e1e8a9e263ddf1ac9314da8|added tests for kata_manifest() for kata-ids that do not require starter.manifest() renaming|Wed, 20 Dec 2017 11:23:03 +0000|Wed, 20 Dec 2017 11:23:03 +0000
+517ebe9a16858a84061097f6e4e539eba7affe97|made sure katas-data-container is created first|Wed, 20 Dec 2017 10:43:16 +0000|Wed, 20 Dec 2017 10:43:16 +0000
+54232435ad1212d8437e04de01135917f745d04f|set ownership of test-data in storer's katas data-container|Wed, 20 Dec 2017 09:48:07 +0000|Wed, 20 Dec 2017 09:48:07 +0000
+afdd98b304e193c892b3f7bf9e4ff552b8109c4c|refactoring; collapse bash script duplication|Wed, 20 Dec 2017 09:42:26 +0000|Wed, 20 Dec 2017 09:42:26 +0000
+fe90e92e6a75414b1267b9a8037e1eef9744baf0|refactoring; move all test-data tgz files into same dir|Wed, 20 Dec 2017 09:36:19 +0000|Wed, 20 Dec 2017 09:36:19 +0000
+852927ba58e5b5b85ec37a118bc7450fa256e2ed|refactoring; tar-pipe katas-test-data into katas-data-container rather than volume-mounting separate katas|Wed, 20 Dec 2017 09:23:06 +0000|Wed, 20 Dec 2017 09:23:06 +0000
+ef81571cfea23b529abd31a8c34ffeca52781385|prepared tgz test files|Wed, 20 Dec 2017 08:20:33 +0000|Wed, 20 Dec 2017 08:20:33 +0000
+4e4041136d167cd9edac340884a41a86f53cd22a|update docker-compose.yml to new name of of test data dir|Wed, 20 Dec 2017 07:02:33 +0000|Wed, 20 Dec 2017 07:02:33 +0000
+f3ff5b9553524edd7cb224d170bbaeb56720b2fe|refactoring; rename dirs|Wed, 20 Dec 2017 06:55:38 +0000|Wed, 20 Dec 2017 06:55:38 +0000
+89d27ab31f60fb94186d4e484f89f73ee20b3e2b|refactoring; moved creation of katas-data-container into its own dir|Wed, 20 Dec 2017 06:52:38 +0000|Wed, 20 Dec 2017 06:52:38 +0000
+cfb3f19b2a63a00206648f710a8ba69342793cb0|refactoring|Tue, 19 Dec 2017 16:41:43 +0000|Tue, 19 Dec 2017 16:41:43 +0000
+dd4e9ccdbaaa10ecbc86f4ac800fe09b193daaf9|refactoring|Tue, 19 Dec 2017 16:38:39 +0000|Tue, 19 Dec 2017 16:38:39 +0000
+1d3bda14af099b121b118b5c06e2981112ac65fd|refactoring|Tue, 19 Dec 2017 16:30:47 +0000|Tue, 19 Dec 2017 16:30:47 +0000
+b7f29643304fbc35c9486b96d9b084c192588fc0|started adding tag_fork() method to storer-server|Tue, 19 Dec 2017 16:20:30 +0000|Tue, 19 Dec 2017 16:20:30 +0000
+6d8c8495eb30d6816559eedb15dce02e010f6d93|refactoring; dont used methods;on;one;line as it hides missing coverage|Tue, 19 Dec 2017 16:04:46 +0000|Tue, 19 Dec 2017 16:04:46 +0000
+425e3ace950f49d4c3f4200ee92eb8dba54421bd|switched to using non-peturbed service-names; has to be that way for helper services, and anyway its the container-names that are usefully peturbed so that they dont clash with container names spun up from tests for other repos|Tue, 19 Dec 2017 15:47:10 +0000|Tue, 19 Dec 2017 15:47:10 +0000
+f62c5bf17fa2ec13e8e6ee2ad67beff192bb75f7|added starter-service adapter ready for new tag_fork() method|Tue, 19 Dec 2017 15:41:12 +0000|Tue, 19 Dec 2017 15:41:12 +0000
+20b3c542c18ca4c97622302ebe676b4057b1ba58|refactoring; delete dead comments|Tue, 19 Dec 2017 15:34:01 +0000|Tue, 19 Dec 2017 15:34:01 +0000
+444b6aee9eda7ddb1a14207fbf8fdc301ea253f9|refactoring|Tue, 19 Dec 2017 15:32:57 +0000|Tue, 19 Dec 2017 15:32:57 +0000
+3893ec1fc09d257ba116532b24754ae957c09ac0|refactoring|Tue, 19 Dec 2017 15:29:00 +0000|Tue, 19 Dec 2017 15:29:00 +0000
+9b18265bd5b66bf221957958a48761c85bce11fe|volume-mounted start-point files into starter-service ready to be called from storer tests|Tue, 19 Dec 2017 15:08:59 +0000|Tue, 19 Dec 2017 15:08:59 +0000
+b0b8e38560bf8c0e568cb33e5abf881234df5f92|volume-mounted old-stype manifest.json that require starter's renaming into /tmp/katas ready for testing|Tue, 19 Dec 2017 13:28:20 +0000|Tue, 19 Dec 2017 13:28:20 +0000
+5fb7645eb323d6e3b11c9e781a85dcd422ff4a8d|volume-mounted old-style manifest.json into /tmp/katas ready for testing|Tue, 19 Dec 2017 13:14:38 +0000|Tue, 19 Dec 2017 13:14:38 +0000
+5d31bfd854a66133aa8916cc170db2b6cbab58d3|added starter_server service to docker-compose.yml|Tue, 19 Dec 2017 12:28:37 +0000|Tue, 19 Dec 2017 12:28:37 +0000
+bccabbdb8c8dd239a0d7f66c57a9082b9a7999aa|refactoring; changed service/container names to reduce clashes between containers created in different repos|Tue, 19 Dec 2017 12:25:41 +0000|Tue, 19 Dec 2017 12:25:41 +0000
+015853c1617aca0a541f3274a82726b689c2e2c7|added --remove-orphans option to [docker-compose down] to cater for changing container names|Tue, 19 Dec 2017 12:21:15 +0000|Tue, 19 Dec 2017 12:21:15 +0000
+0b7e03671ea398cd04e6f92126b40fca478f2190|[ci skip] readme update|Sat, 16 Dec 2017 06:08:31 +0000|Sat, 16 Dec 2017 06:08:31 +0000
+62b3147fe7829ae3b5972e68f7ca40c7f0a17bf2|[ci skip] readme update|Fri, 15 Dec 2017 11:18:22 +0000|Fri, 15 Dec 2017 11:18:22 +0000
+dbd98639f28dd025ec6e224bde788d959c548f8d|[ci skip] readme update|Wed, 13 Dec 2017 09:53:28 +0000|Wed, 13 Dec 2017 09:53:28 +0000
+7b7c0671f84f7a868373d1e3f180149f7485d8ad|refactoring; improve tests|Sun, 3 Dec 2017 08:30:06 +0000|Sun, 3 Dec 2017 08:30:06 +0000
+e9d8f153e7d0a9d55c5bf54442cec9bd3c7bc6ad|[ci skip] loosen wording on json API to allow returned hash to have multiple keys|Sat, 2 Dec 2017 22:25:27 +0000|Sat, 2 Dec 2017 22:25:27 +0000
+4e38774216fc86d98b62484549cf45e5c0796b20|[ci skip] in readme use uppercase in kata-ids|Sat, 2 Dec 2017 22:23:33 +0000|Sat, 2 Dec 2017 22:23:33 +0000
+349d3f75de40476bf5a7258d24ae6b3d726c0fb5|[ci skip] readme typo fix|Sat, 2 Dec 2017 22:19:26 +0000|Sat, 2 Dec 2017 22:19:26 +0000
+f1bc907998650e9d321cc3fc6a74ff81b4479d10|refactoring; replaced nearest_ancestor() with direct setting of externals|Fri, 1 Dec 2017 10:03:23 +0000|Fri, 1 Dec 2017 10:03:23 +0000
+f9e5e118c2364cd160fe0b1dd0929b7a01f3e9f3|removed path from API|Fri, 1 Dec 2017 09:48:30 +0000|Fri, 1 Dec 2017 09:48:30 +0000
+ff84949fc36fe7d74523b39d35db4860e4413d46|refactoring s/PARM/PARAM|Fri, 1 Dec 2017 09:08:20 +0000|Fri, 1 Dec 2017 09:08:20 +0000
+0431d3355a7e90fbaaaab6ecd73f7bb3225ed650|changed kata_exists? method so it returns false rather than raising|Tue, 28 Nov 2017 10:23:39 +0000|Tue, 28 Nov 2017 10:23:39 +0000
+68df97220ebe4229c7d0742156ee43b9d59e5648|tweaked test result output|Tue, 28 Nov 2017 10:23:10 +0000|Tue, 28 Nov 2017 10:23:10 +0000
+e4e84a6ae57ba78f19ceecd6fd50489345dd29cf|fixed readme error|Tue, 28 Nov 2017 10:22:51 +0000|Tue, 28 Nov 2017 10:22:51 +0000
+02d7aa310a748ac8d6fbcef146412fee367c6ade|refactoring; test improvements, put hex-mini-test into test/src to match other repos|Sun, 26 Nov 2017 16:10:40 +0000|Sun, 26 Nov 2017 16:10:40 +0000
+3c1b5b21471ca06ca19a8cde8810cc539d76b7ec|refactoring; delete unneeded Dockerfile command - env=production is set in rackup call|Sun, 26 Nov 2017 15:29:26 +0000|Sun, 26 Nov 2017 15:29:26 +0000
+acfe565d0f27382c9ef554cfd2b5fe63f66203d0|refactoring; added -p to mkdir to remove warning message|Sun, 26 Nov 2017 08:26:24 +0000|Sun, 26 Nov 2017 08:26:24 +0000
+6842954d5de38e012d255a455d8f5979597578cf|[ci skip] add message to stand-alone-server script saying what port to open|Mon, 20 Nov 2017 09:42:55 +0000|Mon, 20 Nov 2017 09:42:55 +0000
+4dbea293b1b083020103b8b2da2ffd80aa97fe0a|[ci skip] comment improvements|Mon, 20 Nov 2017 08:08:54 +0000|Mon, 20 Nov 2017 08:08:54 +0000
+8389f250bd3679abaa960746f14fa00a059d393f|refactoring; lose shuffle as tests already run in random based on seed|Mon, 20 Nov 2017 07:48:16 +0000|Mon, 20 Nov 2017 07:48:16 +0000
+b60b2dd5296e72114bf74810e248561092473291|refactoring; quieten output when checking if containers are up|Mon, 20 Nov 2017 07:46:32 +0000|Mon, 20 Nov 2017 07:46:32 +0000
+9b9d56388b130768da18b92d3c9fc8b8a7a542fa|refactoring; super minor comment edits|Mon, 20 Nov 2017 06:59:37 +0000|Mon, 20 Nov 2017 06:59:37 +0000
+a02954bc55a60bb7892d37f11e9ce6b1bbbf7cb9|refactoring; dropped coverage-data-containers - you can't [docker cp] out of a tmpfs but you can tar-pipe tmpfs out|Mon, 20 Nov 2017 06:50:49 +0000|Mon, 20 Nov 2017 06:50:49 +0000
+14795df66ba9bc6a3e81719dfff028770d9de382|[ci skip] readme updates|Sun, 19 Nov 2017 12:41:11 +0000|Sun, 19 Nov 2017 12:41:11 +0000
+d6d4082cf080c5f93361e5cf96cc514745dc8bf6|refactoring; added full test metrics to match other service repos|Sun, 19 Nov 2017 12:32:03 +0000|Sun, 19 Nov 2017 12:32:03 +0000
+8c2a10e6e37111d11a61c9abc95a32fed425a769|refactoring; expand multi;line;methods as they hide missing coverage|Sun, 19 Nov 2017 12:22:34 +0000|Sun, 19 Nov 2017 12:22:34 +0000
+7c0e0a5e588cba10f5953cdf81c9cad03311ecd5|refactoring; improved waiting for service to be up|Sun, 19 Nov 2017 12:20:44 +0000|Sun, 19 Nov 2017 12:20:44 +0000
+d8a87930250dd1e9d3194bff1a7e69bb10c32920|refactoring|Sun, 19 Nov 2017 07:45:36 +0000|Sun, 19 Nov 2017 07:45:36 +0000
+9f6fa97f160bc71eb3ede371c77bb766e92591a1|added data-containers for client/server coverage collection - main client/server containers are read_only:true|Sun, 19 Nov 2017 07:39:14 +0000|Sun, 19 Nov 2017 07:39:14 +0000
+82b8f1d34db431e9839e087fdc1daca0f1e578ab|[ci skip] readme update; tidy coverage files as I look into adding coverage-containers now that main containers have read_only:true set in docker-compose.yml|Sat, 18 Nov 2017 20:49:53 +0000|Sat, 18 Nov 2017 20:49:53 +0000
+294c7c059642ca357e1ebd6885b35cb41855749f|[ci skip] readme update|Sat, 18 Nov 2017 20:11:06 +0000|Sat, 18 Nov 2017 20:11:06 +0000
+2e294de2271dc6336c62b049960fda01d6bbc18e|split off ports into their own env-file; created first cut at script to start a stand-alone server which exposes its port|Sat, 18 Nov 2017 20:06:43 +0000|Sat, 18 Nov 2017 20:06:43 +0000
+71fa4a6f2ae2cdea3eaa7c6dbe0883caadf35bda|put env-vars for test/production in separate source-able files|Sat, 18 Nov 2017 19:05:03 +0000|Sat, 18 Nov 2017 19:05:03 +0000
+1cb752bc9c77bb8d8c205e8ff396d58638ffa271|create docker-compose.yml files for test/prod differences|Sat, 18 Nov 2017 18:40:20 +0000|Sat, 18 Nov 2017 18:40:20 +0000
+fab847fdbe8e337d8582a5b7476d5c0b43c1ede1|have to make the data-container first|Sat, 18 Nov 2017 18:27:40 +0000|Sat, 18 Nov 2017 18:27:40 +0000
+8250ea62b063b0c72526729ee40790da4c06f151|created script to create katas-data-container - part of starting a stand-alone storer-service|Sat, 18 Nov 2017 18:22:33 +0000|Sat, 18 Nov 2017 18:22:33 +0000
+a0efcf577f9788cacf0c0af63f2f8c48d0f24079|prepare files for creating katas volume when making stand-alone storer server|Sat, 18 Nov 2017 15:36:02 +0000|Sat, 18 Nov 2017 15:36:02 +0000
+fa74b54f331f0dbfcd5e74a03e2ee7bb234021c5|refactoring|Sat, 18 Nov 2017 15:29:45 +0000|Sat, 18 Nov 2017 15:29:45 +0000
+04a5c943b9cfa0a0900e818037dce1b2fa28c655|[ci skip] delete dead comment|Sat, 18 Nov 2017 15:20:39 +0000|Sat, 18 Nov 2017 15:20:39 +0000
+3166d0d0ef858c214f2f8400fb637dc2f3197ae6|changed tack; dont put docker inside storer containers; instead create katas data-volume in the next-outer context, which is either commander for regular use, or could be a custom script if you want to try and run storer in its own VM with its own IP address|Sat, 18 Nov 2017 15:10:07 +0000|Sat, 18 Nov 2017 15:10:07 +0000
+919a9ca68d3faac14a17c1128d03c26436633545|inspect /var/run/docker.sock on host and inside container|Sat, 18 Nov 2017 14:04:05 +0000|Sat, 18 Nov 2017 14:04:05 +0000
+f176d4718649f4a9b2044f255242472c753aaa80|removed [docker] command in up.sh to check its that causing the failure on Travis|Sat, 18 Nov 2017 13:54:08 +0000|Sat, 18 Nov 2017 13:54:08 +0000
+bbf3a7662fc21ba6b07310f0b619fe5f2bf493bc|added even cruder wait - just want to see if storer_server can run docker-commands on Travis|Sat, 18 Nov 2017 13:45:31 +0000|Sat, 18 Nov 2017 13:45:31 +0000
+6450848df86fa3e798ecbf5ab5da1ed1ded99763|added crude wait for services to be up before running tests|Sat, 18 Nov 2017 13:39:18 +0000|Sat, 18 Nov 2017 13:39:18 +0000
+d87ac5e6dd68c36375fd21b864dce0bb6c7f57e2|give cyber-dojo user inside the server container rights to run docker commands; this will be needed for storer to create its own docker-volume for the katas/ data-container|Sat, 18 Nov 2017 13:24:37 +0000|Sat, 18 Nov 2017 13:24:37 +0000
+8926dc6bb65aa516ffef9ac516551be4508a1111|changed old-git-format data source from dir/ to tar.tgz file - this avoids problems of a subdir holding a .git dir itself|Sat, 18 Nov 2017 13:09:20 +0000|Sat, 18 Nov 2017 13:09:20 +0000
+8927798af2b7d3867a400fb4ba0ad3ec06aa031a|still tracking down Travis failure|Sat, 18 Nov 2017 12:47:44 +0000|Sat, 18 Nov 2017 12:47:44 +0000
+7f2ad27788be5afab5b7fbf263a05a635ee4fca4|moved old-git-format tests into their own file|Sat, 18 Nov 2017 12:35:36 +0000|Sat, 18 Nov 2017 12:35:36 +0000
+31ce2bd726831e90ee98bfe4e01c8d637146e36a|trying to debug Travis failure|Sat, 18 Nov 2017 12:27:21 +0000|Sat, 18 Nov 2017 12:27:21 +0000
+acd317e20b6e34065a50d92b8ed4fc8854956a2e|refactoring; move test-container-volume root off /tmp to ensure no interference with the actual storer's volume|Sat, 18 Nov 2017 10:41:37 +0000|Sat, 18 Nov 2017 10:41:37 +0000
+8e2144d17ba7d0b46febbdfd27394dccd8fddc69|refactoring|Sat, 18 Nov 2017 10:40:01 +0000|Sat, 18 Nov 2017 10:40:01 +0000
+052173abfea006d9e0a5d6d71f4d6baf416c3d9f|refactoring|Sat, 18 Nov 2017 10:38:39 +0000|Sat, 18 Nov 2017 10:38:39 +0000
+1d34670bd0f3e82a80451c2e9862b17d206bd039|refactoring|Sat, 18 Nov 2017 10:37:29 +0000|Sat, 18 Nov 2017 10:37:29 +0000
+1a133024fb7a7aaa42fe8d75ae7dfc779694b9fa|refactoring|Sat, 18 Nov 2017 10:35:23 +0000|Sat, 18 Nov 2017 10:35:23 +0000
+77dcfd36e865e35fd4d1327deda13f9aefdfaf78|refactoring; use simpler tar-pipe to put git-kata into storer for tests; use tmpfs/readonly settings in docker-compose.yml to match those in commander; use CYBER_DOJO_KATAS_ROOT=/usr/src/cyber-dojo/katas to match commander|Sat, 18 Nov 2017 10:12:09 +0000|Sat, 18 Nov 2017 10:12:09 +0000
+017e6f2b70e0fc58e5e0b48c220595b67a253906|removed tini install from Dockerfile and instead added init:true option to docker-compose.yml|Wed, 15 Nov 2017 10:09:39 +0000|Wed, 15 Nov 2017 10:09:39 +0000
+d707c9bab52fbc69f3223a3eb211d0cc142f52c2|refactoring; base client/server Dockerfiles off docker:latest so they build faster and to allow server to manage its own data-container|Wed, 15 Nov 2017 06:29:58 +0000|Wed, 15 Nov 2017 06:29:58 +0000
+67bb890cdc037ed5965c320cab592f53d7d50354|refactoring; simplify server's Dockerfile|Wed, 15 Nov 2017 06:28:35 +0000|Wed, 15 Nov 2017 06:28:35 +0000
+8503319c3299a9461d68193ed0e322e225586147|switched client from sinatra to rack; now same as server so similar Dockerfiles make for quicker build|Fri, 10 Nov 2017 08:48:53 +0000|Fri, 10 Nov 2017 08:48:53 +0000
+237ae229fef84ad0d8f074033351660fb4e2af69|refactoring; delete unneeded packages in Dockerfile|Fri, 10 Nov 2017 07:23:23 +0000|Fri, 10 Nov 2017 07:23:23 +0000
+f585c304c644f5f252c67610a7d3dfd80682fb8d|log less in exception handler|Fri, 10 Nov 2017 07:23:03 +0000|Fri, 10 Nov 2017 07:23:03 +0000
+420e4071ed4fd41d4ceaeb1acec49dbc2b76d099|drop sudo:required from Travis|Tue, 7 Nov 2017 13:44:24 +0000|Tue, 7 Nov 2017 13:44:24 +0000
+8380cfef2454c5f43411a8a30a43f889ec37ddd9|refactoring; readme update|Fri, 27 Oct 2017 08:01:26 +0100|Fri, 27 Oct 2017 08:01:26 +0100
+c98c83a766487e6d008a5bedd250014b963f7040|refactoring; removed storer from externals to match pattern used in other service repos|Fri, 27 Oct 2017 07:58:57 +0100|Fri, 27 Oct 2017 07:58:57 +0100
+88b56a6ca64828e5e6bd5004c6f278bc1d2d9858|refactoring; switched server from Sinatra to Rack|Fri, 27 Oct 2017 07:50:22 +0100|Fri, 27 Oct 2017 07:50:22 +0100
+b9666b1c5626330ba89f37eff94b7598b8fa76e6|refactoring; put Dockerfile commands in order to maximize shared base layers|Fri, 27 Oct 2017 06:55:51 +0100|Fri, 27 Oct 2017 06:55:51 +0100
+6ae43c0d550fefbe89d10242e67bbf0a0763be64|[ci skip] readme update|Thu, 26 Oct 2017 20:48:45 +0100|Thu, 26 Oct 2017 20:48:45 +0100
+9196751a6b2f7af4263865221139b37ddeb71da8|turned off 'Don't run Bundler as root' warning|Thu, 26 Oct 2017 20:47:35 +0100|Thu, 26 Oct 2017 20:47:35 +0100
+03e61f61553e6dd93be3cec0311e2f0c98378ec3|fixing broken build after all service images were made full-stack|Thu, 26 Oct 2017 20:42:00 +0100|Thu, 26 Oct 2017 20:42:00 +0100
+b96ac0bbde4a4d73625ef489f437ab23882e84cf|refactoring; client image's Dockerfile now full-stack (based FROM alpine:latest) to break image dependencies|Sat, 14 Oct 2017 16:35:22 +0100|Sat, 14 Oct 2017 16:35:22 +0100
+7d87210c5944fc942635d63c3346203efdf214f1|refactoring; tidy up coverage configuration file|Thu, 12 Oct 2017 09:42:08 +0100|Thu, 12 Oct 2017 09:42:08 +0100
+5aaf8611581e870c46a5c8faac77913a9b82e146|refactoring; don't use one;line;methods as it can hide missing coverage|Thu, 12 Oct 2017 09:24:36 +0100|Thu, 12 Oct 2017 09:24:36 +0100
+dd14a8303835a97efeaafbb863245e5501b2098c|switch to basing the docker image on alpine:latest until/if docker commands are actually needed by storer|Wed, 11 Oct 2017 11:16:51 +0100|Wed, 11 Oct 2017 11:16:51 +0100
+7319ae29fc8bb857b8b3a1c70950b2a7cc49501b|changed server user from root to cyber-dojo to match setting used in commander's docker-compose.yml|Wed, 11 Oct 2017 10:39:03 +0100|Wed, 11 Oct 2017 10:39:03 +0100
+c8596a078bcbdb8ffd13f713ca998f1704b173e7|refactored Dockerfile so it is based FROM docker:latest image (docker outside-of docker) - intention is to make storer responsible for initial creation of the katas-data-container|Wed, 11 Oct 2017 10:38:02 +0100|Wed, 11 Oct 2017 10:38:02 +0100
+b5013b56799e713e2e82975ee2f8802dd7fd3624|refactoring|Fri, 25 Aug 2017 18:20:22 +0530|Fri, 25 Aug 2017 18:20:22 +0530
+aa83cba3c7eeb3f3de0f864c6ed340009b44755e|script refactoring|Fri, 25 Aug 2017 15:20:58 +0530|Fri, 25 Aug 2017 15:20:58 +0530
+4a301ceceeace33ca8d48af202751252098c2486|refactoring; drop unneeded compaction from later git; improve filenames; split single;line;method to reveal missing coverage|Thu, 24 Aug 2017 16:47:08 +0530|Thu, 24 Aug 2017 16:47:08 +0530
+a2a86f0b61271cec8224a047ad8869e04e0dad5f|[ci skip] readme update|Thu, 24 Aug 2017 04:42:03 +0530|Thu, 24 Aug 2017 04:42:03 +0530
+2e33fec666ac14bbc9c44bc9b7354a09e26fa456|refactoring|Fri, 5 May 2017 18:06:21 +0100|Fri, 5 May 2017 18:06:21 +0100
+f57a13ff08a56ebdaf16fbc62191bfd45a4947fb|added kata_increments() method as BatchMethod for web dashboard|Fri, 5 May 2017 17:41:14 +0100|Fri, 5 May 2017 17:41:14 +0100
+7a4106f3e0a7a222e0886f5b66bd17846adc7a0f|[ci skip] readme update|Thu, 20 Apr 2017 07:48:03 +0100|Thu, 20 Apr 2017 07:48:03 +0100
+5547c9cf09ffdd613a7c13fd7c9b91fe9d76f794|[ci skip] readme update|Mon, 17 Apr 2017 20:35:48 +0100|Mon, 17 Apr 2017 20:35:48 +0100
+7881007218add901d6f9e05168ec1141f15b3a19|[ci skip] fix readme md|Mon, 17 Apr 2017 20:14:44 +0100|Mon, 17 Apr 2017 20:14:44 +0100
+0bc821919cfa689a864f4a85d0e64906fafaf8ff|[ci skip] added comment on how to make test 722 (very large src file) fail by not having [tmpfs: /tmp] setting in docker-compose.yml|Sat, 8 Apr 2017 07:36:15 +0100|Sat, 8 Apr 2017 07:36:15 +0100
+acabe101f46b4a93b016addb8dc455f730696607|added test for very large file in avatar_ran_tests() not raising|Fri, 7 Apr 2017 21:49:02 +0100|Fri, 7 Apr 2017 21:49:02 +0100
+5470a6b9dc1959a73f4f7639b57153f8b9a4071c|update Dockerfile as git 2.11 is now off edge and on v3.5|Fri, 7 Apr 2017 09:37:54 +0100|Fri, 7 Apr 2017 09:37:54 +0100
+e6ebeb47a19c9417b64498e1037a61099ec2486b|[ci skip] readme tweak|Thu, 16 Mar 2017 11:37:52 +0000|Thu, 16 Mar 2017 11:37:52 +0000
+239c51e5e281f73b90afd3a43ad3f458cf594f29|added prometheus http exporter|Sat, 11 Mar 2017 10:45:46 +0100|Sat, 11 Mar 2017 10:45:46 +0100
+191b1b2ce981edb34ac18b7a6c6fcfcd76ba6209|[ci skip] readme update|Thu, 9 Mar 2017 08:19:12 +0100|Thu, 9 Mar 2017 08:19:12 +0100
+cf126c41ffcca9207113a12deeba5ba3cac00817|changed name of home repo to cyber-dojo|Wed, 8 Mar 2017 22:26:57 +0100|Wed, 8 Mar 2017 22:26:57 +0100
+069129fb418ef762f848ad466d68ef03f9c4f0df|Change home repo to cyber-dojo|Wed, 8 Mar 2017 22:01:36 +0100|Wed, 8 Mar 2017 22:01:36 +0100
+6437ecff05592c5dd71c64b113ed2af565a3059c|[ci skip] readme update|Sun, 5 Mar 2017 09:31:38 +0000|Sun, 5 Mar 2017 09:31:38 +0000
+e2606ea1a34d43d29faf010c924010e99c99a51b|[ci skip] readme update|Sun, 5 Mar 2017 09:30:22 +0000|Sun, 5 Mar 2017 09:30:22 +0000
+218e19a8193a997e1e9581ef9b9562e7603a9224|[ci skip] readme update|Sun, 5 Mar 2017 09:28:23 +0000|Sun, 5 Mar 2017 09:28:23 +0000
+a65fd98d316f043e717e2a54230d05db03b71673|[ci skip] added developer-centric link to readme|Sun, 5 Mar 2017 09:24:19 +0000|Sun, 5 Mar 2017 09:24:19 +0000
+9c720a98b4b0a89602abcad25e68721aabf5c723|moved commands to build git-kata-container into build.sh so pipe_build_up_test.sh works when run alone|Sat, 4 Mar 2017 21:12:54 +0000|Sat, 4 Mar 2017 21:12:54 +0000
+aa3c7545f670bcc3348e2ac3e1915a849107b111|put docker-compose.yml env-vars in dedicated .env file|Sat, 4 Mar 2017 19:50:37 +0000|Sat, 4 Mar 2017 19:50:37 +0000
+a995011d14933a80df8bc95369eaef6239b3fd1f|[ci skip] readme update|Sat, 4 Mar 2017 14:39:11 +0000|Sat, 4 Mar 2017 14:39:11 +0000
+c8d28b22ebde55f8542d03531bb639fd118cc029|[ci skip] readme update|Sat, 4 Mar 2017 14:38:01 +0000|Sat, 4 Mar 2017 14:38:01 +0000
+d1168f5b6b7ce6fd6b3eb4c69319a9383731f16f|force travis rerun|Sat, 4 Mar 2017 13:49:11 +0000|Sat, 4 Mar 2017 13:49:11 +0000
+89854bee3301555c7e78d45287b8e12e28c5cc41|[ci skip] switched to getting push_and_trigger (used in travis script) from home repo|Sat, 4 Mar 2017 12:50:17 +0000|Sat, 4 Mar 2017 12:50:17 +0000
+962335943fbec3f68158ef89be6085439c92b4e6|fixed bug that allowed negative tag number|Mon, 27 Feb 2017 10:29:43 +0000|Mon, 27 Feb 2017 10:29:43 +0000
+8c6a70a72f1cfdd558d8aaa3b4c45e2bbae3eec8|refactoring|Mon, 27 Feb 2017 09:20:57 +0000|Mon, 27 Feb 2017 09:20:57 +0000
+5d86ee1a6e007e8b92ba63dcf5035a2f04c7a62e|refactoring|Mon, 27 Feb 2017 09:00:56 +0000|Mon, 27 Feb 2017 09:00:56 +0000
+3cf6ef53651a99fbbe2e9e8a95def1b67648c3d0|simplify exception handling error messages|Mon, 27 Feb 2017 07:39:11 +0000|Mon, 27 Feb 2017 07:39:11 +0000
+2deacd70dbac0963915860b3ae1b1ee15883090a|readme tweaks|Mon, 27 Feb 2017 07:38:53 +0000|Mon, 27 Feb 2017 07:38:53 +0000
+b57c2e6fc4d27ef465e7c02976a76e450d9bbe40|[ci skip] md file tweaks|Wed, 22 Feb 2017 07:22:37 +0000|Wed, 22 Feb 2017 07:22:37 +0000
+096e8504c804013c8a6023605fc06457ac67da9b|[ci skip] added comments|Tue, 21 Feb 2017 21:16:42 +0000|Tue, 21 Feb 2017 21:16:42 +0000
+f6cc1aa4e3f26820c4d93575785177e6f1874f62|fix script: my-dir is not pwd|Tue, 21 Feb 2017 15:21:02 +0000|Tue, 21 Feb 2017 15:21:02 +0000
+1706bbb6206ac69d9176e2a56cf32a6cc722300e|upgrade to git 2.11.1|Tue, 21 Feb 2017 15:12:54 +0000|Tue, 21 Feb 2017 15:12:54 +0000
+26f16c86a08f8338125857b2944e6ab92793b5c0|use standard test.sh script|Tue, 21 Feb 2017 15:12:39 +0000|Tue, 21 Feb 2017 15:12:39 +0000
+06e3e655ac9592b73540fde457c8a02946cbbc91|refactoring; fold single old-format git command into host-disk-storer|Wed, 4 Jan 2017 20:34:01 +0000|Wed, 4 Jan 2017 20:34:01 +0000
+04b447406049aaff27f071454b63e91faaf13587|refactoring|Wed, 4 Jan 2017 19:51:27 +0000|Wed, 4 Jan 2017 19:51:27 +0000
+a9084b64538865ecccb3690d818a751c5f36c240|[ci skip] readme update|Tue, 3 Jan 2017 14:47:01 +0000|Tue, 3 Jan 2017 14:47:01 +0000
+340b5149fb52099d51c3ef05af619834696518d4|[ci skip] readme update|Tue, 3 Jan 2017 14:45:30 +0000|Tue, 3 Jan 2017 14:45:30 +0000
+12c740b93b36ebbeaea5124221ce7a1540da2cd1|[ci skip] readme update|Tue, 3 Jan 2017 14:42:28 +0000|Tue, 3 Jan 2017 14:42:28 +0000
+4fbb4290aeade85365509b8f2a23c8ac02a2ebdd|[ci skip] readme update|Tue, 3 Jan 2017 14:40:37 +0000|Tue, 3 Jan 2017 14:40:37 +0000
+cc1b8d49ddbabf334b53a387ef5bcd66f6d8d16a|split unless-fail statements - shorter lines and better coverage info|Tue, 3 Jan 2017 10:49:00 +0000|Tue, 3 Jan 2017 10:49:00 +0000
+5d4edeffe7f1decbf21052f08756a04ce905a9d5|split unless-fail statement line and add missing test this reveals|Tue, 3 Jan 2017 10:43:48 +0000|Tue, 3 Jan 2017 10:43:48 +0000
+60a32229690c0d26bc9f6dba077acb13bf9c5500|change hex-id for test as F7 end clashes with 7FC completions test|Tue, 3 Jan 2017 10:33:42 +0000|Tue, 3 Jan 2017 10:33:42 +0000
+8f91ab08c084dcc617ee292d10d06273626a29e4|refactoring; delete dead statements|Tue, 3 Jan 2017 10:23:13 +0000|Tue, 3 Jan 2017 10:23:13 +0000
+f8ac1c96db5fa90124bb4ecf5518363fd5532275|added parameter checking to avatar_exists?()|Tue, 3 Jan 2017 10:18:59 +0000|Tue, 3 Jan 2017 10:18:59 +0000
+909b9231bd785dcc2dc10585cef1fd64071929bb|added avatar_exists? to API|Tue, 3 Jan 2017 10:05:11 +0000|Tue, 3 Jan 2017 10:05:11 +0000
+1458a7752bf10453afe6f670092f76920cf7974d|added kata_exists? to API|Tue, 3 Jan 2017 10:00:30 +0000|Tue, 3 Jan 2017 10:00:30 +0000
+2d8625be4bb05e8e1ec68900532d71632e1f4ec3|file rename|Tue, 3 Jan 2017 08:59:06 +0000|Tue, 3 Jan 2017 08:59:06 +0000
+6525ae4d22dea78b23062d1f9495780fdef7662d|file renames|Tue, 3 Jan 2017 08:55:02 +0000|Tue, 3 Jan 2017 08:55:02 +0000
+9ef3d866eb88bb719d3ff138e5f052a8cbcb9adb|moved completion tests into their own file|Tue, 3 Jan 2017 08:51:58 +0000|Tue, 3 Jan 2017 08:51:58 +0000
+ad067d9a23f7e210d9cb400fe1e908d5deb8ac0b|added parameter checking to completed()|Tue, 3 Jan 2017 08:39:54 +0000|Tue, 3 Jan 2017 08:39:54 +0000
+ed900376f1d37942ae3b17ff998acb8813116534|better comment|Tue, 3 Jan 2017 08:20:58 +0000|Tue, 3 Jan 2017 08:20:58 +0000
+47ce9ab1705ce2be557eaac61ef1b3303d729f6b|s/name/avatar_name/ in error messages|Tue, 3 Jan 2017 08:18:03 +0000|Tue, 3 Jan 2017 08:18:03 +0000
+e61df749c512116c987148702526f63af1f64809|s/id/kata_id/ in error messages|Tue, 3 Jan 2017 08:16:37 +0000|Tue, 3 Jan 2017 08:16:37 +0000
+30aef4ede95f71306954d51ff527ed787673d0d1|refactoring; better names, s/id/kata_id/ s/name/avatar_name/|Tue, 3 Jan 2017 08:10:08 +0000|Tue, 3 Jan 2017 08:10:08 +0000
+955dfd5e7fcff843c929cf9ddc66f171473f263f|refactoring; rename parameter|Tue, 3 Jan 2017 07:51:55 +0000|Tue, 3 Jan 2017 07:51:55 +0000
+25b0fe2275cfc654b2ca9673b6cdfce19c40b0e6|fix docker version command in .travis.yml|Mon, 2 Jan 2017 19:43:55 +0000|Mon, 2 Jan 2017 19:43:55 +0000
+8549e472914ef91c6a1c2e64a3d9614d5cb62fa5|output docker version numbers in .travis.yml script|Mon, 2 Jan 2017 19:41:25 +0000|Mon, 2 Jan 2017 19:41:25 +0000
+0a39ea628279a57a26d0544ab5db3d1395c9cae8|show less test output, only show info on a fail, don't show metrics fail if subset of tests ran|Mon, 2 Jan 2017 19:04:35 +0000|Mon, 2 Jan 2017 19:04:35 +0000
+8347494efe58a8b7389ffe59d4f6e32f2025f2dd|refactoring; test script tidying|Mon, 2 Jan 2017 13:42:43 +0000|Mon, 2 Jan 2017 13:42:43 +0000
+ef305501fdd960a8ebd44ecdc52ad98753c8caba|refactoring; test stats gathering|Mon, 2 Jan 2017 10:19:24 +0000|Mon, 2 Jan 2017 10:19:24 +0000
+d7248e04e80275833f176db46392b9dd171cbfd3|renamed nearest_external() to nearest_ancestors()|Mon, 2 Jan 2017 09:58:00 +0000|Mon, 2 Jan 2017 09:58:00 +0000
+e9f4dc1a197429d9013ff04e6967877fe079e566|renamed Sheller to BashSheller|Mon, 2 Jan 2017 09:47:46 +0000|Mon, 2 Jan 2017 09:47:46 +0000
+4c30eda08234148160a254e53711626038b44900|renamed StorerTestBase to TestBase|Mon, 2 Jan 2017 09:44:54 +0000|Mon, 2 Jan 2017 09:44:54 +0000
+8c8f8a37a328396388e6ff0e4d345f0d4556839d|removed external prefix from lots of classes|Mon, 2 Jan 2017 09:40:59 +0000|Mon, 2 Jan 2017 09:40:59 +0000
+f97e079211632d5c4f0ad7a8a6ec6cd0197ac58f|[ci skip] readme update|Mon, 2 Jan 2017 07:48:44 +0000|Mon, 2 Jan 2017 07:48:44 +0000
+b146a9f9d8c128fa040206804cff5e834042a5db|readme update|Mon, 2 Jan 2017 07:38:15 +0000|Mon, 2 Jan 2017 07:38:15 +0000
+85f671c224ec2c3f5afcabfe57ac41b12967b49e|moved git_kata/ into server/|Mon, 2 Jan 2017 07:25:43 +0000|Mon, 2 Jan 2017 07:25:43 +0000
+e46bd6a889143ad9e56b4f29c8621e5ce464f5a6|avoid using backslash && in .travis.yml script|Sun, 1 Jan 2017 17:33:54 +0000|Sun, 1 Jan 2017 17:33:54 +0000
+4d5ad0685c1a2740b12bd6af6bbb93b8d8dcdcd3|chained travis script commands with && since you can't use the exit status of a command|Sun, 1 Jan 2017 16:23:56 +0000|Sun, 1 Jan 2017 16:23:56 +0000
+8bab234585d6f03aa38b54cef2acd6f79e821f3c|added echo to start debugging travis script|Sun, 1 Jan 2017 16:18:37 +0000|Sun, 1 Jan 2017 16:18:37 +0000
+f17a299dab707a0578cec6c270894a2699206362|updated travis script to use new push_and_trigger script|Sun, 1 Jan 2017 16:12:15 +0000|Sun, 1 Jan 2017 16:12:15 +0000
+85c6e863fad7d7cb3c7bcdcc85e350237fd362b6|[ci skip] readme update|Sun, 1 Jan 2017 14:30:49 +0000|Sun, 1 Jan 2017 14:30:49 +0000
+72a8e3e732ee4f576d1444085008ceece6a0d5af|[ci skip] readme update|Sun, 1 Jan 2017 14:28:20 +0000|Sun, 1 Jan 2017 14:28:20 +0000
+79193eba0be878e1e610c1756390e7f3daf53a0e|[ci skip] readme update|Sat, 31 Dec 2016 07:49:41 +0000|Sat, 31 Dec 2016 07:49:41 +0000
+0e788ed3699b8dc2ff662a81af4f08e579d48d4f|[ci skip] readme update|Sat, 31 Dec 2016 07:47:02 +0000|Sat, 31 Dec 2016 07:47:02 +0000
+f2cb90bcbf32adcb2b504a2da08cd00659ca889f|[ci skip] readme update|Sat, 31 Dec 2016 07:43:23 +0000|Sat, 31 Dec 2016 07:43:23 +0000
+e606d83ff84784f40ce39ca34330d6b92100f865|[ci skip] readme update|Sat, 31 Dec 2016 07:24:09 +0000|Sat, 31 Dec 2016 07:24:09 +0000
+3c78f41d2aa9d8067825829d2b07abc9e2f74a4e|refactoring; removed unneeded ./ prefix in require_relative statements|Wed, 28 Dec 2016 07:53:34 +0000|Wed, 28 Dec 2016 07:53:34 +0000
+00efb403b0558d0c1ef2ff9fe6649e5865cbe099|[ci skip] deleted dead comments|Sat, 24 Dec 2016 14:11:03 +0000|Sat, 24 Dec 2016 14:11:03 +0000
+1aa46fdffd725ae0fdf44f19545d5e5af7f68467|refactoring; use service-handling code to match other services (runner/differ)|Sat, 24 Dec 2016 11:55:32 +0000|Sat, 24 Dec 2016 11:55:32 +0000
+d1d7e6877bbbb725f7a0c3dd6dfafb4d2af622ae|[ci skip] use as-if formatting for return examples|Fri, 23 Dec 2016 19:51:20 +0000|Fri, 23 Dec 2016 19:51:20 +0000
+f6630acbd3e411a641276bfea8f06f355e23f7fa|[ci skip] update readme; couple of methods had old-method-name as returned json key; try as-is formatting for return example; add success/failure notes|Fri, 23 Dec 2016 19:47:03 +0000|Fri, 23 Dec 2016 19:47:03 +0000
+c0bec698727f3e98eb7ed419d5831d2b827396db|[ci skip] updated readme|Fri, 23 Dec 2016 10:40:09 +0000|Fri, 23 Dec 2016 10:40:09 +0000
+0b6bf4ef707eb60c2aa2a41b59830596c921ddd2|added BatchMethod to get consecutive tag's visible-files (differ optimization)|Thu, 22 Dec 2016 12:08:45 +0000|Thu, 22 Dec 2016 12:08:45 +0000
+653c3860b030c5e78b65bb2cb4637ae28db9e06a|use File.exist? instead of File.exists? which is deprecated|Wed, 21 Dec 2016 22:22:21 +0000|Wed, 21 Dec 2016 22:22:21 +0000
+a44b94cd6b7af86b66fd9aeafa90fc022c9a2080|added missing test assert|Wed, 21 Dec 2016 15:18:58 +0000|Wed, 21 Dec 2016 15:18:58 +0000
+dca2c99c6096551b0e328a91e7849d4c29e011df|rename all_avatar_names() to all_avatars_names()|Wed, 21 Dec 2016 14:10:38 +0000|Wed, 21 Dec 2016 14:10:38 +0000
+1d0a42fefd0f4043a21f0048fcec4ff1209af999|refactoring; reduce statement complexity by breaking down into several smaller statements|Wed, 21 Dec 2016 10:27:23 +0000|Wed, 21 Dec 2016 10:27:23 +0000
+1dc20cb102630ad7779aa3200d6a2d35eff038c6|refactoring; mostly reducing line widths|Wed, 21 Dec 2016 10:07:20 +0000|Wed, 21 Dec 2016 10:07:20 +0000
+b2a879460696bcbfb690623fc4ea69e614c544ef|added missing asserts to tests for kata stored in old git-format|Wed, 21 Dec 2016 09:20:18 +0000|Wed, 21 Dec 2016 09:20:18 +0000
+ceb715ca4fced3e42b48cfe9422515a35315c750|refactoring; removed / duplication|Wed, 21 Dec 2016 09:01:52 +0000|Wed, 21 Dec 2016 09:01:52 +0000
+6766d2fd49da1823484fa063b1381d1a6f75ab0f|refactoring; better test identifiers|Wed, 21 Dec 2016 08:53:39 +0000|Wed, 21 Dec 2016 08:53:39 +0000
+579d587c1c6870bf00c4e4e067eb7d95acbaa091|[ci skip] delete dead comment|Wed, 21 Dec 2016 08:49:32 +0000|Wed, 21 Dec 2016 08:49:32 +0000
+a9a547f6bec781d2de753f50c103d549a9bb3929|used more concrete Error class in assert_raises tests|Wed, 21 Dec 2016 08:46:10 +0000|Wed, 21 Dec 2016 08:46:10 +0000
+b743cc48dfa676060394060b6ffeb8e9ad67fedc|create_kata now raises exception if kata with given id already exists|Wed, 21 Dec 2016 08:43:00 +0000|Wed, 21 Dec 2016 08:43:00 +0000
+ba8f8328f2da46df6792f305d99585069e86a261|refactored HostDiskStorer|Wed, 21 Dec 2016 07:31:35 +0000|Wed, 21 Dec 2016 07:31:35 +0000
+9b405cc814f0ff9aa184461227fab9887a169ac2|refactor layout to align vertically|Tue, 20 Dec 2016 12:38:49 +0000|Tue, 20 Dec 2016 12:38:49 +0000
+0df2a6bb53bfc0f57a8913e0699dc4e643b150c6|refactor layout to reduce width of lines|Tue, 20 Dec 2016 12:38:36 +0000|Tue, 20 Dec 2016 12:38:36 +0000
+55ff2cbaf016aa13f24dac649b97c9faa62d939c|moved test to group it belongs to|Tue, 20 Dec 2016 12:37:55 +0000|Tue, 20 Dec 2016 12:37:55 +0000
+ddf5ade4d87aa194f682d1d14f70c8d066f17860|storer methods now check for validity of tag arguments|Tue, 20 Dec 2016 12:26:11 +0000|Tue, 20 Dec 2016 12:26:11 +0000
+43b340de5df8480ecffdac1c6726fa7093e9a2b9|triggered Travis build of cyberdojo/web on done|Tue, 20 Dec 2016 09:20:39 +0000|Tue, 20 Dec 2016 09:20:39 +0000
+16dd00efd0684de74b82b317547fa89b564b2adf|dropped word kata from kata_start_avatar() and kata_started_avatars() methods|Tue, 20 Dec 2016 09:09:16 +0000|Tue, 20 Dec 2016 09:09:16 +0000
+c22b3499c478b0432772a5f39eaa4da2ff282145|dropped custom storer-exception class; use ArgumentError instead|Tue, 20 Dec 2016 09:00:59 +0000|Tue, 20 Dec 2016 09:00:59 +0000
+f5f27ebb9372d5ec26079c2baef314cf39dc7212|split long bash lines for better readability|Tue, 20 Dec 2016 08:06:06 +0000|Tue, 20 Dec 2016 08:06:06 +0000
+9265f110988246459e286340aced9f3ff6ab0e19|split long bash lines for better readability|Tue, 20 Dec 2016 08:03:24 +0000|Tue, 20 Dec 2016 08:03:24 +0000
+d1e7b4a940d0c4b84dd677ea57a637b72fbdc91b|refactoring; method reordering|Tue, 20 Dec 2016 07:57:17 +0000|Tue, 20 Dec 2016 07:57:17 +0000
+f6c882523e4b12a03b35153609870a54ed51257d|removed duplication|Tue, 20 Dec 2016 07:53:08 +0000|Tue, 20 Dec 2016 07:53:08 +0000
+409106c0c2559b28511189a525531d8c6f6bd0e5|improved comments|Tue, 20 Dec 2016 07:52:52 +0000|Tue, 20 Dec 2016 07:52:52 +0000
+7fd0a508937ae93efa13b2a03d81f1a7bd5ea18d|refactoring; method reordering|Tue, 20 Dec 2016 07:46:09 +0000|Tue, 20 Dec 2016 07:46:09 +0000
+3fd332ea81d937fbf002334c9b68d46ad014fd68|turned off server-container read_only+tmpfs as it is preventing coverage stats being copied out of the container|Tue, 20 Dec 2016 07:06:53 +0000|Tue, 20 Dec 2016 07:06:53 +0000
+8a3552618180bb3781b0254657bb1f587bdacef2|[ci skip] readme update|Mon, 19 Dec 2016 22:05:58 +0000|Mon, 19 Dec 2016 22:05:58 +0000
+33563513c5a54a7907268e19db528d369a313cc2|[ci skip] updated readme|Mon, 19 Dec 2016 22:04:46 +0000|Mon, 19 Dec 2016 22:04:46 +0000
+709850bb6874b1f2750315587fbdd669b57adb57|removed avatar_exists? and kata_exists? from api|Mon, 19 Dec 2016 20:19:30 +0000|Mon, 19 Dec 2016 20:19:30 +0000
+3edacd4489d946126cb0875a376fb66844721eee|storer methods now check for validity of avatar-name|Mon, 19 Dec 2016 20:04:13 +0000|Mon, 19 Dec 2016 20:04:13 +0000
+1586e132f5fcb6ca0ce3a611b113b0c81032ffac|storer methods now check not just for validity of kata-id form, but where appropriate whether a kata exists|Mon, 19 Dec 2016 17:01:17 +0000|Mon, 19 Dec 2016 17:01:17 +0000
+37d8599470647fd221cc5fc3d2ceed1c462983d0|refactoring; rename method|Mon, 19 Dec 2016 16:39:42 +0000|Mon, 19 Dec 2016 16:39:42 +0000
+7bddf9053b8276f32f425ecc985de4871fdeb360|added more code+tests for storer methods self-validating their arguments|Mon, 19 Dec 2016 16:37:55 +0000|Mon, 19 Dec 2016 16:37:55 +0000
+6b7e36a2fec9aae46793a68a9b5355980100d381|added more code+tests for storer methods self-validating their arguments|Mon, 19 Dec 2016 16:33:57 +0000|Mon, 19 Dec 2016 16:33:57 +0000
+ac7c09efcb8d4ce239aa5c435d1e77b69ebe6e35|started adding code+tests to storer methods so they all self-validate their arguments; this will enable me to drop the exists? style tests in the web controllers which is doing a needless extra service round-trip|Mon, 19 Dec 2016 15:30:50 +0000|Mon, 19 Dec 2016 15:30:50 +0000
+f49dfb7106e1143bfb7d370ee79ef61a40148e03|refactoring; deleted dead test code|Mon, 19 Dec 2016 13:45:42 +0000|Mon, 19 Dec 2016 13:45:42 +0000
+a2e0cf2a579917795883ed8c53e74d145db5fc78|refactoring; removed duplication|Mon, 19 Dec 2016 13:21:46 +0000|Mon, 19 Dec 2016 13:21:46 +0000
+95153453923925bdc7af035992d9b006b093b9c4|refactoring; use File.join() instead of '/'|Mon, 19 Dec 2016 13:15:03 +0000|Mon, 19 Dec 2016 13:15:03 +0000
+e699e65d899f8faad97756580dfb1ac0016a53ca|refactoring; use File.join() instead of '/'|Mon, 19 Dec 2016 13:12:28 +0000|Mon, 19 Dec 2016 13:12:28 +0000
+2f00bc594b3258387dd2595187505a5154cb6f47|added path() to api readme|Sun, 18 Dec 2016 16:02:11 +0000|Sun, 18 Dec 2016 16:02:11 +0000
+0ee21b6a7458988b76c88ab6adf01af1c12fcc13|added path to microservice api|Sun, 18 Dec 2016 16:00:41 +0000|Sun, 18 Dec 2016 16:00:41 +0000
+376e7bfad2a9f4c20d98bd133207cc3dd61e87d3|refactored avatar_increments() to include tag-zero as BatchMethod optimization - whilst maintaining format of increments.json which does not store tag-zero|Thu, 15 Dec 2016 18:50:05 +0000|Thu, 15 Dec 2016 18:50:05 +0000
+ee02941320687f6f07ec5d9ec4d97696a5233621|renamed gitted_katas (dir and container name) to singular git_kata|Tue, 13 Dec 2016 07:10:16 +0000|Tue, 13 Dec 2016 07:10:16 +0000
+2900b11aeba05a2ac8279cc0816b5a518a6757d2|removed unused delta argument from avatar_ran_tests()|Mon, 12 Dec 2016 18:55:02 +0000|Mon, 12 Dec 2016 18:55:02 +0000
+3d9aab8695ac23ff0a177474f2d945431491ff13|[ci skip] updated readme - storer is now used by cyberdojo/web|Mon, 12 Dec 2016 17:18:08 +0000|Mon, 12 Dec 2016 17:18:08 +0000
+d6c4d158a7221d75a8298615eaee0b1e16ee7334|refactoring; deleted dead tests|Mon, 12 Dec 2016 15:26:25 +0000|Mon, 12 Dec 2016 15:26:25 +0000
+1f9fd3fd5ef1bc7db094a6c8212c083ac6b42376|refactoring; put common code (all-avatar-names) into mixin module|Mon, 12 Dec 2016 15:25:20 +0000|Mon, 12 Dec 2016 15:25:20 +0000
+91f10095be480d52749dbae34353093b0afb1efc|deleted dead code|Mon, 12 Dec 2016 15:17:58 +0000|Mon, 12 Dec 2016 15:17:58 +0000
+0a4a92783d4dd5ca9caebf6ba0c9ebae564826db|deleted dead git tests|Mon, 12 Dec 2016 15:17:39 +0000|Mon, 12 Dec 2016 15:17:39 +0000
+c458b0c7be4c0ed1c61cbc3e45e2e63712e20468|refactoring; stripped git and tests down to just git.show|Mon, 12 Dec 2016 15:10:50 +0000|Mon, 12 Dec 2016 15:10:50 +0000
+b0d375d184d667ba0a6c81230afa4ef1ca5dcf84|refactoring|Mon, 12 Dec 2016 14:57:40 +0000|Mon, 12 Dec 2016 14:57:40 +0000
+a2ef250beaf15775f38d09ac42a95ce59ab9b439|tag_visible_files now works for both old (git) and new (non-git) format|Mon, 12 Dec 2016 14:55:12 +0000|Mon, 12 Dec 2016 14:55:12 +0000
+26b348d18095571f846198b6858073aaafac4b1f|added failing test for git-format kata tag 1|Mon, 12 Dec 2016 14:50:16 +0000|Mon, 12 Dec 2016 14:50:16 +0000
+fc0fadb4e35fb592915a1876f90be5559d7b128f|added tests for git-format kata's increments and tag-zero - neither need git|Mon, 12 Dec 2016 14:48:26 +0000|Mon, 12 Dec 2016 14:48:26 +0000
+f934b4b6cbea17635b2784e664ae04a581b8ea39|switched storer to new non-git format|Mon, 12 Dec 2016 14:37:33 +0000|Mon, 12 Dec 2016 14:37:33 +0000
+32b11d413a77a5d74e0e6caac7577d060c6aceba|removed debug ls and quitened tar extract command|Mon, 12 Dec 2016 13:08:15 +0000|Mon, 12 Dec 2016 13:08:15 +0000
+a82d65615010ea533155d91170ac97361e9d4b19|removed puts from gitted-kata test|Mon, 12 Dec 2016 13:05:40 +0000|Mon, 12 Dec 2016 13:05:40 +0000
+b61a762322ab0821361eae9c6d31ef5d06b0e229|untar the gitted-katas tgz file so .git repo is retained; removed debug statements|Mon, 12 Dec 2016 13:04:30 +0000|Mon, 12 Dec 2016 13:04:30 +0000
+f4b9c9efe0aa8095dc7ccd8a3077c86032aecd00|put gitted-kata into tgz file and untar it in travis script|Mon, 12 Dec 2016 12:58:17 +0000|Mon, 12 Dec 2016 12:58:17 +0000
+fc62d249478c26578bdefefbe069d1e8812e367f|more debugging; looking like .git repo is not being copied to travis fs|Mon, 12 Dec 2016 11:56:51 +0000|Mon, 12 Dec 2016 11:56:51 +0000
+233c237f4ecc351637199af46da89c9fb16e3d08|more travis debugging|Mon, 12 Dec 2016 11:50:50 +0000|Mon, 12 Dec 2016 11:50:50 +0000
+d6afaa78031fc49380a9cc75bfd445045528e1b6|problem seems to be the [docker cp]|Mon, 12 Dec 2016 11:40:35 +0000|Mon, 12 Dec 2016 11:40:35 +0000
+47f40775136d469bc90a24b783ccedeef0954e86|more travis debugging|Mon, 12 Dec 2016 11:31:09 +0000|Mon, 12 Dec 2016 11:31:09 +0000
+4f17473c66a3337ba2a9ab4c33ec373cc0be4bbc|added more logging to help debug travis|Mon, 12 Dec 2016 11:24:30 +0000|Mon, 12 Dec 2016 11:24:30 +0000
+31c3a9e1bab1c2776ccd710ee09a0e1dc243c80d|travis is running docker 1.12.3, so am I :-( ... trying different cp command|Mon, 12 Dec 2016 11:09:22 +0000|Mon, 12 Dec 2016 11:09:22 +0000
+e72eff8c47aa4f677c3bc55c4b8beb745a6c137c|checking what version of docker is on travis|Mon, 12 Dec 2016 10:41:18 +0000|Mon, 12 Dec 2016 10:41:18 +0000
+63b6989ff589e921306adf565fefea00878deb8e|added puts statements to debug travis script failure|Mon, 12 Dec 2016 10:34:30 +0000|Mon, 12 Dec 2016 10:34:30 +0000
+c96375db8b78ff71337f03ac53b5336a05bd1608|debugging travis failure|Mon, 12 Dec 2016 10:28:14 +0000|Mon, 12 Dec 2016 10:28:14 +0000
+17baeb9a879de2cfbf1f87bee930adc90f6d8a0a|CI pipe now creates a custom katas-data-container which holds a kata in the (soon to be old) git format; build pipe script creates this katas-data-container; docker-compose.yml volumes_from: mounts it; tests verify the kata in old git-format (5A0F824303/spider) exists and has .git dir|Mon, 12 Dec 2016 10:16:07 +0000|Mon, 12 Dec 2016 10:16:07 +0000
+30611d5fe9da674bab3334784738fec2e7e0b9d3|made storer read-only container (with tmpfs for tests)|Sun, 11 Dec 2016 21:24:23 +0000|Sun, 11 Dec 2016 21:24:23 +0000
+70293cc602332c7459a4b4b6ec89061a1d8c0362|added missing avatar_exists?() method|Sun, 11 Dec 2016 19:53:56 +0000|Sun, 11 Dec 2016 19:53:56 +0000
+5d9a91118faaef1dbe10b4e577821329cbed78d6|added tests for kata_start_avatar() starting an avatar atomically|Thu, 8 Dec 2016 13:51:30 +0000|Thu, 8 Dec 2016 13:51:30 +0000
+5525c3c4009bafa2cdd9db9a957dc0ce069eadd4|switched storer-client to use sinatra as base image (dropped foreman)|Wed, 7 Dec 2016 11:48:49 +0000|Wed, 7 Dec 2016 11:48:49 +0000
+9a1a57a231ab067f7cbf466671c7db78b1318025|switched storer-server to use sinatra as base image (dropped foreman)|Wed, 7 Dec 2016 11:44:56 +0000|Wed, 7 Dec 2016 11:44:56 +0000
+e3b51d2defbf0c3d502899db218440ca8bed0617|refactoring; made name of file match name of class|Wed, 7 Dec 2016 09:44:54 +0000|Wed, 7 Dec 2016 09:44:54 +0000
+efefa7859452f0fb9d802823cae5497a40a95dbb|refactoring|Wed, 7 Dec 2016 06:52:55 +0000|Wed, 7 Dec 2016 06:52:55 +0000
+cdba7cf8b23a30b871a442f0b5fa792f2e2235d4|refactoring|Wed, 7 Dec 2016 06:52:39 +0000|Wed, 7 Dec 2016 06:52:39 +0000
+2490fc2c025c856e045f9878213a34da3538440a|updated readme; put queries and modifiers into separate sections|Tue, 6 Dec 2016 13:00:35 +0000|Tue, 6 Dec 2016 13:00:35 +0000
+92deca2b3ecea2bdd0445ff8444e9ec6cd3b73ac|[ci skip] documented API in readme|Tue, 6 Dec 2016 12:52:07 +0000|Tue, 6 Dec 2016 12:52:07 +0000
+1ffe5965f70d2c5f61b0b5ee709b396c47c100e0|added storer-service-error exception class|Tue, 6 Dec 2016 09:42:54 +0000|Tue, 6 Dec 2016 09:42:54 +0000
+99f96abb76d8779c2227bbdcdb68fcb8290602f1|added exception-wrapping for client->server get/post requests|Tue, 6 Dec 2016 09:42:28 +0000|Tue, 6 Dec 2016 09:42:28 +0000
+4c12ea3044917ff4aa8e269767ca35324f2eb921|refactoring|Tue, 6 Dec 2016 08:47:59 +0000|Tue, 6 Dec 2016 08:47:59 +0000
+1a0bd60e7b317921bb0827c94bb75a5280d85eed|refactoring; remove duplication|Tue, 6 Dec 2016 08:32:08 +0000|Tue, 6 Dec 2016 08:32:08 +0000
+842976501ce43e1c1990023b55dca31602f5fdaa|reduced client-tests assertions/s limit for busy travis|Tue, 6 Dec 2016 07:57:45 +0000|Tue, 6 Dec 2016 07:57:45 +0000
+30a9fed0d4043a78c5ed7bd1d3358b7202719e45|refactoring; rename file|Tue, 6 Dec 2016 07:54:23 +0000|Tue, 6 Dec 2016 07:54:23 +0000
+08cebd09260f7f476662ad3723f5ff8224897dab|refactoring; remove duplication|Tue, 6 Dec 2016 07:53:19 +0000|Tue, 6 Dec 2016 07:53:19 +0000
+a72675fdcaa495fe3678e6980184d4f9182617c0|add test for completions() returning more than one kata-id|Tue, 6 Dec 2016 07:47:52 +0000|Tue, 6 Dec 2016 07:47:52 +0000
+8d9a7fcb53e3cff46cb9ffbb41dbdc5dcf240e00|refactoring; test improvement|Tue, 6 Dec 2016 07:38:51 +0000|Tue, 6 Dec 2016 07:38:51 +0000
+8e3060c036e76e4917b650365be60b1d4df96e74|restore docker-compose down in test script|Tue, 6 Dec 2016 06:41:03 +0000|Tue, 6 Dec 2016 06:41:03 +0000
+2b93a253d04445934bf47f58340929ad0e85cdeb|refactoring; test layout tweak|Tue, 6 Dec 2016 06:40:40 +0000|Tue, 6 Dec 2016 06:40:40 +0000
+cd9d3b57a448a10253d0a52337b4531fcab4bd68|added first code/tests for client->server tag_visible_files()|Mon, 5 Dec 2016 21:12:17 +0000|Mon, 5 Dec 2016 21:12:17 +0000
+a5c5ac208d5e2f0c49bfd0a096cfca287dacab88|added first code/tests for client->server avatar_ran_tests()|Mon, 5 Dec 2016 21:07:12 +0000|Mon, 5 Dec 2016 21:07:12 +0000
+269596499c295d0595d9c248e3a8be161feb665f|refactoring|Mon, 5 Dec 2016 19:43:42 +0000|Mon, 5 Dec 2016 19:43:42 +0000
+a36edc2ac4b508760509ebab5f324718dcf0e2cd|added first code/tests for client->server avatar_visible_files()|Mon, 5 Dec 2016 19:34:20 +0000|Mon, 5 Dec 2016 19:34:20 +0000
+42c06d0c2ca895686c36b74ee0b4c282fd7d77ca|added first code/tests for client->server avatar_increments()|Mon, 5 Dec 2016 19:31:51 +0000|Mon, 5 Dec 2016 19:31:51 +0000
+0b6fcc8ee3dac6a70304669cbcc89e36278f62c4|refactoring; remove dead code|Mon, 5 Dec 2016 19:24:00 +0000|Mon, 5 Dec 2016 19:24:00 +0000
+b7e83a6e2668f7e3b2993d4b95538e1b5c4c3376|refactor; remove duplication|Mon, 5 Dec 2016 19:16:51 +0000|Mon, 5 Dec 2016 19:16:51 +0000
+99924ddd2e36ec9b0f033c852079990f3e727329|refactoring; collapse http argument retrieval duplication|Mon, 5 Dec 2016 16:03:46 +0000|Mon, 5 Dec 2016 16:03:46 +0000
+1b02aeaa2b0a52012cfabb168c66e62526146a8c|added code/tests for kata_start_avatar()|Mon, 5 Dec 2016 15:44:53 +0000|Mon, 5 Dec 2016 15:44:53 +0000
+8a82b2613ff538b4403ea9eb1915393a3a8df361|refactoring; rename ids_for to completions|Mon, 5 Dec 2016 15:26:43 +0000|Mon, 5 Dec 2016 15:26:43 +0000
+8bd257bac73017721c415974edd6e12c91171c7b|refactoring|Mon, 5 Dec 2016 15:22:34 +0000|Mon, 5 Dec 2016 15:22:34 +0000
+0bf0840ca89413dfc41bd278776b465707fb94b9|refactoring; delete dead code|Mon, 5 Dec 2016 15:05:25 +0000|Mon, 5 Dec 2016 15:05:25 +0000
+ba9613c5a713138878fa2863dce2ade446496958|tweak metrics|Mon, 5 Dec 2016 14:40:47 +0000|Mon, 5 Dec 2016 14:40:47 +0000
+d38b01c36ab3081ae66375b9adec0698369ab747|refactoring; storer methods return JSON.parsed(file-content)|Mon, 5 Dec 2016 14:38:01 +0000|Mon, 5 Dec 2016 14:38:01 +0000
+48386f5d4b051b9244706d0bc810d592fef3df8d|dont return anything from POST|Mon, 5 Dec 2016 14:31:58 +0000|Mon, 5 Dec 2016 14:31:58 +0000
+06ad3a616bb98fd0d2428b579202fc2a3fef650c|refactoring; remove rough working|Mon, 5 Dec 2016 14:25:38 +0000|Mon, 5 Dec 2016 14:25:38 +0000
+85ebb985166d42d94b597ade6bd0667db97bd8cd|save point|Mon, 5 Dec 2016 14:23:19 +0000|Mon, 5 Dec 2016 14:23:19 +0000
+c67217605350deb8a5317dba32c6d1b585d1cb46|drop ? from server exists? methods to simplify micro_service.rb since ? cant be http method name character|Mon, 5 Dec 2016 14:15:50 +0000|Mon, 5 Dec 2016 14:15:50 +0000
+2fc940532b38955da9c71b50b55052778c602667|save point|Mon, 5 Dec 2016 14:08:29 +0000|Mon, 5 Dec 2016 14:08:29 +0000
+5a6cc54def48ed1856024d6356a27409672cf521|refactoring; server gets now return json in the form { method_name:... }|Mon, 5 Dec 2016 13:08:00 +0000|Mon, 5 Dec 2016 13:08:00 +0000
+9f5f8b98bf3010cd6d5efb21f41dcddb52d2f723|refactoring; server sends well-formed json so client can do single json.parse in get/post adapter|Mon, 5 Dec 2016 11:37:29 +0000|Mon, 5 Dec 2016 11:37:29 +0000
+d0d52694ae4da6548807d575cf176e2a184bdab1|added code/test for ids_for()|Mon, 5 Dec 2016 11:30:28 +0000|Mon, 5 Dec 2016 11:30:28 +0000
+097c2fc3711b2f60557d8bf288129833628f57b3|added client-side code/tests for kata_manifest() and completed()|Mon, 5 Dec 2016 10:45:44 +0000|Mon, 5 Dec 2016 10:45:44 +0000
+8bd55481ca98da336c26f171c5c1f90de0439fc8|use pipe script in .travis.yml|Sun, 4 Dec 2016 17:02:41 +0000|Sun, 4 Dec 2016 17:02:41 +0000
+09f8e4745a804903e7e6e798f59a9951aabfff77|remove commented out coverage debug statements|Sat, 3 Dec 2016 20:45:54 +0000|Sat, 3 Dec 2016 20:45:54 +0000
+8092715a3d7601cbb18c56dd01fe3b50f784bd52|fix error preventing server coverage from working properly|Sat, 3 Dec 2016 20:41:20 +0000|Sat, 3 Dec 2016 20:41:20 +0000
+ce407d9b27c2c43db834c5e2d46f78699fbcb2e5|fix error preventing client coverage from working properly|Sat, 3 Dec 2016 20:38:12 +0000|Sat, 3 Dec 2016 20:38:12 +0000
+690196acff0961ac711c8356f0e9f968b62e59d0|layout refactoring|Sat, 3 Dec 2016 20:09:14 +0000|Sat, 3 Dec 2016 20:09:14 +0000
+90076daa92af8f6fdb0c127ba1b44f0dd7a058cf|client side tests create_kata() returns zero to indicate success|Sat, 3 Dec 2016 20:05:03 +0000|Sat, 3 Dec 2016 20:05:03 +0000
+032b3dbe231bad1d04c1338745519732cb62ce08|on client, switched to passing hash arguments using :symbol to using a 'string'|Sat, 3 Dec 2016 12:09:12 +0000|Sat, 3 Dec 2016 12:09:12 +0000
+e0e637c269a2666707304a8be6dcc617c3bfaadf|on server, switched from accessing hash arguments using :symbol to using a 'string'|Sat, 3 Dec 2016 09:33:03 +0000|Sat, 3 Dec 2016 09:33:03 +0000
+eac8108fae673187b8b8ab3031a8cdd602c99ef6|started added client-test for create_kata(); revealed server is accessing hash argument keys using :symbols instead of 'strings'|Sat, 3 Dec 2016 09:26:06 +0000|Sat, 3 Dec 2016 09:26:06 +0000
+7208a7dc4012f02d00474a6b817b96e48b566f09|added first client-side test|Sat, 3 Dec 2016 08:59:14 +0000|Sat, 3 Dec 2016 08:59:14 +0000
+a95ba06c9a96ff65b8250a51382aeec638791bf2|add infrastructure files for client-side tests|Sat, 3 Dec 2016 08:32:52 +0000|Sat, 3 Dec 2016 08:32:52 +0000
+dc523722d49f1614242951286faf7d467b4f4b76|refactoring; delete unused code and tests|Fri, 2 Dec 2016 20:38:44 +0000|Fri, 2 Dec 2016 20:38:44 +0000
+efceb7ca211979d29f581545108f4ba41c515106|[ci skip] rework example used in comments|Fri, 2 Dec 2016 20:35:04 +0000|Fri, 2 Dec 2016 20:35:04 +0000
+c8e40c02e7a6f64af68a07129fd234b32a2cf328|refactoring|Fri, 2 Dec 2016 15:43:55 +0000|Fri, 2 Dec 2016 15:43:55 +0000
+64fdab6bc0d34c792310ad83a2039edcb9f75029|update dir.each_dir() test to make it clear it ignores . and .. but not, for example, .git|Fri, 2 Dec 2016 14:17:46 +0000|Fri, 2 Dec 2016 14:17:46 +0000
+c3870038375f80eacae4405db87f4afdad61878e|refactoring; remove duplication|Fri, 2 Dec 2016 11:20:38 +0000|Fri, 2 Dec 2016 11:20:38 +0000
+c78982d12eed40a9ade2c1f277682b188166f644|refactoring; remove duplication|Fri, 2 Dec 2016 11:15:57 +0000|Fri, 2 Dec 2016 11:15:57 +0000
+65222c9d9035782f86df878287a8071662579671|refactoring; remove duplication|Fri, 2 Dec 2016 11:13:43 +0000|Fri, 2 Dec 2016 11:13:43 +0000
+2605317c3fb14e623a17d98b67a104802e82c1f2|refactoring; remove duplication|Fri, 2 Dec 2016 11:09:19 +0000|Fri, 2 Dec 2016 11:09:19 +0000
+23721f1d37c88f67a1cc47bb62bc5296b9f08f31|refactoring; remove duplication|Fri, 2 Dec 2016 11:05:55 +0000|Fri, 2 Dec 2016 11:05:55 +0000
+58f3eb74458d66e588c650c943d1cac891959536|add code tests for git.added and git.removed files|Fri, 2 Dec 2016 11:03:38 +0000|Fri, 2 Dec 2016 11:03:38 +0000
+0034dfad8c06e445ce03f72964446d8424415886|refactor spy_logger_test to better show intended use|Fri, 2 Dec 2016 09:17:03 +0000|Fri, 2 Dec 2016 09:17:03 +0000
+87179348adb6ab38d509af1fbde5da00baabcc4b|output file was written but not git.add'ed so maintaining that behaviour for now|Fri, 2 Dec 2016 09:16:29 +0000|Fri, 2 Dec 2016 09:16:29 +0000
+2fcd8b23c815b14b2f592c3aa2a3e99643390c17|return plain text from storer methods rather than json object since micro-service will have to return plain text|Fri, 2 Dec 2016 08:33:55 +0000|Fri, 2 Dec 2016 08:33:55 +0000
+641fa73b32d4eea59dd90b6afca04b3ce4e7556b|delete dead comment|Fri, 2 Dec 2016 08:32:15 +0000|Fri, 2 Dec 2016 08:32:15 +0000
+8f1ebb0701aa40acbade3cb556ee17a2dde50194|refactoring|Fri, 2 Dec 2016 08:09:03 +0000|Fri, 2 Dec 2016 08:09:03 +0000
+f196b64d499608edba8683faf7598c34458f7113|refactoring|Fri, 2 Dec 2016 08:04:01 +0000|Fri, 2 Dec 2016 08:04:01 +0000
+b1f9c84c591842efa5e6c14091078646ab3fd698|refactoring|Fri, 2 Dec 2016 08:02:26 +0000|Fri, 2 Dec 2016 08:02:26 +0000
+04a1ad3460b008c067321c8b5af43d5dcf741259|refactoring|Fri, 2 Dec 2016 08:01:52 +0000|Fri, 2 Dec 2016 08:01:52 +0000
+d3a84b60c207b7fb5740fcbba2a20d4b581bb5dd|add test for increments.json being part of git commit|Fri, 2 Dec 2016 07:20:15 +0000|Fri, 2 Dec 2016 07:20:15 +0000
+0cdb2aed31a7196bcd3a7c12f7a99cb943803c81|comment out sandbox code not yet required for any test|Fri, 2 Dec 2016 06:56:08 +0000|Fri, 2 Dec 2016 06:56:08 +0000
+443aa727e02bae2cca2bd37353819b1f901b09bf|started code/tests for storer.avatar_ran_tests()|Fri, 2 Dec 2016 06:48:12 +0000|Fri, 2 Dec 2016 06:48:12 +0000
+c5a16fff488e2ee098bde7ba76858f06824c05d9|use travis's docker|Thu, 1 Dec 2016 18:03:55 +0000|Thu, 1 Dec 2016 18:03:55 +0000
+c388c4c39703a147e9dc2d38e6a03b5ce378559c|in travis script install docker from master script in cyber-dojo/ruby repo|Thu, 1 Dec 2016 10:39:17 +0000|Thu, 1 Dec 2016 10:39:17 +0000
+aaa0daad2c143dbcb35183ad2c18d0358ed47e94|Alpine git has upgraded to 2.11.0|Thu, 1 Dec 2016 10:07:40 +0000|Thu, 1 Dec 2016 10:07:40 +0000
+8c209be0b5e5b58d269deb69c686f26115ab9766|do dockerhub push using push.sh from cyber-dojo/ruby repo|Wed, 30 Nov 2016 14:56:48 +0000|Wed, 30 Nov 2016 14:56:48 +0000
+248bcd2c0ce2e99fba5a4e665f6c1674fd96397c|refactoring; remove duplication|Wed, 30 Nov 2016 10:17:35 +0000|Wed, 30 Nov 2016 10:17:35 +0000
+09172d3d6edaaecfbcd3e11f4d946f5f4f159a7f|git now used in storer|Wed, 30 Nov 2016 10:14:54 +0000|Wed, 30 Nov 2016 10:14:54 +0000
+3222ba96ce7023f9a6b1830d4d2827f94c4bb6d2|started code/tests for kata_start_avatar()|Wed, 30 Nov 2016 09:53:12 +0000|Wed, 30 Nov 2016 09:53:12 +0000
+f13acfcd92f26053dd366c29dc1fbb136364f4de|started code/tests for avatar_exists?() and kata_started_avatars()|Wed, 30 Nov 2016 07:43:57 +0000|Wed, 30 Nov 2016 07:43:57 +0000
+287e4a46fa50f85323f309991f11d6d009c65351|fix broken test|Wed, 30 Nov 2016 07:43:06 +0000|Wed, 30 Nov 2016 07:43:06 +0000
+c6a49a64e3dc36cf05e582f03ad29965ca86d4b7|refactoring|Tue, 29 Nov 2016 21:32:49 +0000|Tue, 29 Nov 2016 21:32:49 +0000
+d84778aa80b98f681223e441b923816c243643de|added storer.completed() and storer.ids_for() and tests|Tue, 29 Nov 2016 21:30:11 +0000|Tue, 29 Nov 2016 21:30:11 +0000
+1d3e4a330c96a1836a778ba4e9a579ea89f4c109|added dir.each_dir and tests ready for storer.completed() and storer.ids_for()|Tue, 29 Nov 2016 20:56:22 +0000|Tue, 29 Nov 2016 20:56:22 +0000
+bb39ff8744001e640f182e66026aea110518c0b1|added storer.kata_manifest(id) and tests|Tue, 29 Nov 2016 20:25:14 +0000|Tue, 29 Nov 2016 20:25:14 +0000
+1abb2d639a96509de9a95707561b689897af9a07|finished storer.kata_exists?(id) and tests|Tue, 29 Nov 2016 18:18:32 +0000|Tue, 29 Nov 2016 18:18:32 +0000
+ba3be2440f23fe53d51acccead53f6e1a15eeb83|addes start of kata.exists?(id) and tests|Tue, 29 Nov 2016 17:23:33 +0000|Tue, 29 Nov 2016 17:23:33 +0000
+6eada435f08fa28b1f7adc1baa60ced2f52fb854|refactoring; use terser array notation in docker-compose.yml|Tue, 29 Nov 2016 16:39:44 +0000|Tue, 29 Nov 2016 16:39:44 +0000
+caab81d3872dd3bf96699686bd1f9d64089ce68f|add storer.path and test|Tue, 29 Nov 2016 16:39:18 +0000|Tue, 29 Nov 2016 16:39:18 +0000
+413f6a5b578af484e5e4f3ee012d32945ae8423d|refactoring; remove duplication|Tue, 29 Nov 2016 14:50:43 +0000|Tue, 29 Nov 2016 14:50:43 +0000
+0d1d636a0322c3383ca459f74dbef7e664e6d3cf|coverage back to 100%|Tue, 29 Nov 2016 14:29:01 +0000|Tue, 29 Nov 2016 14:29:01 +0000
+a0bbd7ef90e000cc2f919caf315e09c7b652cb8c|add test for git.rm|Tue, 29 Nov 2016 14:28:38 +0000|Tue, 29 Nov 2016 14:28:38 +0000
+06a19ab3b432ec02f685d1afe545045f6f003423|refactoring; remove duplication|Tue, 29 Nov 2016 14:19:35 +0000|Tue, 29 Nov 2016 14:19:35 +0000
+6ea1e8233e36c0aa35da75afaf3b4ef9a208b8fb|refactoring; remove duplication|Tue, 29 Nov 2016 14:18:15 +0000|Tue, 29 Nov 2016 14:18:15 +0000
+4a20a54001bfd412c2dc1b7796cafd8c73485b84|refactoring; remove duplication|Tue, 29 Nov 2016 14:15:54 +0000|Tue, 29 Nov 2016 14:15:54 +0000
+4d57bf7d44b71979a2dfbfa8bddfa6444f59bc75|prepare git.rm test|Tue, 29 Nov 2016 14:13:47 +0000|Tue, 29 Nov 2016 14:13:47 +0000
+c3dae0cf350fc0747b88ed28a1443799e194b2dc|refactor duplication|Tue, 29 Nov 2016 14:13:28 +0000|Tue, 29 Nov 2016 14:13:28 +0000
+7610a0cb317310b1aab2e299ff231461004a8cfa|added test for git.show|Tue, 29 Nov 2016 14:08:15 +0000|Tue, 29 Nov 2016 14:08:15 +0000
+377e69caa30b1adb20b4654dfb32d90cee9ddc8c|delete git.diff() and its tests as it's unneeded (differ is a service in its own right)|Tue, 29 Nov 2016 13:58:58 +0000|Tue, 29 Nov 2016 13:58:58 +0000
+b015fe2530507d0ce933f7877a452df08c4ec0d2|push to github|Tue, 29 Nov 2016 11:05:59 +0000|Tue, 29 Nov 2016 11:05:59 +0000
+c4b6660a25dc0d389d31049749588ab917f41397|added test for git.diff|Tue, 29 Nov 2016 11:03:51 +0000|Tue, 29 Nov 2016 11:03:51 +0000
+b52ba903d350e39ee1eede90ea5d6ee4b37fd307|added test for git.commit|Tue, 29 Nov 2016 10:31:49 +0000|Tue, 29 Nov 2016 10:31:49 +0000
+292c88ce2e5652c72efb0f3b48c3b36ae37e1e9e|added test for git.add|Tue, 29 Nov 2016 10:11:16 +0000|Tue, 29 Nov 2016 10:11:16 +0000
+e2807cc2ff43353cfb2074fc23ecb358237ccfec|added code and first test for external_gitter|Tue, 29 Nov 2016 09:58:06 +0000|Tue, 29 Nov 2016 09:58:06 +0000
+1d2fa3208d548aed472c9ababc0df544332a3ad5|use test's hex-id for tmp/dir|Tue, 29 Nov 2016 09:57:38 +0000|Tue, 29 Nov 2016 09:57:38 +0000
+2e9852dd025a1304394d153e1aea874e36e90712|added sheller.cd_exec and tests|Tue, 29 Nov 2016 09:38:16 +0000|Tue, 29 Nov 2016 09:38:16 +0000
+766bd84ec7cd0a6585fc29b2b19564ba63a68426|add mock_sheller ready for git-external|Tue, 29 Nov 2016 09:04:23 +0000|Tue, 29 Nov 2016 09:04:23 +0000
+75d9f65c16c150bf309c52bf47478a1424524324|set server base-line metrics limits|Tue, 29 Nov 2016 08:10:25 +0000|Tue, 29 Nov 2016 08:10:25 +0000
+3b0b32c083a47775635c1111b328070e799ba5e4|added most of the walking-skeleton and test infrastructure|Tue, 29 Nov 2016 08:05:02 +0000|Tue, 29 Nov 2016 08:05:02 +0000
+f58019403df8573c2406dd454c11d0a2c746b1e8|add build-status to readme|Mon, 28 Nov 2016 22:05:08 +0000|Mon, 28 Nov 2016 22:05:08 +0000
+80fc98a1b799166e2d69c4a3018550e550442c5d|add .travis.yml file|Mon, 28 Nov 2016 22:02:00 +0000|Mon, 28 Nov 2016 22:02:00 +0000
+ea5b86b72dd534eed679176e4ba4071c4233dc0c|consolidate client/server docker-compose.yml files into one|Mon, 28 Nov 2016 17:10:09 +0000|Mon, 28 Nov 2016 17:10:09 +0000
+54860b76d55731c163bab23e28ca418ec5f967c2|added infrastructure files|Mon, 28 Nov 2016 17:07:44 +0000|Mon, 28 Nov 2016 17:07:44 +0000
+d0afedea13355e2f8eb607de2144cb7b82998547|readme update|Mon, 28 Nov 2016 16:52:02 +0000|Mon, 28 Nov 2016 16:52:02 +0000
+c09f3db7b253fcba44702e62223fd2af80308b1c|add license file|Mon, 28 Nov 2016 16:50:48 +0000|Mon, 28 Nov 2016 16:50:48 +0000
+2fe9774870ea639faa16a3023c95996d50566e30|first commit|Mon, 28 Nov 2016 16:50:17 +0000|Mon, 28 Nov 2016 16:50:17 +0000

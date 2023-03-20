@@ -1,0 +1,1150 @@
+f942027a63c16727041b4d8f853ab9e8adde3817|[ci skip] Delete dead files|Thu, 9 Mar 2023 13:49:56 +0000|Thu, 9 Mar 2023 13:49:56 +0000
+34ce07c2df5b98b53650d526efad8b4adf78edd1|[ci skip] Update year in license file|Thu, 9 Mar 2023 13:36:00 +0000|Thu, 9 Mar 2023 13:36:00 +0000
+3c8fd7463524624349bef0fe60e92a48bf5dac0f|Update on_CI() bash function now that CI runs as Github Action|Thu, 9 Mar 2023 13:34:00 +0000|Thu, 9 Mar 2023 13:34:00 +0000
+c1208e11048823f91f5a83bef1e06f1775b7d539|Use Github Action badge in readme|Thu, 9 Mar 2023 13:33:31 +0000|Thu, 9 Mar 2023 13:33:31 +0000
+b6c105548a961068dcb085188edb4d3468b5e495|Fix kosli-pipeline name in github workflow|Thu, 9 Mar 2023 13:33:12 +0000|Thu, 9 Mar 2023 13:33:12 +0000
+32f86441b70d7b9727f97a11dafcf26bcc895cc8|Update on_CI() bash function now that CI runs as Github Action|Thu, 9 Mar 2023 13:22:44 +0000|Thu, 9 Mar 2023 13:22:44 +0000
+73b71fef38fc0b581d295f3384cd6da9e9215c34|Update to support changed 'docker inspect' output format|Thu, 9 Mar 2023 13:14:50 +0000|Thu, 9 Mar 2023 13:14:50 +0000
+d8f282d3eec3fdce1abbba57a54c2b26301f9fc5|Use both ContainerConfig.Labels and Config.Labels when inspecting docker image to get start-point|Thu, 9 Mar 2023 07:29:25 +0000|Thu, 9 Mar 2023 07:29:25 +0000
+35f653d505282e212bed3a111a54ac87d6b0809b|Remove model service|Sun, 23 May 2021 20:35:32 +0100|Sun, 23 May 2021 20:35:32 +0100
+91dce4c6054f4557a695e0e5cac5206e84c090cd|Remove unneeded EXPOSE from generated Dockerfile in app/sh/start-point-create.sh|Sun, 27 Dec 2020 11:40:10 +0000|Sun, 27 Dec 2020 11:40:10 +0000
+53b2f5e62cf020d02d1147542a91ffd90f7d08bf|Added missing dashboard port.|Sun, 27 Dec 2020 09:11:47 +0000|Sun, 27 Dec 2020 09:11:47 +0000
+cabbc96d30964c2f9284d0d353c9dff8cbcaad46|Update tests.|Sat, 26 Dec 2020 16:10:36 +0000|Sat, 26 Dec 2020 16:10:36 +0000
+c5bacecfa12447c3636f33d497156470d652a807|Update tests.|Sat, 26 Dec 2020 16:02:27 +0000|Sat, 26 Dec 2020 16:02:27 +0000
+bb1804879195a48bc3f0236a3714a9c86ed3d068|Use underscores for container name separators to make copying via mouse click easier.|Sat, 26 Dec 2020 15:35:38 +0000|Sat, 26 Dec 2020 15:35:38 +0000
+e3737acd0c301cfa61f1f8bd7beb271db68321b8|Split docker-compose.yml into separate yml files.|Sat, 26 Dec 2020 15:31:07 +0000|Sat, 26 Dec 2020 15:31:07 +0000
+04bf45d00b0028b18cba8cf904c1ce8fde67f631|Move docker login/logout to .circleci yml file.|Sat, 5 Dec 2020 11:45:55 +0000|Sat, 5 Dec 2020 11:45:55 +0000
+69dc723d2a8b5f18f63aedd35d076aa87f6ba160|Added dashboard service.|Sat, 5 Dec 2020 11:43:06 +0000|Sat, 5 Dec 2020 11:43:06 +0000
+fd36f3cd742ef7b93bfc60f40c5715063fce5b5d|Remove avatar service|Mon, 19 Oct 2020 08:52:29 +0100|Mon, 19 Oct 2020 08:52:29 +0100
+e4a1ecbc9eb7a864a0036c482c34d7b9c7fa0b1b|Remove init: setting from start-point docker-compose yml file|Wed, 9 Sep 2020 16:04:59 +0100|Wed, 9 Sep 2020 16:04:59 +0100
+b49baa2c7a67d4176154ae9593ab035b8583e8db|Pass env_file:.env to nginx and web services|Wed, 9 Sep 2020 15:09:42 +0100|Wed, 9 Sep 2020 15:09:42 +0100
+b3d72903cd5215b23db23a26c7e17cfbf5e90479|Remove init:true from web's docker-compose.yml settings|Wed, 9 Sep 2020 15:09:22 +0100|Wed, 9 Sep 2020 15:09:22 +0100
+677f8d36a06ae2a4869a1ec08a165a3466a8b679|Refactoring; delete dead code, most services already uses tini in their docker ENTRYPOINT|Wed, 9 Sep 2020 12:15:53 +0100|Wed, 9 Sep 2020 12:15:53 +0100
+ad9607eafd601a912e626b1f33636584978cea62|Set port values via env-vars|Wed, 9 Sep 2020 10:55:42 +0100|Wed, 9 Sep 2020 10:55:42 +0100
+f5853682fc32fcfe976de53b963786c842ae0cbe|Add model service to yml files|Mon, 7 Sep 2020 10:25:21 +0100|Mon, 7 Sep 2020 10:25:21 +0100
+5ab3acd3943dd2cba66bc71e0237cffe5cec50c7|Remove puller service|Sun, 6 Sep 2020 08:57:55 +0100|Sun, 6 Sep 2020 08:57:55 +0100
+90f262458826212a1ff9906e084afbd551afa0ae|Update Dockerfile|Fri, 21 Aug 2020 10:41:43 +0100|Fri, 21 Aug 2020 10:41:43 +0100
+82f0c9b7ce475107683b989501955fb4d96fc4e2|Add puller service to yml files|Fri, 21 Aug 2020 10:27:59 +0100|Fri, 21 Aug 2020 10:27:59 +0100
+72d9a7c90dbfcdac1e4ba6e0d27c66698e685fc1|Remove puller from service names|Thu, 20 Aug 2020 12:02:23 +0100|Thu, 20 Aug 2020 12:02:23 +0100
+e4b5623226d2d2bfd6e72983da58e1a9c8d0c727|Remove exercises-chooser and languages-chooser from yml (now part of creator service)|Thu, 20 Aug 2020 11:52:39 +0100|Thu, 20 Aug 2020 11:52:39 +0100
+4e764b09db85289e38f762221b205c8e3015963f|Remove custom-chooser service (now part of creator service)|Wed, 19 Aug 2020 13:20:28 +0100|Wed, 19 Aug 2020 13:20:28 +0100
+d6a68d4688b478a45ec9cecebb634e61158d206d|Fix error in [update] test; images must be created after the update|Sun, 12 Jul 2020 10:02:12 +0100|Sun, 12 Jul 2020 10:02:12 +0100
+a3648053045a63a7a736bca9a9db0aa49c3a2144|Add explicit entrypoint to docker run command used to handle [start-point inspect] command|Sun, 12 Jul 2020 09:35:27 +0100|Sun, 12 Jul 2020 09:35:27 +0100
+71ecfce50f0559d16e34d94b91143745ac130265|In [cyber-dojo start-point create] use ENTRYPOINT to install tini as proper pid-1 process in created start-point image|Sun, 12 Jul 2020 09:21:22 +0100|Sun, 12 Jul 2020 09:21:22 +0100
+e0a805be0d921b722ce8e81df136d5cf4adb7f15|Update help text for [up] command now all/common/small distinction for languages-start-points images has been dropped|Fri, 10 Jul 2020 12:24:08 +0100|Fri, 10 Jul 2020 12:24:08 +0100
+eae6ab4f5fd7a3215fb3e9716ec44150c1a0854f|languages-start-points and custom-start-points no longer have node pulling responsibilities|Fri, 10 Jul 2020 02:54:57 +0100|Fri, 10 Jul 2020 02:54:57 +0100
+39b1028efb31da57a1d23f7309d09e62fbb9dbea|Remove dead lines from start-point-create.sh|Sat, 27 Jun 2020 05:14:44 +0100|Sat, 27 Jun 2020 05:14:44 +0100
+eda97ab45bb903b397986a2dc681a852e5cd543e|Refactoring; shorten long help text line|Sat, 27 Jun 2020 05:08:26 +0100|Sat, 27 Jun 2020 05:08:26 +0100
+2c26e125a585d3c523cfea5a7383b16356db843d|Turn off empty-stderr assert in udate test|Thu, 25 Jun 2020 18:11:38 +0100|Thu, 25 Jun 2020 18:11:38 +0100
+eb3c490e94fe9ba423b268e46dfc3aa176070c17|Drop pulling images named in start-points when doing an [up]|Thu, 25 Jun 2020 17:45:32 +0100|Thu, 25 Jun 2020 17:45:32 +0100
+ebc3536e904f6970c802c32d572fcd7d7c04032e|start-point-base image will soon be using cyberdojo/docker-base as its FROM image|Thu, 25 Jun 2020 13:28:09 +0100|Thu, 25 Jun 2020 13:28:09 +0100
+f85f792e3289028f42eba438770a7cee867906c3|Restore help-text for  [start-point create] command so it shows --custom/--exercises/--languages options|Wed, 24 Jun 2020 21:44:57 +0100|Wed, 24 Jun 2020 21:44:57 +0100
+7943bd4a7194add9c3ff0e83dfb08673c95daf2b|In [cyber-dojo start-point create] write to shas.txt and build.shas till all dependents use build.shas|Wed, 24 Jun 2020 20:46:55 +0100|Wed, 24 Jun 2020 20:46:55 +0100
+be901ed45371b66e3efffc587ff592dc6bc70c29|In [cyber-dojo start-point create] save shas to file called build.shas to keep compitibility with start-point-base image|Wed, 24 Jun 2020 20:27:52 +0100|Wed, 24 Jun 2020 20:27:52 +0100
+6c27411e31ceefed2839bbae56cee2289617e624|In some environments, mktemp is not happy unless there are six X's|Wed, 24 Jun 2020 16:18:10 +0100|Wed, 24 Jun 2020 16:18:10 +0100
+2bddd8e633f52e910bb59710e24d08f1de1df76a|Make [cyber-dojo update] require an argument|Tue, 23 Jun 2020 12:55:23 +0100|Tue, 23 Jun 2020 12:55:23 +0100
+2c121357058018839882ed20959e4ae864170ec7|Alter to test so expected output can be image_name with a tag|Tue, 23 Jun 2020 12:11:10 +0100|Tue, 23 Jun 2020 12:11:10 +0100
+8960ae9a573740e2f3a158f771f55effc89304ea|Change [git clone] message for test backward compatibility|Tue, 23 Jun 2020 11:43:16 +0100|Tue, 23 Jun 2020 11:43:16 +0100
+c75125a4dd437ea7bd54439e496dd7d3311325bb|Drop ... from output on [git clone] message for test backward compatibility|Tue, 23 Jun 2020 11:19:34 +0100|Tue, 23 Jun 2020 11:19:34 +0100
+6e26a8e3508f175a726efb0f06a619713a6ccba3|Change test urls to point to repos in cyber-dojo-start-points org|Tue, 23 Jun 2020 11:03:30 +0100|Tue, 23 Jun 2020 11:03:30 +0100
+019551e29e6da34d981ed0bc003e91e9c623572d|Extend [start-point create] to handle tagged urls and drop [start-point build]|Tue, 23 Jun 2020 10:56:16 +0100|Tue, 23 Jun 2020 10:56:16 +0100
+bff700593ae32b00dbbe6ae619417eab4a6967aa|Add [git tag] echo for [cyber-dojo start-point build] command|Mon, 22 Jun 2020 12:05:25 +0100|Mon, 22 Jun 2020 12:05:25 +0100
+ced3521c29f9818e7379ef714324f38716f4e63c|start-point build help text update|Mon, 22 Jun 2020 10:53:19 +0100|Mon, 22 Jun 2020 10:53:38 +0100
+354ed4a77e6b5396e4d40ca4d42fe3344b7fd0d1|Remove automatic tagging of image_name inside manifest.json|Sun, 21 Jun 2020 11:33:11 +0100|Sun, 21 Jun 2020 11:39:33 +0100
+5eba16159cf72cdeeabed0c5cee3639a8be64db0|Remove [--depth 1] option on [start-point build] command.|Wed, 17 Jun 2020 10:28:57 +0100|Wed, 17 Jun 2020 10:28:57 +0100
+8f4a9e8a6bed544e7e7f754691a893e0ce6b97e4|Tidy help text for [start-point create|build] commands|Sat, 13 Jun 2020 17:36:43 +0100|Sat, 13 Jun 2020 17:36:43 +0100
+57dbb440002fb6747804dd2d60f1e64cad7cadd1|In the [start-point build] command, pass the tags being used for each git-repo-url explicitly|Sat, 13 Jun 2020 07:49:57 +0100|Sat, 13 Jun 2020 07:49:57 +0100
+fa5c8dc391dd41f146b596b93ca21b3b77c0b08e|Make [start-point build] command use GIT_REPO_URL and image_manifest_tagger tool instead of an image|Fri, 12 Jun 2020 19:06:00 +0100|Fri, 12 Jun 2020 19:06:00 +0100
+40e39e9a23160079f301c85191ccf0d6fc0a8984|Restore accidentally deleted call to run tests|Tue, 9 Jun 2020 09:22:44 +0100|Tue, 9 Jun 2020 09:22:44 +0100
+c7e8a527345b5b18b12e62579f1f71223767aa3e|Refactoring; tidy start-point-create.sh script|Tue, 9 Jun 2020 09:15:53 +0100|Tue, 9 Jun 2020 09:15:53 +0100
+ea5117af71c158bbdec2a0375303f17a9e125081|Fix out-of-date help text content|Tue, 9 Jun 2020 08:42:44 +0100|Tue, 9 Jun 2020 08:42:44 +0100
+7af4e18faa3d83b9b32b70117af5adaa0235f943|Refactoring; simplify [start-point build] script|Tue, 9 Jun 2020 08:37:01 +0100|Tue, 9 Jun 2020 08:37:01 +0100
+6ab211825c8e96b14d775228969e257893a3efb9|start-point build command now uses image-names|Tue, 9 Jun 2020 08:22:49 +0100|Tue, 9 Jun 2020 08:22:57 +0100
+0042bfd675fe606cc4c1b3142e0b4cdf90e006c7|Initial spike|Wed, 3 Jun 2020 13:22:26 +0100|Wed, 3 Jun 2020 13:22:26 +0100
+5bcaf68d2b529cb075e5d5fe579f3fe92ac2a965|In start-point-create.sh, dont save each url/sha to file ready to be used in manifest.|Mon, 1 Jun 2020 08:05:04 +0100|Mon, 1 Jun 2020 08:05:04 +0100
+596fe917ffac01e334be9c1adc804cdef192a91e|In cyber-dojo-inner, run sh scripts cat'd out of commander directly through bash|Mon, 1 Jun 2020 06:54:23 +0100|Mon, 1 Jun 2020 06:54:23 +0100
+9707eb72c6745cf50a2cb42705b0b91e6566df36|In start-point-create.sh, save each url/sha to file ready to be used in manifest.|Mon, 1 Jun 2020 06:24:54 +0100|Mon, 1 Jun 2020 06:24:54 +0100
+4644bf5326674ed1858d6b551efb62d12fb09280|Call cyber-dojo-inner directly using bash in cyber-dojo script.|Mon, 1 Jun 2020 06:21:27 +0100|Mon, 1 Jun 2020 06:21:27 +0100
+13f7e5313bf4c3bb3a8b704e0b4b93fd80a21846|Add cyber-dojo bridge network and ensure repler service is on it.|Sat, 2 May 2020 17:41:49 +0100|Sat, 2 May 2020 17:41:49 +0100
+f8f2148213dbaabca9c7582e670bef203bb3d493|Add shas service|Mon, 20 Apr 2020 14:02:21 +0100|Mon, 20 Apr 2020 14:02:21 +0100
+f981784e88efc8fb612ea594c30a500e5196bb7d|Drop zipper service; add repler service|Mon, 13 Apr 2020 14:43:08 +0100|Mon, 13 Apr 2020 14:43:08 +0100
+66ce020d52b71b36f0dd00e2fd74d728824fb1e1|[ci skip] Move bulk of readme to cyber-dojo repo|Mon, 23 Mar 2020 12:37:24 +0000|Mon, 23 Mar 2020 12:37:24 +0000
+8301184ce082beb21132dce952bf5dd544239a2d|Add languages-chooser to service-names|Thu, 19 Mar 2020 15:08:54 +0000|Thu, 19 Mar 2020 15:08:54 +0000
+707885f352b304703436c3e1cc5a454b6740c626|Add languages-chooser service to docker-compose yml files|Thu, 19 Mar 2020 14:51:58 +0000|Thu, 19 Mar 2020 14:51:58 +0000
+567a47827e13729683e043d052c8162376e55a3c|Add service for exercises-chooser|Sun, 15 Mar 2020 16:31:16 +0000|Sun, 15 Mar 2020 16:31:16 +0000
+1bb7960003f87fd7240bdbe45209d600e4a26549|Update tests with new service names; add comment to build script|Sun, 8 Mar 2020 15:04:33 +0000|Sun, 8 Mar 2020 15:04:33 +0000
+b205967be70f11fb80f02a123a36287b66d98bd3|Add fake sha/tags for new services|Sun, 8 Mar 2020 14:32:43 +0000|Sun, 8 Mar 2020 14:32:43 +0000
+98ef2862b7951cae07a43f38895d8a2d33e0b68a|Add custom-chooser and creator services to .yml files|Fri, 6 Mar 2020 08:51:01 +0000|Fri, 6 Mar 2020 08:51:01 +0000
+ae5d26e01000711e4e0ffb0a6e504fcfba82efe7|Tidy help text for [start-point create] command|Wed, 26 Feb 2020 12:45:01 +0000|Wed, 26 Feb 2020 12:45:01 +0000
+8772caa9958474dd46405f9062a362478805c38f|Remove -u from cat-start-point-create.sh|Tue, 21 Jan 2020 17:20:13 +0000|Tue, 21 Jan 2020 17:20:13 +0000
+b472c539b57a52e4d092f79936200595082293f7|Split long bash command with line continuation|Tue, 21 Jan 2020 17:16:55 +0000|Tue, 21 Jan 2020 17:16:55 +0000
+59657db7e6527de99b12641bcd7e92437948b1bb|Pull start-points-base image to prevent pull messages interfering with tests|Tue, 21 Jan 2020 17:15:02 +0000|Tue, 21 Jan 2020 17:15:02 +0000
+ad7f48618bc320f2eb4c311bb23ea9ec2990c71d|Refactoring; tidy scripts|Tue, 21 Jan 2020 16:55:23 +0000|Tue, 21 Jan 2020 16:55:23 +0000
+752024f4ce1fc52d19ccb0a9018ef70a1ab32e2a|Avoid 'sh -c' in cat-start-point-create.sh; used entrypoint=cat instead; minimize requirements for fake-versioner|Tue, 21 Jan 2020 12:25:56 +0000|Tue, 21 Jan 2020 12:25:56 +0000
+0fbbce9438e8d34c100f732b87eba97fac4c6973|cat-start-point-create.sh needs to explicitly cat .env until the fake-versioner from start-points-base has its own entrypoint|Tue, 21 Jan 2020 12:13:16 +0000|Tue, 21 Jan 2020 12:13:16 +0000
+33e246110dcdca2c22c4cbc81147202228a6c935|Remove ragger service (runner now determines traffic-light colour)|Thu, 16 Jan 2020 11:59:00 +0000|Thu, 16 Jan 2020 11:59:00 +0000
+3b03ab4134f7d979eb98d12f9d007f6ccacf7c5c|[ci skip] comment tweaks|Fri, 10 Jan 2020 13:13:57 +0000|Fri, 10 Jan 2020 13:13:57 +0000
+e316353dbfbd49456bc04879d5426ca60b0829cb|Give script tests names that ensure up.sh runs before update.sh|Fri, 10 Jan 2020 11:47:28 +0000|Fri, 10 Jan 2020 11:47:28 +0000
+3d246d98b6a0ff739ac324a8dcd0a2baff8cf344|Fix regression errors now versioner has an entrypoint|Fri, 10 Jan 2020 11:17:13 +0000|Fri, 10 Jan 2020 11:17:13 +0000
+e415ae5993ae3a05e270351469125cf6f5c9e63f|Refactoring; simplify cyber-dojo script now versioner has an entrypoint|Thu, 9 Jan 2020 15:50:29 +0000|Thu, 9 Jan 2020 15:50:29 +0000
+61da8b0797ada078984c1ff6bb6ded4279f87714|[ci skip] Update license year|Sat, 4 Jan 2020 14:35:52 +0000|Sat, 4 Jan 2020 14:35:52 +0000
+b554a889ad29c3190693f82b0379306ab6f84812|Refactoring; avoid 2 extra env-vars in app/sh/cat-start-point-create.sh|Tue, 31 Dec 2019 08:59:50 +0000|Tue, 31 Dec 2019 08:59:50 +0000
+e90a37f82b196cc349fd52aa069e6eee9c2b1a5b|Refactoring; don't export vars in app/sh/cat-start-point-create.sh; replace regexs with simpler length-based expressions|Tue, 31 Dec 2019 08:45:30 +0000|Tue, 31 Dec 2019 08:45:30 +0000
+8d95922315e63654079635a4b15751cfae0b84a6|Refactoring; move comment|Tue, 31 Dec 2019 07:29:26 +0000|Tue, 31 Dec 2019 07:29:26 +0000
+897ded225608c909b7b74463ba86c4403bc9504c|Delete unneeded env-var|Tue, 31 Dec 2019 07:27:16 +0000|Tue, 31 Dec 2019 07:27:16 +0000
+86273e7269b0b962f54ccd0e9fecb07576494a11|Refactoring; tidy build_fake_versioner function|Tue, 31 Dec 2019 07:26:40 +0000|Tue, 31 Dec 2019 07:26:40 +0000
+0cde6a3f2f9e0969bf79ab96cd1fb9598c034724|Do assert_equals on fake cyberdojo/versioner:latest image|Mon, 30 Dec 2019 22:56:32 +0000|Mon, 30 Dec 2019 22:56:32 +0000
+cf75a8f7c4590c912f2fba709018986ce5c4da03|Remove unneeded -it option from docker commands|Mon, 30 Dec 2019 22:48:16 +0000|Mon, 30 Dec 2019 22:48:16 +0000
+eb36d00192a28d4fb79404bf5c27c69c718dffc3|Refactoring; simplify cyberdojo/versioner:latest fake image|Mon, 30 Dec 2019 22:41:11 +0000|Mon, 30 Dec 2019 22:41:11 +0000
+b90e381a0a8fa46535ecb9d8da9c9f7b84786b43|Add missing script replacements in app/sh/cat-start-point-create.sh|Mon, 30 Dec 2019 22:07:29 +0000|Mon, 30 Dec 2019 22:07:29 +0000
+593767f68e9ea17df69ccfabde2940f1331839cb|Fix cyber-dojo script to use last matching entry.|Mon, 30 Dec 2019 21:55:13 +0000|Mon, 30 Dec 2019 21:55:19 +0000
+f36d8be1504c0650c3614d360f7b9090561a0283|Merge branch 'master' of https://github.com/cyber-dojo/commander|Mon, 30 Dec 2019 21:06:24 +0000|Mon, 30 Dec 2019 21:06:24 +0000
+aee548f57fe83b1f345b0aaa094baca1a04e6b70|Refactoring; use fake cyberdojo/versioner:latest image instead of tunnelling COMMANDER_TAG env-var|Mon, 30 Dec 2019 21:06:17 +0000|Mon, 30 Dec 2019 21:06:17 +0000
+8008c759dbec679a7b75e2252f8695f132bf642a|Automated build trigger from https://github.com/cyber-dojo/docker-base/commit/c3956b20d922c44081f0f578958c9fd2f61d44af|Sun, 29 Dec 2019 17:26:01 +0000|Sun, 29 Dec 2019 17:26:01 +0000
+e166f4fffe0dad5133e3df07664d6d3b9b10ce91|Use more succinct yml|Fri, 27 Dec 2019 16:55:16 +0000|Fri, 27 Dec 2019 16:55:16 +0000
+6f24e927e9e90bbfbd16a92007244f2182c8a9a8|[ci skip] comment update|Fri, 27 Dec 2019 10:23:00 +0000|Fri, 27 Dec 2019 10:23:00 +0000
+392e707075bbf875756fb0b46e0cac36994b65ef|Ensure SHA is set when building an official cyber-dojo start-point image as versioner tests rely on it|Fri, 27 Dec 2019 09:24:56 +0000|Fri, 27 Dec 2019 09:24:56 +0000
+3ff2dd7bb296307229b83dfd84fce48c5e4a06ec|Set the SHA of a created start-point image to the git-commit-sha of the first repo url|Thu, 26 Dec 2019 15:20:29 +0000|Thu, 26 Dec 2019 15:20:29 +0000
+07be2abd2b0d66eb4f87a795a5e89d928573308c|[ci skip] delete dead notes|Thu, 26 Dec 2019 09:05:51 +0000|Thu, 26 Dec 2019 09:05:51 +0000
+e083a578856a760879f0c641fcf2e896c6896708|Refactoring; script tidying|Thu, 26 Dec 2019 08:24:16 +0000|Thu, 26 Dec 2019 08:24:16 +0000
+a72f599fa21f6411f7aa5e09976aae497ba38f15|Refactoring; reformatting|Thu, 26 Dec 2019 06:39:32 +0000|Thu, 26 Dec 2019 06:39:32 +0000
+82fab1faf0fd2ce2be5ca52b1fe6cbdbe4c26e7c|Refactoring; drop unneeded cmd/ dir|Thu, 26 Dec 2019 06:24:36 +0000|Thu, 26 Dec 2019 06:24:36 +0000
+ca04ca44e917ab27b9dc86665daf2ccbc7b2f7d9|Fix error in main script|Wed, 25 Dec 2019 22:06:41 +0000|Wed, 25 Dec 2019 22:06:41 +0000
+4bd61fdc06d9bff65851d95f0ef92596ae94059b|Refactoring; strip down circleci config.yml|Wed, 25 Dec 2019 21:53:40 +0000|Wed, 25 Dec 2019 21:53:40 +0000
+b9b376199765b0295e35b2296b4d4a8bbadc803f|[ci skip] Readme update|Wed, 25 Dec 2019 21:15:03 +0000|Wed, 25 Dec 2019 21:15:03 +0000
+2adee666af7cf8c90793801df0d2b6e19736a6ab|[ci skip] Readme update|Wed, 25 Dec 2019 21:14:30 +0000|Wed, 25 Dec 2019 21:14:30 +0000
+526536a2ce1a113767a01ce3aa0eeef8c8834cf8|Refactoring; Add proper /tmp handling to main scripts|Wed, 25 Dec 2019 21:10:19 +0000|Wed, 25 Dec 2019 21:10:19 +0000
+1f01a3c968d16e4295f2b6c4f6d7336fb53733d3|Create /app dir and move main content into it|Wed, 25 Dec 2019 20:21:26 +0000|Wed, 25 Dec 2019 20:21:26 +0000
+9a4a233a3a692694b561d7f243bc31378d9563db|[ci skip] comment updates|Wed, 25 Dec 2019 11:33:15 +0000|Wed, 25 Dec 2019 11:33:15 +0000
+8adc3beae2ad6a1738a0d895665dc00b97470d9d|[ci skip] Update readme|Wed, 25 Dec 2019 11:11:43 +0000|Wed, 25 Dec 2019 11:11:43 +0000
+8cc86c07fcc1c7d3bfd2a08402ff4995f3d2dede|Add missing  in previous refactoring|Wed, 25 Dec 2019 11:05:13 +0000|Wed, 25 Dec 2019 11:05:13 +0000
+91745f8b3fe0122fa48012d6c12f0241ce873f71|Refactoring; tidy cyber-dojo and cyber-dojo-inner scripts|Wed, 25 Dec 2019 11:03:36 +0000|Wed, 25 Dec 2019 11:03:36 +0000
+b687997e9ffae898ffd8f53a95c0c3cf34ef21ba|Fix typo in previous refactoring|Wed, 25 Dec 2019 10:39:50 +0000|Wed, 25 Dec 2019 10:39:50 +0000
+b39fc9a58a65c4c44aa703f82ee3e67cb73e7d98|Refactoring; tidy cyber-dojo and cyber-dojo-inner scripts|Wed, 25 Dec 2019 10:26:36 +0000|Wed, 25 Dec 2019 10:26:36 +0000
+df920e22abfd019428d7011975f8a4cc018bdf73|More cyber-dojo script refactoring; tunnel CYBER_DOJO_COMMANDER_TAG env so output shows 'latest' when using the override|Wed, 25 Dec 2019 08:06:36 +0000|Wed, 25 Dec 2019 08:06:36 +0000
+7e853bedcaeabb21bb4a42cfd92e50ff4014b64c|Another attempt to refactor main cyber-dojo scripts|Wed, 25 Dec 2019 07:24:50 +0000|Wed, 25 Dec 2019 07:24:50 +0000
+7fb8f7f1bdcb4c156504daf1e6620a66b4873ea7|Revert back to scripts that do not export any env-vars|Tue, 24 Dec 2019 22:29:51 +0000|Tue, 24 Dec 2019 22:29:51 +0000
+c07855581f00685606b599a5cd4c5a161433a8bd|Refactor cyber-dojo and cyber-dojo-inner scripts|Tue, 24 Dec 2019 21:11:16 +0000|Tue, 24 Dec 2019 21:11:16 +0000
+00b5c175001a03d06234f3cf3952281eed9e4dfa|Update test for [cyber-dojo down]|Tue, 24 Dec 2019 20:55:42 +0000|Tue, 24 Dec 2019 20:55:42 +0000
+325843b5b2f9ac6dd3ba1b5e1dafed1c0abd0fdf|Undo previous 2 previous commits as they break an [cyber-dojo update] test|Tue, 24 Dec 2019 20:48:35 +0000|Tue, 24 Dec 2019 20:48:35 +0000
+e9cb16b3b7a1d6302b7753c110147eab94dc6ddb|Set dummy env-var to prevent warning messages on down command|Tue, 24 Dec 2019 19:20:09 +0000|Tue, 24 Dec 2019 19:20:09 +0000
+19394cf27dc61ae86c9bc232efdfb5ca47de7405|Refactoring; simplify cyber-dojo and cyber-dojo-inner scripts|Tue, 24 Dec 2019 19:15:56 +0000|Tue, 24 Dec 2019 19:15:56 +0000
+c25eb63d8432ce5252a5ca94ddbf4823e590ee2c|Refactoring; simplify env-var override in cat-start-point-create.sh|Tue, 24 Dec 2019 15:50:45 +0000|Tue, 24 Dec 2019 15:50:45 +0000
+df137cc0f75874952eff7a2990f5484851a83327|Use versioner's .env start-point point env-vars in [start-point create] command|Tue, 24 Dec 2019 14:52:50 +0000|Tue, 24 Dec 2019 14:52:50 +0000
+bd8ee09afaa7da1fc68d7378108daa976b538c99|Get image names for custom/exercises/languages start-points from new entries in versioner's .env|Tue, 24 Dec 2019 12:33:36 +0000|Tue, 24 Dec 2019 12:33:36 +0000
+fd2b6668a762331fc0c382b2edd6898a02460852|Drop setting port/custom/exercises/languages using environment-variables; use command-line options only|Tue, 24 Dec 2019 10:15:48 +0000|Tue, 24 Dec 2019 10:15:48 +0000
+f0a7951f521f0f5f8073bf6d9492bd7e28ac4060|Fix bug; custom/exercises/languages env-vars need new names in up.sh|Mon, 23 Dec 2019 10:43:48 +0000|Mon, 23 Dec 2019 10:43:48 +0000
+e51dc3c48cae34d3a843947904759ca5877f623d|[ci skip] Update readme|Mon, 23 Dec 2019 10:07:34 +0000|Mon, 23 Dec 2019 10:07:34 +0000
+896215f8115fdbd630556943ccbc64745d3279c5|[ci skip] Simplify readme|Mon, 23 Dec 2019 10:04:41 +0000|Mon, 23 Dec 2019 10:04:41 +0000
+b76d8caa93e13b200ea0a3e1861284115c1817e1|Use new START_POINT suffixed env-var names for custom/exercises/languages|Mon, 23 Dec 2019 08:07:07 +0000|Mon, 23 Dec 2019 08:07:07 +0000
+6c47770e0e4ebc4d2b673f44db72b4f92de1eaba|Use more env-vars from versioners .env file|Mon, 23 Dec 2019 07:55:17 +0000|Mon, 23 Dec 2019 07:55:17 +0000
+3cbafacd79de8fd18ec1b8d804bc85618080a2b6|[ci skip] Update readme|Sat, 21 Dec 2019 11:18:49 +0000|Sat, 21 Dec 2019 11:18:49 +0000
+b645d445a3198faf297e7c8f1b26b7dea236f4a5|[ci skip] Update readme|Sat, 21 Dec 2019 11:12:16 +0000|Sat, 21 Dec 2019 11:12:16 +0000
+2bfb45c54a242399197fc6b575777eab3ed5c21a|[ci skip] Update readme|Sat, 21 Dec 2019 10:46:55 +0000|Sat, 21 Dec 2019 10:46:55 +0000
+71c3431c33f5f78ecf3be49617ab01595cb143d9|[ci skip] Update readme|Sat, 21 Dec 2019 10:38:41 +0000|Sat, 21 Dec 2019 10:38:41 +0000
+51e7f2e3288b2c6bcc9dfff68c6f5d45d66b0291|[ci skip] readme update|Sun, 8 Dec 2019 16:51:49 +0000|Sun, 8 Dec 2019 16:51:49 +0000
+942179b14cfa3fd5513486406715cdc589d59697|Update tests with new start-points-base image-name|Sun, 8 Dec 2019 14:27:24 +0000|Sun, 8 Dec 2019 14:27:24 +0000
+ad3dd4aa4e77e84fa6585950e8a5f11ee2304494|Switch to cyber-dojo-start-points-base env-var|Sun, 8 Dec 2019 14:11:18 +0000|Sun, 8 Dec 2019 14:11:18 +0000
+90c4359bd0cb2203640018fccc1be7fba440e26b|Fix url in test script|Sun, 8 Dec 2019 12:19:58 +0000|Sun, 8 Dec 2019 12:19:58 +0000
+ca309b076e272face332cef544a7da93a51c8952|Drop default for image-name|Sun, 8 Dec 2019 10:20:29 +0000|Sun, 8 Dec 2019 10:20:29 +0000
+478c1487b4b22e6655c9e8f6722166079ad04484|Set starter-base image name from env-var|Sun, 8 Dec 2019 10:07:16 +0000|Sun, 8 Dec 2019 10:07:16 +0000
+56c05cdd18349d7fec6c349d529d0be3fa9c2824|Remove option to override custom/exercises/languages start-points port numbers|Mon, 2 Dec 2019 16:16:03 +0000|Mon, 2 Dec 2019 16:16:03 +0000
+d03588075626dd11918e634768510e4067726c3b|Rename service languages to languages-start-points|Sun, 1 Dec 2019 09:01:48 +0000|Sun, 1 Dec 2019 09:01:48 +0000
+0875a863f5fa6f3469c8489e9e0ca2402ec6a9d1|Rename service exercises to exercises-start-points|Sat, 30 Nov 2019 20:26:51 +0000|Sat, 30 Nov 2019 20:26:51 +0000
+4320549603e0e342263dddc6d5653626b9d15a01|Rename service custom to custom-start-points|Sat, 30 Nov 2019 17:22:29 +0000|Sat, 30 Nov 2019 17:22:29 +0000
+3411082af993280128e1c1d5722df314f9b02de7|Allow custom/exercises/languages port numbers to be overriden via env-vars|Fri, 29 Nov 2019 09:15:26 +0000|Fri, 29 Nov 2019 09:15:26 +0000
+9a954a36dd270d9f5c5becea751ea71ec14f5b1a|Refactor cmd/sh/cat-start-point-create.sh to allow future .env overrides to follow same pattern as CYBER_DOJO_STARTER_BASE_TAG|Thu, 28 Nov 2019 21:27:09 +0000|Thu, 28 Nov 2019 21:27:09 +0000
+747710e16f1d2c5e2286cffe582412ecea51135a|[ci skip] add [cyber-dojo version ls] use to readme|Fri, 22 Nov 2019 19:39:24 +0000|Fri, 22 Nov 2019 19:39:24 +0000
+793cab47dc8290e48b35cf21d84e7efb353764b9|Added [version ls] command to print installed versions|Fri, 22 Nov 2019 19:15:47 +0000|Fri, 22 Nov 2019 19:15:47 +0000
+4473bf8553a0a784c01ecad1fcddc83fe02f4ccb|Refactoring; better method names|Thu, 21 Nov 2019 20:42:24 +0000|Thu, 21 Nov 2019 20:42:24 +0000
+73f878c7886fcf893065ffc5a42fe14a686ac93e|[ci skip] readme tweak|Tue, 19 Nov 2019 10:21:24 +0000|Tue, 19 Nov 2019 10:21:24 +0000
+5845d588e5b7aaf3ea17f07a51ec69556efb9da4|[ci skip] readme update|Tue, 19 Nov 2019 09:52:26 +0000|Tue, 19 Nov 2019 09:52:26 +0000
+8c7adbe03c1a5cf8cdeb23cf7c08162df20e9bad|[ci skip] Add info on overriding nginx image to readme|Tue, 19 Nov 2019 09:49:10 +0000|Tue, 19 Nov 2019 09:49:10 +0000
+d2dd8f8c34a8e21cbb05e7829e571a3ec292ff59|allow versioner to override cyberdojo/nginx with value specified in env-var CYBER_DOJO_NGINX_IMAGE|Tue, 19 Nov 2019 09:20:15 +0000|Tue, 19 Nov 2019 09:20:15 +0000
+a0a8564ce26c365f8f1316df059c39cabe588ffd|Remove mapper service|Sat, 9 Nov 2019 10:13:18 +0000|Sat, 9 Nov 2019 10:13:18 +0000
+a21a2a19f47078e886bf231c2fc673d44ae21560|Upgrade commander image to glibc 2.30|Thu, 7 Nov 2019 11:44:58 +0000|Thu, 7 Nov 2019 11:44:58 +0000
+c8742a14f6041bc25d5df22c0768eca8c3c70846|[ci skip] readme update|Wed, 6 Nov 2019 11:48:46 +0000|Wed, 6 Nov 2019 11:48:46 +0000
+d690c6aba3af9849259b0f982de6265a47261a65|[ci skip] readme update|Wed, 6 Nov 2019 11:22:17 +0000|Wed, 6 Nov 2019 11:22:17 +0000
+40828fde23c8203c46b7e4fc9f3c93cc9de086db|[ci skip] readme update|Wed, 6 Nov 2019 11:14:16 +0000|Wed, 6 Nov 2019 11:14:16 +0000
+1fdfb9a63e261bf2128083fe4c7d58abd6860114|[ci skip] Add info on running server in docker-swarm to readme|Wed, 6 Nov 2019 11:06:49 +0000|Wed, 6 Nov 2019 11:07:18 +0000
+433e399ef356c22606395c0c3969ccad067fe35c|[ci skip] readme update|Wed, 6 Nov 2019 09:50:33 +0000|Wed, 6 Nov 2019 09:50:33 +0000
+494ec61122863088e8a5a4a6b280438487befd97|Add missing + from ruby method|Wed, 6 Nov 2019 09:47:17 +0000|Wed, 6 Nov 2019 09:47:17 +0000
+1834ccac624aaba1bfe6504b08734fb0a1e1099a|Move non-swarm yml settings into dedicated files|Wed, 6 Nov 2019 09:26:26 +0000|Wed, 6 Nov 2019 09:26:26 +0000
+c6ed7c16a2d64e0feb4946a1139f3f5568d739d4|[ci skip] readme tidy|Tue, 5 Nov 2019 13:20:04 +0000|Tue, 5 Nov 2019 13:20:04 +0000
+b7a73501a1dba44fb17554e11b500381824b99c8|[ci skip] readme tidy|Tue, 5 Nov 2019 13:18:03 +0000|Tue, 5 Nov 2019 13:18:03 +0000
+2d6032f9bb5796c5827711a7b26a01b8197bdd2a|[ci skip] readme update|Tue, 5 Nov 2019 13:08:36 +0000|Tue, 5 Nov 2019 13:08:36 +0000
+d22d1edddb96fb9f5e013408cc5e0e8fabca12f6|[ci skip] Remove dead line from readme|Tue, 5 Nov 2019 11:20:09 +0000|Tue, 5 Nov 2019 11:20:09 +0000
+2141565524c020ebb31a782f95d829b006dac854|Add (undocumented) first cut at ability to run server on docker-swarm|Mon, 4 Nov 2019 21:43:12 +0000|Mon, 4 Nov 2019 21:43:12 +0000
+940fde272b45b4728c4930fb79ec59fcf1c49f43|Updated docker-swarm notes|Mon, 4 Nov 2019 15:36:15 +0000|Mon, 4 Nov 2019 15:36:15 +0000
+8131f3e9bbf252c859067d09cd7e234410bc894c|Add rough notes on using docker-swarm|Mon, 4 Nov 2019 14:22:59 +0000|Mon, 4 Nov 2019 14:22:59 +0000
+847698cb4850c0e6cf016394a30fefc4710895f3|Upgrade docker-compose yml files to 3.7 in preparation for support swarm mode|Sun, 3 Nov 2019 11:24:01 +0000|Sun, 3 Nov 2019 11:24:01 +0000
+564e7b3ae06c820b5d49bb1129679ee9ce95030f|Add missing dependency|Mon, 16 Sep 2019 14:56:37 +0100|Mon, 16 Sep 2019 14:56:37 +0100
+12aad4d0b6b63820445b18c46ad5d6051f49023b|Remove versioner from docker-compose yml files|Sun, 15 Sep 2019 14:45:09 +0100|Sun, 15 Sep 2019 14:45:09 +0100
+c2b08af0a7e23cdd3834d702704e9c3b6c3dbd3a|Delete dead Gemfile|Fri, 13 Sep 2019 21:32:36 +0100|Fri, 13 Sep 2019 21:32:36 +0100
+67889b9aa6d1c390df248ab1ad161e78daa0be8b|allow versioner to override cyberdojo/web with value specified in env-var CYBER_DOJO_WEB_IMAGE|Wed, 14 Aug 2019 09:46:35 +0100|Wed, 14 Aug 2019 09:46:35 +0100
+c0cd92e2158bc6f592d9fc9510eb8ea116ca8d19|[ci skip] add more notes|Tue, 13 Aug 2019 20:49:14 +0100|Tue, 13 Aug 2019 20:49:14 +0100
+34b871b36c0f8ef34fe0181b78e396bd16636180|[ci skip] add scratch files on tagging the ltf images|Sun, 11 Aug 2019 18:04:51 +0100|Sun, 11 Aug 2019 18:04:51 +0100
+8f3e706d12b0ceea5c10d0f484e46e25932f0da5|add avatars service|Mon, 5 Aug 2019 19:14:23 +0100|Mon, 5 Aug 2019 19:14:23 +0100
+5593da07882166a39767f0866426017de1dc54d3|reduce web service's docker-compose memory-limit to 128M|Mon, 29 Jul 2019 22:53:55 +0100|Mon, 29 Jul 2019 22:53:55 +0100
+2d5ed5aa29e485636672cc8d8381f2c640948675|reduce docker-compose memory-limits for nginx,runner,differ|Mon, 29 Jul 2019 22:22:01 +0100|Mon, 29 Jul 2019 22:22:01 +0100
+8441a17928dbd4df99d6b9c6bf6e4bd5e114954f|reduce docker memory limits for runner (128M) and web (256M)|Mon, 29 Jul 2019 09:01:25 +0100|Mon, 29 Jul 2019 09:01:25 +0100
+45d9f4f5434bfad53071d1bc9b711fd32743038c|tag locally built commander image so you can more easily run local integration tests|Mon, 29 Jul 2019 09:00:52 +0100|Mon, 29 Jul 2019 09:00:52 +0100
+a16c372e86045a5a670f35615f6752144f850d20|add file you can edit to force a ci-run|Sat, 27 Jul 2019 21:12:49 +0100|Sat, 27 Jul 2019 21:12:49 +0100
+93f74b73b4d76dcaa00780e241b9bbcded1ff03e|use CYBER_DOJO_COMMANDER_TAG in cyber-dojo-inner|Fri, 26 Jul 2019 14:42:17 +0100|Fri, 26 Jul 2019 14:42:17 +0100
+fc8395c5c0131f9bb394743513778e797a4be3cc|use versioner's /app/.env file now that it contains TAG env-vars|Fri, 26 Jul 2019 14:19:20 +0100|Fri, 26 Jul 2019 14:19:20 +0100
+448c12c8d08eef4758bbd684dc7d22993aec5dd2|in cyber-dojo-inner allow STARTER_BASE_TAG to be tunnelled in to override the value otherwise coming from versioner's app/.env file; this is to allow the starter-base repo to do its testing|Tue, 23 Jul 2019 08:37:18 +0100|Tue, 23 Jul 2019 08:37:18 +0100
+0603f34882bc93d3dac05ae8921505ec19170934|use tac instead of cat (and then grep) to get _last_ matching entry from versioner's .env file|Mon, 22 Jul 2019 16:36:47 +0100|Mon, 22 Jul 2019 16:36:47 +0100
+4740b033cbc270525212bca53697a87cd29f0b44|reduce runner to 1G and differ to 128M|Fri, 19 Jul 2019 12:18:32 +0100|Fri, 19 Jul 2019 12:18:32 +0100
+b74097fa4ef07cf25138843d75ef6a670720f68e|set NO_PROMETHEUS env-var for all services|Fri, 19 Jul 2019 10:30:52 +0100|Fri, 19 Jul 2019 10:30:52 +0100
+a3d1ca1a15fab658a01cd6cda54ebe72f8297856|added --remove-options to [docker-compose up] for ./cyber-dojo up|Wed, 17 Jul 2019 20:04:37 +0100|Wed, 17 Jul 2019 20:04:37 +0100
+68683bd0d18212efd90bc32cfa6ab8dfcfbf79b7|added --remove-orphans option to [docker-compose down] for ./cyber-dojo down|Wed, 17 Jul 2019 19:08:52 +0100|Wed, 17 Jul 2019 19:08:52 +0100
+8968183280238ba89bee5c26472588ea9dae75b7|update up-test with correct expected text now grafana service has been removed|Wed, 17 Jul 2019 15:55:24 +0100|Wed, 17 Jul 2019 15:55:24 +0100
+820737d595414c19e6cb4501ad51ee8369fe864d|remove prometheus and grafana from local server|Wed, 17 Jul 2019 15:32:31 +0100|Wed, 17 Jul 2019 15:32:31 +0100
+6509132491cbca3ef200e69b69bd707c999a9b08|fix docker run that was missing its --rm option|Sat, 29 Jun 2019 20:56:34 +0100|Sat, 29 Jun 2019 20:56:34 +0100
+c68fc7a07b6387dba029a4bdb9a7adc44cb2e6f1|update [cyber-dojo up] test to reset to :latest at its start to decouple from previous tests|Sat, 29 Jun 2019 20:56:18 +0100|Sat, 29 Jun 2019 20:56:18 +0100
+6201f531e91db20c793a8c069e17e4383fb371c9|implement proper fix to previous commit|Sat, 29 Jun 2019 20:35:10 +0100|Sat, 29 Jun 2019 20:35:10 +0100
+b7453e5f0dd21c472f1da5b7552cf81902995154|fix version chicken-egg problem in test_update.sh|Sat, 29 Jun 2019 20:14:07 +0100|Sat, 29 Jun 2019 20:14:07 +0100
+ca308f8584c2e40023a228adfb1cced090ed38d8|refactoring; rb script tidying|Sat, 29 Jun 2019 14:27:42 +0200|Sat, 29 Jun 2019 14:27:42 +0200
+76c0571d8fbd10a6b20438136a3d427dcecf46e7|refactoring; rb script tidying|Sat, 29 Jun 2019 14:21:41 +0200|Sat, 29 Jun 2019 14:21:41 +0200
+93d255702315f4c7f670dbc5bbb61ccfe3da242d|refactoring; delete dead code|Sat, 29 Jun 2019 14:16:08 +0200|Sat, 29 Jun 2019 14:16:08 +0200
+e06b09560a4fdae8c3d68cb4b78949bd4652d8bb|refactoring; put helper functions in deepest dir possible|Sat, 29 Jun 2019 14:15:45 +0200|Sat, 29 Jun 2019 14:15:45 +0200
+644c6211fd2b3b6762151697725bdd375c8f95b6|refactoring; tidy ruby files|Sat, 29 Jun 2019 14:13:40 +0200|Sat, 29 Jun 2019 14:13:40 +0200
+223ae075d4c099369f15048468ad4ecab6dbf8fa|refactoring; delete dead code|Sat, 29 Jun 2019 13:17:34 +0200|Sat, 29 Jun 2019 13:17:34 +0200
+23d0bce8b851b6c9bd529d21ebeac2397ce7d7ac|use versioners echo_env_vars.rb script to get SHA and TAG env-vars|Sat, 29 Jun 2019 13:11:19 +0200|Sat, 29 Jun 2019 13:11:19 +0200
+cb5924c304f44ce79ed7309d2d5a26344b392cac|add comments to docker-compose yaml file|Sat, 29 Jun 2019 12:55:21 +0200|Sat, 29 Jun 2019 12:55:21 +0200
+5472da423ecefdce5f98edfbeca03897a1ce580d|refactoring; delete dead code|Sat, 29 Jun 2019 08:20:16 +0200|Sat, 29 Jun 2019 08:20:16 +0200
+7390607d98a2fa6867d3f1c812f45631fb6a764c|increase memory-limit for prometheus and expose its port so you can use the prometheus-console in the browser to check expressions|Fri, 28 Jun 2019 13:40:23 +0200|Fri, 28 Jun 2019 13:40:23 +0200
+a79ae29603ee0c5a4dad2e5bf8c0f918d913d5d0|fix service_running() used by [cyber-dojo logs]|Thu, 27 Jun 2019 20:02:35 +0200|Thu, 27 Jun 2019 20:02:35 +0200
+21ce96c172e2c1f095aa3cd1665958fbe7fb274e|fix error; helps to not put bash code into .rb file (doh)|Thu, 27 Jun 2019 19:38:37 +0200|Thu, 27 Jun 2019 19:38:37 +0200
+05244ce6a9e3cbe2895e6e170738ba20886a55d3|make [cyber-dojo sh] slightly more robust (in case where a service name is a prefix of another service name)|Thu, 27 Jun 2019 08:01:12 +0100|Thu, 27 Jun 2019 08:01:12 +0100
+5954806b239f521cce1f62ed633e79b9998d7d49|add version command to main help text; add content to help for [cyber-dojo update]|Wed, 26 Jun 2019 14:14:47 +0100|Wed, 26 Jun 2019 14:14:47 +0100
+bc60e90958a22a8cbf7f5a6015a8c93f89b429ef|remove [cyber-dojo version] test for release 0.0.8 because commander's sha is not in 0.0.8|Wed, 26 Jun 2019 13:34:15 +0100|Wed, 26 Jun 2019 13:34:15 +0100
+3f75e68e74652bcbc4f11a37a0e3cadaedf72fc0|update [cyber-dojo version] test for slight change of output format|Wed, 26 Jun 2019 12:38:33 +0100|Wed, 26 Jun 2019 12:38:33 +0100
+ce3cb1b7fd3958d871d10f5152e525186fbb16fc|fix [start-point create] help text which was not showing trailing backslashes correctly|Wed, 26 Jun 2019 12:34:50 +0100|Wed, 26 Jun 2019 12:34:50 +0100
+295ac914b5cf1112f6e59b3e6db0d31800d51e53|on [start-point create] help text, drop malformed git-clone urls|Wed, 26 Jun 2019 10:03:46 +0100|Wed, 26 Jun 2019 10:03:46 +0100
+f3cd4185db6127c1ea677af9687cb77d9315407b|refactoring; tweak help text for [start-point create]|Wed, 26 Jun 2019 10:03:02 +0100|Wed, 26 Jun 2019 10:03:02 +0100
+7418f8311ebf732477ae31891e3ab98d34cfe05d|remove terminal-colouring from stderr messages|Wed, 26 Jun 2019 09:50:57 +0100|Wed, 26 Jun 2019 09:50:57 +0100
+7d4313d16ea2065ffe322ed76d09b7e3cb6f9ccb|refactoring; delete dead code|Wed, 26 Jun 2019 08:32:08 +0100|Wed, 26 Jun 2019 08:32:08 +0100
+48ba8650d47c65bdb95bca9e8b2b843c24c1c83a|[ci skip] readme update|Tue, 25 Jun 2019 16:57:18 +0100|Tue, 25 Jun 2019 16:57:18 +0100
+8b86231a4686b3889532dfa990fd285a01ad0419|line up printed [cyber-dojo version] info vertically|Tue, 25 Jun 2019 16:53:41 +0100|Tue, 25 Jun 2019 16:53:41 +0100
+e453f1b700af77c6522f5d1434eedcc71cebe29f|added versioner service to docker-compose.yml|Tue, 25 Jun 2019 09:16:47 +0100|Tue, 25 Jun 2019 09:16:47 +0100
+bcfc78f7559bd07fe4d17febffb6b7c36eb4f559|remove terminal colouring on stderr messages from cyber-dojo-inner|Sat, 22 Jun 2019 16:34:29 +0100|Sat, 22 Jun 2019 16:34:29 +0100
+f1ec665d3fa3631a1e7eb0b925feb96650ac0550|turn off terminal colours till I get them working on CircleCI|Sat, 22 Jun 2019 14:56:32 +0100|Sat, 22 Jun 2019 14:56:32 +0100
+e6c1f2de9d7058f751e808e44609ca2c04c079b7|trying to get tput to reset terminal colour when running on CircleCI|Sat, 22 Jun 2019 14:20:19 +0100|Sat, 22 Jun 2019 14:20:19 +0100
+e859bc42e784e839d4af752cd762a7ec0c458d8a|in start-point-create.sh explicitly set TERM for terminal colours|Sat, 22 Jun 2019 12:31:47 +0100|Sat, 22 Jun 2019 12:31:47 +0100
+75781d5f29a83470d8fedea21890147266db24a7|refactoring; use memoization block|Thu, 20 Jun 2019 18:27:11 +0100|Thu, 20 Jun 2019 18:27:11 +0100
+8091ad054c29831b6cdd541513500ccdc45c7a03|updated [cyber-dojo up] help text and added info on overriding .env files for grafana/nginx/web|Sun, 16 Jun 2019 15:43:25 +0100|Sun, 16 Jun 2019 15:43:25 +0100
+5e674b76d51b8c7ba6b3e251d14fba5f1eeab07c|[ci skip] comment update to cmd/docker-compose/env-files.yml|Sun, 16 Jun 2019 12:37:33 +0100|Sun, 16 Jun 2019 12:37:33 +0100
+28a48381e6f3f790ac3e17a2e4b631abc048de57|fix [cyber-dojo version] tests|Sun, 16 Jun 2019 11:50:10 +0100|Sun, 16 Jun 2019 11:50:10 +0100
+e4bb11396b6d43c20ab78385cde5ef502274ea3a|refactoring; cache reading env-vars from versioner:latest image|Sun, 16 Jun 2019 10:00:29 +0100|Sun, 16 Jun 2019 10:00:29 +0100
+efdaa6034772d37b429d9e50b3879e18c3babc9e|pass sha/release from cyberdojo/versioner:latest into web ready for web to use it in footer as link to sha/index page|Sun, 16 Jun 2019 06:34:43 +0100|Sun, 16 Jun 2019 06:34:43 +0100
+d6a3f44b92e268757b5f8ac06e7f510b5e365591|increase mem-limits for differ service|Thu, 13 Jun 2019 17:55:51 +0100|Thu, 13 Jun 2019 17:55:51 +0100
+bdd2e9b8d930586a526df585d14b394eed68a8dc|[ci skip] readme update|Thu, 13 Jun 2019 12:10:07 +0100|Thu, 13 Jun 2019 12:10:07 +0100
+dc42174ced6eaa6fdf4e05881d30aef0533a49fc|added test for [cyber-dojo update RELEASE]|Wed, 12 Jun 2019 19:17:48 +0100|Wed, 12 Jun 2019 19:17:48 +0100
+9d3e6c4673966ad15c5c9bd8ff85ad47e44113a4|fix incorrect month-specifier used in [cyber-dojo version] command|Wed, 12 Jun 2019 18:40:23 +0100|Wed, 12 Jun 2019 18:40:23 +0100
+e84990beb40932b7dd7566e11f6169b0d1ed3a2e|readme update|Wed, 12 Jun 2019 18:39:57 +0100|Wed, 12 Jun 2019 18:39:57 +0100
+d363cbeaaf80f08ecef0acccd1f2d188868fb2cc|[ci skip] readme update|Wed, 12 Jun 2019 15:34:44 +0100|Wed, 12 Jun 2019 15:34:44 +0100
+1e71e04e70bd8a0c9efc7a1ef862d46154ced06d|[ci skip] readme update|Wed, 12 Jun 2019 15:27:07 +0100|Wed, 12 Jun 2019 15:27:07 +0100
+9f04f94c58fdb34583b7953f77af14487504c1bf|[ci skip] readme update|Wed, 12 Jun 2019 15:24:22 +0100|Wed, 12 Jun 2019 15:24:22 +0100
+4dcf32566537d550062d7b58a06f37e086ee534a|[ci skip] readme update|Tue, 11 Jun 2019 21:18:06 +0100|Tue, 11 Jun 2019 21:18:06 +0100
+d9bf5f210dbfc492952498161953020888353e42|[ci skip] readme update|Tue, 11 Jun 2019 21:15:13 +0100|Tue, 11 Jun 2019 21:15:13 +0100
+b896b043d4992e2e44ebf4ce94a3789df88601a1|[ci skip] readme update|Tue, 11 Jun 2019 21:11:53 +0100|Tue, 11 Jun 2019 21:11:53 +0100
+8a2334c717e60fffcb9156851036db2838fa22f9|[ci skip] readme update|Tue, 11 Jun 2019 21:07:31 +0100|Tue, 11 Jun 2019 21:07:31 +0100
+06af38db8f33357d63eb0416dde2140db506443b|[ci skip] readme update|Tue, 11 Jun 2019 19:50:37 +0100|Tue, 11 Jun 2019 19:50:37 +0100
+ce5524e7e440a5bf166a2aa8d2c964e5753d92e0|[ci skip] readme update|Tue, 11 Jun 2019 19:49:09 +0100|Tue, 11 Jun 2019 19:49:09 +0100
+56dfbfccf43e93133a8dcde21056d3b78ccebb0c|[ci skip] readme update|Tue, 11 Jun 2019 17:09:50 +0100|Tue, 11 Jun 2019 17:09:50 +0100
+fe82190510e4cbfea96da03b49e90242b783c5b7|[ci skip] readme update|Tue, 11 Jun 2019 17:04:29 +0100|Tue, 11 Jun 2019 17:04:29 +0100
+a91ab96a231cca0eb778b70c15684bded354200e|[ci skip] readme update|Tue, 11 Jun 2019 16:59:50 +0100|Tue, 11 Jun 2019 16:59:50 +0100
+db58ed70283454a0d27d8818e4052e11f95b3b8a|added [update] test when there are too many arguments|Tue, 11 Jun 2019 14:57:40 +0100|Tue, 11 Jun 2019 14:57:40 +0100
+354ee33775b6316f8fa0d637aeb60a5acefbe683|fix breakages revealed by [cyber-dojo update] tests|Tue, 11 Jun 2019 14:40:45 +0100|Tue, 11 Jun 2019 14:40:45 +0100
+de7c76c00022241c680d9e6ac56e4513b4f5ee38|move update handling inside commander container in Ruby|Tue, 11 Jun 2019 14:07:48 +0100|Tue, 11 Jun 2019 14:07:48 +0100
+39a376b0c86ff830410600df4014e16465671774|refactoring; delete dead notes files|Tue, 11 Jun 2019 10:56:24 +0100|Tue, 11 Jun 2019 10:56:24 +0100
+30866fbd0266ace7bf1e7d7dd7db572d7cef7af7|add [cyber-dojo version] command; on output use green-text only for success not in help-text|Tue, 11 Jun 2019 10:49:39 +0100|Tue, 11 Jun 2019 10:49:39 +0100
+1cabc6477b510b17844675e1b7bd543a36ae90f5|update test to smaller languages/custom stdout contents|Mon, 10 Jun 2019 07:42:33 +0100|Mon, 10 Jun 2019 07:42:33 +0100
+3cc095e0c9cee564625b387cd03951eebf3b99c2|use even smaller start-point to help make test run faster|Mon, 10 Jun 2019 07:26:55 +0100|Mon, 10 Jun 2019 07:26:55 +0100
+f6389b30a48a2ecb7c8e64d87d4c8b5321547ba7|use smaller custom and languages point in update test to make test run faster|Mon, 10 Jun 2019 07:16:15 +0100|Mon, 10 Jun 2019 07:16:15 +0100
+2d04e519f7bba5ee159e8648a102bc52d11c1fda|use smaller custom start-point to make test run faster|Mon, 10 Jun 2019 07:00:48 +0100|Mon, 10 Jun 2019 07:00:48 +0100
+c4a92dc87d91d14272d3f3e340e9edc88dd040a5|refactoring; simplify expression|Mon, 10 Jun 2019 06:59:57 +0100|Mon, 10 Jun 2019 06:59:57 +0100
+ae4b0280cfa0528507517b63dee030541b18ac44|refactoring; drop ./ prefix when naming ./cyber-dojo in help text|Mon, 10 Jun 2019 06:52:52 +0100|Mon, 10 Jun 2019 06:52:52 +0100
+dd72139466c43871b9c20324e549fb0e51d783a1|refactoring|Sun, 9 Jun 2019 21:40:51 +0100|Sun, 9 Jun 2019 21:40:51 +0100
+1549a941efc9a02f2d67ea446bc1f40adbe5d22d|refactoring; use sgr0 to get tput reset code|Sun, 9 Jun 2019 19:40:15 +0100|Sun, 9 Jun 2019 19:40:15 +0100
+9f9d449fdbb35e5edead124cf40bf4f8004045f5|add [set -e] to cyber-dojo-inner not [set -x]|Sun, 9 Jun 2019 18:58:36 +0100|Sun, 9 Jun 2019 18:58:36 +0100
+5da50d2cfd44aa261393bbf958348cef71e66992|added [set -x] to cyber-dojo-inner|Sun, 9 Jun 2019 18:52:32 +0100|Sun, 9 Jun 2019 18:52:32 +0100
+5222d81d04670f516ab8f5e961ffbbbf6c819d8c|refactoring; create name for magic-number 25|Sun, 9 Jun 2019 16:54:58 +0100|Sun, 9 Jun 2019 16:54:58 +0100
+98635c356fbc1b5ea21e9fc29c63eaee5342e5ec|add missing env-var for ENV_ROOT to down()|Sun, 9 Jun 2019 16:32:35 +0100|Sun, 9 Jun 2019 16:32:35 +0100
+4e2aa19d40490f2909ac5c3190df6db5ea8955e6|fix broken test|Sun, 9 Jun 2019 16:25:36 +0100|Sun, 9 Jun 2019 16:25:36 +0100
+cfdfe4d502d7e967c9470e172a08fd7835ca51f2|refactoring; extract env_root into method|Sun, 9 Jun 2019 16:22:51 +0100|Sun, 9 Jun 2019 16:22:51 +0100
+b61d3883236946a0d80444ea3932ee5757f69b09|show path of custom .env files in up's stdout|Sun, 9 Jun 2019 16:14:22 +0100|Sun, 9 Jun 2019 16:14:22 +0100
+89383ead63bc12f639c247c7541b268da0ec3c5e|added tests for web.env file overrides|Sun, 9 Jun 2019 15:41:14 +0100|Sun, 9 Jun 2019 15:41:14 +0100
+3ce5905004d36513a2b3d78a6fa162844e6d1cfe|add test for web-env file override that would have caught previous error; fix stdout/stderr diagnostic in test helpers|Sun, 9 Jun 2019 10:50:16 +0100|Sun, 9 Jun 2019 10:50:16 +0100
+53c1ea46e03bb82c77773ba3aca75173f289b8ae|refactoring|Sun, 9 Jun 2019 09:24:25 +0100|Sun, 9 Jun 2019 09:24:25 +0100
+03375b845690f7e5dfd76af2a6cdc1d5b27749db|refactoring|Sun, 9 Jun 2019 09:11:53 +0100|Sun, 9 Jun 2019 09:11:53 +0100
+30367f5fe39ac71336bcda3a1f210b0ae470773e|pre-pull cyberdojo/versioner:latest before tests run|Sun, 9 Jun 2019 08:56:51 +0100|Sun, 9 Jun 2019 08:56:51 +0100
+50a6a981a724004caa5fbcde6f0f9a3d8ea77c9f|put helper scripts back to capturing stdout/stderr for tests|Sun, 9 Jun 2019 08:52:14 +0100|Sun, 9 Jun 2019 08:52:14 +0100
+b76268dde956924dfba730c48c39a1eb02a95563|fix error introduced in supposed refactoring|Sun, 9 Jun 2019 08:50:23 +0100|Sun, 9 Jun 2019 08:50:23 +0100
+01334b72574058d9b2b2e7f63c76127d71547fcd|debugging; follow into checking env-vars in cyber-dojo-inner|Sun, 9 Jun 2019 08:45:43 +0100|Sun, 9 Jun 2019 08:45:43 +0100
+0990a735412b535c72d23b81428dd6038e307672|debugging; follow down to call to clean()|Sun, 9 Jun 2019 08:42:47 +0100|Sun, 9 Jun 2019 08:42:47 +0100
+3ac5943c7c70ff93fda758ba6711064757c85ce5|try doing a [docker system prune]|Sun, 9 Jun 2019 08:35:08 +0100|Sun, 9 Jun 2019 08:35:08 +0100
+cb8f893b798820e522870097565b77fee6f3c23c|drop unneeded [exe down] before tests run|Sun, 9 Jun 2019 08:27:54 +0100|Sun, 9 Jun 2019 08:27:54 +0100
+420bb5b536dd196811d0ee0ef89c5f27b8e4e737|more CI debugging|Sun, 9 Jun 2019 08:21:48 +0100|Sun, 9 Jun 2019 08:21:48 +0100
+40a76fc89b02b55206652d0e66c46b18cb645c43|try removing [set -e] from cyber-dojo-inner|Sun, 9 Jun 2019 08:15:31 +0100|Sun, 9 Jun 2019 08:15:31 +0100
+665852bb6c8c91c84aed254319a249103e273f6b|add [set -x] to test/sh/run.sh to debug on CI|Sun, 9 Jun 2019 08:13:04 +0100|Sun, 9 Jun 2019 08:13:04 +0100
+0c9435e8308070f3d4993cac05af0372419150d8|add [set -x] to see what's failing on ci|Sun, 9 Jun 2019 08:09:59 +0100|Sun, 9 Jun 2019 08:09:59 +0100
+6bdef59ad4a26283c3669b291a8fbe20aaccc41f|cyber-dojo-inner error messages now print in red|Sun, 9 Jun 2019 07:59:36 +0100|Sun, 9 Jun 2019 07:59:36 +0100
+36e3110dc195a55688a532c7b913366fdc858865|[ci skip] notes update|Sat, 8 Jun 2019 18:01:48 +0100|Sat, 8 Jun 2019 18:01:48 +0100
+d74b153f9d725128e4cb61ed65d77f9e31547639|check env-var pointing to .env files when on Docker and on DockerToolbox|Sat, 8 Jun 2019 13:52:29 +0100|Sat, 8 Jun 2019 13:52:29 +0100
+5819892cf8d650e0e03649654b33fad5f9b4a577|[ci skip] added more notes on .env file volume-mounts|Sat, 8 Jun 2019 13:14:09 +0100|Sat, 8 Jun 2019 13:14:09 +0100
+d776d07e8a9566f3114b26ba44c8a839a5c32470|[ci skip] add comment on thoughts about volume-mounting the .env files|Sat, 8 Jun 2019 12:54:03 +0100|Sat, 8 Jun 2019 12:54:03 +0100
+3444a71f0a5ae4ea4cbcf62d6ec384130c4c13e9|refactoring; script tidying|Sat, 8 Jun 2019 12:38:55 +0100|Sat, 8 Jun 2019 12:38:55 +0100
+2ee4924d36440d9994d2503291eddfba8db6ce61|reorder statement in up.rb to keep up tests passing|Sat, 8 Jun 2019 08:24:37 +0100|Sat, 8 Jun 2019 08:24:37 +0100
+49b069524a3221cd691db35a5a8dfe3cddb5a3b2|simplify bash in cyber-dojo-inner to make it more portable|Sat, 8 Jun 2019 07:52:30 +0100|Sat, 8 Jun 2019 07:52:30 +0100
+8f4854a23bc7e5a321fad3639a202bc4a16020c9|refactoring; improve grafana.env message; reorder statements|Sat, 8 Jun 2019 07:44:42 +0100|Sat, 8 Jun 2019 07:44:42 +0100
+36e9a0ee9882f90bd3b61eb2f786d3466f8bc116|fail with error-message if env-var for env-files are set to a path that does not exist|Sat, 8 Jun 2019 07:30:45 +0100|Sat, 8 Jun 2019 07:30:45 +0100
+407ac956ecca03b8fcfa6ee50be2b32fd8b02571|drop unneeded --interactive option from [docker run] in cyber-dojo-inner|Sat, 8 Jun 2019 07:29:35 +0100|Sat, 8 Jun 2019 07:29:35 +0100
+541b2931e491a42a1a7b2e795dc72ccf01dc9941|fix handling of {web,nginx,grafana}.env files|Sat, 8 Jun 2019 07:14:44 +0100|Sat, 8 Jun 2019 07:14:44 +0100
+102a3fad05c5bcd6a1acbe6a5eb3b8eeb43af424|drop allowing CYBER_DOJO_VERSION to override versioner:latest|Sat, 8 Jun 2019 06:19:50 +0100|Sat, 8 Jun 2019 06:19:50 +0100
+4eed2d1e2c57c96b2df253a0b54d39a34a79c550|revert passing MY_DIR change|Fri, 7 Jun 2019 21:37:36 +0100|Fri, 7 Jun 2019 21:37:36 +0100
+8fbbbc21ce02d189576b89b9993d11dd131e86ad|pass MY_DIR to cyber-dojo-inner so it can look for {web,nginx,grafana}.env files|Fri, 7 Jun 2019 21:19:34 +0100|Fri, 7 Jun 2019 21:19:34 +0100
+b46819fd0e54bebb393c1230d7691c5842fb4e76|add [up] help text for overridable env-vars|Fri, 7 Jun 2019 19:43:47 +0100|Fri, 7 Jun 2019 19:43:47 +0100
+b6c2ad636b2a886c720b349a7376eb876e1f1e8d|show commander's SHA when doing an up|Fri, 7 Jun 2019 19:29:50 +0100|Fri, 7 Jun 2019 19:29:50 +0100
+21b57be8e3e510d5f3ed42d6d2132cea31b1bf78|[ci skip] readme update|Fri, 7 Jun 2019 19:19:15 +0100|Fri, 7 Jun 2019 19:19:15 +0100
+f0b2a7f0fc59e4e5c13aeb51f7bce188d0dba3f7|[ci skip] notes update|Fri, 7 Jun 2019 15:47:34 +0100|Fri, 7 Jun 2019 15:47:34 +0100
+37c4a955038af01153df77a12d726cf1d8798888|improve [cyber-dojo update] test by unsetting/exporting COMMANDER_IMAGE closer together|Fri, 7 Jun 2019 10:58:15 +0100|Fri, 7 Jun 2019 10:58:15 +0100
+b291513a6830f55a4a5c57079b7afd29d0f66a03|up/update tests now expect slightly altered stdout|Fri, 7 Jun 2019 09:38:27 +0100|Fri, 7 Jun 2019 09:38:27 +0100
+dbb9dcf01ceae0d15aece361d2ee28fb00179a1e|drop unneeded quotes|Fri, 7 Jun 2019 08:42:03 +0100|Fri, 7 Jun 2019 08:42:03 +0100
+10c8563a526c7e807090a544a66b7c6c5939b8b1|drop unneeded stdout message|Fri, 7 Jun 2019 08:41:54 +0100|Fri, 7 Jun 2019 08:41:54 +0100
+8e1f48804bc08b18a1e28457ce0c52ddffdf1ec8|refactoring; renaming|Fri, 7 Jun 2019 08:38:29 +0100|Fri, 7 Jun 2019 08:38:29 +0100
+49292f84b9c1f4348d9666e4a06b8cd7d5c2fb87|do pull of language-test-framework after writing [Using X=Y] messages|Fri, 7 Jun 2019 08:34:14 +0100|Fri, 7 Jun 2019 08:34:14 +0100
+b068f4684ec0a836db9559aabd82726dbad7d144|pass CYBER_DOJO_VERSION on to cyber-dojo-inner|Fri, 7 Jun 2019 08:28:23 +0100|Fri, 7 Jun 2019 08:28:23 +0100
+918478ed5df04abf9b68fa1edf1580aca47b11c7|allow [CYBER_DOJO_VERSION=1.2.3 ./cyber-dojo ...] to use specific version without updating to it|Fri, 7 Jun 2019 08:19:04 +0100|Fri, 7 Jun 2019 08:19:04 +0100
+568fcd94e76d4c07ab2abac06a2fb50581d06dd7|[ci skip] added notes on missing tests|Fri, 7 Jun 2019 03:45:29 +0100|Fri, 7 Jun 2019 03:45:29 +0100
+8e6bff5f12d5da2c3c030775d596a7ba82c5b021|added [update] todo|Thu, 6 Jun 2019 21:13:36 +0100|Thu, 6 Jun 2019 21:13:36 +0100
+95ef0a410e304b5b341d947beb1b34810421267f|wip for [./cyber-dojo version] command|Thu, 6 Jun 2019 19:53:20 +0100|Thu, 6 Jun 2019 19:53:20 +0100
+800460fc9f35c9d5d779193ced94d2ec8957ac39|delete [update] code that replaced main cyber-dojo script|Thu, 6 Jun 2019 17:30:39 +0100|Thu, 6 Jun 2019 17:30:39 +0100
+7784de50568ce86e4b8104bb8e66915a57727638|save wip while I think about it some more|Thu, 6 Jun 2019 17:17:45 +0100|Thu, 6 Jun 2019 17:17:45 +0100
+197e73836d7c72b61f878d16e1f7db5efb265848|trying to get cyber-dojo auto replacing|Thu, 6 Jun 2019 07:31:34 +0100|Thu, 6 Jun 2019 07:31:34 +0100
+1df4bb8ab78b52e3c643af10424248721d88e5d2|pass cyber-dojo's dir to extract_and_run() function so update knows location of cyber-dojo script to update|Thu, 6 Jun 2019 07:11:21 +0100|Thu, 6 Jun 2019 07:11:21 +0100
+abde2a0acb5cb112d9d01d1434a756aa2cf691ee|improve diagnostics on assert/refute primitives|Wed, 5 Jun 2019 22:03:35 +0100|Wed, 5 Jun 2019 22:03:35 +0100
+ac3e52a85163a65980f435c48e115c12ac50a6b2|take all the [set -e]'s out of the individual test scripts|Wed, 5 Jun 2019 21:33:41 +0100|Wed, 5 Jun 2019 21:33:41 +0100
+6a59a52a55c2dcefeab9c478d4e344454aef9234|refactoring now at green again|Wed, 5 Jun 2019 21:20:42 +0100|Wed, 5 Jun 2019 21:20:42 +0100
+302b1018e1c39d12081d3aa34d953dfa01fa4599|added echo-scaffolding around assertStartPointRm()|Wed, 5 Jun 2019 21:10:15 +0100|Wed, 5 Jun 2019 21:10:15 +0100
+51843ee686a1e92ec9185f4d817d42227ebff68f|added echo-scaffolding around assertNoStderr()|Wed, 5 Jun 2019 21:00:41 +0100|Wed, 5 Jun 2019 21:00:41 +0100
+298709ec1d14ab133f255a30c6d0d079ff8d9480|added echo-scaffolding around assertUp()|Wed, 5 Jun 2019 20:44:32 +0100|Wed, 5 Jun 2019 20:44:32 +0100
+d2dc47f60849e2130ca4dbf49728d96cd01c730a|added echo-scaffolding around assertStartPointCreate()|Wed, 5 Jun 2019 20:34:02 +0100|Wed, 5 Jun 2019 20:34:02 +0100
+4f83a0cf81fc87936fac94f30e57b00ee86c8ac7|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:27:59 +0100|Wed, 5 Jun 2019 20:27:59 +0100
+e1da62b8f700028323ccdfa9240567813345cf11|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:23:22 +0100|Wed, 5 Jun 2019 20:23:22 +0100
+320366317f2c5c5d641f4d749a0401f569e89de5|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:21:04 +0100|Wed, 5 Jun 2019 20:21:04 +0100
+ea2901f42b99d81d2092da230b32792d14004e7d|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:19:26 +0100|Wed, 5 Jun 2019 20:19:26 +0100
+6b5daf432d1f61345a803beb10c3e01a2bdadc6a|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:17:49 +0100|Wed, 5 Jun 2019 20:17:49 +0100
+561a4bb8015b49dea25f24327d162f4bdb664385|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:15:46 +0100|Wed, 5 Jun 2019 20:15:46 +0100
+25729b6007c05ed3971cea8b541fc8f5ab1b0678|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:13:40 +0100|Wed, 5 Jun 2019 20:13:40 +0100
+e2057695f59e37fd93298f78ab87fa1252a220d8|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:12:02 +0100|Wed, 5 Jun 2019 20:12:02 +0100
+ad9f1989f8ea87510844d6cee8ac25d3473af833|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:10:20 +0100|Wed, 5 Jun 2019 20:10:20 +0100
+0e879c22c7048fde498cd5d070f6fce1e0f356fa|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:08:45 +0100|Wed, 5 Jun 2019 20:08:45 +0100
+bd2e4bcb57ead3c8f5c5dcebc27bf154d7590c7d|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:07:00 +0100|Wed, 5 Jun 2019 20:07:00 +0100
+5fe186ab559021f65c3f1ae32ec315704dbf6077|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:04:36 +0100|Wed, 5 Jun 2019 20:04:36 +0100
+3a017c4936694de7e353e518f43a08cf65cbb47f|re-introduce removed surrounds to see if it affects [down] test|Wed, 5 Jun 2019 20:02:38 +0100|Wed, 5 Jun 2019 20:02:38 +0100
+5502364427b0b0020d41ae200b66b15db048d7da|run just single failing down test with more debug info|Wed, 5 Jun 2019 19:57:07 +0100|Wed, 5 Jun 2019 19:57:07 +0100
+6b0c1a71cac06fadf5874495a870bde871fdd345|run just down test till its fixed|Wed, 5 Jun 2019 19:42:35 +0100|Wed, 5 Jun 2019 19:42:35 +0100
+bb263e8f65136b9442ef27480a8db9f4e85f072d|add echoes to try and track down why [down] test is failing|Wed, 5 Jun 2019 19:40:09 +0100|Wed, 5 Jun 2019 19:40:09 +0100
+07f524796df832580b9516d310b3c045e6d4e70f|add [set -x] to failing down test|Wed, 5 Jun 2019 19:30:19 +0100|Wed, 5 Jun 2019 19:30:19 +0100
+d428b31a2191f3bf04933cb572a62fc9f7202c7b|add handling of [set +e][set -e] around refute helper methods|Wed, 5 Jun 2019 19:21:55 +0100|Wed, 5 Jun 2019 19:21:55 +0100
+285952c98ad66b23ba0b1b55535662832af5dab2|add [set -e] to all tests|Wed, 5 Jun 2019 18:45:33 +0100|Wed, 5 Jun 2019 18:45:33 +0100
+bf08b7d3b53e25b9afc6105273aa5d054d48a79f|refactoring; fail tests on first failure|Wed, 5 Jun 2019 18:15:10 +0100|Wed, 5 Jun 2019 18:15:10 +0100
+83f24f673514239e0446cf93580f235de0e0b761|fix update test to shut down properly so as to not affect subsequent up tests; also use [up languages-small] to minimize pulling language-test-frameworks|Wed, 5 Jun 2019 17:52:48 +0100|Wed, 5 Jun 2019 17:52:48 +0100
+6905dfe70277aa43d0d23eaab0f1de026a9fb0e2|added test for [update tag] with specific tag to check for specific service tags on next up|Wed, 5 Jun 2019 17:33:28 +0100|Wed, 5 Jun 2019 17:33:28 +0100
+bd3cd4cf08b6ee0c8e771d2b2025d631bb32e145|reinstate [update] test with bad arg (not a tag)|Wed, 5 Jun 2019 17:02:28 +0100|Wed, 5 Jun 2019 17:02:28 +0100
+30b8908b81dbb886c0aec547668950fc5a41c0ee|reinstate [update -h|--h] test|Wed, 5 Jun 2019 16:52:15 +0100|Wed, 5 Jun 2019 16:52:15 +0100
+6e441c9fe164a212708bc2a8b9424d0731b6723d|refactoring; use idiomatic -n -z in if[]'s|Wed, 5 Jun 2019 16:47:16 +0100|Wed, 5 Jun 2019 16:47:16 +0100
+0cca22c2d0a0b08930dc92aa606ee9b886d76380|switched to cyber-dojo script delegating through versioner:latest|Wed, 5 Jun 2019 15:22:07 +0100|Wed, 5 Jun 2019 15:22:07 +0100
+392d55fc4821c6ff671942c60916a92387c473ec|notes update; all commands will use versioner:latest, update will change :latest|Wed, 5 Jun 2019 13:26:44 +0100|Wed, 5 Jun 2019 13:26:44 +0100
+ed65287aadaf60993ce6324be769d6bc2d82d722|refactoring; statement reordering|Wed, 5 Jun 2019 13:26:01 +0100|Wed, 5 Jun 2019 13:26:01 +0100
+92641711c1077334e65463002cc6da3a65a64b8e|fix broken tests|Wed, 5 Jun 2019 11:12:14 +0100|Wed, 5 Jun 2019 11:12:14 +0100
+0bd944a23d24f0e9fa83ec1f3071949a92f58c12|[up] prints tagged image names for all services|Wed, 5 Jun 2019 10:37:22 +0100|Wed, 5 Jun 2019 10:37:22 +0100
+f77e05d245e7eb667b95091368da0aee5d206a64|set -Txterm in tputs when setting bold/colours in help/error text|Wed, 5 Jun 2019 10:02:40 +0100|Wed, 5 Jun 2019 10:02:40 +0100
+442cefe05b8f9f3fd05f290cc85c233b870dafa9|add some colour to [cyber-dojo start-point create] help text and error messages|Wed, 5 Jun 2019 09:48:26 +0100|Wed, 5 Jun 2019 09:48:26 +0100
+268e6a83fdd5c3ea0021b1451166c0492a22d29e|replace _all_ occurences of STARTER_BASE_TAG when catting start-point-create.sh to host|Wed, 5 Jun 2019 09:47:00 +0100|Wed, 5 Jun 2019 09:47:00 +0100
+b4cd47ecfaa67194febfddc47ab79de2dbeb2db1|[ci skip] notes update|Wed, 5 Jun 2019 07:29:07 +0100|Wed, 5 Jun 2019 07:29:07 +0100
+2f60562e5ab6be8cf56bbdebaf770f51317a2f1d|update help-text for [start-point create]; added notes on how to version|Wed, 5 Jun 2019 07:02:08 +0100|Wed, 5 Jun 2019 07:02:08 +0100
+45b7eca6719d2eb93cb828ceca3bffee99d8013f|move [cyber-dojo update/sh] handling from .rb file (inside container) into .sh (outside container)|Tue, 4 Jun 2019 21:03:33 +0100|Tue, 4 Jun 2019 21:03:33 +0100
+fdf4fb76d6f179f3ad2c4c4570ad75ef7e92a8c8|move some of the [update] functionality from .rb (run inside the container) to .sh (run outside the container)|Tue, 4 Jun 2019 16:50:14 +0100|Tue, 4 Jun 2019 16:50:14 +0100
+1cef037211a6efae9c4b5952cbb9e505b93fa2eb|added STARTER_BASE_SHA to example .env file|Tue, 4 Jun 2019 14:52:53 +0100|Tue, 4 Jun 2019 14:52:53 +0100
+24835426769c1a52f25077d056ae86ac98ed3026|[./cyber-dojo start-point create] script now uses tag for cyberdojo/starter-base image which comes from versioner's .env file|Tue, 4 Jun 2019 14:46:08 +0100|Tue, 4 Jun 2019 14:46:08 +0100
+4fd242505cdfc8468e547fb1e90671579bf4151f|[ci skip] fix sh/dot-env-writer script so it works for grafana/prometheus/starter-base special cases|Tue, 4 Jun 2019 13:09:11 +0100|Tue, 4 Jun 2019 13:09:11 +0100
+0d304889133720e1b7b52c26930f3e1e6fca4a4f|[ci skip] notes update|Tue, 4 Jun 2019 10:05:20 +0100|Tue, 4 Jun 2019 10:05:20 +0100
+e86c2119da38aab04f2f7d9dddf3c75b601a6933|refactoring; simplify setting of .env file volume-mounts in cyber-dojo script|Tue, 4 Jun 2019 09:46:59 +0100|Tue, 4 Jun 2019 09:46:59 +0100
+0747b18b22d016a4eba16fc1df4b2a5bb78b7e19|delete dead code for [cyber-dojo update server]|Tue, 4 Jun 2019 09:34:47 +0100|Tue, 4 Jun 2019 09:34:47 +0100
+2ba9acc525592b7f130a758bf914fc262c25f9bc|refactoring; simplify relative path|Tue, 4 Jun 2019 07:01:59 +0100|Tue, 4 Jun 2019 07:01:59 +0100
+fae1f08734d8fa747a61d7ab7ecdf6c6ad8e4b19|give all scripts same chmod 700|Tue, 4 Jun 2019 07:01:08 +0100|Tue, 4 Jun 2019 07:01:08 +0100
+7191e36cf7d111c87251cb4fc20b34a92b0d4872|fix broken script name|Tue, 4 Jun 2019 07:00:35 +0100|Tue, 4 Jun 2019 07:00:35 +0100
+074255181b79f1b840903b704423c33b8233e36c|removed Docker Toolbox check from main script|Tue, 4 Jun 2019 06:32:24 +0100|Tue, 4 Jun 2019 06:32:24 +0100
+21ae2bfe74f6ed1d1e114cac2f30bd3baad548ea|refactoring; move docker-compose yml files into their own dir|Tue, 4 Jun 2019 06:22:33 +0100|Tue, 4 Jun 2019 06:22:33 +0100
+16d630c79043d7633ec7484180dd8bf2570c166e|refactoring; script tidying|Tue, 4 Jun 2019 06:08:56 +0100|Tue, 4 Jun 2019 06:08:56 +0100
+5dc867a30215a52aa20aff51ae931dc00e226ceb|refactoring; put helper scripts into their own dir|Tue, 4 Jun 2019 06:01:22 +0100|Tue, 4 Jun 2019 06:01:22 +0100
+3976706ad5f0588094c2a61c9f860d483d706581|fix error in command-line arg indexes by doing all shift at top of scripts|Mon, 3 Jun 2019 23:00:37 +0100|Mon, 3 Jun 2019 23:00:37 +0100
+eed59db227e75b967f0549cc79891c25b451f569|refactoring; move [sh] and [update] into individual scripts that are docker-catted out of the commander image (like [start-point create])|Mon, 3 Jun 2019 22:42:54 +0100|Mon, 3 Jun 2019 22:42:54 +0100
+415f1969dd0f7173a265fdae62e807a96001e6cf|refactoring; cp start-point-create script out of the container to make main cyber-dojo script smaller|Mon, 3 Jun 2019 20:50:24 +0100|Mon, 3 Jun 2019 20:50:24 +0100
+7b00aeaac88ee6f3bc0da8dfec38c21b5ab48f42|pass RELEASE env-var from main cyber-dojo script and use it as tag for versioner|Mon, 3 Jun 2019 17:35:53 +0100|Mon, 3 Jun 2019 17:35:53 +0100
+ec3cb325ec48377efe90adb7d6def0311cde0351|use CYBER_DOJO_PORT in down command as well as up command|Mon, 3 Jun 2019 17:27:39 +0100|Mon, 3 Jun 2019 17:27:39 +0100
+b378598021cc8c0b0befbbf6573c518758785cc2|refactoring; extract method up_argument() and use CYBER_DOJO_PORT in docker-compose.yml|Mon, 3 Jun 2019 17:17:52 +0100|Mon, 3 Jun 2019 17:17:52 +0100
+8b70b9ba214c21f1920590f5b478ddac4b3e9855|write out commander's SHA when creating .env file for versioner|Mon, 3 Jun 2019 16:56:19 +0100|Mon, 3 Jun 2019 16:56:19 +0100
+097304d667d219aeadde1958a806cd2bea1c8e89|fix failing test; print all unknown command line options before exiting|Mon, 3 Jun 2019 16:19:24 +0100|Mon, 3 Jun 2019 16:19:24 +0100
+ddf1960f207e2fb445145c2b519b9a298dcd0373|drop unneeded expressions|Mon, 3 Jun 2019 16:07:34 +0100|Mon, 3 Jun 2019 16:07:34 +0100
+79f49399f80d93b5e21308409f91d2223630f42d|refactoring; of overridable [up] options|Mon, 3 Jun 2019 15:54:45 +0100|Mon, 3 Jun 2019 15:54:45 +0100
+8d66cccd5fbc6e6551de5f66d7d700821e92db01|refactoring; of overridable options|Mon, 3 Jun 2019 15:27:39 +0100|Mon, 3 Jun 2019 15:27:39 +0100
+c03b268a9f70ba63147435b9482c0c15b962f787|merge image-name and image-tag for start-points to make handling simpler; extraction of full SHA from start-points can still be done dynamically with a [docker run/exec] call|Mon, 3 Jun 2019 15:17:37 +0100|Mon, 3 Jun 2019 15:17:37 +0100
+43b2b03317a79d51568288971dc9f848600adb81|add notes file|Mon, 3 Jun 2019 14:57:34 +0100|Mon, 3 Jun 2019 14:57:34 +0100
+a6a05bd0293df15eeb74383f5c99b2449e794acb|get .env settings from cyberdojo/versioner service with its own image|Mon, 3 Jun 2019 14:57:19 +0100|Mon, 3 Jun 2019 14:57:19 +0100
+6aa5a4b2279c62efa6601bbf7aef6cd81f52faf9|[ci skip] comment update|Mon, 3 Jun 2019 14:27:28 +0100|Mon, 3 Jun 2019 14:27:28 +0100
+86c11e9d411c3ebabeed6f90d0a10bd4233b3a86|dump notes from my head into a file|Mon, 3 Jun 2019 12:25:05 +0100|Mon, 3 Jun 2019 12:25:05 +0100
+23686f236e45474d64a56327cf93016936b2fd9b|store image-name and sha separately in .env file; image-name tag is first seven characters of the sha|Mon, 3 Jun 2019 11:55:47 +0100|Mon, 3 Jun 2019 11:55:47 +0100
+ced5b14fe7d4f9b04a7ebc1f45e826a21490a73b|[ci skip] readme update|Sun, 2 Jun 2019 12:53:25 +0100|Sun, 2 Jun 2019 12:53:25 +0100
+a9334c964f81800a910dc3d301543262161fbbff|tweak cpu-shares and add comments on cpu-shares and memory-limits|Sun, 2 Jun 2019 08:07:27 +0100|Sun, 2 Jun 2019 08:07:27 +0100
+3329dd5f352f3bc84df879b3a62978151cf3f1dc|[ci skip] remove unneeded link from readme|Sun, 2 Jun 2019 07:42:12 +0100|Sun, 2 Jun 2019 07:42:12 +0100
+e4b1a63aa993b12a86e7c7dd97dab7a8b70cbcd4|script tidying|Sun, 2 Jun 2019 07:40:42 +0100|Sun, 2 Jun 2019 07:40:42 +0100
+3253db1e3cc4fce043d63888a78ae032c9010122|script tidying|Sun, 2 Jun 2019 07:21:19 +0100|Sun, 2 Jun 2019 07:21:19 +0100
+0945ccc6abcb311db7b4cf173c4ffda366a12cb2|Merge branch 'master' of https://github.com/cyber-dojo/commander|Sat, 1 Jun 2019 21:57:30 +0100|Sat, 1 Jun 2019 21:57:30 +0100
+5ff18eb244cf5f3a3dcd01db370a2ac9eb8ba290|[ci skip] delete unneeded ci command|Sat, 1 Jun 2019 21:57:22 +0100|Sat, 1 Jun 2019 21:57:22 +0100
+013805254bb6c50d419336dc5b91ae23801362aa|automated build trigger from cyberdojo/docker-base 77f2fdc|Sat, 1 Jun 2019 20:31:30 +0000|Sat, 1 Jun 2019 20:31:30 +0000
+df9bc1e811c18eabd66180af789a6cb2a6070f23|notes update|Sat, 1 Jun 2019 20:39:02 +0100|Sat, 1 Jun 2019 20:39:02 +0100
+8d66669c50dc709217940cda87f1cc901d1e27ef|refactoring; delete dead script|Sat, 1 Jun 2019 20:22:17 +0100|Sat, 1 Jun 2019 20:22:17 +0100
+df1fc6003796a5a31c7f56ba755a6f04913d0c16|mark scripts in progress with WIP comment|Sat, 1 Jun 2019 20:21:39 +0100|Sat, 1 Jun 2019 20:21:39 +0100
+cbe44c4485ea79eb2c5ee986ff83879543179865|added rough scripts and notes on tagging commander to :latest|Sat, 1 Jun 2019 20:13:09 +0100|Sat, 1 Jun 2019 20:13:09 +0100
+e92d0374fae971bf31ced29effc0de0defaf9196|added script to write .env file with SHA tagged image-names|Sat, 1 Jun 2019 17:48:26 +0100|Sat, 1 Jun 2019 17:48:26 +0100
+c9164da583193bbd900d8c842147830b2cda4c6a|added [cyber-dojo info] which shows image-name:sha-tag for each service|Sat, 1 Jun 2019 17:25:14 +0100|Sat, 1 Jun 2019 17:25:14 +0100
+d8df9e55c770b9100222c4a43467c15d19b6d186|put all image-names into .env file to make it easier for an 'info' output to print a .env file with latest tags expanded to the commit-shas|Sat, 1 Jun 2019 16:53:05 +0100|Sat, 1 Jun 2019 16:53:05 +0100
+cafb1688b11968a0eae41eabdcf7031cfabcc5fb|allow [cyber-dojo up] options to be set via environment variables|Sat, 1 Jun 2019 16:22:09 +0100|Sat, 1 Jun 2019 16:22:09 +0100
+e4aefd511512c785fa5847c10b401b720b3920d3|fix broken test for better error messages for [up] argument --X when X is unknown|Sat, 1 Jun 2019 14:01:19 +0100|Sat, 1 Jun 2019 14:01:19 +0100
+da8f1416d709455448d9f78fd98a92f443dc0a2c|refactoring; delete dead files|Sat, 1 Jun 2019 13:38:39 +0100|Sat, 1 Jun 2019 13:38:39 +0100
+d4083faee46506dac60c283c5937c18bb4b8c11d|add missing test cases for [./cyber-dojo up]|Sat, 1 Jun 2019 13:35:52 +0100|Sat, 1 Jun 2019 13:35:52 +0100
+27d82e55457e3109ead986e35de4f5d62614ccb8|refactoring; move rb tests into .dead dir|Sat, 1 Jun 2019 13:32:01 +0100|Sat, 1 Jun 2019 13:32:01 +0100
+b043362c8a01a867ff148a61a59b9dd697297c02|remove runner_choice from test data manifest.json files|Sat, 1 Jun 2019 13:20:09 +0100|Sat, 1 Jun 2019 13:20:09 +0100
+ef6884bdb6c7c6a6f812d07a8e0afac061457db7|refactoring; move ports into their own docker-compose .yml file|Sat, 1 Jun 2019 13:13:46 +0100|Sat, 1 Jun 2019 13:13:46 +0100
+1ddb805ddd371be3c580f6528952804faa2e70ac|refactoring; move volumes into their own docker-compose .yml file|Sat, 1 Jun 2019 13:10:24 +0100|Sat, 1 Jun 2019 13:10:24 +0100
+36efe3c2e9b72ab45a276c5dd92a5cf2bcea5457|give runner higher memory-limits in docker-compose.yml|Sat, 1 Jun 2019 13:02:10 +0100|Sat, 1 Jun 2019 13:02:10 +0100
+a572fa01966b33a2966b4133ce668f4383250a76|refactoring; move mem-limits into their own docker-compose .yml file|Sat, 1 Jun 2019 12:58:16 +0100|Sat, 1 Jun 2019 12:58:16 +0100
+ed84532d14f0f155be3a777e9c3b84694587b0c1|refactoring; split off cpu-shares and depends-on into their docker-compose .yml files|Sat, 1 Jun 2019 12:50:23 +0100|Sat, 1 Jun 2019 12:50:23 +0100
+3b47a79fcdc666aed68f64004f23c0abad91f96b|refactoring; put .env-files into their own .yml file|Sat, 1 Jun 2019 12:17:59 +0100|Sat, 1 Jun 2019 12:17:59 +0100
+a0e6909d2b3666a7b2fe167f7e0be60547e839a1|refactoring; extract method|Sat, 1 Jun 2019 12:10:39 +0100|Sat, 1 Jun 2019 12:10:39 +0100
+5f71c216320a634c3cf0d3aa0ac598716bb22744|refactoring; 2 x extract method|Sat, 1 Jun 2019 12:03:06 +0100|Sat, 1 Jun 2019 12:03:06 +0100
+84acf982bbdeb30070761401679eb6b6ea10c7f7|refactoring; renaming|Sat, 1 Jun 2019 10:18:36 +0100|Sat, 1 Jun 2019 10:18:36 +0100
+fef7b8fd8ab719e37de1cf9efa3be844acc072c2|put start-point image names into .env file|Sat, 1 Jun 2019 08:12:28 +0100|Sat, 1 Jun 2019 08:12:28 +0100
+be0073650880b8bbb152db366506b40023740981|Merge branch 'master' of https://github.com/cyber-dojo/commander|Sat, 1 Jun 2019 07:30:53 +0100|Sat, 1 Jun 2019 07:30:53 +0100
+3cc6b88f5d2d1e91df9577a9622c702e1177d408|put image names directly into yml file and drop .env|Sat, 1 Jun 2019 07:27:04 +0100|Sat, 1 Jun 2019 07:27:04 +0100
+b19264852ff72dfceaace11e7dc9ac1be255e068|move image names into their own .yml file|Sat, 1 Jun 2019 07:18:16 +0100|Sat, 1 Jun 2019 07:18:16 +0100
+bb03e7c4d24aef0c1a03782a2c3e0e9aea899bb3|use same format for all env-vars|Sat, 1 Jun 2019 07:02:36 +0100|Sat, 1 Jun 2019 07:02:36 +0100
+85b429a0ca82d9935426de49f7491c33f2a4a22a|use full image-names in .env file|Sat, 1 Jun 2019 06:55:32 +0100|Sat, 1 Jun 2019 06:55:32 +0100
+98b4133a6da0fb4ef18c4913fe4c059214986287|automated build trigger from cyberdojo/docker-base 39faddb|Fri, 31 May 2019 22:28:33 +0000|Fri, 31 May 2019 22:28:33 +0000
+519552f99f489b946bfcc3e569e65e0b473ef570|[ci skip] addes notes on design for [./cyber-dojo update SHA]|Fri, 31 May 2019 20:49:55 +0100|Fri, 31 May 2019 20:49:55 +0100
+8331d70b2c0170cb22f51d24028c9c74a0286a56|move md files to root dir|Fri, 31 May 2019 20:20:24 +0100|Fri, 31 May 2019 20:20:24 +0100
+be202c1590b934dd493c5aed5d514bb2616b489a|delete dead/ dir|Fri, 31 May 2019 20:19:58 +0100|Fri, 31 May 2019 20:19:58 +0100
+293abff8e2369cf95d047a2f2fd42627a4fc89a1|readme update|Fri, 31 May 2019 20:19:44 +0100|Fri, 31 May 2019 20:19:44 +0100
+aad51446fba79e4bc686e1d6682115bb92cf8200|save git SHA inside the docker image|Fri, 31 May 2019 20:19:32 +0100|Fri, 31 May 2019 20:19:32 +0100
+048214e593d50265569850bc6baa0473f73d5b25|update Dockerfile to latest glibc and docker-compose|Fri, 31 May 2019 19:01:23 +0100|Fri, 31 May 2019 19:01:23 +0100
+3496eb0182455f216a8e618176f201a23b9e77e0|Merge branch 'master' of https://github.com/cyber-dojo/commander|Fri, 31 May 2019 18:31:31 +0100|Fri, 31 May 2019 18:31:31 +0100
+916297fcef29bf69b46b41af53e402db6f3e3f21|move to alpine:3.9 which is what the base image now uses|Fri, 31 May 2019 18:30:50 +0100|Fri, 31 May 2019 18:30:50 +0100
+42a106be3e520ee97c38ee1e602d34d1ab66d89f|automated build trigger from cyberdojo/docker-base 1fdce8b|Fri, 31 May 2019 16:23:15 +0000|Fri, 31 May 2019 16:23:15 +0000
+64d7f0e561731919e0406605c30a653e6b5b6c43|removed empty continuation lines from Dockerfile (will become errors in a future release)|Fri, 31 May 2019 17:06:23 +0100|Fri, 31 May 2019 17:06:23 +0100
+0d1f80322489d88a9208c9ad22ef6e78d4436342|add sudo to mkdir/chown commands in .circleci/config.yml|Fri, 31 May 2019 16:57:34 +0100|Fri, 31 May 2019 16:57:34 +0100
+e10fa7d32f804753d57f4418cafbdde37632d580|turn off travis|Fri, 31 May 2019 16:54:26 +0100|Fri, 31 May 2019 16:54:26 +0100
+db22b2fc0452a4dd24ae478ba3b2c75fbcf3430d|fix incorrect path in .circleci/config.yml|Fri, 31 May 2019 16:54:13 +0100|Fri, 31 May 2019 16:54:13 +0100
+8c04f7d04ffa58e199b725537a4b812a767f8bda|used CIRCLE_PROJECT_REPONAME in .circleci/config.yml|Fri, 31 May 2019 16:50:56 +0100|Fri, 31 May 2019 16:50:56 +0100
+0e128fdb668348ea36e0b3ea023445f8aa841305|give docker-compose.yml and .env file with variables for all services tags, set to latest to match current default|Fri, 31 May 2019 16:44:16 +0100|Fri, 31 May 2019 16:44:16 +0100
+935a5cf277f805f9ff0ef4308fc89c6f9c3c9b3f|cyberdojo/runner-stateless image is now called cyberdojo/runner|Fri, 31 May 2019 08:09:05 +0100|Fri, 31 May 2019 08:09:05 +0100
+fc374c1f14aa7e8dabf64413843f614753f60e74|added ragger service to docker-compose.yml and to service-name list used by [./cyber-dojo update]|Mon, 27 May 2019 14:26:02 +0100|Mon, 27 May 2019 14:26:02 +0100
+c6a00bb150a1dba2ca594bbecc8775451b20f35a|fix broken [start-point ls] tests|Mon, 27 May 2019 09:11:04 +0100|Mon, 27 May 2019 09:11:04 +0100
+1ce365fa01f1c3997aaef1bb88f76652570ebd8d|fix sh test for [./cyber-dojo up] when named image does not exist|Mon, 27 May 2019 07:47:03 +0100|Mon, 27 May 2019 07:47:03 +0100
+be5b72bb8702f33cc9897e0d4203131c68d6d06b|docker pull named start-point image if not present|Mon, 27 May 2019 07:38:15 +0100|Mon, 27 May 2019 07:38:15 +0100
+76d785229d8066b422e16823da14f579abb6ea9b|update helper script to work on Travis|Sun, 26 May 2019 13:14:39 +0100|Sun, 26 May 2019 13:14:39 +0100
+e64e32e71ab72230703df3d944fc2f016bb0c1e0|fix incorrect URL in help text for [up --help] command|Sun, 26 May 2019 08:15:46 +0100|Sun, 26 May 2019 08:15:46 +0100
+3239df84f45bfac0452f04b8b1f5e58a4682c26b|echoing a \t in bash needs -e|Sun, 26 May 2019 07:45:27 +0100|Sun, 26 May 2019 07:45:27 +0100
+5057f403063581c389432ad18ac57d1597b3f463|fix incorrect shebang for main cyber-dojo script|Sun, 26 May 2019 07:30:24 +0100|Sun, 26 May 2019 07:30:24 +0100
+fe3534a82b4c48fe7cc70c16d42b16413e4b16e4|add [--single-branch --branch master] to main git clone command in cyber-dojo script|Fri, 24 May 2019 16:22:24 +0100|Fri, 24 May 2019 16:22:24 +0100
+f670acc7e3eeed1ac094265b98ccc677f740ae7d|add [docker system prune] command to try and avoid <none> images that are being created|Mon, 29 Apr 2019 11:07:02 +0100|Mon, 29 Apr 2019 11:07:02 +0100
+458f73611cd888e76de72bd3ec768195b940769a|refactoring; rename turned-off sh test to make it clearer it is deliberately turned off|Wed, 24 Apr 2019 20:35:25 +0100|Wed, 24 Apr 2019 20:35:25 +0100
+6d36bf10d404c7b65d6a592585646d73589c0c75|[cyber-dojo update] sh tests now all pass|Wed, 24 Apr 2019 20:32:11 +0100|Wed, 24 Apr 2019 20:32:11 +0100
+1025a85e872350a16e942694779615187bbd1266|[cyber-dojo logs] sh test now all pass|Wed, 24 Apr 2019 20:22:52 +0100|Wed, 24 Apr 2019 20:22:52 +0100
+e5da248cb099444e10143c98e62eeb6c0028f221|add sh test for [cyber-dojo sh -h]|Wed, 24 Apr 2019 20:20:18 +0100|Wed, 24 Apr 2019 20:20:18 +0100
+8802280404416c3e0d15433a4192c4df00f450b7|[cyber-dojo sh] sh tests now all pass|Wed, 24 Apr 2019 20:14:03 +0100|Wed, 24 Apr 2019 20:14:03 +0100
+2989f4bc04567f50146204451c6bc222e1f1fcf7|don't show image_names on [cyber-dojo start-point inspect] when inspecting an exercises start-point|Wed, 24 Apr 2019 19:04:20 +0100|Wed, 24 Apr 2019 19:04:20 +0100
+57eca7dd196ec8215505d5789072382a0a3320cd|[start-point rm] sh tests now all pass|Tue, 23 Apr 2019 18:11:33 +0100|Tue, 23 Apr 2019 18:11:33 +0100
+d14266929ec9fd7a07ab78699a3a94738c88966f|added missing cyber-dojo sh test|Mon, 22 Apr 2019 20:35:35 +0100|Mon, 22 Apr 2019 20:35:35 +0100
+c4a1b7ce4adae1b824f88eb033fb88e8da27c3db|[start-point inspect] sh tests now all pass|Mon, 22 Apr 2019 20:34:11 +0100|Mon, 22 Apr 2019 20:34:11 +0100
+a17cfb891ea4123904e5b9cefe79862cb9ff93a7|fixed some more [start-point ls] sh tests|Mon, 22 Apr 2019 20:19:46 +0100|Mon, 22 Apr 2019 20:19:46 +0100
+8fc2694ac8df45148742329c2b401a63e295bb84|refactoring; layout|Mon, 22 Apr 2019 11:34:47 +0100|Mon, 22 Apr 2019 11:34:47 +0100
+4365c23ccd0629f4eb443525f442518ff8d37483|refactoring; delete dead code|Mon, 22 Apr 2019 11:33:09 +0100|Mon, 22 Apr 2019 11:33:09 +0100
+6e12a48a0ccadc8a37330b44a66d974cb5939252|update last [start-point update] sh test|Mon, 22 Apr 2019 11:31:41 +0100|Mon, 22 Apr 2019 11:31:41 +0100
+22cb655021fc287dd895d4f4fea70100c75bad64|[start-point create] sh tests now all pass|Mon, 22 Apr 2019 11:16:23 +0100|Mon, 22 Apr 2019 11:16:23 +0100
+39d579c5bccfaf8e2c4b6687b715b6cb1eb4a9d2|revived some [start-point update] sh tests|Mon, 22 Apr 2019 11:07:08 +0100|Mon, 22 Apr 2019 11:07:08 +0100
+c93b54155c628b73c14a92ddb454a87da2c09cd2|[cyber-dojo clean] tests now all pass|Sun, 21 Apr 2019 09:47:58 +0100|Sun, 21 Apr 2019 09:47:58 +0100
+2d428f8315ddde4f8719fc71198a70e449904c37|refactoring; fix comment typo|Sun, 21 Apr 2019 09:30:30 +0100|Sun, 21 Apr 2019 09:30:30 +0100
+3c0bb15a5d95cb27bed75f8a7029b27127001d88|refactoring; collapse duplication into helper variable holding service names|Sun, 21 Apr 2019 09:29:55 +0100|Sun, 21 Apr 2019 09:29:55 +0100
+61d3bc2d03ae819da5ec0c32d812077e4220add8|[cyber-dojo down] sh tests now all pass|Sun, 21 Apr 2019 09:22:25 +0100|Sun, 21 Apr 2019 09:22:25 +0100
+e5b8c694f9d77851a9c914a017a98027efeb71d9|refactoring; collapse duplication into helper function|Sun, 21 Apr 2019 07:09:23 +0100|Sun, 21 Apr 2019 07:09:23 +0100
+36a2e4da1353a923009ffbbfc36932c0449d8034|[cyber-dojo up] sh tests now all pass|Sun, 21 Apr 2019 07:02:17 +0100|Sun, 21 Apr 2019 07:02:17 +0100
+55e2045f953c174e203dcad60088f72f16ccf5dc|reinstate [cyber-dojo up] sh test|Sun, 21 Apr 2019 06:03:34 +0100|Sun, 21 Apr 2019 06:03:34 +0100
+ce16cafc19c85bda57ca4e23843f58e3b71d73a4|revive some of the [cyber-dojo up] sh tests|Sat, 20 Apr 2019 20:47:54 +0100|Sat, 20 Apr 2019 20:47:54 +0100
+260739c7b8e88a9c3308e99651b7a89df36ee80a|revive some [start-point inspect] sh tests|Sat, 20 Apr 2019 20:23:59 +0100|Sat, 20 Apr 2019 20:23:59 +0100
+a69e1721d787d89124a7f738f81107e647d7f383|use ERROR: instead of FAILED: in error messages from inside commander to match those from cyber-dojo script|Sat, 20 Apr 2019 19:37:21 +0100|Sat, 20 Apr 2019 19:37:21 +0100
+4d7e2d32893886e01c2b451c986337402481e65f|fix some [start-point ls] sh tests|Sat, 20 Apr 2019 19:05:09 +0100|Sat, 20 Apr 2019 19:05:09 +0100
+5f275a62fbe4e38a18464e9ae80d1e377c397a89|save-point while trying to revive sh tests|Sat, 20 Apr 2019 16:54:30 +0100|Sat, 20 Apr 2019 16:54:30 +0100
+6ebf1f5074df05920f8aa4aca4f5bad6d4934193|refactoring; reviving sh tests|Tue, 16 Apr 2019 22:03:05 +0100|Tue, 16 Apr 2019 22:03:05 +0100
+c3a4c3e0dea4922cc52142896206ac6a6fee5fcd|start reviving sh tests|Tue, 16 Apr 2019 21:54:55 +0100|Tue, 16 Apr 2019 21:54:55 +0100
+b4b9bfe210780d7201f57c1aef04f0acc04c0455|reinstate [--quiet] option to [start-point ls]|Mon, 15 Apr 2019 10:37:52 +0100|Mon, 15 Apr 2019 10:37:52 +0100
+8ff53ee2c9ef86720c46345ebda86e78b02cf779|move dead tests into dead/ dir|Mon, 15 Apr 2019 10:37:28 +0100|Mon, 15 Apr 2019 10:37:28 +0100
+9ba26a3392353045a7e9eb511d4d5f416a6c7505|improve help text for [start-point inpsect] by saying output is in JSON form|Mon, 15 Apr 2019 10:36:43 +0100|Mon, 15 Apr 2019 10:36:43 +0100
+f4d9a264bd04ddb0fad2bacc691cd8971ca59e97|turn off rb tests (now done in starter-base's repo)|Mon, 15 Apr 2019 10:20:30 +0100|Mon, 15 Apr 2019 10:20:30 +0100
+dda939db602a231596c210b06a9f4b1e9d7d7ab2|Add extra help text to [start-point rm]|Mon, 15 Apr 2019 10:19:59 +0100|Mon, 15 Apr 2019 10:19:59 +0100
+b0ec9105b4e6befe0a3e101ed424a929db006439|allow default :latest tag on image names provided for [up]|Mon, 15 Apr 2019 09:57:19 +0100|Mon, 15 Apr 2019 09:57:19 +0100
+9dcf44970994d10bd1e67cfb2301a3792399aef8|fix incorrect [./cyber-dojo --help] text|Thu, 11 Apr 2019 11:44:34 +0100|Thu, 11 Apr 2019 11:44:34 +0100
+45c8abfcff53566849cdb788234d5f5bd898a615|remove dead lines from Dockerfile|Sun, 7 Apr 2019 19:13:59 +0100|Sun, 7 Apr 2019 19:13:59 +0100
+e7c664f432fb05820c51b7fa4f3571d6e59830d3|update documentation in main cyber-dojo script|Sun, 7 Apr 2019 19:13:42 +0100|Sun, 7 Apr 2019 19:13:42 +0100
+db2e0c363690ee7d4a30848822d23d060b0aa7bb|simplify .dockerignore file|Sun, 7 Apr 2019 19:09:45 +0100|Sun, 7 Apr 2019 19:09:45 +0100
+43c274503268be7f99b48aa846e0d3e788109f9a|delete dead file|Sun, 7 Apr 2019 19:08:46 +0100|Sun, 7 Apr 2019 19:08:46 +0100
+00dde01310784c32f90f395663c49ba4999cc1b7|add checks to main cyber-dojo script to verify that if you are on a Mac you are using Docker Toolbox|Sun, 7 Apr 2019 10:26:48 +0100|Sun, 7 Apr 2019 10:26:48 +0100
+c34c9e6aba9bb47da957918e7ebd03a56118ee35|fix broken path to docker-compose.yml|Sun, 7 Apr 2019 10:00:46 +0100|Sun, 7 Apr 2019 10:00:46 +0100
+bd3ac58e931e7e5a3a44da44edaf8455a2eb9d15|prepare for switching from Travis to CircleCI|Sun, 7 Apr 2019 08:21:06 +0100|Sun, 7 Apr 2019 08:21:06 +0100
+459b73498d4cddaaccd13f02064f54cd1b77736b|move old script files into sh/ dir|Sat, 6 Apr 2019 12:48:53 +0100|Sat, 6 Apr 2019 12:48:53 +0100
+95f40c68ca4e9dbe3a82883874608d839e769972|refactoring; delete dead entries from .dockerignore file|Sat, 6 Apr 2019 12:44:40 +0100|Sat, 6 Apr 2019 12:44:40 +0100
+58d42b73dd14109338f3079b6fc7e8d2afa068d9|refactoring; simplify directory structure for .rb files|Sat, 6 Apr 2019 12:43:59 +0100|Sat, 6 Apr 2019 12:43:59 +0100
+c7c63e48008f61a505d6f4dbc6cf8affba9d90b5|replace [start-point pull/latest] with simpler [start-point update]|Sat, 6 Apr 2019 12:39:59 +0100|Sat, 6 Apr 2019 12:39:59 +0100
+9b522947b8007caa6f438a0ea41058521703ae51|update help text for [start-point inspect] command|Sat, 6 Apr 2019 10:52:07 +0100|Sat, 6 Apr 2019 10:52:07 +0100
+a13b29266c888fbe0c176895328d471fa62093d6|move unused file into dead/ dir|Fri, 5 Apr 2019 17:32:11 +0100|Fri, 5 Apr 2019 17:32:11 +0100
+d8084f55f880f926a1b5f72e0415ddfc48f5d1af|[up] command now pulls all image_names mentioned in manifests|Fri, 5 Apr 2019 16:02:04 +0100|Fri, 5 Apr 2019 16:02:04 +0100
+eb32b83b0c99cedc9df46b380e88c05a9cfd2b2d|fix error in inspect.rb introduced in previous refactoring|Fri, 5 Apr 2019 15:44:44 +0100|Fri, 5 Apr 2019 15:44:44 +0100
+65e0ab1a0eff01f4e3ce0e6017946f78eb45bcdf|have to use [declare -ar] for repo-urls|Fri, 5 Apr 2019 11:17:29 +0100|Fri, 5 Apr 2019 11:17:29 +0100
+81f543d4a08895fb46f4dce70746fd38cc6b641c|refactoring; split large methods|Fri, 5 Apr 2019 10:42:39 +0100|Fri, 5 Apr 2019 10:42:39 +0100
+da6eb483aa4d7961122bb4e31185e2141d1126b3|refactoring; rename ready for adding server/service command prefix|Fri, 5 Apr 2019 10:32:56 +0100|Fri, 5 Apr 2019 10:32:56 +0100
+af8f484d8e60d4fec3f0fa0316955a00a2219923|refactoring|Mon, 1 Apr 2019 13:52:40 +0100|Mon, 1 Apr 2019 13:52:40 +0100
+4a7e29cb877d74fd68915345ebecfce98138fd24|split all cyber-dojo sub-commands into 3 sections [server/service/start-point]|Mon, 1 Apr 2019 13:47:34 +0100|Mon, 1 Apr 2019 13:47:34 +0100
+cb6dec2b4c5a69d2f89d6b7805a6046e10840f6b|add missing variable accidentally deleted in previous refactoring|Mon, 1 Apr 2019 13:29:21 +0100|Mon, 1 Apr 2019 13:29:21 +0100
+9e8cc8b7318d2af6b57faa4749d5e93e8bdfb21d|refactoring; use simpler shell constructs with eye to running cyber-dojo script on default VM when using DockerToolbox|Mon, 1 Apr 2019 13:28:54 +0100|Mon, 1 Apr 2019 13:28:54 +0100
+3d9916736f28eca287df759a6e4ca752e089e190|refactoring; tidy [cyber-dojo up] options handling|Mon, 1 Apr 2019 09:33:48 +0100|Mon, 1 Apr 2019 09:33:48 +0100
+e346256d7c350710d65915ceac48a99a2a299385|refactoring; tidy [cyber-dojo up] options handling|Mon, 1 Apr 2019 09:29:39 +0100|Mon, 1 Apr 2019 09:29:39 +0100
+d86ab13699ce26d985d4b6c1f621f9c4cf6b9566|refactoring; improve identifier|Mon, 1 Apr 2019 09:09:25 +0100|Mon, 1 Apr 2019 09:09:25 +0100
+db7999ef3341ba089649bdb25bc2fb9126698270|refactoring; delete unused function argument|Mon, 1 Apr 2019 09:06:11 +0100|Mon, 1 Apr 2019 09:06:11 +0100
+d1f7f39b6baf951755219a3c99bb6f735b9b87ce|refactoring; move [cyber-dojo up] help text into its own function|Mon, 1 Apr 2019 09:00:16 +0100|Mon, 1 Apr 2019 09:00:16 +0100
+c92fcfa60eb3a6d756e2a7161243c60b445f843e|refactoring; use env-var CYBER_DOJO_START_POINT singular with no trailing s|Mon, 1 Apr 2019 08:51:21 +0100|Mon, 1 Apr 2019 08:51:21 +0100
+8d46140c4fcd8e09dd61b6ab2cfac7beef9c7e94|refactoring; remove unneeded zipper.env|Mon, 1 Apr 2019 08:48:21 +0100|Mon, 1 Apr 2019 08:48:21 +0100
+eb8a4821ef00fbe435fe92ea74487604ca47bcee|simplify [cyber-dojo sh SERVICE] prompt|Mon, 1 Apr 2019 07:54:22 +0100|Mon, 1 Apr 2019 07:54:22 +0100
+ceb1afcc68d2c3c399e1dbbb1b2e56a4c8be2c96|update old help text|Mon, 1 Apr 2019 07:52:48 +0100|Mon, 1 Apr 2019 07:52:48 +0100
+10ac257909681963124f3aefef15dae144c43377|refactoring; put start-point rb files into their own dir/|Mon, 1 Apr 2019 07:50:52 +0100|Mon, 1 Apr 2019 07:50:52 +0100
+77f7cb7cb700331a9eedf7840b279dc2f4fe3b5a|[cyber-dojo start-point create] help text tweak|Mon, 1 Apr 2019 07:09:41 +0100|Mon, 1 Apr 2019 07:09:41 +0100
+58a80547c28936da8db5535fea48fbfe3d45ca92|[start-point ls] and [start-point inspect] now outputs in json format|Sun, 31 Mar 2019 20:16:25 +0100|Sun, 31 Mar 2019 20:16:25 +0100
+10a58d0978270c765632f5b607e851f39a94bba1|allow derived image to override env-var BASE_SHA with SHA|Sun, 31 Mar 2019 14:42:48 +0100|Sun, 31 Mar 2019 14:42:48 +0100
+6ab172a19217d08d9f417b6926f539474201c3d8|add missing content to [cyber-dojo start-point create] help text|Sun, 31 Mar 2019 11:17:17 +0100|Sun, 31 Mar 2019 11:17:17 +0100
+3e45456b93d47cf2f8426bcc5dab4422ca8a16d2|refactoring; tweak [cyber-dojo start-point create] help text|Sun, 31 Mar 2019 11:02:23 +0100|Sun, 31 Mar 2019 11:02:23 +0100
+d9f03486cd3eaf409ffcd153451f5074950bd3c6|add curl example to [cyber-dojo start-point create] help text|Sun, 31 Mar 2019 10:23:26 +0100|Sun, 31 Mar 2019 10:23:26 +0100
+5688912c0b45bb91ae1837e2ef61f61f8101f781|change custom/exercises/languages port numbers so they can run side-by-side with starter|Sun, 31 Mar 2019 07:31:27 +0100|Sun, 31 Mar 2019 07:31:27 +0100
+8007e57698b7b29669f44d6cc0b7f2a0a862cc87|added missing saver memory-limits to docker-compose.yml|Sun, 31 Mar 2019 06:45:13 +0100|Sun, 31 Mar 2019 06:45:13 +0100
+37aafb30db3671e22f8c174c1d0fbbb0da3165de|tidy [cyber-dojo up] help text|Fri, 29 Mar 2019 20:12:08 +0000|Fri, 29 Mar 2019 20:12:08 +0000
+8f290f03a180e025cd5597886558982a90a92fda|refactoring; misc tidying|Fri, 29 Mar 2019 20:00:33 +0000|Fri, 29 Mar 2019 20:00:33 +0000
+a49753e973a4139b810bcd6f2f6c325597d2720d|refactoring; use declare instead of local in main script (for consistency)|Fri, 29 Mar 2019 06:46:47 +0000|Fri, 29 Mar 2019 06:46:47 +0000
+46123adacdbaee7c4b7388845f8a94c2bfdab6c4|refactoring; delete dead code|Fri, 29 Mar 2019 06:46:16 +0000|Fri, 29 Mar 2019 06:46:16 +0000
+fff64687ec6dcf7526e10f622faba2802b8d4574|delete dead code|Fri, 29 Mar 2019 06:45:48 +0000|Fri, 29 Mar 2019 06:45:48 +0000
+6c8b4a862b5ba6b7dfc448308e86824b072e1024|cyber-dojo script now handles [start-point create <image-name> ...] command|Thu, 28 Mar 2019 21:02:15 +0000|Thu, 28 Mar 2019 21:02:15 +0000
+175acc506ef6f464c7b34bd25b96e76e93f943ff|comment update; remove unneeded quotes from [start-point create] help text|Mon, 25 Mar 2019 09:12:05 +0000|Mon, 25 Mar 2019 09:12:05 +0000
+7a385a5ecb80cd0e2a5e3e4043e47724652d9b03|refactoring; move dead files into dead/ dir|Mon, 25 Mar 2019 09:07:02 +0000|Mon, 25 Mar 2019 09:07:02 +0000
+34e0c179472e55596faed9e20434b5feb95d079e|replace local with declare in .sh file|Mon, 25 Mar 2019 09:06:47 +0000|Mon, 25 Mar 2019 09:06:47 +0000
+efa5fd166aad5b0883b04353685e15dda3b1b21d|refactoring; update and delete comments|Mon, 25 Mar 2019 09:05:29 +0000|Mon, 25 Mar 2019 09:05:29 +0000
+38b1bb5a5ae2d45608fd14dc957f0dc2a6858650|simplify [cyber-dojo up --help] text|Mon, 25 Mar 2019 07:07:48 +0000|Mon, 25 Mar 2019 07:07:48 +0000
+f17066473f5bbe7feb04a87578ea0c927008e7a3|switch back to using start-point (singular) for image labels|Mon, 25 Mar 2019 06:59:50 +0000|Mon, 25 Mar 2019 06:59:50 +0000
+0edc43a45954cdfb30af922819e331748e80831e|update help text for [cyber-dojo up]|Sun, 24 Mar 2019 19:40:48 +0000|Sun, 24 Mar 2019 19:40:48 +0000
+886dd881ab68fc60cca1447ea4a6d77e06a869cb|check start-point image type on [cyber-dojo up] command|Sun, 24 Mar 2019 19:02:34 +0000|Sun, 24 Mar 2019 19:02:34 +0000
+48a09a9e9d39f46cb2feec6b7f4b7928892aa767|add notes on using 'docker inspect' to retrieve a docker image's labels|Sun, 24 Mar 2019 18:46:23 +0000|Sun, 24 Mar 2019 18:46:23 +0000
+d1d8574f64fa9d71c38e9ece68926dd473aaaafb|change default languages to common list (rather than full list)|Sun, 24 Mar 2019 18:18:48 +0000|Sun, 24 Mar 2019 18:18:48 +0000
+615d6ee621d7599cc5a61d35b4549bfeba045b12|add missing s to start-pointS in [start-points ls] command|Sun, 24 Mar 2019 18:18:29 +0000|Sun, 24 Mar 2019 18:18:29 +0000
+8f32f7accb1553ebbf755195af554d9c4529cd4c|refactoring; delete dead files|Mon, 18 Mar 2019 09:55:44 +0000|Mon, 18 Mar 2019 09:55:44 +0000
+0ecab40c202f3d8cb8061e43b4ff2cfcd9b68194|update docker-compose.yml to new custom/exercises/languages image names|Mon, 18 Mar 2019 09:55:04 +0000|Mon, 18 Mar 2019 09:55:04 +0000
+5de1bb674db943f54a90624971fa2c2752ea3dd2|refactoring; change [docker images] to [docker image ls]|Fri, 15 Mar 2019 14:45:37 +0000|Fri, 15 Mar 2019 14:45:37 +0000
+34e7aad289fd3a225882c2ecfbb13fd96fe1e252|refactoring; change [docker images] to [docker image ls]|Fri, 15 Mar 2019 14:42:15 +0000|Fri, 15 Mar 2019 14:42:15 +0000
+3a9269596e230ae9ccc61d9d93ee11d3590e7081|remove starter from list of named services|Fri, 15 Mar 2019 14:41:56 +0000|Fri, 15 Mar 2019 14:41:56 +0000
+1b7d77724c81bebe9c2505687704e59765a719bc|allow -h as well as --help to get help|Fri, 15 Mar 2019 14:41:41 +0000|Fri, 15 Mar 2019 14:41:41 +0000
+85ffeee09604f749f14840b4c74186e23423030f|start moving start-point volume-based code to be image-based|Fri, 15 Mar 2019 09:27:57 +0000|Fri, 15 Mar 2019 09:27:57 +0000
+08d0020b4f04785ff64dd1c6f3e6451bc34298c9|only build master on Travis|Tue, 12 Mar 2019 10:24:58 +0000|Tue, 12 Mar 2019 10:24:58 +0000
+bcf66e16e3935b860675bf648ab1f0400273c65c|remove dead code relating to start-points being volumes|Tue, 12 Mar 2019 10:08:12 +0000|Tue, 12 Mar 2019 10:08:12 +0000
+bfbd366c8b44fab9a7e703434da2bf58a510109f|remove unused starter service and its volumes|Tue, 12 Mar 2019 09:42:10 +0000|Tue, 12 Mar 2019 09:42:10 +0000
+b1aba8016bc712191bfca733ebc85b81c15178ae|add exercises and languages to docker-compose.yml|Mon, 11 Mar 2019 19:42:37 +0000|Mon, 11 Mar 2019 19:42:37 +0000
+b90dd1d2c917ed22abfec3a04f3bdf79379626a8|add custom-starter service to docker-compose.yml|Mon, 11 Mar 2019 11:03:29 +0000|Mon, 11 Mar 2019 11:03:29 +0000
+94c115371d39458235fdfc74394a5ad1b90c6859|added notes file|Sat, 9 Mar 2019 17:06:39 +0100|Sat, 9 Mar 2019 17:06:39 +0100
+5e2879db49c6aae9261c4df98ef80c88e05b2420|update date in license file|Sat, 9 Mar 2019 16:42:08 +0100|Sat, 9 Mar 2019 16:42:08 +0100
+b06bba9ec4c8f5374bab8062d5b3ae10a62ae63d|move license file into docs/ dir|Sat, 9 Mar 2019 16:41:20 +0100|Sat, 9 Mar 2019 16:41:20 +0100
+b7df77f8d27949801193613419f64493bbe51518|refactoring; delete dead code|Fri, 8 Mar 2019 08:36:51 +0100|Fri, 8 Mar 2019 08:36:51 +0100
+cbfd0a5c144cd3f7eeb5d067b42af885d80aac65|Merge branch 'master' of https://github.com/cyber-dojo/commander|Thu, 21 Feb 2019 03:05:00 +0000|Thu, 21 Feb 2019 03:05:00 +0000
+96a56e7a6ff7135ab5325fc76866577310b4e08f|[cyber-dojo up --starter=IMAGE] now checks IMAGE exists|Thu, 21 Feb 2019 03:03:18 +0000|Thu, 21 Feb 2019 03:03:18 +0000
+4f791597cee1d54302932ca562294ff2d891f097|added [--starter=IMAGE_NAME] option [cyber-dojo up] to allow server to use new start-points architecture|Thu, 21 Feb 2019 02:55:12 +0000|Thu, 21 Feb 2019 02:55:12 +0000
+f7fc11dca01c5dbaf1fc61b50c18329b8392c734|refactoring; specify starter's image name using env-var|Thu, 21 Feb 2019 02:24:05 +0000|Thu, 21 Feb 2019 02:24:05 +0000
+f2c1fc75c81c3dbc0bded91fca39ecc331270330|automated build trigger from cyberdojo/docker-base dabc320|Wed, 20 Feb 2019 10:14:53 +0000|Wed, 20 Feb 2019 10:14:53 +0000
+f8d874caf093620749b4a70895f08ae9f6349a18|remove runner-choice from start-point checker tests list of required keys|Sat, 16 Feb 2019 14:54:31 +0000|Sat, 16 Feb 2019 14:54:31 +0000
+0dc999f4d5e07d68fe3263c01c707fa1f2bbec35|runner_choice is no longer a required manifest.json property key|Sat, 16 Feb 2019 14:49:58 +0000|Sat, 16 Feb 2019 14:49:58 +0000
+1d0baff7622189032d2d69ce6b71400b17302746|fix incorrect image-name in [cyber-dojo update]|Sat, 9 Feb 2019 10:08:56 +0000|Sat, 9 Feb 2019 10:08:56 +0000
+2aefdf14f69b381cb8827cc93e7a4524f1443ce4|refactoring; delete dead code|Sun, 20 Jan 2019 20:54:35 +0000|Sun, 20 Jan 2019 20:54:35 +0000
+92f7af92d53b8f12606dcb34c1b9fc336db5ff7a|add mapper as direct web dependent|Wed, 16 Jan 2019 11:20:11 +0000|Wed, 16 Jan 2019 11:20:11 +0000
+089b52415c9474e8db4f31686c1da110b6a0be22|rename ported service to mapper|Sat, 5 Jan 2019 10:57:59 +0000|Sat, 5 Jan 2019 10:57:59 +0000
+cb5d3a87a259561f8afed7d59f5cf1289b446705|added ported to names of services known in [update] command|Sat, 5 Jan 2019 07:03:34 +0000|Sat, 5 Jan 2019 07:03:34 +0000
+46b708bc865c583facd93edbf35dd591f3aa4e1d|added ported service to docker-compose.yml (which saver uses)|Fri, 4 Jan 2019 20:54:20 +0000|Fri, 4 Jan 2019 20:54:20 +0000
+09652b566ede2a73b93d3ec9275ca143d9aeb697|fix incorrect path in comment|Sat, 22 Dec 2018 10:56:07 +0000|Sat, 22 Dec 2018 10:56:07 +0000
+82fc057d7db84fa18ae950a446df4bef83d14e08|speed up git-clone in .travis.yml|Sat, 22 Dec 2018 10:55:54 +0000|Sat, 22 Dec 2018 10:55:54 +0000
+27805723deb90a84ca0033ab1eab45a249d7a1b9|saver service's user now belongs to the nogroup group|Thu, 20 Dec 2018 16:53:36 +0000|Thu, 20 Dec 2018 16:53:36 +0000
+64835eb24dc49d1a44b0e5af38151cc8960a1220|update .travis.yml script now there is a single /cyber-dojo volume-mount point|Mon, 10 Dec 2018 15:07:21 +0100|Mon, 10 Dec 2018 15:07:21 +0100
+d62889ed231719c09182d0141011c7bf97f086dd|simplify saver so it has a single volume-mount|Mon, 10 Dec 2018 14:40:36 +0100|Mon, 10 Dec 2018 14:40:36 +0100
+0cf069f57411e36ef51b25c006b5e0ae5addaa32|renable [cyber-dojo update] now porter/storer have been removed (porter will be a separate app)|Sun, 9 Dec 2018 16:47:59 +0000|Sun, 9 Dec 2018 16:47:59 +0000
+3492d5175ec5d83e5fbaa42af62a5545522e5223|added comments|Sun, 9 Dec 2018 16:47:06 +0000|Sun, 9 Dec 2018 16:47:06 +0000
+3ad128d9e695c0219d74158f67eda6bdb2567edf|added comments to check_host_volume_mount_permissions() implementation|Sun, 9 Dec 2018 16:34:35 +0000|Sun, 9 Dec 2018 16:34:35 +0000
+f17ddce98d738b2433b5ab2ab553c606fb42210f|tweak info messages when checking volume permissions|Sun, 9 Dec 2018 16:24:07 +0000|Sun, 9 Dec 2018 16:24:07 +0000
+ae01ecd9f7de11f0d6ee2e1349dcd4881ba8997d|refactoring; drop unneeded quotes around shell function arguments|Sun, 9 Dec 2018 16:16:21 +0000|Sun, 9 Dec 2018 16:16:21 +0000
+40e97a50b7522d7af65434a2ffaa862e342bc53d|turn off one-time-creation of katas-data-volume now porter is going to be a separate service|Sun, 9 Dec 2018 15:42:27 +0000|Sun, 9 Dec 2018 15:42:27 +0000
+5df289d235a841ef8af22d5463b660ba4741fc7b|refactoring; delete dead code|Sun, 9 Dec 2018 13:32:41 +0000|Sun, 9 Dec 2018 13:32:41 +0000
+2248fdb71fbfbddac1e4291850019a5b8da62579|update [cyber-dojp up] test now porter/storer are no longer services|Sun, 9 Dec 2018 10:07:45 +0000|Sun, 9 Dec 2018 10:07:45 +0000
+d914544b9eb9d20811920cb864a8387aae28e77b|turn off porter/storer; make porting old storer-katas a separate service|Sun, 9 Dec 2018 10:02:02 +0000|Sun, 9 Dec 2018 10:02:02 +0000
+92a0127941bc44ebf7e7d960a241f9d7289dda2e|turn off update tests|Sat, 8 Dec 2018 20:36:23 +0000|Sat, 8 Dec 2018 20:36:23 +0000
+798d80d724ebe5b241035dac4257daef6465ec76|set ownership of host dirs needed by saver|Sat, 8 Dec 2018 20:22:36 +0000|Sat, 8 Dec 2018 20:22:36 +0000
+fc15c225541db6217772d78cecc970ccded7ffc4|put back one-time creation of katas data-volume|Sat, 8 Dec 2018 16:14:31 +0000|Sat, 8 Dec 2018 16:14:31 +0000
+f3651da4e49fbc8faec9dd772489759f393001dc|make sure to exit cyber-dojo script when chown message is printed (whether or not you are on Docker-Toolbox)|Sat, 8 Dec 2018 16:04:27 +0000|Sat, 8 Dec 2018 16:04:27 +0000
+e4944ffebf3d0e02b0cfe8bd43c2785038b98474|disable update to protect existing servers (temporary)|Sat, 8 Dec 2018 15:46:52 +0000|Sat, 8 Dec 2018 15:46:52 +0000
+afa758da48ce30d010526c2d6d60896ba55def94|dont create data-container anymore|Sat, 8 Dec 2018 15:02:04 +0000|Sat, 8 Dec 2018 15:02:04 +0000
+24ac658bdf80e1bff5c7cd414ceae8b41f105161|update expected text in failing tests|Fri, 7 Dec 2018 10:34:41 +0000|Fri, 7 Dec 2018 10:34:41 +0000
+d834724bb89a2e3789f8d9478b9a570a19cdda1f|use [] not [[]] in sh (not bash)|Thu, 6 Dec 2018 12:02:39 +0000|Thu, 6 Dec 2018 12:02:39 +0000
+144ee856d20e1218fd716d69e3a72e072d8e821b|refactoring; declare and initialize bash script variables in one line|Thu, 6 Dec 2018 09:19:22 +0000|Thu, 6 Dec 2018 09:19:22 +0000
+5a949c7d5ff3f4e6595bbb3fdd952d55b5505f7e|remove check_permissions.sh which is now inside cyber-dojo script file|Thu, 6 Dec 2018 09:11:01 +0000|Thu, 6 Dec 2018 09:11:01 +0000
+f16be19329d8cd7de9418e0ead554a63327b29f1|remove incorrect or from update help text|Thu, 6 Dec 2018 09:09:50 +0000|Thu, 6 Dec 2018 09:09:50 +0000
+8358441163dbb6d3d5bda735e2c205cf7e9a05df|put calls to check volume-mount permissions into cyber-dojo script|Thu, 6 Dec 2018 09:09:22 +0000|Thu, 6 Dec 2018 09:09:22 +0000
+29c9e417811080977c5413c8bfd793a157400b08|started work on script to check permissions are set on host-dirs that will be used by saver and porter|Thu, 6 Dec 2018 07:58:51 +0000|Thu, 6 Dec 2018 07:58:51 +0000
+e074ca930425eb0cccb052cda707a44472cc4df2|comment tweaks|Thu, 29 Nov 2018 21:01:18 +0000|Thu, 29 Nov 2018 21:01:18 +0000
+89876546f3dd435742b2f366b795d0262d4cac3d|rename runner-service to plain runner now no longer supporting stateful-runner|Wed, 21 Nov 2018 09:31:55 +0000|Wed, 21 Nov 2018 09:31:55 +0000
+0fc1547ec64aff68e1f9aab427c88d2d32027517|removed runner-stateful and collector|Wed, 21 Nov 2018 07:46:13 +0000|Wed, 21 Nov 2018 07:46:13 +0000
+5a342c65ba5c105cb7040a544f9e426fb7900dd9|added /id-map volume to porter in docker-compose.yml|Sat, 20 Oct 2018 13:07:46 +0100|Sat, 20 Oct 2018 13:07:46 +0100
+e6f61a546d631fc4291777789d17fe42e106f50b|added porter service to docker-compose.yml|Wed, 17 Oct 2018 10:37:56 +0100|Wed, 17 Oct 2018 10:37:56 +0100
+a0219c09ec841c04f21b00eddc2248711e83c71b|renamed grouper to saver|Sun, 14 Oct 2018 07:17:53 +0100|Sun, 14 Oct 2018 07:17:53 +0100
+b676ca95b03b061e45b2b06732f06e0337b093b6|grouper service now includes singler service|Fri, 12 Oct 2018 11:01:53 +0200|Fri, 12 Oct 2018 11:01:53 +0200
+1a4dd820ba17d82944a4c9b4276b759e7a256679|update grouper/singler volume-mounts|Thu, 11 Oct 2018 14:24:10 +0200|Thu, 11 Oct 2018 14:24:10 +0200
+c6f7f2c4fa6d5729e6c603154984cf8840be0f0d|grouper/singler services depend on prometheus|Fri, 5 Oct 2018 09:25:17 +0100|Fri, 5 Oct 2018 09:25:17 +0100
+fbf4c06d2ce061741fb9574a7c915cc15a6b419e|use new paths for singler/grouper|Fri, 28 Sep 2018 10:34:31 +0100|Fri, 28 Sep 2018 10:34:31 +0100
+58734c005b4c853bda2512d004789568e786cbf2|added grouper service to docker-compose.yml|Tue, 25 Sep 2018 23:05:43 +0200|Tue, 25 Sep 2018 23:05:43 +0200
+b2e6f4b67adb16116f46c80d69ae37c57d0ccb03|added singler to docker-compose.yml to help web refactoring|Mon, 17 Sep 2018 09:21:52 +0100|Mon, 17 Sep 2018 09:21:52 +0100
+58069057561e91effaad62bf4171df3ee20412bd|deleted use of dead env-vars|Wed, 5 Sep 2018 10:50:06 +0100|Wed, 5 Sep 2018 10:50:06 +0100
+dc20ac3dec0277eae83caf031a494ec8d5cc08b6|base commander on cyberdojo/docker-base image|Tue, 4 Sep 2018 19:59:25 +0100|Tue, 4 Sep 2018 19:59:25 +0100
+69654e5b675d3ecfd7cd7677688336101aa61da3|upgrade glibc to 2.28 and docker-compose to 1.22.0|Wed, 15 Aug 2018 05:49:50 +0100|Wed, 15 Aug 2018 05:49:50 +0100
+b8584e1f4191e4273144d9dc9fb4e4e0bc0dca87|added travis_retry to .travis.yml to try and reduce spurious network related failures|Mon, 13 Aug 2018 06:58:19 +0100|Mon, 13 Aug 2018 06:58:19 +0100
+2256f1b34eb020bbd6f3b66be933cb1607932641|set runner hostnames/ports via env-vars rather than hard-wiring in docker images|Mon, 9 Jul 2018 13:51:22 +0100|Mon, 9 Jul 2018 13:51:22 +0100
+9057ecc545f440473f9d7bcaf4b8841c31324d5f|set ports for differ/starter/storer/zipper via env-vars|Sun, 8 Jul 2018 18:22:30 +0100|Sun, 8 Jul 2018 18:22:30 +0100
+3b3341c7e1f78cbe386498a6442c97f032fd5e92|expose starter service port via docker-compose.yml config|Sun, 8 Jul 2018 11:38:59 +0100|Sun, 8 Jul 2018 11:38:59 +0100
+6e73c261dfd6e66b3310076699323df444ebe02a|added hidden_filenames start-point manifest option|Thu, 17 May 2018 15:30:25 +0100|Thu, 17 May 2018 15:30:30 +0100
+180565804d2950a36445bd2d200fffc0cd6571f1|refactoring|Mon, 30 Apr 2018 07:22:28 +0100|Mon, 30 Apr 2018 07:22:28 +0100
+bda3951c832582c7d86799491ffd467c7a3c0f9e|update glibc to 2.27|Mon, 30 Apr 2018 07:14:37 +0100|Mon, 30 Apr 2018 07:14:37 +0100
+9d4458ea0eff3a986a19906f09e9095bfda8f0c0|refactoring; keep comment blocks the same|Mon, 30 Apr 2018 07:14:24 +0100|Mon, 30 Apr 2018 07:14:24 +0100
+45cbc9245360e55ae0981a91010a5a30ba9520c0|upgrade to docker-compose 1.21.0|Mon, 30 Apr 2018 06:58:58 +0100|Mon, 30 Apr 2018 06:58:58 +0100
+65d0de82856b514e282335f8fe31e00b97efad5b|refactoring; bash quote style|Mon, 30 Apr 2018 06:56:13 +0100|Mon, 30 Apr 2018 06:56:13 +0100
+d9f6a6aec6de600cb772873c7ee813753c966807|fix blue/green script now that update does not take an argument|Mon, 30 Apr 2018 06:55:52 +0100|Mon, 30 Apr 2018 06:55:52 +0100
+c7849d12bc671507c06deed3c4830ce5e4a5c9f0|switch to using just runner-stateful|Fri, 27 Apr 2018 16:54:52 +0100|Fri, 27 Apr 2018 16:54:52 +0100
+77a65310514e27d2e33a904c99ef72ea5d35d947|test update|Fri, 27 Apr 2018 16:37:39 +0100|Fri, 27 Apr 2018 16:37:39 +0100
+0f0571041611701dbb78bfa9a59b16b00540984d|add runner-stateful to service names in cyber-dojo-update.rb ready for [cyber-dojo update] command|Fri, 27 Apr 2018 16:32:29 +0100|Fri, 27 Apr 2018 16:32:29 +0100
+bd60fe13cd2fdda5d01f20faf310981fc51b9ee2|provide both runner_stateful and runner-stateful services as I transition to the later|Fri, 27 Apr 2018 16:24:46 +0100|Fri, 27 Apr 2018 16:24:46 +0100
+81211c54a9398d462031d07fdcaaf3e3583439f9|renamed runner_stateless (underscore) to runner-stateless (hyphen) as underscore cannot be used in a hostname|Fri, 27 Apr 2018 07:12:17 +0100|Fri, 27 Apr 2018 07:12:17 +0100
+3c22b75eec90f48e3da4f468c5c04db7392a9808|drop option to update server without languages and vice-versa; reason is runner is quite tightly coupled to language images (via image_builder)|Thu, 26 Apr 2018 14:02:29 +0100|Thu, 26 Apr 2018 14:02:29 +0100
+f18d0f253194368a2de9f6abb44dcb52899c91cb|filename_extension is now a required manifest parameter and can be a string or an array of strings|Thu, 29 Mar 2018 21:16:59 +0100|Thu, 29 Mar 2018 21:16:59 +0100
+aa328dd170a60c71b586647cd2b831682486c99c|allow filename_extension to be an array of strings|Thu, 29 Mar 2018 16:59:44 +0100|Thu, 29 Mar 2018 16:59:44 +0100
+cbb50c2d6b6b8b0ed3d2d4b8aebcb3f483c54c34|refactoring|Wed, 28 Mar 2018 07:17:13 +0100|Wed, 28 Mar 2018 07:17:13 +0100
+9bf890eccec0b05281548ba1a779033be357e0d0|refactoring; remove dead dependency in docker-compose.yml|Sun, 11 Mar 2018 18:33:41 +0000|Sun, 11 Mar 2018 18:33:41 +0000
+de22c146fe6861bd3e3fa9eb1c4b3d05fba48cf8|[ci skip] fix broken link in readme|Tue, 6 Mar 2018 12:20:17 +0000|Tue, 6 Mar 2018 12:20:17 +0000
+2a04809bd5853e0d091760bfc586606d503bced6|refactor cyber-dojo shell script based on shellcheck warnings|Tue, 6 Mar 2018 03:21:29 +0000|Tue, 6 Mar 2018 03:21:29 +0000
+26ad31e79ed9a2d9004b87a3e82c828dff121812|refactor cyber-dojo shell script based on shellcheck warnings|Tue, 6 Mar 2018 02:20:07 +0000|Tue, 6 Mar 2018 02:20:07 +0000
+d25915e980c5b5aab4315355ed59debc4726da9b|tweak Dockerfile|Sun, 4 Mar 2018 06:02:49 +0000|Sun, 4 Mar 2018 06:02:49 +0000
+956529b9442d28ab1a1e08e05940ec54c2806576|fix shell test run warnings|Thu, 1 Mar 2018 11:00:39 +0000|Thu, 1 Mar 2018 11:00:39 +0000
+6f14d38a8acbf36eebb3506aa1fa9fcac07c45ef|switched from major+minor to display-name on [start-point inspect] command|Thu, 1 Mar 2018 09:05:27 +0000|Thu, 1 Mar 2018 09:05:27 +0000
+5aa96043e28bf1420d160da2bd774c64874e53cc|fix broken up test|Sun, 25 Feb 2018 17:44:24 +0000|Sun, 25 Feb 2018 17:44:24 +0000
+3918ba73e5d092821e59af49410bd1ebd3a4f6c8|fix broken up test|Sun, 25 Feb 2018 17:32:16 +0000|Sun, 25 Feb 2018 17:32:16 +0000
+60202a39ef6fa8024116e35aa2742cfd03c7a5ac|fix broken up test|Sun, 25 Feb 2018 17:17:44 +0000|Sun, 25 Feb 2018 17:17:44 +0000
+8da389723b50da1f8db683ad772700d10860ad60|update down test|Sun, 25 Feb 2018 17:17:34 +0000|Sun, 25 Feb 2018 17:17:34 +0000
+22ab72f68c59183c8ca689814978c3daa98bcaab|fix broken [up] test|Sun, 25 Feb 2018 17:04:19 +0000|Sun, 25 Feb 2018 17:04:19 +0000
+78b659607195f982a14e1b42fb2342ee4e014877|[ci skip] license year update|Sun, 25 Feb 2018 17:01:26 +0000|Sun, 25 Feb 2018 17:01:26 +0000
+c84bf172488035802135102952d18662a61c9de7|fix broken [up] test|Sun, 25 Feb 2018 17:00:32 +0000|Sun, 25 Feb 2018 17:00:32 +0000
+18109328524897640a2a88e6a886608624a500b3|up command now ensures docker-images for all image-names from manifests in chosen start-points exist|Sun, 25 Feb 2018 09:53:39 +0000|Sun, 25 Feb 2018 09:53:39 +0000
+3e6742edb22adda281291022d65f6765f4bdd032|[ci skip] readme tweak|Tue, 20 Feb 2018 11:30:57 +0000|Tue, 20 Feb 2018 11:30:57 +0000
+787ea0a6fdff3233c9b5dd6a6ff4e85dac0088d7|[ci skip] tweak readme and move it into docs/ dir|Tue, 20 Feb 2018 11:29:32 +0000|Tue, 20 Feb 2018 11:29:32 +0000
+2098f46ced86b3089c4611812021ac41627a170a|added missing zipper-env-file volume-map|Wed, 14 Feb 2018 14:22:55 +0000|Wed, 14 Feb 2018 14:22:55 +0000
+83d744bd33f7888cb89ca51077895c1c7ea37b1c|added zipper.env to allow zipper to see redirected storer-service|Wed, 14 Feb 2018 13:29:13 +0000|Wed, 14 Feb 2018 13:29:13 +0000
+0b6e44320b82a0aea4f7237e2e7bb54fa84fa4cc|put scripts into sh/ dir and give standard names for build-script in cyber-dojo repo|Thu, 8 Feb 2018 10:11:19 +0000|Thu, 8 Feb 2018 10:11:19 +0000
+8f5324a32b6b78b969994ab3e8d5ee517f128988|added comment to blue-green script|Thu, 8 Feb 2018 10:10:36 +0000|Thu, 8 Feb 2018 10:10:36 +0000
+a88c767ea0900956502b5f0e07c8879b579ca2e6|added mem-swap limits for starter to docker-compose.yml|Mon, 1 Jan 2018 08:47:42 +0000|Mon, 1 Jan 2018 08:47:42 +0000
+c22ac4ddbf91e6b48882b2593bcbff5307502141|refactoring; changed container username to storer to avoid confusion with cyber-dojo group used by runners|Sun, 31 Dec 2017 11:42:22 +0000|Sun, 31 Dec 2017 11:42:22 +0000
+55c8c9d457326e12bf379de27d073b6fc2f7078d|refactoring; run zipper service as user=nobody|Sat, 30 Dec 2017 13:08:51 +0000|Sat, 30 Dec 2017 13:08:51 +0000
+491f3efa9cca6c1fd0d72c8af1a231a7515e1d3d|refactoring; drop web user to nobody for better security|Sat, 30 Dec 2017 08:30:48 +0000|Sat, 30 Dec 2017 08:30:48 +0000
+e28634f1b04f727202c21b4763c46be1e278b416|removed volume-mounts from web-service now that web-service is stable under new starter-service|Wed, 20 Dec 2017 18:07:35 +0000|Wed, 20 Dec 2017 18:07:35 +0000
+0fb81325e62f57431ad80dc4e9b57ba2d4216b54|trying to fix broken docker-compose install in Dockerfile; appears to be a rogue character in URL (curl gives curl: (3) <url> malformed) so using explicit URL|Tue, 19 Dec 2017 20:48:13 +0000|Tue, 19 Dec 2017 20:48:13 +0000
+1a6d571a48435b5defa9bbb666c48db1427053e1|added starter service|Mon, 18 Dec 2017 11:48:53 +0000|Mon, 18 Dec 2017 11:48:53 +0000
+27acac357c9e14e7152fe550c2bb13aed98c0796|set CYBER_DOJO_ENV_ROOT in cyber-dojo script file since it is needed by both up and down commands|Sun, 10 Dec 2017 14:50:51 +0000|Sun, 10 Dec 2017 14:50:51 +0000
+06b0fecfe76a0c43fd7c5a7fa7e55f8402c27374|moved definition of variable up to fix error|Sun, 10 Dec 2017 14:42:42 +0000|Sun, 10 Dec 2017 14:42:42 +0000
+5cba7abc2289d26535ea148017864ae7f914d24d|refactoring; add comments to default web.env listing possible env-vars|Sun, 10 Dec 2017 12:54:50 +0000|Sun, 10 Dec 2017 12:54:50 +0000
+bb93da93a7e3f5b43afe04e82647982d6b81ed55|refactoring; comment update|Sun, 10 Dec 2017 12:18:07 +0000|Sun, 10 Dec 2017 12:18:07 +0000
+55b728f64d41f44146f72fccade615b44113b555|refactoring; drop Dockerfile's tini install and use --init in cyber-dojo script's [docker run] instead|Sun, 10 Dec 2017 12:15:22 +0000|Sun, 10 Dec 2017 12:15:22 +0000
+0f86b0d8925a0fb857d556896fb450cbb998b4f6|refactoring; delete dead comment|Sun, 10 Dec 2017 12:13:21 +0000|Sun, 10 Dec 2017 12:13:21 +0000
+a708d0cc7abcfdc12a709423dab229f98a05ad0e|refactoring; make methods for handling commands locally more self-contained|Sun, 10 Dec 2017 12:03:40 +0000|Sun, 10 Dec 2017 12:03:40 +0000
+1b5e048a4fbc63fd3b248280bfac83fba70e0718|refactoring; don't pass env-var dir location into commander|Sun, 10 Dec 2017 12:03:01 +0000|Sun, 10 Dec 2017 12:03:01 +0000
+930c92b89ecc15e83a0e58c099ef2c8d56475a95|refactoring; comment update|Sun, 10 Dec 2017 12:01:49 +0000|Sun, 10 Dec 2017 12:01:49 +0000
+2842f4dbdaa958030bfe51d1e0577b5cbbf9eaa9|refactoring; reword comment on storer service not creating its own volume|Sun, 10 Dec 2017 12:01:29 +0000|Sun, 10 Dec 2017 12:01:29 +0000
+b0fc41f0d515c9be38092e439e1fbba445436c18|refactoring; mount start-point as readonly volume|Sat, 9 Dec 2017 18:54:45 +0000|Sat, 9 Dec 2017 18:54:45 +0000
+67efd42888de6fed0123b02aaef3f2f1ba5d143b|refactoring; use  style instead of  style in cyber-dojo script|Sat, 9 Dec 2017 18:51:12 +0000|Sat, 9 Dec 2017 18:51:12 +0000
+fc5a17b540cb3a7e6f1e4c03bbc0264d3abb5ebc|refactoring; in cyber-dojo script, split large method, simplify --debug handling|Sat, 9 Dec 2017 18:44:32 +0000|Sat, 9 Dec 2017 18:44:32 +0000
+96822f5842bd6c0413d15be91f7df28283207a17|refactoring; delete dead comments|Sat, 9 Dec 2017 18:26:16 +0000|Sat, 9 Dec 2017 18:26:16 +0000
+471b380dfea61841c21b4a80b30652aadf4bd455|mirror-mount the env files and then copy them to /tmp/app|Fri, 8 Dec 2017 13:31:51 +0000|Fri, 8 Dec 2017 13:31:51 +0000
+5025ad809879bc4ddc0420067ae54cef644f1f69|revert back to 3 x volume-mounts for each of the 3 env files|Fri, 8 Dec 2017 13:15:29 +0000|Fri, 8 Dec 2017 13:15:29 +0000
+055c533ad0cd036dc3c0c9fb21650f40a0359911|don't try to reset readonly shell variable; drop web.env|Fri, 8 Dec 2017 12:17:19 +0000|Fri, 8 Dec 2017 12:17:19 +0000
+9b1feef886b2cb4d3cafeaeaf0a667fead5b7a3f|dont try to reset existing readonly shell variable|Fri, 8 Dec 2017 12:05:35 +0000|Fri, 8 Dec 2017 12:05:35 +0000
+d7281659054520b926e25d056b9354b7589a40ea|add .env files to .gitignore so they are not seen by test run|Fri, 8 Dec 2017 12:05:02 +0000|Fri, 8 Dec 2017 12:05:02 +0000
+fa4e1903f7a0e9b242d32ed599209c53ad9aa66e|delete dead code|Fri, 8 Dec 2017 12:04:20 +0000|Fri, 8 Dec 2017 12:04:20 +0000
+c806d579b641af4d3ecc0f790caf0086bf89404c|reinstated handling of [sh] in cyber-dojo script (trying --interactive --tty and handling sh inside the commander container affects the output - trailing \r \n); also moved *.env files into /tmp in the container to be sure they can be overwritten|Fri, 8 Dec 2017 11:52:19 +0000|Fri, 8 Dec 2017 11:52:19 +0000
+b4634123b81efec33e9c0d2958a69ccf0dc2b861|only use --tty for [cyber-dojo sh] as it affects output (trailing \r \n)|Fri, 8 Dec 2017 08:28:11 +0000|Fri, 8 Dec 2017 08:28:11 +0000
+8bff3bb5bb66f6ffde411dfed75cd5ecc2b579f3|added --interactive/--tty to delegation command and moved handling of [cyber-dojo sh] out of cyber-dojo shell script and into commander|Fri, 8 Dec 2017 05:44:28 +0000|Fri, 8 Dec 2017 05:44:28 +0000
+fd6e6c4e645613597171b5191f4b044411c099ab|added max_seconds as optional manifest parameter defaulting to 10|Fri, 1 Dec 2017 12:19:46 +0000|Fri, 1 Dec 2017 12:19:46 +0000
+26d6bce702d82763188d6078f348cc4db8c34d17|update logs/sh help text - there is no service called runner anymore|Thu, 30 Nov 2017 09:30:35 +0000|Thu, 30 Nov 2017 09:30:35 +0000
+779f4d01b121f305676d68c7a6ab48d0f49fc78b|[ci skip] readme update|Sun, 19 Nov 2017 07:56:00 +0000|Sun, 19 Nov 2017 07:56:00 +0000
+484c59f5f88eb8160cc6be512d619a64b6cf337b|[ci skip] added comments on why katas-data-volume is created in commander and not in storer|Sat, 18 Nov 2017 15:44:39 +0000|Sat, 18 Nov 2017 15:44:39 +0000
+738f60aa34f782929080ae97c00dd425eb849b1a|use alpine:latest when building katas data-container|Sat, 18 Nov 2017 15:41:42 +0000|Sat, 18 Nov 2017 15:41:42 +0000
+652f168717a7e35c9486d22edf9b816b7b300bfe|fix broken test|Fri, 17 Nov 2017 08:18:43 +0000|Fri, 17 Nov 2017 08:18:43 +0000
+7fd533c284b0913f4aa6eec9db8275b9d7993f14|refactoring|Fri, 17 Nov 2017 08:08:41 +0000|Fri, 17 Nov 2017 08:08:41 +0000
+b294ec57d5984c72af4bb846d85fd3324ea602e9|refactoring|Fri, 17 Nov 2017 07:45:24 +0000|Fri, 17 Nov 2017 07:45:24 +0000
+8e00c3d3a845f82960b9f72519224f8b929279f0|add runner_processful to list of services|Wed, 15 Nov 2017 09:56:25 +0000|Wed, 15 Nov 2017 09:56:25 +0000
+c2dff2e79458a9cb0a7ae1538be073e31e536622|allow more test-sh files to be run without having to cd to their dir|Wed, 15 Nov 2017 09:41:16 +0000|Wed, 15 Nov 2017 09:41:16 +0000
+33c8cdbee421a61ece15a9bdc9d503fcb51c0c8b|fix broken paths|Wed, 15 Nov 2017 09:31:58 +0000|Wed, 15 Nov 2017 09:31:58 +0000
+3087b7a566c6f2f9439aea753292a5a73d524e8e|added shell function to replace assertTrue; idea is it prints stdout+stderr if the assert fails|Wed, 15 Nov 2017 09:24:52 +0000|Wed, 15 Nov 2017 09:24:52 +0000
+90131eb4288d904d07bfbb27c913c2aa7a41ae70|started work to allow individual test-sh files to be run without having to cd to their dir first|Wed, 15 Nov 2017 09:24:10 +0000|Wed, 15 Nov 2017 09:24:10 +0000
+bee5bdc9ab2e6da2ee8e01cc9f495a810403a942|removed unneeded packages from Dockerfile|Wed, 15 Nov 2017 09:23:04 +0000|Wed, 15 Nov 2017 09:23:04 +0000
+9a84d203935e6a18bc3c218209fe44e37674500e|fixed broken stdout+stderr redirection to dev/null|Wed, 15 Nov 2017 09:22:40 +0000|Wed, 15 Nov 2017 09:22:40 +0000
+b124390a124b3f3b63c9e1048c0e126567345d2c|bump docker-compose.yml's version to 2.2 to allow use of --init option|Wed, 15 Nov 2017 07:24:32 +0000|Wed, 15 Nov 2017 07:24:32 +0000
+ffe3fc41c21396b1f8bffaa0ea4a445bd3e270e9|change Dockerfile's install of docker-compose to one that works on Alpine|Wed, 15 Nov 2017 07:24:11 +0000|Wed, 15 Nov 2017 07:24:11 +0000
+4f6578e9c8a7b6c91b69fd7f4009a80923c3ce5d|added init:true option to all services in docker-compose.yml|Wed, 15 Nov 2017 06:56:35 +0000|Wed, 15 Nov 2017 06:56:35 +0000
+ac405b4408d48109697363b17f41506bceec2b0f|update Dockerfile; base image on docker:latest and use simpler install of docker-compose - this provides docker-engine > 1.13.0 and so the --init option is available in docker-compose.yml which means the tini installs in the service's Dockerfiles can be removed|Wed, 15 Nov 2017 06:54:43 +0000|Wed, 15 Nov 2017 06:54:43 +0000
+f534e0cff7bdb8f37c2b6163d2aa0dd45d5de23d|drop sudo:required from Travis|Tue, 7 Nov 2017 13:42:14 +0000|Tue, 7 Nov 2017 13:42:14 +0000
+d7ebb8aefcf1799425a1bfdb3e279ae92ccebb19|refactoring|Tue, 31 Oct 2017 15:44:50 +0000|Tue, 31 Oct 2017 15:44:50 +0000
+c64e09d067714adc41ee9eab3bec7a6db9f6e9ca|made runner-choice a required entry in manifest.json files|Tue, 31 Oct 2017 15:43:55 +0000|Tue, 31 Oct 2017 15:43:55 +0000
+e831879adce3b41a7cc982da530ac702e381c321|refactoring; fix spelling typo|Fri, 27 Oct 2017 11:59:13 +0100|Fri, 27 Oct 2017 11:59:13 +0100
+46d7987bbb530e5adb6185d1f8fb4253c7cf9748|refactoring; delete dead code in Dockerfile|Fri, 27 Oct 2017 11:00:33 +0100|Fri, 27 Oct 2017 11:00:33 +0100
+dc9c59ac970e36440e635788d218275a236e1bad|refactoring; put Dockerfile commands in order to maximize shared base layers|Fri, 27 Oct 2017 09:07:16 +0100|Fri, 27 Oct 2017 09:07:16 +0100
+4a4be51e57629bbdefda8437449de4a058a3fdfa|[ci skip] Dockerfile commenting|Wed, 18 Oct 2017 15:39:24 +0100|Wed, 18 Oct 2017 15:39:24 +0100
+d124d56047f07a90167c6a906797b37c9035014b|in Dockerfile add missing command to create cyber-dojo user|Wed, 18 Oct 2017 15:31:49 +0100|Wed, 18 Oct 2017 15:31:49 +0100
+18a395ad1fdb659d1fdbd0020a3181818d1bceb0|refactoring; made Dockerfile full-stack (so building images are decouplied)|Wed, 18 Oct 2017 15:23:35 +0100|Wed, 18 Oct 2017 15:23:35 +0100
+754a6e529f07549c3c806d915eac9870056f3aca|refactoring; renamed runner to runner-stateful|Wed, 18 Oct 2017 12:08:35 +0100|Wed, 18 Oct 2017 12:08:35 +0100
+b55b93aa95c3b086631e5e8579dab9d8e7f7c6f8|refactoring; delete dead code in docker-compose.yml|Mon, 16 Oct 2017 09:45:59 +0100|Mon, 16 Oct 2017 09:45:59 +0100
+466a7b6c15b8e60bd9a58c1dc92b38d48d56b759|tweak server-down message text|Mon, 16 Oct 2017 09:45:43 +0100|Mon, 16 Oct 2017 09:45:43 +0100
+9d25888380be40c5bbc48c8d161285df705ee4a5|[ci skip] readme update|Fri, 22 Sep 2017 13:56:21 +0100|Fri, 22 Sep 2017 13:56:21 +0100
+e1938b8bf56ec5b3c7121041571ee40d65216567|updated [cyber-dojo] script's top-level help text|Fri, 22 Sep 2017 13:34:31 +0100|Fri, 22 Sep 2017 13:34:31 +0100
+5976b4720e0865e56d75c66af820c4b49fc05ce3|added ability to get logs from specific container|Fri, 22 Sep 2017 13:31:53 +0100|Fri, 22 Sep 2017 13:31:53 +0100
+8987c8cca28464934184b1a59bfe544e14c701a4|switch blue-green deploy script from bash to sh|Fri, 22 Sep 2017 11:57:15 +0100|Fri, 22 Sep 2017 11:57:15 +0100
+8cf16a7ff500d922e86b26e30d917a1a37c2b0b0|reinstate all tests|Fri, 22 Sep 2017 11:11:54 +0100|Fri, 22 Sep 2017 11:11:54 +0100
+6b32d3568273d4ebe7c2cdf9df18147e251ad5cb|convert cyber-dojo script to sh (from bash)|Fri, 22 Sep 2017 11:08:42 +0100|Fri, 22 Sep 2017 11:08:42 +0100
+63a288a7edde10ec77d0cddc0f7ca3f4cc6935ef|revert cyber-dojo script back to bash while I fix bashism on line 88|Fri, 22 Sep 2017 10:36:20 +0100|Fri, 22 Sep 2017 10:36:20 +0100
+965d280f93702bbb5bbc2afa4f558dbfdba96903|convert cyber-dojo script to sh (from bash) by changing == to =|Fri, 22 Sep 2017 10:25:35 +0100|Fri, 22 Sep 2017 10:25:35 +0100
+3ad9e5e98f2f0d3f91b742983ecee1cf4decbe49|revert cyber-dojo script back to sh (not bash) as it breaks on Travis|Fri, 22 Sep 2017 10:14:29 +0100|Fri, 22 Sep 2017 10:14:29 +0100
+1d5ac001eee8e17cbda57b56b15b594a42a3a32f|switch from bash to sh to run [cyber-dojo] script so it will work in DockerToolbox's default VM (Core Linux)|Fri, 22 Sep 2017 09:57:32 +0100|Fri, 22 Sep 2017 09:57:32 +0100
+7fb71f3511bde9939620a3e00b225bfe598c1f87|[cyber-dojo sh] must now be passed the container name to shell into (eg web); the shell's prompt is set to remind you|Fri, 22 Sep 2017 08:07:19 +0100|Fri, 22 Sep 2017 08:07:19 +0100
+e9f8bf8196feeea803c81950fba5831caca63b63|in cyber-dojo script only volume-mount web.env file if it exists; rename start-point volume to include the word 'create'|Fri, 22 Sep 2017 07:27:06 +0100|Fri, 22 Sep 2017 07:27:06 +0100
+52263e1a9a49e09166b617be68fe69b213dd2aee|added web.env as env_file: for web service in docker-compose.yml|Thu, 21 Sep 2017 22:18:12 +0100|Thu, 21 Sep 2017 22:18:12 +0100
+74509a261916a740a7083609a0b023c914207ca3|comment update|Thu, 21 Sep 2017 21:46:10 +0100|Thu, 21 Sep 2017 21:46:10 +0100
+0310f7cfe25e5ce65f4f1198c5a43bee59319dd6|added ability to shell into specific container|Thu, 21 Sep 2017 17:46:44 +0100|Thu, 21 Sep 2017 17:46:44 +0100
+80ab48eb84adb4342ae7c73cc9f45e7aacde775e|[ci skip] fix incorrect comment|Thu, 21 Sep 2017 14:32:30 +0100|Thu, 21 Sep 2017 14:32:30 +0100
+5df6720b1231e51f85bb772ad093ac97b2d82389|only pull each image once in a [cyber-dojo start-point latest NAME] command|Wed, 13 Sep 2017 08:39:09 +0100|Wed, 13 Sep 2017 08:39:09 +0100
+aa1ecab35f784fef91f2966371052ee849fdfc88|[ci skip] refactored blue-gren deploy script|Wed, 13 Sep 2017 08:33:20 +0100|Wed, 13 Sep 2017 08:33:20 +0100
+e5d93c15380232805303741c9adb93491494496d|improve start-point help text|Wed, 13 Sep 2017 08:13:25 +0100|Wed, 13 Sep 2017 08:13:25 +0100
+1f542e56e33af4e31e6633e664370d7a57b7a0d5|[ci skip] improve blue-green deploy script; improve diagnostic messages; get latest images for custom start-point|Wed, 13 Sep 2017 08:08:19 +0100|Wed, 13 Sep 2017 08:08:19 +0100
+b4741b780d228a9cc7b2f79eb9c681babf681b1e|[ci skip] blue-green deploy script now updates languages|Wed, 13 Sep 2017 08:00:35 +0100|Wed, 13 Sep 2017 08:00:35 +0100
+ec05a89f843060288ee3e631a65a4b70e09ae6d9|make runner_choice in manifest.json optional|Wed, 13 Sep 2017 06:22:27 +0100|Wed, 13 Sep 2017 06:22:27 +0100
+1a991f30b3154ad2179a1f91a93e461b72080db0|runner-choice is now a required parameter in a start-point's manifest.json file|Tue, 12 Sep 2017 18:40:07 +0100|Tue, 12 Sep 2017 18:40:07 +0100
+91c94a94a037a63ec1b69ede48a1d8f77b2d1b23|update server images before creating start-points as commander may have updated validation of a start-point|Fri, 21 Jul 2017 14:01:42 +0100|Fri, 21 Jul 2017 14:01:42 +0100
+80d5e235fcdc788bc6d4e3e08baf9662e1f98588|changed optional manifest entry 'run' to more intention revealing 'runner_choice'|Mon, 17 Jul 2017 10:00:57 +0100|Mon, 17 Jul 2017 10:00:57 +0100
+567ffffc079cf80098948f334dbad7db22496c52|changed new optional manifest property from stateful:Boolean (true/false) to run:String (statefully/statelessly) because boolean field is not as composable when chaining, eg kata[property] || start_point[property]|Mon, 17 Jul 2017 08:34:16 +0100|Mon, 17 Jul 2017 08:34:16 +0100
+6878b9ef42f6a38a0ef2183d6e3fe9a88e81352a|updated test to changed stderr content|Sun, 16 Jul 2017 13:19:37 +0100|Sun, 16 Jul 2017 13:19:37 +0100
+bbe325f9e360cd18aa0491e4d6537cc2141a8819|added stateful manifest property ready for web/runner refactorings|Sun, 16 Jul 2017 11:24:42 +0100|Sun, 16 Jul 2017 11:24:42 +0100
+17ca2682400bdf38db59fc19ca1aa0cbdded2e66|tweak help text from up command; print --list=... repo URLs before processing them|Sat, 8 Jul 2017 10:55:32 +0100|Sat, 8 Jul 2017 10:55:32 +0100
+4799f1f9a8d3a601ecb334343ae5fef9957b36c9|refactoring; deleted dead dependencies from docker-compose.yml|Sat, 10 Jun 2017 09:15:25 +0100|Sat, 10 Jun 2017 09:15:25 +0100
+c8cd27a37e2279b4b5d957aed7596000be72321e|added comments to docker-compose.yml|Mon, 5 Jun 2017 07:36:58 +0100|Mon, 5 Jun 2017 07:36:58 +0100
+f3f678fea411b507f9750dfa8af03915c861e5a4|[ci skip] refactor blue-green deployment script - put all variables at top|Sat, 3 Jun 2017 19:20:51 +0100|Sat, 3 Jun 2017 19:20:51 +0100
+cf5f00db9478ca0cea73a17a2d008a43326b3375|only update server (not languages) in blue-green deployment script|Sat, 3 Jun 2017 19:08:50 +0100|Sat, 3 Jun 2017 19:08:50 +0100
+8356f0c4e19db3a517aafc8923efb74e6b4220b7|switched to creating default languages start-point from curl'd url-list|Sat, 3 Jun 2017 05:31:07 +0100|Sat, 3 Jun 2017 05:31:07 +0100
+e724986883d77e782b07e2a875a802ddfe910391|refactoring; comment catchup|Sat, 3 Jun 2017 05:13:37 +0100|Sat, 3 Jun 2017 05:13:37 +0100
+a5589ad6379da8926345f0b8c2674af8c9fa834b|refactoring; [start-point create name --list=URL] test now uses a better named url|Sat, 3 Jun 2017 04:52:09 +0100|Sat, 3 Jun 2017 04:52:09 +0100
+64f08ed8240391c8471a1ec3d989e270189a25f2|added sh test for start_point_type.json files with different types|Fri, 2 Jun 2017 15:16:50 +0200|Fri, 2 Jun 2017 15:16:50 +0200
+436ca201baff504e66ddf4e674ad6ef2dbf52f15|refactoring; delete dead comments|Fri, 2 Jun 2017 15:07:06 +0200|Fri, 2 Jun 2017 15:07:06 +0200
+d76bc12e803f5b651303658fd8363486097d22a1|test refactoring|Fri, 2 Jun 2017 15:06:09 +0200|Fri, 2 Jun 2017 15:06:09 +0200
+83397748a94ec51d5ddd447eee3275e6b6006999|refactoring|Fri, 2 Jun 2017 14:58:00 +0200|Fri, 2 Jun 2017 14:58:00 +0200
+941898bc771eee596f2fea6b4271798deceb261b|added check for start_point_type.json files with difference types to start_point_checker.rb|Fri, 2 Jun 2017 14:51:56 +0200|Fri, 2 Jun 2017 14:51:56 +0200
+0643287e50da4a2b2ee26a81af7c9e26a572bf48|add files comprising mixed-type dir|Fri, 2 Jun 2017 04:54:14 +0200|Fri, 2 Jun 2017 04:54:14 +0200
+11e7df76258dacfea980e1a64bff2c05aa1d3cf8|do initial failing test for mixed-types as simpler [start-point create name --dir=DIR] test|Fri, 2 Jun 2017 04:53:20 +0200|Fri, 2 Jun 2017 04:53:20 +0200
+877a2f37e5da0753f8c07429e702c906ce173a79|renamed method now setup.json file has new more specific name|Fri, 2 Jun 2017 04:51:54 +0200|Fri, 2 Jun 2017 04:51:54 +0200
+0c17e6e478932fa8b9eaa3b8d9f31800b8da3aed|added failing test for [start-point create name --list=URL] where URL lists start-points with different types in their start_point_type.json file|Fri, 2 Jun 2017 04:25:05 +0200|Fri, 2 Jun 2017 04:25:05 +0200
+9718ea9be823ef05f237da7da68a0293a2c812b6|improve help for [start-point create name --list=...]|Fri, 2 Jun 2017 04:22:19 +0200|Fri, 2 Jun 2017 04:22:19 +0200
+b0f54a1e76b5b63208e5e9f278f9bb9d98d1bb8f|renamed setup.json to more specific start_point_type.json|Thu, 1 Jun 2017 14:00:02 +0200|Thu, 1 Jun 2017 14:00:02 +0200
+d0659ba491802de12fb6d556ab4f2b69f098951b|change mv to cp so all setup.json files still exist and so can be checked they are all of the same type|Thu, 1 Jun 2017 13:23:05 +0200|Thu, 1 Jun 2017 13:23:05 +0200
+e07f3a7bf78e2f1b4cd3eef4bbc2adf0f7af2f3e|added test for [start-point create name --list=URL] for bad network URL|Thu, 1 Jun 2017 12:47:16 +0200|Thu, 1 Jun 2017 12:47:16 +0200
+e4ccd465a82361370dd892748ba3f94f07d4f8c1|refactoring|Thu, 1 Jun 2017 11:25:53 +0200|Thu, 1 Jun 2017 11:25:53 +0200
+fd8392a64ac08df1e8e3e428e18eb70ddfb9eefb|refactoring|Thu, 1 Jun 2017 11:20:08 +0200|Thu, 1 Jun 2017 11:20:08 +0200
+ecb5351112c163df4239c5932dba8f4defd7b003|refactoring|Thu, 1 Jun 2017 11:17:42 +0200|Thu, 1 Jun 2017 11:17:42 +0200
+6e450a4c3a34cfe0f9b2379f5dc463aed64545cb|added test for [cyber-dojo start-point create --list=location] where location is network URL|Thu, 1 Jun 2017 10:49:10 +0200|Thu, 1 Jun 2017 10:49:10 +0200
+5bb4cc0ebc77d862094cd67455415b37990b7e38|added handling of [start-point create NAME --list=file://...]|Thu, 1 Jun 2017 09:01:47 +0200|Thu, 1 Jun 2017 09:01:47 +0200
+fd484fadf293b7405540a6ffe1bf9d3df2e37dcf|[start-point create name --list=filename] now uses curl to read file://filename so --list=URL should also work|Mon, 29 May 2017 17:54:55 +0200|Mon, 29 May 2017 17:54:55 +0200
+9a8d9bd240398b03b8262cbdfbe7c04e6c21d3ed|[start-point create name --list=FILE] now reads the names of the git repos from FILE|Mon, 29 May 2017 16:33:16 +0100|Mon, 29 May 2017 16:33:16 +0100
+73a63dcc26e3355d674f3071ec094a37681b4165|refactoring; test improvement, use smaller start-point|Mon, 29 May 2017 16:08:13 +0100|Mon, 29 May 2017 16:08:13 +0100
+f93dd6d342fb2940e1c9a3062df17ee104807c8e|started making [start-point create name --list=localFile] process localFile|Mon, 29 May 2017 12:33:43 +0100|Mon, 29 May 2017 12:33:43 +0100
+d07b5b65c8313cf4c0dfc6c78b0a3968f5d13a31|fixed broken [start-point rm] test|Sun, 28 May 2017 16:18:54 +0100|Sun, 28 May 2017 16:18:54 +0100
+fd72bc0203e4c6a6a64ededee2b94c2e0d05e378|see what version of docker travis is using|Sun, 28 May 2017 16:14:39 +0100|Sun, 28 May 2017 16:14:39 +0100
+a7f454fa02089147afce24d90f96f4293586a47e|refactoring; test improvements|Sun, 28 May 2017 16:05:08 +0100|Sun, 28 May 2017 16:05:08 +0100
+b215e11497dfbf6a42f2d105ae3cf779dc064857|refactoring; test improvements|Sun, 28 May 2017 15:22:12 +0100|Sun, 28 May 2017 15:22:12 +0100
+8a3b26621b528a37bd98d588f43d156fa356056f|refatoring; test improvements|Sat, 27 May 2017 10:11:54 +0100|Sat, 27 May 2017 10:11:54 +0100
+d1a8505da7a7111da56bdc8dc600bc82e387f930|refactoring; test improvements|Sat, 27 May 2017 09:52:17 +0100|Sat, 27 May 2017 09:52:17 +0100
+0d47d140ec64f561c9ff9e8eac6e3bbc2231ac5e|refactoring; test improvements|Sat, 27 May 2017 09:38:04 +0100|Sat, 27 May 2017 09:38:04 +0100
+5d16e04013b90aa47d7da1fcc73cb5bb56d23bba|refactoring; test improvements|Sat, 27 May 2017 09:29:48 +0100|Sat, 27 May 2017 09:29:48 +0100
+f9bffd42fb5ba4f8acf9013c473aa856f3e8b088|refactoring; test improvements|Sat, 27 May 2017 07:22:02 +0100|Sat, 27 May 2017 07:22:02 +0100
+d24173dd194f262674b1d33ff9c57110766fac5a|refactoring; test improvements|Sat, 27 May 2017 06:51:58 +0100|Sat, 27 May 2017 06:51:58 +0100
+717fec30e3a309ff226e562d1bf6e1dfed7ef183|refactoring; test improvements|Sat, 27 May 2017 06:48:32 +0100|Sat, 27 May 2017 06:48:32 +0100
+435135118047d3d21a870a89eb155d950a9e077d|refactoring; test improvements|Sat, 27 May 2017 06:43:57 +0100|Sat, 27 May 2017 06:43:57 +0100
+d31fdbbe10afa180c25dfd9853f4f952e0e7e509|refactoring; test improvements|Sat, 27 May 2017 06:35:11 +0100|Sat, 27 May 2017 06:35:11 +0100
+e5c4da8e7a319dce869e4e956e568c96e0752e68|refactoring; test improvements|Fri, 26 May 2017 22:09:07 +0100|Fri, 26 May 2017 22:09:07 +0100
+808b033c4ee4eff1c284fdb4f74a7c861a93088f|refactoring; collapse duplication|Fri, 26 May 2017 21:55:48 +0100|Fri, 26 May 2017 21:55:48 +0100
+272f56b5f36207bc0a5701016ebb438c1c11c918|refactoring; moved [start-point create ... --dir=DIR] handling inside commander container by volume mounting the dir and then delegating|Fri, 26 May 2017 13:26:02 +0100|Fri, 26 May 2017 13:26:02 +0100
+ff3f13b3d521542f153805a217cb36b75b7c3944|refactoring; simplify cyber-dojo script|Fri, 26 May 2017 11:50:29 +0100|Fri, 26 May 2017 11:50:29 +0100
+cf3dfea55511d8dba9f1b4716a0db62091de73dd|[ci skip] readme update|Fri, 26 May 2017 08:16:17 +0100|Fri, 26 May 2017 08:16:17 +0100
+70555e91d0d368770ab0a5d6c5da36c290a82f9c|changed help text to say you can update server and/or language images|Fri, 26 May 2017 08:14:01 +0100|Fri, 26 May 2017 08:14:01 +0100
+76e6a8e0b0d8096668535fb5caae9ebd7ede2332|refactoring; delete dead file|Fri, 26 May 2017 08:13:13 +0100|Fri, 26 May 2017 08:13:13 +0100
+f640c3ac1eb179bf6493a9505b336de5ed8ab3a4|refactoring; finally got rid of cyber-dojo.sh file; now there is just the cyber-dojo script which delegates to .rb files inside the commander container|Fri, 26 May 2017 08:02:07 +0100|Fri, 26 May 2017 08:02:07 +0100
+c2d1aa018f736f0aefd8daa7b8778752d27ffe1a|refactoring; moved one_time_creation_of_katas_data_volume() from cyber-dojo.sh into cyber-dojo.rb|Thu, 25 May 2017 22:17:05 +0100|Thu, 25 May 2017 22:17:05 +0100
+186af9fd98dac1a8f70bfac8803bc3fb6eb88dd2|[ci skip] readme update|Thu, 25 May 2017 07:10:08 +0100|Thu, 25 May 2017 07:10:08 +0100
+709624226cd6ad9a8ac45b0903f3e21bb8c7d364|refactoring; moved most of cyber-dojo.sh into cyber-dojo.rb|Thu, 25 May 2017 07:01:18 +0100|Thu, 25 May 2017 07:01:18 +0100
+2e8ff52c01f68015fecaa36e2b467ec4dfbae060|refactoring; test improvements|Wed, 24 May 2017 18:26:34 +0100|Wed, 24 May 2017 18:26:34 +0100
+f80e8f8db7e1b04e3a01237c591610f864366094|refactoring; test improvements|Wed, 24 May 2017 18:23:16 +0100|Wed, 24 May 2017 18:23:16 +0100
+122d14adfb9bf2c586ee29dc1f43af1998affcdd|refactoring; test improvements|Wed, 24 May 2017 08:44:14 +0100|Wed, 24 May 2017 08:44:14 +0100
+0bf148a8f1b6e032e2597d8fc76685e501cf109e|refactoring; test improvements|Wed, 24 May 2017 08:20:56 +0100|Wed, 24 May 2017 08:20:56 +0100
+557dd0ca152845520c969c8fac4748edc530a5b0|made [create start-point --list] ignore docker and _docker_context dirs so that list can include new style small repos (one repo per language) and current style large repo (one repo for all languages)|Wed, 24 May 2017 07:58:23 +0100|Wed, 24 May 2017 07:58:23 +0100
+1166547a9454941f78f3d1dea4c5e2f01115dcc0|refactoring; test improvements|Tue, 23 May 2017 20:21:14 +0100|Tue, 23 May 2017 20:21:14 +0100
+780a8553214841776cb1b8590d2fc9bbae74c086|refactoring; test improvements|Tue, 23 May 2017 20:10:02 +0100|Tue, 23 May 2017 20:10:02 +0100
+beb57c740f0571824f288d4aa55d97075107b436|refactoring; test improvements|Tue, 23 May 2017 17:34:01 +0100|Tue, 23 May 2017 17:34:01 +0100
+9ab3cc20c11a3be17e300bdf93124f5d1ad1891b|refactoring; test improvements|Tue, 23 May 2017 17:12:47 +0100|Tue, 23 May 2017 17:12:47 +0100
+faba05b58dea7411721c2cade6e2e7cb793fabf4|added missing require statement that broke the update command|Tue, 23 May 2017 13:59:57 +0100|Tue, 23 May 2017 13:59:57 +0100
+5b10af81b3dff94e80b9189c8b906eabb657bb96|refactoring; test improvements|Tue, 23 May 2017 12:07:56 +0100|Tue, 23 May 2017 12:07:56 +0100
+e9e2048f2d377f76f6f8640232979ffd5520a82e|refactoring; test improvements|Tue, 23 May 2017 10:54:45 +0100|Tue, 23 May 2017 10:54:45 +0100
+6d1c4adebb59b15a198e7f2f2fd4cedabf8c0e42|refactoring; test improvements|Tue, 23 May 2017 10:30:29 +0100|Tue, 23 May 2017 10:30:29 +0100
+648cf429a6dd0527ba00be72123f7986ddd982ab|refactoring; improved tests|Tue, 23 May 2017 10:23:06 +0100|Tue, 23 May 2017 10:23:06 +0100
+3af5922ec3b40beb45a98ec02b713daebeddcacc|refactoring; delete dead comments|Tue, 23 May 2017 09:45:02 +0100|Tue, 23 May 2017 09:45:02 +0100
+16851ffba8f79f8f5d7f3e034eb44fe20c62775c|refactoring; improve tests|Tue, 23 May 2017 09:44:32 +0100|Tue, 23 May 2017 09:44:32 +0100
+c4b0384569164a9c395118c53b2202207d6029ad|refactoring; improve tests|Tue, 23 May 2017 09:28:51 +0100|Tue, 23 May 2017 09:28:51 +0100
+e39dff1416b5a1c763c4d1a34169159042b20b58|fixed broken tests; creation of start-point can fail because start-point of given name already exists|Tue, 23 May 2017 08:21:17 +0100|Tue, 23 May 2017 08:21:17 +0100
+8294ac5e1ba6a69419e93047db242ed1d8ef9211|refactoring; improved [cyber-dojo up] tests|Tue, 23 May 2017 08:03:49 +0100|Tue, 23 May 2017 08:03:49 +0100
+9f997eb04e5e1da53e061f1666e4ac762cdc66f3|refactoring; improved [cyber-dojo up] tests|Tue, 23 May 2017 07:41:25 +0100|Tue, 23 May 2017 07:41:25 +0100
+0536d0a0174f7a6646612f45bd72a0b366e70c89|refactoring; improved [cyber-dojo up] tests|Tue, 23 May 2017 07:29:45 +0100|Tue, 23 May 2017 07:29:45 +0100
+4751e069b762d5715d00ac2e2bf0b1fbe27ff88a|refactoring; improved [cyber-dojo up] tests|Tue, 23 May 2017 07:16:16 +0100|Tue, 23 May 2017 07:16:16 +0100
+9cc1451998a565dce75b2069e3d856e81620cf7f|refaactoring; improved [cyber-dojo up] tests|Tue, 23 May 2017 06:58:55 +0100|Tue, 23 May 2017 06:58:55 +0100
+706c3f1906aeace2f2679ade20219cb4d1046ef9|explicitly remove md files in sparse-pull (can find no way to get it to work via .git/info/sparse-checkout file)|Mon, 22 May 2017 12:46:10 +0100|Mon, 22 May 2017 12:46:10 +0100
+f31baa9dc7b79c6b2b8d12df33b00f31006b8e99|print each url as it is processed during [start-point create] command|Mon, 22 May 2017 12:44:56 +0100|Mon, 22 May 2017 12:44:56 +0100
+3537346baf5894981e84e8ed0b01f9cfc3b13429|fixed sparse-pull so it ignores _docker_context dir (needed trailing /*); added index to created directory incase two dirs have the same name (eg different versions of the same compiler/test-framework)|Mon, 22 May 2017 09:31:33 +0100|Mon, 22 May 2017 09:31:33 +0100
+ea71cd7ea1cd9d00f5212b1e15e8eaced4b14746|minor layout refactoring|Mon, 22 May 2017 09:29:13 +0100|Mon, 22 May 2017 09:29:13 +0100
+ac0acd2ca32250e2aff27c97a0bc2093b5c8c96b|[ci skip] refactoring; move comment|Mon, 22 May 2017 07:49:04 +0100|Mon, 22 May 2017 07:49:04 +0100
+e745fc807bbe2647e6baee6f48d5fd19924844ce|refactoring; improve method names|Mon, 22 May 2017 07:47:39 +0100|Mon, 22 May 2017 07:47:39 +0100
+d1a903efd070033f92c29bc121447ea9604b5bc0|refactoring; drop global variables in start-point-create-list|Mon, 22 May 2017 07:44:00 +0100|Mon, 22 May 2017 07:44:00 +0100
+54d2359eea0a65f80e38d1a17932710905a62f8e|refactoring; do clean_up in ensure block|Mon, 22 May 2017 07:37:05 +0100|Mon, 22 May 2017 07:37:05 +0100
+eccd8cada14792428e0e2c4a0b4f195cb0d13d62|refactoring; deleted dead comments|Mon, 22 May 2017 07:35:18 +0100|Mon, 22 May 2017 07:35:18 +0100
+1390096b2b5f5da8441cb4148a4358d6f98ecd42|refactoring|Mon, 22 May 2017 07:34:22 +0100|Mon, 22 May 2017 07:34:22 +0100
+0619177be088b0947e8e82fcef68bce5645d29e2|refactoring|Mon, 22 May 2017 07:29:33 +0100|Mon, 22 May 2017 07:29:33 +0100
+b2fd7a0c86372f91287ab4654f3dd5decfe9fa3d|refactoring; collapse duplication in [start-point create --git/--list] and in start_point_git_sparse_pull|Mon, 22 May 2017 06:26:33 +0100|Mon, 22 May 2017 06:26:33 +0100
+3c75d3f4cb372900e9873eb9cd254649656c3e4b|[ci skip] added comment on where next step will be; slimed-code needs to be refactored|Sun, 21 May 2017 21:40:52 +0100|Sun, 21 May 2017 21:40:52 +0100
+082cda0aaa6ab7e63e8be81881fe8173875bd20d|refactoring; collapse test duplication|Sun, 21 May 2017 20:51:37 +0100|Sun, 21 May 2017 20:51:37 +0100
+cc205f040e01fc12a57296efbf99697f77fa7681|added missig test for [start-point create NAME --git=repo] where repo has invalid manifest.json file|Sun, 21 May 2017 20:42:32 +0100|Sun, 21 May 2017 20:42:32 +0100
+b8cf753e80bb740652b0a6fb8e21e8d89686d8f8|[ci skip] refactoring; use expected-stderr directly in sh.tests|Sun, 21 May 2017 20:20:25 +0100|Sun, 21 May 2017 20:20:25 +0100
+e023b8bb67f4de186e5d40ea38f7c4a1d2dd68f5|[ci skip] refactoring; drop words cyber-dojo from 'clean' sh.test to match all other sh.tests|Sun, 21 May 2017 20:16:55 +0100|Sun, 21 May 2017 20:16:55 +0100
+24c3384364a3c4cbdd9ee00a32e40eff177ea6e3|refactoring; moved implementation of [start-point create NAME --git=URL] from .sh file into .rb file|Sun, 21 May 2017 20:10:09 +0100|Sun, 21 May 2017 20:10:09 +0100
+1e52bd9da41324c83a5bbd0e0bb7d6c695dec1c5|refactoring; use underscores to indent test names into horizontal hierarchy|Sun, 21 May 2017 17:15:56 +0100|Sun, 21 May 2017 17:15:56 +0100
+63695a80a3abb9780d817823cd2d0daec44541b5|refactoring; use dummy test method names to capture duplication|Sun, 21 May 2017 17:03:45 +0100|Sun, 21 May 2017 17:03:45 +0100
+14dd579fc622317044f3dffcc9c0ca12fe127550|fix bug [start-point ls] now lists --dir=source|Sun, 21 May 2017 16:21:53 +0100|Sun, 21 May 2017 16:21:53 +0100
+783e874f04c781d8b88ff2edc308fbd96cd86d84|refactoring; collapse duplication|Sun, 21 May 2017 15:52:41 +0100|Sun, 21 May 2017 15:52:41 +0100
+363028126255b0e73f9b1cc32ae4f5136880f3f5|added [set -e] to blue-green-deploy.sh script so as not switch blue-green if command before up fails|Sun, 21 May 2017 15:52:21 +0100|Sun, 21 May 2017 15:52:21 +0100
+a9d555dc29461f75303ecf3e83bdd8872a7b7fc7|[start-point create NAME --list] now chowns the volume and validates it|Sun, 21 May 2017 15:43:54 +0100|Sun, 21 May 2017 15:43:54 +0100
+2f5c8e665fe61c01323bf53f9ab9cdf1964cb7dd|[start-point create NAME --list] now pulls git repos into volume|Sun, 21 May 2017 15:39:34 +0100|Sun, 21 May 2017 15:39:34 +0100
+02cf3519b8eb6979a85bfa2435bc253a59b07a45|put start-point-create-list function into its own .rb file|Sun, 21 May 2017 14:33:05 +0100|Sun, 21 May 2017 14:33:05 +0100
+1ec107fca2f44fc715a5a8b035d34ccf068a09d0|[start-point create NAME --list] now mounts empty volume inside docker container|Sun, 21 May 2017 14:31:05 +0100|Sun, 21 May 2017 14:31:05 +0100
+99326801fc7217778903791676a371d1bcffbe69|[start-point create NAME --list] now creates empty volume|Sun, 21 May 2017 14:24:28 +0100|Sun, 21 May 2017 14:24:28 +0100
+7bd37d658815d3862d6504e8ef3824ecfb43f415|[ci skip] delete dead commented line|Sun, 21 May 2017 13:58:35 +0100|Sun, 21 May 2017 13:58:35 +0100
+fd0f4b0401daab13712518693ea4647223825249|started work on [cyber-dojo start-point create NAME --list=FILE] command where FILE contains a list of --git=URL lines|Sun, 21 May 2017 13:57:44 +0100|Sun, 21 May 2017 13:57:44 +0100
+a477ef7d3c8aea394e1a201d8b5d206992bab2dc|[ci skip] comment update|Sun, 21 May 2017 11:14:42 +0100|Sun, 21 May 2017 11:14:42 +0100
+259bcfb724c5fff5d35c22e84c839df5aaa092aa|refactoring; improved tests for start-point create --dir/--git|Sun, 21 May 2017 11:08:39 +0100|Sun, 21 May 2017 11:08:39 +0100
+436bce826896578a67e8dd15ef443a3d9f5d7eab|refactoring; split dir/git start-point-create tests; added missing dir tests|Sun, 21 May 2017 10:29:02 +0100|Sun, 21 May 2017 10:29:02 +0100
+104c994c47a25d3183615d26012598df80ffc26f|refactoring; split off each ruby function into its own file|Sun, 21 May 2017 09:58:25 +0100|Sun, 21 May 2017 09:58:25 +0100
+62663a20d43ac664b692018a20be43a8ba2f5c75|refactoring; remove duplication from test/sh test names|Sun, 21 May 2017 08:58:55 +0100|Sun, 21 May 2017 08:58:55 +0100
+17b2244426e78ed9857984b829ae5000105ad561|refactoring; all sh test names use snake_case|Sun, 21 May 2017 08:35:45 +0100|Sun, 21 May 2017 08:35:45 +0100
+5347dd4203aeff42f7b90eb4cf447a5d5748343e|move [cyber-dojo clean] handling into its own .rb file and reinstate [cyber-dojo clean] sh tests|Sun, 21 May 2017 08:20:57 +0100|Sun, 21 May 2017 08:20:57 +0100
+416f7e1e85181cd6a1ba30728c6f418742755f2f|moved [cyber-dojo down] from cyber-dojo.sh to cyber-dojo.rb|Sat, 20 May 2017 21:46:26 +0100|Sat, 20 May 2017 21:46:26 +0100
+ee7e7e952db3b87f4bc8bc324a89f3bc28ee6d3d|[ci skip] comment updates|Sat, 20 May 2017 21:12:09 +0100|Sat, 20 May 2017 21:12:09 +0100
+1aedb8e5da334efe01b99ecd3e0bd23ec854fc00|minor refactoring|Sat, 20 May 2017 20:53:41 +0100|Sat, 20 May 2017 20:53:41 +0100
+c1c91cb19a2be854812116dacb9c95784ccf0a28|refactor git-sparse-pull into its own function|Sat, 20 May 2017 11:47:26 +0100|Sat, 20 May 2017 11:47:26 +0100
+924c344b68c230bb6cafd8d208a570dab5a5521c|in [cyber-dojo start-point create NAME --git=URL] make git pull sparse and ignore _docker_context dir at any directory level|Sat, 20 May 2017 11:29:33 +0100|Sat, 20 May 2017 11:29:33 +0100
+9188c3ea37711b282ce44e5909f4f89fbe7382ed|update [cyber-dojo start-point create NAME --git=URL] so that git pull is sparse and ignores _docker_context dirs at language _and_ test levels|Fri, 19 May 2017 16:58:56 +0100|Fri, 19 May 2017 16:58:56 +0100
+3776dcb4a359d61387e1ffb26fcc3ce3a17985ee|don't use --workdir on [cyber-dojo start-point create NAME --git=URL] docker create because it affects subsequent non-fully pathed executions|Fri, 19 May 2017 11:01:28 +0100|Fri, 19 May 2017 11:01:28 +0100
+8959a594974ee04e76b7ec1a25f38ef7b86b59f1|switch from sh to bash for cyber-dojo.sh|Fri, 19 May 2017 10:53:40 +0100|Fri, 19 May 2017 10:53:40 +0100
+e0f0cb36d8d3a035a867279a984a56cc45dfd6e9|[cyber-dojo start-point create NAME --git=URL] now uses git pull (instead of git clone) with sparse-checkout option to avoid _docker_context dirs ready for merging Dockerfiles repo into start-points-languages repo|Fri, 19 May 2017 10:43:55 +0100|Fri, 19 May 2017 10:43:55 +0100
+75e4c423e7b5d4efc0201799ae7cf526ab7f4d23|blue-green delpoy script now does [clean,update] calls|Fri, 19 May 2017 09:44:12 +0100|Fri, 19 May 2017 09:44:12 +0100
+18910656a9c37044ad2ac467b4052c1248eee08b|add missing image-name to [cyber-dojo update] implementation|Fri, 19 May 2017 09:15:20 +0100|Fri, 19 May 2017 09:15:20 +0100
+ff904b5fd815b1d446f3c1127b7b0f049481f214|added simple blue-green deploy script; this minimizes server switch-over time if creating a start-point becomes a more lengthy operation, which it may to do if the Dockerfiles and start-point-languages repos are merged together|Thu, 18 May 2017 15:05:00 +0100|Thu, 18 May 2017 15:05:00 +0100
+0e184e5dbf3c6e5beeac4689186bfb6622425e74|update test for too-long docker-image tag-name|Tue, 16 May 2017 19:10:13 +0100|Tue, 16 May 2017 19:10:13 +0100
+08e732cf9e76d38e33ec3acb05e517f92846f255|fix image-name tag parsing|Tue, 16 May 2017 19:04:05 +0100|Tue, 16 May 2017 19:04:05 +0100
+075e1a62910f66c883a4cf3049aab1fc130752f9|added missing exit_fail call to ensure start_point_create_git() does not continue if the named start-point already exists|Sat, 13 May 2017 07:22:02 +0100|Sat, 13 May 2017 07:22:02 +0100
+5afab0d079a7cc018c8c65c164ad009916f4911c|[ci skip] readme update|Mon, 17 Apr 2017 20:40:00 +0100|Mon, 17 Apr 2017 20:40:00 +0100
+0ddde93e4ba564563186c87c776e26d7631096de|refactoring; use simpler regex for -|Mon, 17 Apr 2017 15:20:07 +0100|Mon, 17 Apr 2017 15:20:07 +0100
+f9d6d13cae8c735dd2a44d598a9537eddaccc08a|image_name validation now includes digest|Mon, 17 Apr 2017 12:02:41 +0100|Mon, 17 Apr 2017 12:02:41 +0100
+4357d665ccf1f55c9b0de777cce2aa93c7a1e826|improve start-point image_name validation|Mon, 17 Apr 2017 09:15:44 +0100|Mon, 17 Apr 2017 09:15:44 +0100
+72f19ce8fc7ea3b663718eda441efe48f65519cf|add explicit cpu_shares to docker-compose.yml|Sun, 16 Apr 2017 19:03:44 +0100|Sun, 16 Apr 2017 19:03:44 +0100
+82435abf257530b4d15665b340196ecd4767891a|improved image_name validity checking|Sat, 15 Apr 2017 10:24:28 +0100|Sat, 15 Apr 2017 10:24:28 +0100
+4272041cb706bdb5dfbb019c166ccb0c353a2e95|updated [cyber-dojo up] test will missing service names|Thu, 13 Apr 2017 21:17:21 +0100|Thu, 13 Apr 2017 21:17:21 +0100
+b1c61b2f9d927ada14acbf2d597b84989d0f32d6|add test for invalid image_name|Thu, 13 Apr 2017 21:16:40 +0100|Thu, 13 Apr 2017 21:16:40 +0100
+149562676fec9bc835dcd303442d82da4db00c59|do faster tests first|Thu, 13 Apr 2017 21:16:12 +0100|Thu, 13 Apr 2017 21:16:12 +0100
+966ab1fc20d385ce280987f512f4847e9a3326e0|added runner_stateless service ready for images using 'stateless' suffix|Thu, 13 Apr 2017 17:36:09 +0100|Thu, 13 Apr 2017 17:36:09 +0100
+060b0fbca5a7bf242550892f0e610616a37ce636|added tmpfs to storer in docker-compose.yml; without this it appears storer is unable to very receive large post requests|Fri, 7 Apr 2017 22:58:20 +0100|Fri, 7 Apr 2017 22:58:20 +0100
+26a6144d8ca3e86c8aa40fd534aec7168428378c|removed red_amber_green entries from test data manifest.json files|Thu, 30 Mar 2017 08:55:40 +0100|Thu, 30 Mar 2017 08:55:40 +0100
+06e68097de1a02676bf4d54783f845f92308afdc|removed red_amber_green from required_keys (and known_keys) in manifest.json of a start-point; each language-testFramework image now has its own embedded red_amber_green.rb file|Thu, 30 Mar 2017 08:35:58 +0100|Thu, 30 Mar 2017 08:35:58 +0100
+53d97ac6ad1f0aadaf0be26221829e866dd4ccef|Merge branch 'master' of https://github.com/cyber-dojo/commander|Wed, 29 Mar 2017 08:13:11 +0100|Wed, 29 Mar 2017 08:13:11 +0100
+fbc9123b29f060a3c6884279ee5f8f9d630ec149|[cyber-dojo update] now updates the language-testFramework images as well as the service images|Wed, 29 Mar 2017 08:12:58 +0100|Wed, 29 Mar 2017 08:12:58 +0100
+b8c7fba59d48a2e0524aad89a4669eeaeb00d20c|Merge pull request #10 from TBBle/nginx-port-and-environment-options|Mon, 27 Mar 2017 20:32:01 +0100|Mon, 27 Mar 2017 20:32:01 +0100
+1e3000eeca0afe75ab93cae62003907a6302e2f0|Command-line switch --port to override nginx port|Tue, 28 Mar 2017 03:00:53 +1100|Tue, 28 Mar 2017 03:00:53 +1100
+9cea7981d6dfd7ae123c2501bc3e04b9e66d78df|Add environment support for the nginx container|Tue, 28 Mar 2017 02:41:02 +1100|Tue, 28 Mar 2017 02:41:02 +1100
+2157bfc57849e3a8f7ea9da5052b44bed169da7e|removed unneeded prometheus volume|Fri, 17 Mar 2017 19:42:39 +0000|Fri, 17 Mar 2017 19:42:39 +0000
+622c17129973acae7542f8fa57b841cc045cac1d|added a volume for prometheus|Fri, 17 Mar 2017 18:31:47 +0000|Fri, 17 Mar 2017 18:31:47 +0000
+b56e09ceaa0928dcf493c9378123701074ba853e|delete puller service as runner now handles pull/pulled? functionality|Sun, 12 Mar 2017 18:51:22 +0000|Sun, 12 Mar 2017 18:51:22 +0000
+9a0d1492847d9c056cb076a176e51e4f0b54e103|added depends-on-prometheus entries for runner/storer/differ|Sat, 11 Mar 2017 10:57:27 +0100|Sat, 11 Mar 2017 10:57:27 +0100
+9bee4267cec77ecc531a85b62e90ae118d9cd267|deleted dead comments|Sat, 11 Mar 2017 10:53:25 +0100|Sat, 11 Mar 2017 10:53:25 +0100
+12fcd86ba2e4450604e31f5cb1b104b5390515ee|Add volume for grafana data and add dependency to prometheus|Fri, 10 Mar 2017 13:31:56 +0100|Fri, 10 Mar 2017 13:31:56 +0100
+b03122ddd9acc79d03c4b6138e5d07e6ce141575|Remove unused prometheus config file|Fri, 10 Mar 2017 13:29:23 +0100|Fri, 10 Mar 2017 13:29:23 +0100
+655dfd7a383df6230406e042f0228d433e4cd267|force travis rerun on master|Thu, 9 Mar 2017 16:20:30 +0100|Thu, 9 Mar 2017 16:20:30 +0100
+3e15cd0e81e2e8c20bd4207205f666ac44252b3a|added prometheus and grafana to image-list that is re-pulled on [cyber-dojo update] command|Thu, 9 Mar 2017 16:07:20 +0100|Thu, 9 Mar 2017 16:07:20 +0100
+4058de98169ec459aa884347c6055fe142960f96|Merge prometheus/grafana work into master|Thu, 9 Mar 2017 15:44:42 +0100|Thu, 9 Mar 2017 15:44:42 +0100
+83cdb042c7f51279d3e937d9f8df983b65a6a56b|Add missing configuration files for grafana and prometheus|Thu, 9 Mar 2017 14:30:59 +0100|Thu, 9 Mar 2017 14:30:59 +0100
+71f0f688a06fda3cf4cb8df7264deef80199809f|Adding mechanism to override default grafana admin password to cyber-dojo script|Thu, 9 Mar 2017 14:22:58 +0100|Thu, 9 Mar 2017 14:22:58 +0100
+ae18a7f09f8cb38d57dba602dfd86aa300711dfb|Add grafana and remove host port mapping for prometheus and runner|Thu, 9 Mar 2017 14:18:43 +0100|Thu, 9 Mar 2017 14:18:43 +0100
+8d53c40baf46ebe276ef880afbcce2b46cbcf1cd|Revert "removed prometheus server from docker-compose.yml"|Thu, 9 Mar 2017 10:18:11 +0100|Thu, 9 Mar 2017 10:18:11 +0100
+c24b6afc5dad9c8371e560c454a1582f8a7d6c36|[ci skip] readme update|Thu, 9 Mar 2017 08:08:29 +0100|Thu, 9 Mar 2017 08:08:29 +0100
+beef2027f18618efc5241c746abfaf8f90a49510|[ci skip] readme update|Thu, 9 Mar 2017 08:07:31 +0100|Thu, 9 Mar 2017 08:07:31 +0100
+c5e11584a5e2ec285e81d8d0f93d8ba115453b43|[ci skip] readme update|Thu, 9 Mar 2017 08:06:18 +0100|Thu, 9 Mar 2017 08:06:18 +0100
+ac27adb72a25ebba59a555714202fb2df900e1a9|removed prometheus server from docker-compose.yml|Thu, 9 Mar 2017 07:20:09 +0100|Thu, 9 Mar 2017 07:20:09 +0100
+d0b8ce2b707930c16050eb2cde1017826a74c2d5|changed name of home repo to cyber-dojo|Wed, 8 Mar 2017 22:30:44 +0100|Wed, 8 Mar 2017 22:30:44 +0100
+61dc8829aac2bb11382503a4c62863ab7aa11d32|Change home repo to cyber-dojo|Wed, 8 Mar 2017 21:57:03 +0100|Wed, 8 Mar 2017 21:57:03 +0100
+d2ac46b6ab58f25704095a0e2ad67fd3910e38fe|refactoring|Wed, 8 Mar 2017 20:21:17 +0100|Wed, 8 Mar 2017 20:21:17 +0100
+81b816d5b809a3cf7749cf0236e88107b320f3bd|added new command [cyber-dojo start-point latest NAME] to pull latest images already pulled from NAME|Wed, 8 Mar 2017 20:06:02 +0100|Wed, 8 Mar 2017 20:06:02 +0100
+553a7b841433587077431e01b432331aca5c1157|refactoring|Wed, 8 Mar 2017 20:04:52 +0100|Wed, 8 Mar 2017 20:04:52 +0100
+fe0f060224adcef3f9123021fec773a4aec1c617|[ci skip] readme update|Wed, 8 Mar 2017 13:51:27 +0000|Wed, 8 Mar 2017 13:51:27 +0000
+ff3e3e321ce1992c29dfed8515d13de119fc87c4|fixed bug; variables were being initialized to text lengths rather than text content|Tue, 7 Mar 2017 13:46:02 +0000|Tue, 7 Mar 2017 13:46:02 +0000
+dd0274603b5b74b106d826b93b37dbba1e71efb2|updated [cyber-dojo start-point inspect] so inspection of exercises prints their names|Tue, 7 Mar 2017 09:30:16 +0000|Tue, 7 Mar 2017 09:30:16 +0000
+186faf268c1bb767b05459114e30764de874ab30|dropped push_gateway, prometheus scrapes instrumented runner which exposes its port|Tue, 7 Mar 2017 08:57:15 +0000|Tue, 7 Mar 2017 08:57:15 +0000
+b4bb1e237d055111ad07fc947452c599c2f570a6|force travis rerun|Mon, 6 Mar 2017 20:36:56 +0000|Mon, 6 Mar 2017 20:36:56 +0000
+ff7b8c8a5dad06bc450e2e9b17f1d5cefdbf6edd|added prometheus push-gateway and prometheus server|Mon, 6 Mar 2017 16:44:55 +0000|Mon, 6 Mar 2017 16:44:55 +0000
+78212eea776e7ab7535f6c4a9a3d6b8b874fdbc9|refactoring; zipper now returns base64-encoded tgz content|Mon, 6 Mar 2017 09:39:41 +0000|Mon, 6 Mar 2017 09:39:41 +0000
+fa5565b9452c7632e5553d46d69b4ebc16fd1400|[ci skip] readme update|Sun, 5 Mar 2017 11:31:44 +0000|Sun, 5 Mar 2017 11:31:44 +0000
+ac30e56de0f77a67ac668afa8fa0788e889678fa|force travis rerun|Sat, 4 Mar 2017 13:52:47 +0000|Sat, 4 Mar 2017 13:52:47 +0000
+333af9a1d9440d56396f4a88328955b040204525|[ci skip] switched to getting push_and_trigger (used in travis script) from home repo|Sat, 4 Mar 2017 12:54:22 +0000|Sat, 4 Mar 2017 12:54:22 +0000
+4e1c0d1c84ec6ed313dba04d679c215060e48e04|made the default version of docker-compose installed in Dockerfile 1.11.1|Fri, 3 Mar 2017 10:51:56 +0000|Fri, 3 Mar 2017 10:51:56 +0000
+d170c77ed5a0adf4d1f596efbf6547614f2afdd7|added depends_on: entries to docker-compose.yml|Fri, 24 Feb 2017 18:19:51 +0000|Fri, 24 Feb 2017 18:19:51 +0000
+a69a899e36a293bab4a0d6f48c5955749b6b865c|added .env file containing env-vars used by docker-compose.yml|Fri, 24 Feb 2017 18:13:05 +0000|Fri, 24 Feb 2017 18:13:05 +0000
+0009a6e652714ca01682ea77f14044a7b7e821d9|added zipper as new service used by downloader|Fri, 24 Feb 2017 17:41:51 +0000|Fri, 24 Feb 2017 17:41:51 +0000
+6f380ab1fa8dd01b9f399ea4dc774cd21db53b4a|refactoring; remove dead code|Thu, 23 Feb 2017 20:12:33 +0000|Thu, 23 Feb 2017 20:12:33 +0000
+6e907e79e3c2f0ae18905207f65031e9f6fa6619|[ci skip] md file tweaks|Wed, 22 Feb 2017 07:26:45 +0000|Wed, 22 Feb 2017 07:26:45 +0000
+cdfc88f04685b1a2078eb5a161c15602c50af568|dropped unused runner env-var from docker-compose.yml|Fri, 17 Feb 2017 17:57:08 +0000|Fri, 17 Feb 2017 17:57:08 +0000
+ee10434c22eda4465b2984872101c8b865a212af|pass CYBER_DOJO_RUNNER_CLASS env-var from host terminal in cyber-dojo script; this allows you to change the runner dynamically without having to rebuild its image|Thu, 9 Feb 2017 13:13:36 +0000|Thu, 9 Feb 2017 13:13:36 +0000
+c6ef1a27923bc07a062e0db43f337d6f9f220f11|passed CYBER_DOJO_RUNNER_CLASS env-var value through to runner as next step in allowing runner to be chosen via [cyber-dojo] command line argument and not via rebuilding the runner image|Tue, 7 Feb 2017 18:50:19 +0000|Tue, 7 Feb 2017 18:50:19 +0000
+dbefd9a4824cc40c64dc95eebd8f5f670ddf2802|reinstated the [cyber-dojo clean] command so it cleans images and container but not yet volumes|Sat, 4 Feb 2017 07:18:07 +0000|Sat, 4 Feb 2017 07:18:07 +0000
+6fd39b6cd6a1ec01646a8d8092cbb739854516a1|added puller to list of images to [cyber-dojo update] command|Fri, 3 Feb 2017 13:26:42 +0200|Fri, 3 Feb 2017 13:26:42 +0200
+6e35c844d2908215cad7c3f9a2ce135b8b08a8bb|added puller as new service into docker-compose.yml file|Thu, 2 Feb 2017 19:21:08 +0200|Thu, 2 Feb 2017 19:21:08 +0200
+d884d9ece62689fd018c97debb061a7e5af7110b|disabled [cyber-dojo clean] command as it removes unmounted start-point volumes|Sun, 29 Jan 2017 11:10:05 +0000|Sun, 29 Jan 2017 11:10:05 +0000
+49a6b74776f57abde2a3777c4e96f10db1c32611|[ci skip] sh layout refactoring|Tue, 17 Jan 2017 16:51:50 +0000|Tue, 17 Jan 2017 16:51:50 +0000
+dfd43b447c6c24aa02709db80673b6d0db0b39ef|trying to fix [apk add git] which is not working on Travis|Sun, 15 Jan 2017 20:48:56 +0000|Sun, 15 Jan 2017 20:48:56 +0000
+13e4597c3848fb2886256511070cd4109031be80|added script command to see what version of docker-compose Travis is using|Sun, 15 Jan 2017 20:40:54 +0000|Sun, 15 Jan 2017 20:40:54 +0000
+f3c758c5ebcfa98a6508881efa0dfd5a64eadcad|updated docker-compose.yml with CYBER_DOJO_RUNNER_CLASS setting|Sun, 15 Jan 2017 20:08:05 +0000|Sun, 15 Jan 2017 20:08:05 +0000
+c2a26420af85ac3555912a6040c384f632e9e30e|updated .travis.yml to use new push_and_trigger script|Sun, 1 Jan 2017 16:52:30 +0000|Sun, 1 Jan 2017 16:52:30 +0000
+7db5f152ee80c33de9929f3f7563c04b7d296bd2|[ci skip] readme update|Thu, 29 Dec 2016 09:27:18 +0000|Thu, 29 Dec 2016 09:27:18 +0000
+e2e321956c27610bf949ddc1a56c208b78ee3a57|removed unneeded test that cyber-dojo.sh has execute permission - the runner chmod +x's it|Thu, 29 Dec 2016 06:33:04 +0000|Thu, 29 Dec 2016 06:33:04 +0000
+3ac12d880cf931077d5c487b10cef6c3d1b534bd|update tests for new [cyber-dojo clean] help text|Sun, 25 Dec 2016 10:40:04 +0000|Sun, 25 Dec 2016 10:40:04 +0000
+14bc8fc1507507cb500eea32153ed7a9d0f3fa96|clean up dangling volumes in [cyber-dojo clean] command|Sun, 25 Dec 2016 07:40:30 +0000|Sun, 25 Dec 2016 07:40:30 +0000
+8950b0bfb149f2e57409a5e8902389306f061794|updated Travis script to trigger system-tests when done|Wed, 21 Dec 2016 15:37:49 +0000|Wed, 21 Dec 2016 15:37:49 +0000
+035aeb8c02ddd84a91e2fafd10927ee45bcc7b09|set CYBER_DOJO_HOME env-var for web container in docker-compose.yml|Wed, 14 Dec 2016 17:59:04 +0000|Wed, 14 Dec 2016 17:59:04 +0000
+a8590467ba3a03d4c18733da4e84a8ba4bb84447|switched root dir to /app now storer is separate service|Tue, 13 Dec 2016 09:58:07 +0000|Tue, 13 Dec 2016 09:58:07 +0000
+8eea5440a89c0a5462c9b75e78402adb862c161e|removed default docker-compose version from build.sh and added check that build.sh is passed it as a command line argument|Mon, 12 Dec 2016 07:13:56 +0000|Mon, 12 Dec 2016 07:13:56 +0000
+2e8fda3c16d86f5b5ca8577e734d80dbf312cdb6|[cyber-dojo update] now docker pulls storer|Sun, 11 Dec 2016 22:06:23 +0000|Sun, 11 Dec 2016 22:06:23 +0000
+27532819246f71da562a61475e0a22e323f7126b|reorder services in docker-compose.yml|Sun, 11 Dec 2016 21:58:45 +0000|Sun, 11 Dec 2016 21:58:45 +0000
+74722ec75f18e9f78b364ba475651b5e5fa979a9|made runner container read-only (with tmpfs as changed-file staging area)|Sun, 11 Dec 2016 21:32:23 +0000|Sun, 11 Dec 2016 21:32:23 +0000
+2692b7690e0f3657d1a72021c546c0feb5813386|made storer container read-only (katas data-container is read-write)|Sun, 11 Dec 2016 21:26:20 +0000|Sun, 11 Dec 2016 21:26:20 +0000
+d1639f996d208ac9a7280f648ec9943a5e635918|added storer service to commander's docker-compose.yml|Sun, 11 Dec 2016 21:19:47 +0000|Sun, 11 Dec 2016 21:19:47 +0000
+0d6357e7b7ed35a7d2e814d0eaba4f7645a06e3c|added docker-compose version default to build.sh|Sun, 11 Dec 2016 21:18:59 +0000|Sun, 11 Dec 2016 21:18:59 +0000
+1ba7bef17d39b7654ca200ed0ef4357f4f096865|made differ service run read_only with tmpfs|Sun, 11 Dec 2016 08:41:46 +0000|Sun, 11 Dec 2016 08:41:46 +0000
+cd20f1a3ea5da87d844d956d210597ec92ab7fb1|added pipe script to match other repos|Wed, 7 Dec 2016 07:51:31 +0000|Wed, 7 Dec 2016 07:51:31 +0000
+f6200fb83c3d51fe1ebc8b9ab1516e8530652d1e|cd back to travis-build-dir where push.sh has been curl'd|Thu, 1 Dec 2016 18:35:11 +0000|Thu, 1 Dec 2016 18:35:11 +0000
+c531fbd2307db743e43c3cddcf1c3c472d5cf84b|add pwd,ls to debug travis script|Thu, 1 Dec 2016 18:30:02 +0000|Thu, 1 Dec 2016 18:30:02 +0000
+9813503f53a43d45d861762474dff780a0d90d33|cd back to where push is before doing ./push.sh|Thu, 1 Dec 2016 18:25:42 +0000|Thu, 1 Dec 2016 18:25:42 +0000
+bcf612eeb1273bc2d8950b5b1064bb1e5c601803|use travis's docker|Thu, 1 Dec 2016 18:16:54 +0000|Thu, 1 Dec 2016 18:16:54 +0000
+b499b92a811c3dc465d98dfd119a4b4a7dfc4c65|in travis script install docker from master script in cyber-dojo/ruby repo|Thu, 1 Dec 2016 10:51:14 +0000|Thu, 1 Dec 2016 10:51:14 +0000
+a5b73cdc55dabee91f24e94a02a731f9a497e9c0|do dockerhub push using push.sh from cyber-dojo/ruby repo|Wed, 30 Nov 2016 14:58:55 +0000|Wed, 30 Nov 2016 14:58:55 +0000
+6a6f84b337bbca15c97713dc816cec6c4313a893|[ci skip] uppercase appears to be the norm for the license file|Mon, 28 Nov 2016 13:51:09 +0000|Mon, 28 Nov 2016 13:51:09 +0000
+58be78fdd1d1568db1e1a9e3e8820166b13e4735|turn off [cyber-dojo update] test because it pulls current image from dockerhub - which travis would then push back|Mon, 28 Nov 2016 06:55:23 +0000|Mon, 28 Nov 2016 06:55:23 +0000
+11cf82615b26acb73693aea3b3688ecca4117f4a|[cyber-dojo update] now only updates new images; it does not do [cyber-dojo down] and [cyber-dojo up]|Mon, 28 Nov 2016 06:54:02 +0000|Mon, 28 Nov 2016 06:54:02 +0000
+d6463b38efcd36dbb52df3878faa52f178505544|add test for [cyber-dojo update] pulling images for all services|Mon, 28 Nov 2016 06:43:58 +0000|Mon, 28 Nov 2016 06:43:58 +0000
+87891edb30d4cf09b977718034ef4daebb248e26|pull collector image on [cyber-dojo update]|Mon, 28 Nov 2016 06:42:50 +0000|Mon, 28 Nov 2016 06:42:50 +0000
+60cbe0e5d5f77495aab30169065ac0ca4bbe1830|delete dead comment|Mon, 28 Nov 2016 06:42:16 +0000|Mon, 28 Nov 2016 06:42:16 +0000
+148473888b6a783cf511a32db3ebb5b63d71b6ad|add collector service to commander's docker-compose.yml file|Sun, 27 Nov 2016 16:22:11 +0000|Sun, 27 Nov 2016 16:22:11 +0000
+2e1c79f8a1741f8286138c6d2473ae1211c21efa|delete dead code|Sun, 27 Nov 2016 07:39:20 +0000|Sun, 27 Nov 2016 07:39:20 +0000
+b9f29f8676214a66c6714661b398d7e7e4a097b7|base Dockerfile on cyberdojo/docker|Sat, 26 Nov 2016 21:50:06 +0000|Sat, 26 Nov 2016 21:50:06 +0000
+9df53ff009836054007b1bef6121dbb5770423fc|[ci skip] add license file|Wed, 23 Nov 2016 11:49:36 +0000|Wed, 23 Nov 2016 11:49:36 +0000
+33bad4c818eaef61ce6983a0fc1a0e01349b1b5b|fix incorrect dir location|Wed, 23 Nov 2016 11:49:24 +0000|Wed, 23 Nov 2016 11:49:24 +0000
+efc2712c1b8d580baaab4e780c8cee7ed0faa65c|[ci skip] added comment on why katas-data-container is not a named volume|Sun, 13 Nov 2016 09:25:03 +0000|Sun, 13 Nov 2016 10:14:57 +0000
+20b2c57237fe55d2737c31b0eae601d6ea3b9512|distinguish between push vs pull-request in travis's [docker push]|Fri, 11 Nov 2016 21:35:19 +0000|Fri, 11 Nov 2016 21:35:19 +0000
+daf132a5d16e6f1f98b01a86ac6442e8ece4bce2|add cyber-dojo user to Dockerfile used to make katas data-container|Fri, 11 Nov 2016 20:39:11 +0000|Fri, 11 Nov 2016 20:39:11 +0000
+4ffd0b39937367e27a4cfe35a6891ec80da512ae|remove command from docker-compose.yml now web has it in its Dockerfile's CMD|Fri, 11 Nov 2016 20:27:26 +0000|Fri, 11 Nov 2016 20:27:26 +0000
+6c741e20bd69c612b26957421ab626f1bfc9f099|remove old docker-version-tag from commander's image name in shell-in script|Fri, 11 Nov 2016 20:26:39 +0000|Fri, 11 Nov 2016 20:26:39 +0000
+27d5bbc7490f4708b425a472ddd2f2700575f7d0|Dockerfile comment tweak|Fri, 11 Nov 2016 20:25:59 +0000|Fri, 11 Nov 2016 20:25:59 +0000
+0ed21afc7b9a8625b3c2fc1a28835fcaf2103280|remove docker-in-docker comments from Dockerfile (they are in runner's Dockerfile)|Fri, 11 Nov 2016 20:25:09 +0000|Fri, 11 Nov 2016 20:25:09 +0000
+a50335f89a7bd4efbe88d7519baa09fd42a20dc1|rename build-image.sh to build.sh to match other repos|Fri, 11 Nov 2016 20:23:09 +0000|Fri, 11 Nov 2016 20:23:09 +0000
+5514e565916dd1b66b57df5fc4df4c8de621e2b3|remove command: from differ as it has been added to differ image's Dockerfile as CMD|Wed, 9 Nov 2016 17:29:51 +0100|Wed, 9 Nov 2016 17:29:51 +0100
+57e10420824c496ece6d8fad5a5ab06fb5ef8622|drop command: from runner service in docker-compose.yml|Wed, 9 Nov 2016 16:36:41 +0100|Wed, 9 Nov 2016 16:36:41 +0100
+3e2e4974a2df47b1aa6db8fabe07418e02d9cd01|remove host-port exposure|Wed, 9 Nov 2016 16:05:25 +0100|Wed, 9 Nov 2016 16:05:25 +0100
+6463483dc27a6d91ea46b78ceb07dd1c1980f160|drop unneeded links entry from docker-compose.yml's nginx settings|Wed, 9 Nov 2016 16:00:42 +0100|Wed, 9 Nov 2016 16:00:42 +0100
+88bdfe5edcb7d54a2e05715f6f100e9ea11b3bda|update commander's docker-compose.yml file to version:2|Wed, 9 Nov 2016 15:40:51 +0100|Wed, 9 Nov 2016 15:40:51 +0100
+b0f6b29f60016a142f560f9b460d12cdc2cd7877|fix bug in tests; output lines might be in different order|Tue, 8 Nov 2016 17:56:09 +0100|Tue, 8 Nov 2016 17:56:09 +0100
+56bbdd29fadde87f8595e83d457149ac9eb5258e|add line separating two related [update] methods|Tue, 8 Nov 2016 16:44:28 +0100|Tue, 8 Nov 2016 16:44:28 +0100
+b931e862d6202d3cb357878f2283f32a0d6d867b|add runner to list of images [update] updates, drop docker-version dependency from update on web image|Tue, 8 Nov 2016 16:42:45 +0100|Tue, 8 Nov 2016 16:42:45 +0100
+ba27df7578ee414be0d27c891d11099e4046053b|remove docker-version-number from name of commander's image used in rb/sh files|Tue, 8 Nov 2016 15:45:18 +0100|Tue, 8 Nov 2016 15:45:18 +0100
+9d2bdd02136556047791c37a242c612851ad9d23|add missing ; to docker push|Tue, 8 Nov 2016 15:31:47 +0100|Tue, 8 Nov 2016 15:31:47 +0100
+09d05b5dca9b330a57cf2a9106af3f42fb3912f2|update [cyber-dojo up] tests for new runner-service|Tue, 8 Nov 2016 15:24:50 +0100|Tue, 8 Nov 2016 15:24:50 +0100
+69a66bdb65f8ec10267d26ce6de681e0cf9031e6|remove docker-version-number from image-name in docker-push in travis file|Tue, 8 Nov 2016 14:56:56 +0100|Tue, 8 Nov 2016 14:56:56 +0100
+87b262373e3471a6442de045e0a02ba41101d7a6|remove docker-version-number from image-name (tag)|Tue, 8 Nov 2016 14:52:34 +0100|Tue, 8 Nov 2016 14:52:34 +0100
+ef039b009ce376ed18aa3d695febca2ca689ae67|removing docker-engine version-number from image names (tags)|Tue, 8 Nov 2016 14:35:27 +0100|Tue, 8 Nov 2016 14:35:27 +0100
+6d0d03c9fb0a16ec86cb9932224c5c7f352e8284|change nginx user to root and add runner as new service to docker-compose.yml|Tue, 8 Nov 2016 14:15:42 +0100|Tue, 8 Nov 2016 14:31:30 +0100
+e422fd6ab00f36e9bcdee423d795032d75cd21ee|fix broken test for [./cyber-dojo] help text|Thu, 27 Oct 2016 08:55:28 +0100|Thu, 27 Oct 2016 08:55:28 +0100
+ae617345a09014ae05aa99018ea6db7102dc94e9|[ci skip] readme update|Thu, 27 Oct 2016 08:43:54 +0100|Thu, 27 Oct 2016 08:43:54 +0100
+44ab0431f870dca66fb69bc8059eef856f1fa912|readme update; ./cyber-dojo help message tweak|Thu, 27 Oct 2016 08:41:53 +0100|Thu, 27 Oct 2016 08:41:53 +0100
+bcab8afe9349107cedb1631e96078eb347fe1ad6|[ci skip] remove previous commits comment; put them into cyber-dojo/runner's notes file|Tue, 25 Oct 2016 10:22:38 +0100|Tue, 25 Oct 2016 10:22:38 +0100
+21b93b52c1b24d93398a8e54cddd801caf74392b|[ci skip] added URL re container limits thread|Tue, 25 Oct 2016 10:14:35 +0100|Tue, 25 Oct 2016 10:14:35 +0100
+14335703d748add42b015095650a346917451835|update readme and legacy-related comments on functionality being split over too many files|Fri, 21 Oct 2016 17:50:50 +0100|Fri, 21 Oct 2016 17:50:50 +0100
+c40969d16b333f785a2b32d16a6d256eb8211c09|refine test for manifest.json's display_name 'major,minor' so only major cannot contain a -|Fri, 21 Oct 2016 17:14:50 +0100|Fri, 21 Oct 2016 17:14:50 +0100
+feabf8dba6531cf7151d30acd60566b219035e83|adding missing test; manifest.json's display_name cannot contain hyphens|Fri, 21 Oct 2016 16:53:00 +0100|Fri, 21 Oct 2016 16:53:00 +0100
+3d431e5ae4b4911ba4e56b2122f2c16dd2d7fc42|gathered output from [./cyber-dojo update] ready for test|Fri, 21 Oct 2016 13:58:35 +0100|Fri, 21 Oct 2016 13:58:35 +0100
+8643ca6ffbd959e669cb1e344cbfee5c04a5e8ed|added tests for [./cyber-dojo down]|Fri, 21 Oct 2016 10:23:09 +0100|Fri, 21 Oct 2016 10:23:09 +0100
+a4f4a5d6675eb097b8107af2235bbe92f5a2089d|refactoring; use 0 directly in tests|Fri, 21 Oct 2016 00:36:10 +0100|Fri, 21 Oct 2016 00:36:10 +0100
+3bee2eec43c46bae4819b802bd5707b108cac718|refactoring; use snake-case style for local variables|Fri, 21 Oct 2016 00:21:12 +0100|Fri, 21 Oct 2016 00:21:12 +0100
+df7f85a80bb55ba0434b97ce9ed4b83d8da5f5f7|refactoring; added assertStdoutIncludes()|Fri, 21 Oct 2016 00:06:57 +0100|Fri, 21 Oct 2016 00:06:57 +0100
+7e4380349c2220b0f94a39f3a655a3cf8c040827|delete commented out code|Thu, 20 Oct 2016 22:27:55 +0100|Thu, 20 Oct 2016 22:27:55 +0100
+fca3b465c098e9a448a0bc18642cf40215ab06af|fix broken [./cyber-dojo up] with specified start-point|Thu, 20 Oct 2016 22:20:29 +0100|Thu, 20 Oct 2016 22:20:29 +0100
+ee5b0ce8a7537678589aedca18c5d47d03d8c839|refactoring; make all image-names and container-names in docker-compose.yml explicit|Wed, 19 Oct 2016 08:28:50 +0100|Wed, 19 Oct 2016 08:28:50 +0100
+8875645c8cc2ed8e12312fb30222abd975fc61a5|explicitly specify nginx user:nobody which is what it is by default if you dont set the user in the config file which I dont|Wed, 19 Oct 2016 08:17:34 +0100|Wed, 19 Oct 2016 08:17:34 +0100
+8aab725f0e1afdb64d57d85f04bf4bfa557fefe1|[./cyber-dojo update] needs to bring server down before doing update; also show updates happening so there is no periods with apparantly nothing happening|Wed, 19 Oct 2016 08:08:37 +0100|Wed, 19 Oct 2016 08:08:37 +0100
+04bb2dbbf01a3dd5fd0b577ce3d586f773c5da7e|refactoring|Mon, 17 Oct 2016 23:20:31 +0100|Mon, 17 Oct 2016 23:20:31 +0100
+05acfc4b4eedd4bec47546120cac0538c840ceec|in .travis.yml set language to generic to avoid ruby default|Mon, 17 Oct 2016 23:08:21 +0100|Mon, 17 Oct 2016 23:08:21 +0100
+23c87ebeb20744a2994068530c12b5581532532b|strip down .travis.yml file|Mon, 17 Oct 2016 21:55:14 +0100|Mon, 17 Oct 2016 21:55:14 +0100
+acecccaaf0ab56635dd85d181923b717d2f1ffb2|drop content-free adjective from sh test names|Mon, 17 Oct 2016 21:45:26 +0100|Mon, 17 Oct 2016 21:45:26 +0100
+8c775818c5a6e9ed14e18d3134d7506942d9418b|remove [language:ruby] from .travis.yml which I think is unneeded|Mon, 17 Oct 2016 21:39:37 +0100|Mon, 17 Oct 2016 21:39:37 +0100
+ac6ebd815a3323af9c9834c99dee33a3fbd739cd|try .travis.yml with after_success: at the end|Mon, 17 Oct 2016 21:34:14 +0100|Mon, 17 Oct 2016 21:34:14 +0100
+3f0898fc54e34272e303a966004919a53ea5d6d3|simpler test/rb/run.sh|Mon, 17 Oct 2016 21:27:04 +0100|Mon, 17 Oct 2016 21:27:04 +0100
+28a6c119ef42eb651bede19b4094d4f51d7c9f24|added test for [./cyber-dojo start_point_create --dir=DIR] when DIR exists but has bad content|Mon, 17 Oct 2016 20:21:12 +0100|Mon, 17 Oct 2016 20:21:12 +0100
+43bbb9de89359cd819eb1c070fa84f26191fbcad|run test_start_pointer_checker.rb in travis CI|Mon, 17 Oct 2016 19:59:02 +0100|Mon, 17 Oct 2016 19:59:02 +0100
+506c5a06984e3f79e14f88100ec8919de868a1ca|fix [./cyber-dojo update] test that was waiting for how to echo to stderr|Mon, 17 Oct 2016 19:43:32 +0100|Mon, 17 Oct 2016 19:43:32 +0100
+981112457680edace6f7224b5abc77bf50e00640|first cut at getting [./cyber-dojo update] working|Mon, 17 Oct 2016 19:09:13 +0100|Mon, 17 Oct 2016 19:09:13 +0100
+390374bc6c9bcec2ddda0b66624df89b826d5353|[ci skip] readme update|Sun, 16 Oct 2016 21:31:25 +0100|Sun, 16 Oct 2016 21:31:25 +0100
+07fad24f24aacfee0fd7757c90bbcc0673c4a8b0|[ci skip] readme update|Sun, 16 Oct 2016 21:30:53 +0100|Sun, 16 Oct 2016 21:30:53 +0100
+e43bd9ae91f75d9f5ad761747cf3a5a05c1ce52f|cyber-dojo has to be inside commander image so update can extract it|Sun, 16 Oct 2016 20:26:09 +0100|Sun, 16 Oct 2016 20:26:09 +0100
+b3ae39bd62036d8cd5575bb5df97b74f56bd1f50|[ci skip] readme update|Sun, 16 Oct 2016 14:51:58 +0100|Sun, 16 Oct 2016 14:51:58 +0100
+03fb1298e568911b4f482298dcd2312220b0756a|delete dead files|Sat, 15 Oct 2016 21:14:29 +0100|Sat, 15 Oct 2016 21:14:29 +0100
+30fc0fc64f7f09e39c2dfb826de952abed5c2214|[ci skip] more words for blog-install instructions|Sat, 15 Oct 2016 16:46:39 +0100|Sat, 15 Oct 2016 16:46:39 +0100
+90e305fbdf29db6d260e868f1a37f75dae421bee|[ci skip] more words for blog-install instructions|Sat, 15 Oct 2016 16:22:23 +0100|Sat, 15 Oct 2016 16:22:23 +0100
+49f8e4fb48f93a9997166c4a5a9a65ff579c0260|[ci skip] added instructions to setup info on pulling images|Sat, 15 Oct 2016 15:54:30 +0100|Sat, 15 Oct 2016 15:54:30 +0100
+7a9131e4e3c7bee78e2a3c77b918acee404f21c8|[ci skip] more words for blog-install instructions|Sat, 15 Oct 2016 09:08:30 +0100|Sat, 15 Oct 2016 09:08:30 +0100
+d1f25a592b3bf907bdcd387149110ccd4b56759e|[ci skip] save mostly finished installation blog-instructions for Linux/Mac/Windows|Fri, 14 Oct 2016 21:23:19 +0100|Fri, 14 Oct 2016 21:23:19 +0100
+548450bea1ef794564a436a7e07039b5a4f8347d|bump docker to 1.12.2 and docker-compose to 1.8.1|Fri, 14 Oct 2016 20:55:49 +0100|Fri, 14 Oct 2016 20:55:49 +0100
+3a36de6b5ae90bc92afd5ae85f325784d8252c90|[ci skip] notes on running cyber-dojo on Windows with DockerToolbox|Fri, 14 Oct 2016 16:23:50 +0100|Fri, 14 Oct 2016 16:23:50 +0100
+680f05bbc497ccfc2ff35aa5fc003c8cdd6eba92|create a 1.12.2 image|Fri, 14 Oct 2016 14:49:15 +0100|Fri, 14 Oct 2016 14:49:15 +0100
+006ae1b7b08571497daf6672e9e8a5b150e2b7e1|seeing if I can build a 1.12.2 image on travis CI|Fri, 14 Oct 2016 14:33:54 +0100|Fri, 14 Oct 2016 14:33:54 +0100
+76c3629b4b8ffd3a41dd85261e29511e7b3e5a02|move start-pointer-checker tests into test/rb dir|Fri, 14 Oct 2016 09:50:22 +0100|Fri, 14 Oct 2016 09:50:22 +0100
+da14adef31d0018b354c702619db9565034e4443|moved sh tests into their own folder to separate them from rb tests|Fri, 14 Oct 2016 09:07:48 +0100|Fri, 14 Oct 2016 09:07:48 +0100
+4071d507dc1cd931a16d11e775b4f79920238ec3|use one-true brace-style for .sh functions|Mon, 10 Oct 2016 15:35:35 +0100|Mon, 10 Oct 2016 15:35:35 +0100
+08efaa5cfbe8e31c4f427c5c4f87729c15949c29|[ci skip] delete dead file|Mon, 10 Oct 2016 11:09:25 +0100|Mon, 10 Oct 2016 11:09:25 +0100
+72fe3df0905c493fa1d1f4e57f72897ba764849f|pass --debug through to cyber-dojo.sh and cyber-dojo.rb|Mon, 10 Oct 2016 09:24:21 +0100|Mon, 10 Oct 2016 09:24:21 +0100
+44823b5ef62640aaa51654a67a8dd588ef686ff8|changed to --help option across all cyber-dojo commands|Mon, 10 Oct 2016 07:52:54 +0100|Mon, 10 Oct 2016 07:52:54 +0100
+87e090072dd0852b2a84f8efa7c9c0e6eeda7f1c|added tests for [cyber-dojo start-point pull]|Sun, 9 Oct 2016 18:54:11 +0100|Sun, 9 Oct 2016 18:54:11 +0100
+b2a6db31ec1b2ffa782d845f4ea4d1921dab0aaf|dont need main cyber-dojo script inside the image|Sun, 9 Oct 2016 18:03:14 +0100|Sun, 9 Oct 2016 18:03:14 +0100
+fbaf7f8846c990205cc5b0cf9ca10afeaa77e71c|delete dead comments|Sun, 9 Oct 2016 11:19:52 +0100|Sun, 9 Oct 2016 11:19:52 +0100
+0d013a6aa274f430b99e18309fef118f43e965fe|test refactoring|Sun, 9 Oct 2016 11:19:07 +0100|Sun, 9 Oct 2016 11:19:07 +0100
+6ae306055ee9be92ed103c40bf015007069b2013|added tests for [cyber-dojo start-point inspect]|Sun, 9 Oct 2016 11:10:46 +0100|Sun, 9 Oct 2016 11:10:46 +0100
+cd3ffb6a047c7ba04211e340be8c6bec6c12bead|split start-point tests into create/ls files|Sun, 9 Oct 2016 08:29:00 +0100|Sun, 9 Oct 2016 08:29:00 +0100
+5aa50ba45d530ee8b50148b3e72f504b1c968a0a|have to split the substring into 2 because docker pull messages intervene|Sat, 8 Oct 2016 22:39:30 +0100|Sat, 8 Oct 2016 22:39:30 +0100
+49048555724f53a15cf210b0b22b5eb2289dcba2|fixed [cyber-dojo up] test to use substring check as travis test will pull images|Sat, 8 Oct 2016 22:32:34 +0100|Sat, 8 Oct 2016 22:32:34 +0100
+4a31c167f69821981357c07ab4a95879b779f8a0|added test for basic [cyber-dojo up] command|Sat, 8 Oct 2016 22:16:07 +0100|Sat, 8 Oct 2016 22:16:07 +0100
+9f81618a3b6858c8411ba005f79cb1512b89ae5b|fix broken [cyber-dojo up] test|Sat, 8 Oct 2016 21:43:33 +0100|Sat, 8 Oct 2016 21:43:33 +0100
+645469243766a356d45cb616960ee711a6007f06|turn off test while I fix it|Sat, 8 Oct 2016 21:20:16 +0100|Sat, 8 Oct 2016 21:20:16 +0100
+5032b884bef3d42d58ebf4acfa51d0c99462f7a0|test refactoring; use local for variables inside function|Sat, 8 Oct 2016 21:11:21 +0100|Sat, 8 Oct 2016 21:11:21 +0100
+46768023829f2885198338fa83ca0fb9f82a64ea|added more [cyber-dojo up] tests|Sat, 8 Oct 2016 21:07:34 +0100|Sat, 8 Oct 2016 21:07:34 +0100
+807110be559dd34bcfa18c64239a4439f8429e7e|test refactoring|Sat, 8 Oct 2016 16:21:19 +0100|Sat, 8 Oct 2016 16:21:19 +0100
+fc724ba0e9d48e740966d30f6099719a46650c30|[ci skip] add comments|Sat, 8 Oct 2016 16:05:26 +0100|Sat, 8 Oct 2016 16:05:26 +0100
+d6e6f796b88475d68c8e9047c30aa43975238b0c|fix missing ' in docker exec command to remove .git repo when doing start-point create|Sat, 8 Oct 2016 15:57:50 +0100|Sat, 8 Oct 2016 15:57:50 +0100
+9a1297eddcae070308758651d68b0db8a3f035d4|added start-point-create tests|Sat, 8 Oct 2016 14:02:48 +0100|Sat, 8 Oct 2016 14:02:48 +0100
+5452ffa03e588f774ab8b5444ec035372b76dcd6|split tests into separate files|Sat, 8 Oct 2016 11:09:40 +0100|Sat, 8 Oct 2016 11:09:40 +0100
+be62867c6e0dc2d80be2d0b468a95c2eb6e66408|added tests for command with unknown argument|Sat, 8 Oct 2016 08:04:52 +0100|Sat, 8 Oct 2016 08:04:52 +0100
+5b857f0584a545773fcbea7070fc71d2d32d7604|use help not --help|Sat, 8 Oct 2016 07:36:21 +0100|Sat, 8 Oct 2016 07:36:21 +0100
+afccfca93ffa0d7c5168cec46f78ef20e07e7c0a|run all tests in travis|Sat, 8 Oct 2016 07:15:06 +0100|Sat, 8 Oct 2016 07:15:06 +0100
+14e9b408c3310978e9cc0fb6e757671fc300617e|added more tests for --help options|Sat, 8 Oct 2016 07:02:24 +0100|Sat, 8 Oct 2016 07:02:24 +0100
+15d06a774f9da56520d7e9e7de601288dacd5184|test refactoring|Sat, 8 Oct 2016 06:50:59 +0100|Sat, 8 Oct 2016 06:50:59 +0100
+a58781876085ad5106c3db08c36c9bd40f677b67|added initial test for [./cyber-dojo clean]|Sat, 8 Oct 2016 06:19:13 +0100|Sat, 8 Oct 2016 06:19:13 +0100
+2424408787ff016b4f0664a1b2f252cad491992c|added first shunit2 test|Fri, 7 Oct 2016 22:00:42 +0100|Fri, 7 Oct 2016 22:00:42 +0100
+dff2537c24630cf752a7d4c636aafb42e304633f|improved Dockerfile comments|Fri, 7 Oct 2016 14:48:09 +0100|Fri, 7 Oct 2016 14:48:09 +0100
+31b85fb801634198cfe58407aa400f67455a6ad4|delete dead code|Fri, 7 Oct 2016 11:48:22 +0100|Fri, 7 Oct 2016 11:48:22 +0100
+a4f047567f54cb0a29e920a9a2ecb01527aa29f9|delete notes file|Fri, 7 Oct 2016 11:39:07 +0100|Fri, 7 Oct 2016 11:39:07 +0100
+4d3df194b96c4494c9085fcd4e19cc2eef77a467|delegate to cyber-dojo.sh first to get full error checking|Fri, 7 Oct 2016 11:24:48 +0100|Fri, 7 Oct 2016 11:24:48 +0100
+9de7f2840f83cc27024cdfde8401551218a5881f|display diagnostic in exit_fail|Fri, 7 Oct 2016 10:45:32 +0100|Fri, 7 Oct 2016 10:45:32 +0100
+c42b1ab1867c9b11f2d9da1ab2518433b05d10db|pipe stderr to /dev/null in [start-point rm]|Fri, 7 Oct 2016 10:25:57 +0100|Fri, 7 Oct 2016 10:25:57 +0100
+a18809a1909fc23715a196debf38012150ecaa17|add missing file to dockerignore|Fri, 7 Oct 2016 10:13:43 +0100|Fri, 7 Oct 2016 10:13:43 +0100
+54692bafa58893aa65e4f682792f4eb6a6e2fd22|improve comment on one-time-katas-data-volume-creation|Fri, 7 Oct 2016 10:02:31 +0100|Fri, 7 Oct 2016 10:02:31 +0100
+a7b6a5d6069761e5ea9482a811e44cfa3bbb188e|pipe docker cmd output to /dev/null|Fri, 7 Oct 2016 09:47:55 +0100|Fri, 7 Oct 2016 09:47:55 +0100
+10f2e27f20f96a24307af4b6ef7870512a22ac18|pipe to /dev/null when creating katas data volume|Fri, 7 Oct 2016 08:36:49 +0100|Fri, 7 Oct 2016 08:36:49 +0100
+32efec96558f721909d0400be73e8bf49171b3e1|added Dockerfile/dockerignore for katas data volume to .dockerignore|Fri, 7 Oct 2016 08:31:57 +0100|Fri, 7 Oct 2016 08:31:57 +0100
+eb33b5dce205450930d40d910cf1b861f3486ffd|remove echo when creating katas data volume|Fri, 7 Oct 2016 08:18:42 +0100|Fri, 7 Oct 2016 08:18:42 +0100
+ef532afc0362ccf1d90863000bd9a15fb033f140|fixed katas data-creation not having cyber-dojo ownership|Fri, 7 Oct 2016 07:33:44 +0100|Fri, 7 Oct 2016 07:33:44 +0100
+5046ab09525faf22550955c884ffdabe07dc14e1|fix missed function rename|Thu, 6 Oct 2016 19:58:36 +0100|Thu, 6 Oct 2016 19:58:36 +0100
+c21ced03704607f972d21f2f8dce95eab2f1372f|remove set-e option from main script, fix typo in cyber-dojo.sh|Thu, 6 Oct 2016 19:54:06 +0100|Thu, 6 Oct 2016 19:54:06 +0100
+9b5b6d5513518c87cb4b95675c597932921336c2|s/USER/USERNAME/ in travis file|Thu, 6 Oct 2016 16:49:31 +0100|Thu, 6 Oct 2016 16:49:31 +0100
+645a55d242bce68a1628c2978d1ef7cdb473addd|retrying docker push in travis now repo name exists in dockerhub|Thu, 6 Oct 2016 16:46:12 +0100|Thu, 6 Oct 2016 16:46:12 +0100
+1ddc75294f0bd1f52942762361f6b1c4e836c2dd|s/PASS/PASSWORD/ in travis file|Thu, 6 Oct 2016 16:38:08 +0100|Thu, 6 Oct 2016 16:38:08 +0100
+0377e2825d144866c0f0f813c0ac40b94972c568|first cut at doing docker-push in travis file|Thu, 6 Oct 2016 16:34:18 +0100|Thu, 6 Oct 2016 16:34:18 +0100
+d45954b27f3a86c05c7c6293c1693fc81b0ae953|switch from cyberdojo/user-base image to commander in cyber-dojo.rb script|Thu, 6 Oct 2016 11:09:32 +0100|Thu, 6 Oct 2016 11:09:32 +0100
+52d7a61fb1828f8542201fcd5ae1e9bcb8c814ff|switch to use bash in main cyber-dojo script as bash is installed in Docker-Toolbox for Windows|Thu, 6 Oct 2016 10:59:31 +0100|Thu, 6 Oct 2016 10:59:31 +0100
+827c1ba7c03372e6b992d8194c6c0d5f5ee06e49|pipe to dev/null so we don't see katas data-volume's cid|Thu, 6 Oct 2016 08:43:17 +0100|Thu, 6 Oct 2016 08:43:17 +0100
+9728575b6a9a68a80d29fee4ca05beafe1913e2a|avoid using cyberdojo/user-base as base image in script|Thu, 6 Oct 2016 08:37:33 +0100|Thu, 6 Oct 2016 08:37:33 +0100
+636de530d75b2d924c545562a619f7a6c3695ace|move [if =sh] test to top|Thu, 6 Oct 2016 08:28:18 +0100|Thu, 6 Oct 2016 08:28:18 +0100
+1e82f1ea7748672b617dc9558c5a1d39af1f42a0|add set -x to start debugging failing travis|Thu, 6 Oct 2016 08:20:17 +0100|Thu, 6 Oct 2016 08:20:17 +0100
+3bbee118c7f7405763c1f5f4e61cfd2c756f24aa|refactoring|Thu, 6 Oct 2016 08:17:08 +0100|Thu, 6 Oct 2016 08:17:08 +0100
+4e8c541d8ac929b63b0f6f94cdf4130a1f8b25f3|refactoring; remove dead file|Thu, 6 Oct 2016 08:10:06 +0100|Thu, 6 Oct 2016 08:10:06 +0100
+3d4bdb85ed0ca141522d7c4e6024038a8cfef922|various refactorings|Thu, 6 Oct 2016 08:07:16 +0100|Thu, 6 Oct 2016 08:07:16 +0100
+458e9228b190d441ec8eeed8d5979c6c227e6ddb|add word then to cyber-dojo script function names|Thu, 6 Oct 2016 07:16:32 +0100|Thu, 6 Oct 2016 07:16:32 +0100
+263ab46583cd2791f2df227997a7e7888be7039d|notes update|Wed, 5 Oct 2016 22:04:27 +0100|Wed, 5 Oct 2016 22:04:27 +0100
+9253cdf24a8b3383a615e27d7f11066f68afb5f7|remove comment|Wed, 5 Oct 2016 20:14:37 +0100|Wed, 5 Oct 2016 20:14:37 +0100
+eb0bc743a24586f2e860b67fccf0db7eba733e0d|docker create requires sh and then docker start|Wed, 5 Oct 2016 20:11:24 +0100|Wed, 5 Oct 2016 20:11:24 +0100
+e06f0ccec2d9fd7325368e45aee3b957fc6e1ce6|more (pre)refactoring|Wed, 5 Oct 2016 19:10:56 +0100|Wed, 5 Oct 2016 19:10:56 +0100
+b7afa6ef8ea6ecba9437f0b222d626b13459346d|refactoring cyber-dojo script|Wed, 5 Oct 2016 18:37:32 +0100|Wed, 5 Oct 2016 18:37:32 +0100
+d14ba28de7b7a880dfcb15c586c2c473742f9ca8|refactoring|Tue, 4 Oct 2016 22:10:07 +0100|Tue, 4 Oct 2016 22:10:07 +0100
+c6f61a0fca300f52924a36e7af83f0bbf33af3fc|[ci skip] remove comment|Mon, 3 Oct 2016 18:21:05 +0100|Mon, 3 Oct 2016 18:21:05 +0100
+84a065e72a93f55882c13147dfef090e6f93e4b1|[ci skip] notes/comment update|Mon, 3 Oct 2016 18:17:15 +0100|Mon, 3 Oct 2016 18:17:15 +0100
+600649c0cc751c8d98c033ef6f928c22325683ff|started adding [start-point create --dir=DIR] back into cyber-dojo script|Sun, 2 Oct 2016 20:51:31 +0100|Sun, 2 Oct 2016 20:51:31 +0100
+bf414d1fe3e5a3bcd2e7738c877b9a2fa396f305|dont delegate to web server to run cyber-dojo.rb|Sun, 2 Oct 2016 18:13:18 +0100|Sun, 2 Oct 2016 18:13:18 +0100
+fb73fb88a3536d64979a6a62950f45a0661225b8|deleted dead sh code|Sun, 2 Oct 2016 13:56:19 +0100|Sun, 2 Oct 2016 13:56:19 +0100
+b6f18d6e4f10a570a9c331fb4368cafe4245769c|[ci skip] notes update|Sat, 1 Oct 2016 12:51:14 +0100|Sat, 1 Oct 2016 12:51:14 +0100
+24db7c95a46f2d5c216f6e3263043c1bfa1ceb20|handle update a bit more carefully|Sat, 1 Oct 2016 09:35:20 +0100|Sat, 1 Oct 2016 09:35:20 +0100
+3f97853d7a999b3d1c3a2ef8ca81d34a4f57893d|dont handle start-point create --dir=DIR locally|Sat, 1 Oct 2016 09:11:49 +0100|Sat, 1 Oct 2016 09:11:49 +0100
+d2a2ca9589dba289952d08fcafe4d034e8b6b2cf|[ci skip] notes edit|Sat, 1 Oct 2016 08:54:45 +0100|Sat, 1 Oct 2016 08:54:45 +0100
+75d9222b1d7227c964268de886a306533dc97439|[ci skip] notes file rename|Sat, 1 Oct 2016 08:52:50 +0100|Sat, 1 Oct 2016 08:52:50 +0100
+a766fe4141ae95f071d5280614e04567d5a5e136|working on cyber-dojo script. save point|Sat, 1 Oct 2016 08:48:25 +0100|Sat, 1 Oct 2016 08:48:25 +0100
+817891ce22054cbdbeffe64c5de885a148be104b|[ci skip] added notes on how to clone only part of a git repo|Sat, 1 Oct 2016 07:19:05 +0100|Sat, 1 Oct 2016 07:19:05 +0100
+a1adead333c8f27686c51de5e19bdcb13601a1d0|install git in Dockerfile so start-point create can do git clone|Sat, 1 Oct 2016 07:03:24 +0100|Sat, 1 Oct 2016 07:03:24 +0100
+99ef0ad927d725f2db55ddb97d3b5f714edcd0ca|refactoring; dont install bash until its needed|Sat, 1 Oct 2016 01:38:27 +0100|Sat, 1 Oct 2016 01:38:27 +0100
+d5a14bc0c22619ad3f4c70e185bd90d14944890a|refactoring; put command-line args at top of install.sh|Sat, 1 Oct 2016 01:30:34 +0100|Sat, 1 Oct 2016 01:30:34 +0100
+986e8b97d04a61f6741613c4b2fca2944b60c06a|seeing if there is a simpler way to avoid needing sync|Sat, 1 Oct 2016 01:24:09 +0100|Sat, 1 Oct 2016 01:24:09 +0100
+20040638c2f14bc74e573c08a0646c24a6599a22|trying sync to avoid 'text file busy' error|Sat, 1 Oct 2016 01:15:38 +0100|Sat, 1 Oct 2016 01:15:38 +0100
+f9c3f3b442b24932530efdd4987363f241821c89|debugging failing build|Sat, 1 Oct 2016 01:09:40 +0100|Sat, 1 Oct 2016 01:09:40 +0100
+eb33a9bbb66369bfc662fc7906576ae72c20790f|refactoring; move Dockerfile commands into script|Sat, 1 Oct 2016 01:01:08 +0100|Sat, 1 Oct 2016 01:01:08 +0100
+42a931105875001810cea15c37ef85c8d6a0718f|refactoring; remove duplication in Dockerfile, remove dead Gemfile|Sat, 1 Oct 2016 00:44:52 +0100|Sat, 1 Oct 2016 00:44:52 +0100
+84edf651f8075a4b6c04dd6c767fd735dd706f37|refactoring; add .dockerignore and tidy up Dockerfile|Sat, 1 Oct 2016 00:37:47 +0100|Sat, 1 Oct 2016 00:37:47 +0100
+ca51623f7c979a28cb975cfe3020bff0ba33ae30|refactoring; delete unneeded commands from Dockerfile|Sat, 1 Oct 2016 00:28:54 +0100|Sat, 1 Oct 2016 00:28:54 +0100
+a3752e194c388e6ad1dc4478ae6af663c50d3e08|refactoring; simplify json gem install in Dockerfile|Fri, 30 Sep 2016 23:01:45 +0100|Fri, 30 Sep 2016 23:01:45 +0100
+4dec5d38dc044341ed1927de99805ca920c5ab8b|refactoring; use non-native json gem for faster build|Fri, 30 Sep 2016 22:58:35 +0100|Fri, 30 Sep 2016 22:58:35 +0100
+0e2a6f24cc2acfee2cfa64208640df82e9c377d7|refactoring; delete dead comments and create delegate()|Fri, 30 Sep 2016 22:38:20 +0100|Fri, 30 Sep 2016 22:38:20 +0100
+b0226e6beec372c79c57f5ec8710270ec13be6d3|add travis to top of readme|Fri, 30 Sep 2016 22:10:21 +0100|Fri, 30 Sep 2016 22:10:21 +0100
+16e75c2ee299b42aba1d1856e4512e87938aa44c|initial .travis.yml file|Fri, 30 Sep 2016 22:04:22 +0100|Fri, 30 Sep 2016 22:04:22 +0100
+4760ff227bb3c941250dcf8dd9afb0efd8a2aad0|readme tweak|Fri, 30 Sep 2016 22:00:40 +0100|Fri, 30 Sep 2016 22:00:40 +0100
+685e069fc8cae8cadc627ccf22d8ca687c52f80b|Create README.md|Fri, 30 Sep 2016 21:59:57 +0100|Fri, 30 Sep 2016 21:59:57 +0100
+5327a38f2445ca1ffe93997506abdcff24e8c4dc|initial commit|Fri, 30 Sep 2016 21:57:19 +0100|Fri, 30 Sep 2016 21:57:19 +0100

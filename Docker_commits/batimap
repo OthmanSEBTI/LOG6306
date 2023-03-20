@@ -1,0 +1,7 @@
+,repo_name,sha,message
+1938,batimap,ef318333fc23c456b347720fbd044a9ca3bc6009,refactor: store docker volumes in a single data/ root folder
+2116,batimap,3cdfc1f3a3700f1801dd0f625e0ce0affbc5eccd,Merge branch 'refactor_backend_dockerfile' into 'master'
+2117,batimap,e8e8302ba31905c281f3d17c55d36e895c70040d,refactor(backend): use gunicorn instead of flask and reduce docker image weight
+2121,batimap,11ed7e485161678cf8350467cffe06af94dcd4a6,refactor(CI): use same tasks for all docker images build
+2290,batimap,a9602a9c6aa79da3b10853b7200b255fc945ada0,refactor(docker): rename postgis-init container to initializer
+2404,batimap,15ff277694b96ed05f204ae6df7e752298549518,refactor: configure docker-compose for dev

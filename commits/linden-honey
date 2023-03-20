@@ -1,0 +1,256 @@
+b64b8ee9acd47cb29e83dd8536fba9193b21944a|chore: update gitignore|Fri, 11 Feb 2022 02:07:25 +0300|Fri, 11 Feb 2022 02:07:25 +0300
+768b9376d4434f21ebe6a6b52c35f7f4f4a58ff2|docs: update readme|Fri, 11 Feb 2022 01:52:32 +0300|Fri, 11 Feb 2022 01:52:32 +0300
+d7bd2113a49d1810967a956ca56f538aeba86dfe|refactor(docker): improve compose|Fri, 11 Feb 2022 01:47:08 +0300|Fri, 11 Feb 2022 01:47:08 +0300
+36830b452b7e8f13cef80bf9b18e6e9ad2211b72|refactor: project renaming (#34)|Tue, 8 Feb 2022 01:32:37 +0300|Tue, 8 Feb 2022 20:15:01 +0300
+fc76b9edcda474091684a5c34294c2125673d23b|Merge branch 'release/1.5.4'|Wed, 15 Jan 2020 14:42:28 +0300|Wed, 15 Jan 2020 14:42:28 +0300
+6c96aa9da2c8e981775489cfb74484169f853335|chore: bump version|Wed, 15 Jan 2020 14:42:17 +0300|Wed, 15 Jan 2020 14:42:17 +0300
+c1f06fbd59c2945d5c29f8dc3e4ca79c47f19919|test(env): change random method|Wed, 15 Jan 2020 14:38:23 +0300|Wed, 15 Jan 2020 14:38:23 +0300
+5f564ed4adbfb43f5bb9d9b15af9e53faf028f43|Merge branch 'release/1.5.3' into develop|Wed, 15 Jan 2020 14:28:41 +0300|Wed, 15 Jan 2020 14:28:41 +0300
+5e2b21a098ee550bc36c5697d0b9b37709767568|Merge branch 'release/1.5.3'|Wed, 15 Jan 2020 14:28:30 +0300|Wed, 15 Jan 2020 14:28:30 +0300
+29f115796237d9edc3b9bd7fa0f442510d722efc|chore: bump version|Wed, 15 Jan 2020 14:28:18 +0300|Wed, 15 Jan 2020 14:28:18 +0300
+1a6d40482488a34a419c727475efb9dad199c321|Merge branch 'feature/improvements' into develop|Wed, 15 Jan 2020 14:24:48 +0300|Wed, 15 Jan 2020 14:24:48 +0300
+55d36c677600da8121799038200c5810d66e01cf|test(env): fix key|Tue, 14 Jan 2020 18:31:28 +0300|Tue, 14 Jan 2020 19:28:56 +0300
+2942b15a6e56bf87b8380bf598db6eae012b3f9c|refactor(docs.openapi): fix default values|Tue, 14 Jan 2020 17:17:00 +0300|Tue, 14 Jan 2020 17:17:00 +0300
+b46676d51bc4df0baad39a1a6fee1bd43da5b814|refactor(docs.openapi): describe missing params|Tue, 14 Jan 2020 17:11:12 +0300|Tue, 14 Jan 2020 17:11:12 +0300
+4982b80f069b7a2e4418fe8b6a426cc22a019aa8|refactor(docs.openapi): fix schema|Tue, 14 Jan 2020 16:54:07 +0300|Tue, 14 Jan 2020 16:54:07 +0300
+9fd5739ecd7002498d4b28da233a612d6426bffe|refactor(docker.compose): fix db uri|Tue, 14 Jan 2020 16:52:44 +0300|Tue, 14 Jan 2020 16:52:44 +0300
+43e72afbf81ef2a50ae7ee3e1e8b933262a2df3b|refactor(docs.openapi): rename file|Tue, 14 Jan 2020 16:41:46 +0300|Tue, 14 Jan 2020 16:41:46 +0300
+29ed8c05b739a23775c34a834e0d1ffd3563a154|Merge branch 'hotfix/1.5.2' into develop|Fri, 10 Jan 2020 17:02:30 +0300|Fri, 10 Jan 2020 17:02:30 +0300
+821072d0ce7f07d0c890e755368c71bde22b4938|Merge branch 'hotfix/1.5.2'|Fri, 10 Jan 2020 17:02:18 +0300|Fri, 10 Jan 2020 17:02:18 +0300
+5fdae2d385090194cc3b8d02ef934bf770e65ec2|chore: bump version|Fri, 10 Jan 2020 17:02:05 +0300|Fri, 10 Jan 2020 17:02:05 +0300
+243726f40ecdc52f398e9727faec4f132379cf4a|test(env): use different assert for errors|Fri, 10 Jan 2020 16:56:25 +0300|Fri, 10 Jan 2020 16:56:25 +0300
+18c7bed46b83947d1354cde37220d0e860edfa9a|Merge branch 'release/1.5.1' into develop|Fri, 10 Jan 2020 16:34:05 +0300|Fri, 10 Jan 2020 16:34:05 +0300
+c3fd81f80caa32e0978022ccdb4d3ee15ab16c08|Merge branch 'release/1.5.1'|Fri, 10 Jan 2020 16:32:19 +0300|Fri, 10 Jan 2020 16:32:19 +0300
+6938a26ef510ad381e3f1c0766b6e2c432897da8|chore: bump version|Fri, 10 Jan 2020 16:31:22 +0300|Fri, 10 Jan 2020 16:31:22 +0300
+daec1ebe71a3dfd589da1b5f1d3f36df968f05a2|Merge branch 'feature/improvements' into develop|Fri, 10 Jan 2020 16:29:29 +0300|Fri, 10 Jan 2020 16:29:29 +0300
+d23d8e4b362e6bd49035ebb7d5c78022bb2ec56b|refactor(docs): update spec|Fri, 10 Jan 2020 16:25:08 +0300|Fri, 10 Jan 2020 16:25:08 +0300
+11839c92d103b7a2be9585fb5b60489a81e81fb5|refactor(repositories.song): rename _id to id|Fri, 10 Jan 2020 16:21:50 +0300|Fri, 10 Jan 2020 16:21:50 +0300
+0669356bc086b556c0c771e8ee6c7f65686fce52|refactor(repositories): improvements|Fri, 10 Jan 2020 16:00:53 +0300|Fri, 10 Jan 2020 16:00:53 +0300
+af51ef29adf6c348f62333fda8a4df52a1a481bf|fix config import|Fri, 10 Jan 2020 14:31:27 +0300|Fri, 10 Jan 2020 14:31:27 +0300
+6e855f92f12d21f86eeb8f54199939082dbaa65e|refactor(utils.config): split into two modules|Thu, 9 Jan 2020 18:55:31 +0300|Thu, 9 Jan 2020 18:55:31 +0300
+3ed99cdd710b790ced3c8323774a150bb0167272|refactor: rerange routes declaration|Thu, 9 Jan 2020 12:51:57 +0300|Thu, 9 Jan 2020 12:51:57 +0300
+09783c856b5dfcca8ead092f0565bf1bf3474394|chore(heroku): update procfile|Wed, 8 Jan 2020 19:19:17 +0300|Wed, 8 Jan 2020 19:19:17 +0300
+8bf6341354e89071af1e9e7dce0c7adca68e0a93|chore: bump version|Wed, 8 Jan 2020 18:46:43 +0300|Wed, 8 Jan 2020 18:46:43 +0300
+582cbd497931857ead5ba5a8d403ae1cde76c4ae|docs: update readme|Wed, 8 Jan 2020 18:31:58 +0300|Wed, 8 Jan 2020 18:31:58 +0300
+a2927db6b195f0e4707a5709c8915a78f44bd0ea|docs: update readme|Wed, 8 Jan 2020 18:12:11 +0300|Wed, 8 Jan 2020 18:12:11 +0300
+bca0844fe2d18591764cacbc379b604f2d66c233|docs: update readme|Wed, 8 Jan 2020 18:04:09 +0300|Wed, 8 Jan 2020 18:04:09 +0300
+8fb2dc6cdefb034c9a8aa32ee8dc7b02e31f3b98|refactor(docker): update compose|Wed, 8 Jan 2020 18:03:21 +0300|Wed, 8 Jan 2020 18:03:21 +0300
+f20bb5f7365d51cd5cf530870aaaf08c0d776bca|feat(docs): update open api spec|Mon, 30 Dec 2019 15:29:43 +0300|Mon, 30 Dec 2019 15:29:43 +0300
+149cb2768a537ead98659eeee80183f35871f72c|refactor: fix lints|Mon, 30 Dec 2019 14:11:39 +0300|Mon, 30 Dec 2019 14:11:39 +0300
+c80003d50488444f309d2cef1887081d7ee84a5e|chore(lint): update rules for spec|Mon, 30 Dec 2019 14:11:30 +0300|Mon, 30 Dec 2019 14:11:30 +0300
+70361327a6a1eeb50fb1d2df039d2c209f90ef55|test(utils.db): add spec|Mon, 30 Dec 2019 13:51:23 +0300|Mon, 30 Dec 2019 13:51:23 +0300
+72df13f6b79e6825c80661a751163bf86bc79d4c|test(utils.pageable): add spec|Mon, 30 Dec 2019 13:44:25 +0300|Mon, 30 Dec 2019 13:44:25 +0300
+51eaaf593dfa30b8803deb348b2b35d7c4921e0a|refactor(utils.pageable): export default state|Mon, 30 Dec 2019 13:44:07 +0300|Mon, 30 Dec 2019 13:44:07 +0300
+32ee6f25f12b5dcba8184ac20a9ba536e6a35239|refactor(docker): add node_env|Fri, 27 Dec 2019 19:57:54 +0300|Fri, 27 Dec 2019 19:57:54 +0300
+0a3ea3711eff9b856cebc23640bf6bdb5018dcf4|fix(docker): compose port mapping|Fri, 27 Dec 2019 19:56:47 +0300|Fri, 27 Dec 2019 19:56:47 +0300
+0a6b3d25ca46037bb52bf666b53cff3f8a5d8768|refactor(song): use new pageable|Fri, 27 Dec 2019 16:03:46 +0300|Fri, 27 Dec 2019 16:03:46 +0300
+2a21a6a8793c92ee84605e68ae1311448ec7facb|refactor(controllers.quote): use pageable|Thu, 26 Dec 2019 19:28:12 +0300|Thu, 26 Dec 2019 19:28:12 +0300
+ec50996bc64951f7353b56eb7f2a960f4f426119|feat(repository.quotes): use pageable|Thu, 26 Dec 2019 19:27:37 +0300|Thu, 26 Dec 2019 19:27:37 +0300
+eba6348655e868a62c56c97574f8e49ab996b896|feat(utils): implement pageable helper|Thu, 26 Dec 2019 19:26:40 +0300|Thu, 26 Dec 2019 19:26:58 +0300
+b26e99bcf5c984e81a693439aa04422f0d7719a1|refactor(utils.db): improvements|Thu, 26 Dec 2019 16:38:28 +0300|Thu, 26 Dec 2019 16:38:28 +0300
+d46e35975253c99111b315210e2403e5e31e632a|feat(web): handle async errors|Thu, 26 Dec 2019 13:15:56 +0300|Thu, 26 Dec 2019 14:41:43 +0300
+83854100b0b7b49c63d65d9659454c1b7c490de2|refactor(repositories): use objectid|Tue, 24 Dec 2019 17:19:41 +0300|Tue, 24 Dec 2019 17:19:41 +0300
+21e714319c26a8c832a1a54eff1a82c70ec7f73b|refactor(repositories): use class properties|Tue, 24 Dec 2019 17:13:03 +0300|Tue, 24 Dec 2019 17:13:03 +0300
+8c97102132feb81e3507d817f8bca6c0b6af634b|refactor(repository): use native mongo client|Tue, 24 Dec 2019 17:10:14 +0300|Tue, 24 Dec 2019 17:10:14 +0300
+6ccfdc4495f7e5130eb23e44b3a2162dcc205341|test(validation): add spec|Tue, 24 Dec 2019 15:07:18 +0300|Tue, 24 Dec 2019 15:08:13 +0300
+5c2de084c182d4ef22e4db9aa1490643cf59942e|refactor: rewrite to expressjs|Mon, 23 Dec 2019 20:17:38 +0300|Tue, 24 Dec 2019 14:00:43 +0300
+5126ec88aedc507cf462f6a660fba50d8c762890|refactor(docker): update db container name|Mon, 23 Dec 2019 20:17:13 +0300|Mon, 23 Dec 2019 20:17:13 +0300
+bc8c1126d1fb1b71c2ac97f37ba8ed04e396b012|feat: add oas|Mon, 23 Dec 2019 19:43:10 +0300|Mon, 23 Dec 2019 19:43:10 +0300
+ec7a23b5378892d59ba946e3e7e6710aeec6fafc|refactor(utls.config): use self-writen config|Mon, 23 Dec 2019 19:29:32 +0300|Mon, 23 Dec 2019 19:29:32 +0300
+6127ca53fe90611671e7cddfd0c56525e51658d4|refactor: remove path contants|Mon, 23 Dec 2019 19:27:02 +0300|Mon, 23 Dec 2019 19:27:02 +0300
+414b302cbb18471ee02ea76a9a7c9c2d480cb107|refactor: remove parser/scraper|Mon, 23 Dec 2019 19:26:32 +0300|Mon, 23 Dec 2019 19:26:32 +0300
+d17c320afeeae63915ff4b89e73a375ee4d5eeea|refactor: remove db migrations|Mon, 23 Dec 2019 19:25:59 +0300|Mon, 23 Dec 2019 19:25:59 +0300
+43c407975d992c7d325870f9a3a7baaa0a350538|chore(ci): add github actions wf|Mon, 23 Dec 2019 19:20:57 +0300|Mon, 23 Dec 2019 19:20:57 +0300
+f2b00112fdf3b94df8f853bb1b5b2326c00eadba|chore: delete yarn shit|Mon, 23 Dec 2019 19:19:55 +0300|Mon, 23 Dec 2019 19:19:55 +0300
+3b23b4c095ba901c97ab7d91127a85105536ad8b|refactor(docker): updates|Mon, 23 Dec 2019 19:15:05 +0300|Mon, 23 Dec 2019 19:19:26 +0300
+cd24ed9ddb9a26e58a0d0ddeac1f13a99723b8d8|chore(lint): update eslint config|Mon, 23 Dec 2019 19:06:35 +0300|Mon, 23 Dec 2019 19:06:35 +0300
+219680aeb32af1f1ed684d8d920a82a1583b3312|refactor: update package.json|Mon, 23 Dec 2019 19:06:22 +0300|Mon, 23 Dec 2019 19:06:22 +0300
+8570f58844e211bd2473d1aeff07c6521bf3ca6e|chore: update gitignore|Mon, 23 Dec 2019 19:01:47 +0300|Mon, 23 Dec 2019 19:01:47 +0300
+1e5592ee7e91b25269f710ccfa5a9b5c5240dffb|docs: update readme|Mon, 23 Dec 2019 19:01:14 +0300|Mon, 23 Dec 2019 19:01:14 +0300
+fdf3886598ddcaecebcd22821698bd0eb8cfb1e9|Merge branch 'release/1.4.0' into dev|Thu, 22 Nov 2018 17:02:33 +0300|Thu, 22 Nov 2018 17:02:33 +0300
+add9328eae856888834ff774d72a3957de8d3662|chore(package): bump version|Thu, 22 Nov 2018 17:02:11 +0300|Thu, 22 Nov 2018 17:02:11 +0300
+e471e278bc1a96a1dfc2c5bc7a4f44df90304731|Merge branch 'feature/stack-upgrade' into dev|Thu, 22 Nov 2018 17:00:30 +0300|Thu, 22 Nov 2018 17:00:30 +0300
+80637e195560c5899c52b6427a14d774a91792ab|docs(readme): update node badge|Thu, 22 Nov 2018 16:58:49 +0300|Thu, 22 Nov 2018 16:58:49 +0300
+ed045274463d2135be40ba3ca93520da378dbde0|feat(package): bump deps versions|Thu, 22 Nov 2018 16:58:33 +0300|Thu, 22 Nov 2018 16:58:33 +0300
+93ce1b9511f73dd7fae99de4b1a9c9723282d7d5|Merge branch 'hotfix/1.3.4' into dev|Fri, 16 Nov 2018 17:35:57 +0300|Fri, 16 Nov 2018 17:35:57 +0300
+9272c3b5609412d486c264e273436f6cbf86d9bf|chore(package): bump version|Fri, 16 Nov 2018 17:35:32 +0300|Fri, 16 Nov 2018 17:35:32 +0300
+665e431ff0f38a203f8570ca7040bcbac8c0e594|fix(repositories.song): replace old ref|Fri, 16 Nov 2018 17:35:11 +0300|Fri, 16 Nov 2018 17:35:11 +0300
+7d27ab50bd729ce0be74c600673b525f1397cd34|Merge branch 'hotfix/1.3.3'|Fri, 16 Nov 2018 17:23:33 +0300|Fri, 16 Nov 2018 17:23:33 +0300
+23c6097f6d8f79ead2113f19004a04268a1eff3c|chore(package): bump version|Fri, 16 Nov 2018 17:23:04 +0300|Fri, 16 Nov 2018 17:23:04 +0300
+0cbe1ffd7a8d2fc25c3e61b02a5c4c1797a122c8|fix(controllers): use auto-bind|Fri, 16 Nov 2018 17:22:20 +0300|Fri, 16 Nov 2018 17:22:20 +0300
+9adf6c8ad09f653b3bd7ee501731876b05d598d9|Merge branch 'hotfix/1.3.2'|Fri, 16 Nov 2018 16:46:24 +0300|Fri, 16 Nov 2018 16:47:53 +0300
+b64403baf9cbc848d17ccd52a01d01f95b8f6c6c|fix(index): link dependencies|Fri, 16 Nov 2018 16:45:40 +0300|Fri, 16 Nov 2018 16:45:40 +0300
+fe0e03e0155b00dd76da8379fa1b4686c27fada8|Merge branch 'hotfix/1.3.1'|Fri, 16 Nov 2018 16:29:05 +0300|Fri, 16 Nov 2018 16:29:05 +0300
+52ab9dc54aadbb8eb9adfa326662a0d6af21a847|fix(constrollers): remove static constants|Fri, 16 Nov 2018 16:27:57 +0300|Fri, 16 Nov 2018 16:27:57 +0300
+2bd2bdbafd01c7bce2603d038cdebd9f0245d616|chore(package.json): bump version|Fri, 16 Nov 2018 16:20:52 +0300|Fri, 16 Nov 2018 16:20:52 +0300
+310d99fff098c2b2598da9a1352d4327e3f984b6|Merge branch 'release/1.3.0' into dev|Fri, 16 Nov 2018 15:31:27 +0300|Fri, 16 Nov 2018 15:31:27 +0300
+214a9eeb68067567322e9a80cd5e76434070213e|chore(*): bump version|Fri, 16 Nov 2018 15:25:14 +0300|Fri, 16 Nov 2018 15:25:14 +0300
+4129ba0c8d8a5628c9215a267302240cb2c15699|Merge branch 'feature/repositories' into dev|Fri, 16 Nov 2018 15:23:50 +0300|Fri, 16 Nov 2018 15:23:50 +0300
+73e5ff7e1e1f8672f09a2a0e8f311a104e59afac|chore(ci): use fixed node version|Fri, 16 Nov 2018 11:40:37 +0300|Fri, 16 Nov 2018 11:42:03 +0300
+61bb6817691401d4079e4369a29b07fe1e6e2463|chore(*): bump required nodejs version|Thu, 15 Nov 2018 16:43:04 +0300|Fri, 16 Nov 2018 11:41:35 +0300
+7285a01686dc487f2141dab3e8925a046d3bb355|refactor(*): small fixes|Thu, 15 Nov 2018 16:40:44 +0300|Fri, 16 Nov 2018 11:41:22 +0300
+131b62b35f967d90f37b8be1a91a7ea556fabb67|refactor(contollers): simplification|Thu, 15 Nov 2018 16:31:00 +0300|Fri, 16 Nov 2018 11:41:13 +0300
+9afbe746c6e5fa45d0beedb170a0e3a13f80492c|Merge branch 'release-1.2'|Wed, 21 Mar 2018 14:28:34 +0300|Thu, 15 Nov 2018 16:30:04 +0300
+c88a98b2745d2384f3075a2506035606fea8edad|chore(*): bump version to 1.2|Wed, 21 Mar 2018 14:27:35 +0300|Wed, 21 Mar 2018 14:27:35 +0300
+3dc171ae7f907f1e544009116dd086218aa475bc|Merge branch 'feature/refactoring' into dev|Wed, 14 Mar 2018 12:15:33 +0300|Wed, 14 Mar 2018 12:15:33 +0300
+cf72ddac6d696ebb2fbae4b00c4f7507bb3f212f|refactor(props): organize scrapers props|Wed, 14 Mar 2018 12:05:20 +0300|Wed, 14 Mar 2018 12:05:20 +0300
+78e8647efd84cb07add04ecf13f0e0fbae7c6072|refactor(scraper): improve codebase and structure|Tue, 13 Mar 2018 16:33:25 +0300|Tue, 13 Mar 2018 16:33:25 +0300
+653b97dbcd7ecfb64400cd8b5d89b564a70932d7|refactor(scraper): improve validation code|Tue, 13 Mar 2018 12:28:45 +0300|Tue, 13 Mar 2018 12:28:45 +0300
+e92a2cf50749283acc0212aa845e8f83bf367276|refactor(structure): move scraper to services|Tue, 13 Mar 2018 12:07:36 +0300|Tue, 13 Mar 2018 12:07:36 +0300
+2de6a28c2e140f017885321c30811675ef5a4eec|test(global): use *.spec.js pattern|Tue, 13 Mar 2018 11:57:47 +0300|Tue, 13 Mar 2018 11:57:47 +0300
+aa25b950e8e595ef8c5fc7db4fa4ced6c1edabc7|Merge branch 'feature/updates' into dev|Mon, 12 Mar 2018 16:43:27 +0300|Mon, 12 Mar 2018 16:43:27 +0300
+b0f0ada170c0f37cdcbddfab25ca376cb082a546|fix(scraper): handle encoding conversion && filter blank quotes|Mon, 12 Mar 2018 16:42:48 +0300|Mon, 12 Mar 2018 16:42:48 +0300
+6d48db48a63bf4f031539e03ef571e108ffa43c1|feat(structure): update docker compose & config structure|Mon, 12 Mar 2018 15:34:58 +0300|Mon, 12 Mar 2018 15:34:58 +0300
+a34e54ac735e460d0f269848c7a93a7645047b13|feat(global): update dependencies|Mon, 12 Mar 2018 15:16:25 +0300|Mon, 12 Mar 2018 15:16:25 +0300
+cb00fb6b134c3a31620493fa5d9fd68e1c4d3819|refactor(search): handle cases with empty query string|Sat, 14 Oct 2017 15:59:55 +0300|Sat, 14 Oct 2017 15:59:55 +0300
+2b8fd819c5a0947439346c4512bbbf3d41acf264|feat(project): update dependencies|Sat, 14 Oct 2017 15:43:48 +0300|Sat, 14 Oct 2017 15:43:48 +0300
+e79875e141671eedb6fa0a133aa1487796183607|refactor(project): tune lints & package.json|Sat, 14 Oct 2017 15:36:30 +0300|Sat, 14 Oct 2017 15:36:30 +0300
+7d5cf21dda3ec886c3340950e3756f9c615407a2|chore(lint): tune eslint config - remove hardcoded globals|Sat, 14 Oct 2017 14:06:34 +0300|Sat, 14 Oct 2017 14:06:34 +0300
+ffe65778ad448a1d7e8639c99e3432eaaceeb17d|refactor(rest): refine more api methods|Sat, 14 Oct 2017 00:27:12 +0300|Sat, 14 Oct 2017 00:27:12 +0300
+8306af8d21eee882897496b24d2000c087edd750|refactor(rest): refine api - bring up search resource|Fri, 13 Oct 2017 23:40:02 +0300|Fri, 13 Oct 2017 23:40:02 +0300
+38585042c0473561a44f44ba7a736b1d2ff388d3|refactor(query.random): improve performance|Fri, 13 Oct 2017 22:43:14 +0300|Fri, 13 Oct 2017 22:43:14 +0300
+45a3bfc0f703df3e084630a2a197dd939a4a8157|code formating|Wed, 20 Sep 2017 20:10:17 +0300|Wed, 20 Sep 2017 20:10:17 +0300
+395dd32dbee4ce224e0d068df217e9eae5876c7f|fix(scraper): router config evaluation|Wed, 20 Sep 2017 20:09:52 +0300|Wed, 20 Sep 2017 20:09:52 +0300
+522a489900a2e498def45a8989e054e285671036|refactor(search): fix songs default order|Wed, 20 Sep 2017 19:50:07 +0300|Wed, 20 Sep 2017 19:50:07 +0300
+dbacf557d88f2c2dd117cf1572840105cdb868df|refactor(db): remove redundant log|Wed, 20 Sep 2017 19:23:17 +0300|Wed, 20 Sep 2017 19:23:17 +0300
+ca02bde5fb3f907053d031a1139254ce77aaafd2|Merge pull request #19 from linden-honey/refine-api|Wed, 20 Sep 2017 19:14:39 +0300|Wed, 20 Sep 2017 19:14:39 +0300
+c10410b3f56d6a711d0cab13730075a1aa69fc73|refactor(search): re-implement quotes search|Wed, 20 Sep 2017 19:11:44 +0300|Wed, 20 Sep 2017 19:11:44 +0300
+2af0b7a7574838b031ab1db4558e2a4abd792a40|refactor(deploy): do not run migration|Wed, 20 Sep 2017 18:58:01 +0300|Wed, 20 Sep 2017 18:58:01 +0300
+5e2c6c3694f6ccb5fa8daf15a27730be1942742c|feat(api): search quotes from song|Mon, 18 Sep 2017 00:29:12 +0300|Mon, 18 Sep 2017 00:29:12 +0300
+11500bb869c8ef2a413f31528b83a818847f559d|refactor(api): remove redundant methods|Sun, 17 Sep 2017 23:50:55 +0300|Sun, 17 Sep 2017 23:50:55 +0300
+a173893de5186b546199090fb35e698c73fe710f|fix(migration): use native bulk insert|Sun, 17 Sep 2017 21:56:54 +0300|Sun, 17 Sep 2017 21:56:54 +0300
+9c24e0fbf3d4e896f93bc9f9b31dd327c2b93165|refactor(mongo): refine index config|Sun, 17 Sep 2017 20:37:38 +0300|Sun, 17 Sep 2017 20:37:50 +0300
+36b9cf7e9a920c86270c6c92c70211bba523ff0e|refactor(project): update version & yarn lock|Sun, 17 Sep 2017 19:19:02 +0300|Sun, 17 Sep 2017 19:19:02 +0300
+f1c3b61dcba205a20e2b629e02bb80e0ff6b74d4|refactor(heroku): move migrate into build deps|Sun, 17 Sep 2017 18:20:24 +0300|Sun, 17 Sep 2017 18:20:24 +0300
+970fd6dc61163d37925c32ec003b453af90d03c9|refactor(heroku): install deps|Sun, 17 Sep 2017 18:11:56 +0300|Sun, 17 Sep 2017 18:11:56 +0300
+528602176f805df23d24b29d70477cdc4a240d33|refactor(scraper): improve config|Sun, 17 Sep 2017 18:00:54 +0300|Sun, 17 Sep 2017 18:00:54 +0300
+88f920e787e0b3c96aaa4ed08ae6460ed1ef3244|feat(deploy): add migration one more time|Sun, 17 Sep 2017 17:44:37 +0300|Sun, 17 Sep 2017 17:44:37 +0300
+5b9fb443acc83452103b9b457e3ee65855f0a1e1|feat(project): update dependencies|Sun, 17 Sep 2017 17:43:55 +0300|Sun, 17 Sep 2017 17:43:55 +0300
+44c15d6404c829bffafa28a0edd6a8ba3b16aa41|refactor(server): error throwing|Sun, 17 Sep 2017 17:24:41 +0300|Sun, 17 Sep 2017 17:24:41 +0300
+9be01043ab2b7070b4a398441c43483467d954ed|refactor(scraper): song validation|Sun, 17 Sep 2017 17:18:33 +0300|Sun, 17 Sep 2017 17:18:33 +0300
+3945e1eb4142e44043b53d4af631d0368e0b1e3a|fix(parse): lyrics splitting|Sun, 17 Sep 2017 16:54:13 +0300|Sun, 17 Sep 2017 16:54:13 +0300
+3c778eb329a59d478339ddc2f72f4d8644a7f17d|test(chai): make array asserts strict|Sun, 17 Sep 2017 16:41:52 +0300|Sun, 17 Sep 2017 16:41:52 +0300
+ca9bcb856ffa68723392054c0868f7da1f7b937c|Merge branch 'scraper-rewrite'|Sun, 17 Sep 2017 03:04:16 +0300|Sun, 17 Sep 2017 03:04:16 +0300
+23b69fa2f6f402caa42f7bb7057b46991d65b6e2|refactor(migration): remove from procfile & fix model path|Sun, 17 Sep 2017 03:02:31 +0300|Sun, 17 Sep 2017 03:02:31 +0300
+153ea2ec1d9642b4ae4fad6821b91257ab2bc7de|Merge pull request #13 from linden-honey/scraper-rewrite|Sun, 17 Sep 2017 02:48:52 +0300|Sun, 17 Sep 2017 02:48:52 +0300
+7d903dc4cd2f409d08834c5e869f4138d11c7553|refactor(deploy): update heroku script|Sun, 17 Sep 2017 02:45:15 +0300|Sun, 17 Sep 2017 02:45:15 +0300
+b66e646cac944ef0bb0b3914c72b5be3bea4d223|refactor(migration): typo|Sun, 17 Sep 2017 02:22:28 +0300|Sun, 17 Sep 2017 02:22:28 +0300
+d93482010ff7ffaa46683198eb66bbdb1b1a64d8|refactor(scraper): rewrite scraper route config|Sun, 17 Sep 2017 02:16:34 +0300|Sun, 17 Sep 2017 02:16:34 +0300
+8585001d84859d1eb152eda1be7cbd804d1b812a|feat(scraper): controller implementation|Sun, 17 Sep 2017 02:05:41 +0300|Sun, 17 Sep 2017 02:05:41 +0300
+c8b1d935be0288914c5c82019f9bf985ca76fc9f|feat(scraper): basic implementation|Sun, 17 Sep 2017 02:00:45 +0300|Sun, 17 Sep 2017 02:00:45 +0300
+b0bbda2cb80692202da5f7947f3f8172c64c0556|refactor(parser): change preview link selector|Sat, 16 Sep 2017 20:43:20 +0300|Sat, 16 Sep 2017 20:43:20 +0300
+4737c08734df8cfc1314683ec32873ca9115667b|refactor(eslint): add no-var rule|Sat, 16 Sep 2017 20:38:55 +0300|Sat, 16 Sep 2017 20:38:55 +0300
+1006e25117646fcba0bb54aad84d1619a7cb0b1c|test(parser): cover preview parsing|Sat, 16 Sep 2017 20:32:41 +0300|Sat, 16 Sep 2017 20:32:41 +0300
+55c176ad2714ef1e57a071b16b5d9532c900b71f|test(parser): fix typo|Sat, 16 Sep 2017 19:37:32 +0300|Sat, 16 Sep 2017 19:38:13 +0300
+bcb38bd62475f738c0ddb0f8429e04dd8a5319b8|test(parses): add parser unit-tests|Sat, 16 Sep 2017 19:34:29 +0300|Sat, 16 Sep 2017 19:34:29 +0300
+3364833924eb2269fda2331d4aa1e0c28d8e2eea|refactor(parser): improve parser code|Sat, 16 Sep 2017 19:33:22 +0300|Sat, 16 Sep 2017 19:33:22 +0300
+476bcdb92d7a972ff4ee757ecc2d19e9576790a5|refactor(grabber): reimplement parser|Mon, 11 Sep 2017 01:37:35 +0300|Mon, 11 Sep 2017 01:37:35 +0300
+7d496b0bb0443123bda71aa59d490f1331ac756d|docs(reame): add docker examples #12|Sun, 10 Sep 2017 04:11:56 +0300|Sun, 10 Sep 2017 04:11:56 +0300
+997b9137fbb6d3e4110512ac5758d03b938f63f9|docs(readme): fix node url|Sun, 10 Sep 2017 02:33:55 +0300|Sun, 10 Sep 2017 02:33:55 +0300
+94ef74e8727e769c01c69946b8b1d67cffe520a9|docs(readme): update env|Sun, 10 Sep 2017 01:00:54 +0300|Sun, 10 Sep 2017 01:00:54 +0300
+68fc43aac4e5367bfb754ebfa0b3023e297f7d70|docs(readme): fix downloads|Sun, 10 Sep 2017 00:27:58 +0300|Sun, 10 Sep 2017 00:27:58 +0300
+91515d6e23561ae5fa1be7600576038ad4b8ecda|docs(reame):  standardization|Sun, 10 Sep 2017 00:10:10 +0300|Sun, 10 Sep 2017 00:10:10 +0300
+8ef8373af58007bc9c9b68061b210f8da3fe26b9|Merge branch 'master' of github.com:linden-honey/linden-honey|Sat, 24 Jun 2017 21:15:21 +0300|Sat, 24 Jun 2017 21:15:21 +0300
+fdff9f5a3cb0d02278b7840132b7cc8b3745d5e4|style(readme): update build status image|Sat, 24 Jun 2017 21:12:17 +0300|Sat, 24 Jun 2017 21:12:17 +0300
+0b471971fd7378ff8f79eb687822d06787f5e4ab|Update LICENSE|Sat, 24 Jun 2017 19:58:42 +0300|Sat, 24 Jun 2017 19:58:42 +0300
+153031b97c0cc8870921e5943fccbb7447c170fb|fix(constants): quotes api path|Thu, 22 Jun 2017 22:27:11 +0300|Thu, 22 Jun 2017 22:27:11 +0300
+c81420e09248d8f97e3494aecb3766c629100b18|chore(lint): add globals|Sun, 11 Jun 2017 17:07:09 +0300|Sun, 11 Jun 2017 17:07:09 +0300
+23dfa5bdd988c028e5305e7fe8c9bb17718b3673|refactor(docker): update config|Sat, 10 Jun 2017 20:30:45 +0300|Sat, 10 Jun 2017 20:30:45 +0300
+a3f51399d0f52d8af5aa2b45d734585052de5f8d|refactor(config): use shorter namespace|Sat, 10 Jun 2017 20:27:52 +0300|Sat, 10 Jun 2017 20:27:52 +0300
+36896b8b9c9e90e9e11206df0af662cd50a58356|fix(config): fix build|Sat, 10 Jun 2017 19:23:26 +0300|Sat, 10 Jun 2017 19:23:26 +0300
+c1adaf7b5699bb3d94a2f2e037d34da825239c73|refactor(config): create namespace|Sat, 10 Jun 2017 19:08:50 +0300|Sat, 10 Jun 2017 19:08:50 +0300
+4c7fcedb69577e8fe1b8840a82bd372acf8f4203|chore(ci): cache bring up|Sat, 10 Jun 2017 18:44:16 +0300|Sat, 10 Jun 2017 18:44:16 +0300
+933339c305b13cba3dabcb209c7e458e92c37407|refactor(config): make props great again|Sat, 10 Jun 2017 17:49:40 +0300|Sat, 10 Jun 2017 17:49:40 +0300
+3df71a341537d0e92098097d989cc54690d5ec30|refactor(config): remove useless props|Sat, 10 Jun 2017 15:15:53 +0300|Sat, 10 Jun 2017 15:15:53 +0300
+946e61bf74723af3317b74bdb7ccf0cb4bd603eb|refactor(imports): add index to all directories|Fri, 9 Jun 2017 23:55:37 +0300|Fri, 9 Jun 2017 23:55:37 +0300
+2a1ce7ee804ef7581a2c8dff4c80c0d7261e9039|feat(quotes): implement quotes seach|Fri, 9 Jun 2017 23:17:53 +0300|Fri, 9 Jun 2017 23:17:53 +0300
+7eaf1f51967b5996c2013ffb6161736187c15f7e|chore(lint): update eslint config|Sun, 4 Jun 2017 17:12:53 +0300|Sun, 4 Jun 2017 17:12:53 +0300
+92be3449aca303f10bd35d1575ad4280964f275c|chore(readme): update logo|Sun, 4 Jun 2017 16:11:23 +0300|Sun, 4 Jun 2017 16:11:33 +0300
+c5fe9206d9270760f76bb7915c40aaf9902d6c94|chore(readme): update header|Sat, 3 Jun 2017 21:11:00 +0300|Sat, 3 Jun 2017 21:11:00 +0300
+0677e37222d47dde661c506864142bcbab290cd4|refactor(*): updates & props fixes|Fri, 2 Jun 2017 21:17:03 +0300|Fri, 2 Jun 2017 21:17:03 +0300
+02913e76301e3b241760f52a35c28fda5923db92|refactor(docker): reorganize compose services|Sun, 23 Apr 2017 17:56:29 +0300|Sun, 23 Apr 2017 17:56:29 +0300
+22b5e2d09b794ebbb79712dca63016749187e4bc|feat(songs): add pagination support|Sat, 22 Apr 2017 18:46:37 +0300|Sat, 22 Apr 2017 18:46:37 +0300
+715e0f06c07b1ffb538a1fa190fd892e1ef342af|feat(api): add support for all levels of hierarchy|Sat, 22 Apr 2017 18:26:53 +0300|Sat, 22 Apr 2017 18:27:02 +0300
+b20b3b7d00a3c941bc4251e8993a6e60b5e27c76|refactor(router): improve songs-router|Sat, 22 Apr 2017 17:15:50 +0300|Sat, 22 Apr 2017 17:15:50 +0300
+1ffe1de4784153ba926ca7a1258f3aeb6a0678ae|refactor(songs-controller): get random verse from song|Sat, 22 Apr 2017 02:46:14 +0300|Sat, 22 Apr 2017 02:46:14 +0300
+2ccfd570b14199ae3f17b4d1eea81a70f16b225a|feat(config): clean up|Sat, 22 Apr 2017 02:41:05 +0300|Sat, 22 Apr 2017 02:41:05 +0300
+09bd91b67589f176967a07b5d761846ac16620a0|feat(songs): implements search by title|Sat, 22 Apr 2017 02:36:17 +0300|Sat, 22 Apr 2017 02:36:17 +0300
+b06e297c4b0aa9026e450d8c81b24ef3867f51fa|fix(verses): remove text attrubute|Fri, 21 Apr 2017 21:51:56 +0300|Fri, 21 Apr 2017 21:51:56 +0300
+a8376cfe53dd6986255443ceada77341fe313fc1|refactor(db,controller): fix db props & fix get random song|Fri, 21 Apr 2017 21:27:42 +0300|Fri, 21 Apr 2017 21:27:42 +0300
+6217887e3b67e0831420bd3c574fe6166f86201f|refactor(config): use camel case|Fri, 21 Apr 2017 20:26:11 +0300|Fri, 21 Apr 2017 20:26:11 +0300
+3f11f40b72f624ad3f3f6ee239ff125cc09393a2|fix(docker): edit args|Fri, 21 Apr 2017 20:17:10 +0300|Fri, 21 Apr 2017 20:17:10 +0300
+71d45feb1e238a1d6b5128b21cbc60cfcc3384b5|refactor(docker): update compose|Fri, 21 Apr 2017 19:54:10 +0300|Fri, 21 Apr 2017 19:54:10 +0300
+6e4a45970f76102509d9da7c24e7720c5f31add7|refactor(docker): remove description|Fri, 21 Apr 2017 19:09:24 +0300|Fri, 21 Apr 2017 19:09:24 +0300
+f380a3a465caaf3c1b274fc20e7c18383da6d202|refactor(docker): reorganize build script|Fri, 21 Apr 2017 18:26:14 +0300|Fri, 21 Apr 2017 18:26:14 +0300
+1a443145055ea76e204555d959e9d395b3d44282|refactor(docker): use build args|Fri, 21 Apr 2017 18:00:11 +0300|Fri, 21 Apr 2017 18:00:11 +0300
+446ca8f727a610cc77f4a63b2a2c53486db770e7|refactor(config): remove old required props|Fri, 21 Apr 2017 17:33:55 +0300|Fri, 21 Apr 2017 17:33:55 +0300
+03ed248085bfe505d80a5d87068df6ac637609c8|refactor(docker): update dockerfile & ingnores|Fri, 21 Apr 2017 16:32:55 +0300|Fri, 21 Apr 2017 16:32:55 +0300
+2423ed10d5c0bd072d5308eadb19796f92441748|refactor(props): use db url|Fri, 21 Apr 2017 13:03:13 +0300|Fri, 21 Apr 2017 13:03:13 +0300
+3c50219ea8d5fdd18bd94e6b030b53aff070af33|refactor(heroku): fix proc file|Mon, 17 Apr 2017 20:47:13 +0300|Mon, 17 Apr 2017 20:54:54 +0300
+5e21961aabe69882e808eafb7100bbb2d660c13f|refactor(heroku): build script|Mon, 17 Apr 2017 20:42:50 +0300|Mon, 17 Apr 2017 20:42:50 +0300
+699133f3b0e9ce6df01fc7e46845488b9241ad3b|Merge branch 'master' of github.com:alebabai/linden-honey|Sun, 16 Apr 2017 14:48:37 +0300|Sun, 16 Apr 2017 14:48:37 +0300
+38ca44813c86010d6113f69809982472c368b2d9|refactor(scripts): separate migrations from start|Sun, 16 Apr 2017 14:45:56 +0300|Sun, 16 Apr 2017 14:45:56 +0300
+b31d132178532e0bf72bf82386389b96de10b7ce|refactor(domain,controllers,build): remove text fild & auto migrations|Sun, 16 Apr 2017 14:43:06 +0300|Sun, 16 Apr 2017 14:43:06 +0300
+90cbd13d544be2f78a47caf52bfd14801271c000|refactor(migrations): clean up|Sun, 16 Apr 2017 13:18:19 +0300|Sun, 16 Apr 2017 13:18:19 +0300
+c13437d26f45aa4c0d7f324d9b5456386a047804|fix(quote-controller): get quote by id #7|Thu, 13 Apr 2017 21:28:08 +0300|Thu, 13 Apr 2017 21:28:08 +0300
+bb79d3bfba1b1b20d0833cdb270a06723f63e231|refactor(*): clean up|Thu, 13 Apr 2017 20:12:10 +0300|Thu, 13 Apr 2017 20:12:10 +0300
+fcd00a3cece54bd89f93397a492ab2e4d42f985e|fix(qoute): get qoute by id|Tue, 4 Apr 2017 21:20:24 +0300|Tue, 4 Apr 2017 21:20:24 +0300
+b7516fade9f1ec052a9faa4dbb336772b0e05685|feat(koa): update dependencies & remove docs|Sun, 19 Mar 2017 00:56:09 +0300|Tue, 4 Apr 2017 21:12:48 +0300
+7ac4b81d625c372af3afa2168ac1c0f09996277c|fix(heroku): update node version|Sun, 26 Feb 2017 21:58:16 +0300|Sun, 26 Feb 2017 21:58:16 +0300
+048ab57b73156d155b98965c1970897523b59802|Merge pull request #6 from alebabai/next|Sun, 26 Feb 2017 20:52:27 +0200|Sun, 26 Feb 2017 20:52:27 +0200
+1cdb0b881be2f0e99d7bed82558c82bbea500831|chore(package.json): use correct main file|Sun, 26 Feb 2017 21:48:43 +0300|Sun, 26 Feb 2017 21:48:43 +0300
+1e034b83b343882246b66cdb85b6bab15b12bf44|Merge pull request #5 from alebabai/next|Sun, 26 Feb 2017 20:47:49 +0200|Sun, 26 Feb 2017 20:47:49 +0200
+5aa5759cb4c52cc91a9a87332ce09be7aed43d7f|feat(koa): update koa.js to stable version|Sun, 26 Feb 2017 21:45:24 +0300|Sun, 26 Feb 2017 21:45:24 +0300
+010675ea2934c7481619ba066334dda7dcc12d08|fix(docs): rewrite routes autodocs|Sun, 26 Feb 2017 21:07:40 +0300|Sun, 26 Feb 2017 21:07:40 +0300
+416fd81eaa4ee959d4cf4a3432b8f4d2e2a105ec|fix(routes): rework chained midlewares|Sun, 26 Feb 2017 20:35:01 +0300|Sun, 26 Feb 2017 20:35:01 +0300
+bbe807b19c00fe9a47a8867558f809c923afd0ea|refactor(api-docs): rewrite docs generation|Sun, 26 Feb 2017 04:55:48 +0300|Sun, 26 Feb 2017 04:55:48 +0300
+2a65336e853b0fb4e87c91e67a2e06f8516ada5f|refactor(global): async/await support|Sun, 26 Feb 2017 04:03:35 +0300|Sun, 26 Feb 2017 04:07:14 +0300
+94e2bad4df06e8faf260f771c93fd5270d026a06|feat(db): impl proper migration|Sun, 26 Feb 2017 01:30:58 +0300|Sun, 26 Feb 2017 01:30:58 +0300
+cb668b30279794223400137dedbf397e2bb658b3|Merge pull request #4 from alebabai/next|Sun, 19 Feb 2017 21:32:08 +0200|Sun, 19 Feb 2017 21:32:08 +0200
+47a51cdb4fa4d834c3f520762beebc9537013e51|chore(travis-ci): mongo support|Sun, 19 Feb 2017 18:09:55 +0300|Sun, 19 Feb 2017 18:09:55 +0300
+483a46f7787993aa2f04e464f2b5030876a0b37a|chore(README): update logo|Sun, 19 Feb 2017 18:02:34 +0300|Sun, 19 Feb 2017 18:02:34 +0300
+b72b649f2f5f0a5d5852ac7819e7f84487bd4322|feat(song-controller): get quotes & verses by song|Sun, 19 Feb 2017 17:48:15 +0300|Sun, 19 Feb 2017 17:48:15 +0300
+3ef8a2ad75187b93becfb6427f6292c9ea8314a9|feat(server): bring back root controller|Sun, 19 Feb 2017 17:39:42 +0300|Sun, 19 Feb 2017 17:39:42 +0300
+bc5bca2efd979bbb7a3bd21b9724860b84bc899f|feat(api-docs): implement api auto documentation|Sun, 19 Feb 2017 17:27:03 +0300|Sun, 19 Feb 2017 17:27:03 +0300
+7d22cfbc30a40cd4350af5f9778b094ce5a544ed|refactor(global): rewrite models, controllers|Sun, 19 Feb 2017 03:39:22 +0300|Sun, 19 Feb 2017 03:41:22 +0300
+6eac2b6835576ff552120706c7133e1099d8ec97|feat(song-controller): complete basic API impl|Sun, 19 Feb 2017 00:00:37 +0300|Sun, 19 Feb 2017 00:00:37 +0300
+8d038001b54aeb40f340852c650069384c98bbb4|refactor(server): reorder routes|Sat, 18 Feb 2017 20:47:02 +0300|Sat, 18 Feb 2017 20:47:02 +0300
+a0331702226c5c61a7264cf39ef4aa8d87d88af4|feat(song-controller): basic GET operations (Song)|Sat, 18 Feb 2017 20:44:25 +0300|Sat, 18 Feb 2017 20:44:25 +0300
+5764f7ea322d954eca6059ee480ae24c649813ca|refactor(db-migration): log init and finish states|Sat, 18 Feb 2017 18:02:09 +0300|Sat, 18 Feb 2017 18:03:49 +0300
+f02d273b06401e6e93cfa193d4a0e41a2e3e40af|feat(db): implement data migration|Sat, 18 Feb 2017 17:43:42 +0300|Sat, 18 Feb 2017 17:43:42 +0300
+efe058d39a34547fa3a9085140f9b938d11cb884|refactor(docker): fix db in docker-compose.yml|Sat, 18 Feb 2017 16:28:49 +0300|Sat, 18 Feb 2017 16:28:49 +0300
+b5997e622833e7cec3359cebcc0365149c394349|feat(project): docker support|Sun, 12 Feb 2017 23:19:23 +0300|Sun, 12 Feb 2017 23:19:23 +0300
+6b3c345fa5011dc559a152803c0e1bada52656c8|fix(models): default models export|Sun, 12 Feb 2017 21:26:35 +0300|Sun, 12 Feb 2017 21:26:35 +0300
+bdd667ebc34d65e447823ff24ce8da7a5ac1daf1|refactor(project): rename packages & add required keys|Sun, 12 Feb 2017 02:03:54 +0300|Sun, 12 Feb 2017 02:03:54 +0300
+63caee64f72a2edf05533759300804cdf543068f|refactor(server): use koajs & mongoose|Sun, 12 Feb 2017 01:48:16 +0300|Sun, 12 Feb 2017 01:48:16 +0300
+5831cb8a36f6b80c8d1c15b468bd05df1dffa262|reafctor(config): add messages to nconf store|Mon, 6 Feb 2017 16:30:25 +0300|Mon, 6 Feb 2017 16:30:25 +0300
+d9bc984deef811151a51dbba062301382e3b69e1|feat(config): add nconf support|Mon, 6 Feb 2017 16:09:16 +0300|Mon, 6 Feb 2017 16:09:16 +0300
+c61d1ef49aae3ba45a2081effe8fa85e95a115d4|fix(heroku): app.json|Fri, 3 Feb 2017 22:52:45 +0300|Fri, 3 Feb 2017 22:52:45 +0300
+30895eac7857cda562dfcf5d73aedcaf73eab975|chore(logo): update logo|Fri, 3 Feb 2017 22:45:51 +0300|Fri, 3 Feb 2017 22:45:51 +0300
+440404e71b337cce90f22f9e7d1d7a391b887ef7|chore(repo): prettify README.md|Fri, 3 Feb 2017 22:36:52 +0300|Fri, 3 Feb 2017 22:38:04 +0300
+8994b16e77ddcd3d6d1f7bb403a8a57c38388bb8|chore(travis-ci): fix tests|Fri, 3 Feb 2017 22:17:45 +0300|Fri, 3 Feb 2017 22:17:45 +0300
+c42ed65cfd4859b8356d939180b9ef0cbc406f38|chore(ci): add travis-ci suppor|Fri, 3 Feb 2017 22:12:38 +0300|Fri, 3 Feb 2017 22:12:38 +0300
+2d5f5ef04f31fc479bed6d29293d329f070f5f88|chore(heroku): use port from env|Fri, 3 Feb 2017 21:58:49 +0300|Fri, 3 Feb 2017 22:00:05 +0300
+a6b62510cf9e00ccca723d66b74034f410f25329|chore(heroku): fix start|Fri, 3 Feb 2017 21:53:45 +0300|Fri, 3 Feb 2017 21:55:30 +0300
+365669dd73608cfe0146019c6c65789214d2c484|Merge pull request #2 from alebabai/heroku|Fri, 3 Feb 2017 20:44:35 +0200|Fri, 3 Feb 2017 20:44:35 +0200
+f26f45dd9ef3e6d4eb7639d9fe5039b451478c42|chore(deployment): add heroku support|Fri, 3 Feb 2017 21:43:11 +0300|Fri, 3 Feb 2017 21:43:11 +0300
+38ef18950f7b5d5e69b88d8eac1f653eab98eaa4|feat(api): get random quote from specified song|Thu, 26 Jan 2017 23:28:42 +0300|Thu, 26 Jan 2017 23:28:42 +0300
+082a06ce10e5c9ff1434fd9ff82fbccffcd0e553|refactor(*): use JS best practices|Fri, 20 Jan 2017 22:12:37 +0300|Fri, 20 Jan 2017 22:14:51 +0300
+993c9d3e5511d7906ab3f0ccf67902ada8b3f2a3|refactor(api, parser): create parser module|Thu, 19 Jan 2017 22:09:05 +0300|Thu, 19 Jan 2017 22:09:05 +0300
+77da42b6b3bf64ddb0e306136a848be4a54457e0|refactor(lint,structure): edit project structure|Thu, 19 Jan 2017 19:20:32 +0300|Thu, 19 Jan 2017 19:20:32 +0300
+9a8b2724dab0a8cd378b51ad63d629ae3b5638de|feat(welcome): add welcome string to the root path|Wed, 18 Jan 2017 01:03:39 +0300|Wed, 18 Jan 2017 01:06:37 +0300
+ba258b15c3f1ba4f5e65ba7c2d7ab2e551e4af4a|refactor(*): json generation|Wed, 18 Jan 2017 00:52:24 +0300|Wed, 18 Jan 2017 00:52:24 +0300
+63f211545f7b9629ecaf0a8f66003baeb3ef3896|feat(quotes): implement quotes api|Tue, 17 Jan 2017 22:14:58 +0300|Tue, 17 Jan 2017 22:14:58 +0300
+ee9fd15867bf4681bc68ca05bb434a3d24121cdf|refactor(models): use prototyping & options init|Tue, 17 Jan 2017 20:29:02 +0300|Tue, 17 Jan 2017 20:29:02 +0300
+8c9842091186715cf1f1875e79408c62c8470d3d|refactor(*): add error handling|Mon, 16 Jan 2017 23:56:57 +0300|Mon, 16 Jan 2017 23:56:57 +0300
+bb165b3d29e7aa04ee8e2efa228d74d3d1cd58b6|Merge pull request #1 from alebabai/commonjs-modules|Mon, 16 Jan 2017 20:02:05 +0200|Mon, 16 Jan 2017 20:02:05 +0200
+79bfe22e7c354d9c9eaf23009ac4b8c5222e9186|refactor(models): use exports instead of module.*|Mon, 16 Jan 2017 21:00:37 +0300|Mon, 16 Jan 2017 21:00:37 +0300
+fcf84d57f363a6925aa4b336625e274497d67373|feat(*): use native modules api|Mon, 16 Jan 2017 20:48:48 +0300|Mon, 16 Jan 2017 20:48:48 +0300
+76d21c395018cecc631952793325b2feecc836b4|refactor(api): simplify json output|Mon, 16 Jan 2017 03:38:28 +0300|Mon, 16 Jan 2017 03:38:28 +0300
+35f95f0d874fde3123cd3e74909fcbca89932791|refactor(api): improve songs json output|Mon, 16 Jan 2017 03:31:39 +0300|Mon, 16 Jan 2017 03:31:39 +0300
+92ef62f088903017cd61803894b4fb955db37147|feat(api): add songs meta support|Mon, 16 Jan 2017 00:44:39 +0300|Mon, 16 Jan 2017 00:44:39 +0300
+ef78fec33423482f7b8d735c58dcad48b91c274d|feat(song api): implements songs api|Sun, 15 Jan 2017 21:58:13 +0300|Sun, 15 Jan 2017 21:58:13 +0300
+49e659216dfdce3c76fc4b1044aeb4e4af1b9774|refactor(package.json): use babel-node for debug|Sat, 14 Jan 2017 02:54:09 +0300|Sat, 14 Jan 2017 02:54:09 +0300
+c3ef7b41e649666bfaf205382703c5c7d6302f05|feat(*): stuff bring up|Sat, 14 Jan 2017 02:39:14 +0300|Sat, 14 Jan 2017 02:39:14 +0300
+e80e0a751c37e2a7fb41fc7f5a57dd39edcab5c4|chore(*): init project|Fri, 13 Jan 2017 21:57:18 +0300|Fri, 13 Jan 2017 21:57:18 +0300
+62c5ac3602e8c21d576cc7628cf35fed12bcaad9|Initial commit|Fri, 13 Jan 2017 19:38:02 +0300|Fri, 13 Jan 2017 19:38:02 +0300

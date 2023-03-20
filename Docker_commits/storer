@@ -1,0 +1,9 @@
+,repo_name,sha,message
+119,storer,1e8362066db59cc025b0268ba4dee0f9573cfb0e,refactoring; delete unneeded expressions from docker-compose.yml
+273,storer,74c7a87f6cc6400dc177a729d057aadac011c01d,refactoring; tidy docker-compose.yml .env vars
+278,storer,dcbbe219df8fc94a4c63485e1b0dd7c3bb6f1552,refactoring; move test-only settings into docker-compose.test.yml
+355,storer,a02954bc55a60bb7892d37f11e9ce6b1bbbf7cb9,refactoring; dropped coverage-data-containers - you can't [docker cp] out of a tmpfs but you can tar-pipe tmpfs out
+387,storer,77dcfd36e865e35fd4d1327deda13f9aefdfaf78,refactoring; use simpler tar-pipe to put git-kata into storer for tests; use tmpfs/readonly settings in docker-compose.yml to match those in commander; use CYBER_DOJO_KATAS_ROOT=/usr/src/cyber-dojo/katas to match commander
+389,storer,d707c9bab52fbc69f3223a3eb211d0cc142f52c2,refactoring; base client/server Dockerfiles off docker:latest so they build faster and to allow server to manage its own data-container
+407,storer,c8596a078bcbdb8ffd13f713ca998f1704b173e7,refactored Dockerfile so it is based FROM docker:latest image (docker outside-of docker) - intention is to make storer responsible for initial creation of the katas-data-container
+656,storer,6eada435f08fa28b1f7adc1baa60ced2f52fb854,refactoring; use terser array notation in docker-compose.yml
