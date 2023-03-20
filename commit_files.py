@@ -24,7 +24,7 @@ def commit_files(organization):
 
             listOfFiles=[] 
             request_gitapi = Request(url + sha, headers={
-                                        "authorization": "Bearer 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"})
+                                        "authorization": "xxxxxx"})
             url1 = urlopen(request_gitapi)
             data = json.load(url1)
             for file in data['files'] :
