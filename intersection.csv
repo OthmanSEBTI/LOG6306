@@ -1,0 +1,131 @@
+,repo_name,sha,message
+0,batimap,ef318333fc23c456b347720fbd044a9ca3bc6009,"refactor: store docker volumes in a single data/ root folder
+"
+2,batimap,e8e8302ba31905c281f3d17c55d36e895c70040d,"refactor(backend): use gunicorn instead of flask and reduce docker image weight
+"
+6,bookbrainz-site,9122a22a758254fc5dbb133acac3f63b9237f826,"refactor(docker): Corrected issues with dockerisation and init process
+"
+7,bookbrainz-site,08cca8211043188364eaaebd3111b922a91f3057,"refactor(docker): Set up and documented using webpack to watch files in container
+"
+8,bookbrainz-site,ad6b69c25a63b7286216bd4e401fe0b3ec029e26,"refactor(docker): set restart policies for dependencies
+"
+11,bookbrainz-site,efceb1d059e39161cd5e8893e015a81511cabc7d,"""refactor(docker): Consolidated compose files"
+12,bookbrainz-site,7473ba0a6f77baaf65ce2a944a572df2706badcb,"refactor(docker): Working Dockerfile
+"
+13,bookbrainz-site,a555039185a4e747a7a90afe50a23185e328a17c,"refactor(docker): Correction on Dockerfile
+"
+14,bookbrainz-site,6846f494d0237bee33dc2b7364841dc324dcff13,"refactor(docker): Rebuilding dockerfile and docker-compose files
+"
+15,bookbrainz-site,b0c3093ef40cec8bf21cd8c3caf5ac56e10b5596,"refactor(docker): Removing old docker files
+"
+22,commander,b378598021cc8c0b0befbbf6573c518758785cc2,"refactoring; extract method up_argument() and use CYBER_DOJO_PORT in docker-compose.yml
+"
+23,commander,ef6884bdb6c7c6a6f812d07a8e0afac061457db7,"refactoring; move ports into their own docker-compose .yml file
+"
+24,commander,1ddb805ddd371be3c580f6528952804faa2e70ac,"refactoring; move volumes into their own docker-compose .yml file
+"
+25,commander,a572fa01966b33a2966b4133ce668f4383250a76,"refactoring; move mem-limits into their own docker-compose .yml file
+"
+26,commander,ed84532d14f0f155be3a777e9c3b84694587b0c1,"refactoring; split off cpu-shares and depends-on into their docker-compose .yml files
+"
+30,commander,b2e6f4b67adb16116f46c80d69ae37c57d0ccb03,"added singler to docker-compose.yml to help web refactoring
+"
+31,commander,9bf890eccec0b05281548ba1a779033be357e0d0,"refactoring; remove dead dependency in docker-compose.yml
+"
+32,commander,55b728f64d41f44146f72fccade615b44113b555,"refactoring; drop Dockerfile's tini install and use --init in cyber-dojo script's [docker run] instead
+"
+33,commander,b55b93aa95c3b086631e5e8579dab9d8e7f7c6f8,"refactoring; delete dead code in docker-compose.yml
+"
+34,commander,4799f1f9a8d3a601ecb334343ae5fef9957b36c9,"refactoring; deleted dead dependencies from docker-compose.yml
+"
+35,commander,ee5b0ce8a7537678589aedca18c5d47d03d8c839,"refactoring; make all image-names and container-names in docker-compose.yml explicit
+"
+36,commander,84edf651f8075a4b6c04dd6c767fd735dd706f37,"refactoring; add .dockerignore and tidy up Dockerfile
+"
+37,Contrast-Finder,83c6b8a1e58a0eadc9d40a0925d28a825cebbd55,"Docker: refactoring the directories and docker images names
+"
+41,crunchy-postgresql-manager,0dbc65b4ff4b8eda2839c2e33fe617c98d35dfa1,"refactor dockerfile and makefile for cpm-restore-job
+"
+43,crunchy-postgresql-manager,da59f56f9c136a1159c09f9a8d6b5b6c27284171,"refactor cpm-pgpool dockerile and makefile
+"
+48,crunchy-postgresql-manager,1960b6d1518c0211fa2ad9dd1bef0d185ada4220,"refactored cpm-task dockerfile setup
+"
+49,cyber-dojo-web,44e7022d0f27a460601b09f397c59f4d0f39150a,"refactoring; added missing mem-swap limits for starter in docker-compose.yml
+"
+50,cyber-dojo-web,ca436d5f29ae28215934d637a82dd7c23831c054,"refactoring; switched to docker-compose.yml restart:'no' so failures hang-around and you have a chance to get information from them when debugging
+"
+56,cyber-dojo-web,16fb884ce91eb72ca80fc6b74f720bdeb3c9965a,"refactoring; put external-handling into own module; provide production defaults for ENV vars; lose ENV-vars from cyber-dojo.sh and docker-compose.yml
+"
+63,cyber-dojo-web,ae7fc78bd1b5d2b90d6c64c462a721fbba005be8,"refactor docker-compose yml files; volumes-from cannot be split across extension yml files but volumes can
+"
+79,cyber-dojo-web,d0a779ff2b3c6a738ec3b30bb43ebe337ea243be,"refactoring dockerfile so all language-tests have version-number
+"
+99,denverdino.github.io,bfdb5f72b00a36f5a3cb607ab94606fb6ab2774b,"refactoring database schema out into its own file for easier use outside of containers Signed-off-by: David Lawrence <david.lawrence@docker.com> (github: endophage)
+"
+109,DockerFinder,7f17332e1c001aac8601dde5dc0c710569175033,"refactoring dockerfiles projects with dockmeister command
+"
+112,FilterLists,b0b1cfdab233f2e385b255ebd9cec247094323af,"refactor(archival): ♻ don't expose ports to docker network until required
+"
+113,FilterLists,ece877e5678ff6ac8cd42daa1bae9062f46e2145,"refactor(directory): ♻⚡ extract separate migrate dockerfile for perf
+"
+117,FilterLists,cd43daec3d67d59464a28d49f9dcf3e735520b19,"refactor: 🎨 include 'dev' docker-compose in dcproj
+"
+119,FilterLists,32e11912634ca3919a2d1e3357d2ea3575ed4083,"refactor: ♻ ren some docker-compose resources
+"
+120,FilterLists,526c4f7f2372ca6487f854661a5dfadc57732eab,"refactor(directory): ♻ ren docker image
+"
+123,generator-jhipster,337c67cdbe6308cb13da12ff46a54abf78790784,"refactor setup of the jhipster-console in docker-compose subgen (#3644)
+"
+124,geodocker-cluster,8f45e63a881127debdfe643f7e1d4603fec4966f,"refactored docker-compose.yml
+"
+126,geodocker-cluster,ac88b3e27624f9caa86ab72e37ef53e5d1903bfb,"""refactored docker images to avoid """"127 layers / parents"""" possible error on some machines""
+"
+127,ggz,a237745805e5b4365e22cbd694e0543c01a05dd9,"refactor(docker): update compose config
+"
+129,ggz,2132fa0fb840b5d147cf17412bb1e9ad43c5414b,"refactor: update docker compose
+"
+133,image_builder,da252339f858135d6938dfa5ec140a29c75d0f64,"""refactoring; dont install tini in Dockerfiles"
+134,image_builder,34b715a16b0b39dd856198177b922e3791290db1,"refactoring; use new [docker build --file -] option to read Dockerfile from stdin so that I can volume mount SRC_DIR read-only
+"
+139,image_builder,b953be15f9b3c2704977556e362af3ef0c7f7fd4,"refactoring; switch to running build_image.rb using [docker-compose run] rather than [docker-compose exec]
+"
+143,indy-sdk,34ee119d87e6beafc3d89765c08a9c23d3f3e2e8,"""refactor wallet/ledger to use local docker"
+146,lagoon,2a08bb4361b86099224dda25b4110e818dfde934,"refactoring lagoon end2end tasks: - only testing on master not develop anymore - running tests from makefile - using docker-compose overwrites
+"
+150,lagoon,6877050df7a7501f7434630e804b7103cc0621bc,"Routes refactoring and env variables: - Split up of templates into individual yaml files per object - create services and routes before pvc and deployments - create custom routes based on .lagoon.yml file - create configmap after routes are created - new `LAGOON_ROUTES` env which contains all routes comma separated - new `LAGOON_ROUTE` env which contains the main route (the first custom one or the first generated one) - Routes System fully tested - better documentation of build-deploy-docker-compose.sh
+"
+151,lagoon,c88079e08ddb41a7c9ccb9e42f858f1a77b4c19a,"""refactoring of alpine images: - create an commons alpine image which is used by all alpine images for copying common scripts like entrypoints"
+152,lagoon,0cabe3ff9a53745d2fc0c60ba372020c9d5b78f4,"""refactoring of docker-images colons in folders create too much issues"
+154,lagoon,0c81853baaf0070922ec9e420e9476ebac77367a,"refactoring how node-packages are loaded: - using lerna to keep track of versions for all node-packages - using relative paths in services to load node-packages - hack to load node-packages for each service with git cloning the git repo again as we don't have access to the parent directories because of docker context - linking node-packes with yarn link when we run dev modes locally so we have them in realtime within the services - new container (node-packages-lerna) which runs 'yarn run watch' in all node-packages
+"
+156,linden-honey,9fd5739ecd7002498d4b28da233a612d6426bffe,"refactor(docker.compose): fix db uri
+"
+157,linden-honey,8fb2dc6cdefb034c9a8aa32ee8dc7b02e31f3b98,"refactor(docker): update compose
+"
+159,linden-honey,5126ec88aedc507cf462f6a660fba50d8c762890,"refactor(docker): update db container name
+"
+161,linden-honey,23dfa5bdd988c028e5305e7fe8c9bb17718b3673,"refactor(docker): update config
+"
+162,linden-honey,02913e76301e3b241760f52a35c28fda5923db92,"refactor(docker): reorganize compose services
+"
+163,linden-honey,71d45feb1e238a1d6b5128b21cbc60cfcc3384b5,"refactor(docker): update compose
+"
+168,linden-honey,efe058d39a34547fa3a9085140f9b938d11cb884,"refactor(docker): fix db in docker-compose.yml
+"
+170,mission_control,a98cbfb31814009b5270390f5c63a82db3b70e50,"refactoring docker test setup
+"
+171,pipeline,cadbb20868ee94b6d7257891f4f2153ba87fd25f,"""added openjdk-1.8"
+172,pipeline,10b77d19bb186f3b1f0b35b57e99bc66ca9c88f5,"""added openjdk-1.8"
+176,storer,1e8362066db59cc025b0268ba4dee0f9573cfb0e,"refactoring; delete unneeded expressions from docker-compose.yml
+"
+177,storer,74c7a87f6cc6400dc177a729d057aadac011c01d,"refactoring; tidy docker-compose.yml .env vars
+"
+178,storer,dcbbe219df8fc94a4c63485e1b0dd7c3bb6f1552,"refactoring; move test-only settings into docker-compose.test.yml
+"
+179,storer,a02954bc55a60bb7892d37f11e9ce6b1bbbf7cb9,"refactoring; dropped coverage-data-containers - you can't [docker cp] out of a tmpfs but you can tar-pipe tmpfs out
+"
+180,storer,77dcfd36e865e35fd4d1327deda13f9aefdfaf78,"refactoring; use simpler tar-pipe to put git-kata into storer for tests; use tmpfs/readonly settings in docker-compose.yml to match those in commander; use CYBER_DOJO_KATAS_ROOT=/usr/src/cyber-dojo/katas to match commander
+"
+183,storer,6eada435f08fa28b1f7adc1baa60ced2f52fb854,"refactoring; use terser array notation in docker-compose.yml
+"
+184,stroom,b5bf4287d1e3aca9a1bc381dc08168730cdc0888,"""Big dockerfile refactor"
