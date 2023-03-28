@@ -1,0 +1,1253 @@
+98d933a44f49698fc8c07dc9cb8418d54a7a7de3|ci(deps): Lock file maintenance|Mon, 27 Mar 2023 07:07:23 +0000|Mon, 27 Mar 2023 08:16:56 +0000
+45c4b77eefd7a7894e5620f8012c162cc2176acd|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.22.1|Mon, 20 Mar 2023 16:12:30 +0000|Mon, 20 Mar 2023 20:03:58 +0000
+03bc39c1a6225182d966826c2064067ef19b4549|ci(deps): Lock file maintenance|Mon, 13 Mar 2023 08:28:58 +0000|Mon, 13 Mar 2023 14:52:49 +0000
+409d97bc62ef2512cb534329910c880016dc1da7|ci(deps): Lock file maintenance|Mon, 13 Mar 2023 05:51:54 +0000|Mon, 13 Mar 2023 08:28:10 +0000
+269110d9fb7b3737a6aeba00a03b334d0cef22ea|ci(deps): Update dependency rubocop to v1.48.0|Tue, 7 Mar 2023 22:37:41 +0000|Wed, 8 Mar 2023 03:13:05 +0000
+4af06b9f07f2cae5e378a20bd4dc6f560180f736|ci(deps): Lock file maintenance|Mon, 6 Mar 2023 05:25:29 +0000|Mon, 6 Mar 2023 08:36:02 +0000
+1674e185c069eaf12006e1b8646a36eac4d5eca1|ci(deps): Update dependency rubocop to v1.47.0|Wed, 1 Mar 2023 17:08:01 +0000|Wed, 1 Mar 2023 21:06:01 +0000
+66bda5246ce2baffd7da9e0efe24027578344acd|ci(deps): Update dependency rubocop to v1.46.0|Wed, 22 Feb 2023 20:13:20 +0000|Thu, 23 Feb 2023 00:44:24 +0000
+a1d9b5c58bbd8524a9c59cf9c5c8366d3ac3f50b|chore: clean load vim (#384)|Mon, 20 Feb 2023 12:32:45 -0500|Mon, 20 Feb 2023 12:32:45 -0500
+30497fc72b3e7e309e4753c3ccc49fd8561c2560|chore: clean branch develop (#382)|Mon, 20 Feb 2023 12:26:25 -0500|Mon, 20 Feb 2023 12:26:25 -0500
+8c4ed5710c6889fc777839649433d8b4a988a3d5|ci(deps): Lock file maintenance|Mon, 13 Feb 2023 09:42:38 +0000|Mon, 13 Feb 2023 14:48:56 +0000
+1fcd929390e82cf0c307902f9108db6d60af9698|ci(deps): Update dependency rubocop to v1.45.1|Wed, 8 Feb 2023 19:22:46 +0000|Thu, 9 Feb 2023 00:31:50 +0000
+c938a4871f738f1994dd7a03f95d9151b00d040f|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.21.2|Thu, 2 Feb 2023 17:14:53 +0000|Thu, 2 Feb 2023 22:17:51 +0000
+03820db0e9f9b4687d8675227639aeeb29613e43|chore: implement custom config hammerspoon (#377)|Sat, 28 Jan 2023 20:30:16 -0500|Sat, 28 Jan 2023 20:30:16 -0500
+c95d913150389841ef6a0f5ae65c3cc41181dbc9|ci(deps): Update dependency rubocop to v1.44.1|Wed, 25 Jan 2023 17:47:07 +0000|Wed, 25 Jan 2023 20:42:17 +0000
+0f832b8518fcb97b39dd46a3c78a860a01a377c6|ci(deps): Update dependency rubocop to v1.44.0|Mon, 23 Jan 2023 17:25:46 +0000|Mon, 23 Jan 2023 21:13:30 +0000
+48d5a353ab968b9d73d0572e5142156229b25a92|ci(deps): Lock file maintenance|Mon, 23 Jan 2023 06:12:04 +0000|Mon, 23 Jan 2023 09:22:45 +0000
+fe4fa53d5a45e2d89f0ae13d67646560dd4f35ca|ci(deps): Update dependency rubocop to v1.43.0|Tue, 10 Jan 2023 22:50:05 +0000|Wed, 11 Jan 2023 02:12:01 +0000
+170d1041fbaeeea7b5285793c9d8e8e59bdd7b21|ci(deps): Lock file maintenance|Mon, 9 Jan 2023 06:50:44 +0000|Mon, 9 Jan 2023 09:31:21 +0000
+d3a5b902bceea78223f7399d8e4cfa27751ba249|ci(deps): Lock file maintenance|Mon, 2 Jan 2023 07:21:18 +0000|Mon, 2 Jan 2023 11:30:12 +0000
+b9450ac521dcc019f7b8e4a8f1bd6c48807e3c3f|ci(deps): Update dependency rubocop to v1.41.1|Thu, 22 Dec 2022 15:37:23 +0000|Thu, 22 Dec 2022 19:22:52 +0000
+d00cb018d408d1eb5e493b311dc8a0e98049bc89|ci(deps): Update dependency rubocop to v1.41.0|Tue, 20 Dec 2022 16:59:24 +0000|Tue, 20 Dec 2022 20:02:19 +0000
+38403fee02b4a25754c445d46d393599fa2fa7b7|chore: change load modules to branch main (#367)|Wed, 14 Dec 2022 17:40:42 -0500|Wed, 14 Dec 2022 17:40:42 -0500
+39e29116357a3bb130e1d1b06d4f831ec2622c97|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.21.1|Mon, 12 Dec 2022 19:02:15 +0000|Mon, 12 Dec 2022 21:54:52 +0000
+921e6a1092318d0b3678b6b70d284042705d23a4|ci(deps): Update dependency rubocop to v1.40.0|Thu, 8 Dec 2022 16:54:07 +0000|Thu, 8 Dec 2022 20:03:36 +0000
+f8c322857e4a7967d5206b8d5702d000faeb3cd7|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.21.0|Mon, 5 Dec 2022 16:46:03 +0000|Mon, 5 Dec 2022 20:00:54 +0000
+9f30c7de74bd7a88b8732e406018b26ac6d2d02d|ci(deps): Lock file maintenance|Mon, 5 Dec 2022 06:36:01 +0000|Mon, 5 Dec 2022 10:32:05 +0000
+7ce918d75f9918ae917da9a780a7dfebcdd38e81|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.20.0|Mon, 28 Nov 2022 16:56:11 +0000|Mon, 28 Nov 2022 19:58:37 +0000
+66dc554997c3bc857b0da0ffb113728563d00bbd|ci(deps): Lock file maintenance|Mon, 28 Nov 2022 08:00:27 +0000|Mon, 28 Nov 2022 10:49:41 +0000
+c8706043cbd83f1fcc5be6d8a30d8d95c355df13|ci(deps): Update dependency ruby to v2.7.7|Thu, 24 Nov 2022 21:23:34 +0000|Fri, 25 Nov 2022 00:07:46 +0000
+e9b90f13208806fbcd7fa3dcfadf9ef8d0017f7a|ci(deps): Lock file maintenance|Mon, 21 Nov 2022 07:03:31 +0000|Mon, 21 Nov 2022 09:16:35 +0000
+f7c0c8a9637319aea52ce896faee5cc052e175d5|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.19.0|Mon, 14 Nov 2022 17:06:22 +0000|Mon, 14 Nov 2022 19:42:44 +0000
+a002491270fcbb1d0ec59d4c83c73696917c21f8|ci(deps): Lock file maintenance|Mon, 14 Nov 2022 06:51:20 +0000|Mon, 14 Nov 2022 08:56:06 +0000
+071f766e59c7ea4605a32bf3c98d8eed75163c6e|ci(deps): Update dependency rubocop to v1.38.0|Tue, 1 Nov 2022 17:51:27 +0000|Tue, 1 Nov 2022 20:31:25 +0000
+9a3d4c89a6a1cd9e336844822e4a2bb1667bc11c|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.18.0|Mon, 24 Oct 2022 15:52:49 +0000|Mon, 24 Oct 2022 19:29:19 +0000
+d1d92d6f0405a08104f4b467af23bb8a5f7c0532|ci(deps): Lock file maintenance|Mon, 24 Oct 2022 09:13:11 +0000|Mon, 24 Oct 2022 12:17:59 +0000
+fb692931c615199430b64d1ab46e8280ff34f383|ci(deps): Lock file maintenance|Mon, 24 Oct 2022 05:47:43 +0000|Mon, 24 Oct 2022 09:11:59 +0000
+95f15a25ad94a164a2a43d25cfac04a077c872fa|ci(deps): Update dependency rubocop to v1.37.0|Thu, 20 Oct 2022 17:25:46 +0000|Thu, 20 Oct 2022 20:46:38 +0000
+1a986c03abe8ac98ebbcf9acc2c7b0185be9ca41|ci(deps): Update TFLint plugin terraform-linters/tflint-ruleset-aws to v0.17.1|Mon, 10 Oct 2022 15:56:52 +0000|Mon, 10 Oct 2022 18:30:10 +0000
+f177fe14251338ee3046a961a742530d1c4e86ba|ci(deps): Lock file maintenance|Mon, 3 Oct 2022 05:34:22 +0000|Mon, 3 Oct 2022 09:34:52 +0000
+d5f2583c15b56160c65a370959623ca20646f315|ci(deps): Lock file maintenance|Mon, 19 Sep 2022 06:08:24 +0000|Mon, 19 Sep 2022 10:56:40 +0000
+208abd7301c83ae602a04209eafb6d25691cac58|fix: pull branch main (#347)|Sun, 4 Sep 2022 14:26:09 -0500|Sun, 4 Sep 2022 14:26:09 -0500
+9ebf60993cdf5789ed10d84b39d4a9ecb643a6e2|refactor: branch develop to main (#345)|Sun, 4 Sep 2022 14:15:51 -0500|Sun, 4 Sep 2022 14:15:51 -0500
+211371363deb05b06ac4e2fa95cd6aee7260d14f|ci(deps): Update dependency rubocop to v1.36.0|Thu, 1 Sep 2022 17:03:21 +0000|Thu, 1 Sep 2022 20:11:46 +0000
+1ecea86df6a0273373643d5334a52f574acba33f|ci(deps): Lock file maintenance|Mon, 22 Aug 2022 09:49:45 +0000|Mon, 22 Aug 2022 12:34:09 +0000
+c2e7affa0c61a202b18d6ba2b80dc502c5557d09|ci(deps): Update dependency rubocop to v1.35.0|Fri, 12 Aug 2022 17:30:23 +0000|Fri, 12 Aug 2022 19:58:56 +0000
+65a761253a04851e9fbdd9bd0d6df0efeafde483|ci(deps): Update dependency rubocop to v1.34.1|Tue, 9 Aug 2022 17:10:18 +0000|Tue, 9 Aug 2022 19:43:58 +0000
+c3e564a6053366c8a8e2897cb16725de1b70e2e2|ci(deps): Lock file maintenance|Mon, 8 Aug 2022 06:32:59 +0000|Mon, 8 Aug 2022 13:13:00 +0000
+174adf035ef83dada3ca8a28d2450c757435a317|ci(deps): Update dependency rubocop to v1.33.0|Thu, 4 Aug 2022 21:07:03 +0000|Thu, 4 Aug 2022 22:59:50 +0000
+d0c5215a385acdcefc563624e9b82fc7bbf63cbf|ci(deps): Update dependency rubocop to v1.32.0|Thu, 21 Jul 2022 17:18:23 +0000|Thu, 21 Jul 2022 20:32:48 +0000
+347a39e4120f2ef675bb30aadd9f1a62ab090c09|chore: implement function debug (#336)|Mon, 18 Jul 2022 17:42:51 -0300|Mon, 18 Jul 2022 15:45:26 -0500
+b54bdf9be6b6fec37e8ee516d515e53d94aed66b|fix: message function not exists (#334)|Mon, 18 Jul 2022 15:35:55 -0500|Mon, 18 Jul 2022 15:35:55 -0500
+807779fefc8266a9755a4edda33e0c459459b455|fix: function error message not found (#332)|Mon, 18 Jul 2022 15:24:02 -0500|Mon, 18 Jul 2022 15:24:02 -0500
+1325e27b63853730fbc457ae2c12695cf584b885|refactor: change path linters to ci (#330)|Mon, 18 Jul 2022 09:49:56 -0500|Mon, 18 Jul 2022 09:49:56 -0500
+1d6f97d186093eb95e9b2a44bd9da20dbd9c30c5|ci(deps): Lock file maintenance|Mon, 18 Jul 2022 06:20:21 +0000|Mon, 18 Jul 2022 12:06:37 +0000
+9c40eed6251378f4a50cc650aa1ba5337e0bb834|ci(deps): Update dependency rubocop to v1.31.2|Thu, 7 Jul 2022 15:41:42 +0000|Thu, 7 Jul 2022 18:06:24 +0000
+b091a23dbf608367c86ed73084f48e456aae8a99|chore: implement configuration ideavim (#326)|Thu, 30 Jun 2022 10:09:05 -0500|Thu, 30 Jun 2022 10:09:05 -0500
+e89e676174b292fc365f30de99fe7c76c788bad8|ci(deps): Update dependency rubocop to v1.31.1|Wed, 29 Jun 2022 17:08:33 +0000|Wed, 29 Jun 2022 19:23:02 +0000
+14fd96bc98e71b20373e7dcb1aed3b9e26be2efd|ci(deps): ci(deps): Update dependency rubocop to v1.31.0|Mon, 27 Jun 2022 21:38:16 +0000|Tue, 28 Jun 2022 00:47:08 +0000
+5d298ae0351c22be1a4abd3bc8307a123d2e2241|ci(deps): Update dependency rubocop to v1.30.1|Mon, 6 Jun 2022 17:52:10 +0000|Mon, 6 Jun 2022 21:12:21 +0000
+78d790e70e190a5341e937c5031b7c78f4ed6fcc|ci(deps): Lock file maintenance|Mon, 6 Jun 2022 06:10:20 +0000|Mon, 6 Jun 2022 12:02:07 +0000
+8df61724a8616e47d6b57120fe0c286e4a302181|ci(deps): Update dependency rubocop to v1.30.0|Thu, 26 May 2022 17:35:08 +0000|Thu, 26 May 2022 19:57:20 +0000
+79059bcdce1f14581be602cad0b426f1fe721211|ci(deps): Lock file maintenance|Mon, 16 May 2022 06:40:56 +0000|Mon, 16 May 2022 12:11:18 +0000
+666899d76ec3a11b631a160aaa676da94eeb18f0|ci(deps): Update dependency rubocop to v1.29.1|Thu, 12 May 2022 15:59:37 +0000|Thu, 12 May 2022 18:01:48 +0000
+5d6935f464aec7a24d112dc2fb7dc5a9b24311da|ci(deps): Update dependency rubocop to v1.29.0|Fri, 6 May 2022 16:41:11 +0000|Fri, 6 May 2022 19:10:14 +0000
+e190c40bd5566d4076b08b49d37c5e79b4c325f6|ci(deps): Lock file maintenance|Mon, 2 May 2022 06:35:30 +0000|Mon, 2 May 2022 13:04:08 +0000
+9bde8d8ff2a1d65741081d2a3e352de75a5dfff2|ci(deps): Update dependency ruby to v2.7.6|Mon, 25 Apr 2022 17:32:54 +0000|Mon, 25 Apr 2022 20:59:54 +0000
+18c0d2c1b78113298491b41d25eac1ab1ff89a43|ci(deps): Update dependency rubocop to v1.28.2|Mon, 25 Apr 2022 17:32:17 +0000|Mon, 25 Apr 2022 20:59:02 +0000
+62053349a2e690016513d96a1ac5e6b6556a766d|ci(deps): Update dependency rubocop to v1.28.1|Thu, 21 Apr 2022 16:04:29 +0000|Thu, 21 Apr 2022 18:10:57 +0000
+0d536617d378ee443f5c9248be813c0168271c5d|ci: implement issue template bug report|Sun, 27 Feb 2022 10:46:07 -0500|Sun, 27 Feb 2022 10:46:07 -0500
+6019b0f1b94a4adf0fe80984dcc9866600f3a3e8|ci: implement template support github|Sun, 27 Feb 2022 10:45:47 -0500|Sun, 27 Feb 2022 10:45:47 -0500
+dbbd383ac9fa2e61d618ba7902d686ded7bd4784|ci: implement support template general|Sun, 27 Feb 2022 10:45:46 -0500|Sun, 27 Feb 2022 10:45:46 -0500
+e6c736a09da5d0d1972c0841c074486e8b038226|ci: implement pull request template|Sun, 27 Feb 2022 10:45:42 -0500|Sun, 27 Feb 2022 10:45:42 -0500
+a49cfe30951307a44d7fb99da92285080c0a6482|ci: implement issue template feature request|Sun, 27 Feb 2022 10:45:36 -0500|Sun, 27 Feb 2022 10:45:36 -0500
+e5b799c77356123dd5eb76f9a83b6a80092f94a2|ci: implement license support github|Sun, 27 Feb 2022 10:45:34 -0500|Sun, 27 Feb 2022 10:45:34 -0500
+a06b8d674b43eed18ef070473798519818b518fc|ci: implement renovate configuration|Sun, 27 Feb 2022 10:45:33 -0500|Sun, 27 Feb 2022 10:45:33 -0500
+1633f6493e5c63cb3d48a99b0ec1446f23c6ca2a|ci: implement issue template general|Sun, 27 Feb 2022 10:45:32 -0500|Sun, 27 Feb 2022 10:45:32 -0500
+db5aa5189a3b64aef86bded44e1a70e057280a47|ci: implement template semantic github|Sun, 27 Feb 2022 10:45:30 -0500|Sun, 27 Feb 2022 10:45:30 -0500
+07f82cbb55c380d5c0ade772984091c8a6e3cf76|ci: upgrade lint code github actions|Sun, 27 Feb 2022 10:45:15 -0500|Sun, 27 Feb 2022 10:45:15 -0500
+1e79709e3354bd3202417359df4e507e15c1d5b4|ci: upgrade release code github actions|Sun, 27 Feb 2022 10:45:09 -0500|Sun, 27 Feb 2022 10:45:09 -0500
+6e3b1681800cbd6c18cbcd3d8c18a20d9677bc04|ci: upgrade confluence code github actions|Sun, 27 Feb 2022 10:44:34 -0500|Sun, 27 Feb 2022 10:44:34 -0500
+49bfa419508e839deb0c2aff14ee5bb5b5d07fe3|ci: implement stale configuration for github|Sun, 27 Feb 2022 10:44:33 -0500|Sun, 27 Feb 2022 10:44:33 -0500
+d34e9e0f678cd761bce680ed31d1c57a0daeb0a1|chore: clean file mailmap (#310)|Sun, 30 Jan 2022 15:03:26 -0500|Sun, 30 Jan 2022 15:05:43 -0500
+938ebc257709fa8c5ecbc720d4b9c12faa492706|refactor: modules sync (#310)|Sun, 30 Jan 2022 15:03:02 -0500|Sun, 30 Jan 2022 15:05:43 -0500
+b897c41eee51400a2904cfd1f57627d4a3f1e055|fix: links broken badge changelog (#308)|Sun, 30 Jan 2022 11:01:22 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+d3f55bf86ac3a1cfcfbde09a5887269d4fc1671b|build: generate files (#308)|Sun, 30 Jan 2022 11:00:36 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+633583ac6097737a00a3240fcdcfa05a50e77ae8|build: generate files (#308)|Sun, 30 Jan 2022 10:59:22 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+06057b4c4d715e1477b7db6081cb19464ec8da86|perf: clean unnecessary configuration zshenv (#308)|Sun, 30 Jan 2022 10:54:44 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+851ddc209460a4332f8def0dc7b394aebd12a8e4|perf: upgrade versions ruby and python (#308)|Sun, 30 Jan 2022 10:53:07 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+4636af047e9542eb09f4e373e3a0c0f9d33e6e9d|perf: clean make actions (#308)|Sun, 30 Jan 2022 08:49:34 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+9a524cbae548384fda74dc8bffb9d375aad96480|refactor: generator readme (#308)|Sun, 30 Jan 2022 08:48:55 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+d3cb5bbbaf6fa49213892852f6da9e56dd3f5df4|docs: implement git flow (#308)|Sun, 30 Jan 2022 08:48:07 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+31862855c6ccbc70f2ac7f8b9254bc8c29937ffd|chore: implement task actions (#308)|Sun, 30 Jan 2022 08:39:05 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+cb76793613d0f5ccc61ab676809547043d5af246|refactor: message function (#308)|Sun, 30 Jan 2022 08:37:29 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+f32174e120c81ed4884ccc9caf5b93192c9cb8b3|feat: clean unnecessary mac-cli (#308)|Tue, 10 Aug 2021 00:25:42 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+2d4ef25a9c6a3a7a984e2b6ac5ec49f5f653eb78|feat: delete files for mail spring zazu and alacritty (#308)|Tue, 10 Aug 2021 00:22:08 -0500|Sun, 30 Jan 2022 11:05:29 -0500
+4cae1a0e061a1659cb3607948f34283d801309cf|ci: implement lint code github actions|Sun, 15 Aug 2021 15:00:36 -0500|Sun, 15 Aug 2021 15:00:36 -0500
+4281e5b6bedc1a15a5e2f5cb22b395fe2163a9ea|ci: implement action make git|Sun, 15 Aug 2021 15:00:34 -0500|Sun, 15 Aug 2021 15:00:34 -0500
+40969bc4c5be91c115f75a51d8bc86fd33818751|ci: implement hooks prepare commit msg|Sun, 15 Aug 2021 15:00:29 -0500|Sun, 15 Aug 2021 15:00:29 -0500
+86b2f588807a7dda3bd6b6e0cc400e0de7a56f86|build: refactor lint code with eslint|Sun, 15 Aug 2021 15:00:27 -0500|Sun, 15 Aug 2021 15:00:27 -0500
+5b8c396cc0679a8962b61afe84427884c8e22456|ci: implement pull request template|Sun, 15 Aug 2021 15:00:25 -0500|Sun, 15 Aug 2021 15:00:25 -0500
+32a4b24a5521556500d64ffe4a94a0c7ee07b41a|ci: implement issue template general|Sun, 15 Aug 2021 15:00:23 -0500|Sun, 15 Aug 2021 15:00:23 -0500
+9d0b06f60a55e0501a3b8de92077c3890c418389|ci: implement template semantic github|Sun, 15 Aug 2021 15:00:20 -0500|Sun, 15 Aug 2021 15:00:20 -0500
+eac9ef765669a80a3bdd749631633eb4ac677b1a|build: refactor lint commmits|Sun, 15 Aug 2021 15:00:14 -0500|Sun, 15 Aug 2021 15:00:14 -0500
+306a6421f88792f5103ed9874b495591da3040a9|build: refactor prettier config|Sun, 15 Aug 2021 15:00:11 -0500|Sun, 15 Aug 2021 15:00:11 -0500
+9b5d126576d8d423be59c56cb834b2877219b655|ci: implement renovate configuration|Sun, 15 Aug 2021 15:00:09 -0500|Sun, 15 Aug 2021 15:00:09 -0500
+94b8fbc89ade4f7b12e1a77770733c707c1e72ef|ci: implement issue template bug report|Sun, 15 Aug 2021 15:00:07 -0500|Sun, 15 Aug 2021 15:00:07 -0500
+d64f474fffb783f185759468b600e46b69335bf9|ci: implement issue template feature request|Sun, 15 Aug 2021 15:00:05 -0500|Sun, 15 Aug 2021 15:00:05 -0500
+3a80e2b1f8298711167fc889c7ebfd521aca09d2|ci: upgrade mailmap github|Sun, 15 Aug 2021 15:00:03 -0500|Sun, 15 Aug 2021 15:00:03 -0500
+1d19343bbd7749132611b90383a9b6fc7e2f6362|ci: implement action make yarn|Sun, 15 Aug 2021 15:00:01 -0500|Sun, 15 Aug 2021 15:00:01 -0500
+d2470d19ad8e7095fb889d11d451bedc22a71667|ci: implement stale configuration for github|Sun, 15 Aug 2021 14:59:59 -0500|Sun, 15 Aug 2021 14:59:59 -0500
+3cb691f0a357d1d12e9d2ae351270cbe6ac3b580|ci: implement action make python|Sun, 15 Aug 2021 14:59:57 -0500|Sun, 15 Aug 2021 14:59:57 -0500
+f7cbc0dfcb10cb419b6efe93ce8ebabd2e71c7f9|Delete provision/make/yarn.mk|Sun, 15 Aug 2021 14:41:59 -0500|Sun, 15 Aug 2021 14:41:59 -0500
+c0194e21071d3f27d41eddb3c7c2d86791631ab6|Delete provision/make/git.mk|Sun, 15 Aug 2021 14:40:34 -0500|Sun, 15 Aug 2021 14:40:34 -0500
+3ef975020eb671321c197e57a1d8cd6ac276e62b|Delete .github/stale.yml|Sun, 15 Aug 2021 14:37:39 -0500|Sun, 15 Aug 2021 14:37:39 -0500
+40276d07fb0e7655ab85e4ae3875c4619e6ac209|Delete .github/ISSUE_TEMPLATE/general_issue.md|Sun, 15 Aug 2021 14:02:19 -0500|Sun, 15 Aug 2021 14:02:19 -0500
+f6fe172d02d87e971db8ab8d8f50a0097589671b|Delete .github/linters/prettier.config.js|Sun, 15 Aug 2021 14:01:22 -0500|Sun, 15 Aug 2021 14:01:22 -0500
+b15c63941f81fdf79026ae9a35598fc45b62e438|Delete .github/semantic.yml|Sun, 15 Aug 2021 13:58:55 -0500|Sun, 15 Aug 2021 13:58:55 -0500
+def7c2d0fca84167e2c807d18be0af93ff12328d|Delete .github/workflows/lint.yml|Sun, 15 Aug 2021 13:57:38 -0500|Sun, 15 Aug 2021 13:57:38 -0500
+b4613b3532ebcd739169cc9fda69dbc11190abac|Delete .github/linters/.eslintrc.js|Sun, 15 Aug 2021 13:57:28 -0500|Sun, 15 Aug 2021 13:57:28 -0500
+343a6ea91309e3b8b8609e695057acf97f53adc0|Delete .github/linters/.commitlintrc.json|Sun, 15 Aug 2021 13:55:59 -0500|Sun, 15 Aug 2021 13:55:59 -0500
+d300cdc49a5fdd130c8b997bd2174dec35dcdb17|Delete .github/PULL_REQUEST_TEMPLATE.md|Sun, 15 Aug 2021 13:55:48 -0500|Sun, 15 Aug 2021 13:55:48 -0500
+0a47f03e783186e762727ac1f6352adc5c766dd0|Delete provision/make/python.mk|Sun, 15 Aug 2021 13:55:46 -0500|Sun, 15 Aug 2021 13:55:46 -0500
+d21ab5d84db5f593af46785cd7f7f13870ec64a0|Delete .github/renovate.json|Sun, 15 Aug 2021 13:55:13 -0500|Sun, 15 Aug 2021 13:55:13 -0500
+e82efdbbe532f5e090f2ebfd741e67c79a8dd8f5|Delete .github/ISSUE_TEMPLATE/feature_request.md|Sun, 15 Aug 2021 13:54:12 -0500|Sun, 15 Aug 2021 13:54:12 -0500
+a18e8b9da6d3c06db67c4832840dc0c080ef97ff|Delete .github/ISSUE_TEMPLATE/bug_report.md|Sun, 15 Aug 2021 13:52:20 -0500|Sun, 15 Aug 2021 13:52:20 -0500
+a27acb35c51dc2651d5c0ba86871afad156dba5e|style: name fix occurred (#303)|Fri, 6 Aug 2021 23:28:28 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+b93f6f73ae8b959e9ccb16be786f9b160064bf05|fix: url download brew (#303)|Fri, 6 Aug 2021 23:26:14 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+c91eef2cdf3692205c6e12197b0201d954f07fae|build: generate files (#303)|Fri, 6 Aug 2021 23:18:44 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+4ada99b4f153490db037a046ffcdc90807bc7215|refactor: name zsh modules (#303)|Fri, 6 Aug 2021 23:16:41 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+6f9f498119d42cf3cb510f6169bd49bf7be75fae|style: format order modules dependences python (#303)|Fri, 6 Aug 2021 23:10:21 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+5c5746343b0f48387c4aa8fdbc8f5c8847b85d0c|refactor: actions make (#303)|Fri, 6 Aug 2021 23:09:02 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+28eaeb416f03c2a2d31069ef33cf398bdde3de7c|refactor: generator readme (#303)|Fri, 6 Aug 2021 23:07:52 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+5824e3fb3911452652831739c758c9cd0c55d948|refactor: hooks pre-commit (#303)|Fri, 6 Aug 2021 23:05:27 -0500|Fri, 6 Aug 2021 23:30:07 -0500
+b33983152844e9b5ec4fbbaf0b9e8cd94a4f25e7|docs: implement run information (#301)|Sun, 13 Jun 2021 07:44:14 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+576e419f568409578a240b79b5320db7f9fe52c8|fix: missing file archlinux (#301)|Sun, 13 Jun 2021 07:32:46 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+927a0a9f5b3b86a32d50cad5b81917b582dcae7f|build: files generate (#301)|Sun, 13 Jun 2021 07:11:59 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+3533adb6f0c77c370a751b6376049d195c2fdb9a|style: implement format ruby (#301)|Sun, 13 Jun 2021 07:11:32 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+b601acf317749d551b933f7cd98fc6627dc5ba05|chore: implement dependences ruby (#301)|Sun, 13 Jun 2021 07:10:32 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+9e9956ce11a0d2df93a627e0b260133e66af7c8e|chore: implement configuration vagrant (#301)|Sun, 13 Jun 2021 05:52:01 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+0df95d4b2a72de74fb9c5fdbf714731f15eba363|chore: implement actions for vagrant and ruby (#301)|Sun, 13 Jun 2021 05:48:42 -0500|Sun, 13 Jun 2021 07:46:54 -0500
+6f7e34bf9a6994e04f23258ca6d0bb40496a3462|refactor: modules zsh (#294)|Sat, 12 Jun 2021 20:25:07 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+e70530501b47b76b6e6f829e560cd613da0a7720|build: generate files (#294)|Sat, 12 Jun 2021 20:20:26 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+755ba468c06c0fbb41f526018fc0263ffc0253fa|fix: links pull requests (#294)|Sat, 12 Jun 2021 20:18:53 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+46021b4e170bb7f932c29100f5ac6f6fd117393f|fix: work flow github (#294)|Sat, 12 Jun 2021 20:16:09 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+d2dc68a9515c9e0c28c5b47a17ca078c95ea2879|refactor: actions make (#294)|Sat, 12 Jun 2021 20:15:17 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+38a87075f25ade02fd17e6b753e18ee3f95751ec|refactor: lint validation code (#294)|Sat, 12 Jun 2021 20:10:58 -0500|Sat, 12 Jun 2021 20:28:04 -0500
+808e489a5c1f27d8ac1b5ed28f40efdd86a8d936|refactor: configuration commitlint (#272)|Thu, 20 May 2021 14:35:06 -0500|Thu, 20 May 2021 14:35:06 -0500
+f3d859b6196b6f1099823f6a87327c8ebfbc8ac9|build: refactor lint commmits|Sun, 2 May 2021 14:05:51 -0500|Sun, 2 May 2021 14:05:51 -0500
+42011670a144daa5719137ebeef84760492fe83d|build: implement lint code github actions|Sun, 2 May 2021 14:03:08 -0500|Sun, 2 May 2021 14:03:08 -0500
+3a7b307f9406b91bb344781605b7608f5c530ad6|build: refactor prettier config|Sun, 2 May 2021 14:03:02 -0500|Sun, 2 May 2021 14:03:02 -0500
+0e1ca0f668ec741798401e74f8a39fb3e9ea8729|build: implement release code github actions|Sun, 2 May 2021 14:03:00 -0500|Sun, 2 May 2021 14:03:00 -0500
+ad9aa161014ee2d7153fed2c14e667ae63dffe3c|build: refactor lint code with eslint|Sun, 2 May 2021 14:02:56 -0500|Sun, 2 May 2021 14:02:56 -0500
+54f00fc55d5b576c60dc9949f9145aa5edded410|refactor: upgrade validation hooks for prepare commit message (#266)|Sat, 1 May 2021 13:23:48 -0500|Sat, 1 May 2021 13:23:48 -0500
+43086ce3808b0954859c7fbb4b4ac07e7f0f252d|ci: implement action make yarn|Thu, 29 Apr 2021 19:34:31 -0500|Thu, 29 Apr 2021 19:34:31 -0500
+9ed92f760bc22726d4f87a27f98a9b0cffda8d5f|ci: implement action make git|Thu, 29 Apr 2021 19:34:30 -0500|Thu, 29 Apr 2021 19:34:30 -0500
+d552f34030bd542e6730959082be4178725205a7|ci: implement hooks prepare commit msg|Thu, 29 Apr 2021 19:34:29 -0500|Thu, 29 Apr 2021 19:34:29 -0500
+590a4aede983f5149ffe7ec261b67bfff870a872|ci: implement action make python|Thu, 29 Apr 2021 19:34:21 -0500|Thu, 29 Apr 2021 19:34:21 -0500
+9169ddcf46e6c09de611fe2828e76c11b0d84a9e|ci: implement template support github|Thu, 22 Apr 2021 01:49:10 -0500|Thu, 22 Apr 2021 01:49:10 -0500
+3b1889de37d92fa208252a63d1b1ce057839db95|docs: implement change contributing (#266)|Thu, 22 Apr 2021 01:48:55 -0500|Thu, 22 Apr 2021 01:48:55 -0500
+7462fd73bee85564ba34fa116e8040626f34a6fa|ci: implement template semantic github|Thu, 22 Apr 2021 01:48:49 -0500|Thu, 22 Apr 2021 01:48:49 -0500
+827d7c9b59c391c5ee2e95edd6e6aad464ebe214|ci: implement stale configuration for github|Thu, 22 Apr 2021 01:48:48 -0500|Thu, 22 Apr 2021 01:48:48 -0500
+019873ff30d2aa1c919c9cce63144417bce6b90f|ci: implement renovate configuration|Thu, 22 Apr 2021 01:48:46 -0500|Thu, 22 Apr 2021 01:48:46 -0500
+79c4251e333cc5acde85457f488dd1796015c1ee|ci: implement license support github|Thu, 22 Apr 2021 01:48:45 -0500|Thu, 22 Apr 2021 01:48:45 -0500
+2129ff100dcfda6f1999c46ed742ba74eb5e67db|chore: implement kind issues for github (#260)|Thu, 22 Apr 2021 01:48:40 -0500|Thu, 22 Apr 2021 01:48:40 -0500
+6cad1ecf9d3c792ae27f9a52331dcb2357bb4ff8|chore: implement kind issues for github (#260)|Thu, 22 Apr 2021 01:48:38 -0500|Thu, 22 Apr 2021 01:48:38 -0500
+b035f2d80767f45ce43f333f7fdff15dd4345580|chore: implement kind issues for github (#260)|Thu, 22 Apr 2021 01:48:37 -0500|Thu, 22 Apr 2021 01:48:37 -0500
+01ae6ffb1622a5b7a469f9bf9ae5669492cd2dd8|Delete LICENSE|Thu, 22 Apr 2021 01:44:21 -0500|Thu, 22 Apr 2021 01:44:21 -0500
+40ad6934f98c767e9ae62083b1591ea498048272|Delete .github/FUNDING.yml|Thu, 22 Apr 2021 01:43:43 -0500|Thu, 22 Apr 2021 01:43:43 -0500
+827341f3c21f88b007eaf5fc8529fae003bb23e8|Delete .github/semantic.yml|Thu, 22 Apr 2021 01:43:28 -0500|Thu, 22 Apr 2021 01:43:28 -0500
+e992f453c359228b6424f087c67f24271acc6148|Delete .github/renovate.json|Thu, 22 Apr 2021 01:43:25 -0500|Thu, 22 Apr 2021 01:43:25 -0500
+9d5c985bd894e01060088d674a1841933faddf2b|Delete .github/stale.yml|Thu, 22 Apr 2021 01:43:22 -0500|Thu, 22 Apr 2021 01:43:22 -0500
+324078e0ba668784a5a45ef1a07ee7179a6a678d|ci: implement stale configuration for github|Thu, 15 Apr 2021 16:49:46 -0500|Thu, 15 Apr 2021 16:49:46 -0500
+e62bf9eca8fb11def7f6ce69b2771fcd0048a2f5|ci: implement pull request template|Thu, 15 Apr 2021 16:49:45 -0500|Thu, 15 Apr 2021 16:49:45 -0500
+e2f96f552e2dc786065c93cf9b391ae20a944bdc|ci: implement template support github|Thu, 15 Apr 2021 16:49:44 -0500|Thu, 15 Apr 2021 16:49:44 -0500
+ed92e3565c5a10d3f3d4baa348cae12ac101bb13|ci: implement issue template bug report|Thu, 15 Apr 2021 16:49:42 -0500|Thu, 15 Apr 2021 16:49:42 -0500
+0976e4e015a4c904eb53eb7509a033043fc13f8f|ci: implement issue template general|Thu, 15 Apr 2021 16:49:41 -0500|Thu, 15 Apr 2021 16:49:41 -0500
+722d611e4317eeddad4dde0bf6c8b379e404879f|ci: implement issue template feature request|Thu, 15 Apr 2021 16:49:37 -0500|Thu, 15 Apr 2021 16:49:37 -0500
+b86fef9b785de5669e115e6f086d811f29e37a2d|Delete .github/stale.yml|Thu, 15 Apr 2021 16:37:55 -0500|Thu, 15 Apr 2021 16:37:55 -0500
+88d0092644cf20db046cb9fbdff8b523cec8e3ee|Delete .github/FUNDING.yml|Thu, 15 Apr 2021 16:36:30 -0500|Thu, 15 Apr 2021 16:36:30 -0500
+3167033b5a9193f723392dd2bc577b3365c628b2|ci: implement template semantic github|Tue, 13 Apr 2021 00:27:32 -0500|Tue, 13 Apr 2021 00:27:32 -0500
+5e56273170af6a242e1d2455a572177288aee3db|ci: implement stale configuration for github|Tue, 13 Apr 2021 00:27:30 -0500|Tue, 13 Apr 2021 00:27:30 -0500
+7973fc37e5559c25ff55ca8ab5a838abc2f924d6|ci: implement renovate configuration|Tue, 13 Apr 2021 00:27:28 -0500|Tue, 13 Apr 2021 00:27:28 -0500
+3f8114f360af44e9d35c498e0ccb377c546e0ee3|Delete .github/stale.yml|Tue, 13 Apr 2021 00:21:44 -0500|Tue, 13 Apr 2021 00:21:44 -0500
+726356a478855ebec18b354515eb0d40833bcaa7|Delete .github/semantic.yml|Tue, 13 Apr 2021 00:20:57 -0500|Tue, 13 Apr 2021 00:20:57 -0500
+a4813b04e4e15eacead9e99de04047d192cf83e1|docs: implement support funding github (#268)|Sun, 11 Apr 2021 21:37:20 -0500|Sun, 11 Apr 2021 21:37:20 -0500
+d54fda89da99be29a323f4c6bbb2753d662b1c81|ci: implement github stale (#268)|Sun, 11 Apr 2021 21:37:15 -0500|Sun, 11 Apr 2021 21:37:15 -0500
+f90c468184c81223c56cab7db08fb4a6146d0fb2|chore: implement license lgpl v3 (#292)|Sun, 11 Apr 2021 21:37:14 -0500|Sun, 11 Apr 2021 21:37:14 -0500
+5f26945a87c2d3bfa36ddeb0ac16e926d87c80f1|chore: implement kind issues for github (#260)|Sun, 11 Apr 2021 21:37:12 -0500|Sun, 11 Apr 2021 21:37:12 -0500
+dccb89c637ac74a2f3a9c23c8357fecf64be5ddd|ci: implement license support github|Sun, 11 Apr 2021 19:12:38 -0500|Sun, 11 Apr 2021 19:12:38 -0500
+8e82c1992c08aedfe5583181cdc041b3a976f0a8|ci: implement template semantic github|Sun, 11 Apr 2021 19:12:32 -0500|Sun, 11 Apr 2021 19:12:32 -0500
+2b84be35d9e058f28a07320f5ca4b28e681f539b|ci: implement template support github|Sun, 11 Apr 2021 19:12:29 -0500|Sun, 11 Apr 2021 19:12:29 -0500
+5a058f177b14b5bda7ed60afc76ac90b0e8d8ad4|ci: implement template stale github|Sun, 11 Apr 2021 19:12:23 -0500|Sun, 11 Apr 2021 19:12:23 -0500
+2e1111edc9b93a6070a2d28cf29ab6953611b1d7|build: generated readme (#292)|Tue, 30 Mar 2021 18:48:54 -0500|Tue, 30 Mar 2021 18:50:28 -0500
+9662c3e3c4b509d1835c69e5ec0ccd2698f9316b|chore: implement start compinit (#292)|Tue, 30 Mar 2021 18:46:47 -0500|Tue, 30 Mar 2021 18:50:28 -0500
+2d452b8a2f6c8e4154069ea954030c4f51b14d6a|refactor: configuration github actions (#292)|Tue, 30 Mar 2021 18:45:27 -0500|Tue, 30 Mar 2021 18:50:28 -0500
+aeff1cecec0eb268957cff9caf4f88cb6fef85dd|chore: implement license lgpl v3 (#292)|Tue, 30 Mar 2021 18:44:50 -0500|Tue, 30 Mar 2021 18:50:28 -0500
+c82c90401b9716fc0352b354164e326fb84a3a08|perf: functions path load zsh (#290)|Fri, 26 Mar 2021 21:50:32 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+57b65fca24bbb3fe79d29dfddf1053f0d2d45ead|perf: clean bin functions unnecessary (#290)|Fri, 26 Mar 2021 21:49:51 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+627020795831c46b7e04869e8bdbe04732be3fac|build: permissions files (#290)|Fri, 26 Mar 2021 16:04:10 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+b933edd990bf765ab0614fb9f4e4de42ad7476fd|chore: implement path cache dotfiles (#290)|Fri, 26 Mar 2021 15:59:47 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+76fae9e64b671aa28d71b3eeca77137fadb5b082|build: permissions files and upgrade hooks pre-commit (#290)|Fri, 26 Mar 2021 15:54:00 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+a565cb20ee4211232251990c2b59e0fe581c6c9f|refactor: bin for path (#290)|Fri, 26 Mar 2021 15:21:47 -0500|Fri, 26 Mar 2021 21:53:52 -0500
+08395120e177068eb5e14cc07742f701c59ccdf4|fix: env ksh to zsh (#288)|Thu, 25 Mar 2021 18:44:00 -0500|Thu, 25 Mar 2021 18:45:24 -0500
+f88985f457f5024485e2b6b79b4893cbbdfbafd8|refactor: load zsh modules (#286)|Thu, 25 Mar 2021 01:48:19 -0500|Thu, 25 Mar 2021 02:06:41 -0500
+ab4a3f98f144888be30dce67ab6d5576f4140ba3|refactor: mod files zsh (#286)|Thu, 25 Mar 2021 01:39:38 -0500|Thu, 25 Mar 2021 02:06:41 -0500
+fbb592dffed4e15611c40fbabf36445fe26227a1|chore: implement mod zsh-config (#286)|Thu, 25 Mar 2021 01:26:37 -0500|Thu, 25 Mar 2021 02:06:41 -0500
+d91faf5433497ad86373c2bde37005f565b775bc|chore: implement load functions and site-functions (#286)|Thu, 25 Mar 2021 01:18:25 -0500|Thu, 25 Mar 2021 02:06:41 -0500
+91c4a7513a7b443e8d289af6a79b570f8c7bf278|fix: load function backup and mod zsh (#284)|Wed, 24 Mar 2021 22:33:14 -0500|Wed, 24 Mar 2021 22:35:11 -0500
+018797c156c6debff0f654917df02ad3537886f3|chore: implement load zsh mod in bin (#282)|Wed, 24 Mar 2021 22:11:22 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+4485cba02ea9ff529a99825b28fbf4acf3a5f750|perf: separated code load config (#282)|Wed, 24 Mar 2021 22:10:46 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+7e85d2e87256193e53f7cae177957ca48a66e385|perf: upgrade version node (#282)|Wed, 24 Mar 2021 22:10:19 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+5ed805a84ec508e240edd0cd7cc72a419bdc4b55|chore: implement command backup (#282)|Wed, 24 Mar 2021 22:07:52 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+d568ef8583c39c0716af90f1e72290728ba67699|chore: implement dependence ksh (#282)|Wed, 24 Mar 2021 20:38:52 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+3dec2126dd1527b8570e031af411073315892d6c|fix: load zsh (#282)|Wed, 24 Mar 2021 20:35:11 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+c50cef3a3a999f0cc9fdfee212c20fe179ab9ef2|chore: implement load autoload in zshrc (#282)|Wed, 24 Mar 2021 20:30:26 -0500|Wed, 24 Mar 2021 22:13:59 -0500
+a081df7de1806c9227f4126d7ca370ec39db4fb0|perf: order plugins zsh (#280)|Wed, 24 Mar 2021 18:38:27 -0500|Wed, 24 Mar 2021 18:40:07 -0500
+04aaa3515196712425cf8a74c2b81fab63415785|fix: clean unnecessary dependences (#278)|Sat, 20 Mar 2021 21:43:42 -0500|Sat, 20 Mar 2021 21:46:01 -0500
+4c3ee0addd9d2fcbff101b98f0abe48e66524eaa|chore: implement permissions for dotfiles::upgrade (#276)|Sat, 20 Mar 2021 21:10:35 -0500|Sat, 20 Mar 2021 21:13:37 -0500
+c4ef402d2b2a72b3d793bba9d776bbcccfec63b3|fix: url install brew (#276)|Sat, 20 Mar 2021 20:12:35 -0500|Sat, 20 Mar 2021 21:13:37 -0500
+18b051cb02cfe91698254652cce63d7a7e3ea180|fix: name dotfiles to dotfiles upgrade (#274)|Sat, 20 Mar 2021 02:31:04 -0500|Sat, 20 Mar 2021 02:32:34 -0500
+2b84d92c8d4c72401659d7c1fb2d76d3e7ef4198|build: generate readme (#272)|Sat, 20 Mar 2021 01:19:34 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+648141fb8ece2a5c030b1050638488a5a44c6381|build: generate lock yarn (#272)|Sat, 20 Mar 2021 01:18:35 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+3151d6a47a3cb7b2b7e55772db4b65839cffd252|chore: implement bin dotfiles (#272)|Sat, 20 Mar 2021 01:17:13 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+871c106f642f278e4bed5afeaf814be26da25f53|refactor: dependences clean unnecessary (#272)|Sat, 20 Mar 2021 01:00:01 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+5be7023c384823ef234618713c1f8496b7226fab|docs: change information author (#272)|Sat, 20 Mar 2021 00:58:57 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+0abf5b790c7645ecfd6bd2de309aa18eead1f008|refactor: actions reviewers git (#272)|Sat, 20 Mar 2021 00:58:16 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+97c85f5cc46cd7bfb3390b72329899c85c7714ee|refactor: upgrade template readme (#272)|Sat, 20 Mar 2021 00:57:21 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+43d1dc1be92c625b15c81e867483ae78efa40eeb|refactor: configuration commitlint (#272)|Sat, 20 Mar 2021 00:56:46 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+1a72c1a6dda2b8aeb80c1075413652b693812a16|chore: implement github actions release (#272)|Sat, 20 Mar 2021 00:55:51 -0500|Sat, 20 Mar 2021 01:20:53 -0500
+b723d64e347781983704cf0ba2b6a0d31d2048da|build: generate gitignore (#270)|Mon, 15 Mar 2021 17:41:00 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+ee3e341f7c78a0ee79cb87e2f4602c5d15136c54|refactor: setup zsh environment (#270)|Mon, 15 Mar 2021 17:40:17 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+6c1feafb16e299f8e818013e804adc8c67a5ef26|refactor: configuration dockerfile (#270)|Mon, 15 Mar 2021 17:39:46 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+7fef0f34313e8c0a9e03aa902072e88ada78cea6|chore: implement reviewers action (#270)|Mon, 15 Mar 2021 17:35:33 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+fcfad3b57909f8758ceb3ed2cd25bd3c6106fb4d|refactor: generator readme (#270)|Mon, 15 Mar 2021 17:26:28 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+f0fc25f3f4684d75bcd8c30b5cfe618e8735d8b0|style: format message make (#270)|Mon, 15 Mar 2021 17:24:45 -0500|Mon, 15 Mar 2021 17:42:20 -0500
+78212c702e0a566e606c3a19649fe003dd79dfb1|ci: implement github stale (#268)|Sun, 7 Mar 2021 12:21:53 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+715a0b45b1434084e07c81b8c95d2bffc3ba3524|build: generate lock yarn (#268)|Sun, 7 Mar 2021 12:21:27 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+30a7ce730b9073de91013d774c1c024a8b7d5983|style: format changelog template (#268)|Sun, 7 Mar 2021 12:20:52 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+01f123ef60814bd7e0935f88406759981b8861eb|refactor: configuration project (#268)|Sun, 7 Mar 2021 12:20:02 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+1f411131abab72d86ea9a99b25d80fa9a7b4c03a|docs: implement support funding github (#268)|Sun, 7 Mar 2021 12:18:52 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+ddc4712452cebe5a86d7a54c187f9cbcb9368ac4|refactor: actions make (#268)|Sun, 7 Mar 2021 12:18:21 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+1df5268ab4c129994b3e6162bcd9cb01eedeee89|refactor: configuration docker and docker-compose (#268)|Sun, 7 Mar 2021 12:17:25 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+2095084def5a8e2ba00f998fd281502dabc056ab|docs: implement example structure (#268)|Sun, 7 Mar 2021 12:16:47 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+aa0d0ad4cd6b7f59afc1bc8760027d4800c40c81|chore: implement actions lint github (#268)|Sun, 7 Mar 2021 12:15:46 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+af6cf7e3eee3614f7d55eed31505624d72d75347|refactor: template readme (#268)|Sun, 7 Mar 2021 12:14:45 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+b2f1667c7801832f096e6ffc26d4256d10d58316|chore:  implement git actions make (#268)|Sun, 7 Mar 2021 12:13:42 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+26803832bd30467696de3b2fbaf914212b574e44|refactor: lints github and pre-commit (#268)|Sun, 7 Mar 2021 12:12:32 -0500|Sun, 7 Mar 2021 12:23:12 -0500
+b4fb4fbe878f570dbb57f35b768c4eab699f3470|build: prettier code (#266)|Tue, 9 Feb 2021 03:42:10 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+1671b1d41122c51412203bdddbd11183756f4f36|build: generate lock yarn (#266)|Tue, 9 Feb 2021 03:40:42 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+2a13ef8789bf7dbd87e2f604c5ef915e73a13709|style: format code for changelog (#266)|Tue, 9 Feb 2021 03:39:56 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+b1c0a8a25bbbc8e20eff1ba33c1cf535c87708f0|style: format syntax code (#266)|Tue, 9 Feb 2021 03:39:09 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+9b58f3ab6b9dc423b3408f9cbec888dca8cd94d5|docs: implement change contributing (#266)|Tue, 9 Feb 2021 03:36:42 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+37dcbdd23e4854727eef68b1572284f32b8f7449|refactor: upgrade validation hooks for prepare commit message (#266)|Tue, 9 Feb 2021 03:35:47 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+d874769edb8c1b43ba44794b4fb898c4f3577066|refactor: information funding for user support (#266)|Tue, 9 Feb 2021 03:34:50 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+3744e6966b49593744dacc7f0b4c1de435671b9c|refactor: generator readme with go template (#266)|Tue, 9 Feb 2021 03:32:30 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+17aa4fbdf500e66c264c9dd034e453f9105b6b41|refactor: path files lint to github lint (#266)|Tue, 9 Feb 2021 03:29:18 -0500|Tue, 9 Feb 2021 03:43:54 -0500
+cb74f5b0adc2c5c7d4cd1bc530612cb9dae3b9d9|style: format settings syntax code (#264)|Mon, 18 Jan 2021 13:54:39 -0500|Mon, 18 Jan 2021 13:56:41 -0500
+75e8828ec968a4ea8e56eb8637f9e9e4505a666c|chore: implement ignore file for prettier command changelog (#264)|Mon, 18 Jan 2021 13:53:33 -0500|Mon, 18 Jan 2021 13:56:41 -0500
+8fea8c0b40dd726d6800558dc702f362a8384bc9|docs: unnecessary information for iota (#264)|Mon, 18 Jan 2021 13:50:22 -0500|Mon, 18 Jan 2021 13:56:41 -0500
+a83fa7e62074875e665ecff06c1a9d50c53e07e7|chore: implement settings funding (#264)|Mon, 18 Jan 2021 13:46:07 -0500|Mon, 18 Jan 2021 13:56:41 -0500
+54eddbe5eb0172a9bb1796322e57fd795bb2d929|build: generated code changelog template (#260)|Sat, 16 Jan 2021 09:37:40 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+9357afac64db494e755cb89ba9a77857be789ae9|chore: implement chglog templates (#260)|Sat, 16 Jan 2021 09:37:03 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+02c32d7238da73bef31408f6f3a6850961031c1d|perf: clean pyenv local unnecessary (#260)|Sat, 16 Jan 2021 09:24:25 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+b9b1399c0d044567ef442ec7d40f0021009fdcc6|docs: change title project (#260)|Sat, 16 Jan 2021 09:22:10 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+7aecbec672a33b8a432d86cb9f7d884444353b82|chore: implement dependences for mkdocs (#260)|Sat, 16 Jan 2021 09:21:16 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+a08f6fc8f3e779b223f8164e13966d33e9d1245a|refactor: path docs rst to md (#260)|Sat, 16 Jan 2021 08:48:32 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+0d1a4773b929c2dedb9c562a01323e9c852eca46|chore: implement configuration for app and shell (#260)|Sat, 16 Jan 2021 08:37:17 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+61a5eb2c738b59c09e5b87c46380373228657884|build: clean puppet and zshrc unnecessary (#260)|Sat, 16 Jan 2021 08:35:59 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+468f7a8e9b600fae8044e1e51d1ea4f0b439ef57|refactor: hooks pre-commit packages (#260)|Sat, 16 Jan 2021 08:34:33 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+df290e231e92e1c03cdaf69d481ad5eefed5b313|chore: implement kind issues for github (#260)|Sat, 16 Jan 2021 08:06:04 -0500|Sat, 16 Jan 2021 09:40:34 -0500
+4e66e04163942f363cdf47ffb7f7a8563dd9f42a|feat: change cask to --cask for brew (#258)|Sun, 10 Jan 2021 22:36:12 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+48b02515411fdc4a550df50bc554382c41dda428|docs: implement name package zsh (#253)|Sat, 28 Nov 2020 20:42:55 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+e0ca7cefebf6fdd049fb3f4ad29b6311e43f96db|chore: implement zsh login after install (#251)|Sun, 22 Nov 2020 21:20:18 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+aa86d45178a5b93f89817e8c1ead1c5cb5a87254|refactor: delete package unneccesary zsh (#251)|Sun, 22 Nov 2020 21:14:42 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+23257bc902f1ba43d124503e3e828beca581370e|refactor: settings pre-commit (#251)|Sun, 22 Nov 2020 21:11:36 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+e9e345006022c8b4c63a909a9bd84e04a45cb9f5|style: clean format lintstaged (#251)|Sun, 22 Nov 2020 21:11:03 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+714786dc4ed38c5d6a42688427a14b78d7ab0652|chore: clean unnecesary package zsh-async (#251)|Sun, 22 Nov 2020 21:07:12 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+bbf7eefd9d9455fe3a2fb5a220d110627d84a986|feat: clean files not load for zsh (#248)|Sat, 7 Nov 2020 09:38:15 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+82544c26295073fa41a4de040111b04349fc4659|feat: change version of node (#243)|Tue, 28 Jul 2020 15:03:35 -0500|Fri, 15 Jan 2021 23:32:32 -0500
+4570ddfc67667ad436f862eb0baba5b4f0b37d7e|chore: delete files not used (#243)|Fri, 15 Jan 2021 23:32:13 -0500|Fri, 15 Jan 2021 23:32:13 -0500
+8463584d7ec8f4d3b7029f16b8a9a791cd0dc600|refactor: settings load zsh mod vim and aliases (#241)|Mon, 27 Jul 2020 11:34:42 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+53accb49e7ca0697eea49487efc40d4fca82aed4|style: format code (#239)|Mon, 27 Jul 2020 11:18:16 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+05823293a42c93e400559e0d391630843710bb0b|chore: implement refactor package for node (#239)|Mon, 27 Jul 2020 11:16:53 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+6352811080d090fc0fb3ec00a6a77f7f603b73d6|refactor: change settings for project (#239)|Mon, 27 Jul 2020 11:15:57 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+16363f40b2803fcfaa49d1731bb739e4faf90eb8|docs: implement info for project (#239)|Mon, 27 Jul 2020 11:15:06 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+ff3367dc1c2cbd8326255312bdd22f60670e19e7|refactor: maintainer for dockerfile (#239)|Mon, 27 Jul 2020 11:14:32 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+4dd02c9624d7e0a9a27a4d02dcd8fdbcc3cca4ec|refactor: actions for make (#239)|Mon, 27 Jul 2020 11:13:57 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+34cdb715eeb2a8f6ec886dab539af2589c43876d|refactor: hooks shell lint and docker (#239)|Mon, 27 Jul 2020 10:53:22 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+6f07069be9c0380a0fffc721f32f57dbd07f1dad|refactor: change name functions for bash (#239)|Sat, 11 Jul 2020 19:52:14 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+f0b94939848424dc6fb8b2c447797aa82e48fdbb|refactor: change name url with rebrand (#237)|Sat, 11 Jul 2020 14:52:27 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+42fce4b8f2318a0ef4e19d343189a163db40a996|refactor: delete dependences of packages unnecesary (#237)|Sat, 11 Jul 2020 14:44:20 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+e098e38b0a969420babffe3b2dd0b741a732a9f6|refactor: package for zshenv (#237)|Wed, 8 Jul 2020 22:46:11 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+969e0b5f08a328cff7bb001b80911c8f903cea97|refactor: function for vim mode (#233)|Wed, 27 May 2020 23:10:16 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+240247cab90bb2fdc3f8c6dc6357acc5e416c159|style: format gopath (#231)|Wed, 27 May 2020 23:03:23 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+cc2752218b91402a5c9fd6e28265ce70e2378358|refactor: clean files unnecesary completion (#231)|Wed, 27 May 2020 22:55:06 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+8d1895b207abb190d84a7f2b77fb605a908ae56c|feat: disabled execute command pre_window (#231)|Wed, 27 May 2020 22:36:31 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+c35bc2f3c7ae8e51bf9bbc83b7271ed1d36fbd14|refactor: functions for module ssh (#231)|Wed, 27 May 2020 06:57:05 -0500|Fri, 15 Jan 2021 23:32:00 -0500
+0b3b52b0b46368af86a6273878dadc39dab963ef|refactor: conf shell to zsh path (#231)|Wed, 27 May 2020 06:51:30 -0500|Fri, 15 Jan 2021 23:31:59 -0500
+c53342d87f10f4ff8ba739326d57ce065303916a|refactor: path src to zsh (#231)|Fri, 15 Jan 2021 23:31:36 -0500|Fri, 15 Jan 2021 23:31:36 -0500
+d6fa1b1107304fb4e461badf6e9f25fd72aefe48|refactor: settings path local (#229)|Sun, 24 May 2020 05:53:58 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+3b2520449e195834e4ca27b992b3b1615202f446|chore: delete unnecesary code settings (#229)|Sun, 24 May 2020 05:38:22 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+144f0199cf1255aae572e739564c6727eb6eaf90|chore: upgrade settings for gitignore (#229)|Sun, 24 May 2020 05:34:45 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+da5f79f9653d2781780ef8b32ddd3261309cac58|refactor: load package with antibody (#226)|Sat, 23 May 2020 21:29:17 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+be62920873ebc7c0bc15a43ffda6068f6fce2fe9|refactor: name vars projects (#226)|Sat, 23 May 2020 21:27:23 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+643326f6495a02cee9ea594be843a23368b9e284|refactor: settings header max commitlint (#226)|Sat, 23 May 2020 21:26:40 -0500|Fri, 15 Jan 2021 23:31:16 -0500
+a0eed397dc245e4b5dae254890f79000e2dbfb20|chore: implement load nvim as vim when exist (#226)|Fri, 15 Jan 2021 23:30:53 -0500|Fri, 15 Jan 2021 23:30:53 -0500
+aed4da010b31a3eadb877c0c89362a242a868419|chore: load function path_remove_duplicate (#224)|Sat, 16 May 2020 23:03:23 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+e99964e45b3c2c8742c0b76eb72fcb741bdb901e|refactor: path set value directory (#224)|Sat, 16 May 2020 22:46:50 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+54b3c9820304c99c8cff79d0ecbcf7a0df678326|refactor: validation set vars to project (#224)|Sat, 16 May 2020 22:22:59 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+d1325555b4bbd1de12302583c7f3904e053c2d41|docs: fix value version (#224)|Sat, 16 May 2020 22:22:20 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+f993869e4fa5a129bc55c314b4d316484496e1d5|refactor: load code vars (#222)|Sat, 16 May 2020 18:44:11 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+d7e8cc9ff2d93974648c8f45c7102a769b125150|chore: implement functions for edit (#222)|Sat, 16 May 2020 18:36:41 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+e35d7301fbeee30fe5ab0e69de13d56d24d6fd2e|chore: implement loads plugins zsh (#222)|Sat, 16 May 2020 18:24:43 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+9dd2616b9a9bb937d6cf1f70a803ad85c0d2ce47|refactor: editor code module main (#222)|Sat, 16 May 2020 18:17:31 -0500|Fri, 15 Jan 2021 23:30:38 -0500
+4b2548fc14924b3d2ea91d35e2bc8e4b2d316e17|refactor: file pipfile (#222)|Sat, 16 May 2020 18:12:54 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+ca9892f0c901afffddcf583ed93f00cd2b5a2af1|refactor: function names for messages (#222)|Sat, 16 May 2020 18:12:20 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+b01daad2aac0324e6ccbe73f2303ddc91edf7c98|refactor: docs info (#222)|Sat, 16 May 2020 18:03:18 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+70978556580c7a3081402e2e0d73bdcac0dc7f16|fix: url linkedin owner (#222)|Sat, 16 May 2020 18:02:17 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+32fb7c30015baac9a04b441a54ffc6bb88d78112|chore: implement settings for settings eslint, prettier (#222)|Sat, 16 May 2020 18:01:07 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+7074c8db718a787572e5a9b0979ad0482af60ce1|refactor: settings name package (#222)|Sat, 16 May 2020 17:59:53 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+361e9414b0eb95936db835e1bb4e3232f91f77cc|chore: implement actions for keybase (#222)|Sat, 16 May 2020 17:58:35 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+ac94e1be2939c6a30ef890832f9c96e9fd41ba50|chore: implement ssh code (#220)|Sun, 26 Apr 2020 23:44:38 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+e035fa976d2f35174f8427e27a56de4da18e9ba5|chore: implement load privaterc (#220)|Sun, 26 Apr 2020 23:34:31 -0500|Fri, 15 Jan 2021 23:30:37 -0500
+346f2303faace4cef70f07a24c35382a378614e2|chore: script update for pipfile (#218)|Sun, 26 Apr 2020 23:23:08 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+4170d1a0cad1dea0fec62ec244686eb5c1f8f4fc|chore: implement vars env with tmuxinator (#218)|Sun, 26 Apr 2020 23:22:40 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+b222c2535c668effcaa2233043000e443c0b95fe|refactor: validate dotfiles (#218)|Sun, 26 Apr 2020 23:22:14 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+5ef5088666c3def893949256360d7614d3a90a3b|refactor: packages for node validation (#218)|Sun, 26 Apr 2020 23:21:32 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+c085b12cd08dc0972ff740d40524d0d8eaca9ac2|chore: implement actions for make with keybase (#218)|Sun, 26 Apr 2020 23:19:52 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+9d8729eae0a6b956b79fc5080b73beed53f17cda|improvement: format with prettier (#218)|Sun, 26 Apr 2020 23:18:31 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+e791740a68591a0188f338f98e276fb583bcb630|chore: hooks for pre-commit eslint and prettier (#218)|Sun, 26 Apr 2020 23:17:28 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+fed2458fab1dc2d441a7990200070bd2d5ce3d47|chore: implement sudo to command pacman (#213)|Tue, 24 Mar 2020 18:35:49 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+2bad729fdb11bce4904725d811aeb646ce653a12|chore: implement packages archlinux (#213)|Tue, 24 Mar 2020 15:07:24 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+2785a0d528e03f2cb5da18778141509ed9506d70|refactor: install factory dotfiles (#213)|Tue, 24 Mar 2020 15:06:43 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+7215e757c0fe9455df04a3e9a4898e59fb6037b5|chore: implement function dotfiles::install::factory (#213)|Tue, 24 Mar 2020 15:03:25 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+a176622eb80392940f5a9e7a8f56bc177b391cb2|chore: delete scmbreeze (#213)|Tue, 24 Mar 2020 14:56:48 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+817e39264a5cea3ae929e612c27c1622e3b1bc94|chore: implement settings zunit (#213)|Tue, 24 Mar 2020 14:48:09 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+0b159b21eefb21855b47905a8968a61042dc202b|chore: implement version for setup package (#213)|Tue, 24 Mar 2020 14:47:34 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+697b86e1884187e93f7a40963e05967580949c15|chore: implement alias action for make (#213)|Tue, 24 Mar 2020 14:47:01 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+8f8790d00214d4273e4fdffc7aa038f7b7512b53|chore: change branch name (#213)|Tue, 24 Mar 2020 14:46:22 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+82547782cde19c305d9202ae2b4084e85f6a2380|style: spaces data (#213)|Tue, 24 Mar 2020 14:45:46 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+0ea51385e88891419f5707ab6bb1ec2781f07a66|chore: update extension for editorconfig (#213)|Tue, 24 Mar 2020 14:44:49 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+4c66d54d17977618b3aad3c88f6d080f3197237d|chore: comment on project disabled in tmuxinator (#213)|Tue, 24 Mar 2020 14:43:55 -0500|Fri, 15 Jan 2021 23:30:11 -0500
+9c81fee8849fc3e696efa5b04aad762eb04cfe0f|refactor: settings shell docker and docker-compose (#213)|Fri, 15 Jan 2021 23:29:47 -0500|Fri, 15 Jan 2021 23:29:47 -0500
+8a77c915f22fa3e373937e4b251e4b258a8588c5|fix: delete platnuml (#213)|Tue, 24 Mar 2020 14:29:46 -0500|Fri, 15 Jan 2021 23:28:24 -0500
+42ef9bc1eea196e9cda45dac7243eff5254913ff|docs: implement info docs for project (#213)|Tue, 24 Mar 2020 14:28:25 -0500|Fri, 15 Jan 2021 23:28:24 -0500
+6d4f0e3eb202a3b141184ecd41580ad7ab0037ee|chore: implement packages (#213)|Tue, 24 Mar 2020 14:27:29 -0500|Fri, 15 Jan 2021 23:28:23 -0500
+eb7ede0c0276b21c30742120b0665e84ca840ed1|refactor: settings docker and docker-compose (#213)|Tue, 24 Mar 2020 14:26:14 -0500|Fri, 15 Jan 2021 23:28:23 -0500
+01b1571d0342228690e55e6e47321e2312c9f328|chore: implement for pre-commit (#213)|Tue, 24 Mar 2020 14:23:53 -0500|Fri, 15 Jan 2021 23:28:23 -0500
+1e93d194b82c036a5dddacacbfb5e95ad022cb91|chore: implement install dependences core (#213)|Sun, 8 Mar 2020 19:28:03 -0500|Fri, 15 Jan 2021 23:28:01 -0500
+dc3a19dba6fccef583854a55709ca75e8393c546|refactor: delete install osx (#213)|Sun, 8 Mar 2020 19:27:13 -0500|Fri, 15 Jan 2021 23:28:01 -0500
+93f080b0965b0be5b57dac3db94528e2bb7c463a|chore: implement install dependences for osx and arch (#213)|Fri, 15 Jan 2021 23:27:40 -0500|Fri, 15 Jan 2021 23:27:40 -0500
+e1fb01501104fe046a512442d3b034f3bb6c1969|feat: upgrade yarn packages (#210)|Mon, 17 Feb 2020 19:50:38 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+eb7369524786ac7e02616db0df7ee6443c54074a|chore: implement mod completions (#210)|Mon, 17 Feb 2020 19:49:42 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+9591898edfc8ee136d8bb529714d70ee87e451eb|feat: value new patch version (1.7.1)|Sat, 15 Feb 2020 20:42:01 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+19374dff42b1e79364025bf973e4283cdff1306c|fix: load value for version (1.7.1)|Sat, 15 Feb 2020 20:40:57 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+a6ef3b4aac447421d0f1466b54c688ea012568b7|fix: name replace value to new (1.7.1)|Sat, 15 Feb 2020 20:35:33 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+baef3420232e8fffa4d3aa673c8240f26acad1d9|fix: value for setup (1.7.1)|Sat, 15 Feb 2020 20:29:58 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+4f7d7a093facabc315d00d8dc55740912b897db4|fix: load var value for version (1.7.1)|Sat, 15 Feb 2020 20:27:59 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+b685128e2d7522bd7080dc34a4eb6a0e36e4b1cd|chore: implement load bindkey (1.7.1)|Sat, 15 Feb 2020 20:25:47 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+430e9ae52b1a737da021906ddebb78cf5dacbe39|fix: load mode vim for zsh (1.7.1)|Sat, 15 Feb 2020 20:24:55 -0500|Fri, 15 Jan 2021 23:26:13 -0500
+71780ca58b4672cf9df6f47a72bc29926605c4ab|refactor: load modules completions (1.7.1)|Fri, 15 Jan 2021 23:25:53 -0500|Fri, 15 Jan 2021 23:25:53 -0500
+49b3238a298d134732771708886ac70821faffff|fix: load version for search and replace (1.7.1)|Sat, 15 Feb 2020 11:27:38 -0500|Fri, 15 Jan 2021 23:25:39 -0500
+5d0f0eccf76dcfcc576694c09199a522d07d90bb|refactor: load best settings for zshenv (1.7.1)|Fri, 15 Jan 2021 23:25:17 -0500|Fri, 15 Jan 2021 23:25:17 -0500
+7ecfd9b0b5b42789d8c30750556b2f2f193a33f6|refactor: load mod without completions (1.7.1)|Fri, 15 Jan 2021 23:23:05 -0500|Fri, 15 Jan 2021 23:23:05 -0500
+e110862b51d313ddfb111e328438ffb19a54f465|refactor: upload shell command (#207)|Sat, 15 Feb 2020 00:14:55 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+545ddae71fd4486105b98178c31a0cd67c25a1c7|refactor: load code for completions (#207)|Sat, 15 Feb 2020 00:12:37 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+998a3105799b9b1853c0a0d68fd6630ef490078d|fix: load var for path value (#207)|Fri, 14 Feb 2020 23:43:41 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+8d14060662ee197918bc36af925e03919e2acf7b|chore: load bin of dotfiles (#207)|Fri, 14 Feb 2020 22:00:13 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+ebb391897b8a941bddd88eb9e05c8b0994d375ea|chore: implement version 1.7.0 (1.7.0)|Sat, 15 Feb 2020 01:29:05 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+1a8ef06e2a6d65c7ff922dac46bc3d3e1c4637bf|fix: value version (1.7.0)|Sat, 15 Feb 2020 01:28:08 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+0a2a031b413ed3e962dc97aa09948170dc02348c|refactor: load bin more fast (#204)|Fri, 14 Feb 2020 21:37:00 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+ec33f0caf534343677ab8323227151c26f28f137|refactor: load modules of zsh (#204)|Fri, 14 Feb 2020 21:26:32 -0500|Fri, 15 Jan 2021 23:21:54 -0500
+7a8e85dfe2a7b4773f165887b3f7bb8e7473d0f3|refactor: change path for completion (#204)|Fri, 15 Jan 2021 23:21:32 -0500|Fri, 15 Jan 2021 23:21:32 -0500
+aea60aac28410acd67c69363f0424acdfef7a661|feat: deleted unnecesary hammerspoon (#204)|Fri, 14 Feb 2020 20:19:51 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+cfde2142f69cecad65579e930ddcc5c63fecf791|style: format json (#204)|Fri, 14 Feb 2020 20:17:30 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+6704f41df94562f99362c448a69658ca80d14be3|feat: clean unnecesary action (#204)|Fri, 14 Feb 2020 20:16:10 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+69b270e1746d4a23e99b8cec58ed63e29df5b2f1|chore: implement file package.json version (#204)|Fri, 14 Feb 2020 20:15:39 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+2100308df3af513dc7d3916a58b3b7d2cc99ffd1|feat: upgrade year license (#204)|Fri, 14 Feb 2020 20:15:03 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+c58b7ca4fb69941e91c40501bc016d10a6169369|chore: implement package validation for prettier (#204)|Fri, 14 Feb 2020 20:14:10 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+06a33571351dda29fc6285e54a90a31221c3f340|refactor: packages install for python (#204)|Fri, 14 Feb 2020 20:13:23 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+8f721d790be880ca46e8a40aebabf394a4d660f8|refactor: clean unnecesary packages (#204)|Fri, 14 Feb 2020 20:12:44 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+4447832ddfd759c4e9aadaf8f8342774a83a6edc|refactor: settings project (#204)|Fri, 14 Feb 2020 20:10:27 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+1f21d6bd58a368bc79c3459c9bd98e9459e17f64|refactor: settings pre-commit (#204)|Fri, 14 Feb 2020 20:09:26 -0500|Fri, 15 Jan 2021 23:21:10 -0500
+6a621c9623f5f5ffcc75336a9512009efea29e46|feat: validation execute debug zsh (#202)|Mon, 20 Jan 2020 04:59:13 -0500|Fri, 15 Jan 2021 23:20:54 -0500
+c8f010625947e2869db0686d940a994136604764|chore: implement packages for zsh (#202)|Sun, 12 Jan 2020 09:53:58 -0500|Fri, 15 Jan 2021 23:20:11 -0500
+65c1bd65fbd655e3d65cb0c241faff6dcf333753|chore: Implement settings for git (#200)|Thu, 2 Jan 2020 17:44:15 -0500|Fri, 15 Jan 2021 23:19:58 -0500
+c24bcf87f1f735f4453a38bb80274588e1009ebb|refactor: upgrade settings for packages (#200)|Thu, 2 Jan 2020 17:43:44 -0500|Fri, 15 Jan 2021 23:19:44 -0500
+fc09bf1ae74b90b5fc0638268cffea0c94a079eb|fix: value for template value (#200)|Thu, 2 Jan 2020 17:40:45 -0500|Fri, 15 Jan 2021 23:19:31 -0500
+ed16c25ad85aa85c6d5732c6bc9c14c77a77af90|refactor: change version to 1.6.1|Tue, 17 Dec 2019 21:53:23 -0500|Fri, 15 Jan 2021 23:19:20 -0500
+01bec1c85d65361b5100bae35a95ddd6e934b227|refactor: change load account github (1.6.1)|Tue, 17 Dec 2019 21:37:15 -0500|Fri, 15 Jan 2021 23:18:59 -0500
+7669a2eb1d8e482e508d673d45f69b170c95eee0|fix: clean packages unnecessary (1.6.1)|Tue, 17 Dec 2019 21:36:39 -0500|Fri, 15 Jan 2021 23:18:33 -0500
+1368248f5983c36cd0bd87b8645e038744e5d24c|docs: info change for 1.6.0|Wed, 11 Dec 2019 17:38:27 -0500|Fri, 15 Jan 2021 23:18:22 -0500
+4f59d48c20fb25b6a4e3553030a8a691cac084be|build: implement new version (1.6.0)|Wed, 11 Dec 2019 17:34:02 -0500|Fri, 15 Jan 2021 23:18:00 -0500
+6eeae9de1e62f1856a3ae50e4c97b8628daff2ce|refactor: settings for zshenv and zshrc (#198)|Wed, 11 Dec 2019 16:50:04 -0500|Fri, 15 Jan 2021 23:17:46 -0500
+2d96cbb711f99d026dd20b99f516e351643b9acc|fix: validation load env (#198)|Tue, 10 Dec 2019 09:07:28 -0500|Fri, 15 Jan 2021 23:17:32 -0500
+0d90c9deb6c0c99aad69217f323832607b94cf84|refactor: packages for zsh (#198)|Tue, 10 Dec 2019 09:07:02 -0500|Fri, 15 Jan 2021 23:17:18 -0500
+ae62000d4d2c39b952d853da2f4dc7865238bee6|feat: disabled pre-window (#198)|Tue, 10 Dec 2019 09:04:45 -0500|Fri, 15 Jan 2021 23:16:51 -0500
+72d9036d67558e49bfdaccea8a81ce063db63a37|feat: implement ignore vscode (#198)|Mon, 2 Dec 2019 16:42:35 -0500|Fri, 15 Jan 2021 23:16:30 -0500
+c524cd900708663befcdf34fc1863f1eb1de1332|feat: clean action for make (#198)|Mon, 2 Dec 2019 16:42:02 -0500|Fri, 15 Jan 2021 23:16:15 -0500
+2e73497bb60f025e1ea356fb0a093fb20e56f34d|refactor: settings for vscode (#198)|Mon, 2 Dec 2019 16:41:19 -0500|Fri, 15 Jan 2021 23:15:40 -0500
+e104d1594bdfc58f0d7720e88e1593428253f7f5|fix: install pre-commit hooks (#198)|Mon, 25 Nov 2019 02:24:02 -0500|Fri, 15 Jan 2021 23:15:22 -0500
+8ba4029e9e1e010cef058991ce24e1ad5985f645|chore: clean install and settings tmux (#198)|Mon, 25 Nov 2019 02:21:06 -0500|Fri, 15 Jan 2021 23:15:04 -0500
+c40288451c51c92e8a2704f68cd609a69f3eafed|chore: implement environments for zsh (#198)|Tue, 19 Nov 2019 18:48:47 -0500|Fri, 15 Jan 2021 23:14:50 -0500
+9dba2334f3e5d7c2121f0397d0a7ec3be6de3834|chore: clean unnecessary load bash code (#198)|Tue, 19 Nov 2019 18:47:55 -0500|Fri, 15 Jan 2021 23:14:28 -0500
+8ab363cf34f608594b83abe3cd61f5d812c7215f|fix: validation command for bash (#196)|Fri, 15 Jan 2021 23:11:08 -0500|Fri, 15 Jan 2021 23:11:08 -0500
+3ec995d88b4c93a638181ef55abf6f7ff4c90a19|chore: implement version python (#196)|Mon, 18 Nov 2019 14:49:34 -0500|Fri, 15 Jan 2021 23:09:58 -0500
+ec707362d042990f338dac60d29b666ffeeeb8ff|refactor: dependences for python (#196)|Mon, 18 Nov 2019 14:49:03 -0500|Fri, 15 Jan 2021 23:09:43 -0500
+a2f9aa9b35bf8c619e020b2fc5e306ffd849bf2d|feat: info for python service (#196)|Mon, 18 Nov 2019 14:48:23 -0500|Fri, 15 Jan 2021 23:09:27 -0500
+712aab5337fecf3eaf7990ca50e3aa8720071a6b|feat: change happy coding message (#196)|Mon, 18 Nov 2019 14:47:52 -0500|Fri, 15 Jan 2021 23:09:10 -0500
+e20f031ab64277178f44de25a56d84176de5cbfd|style: fix format changelog (#196)|Mon, 18 Nov 2019 14:46:40 -0500|Fri, 15 Jan 2021 23:08:51 -0500
+ad512407f4abc176d2bcaca046ecbffd2ba19567|fix: implement command run (#196)|Mon, 18 Nov 2019 14:42:20 -0500|Fri, 15 Jan 2021 23:08:16 -0500
+752338cdb5a29e64b895c667df26f1adfb9cae72|fix: format settings prettier (#196)|Mon, 18 Nov 2019 14:36:19 -0500|Fri, 15 Jan 2021 23:08:03 -0500
+232c7d3a5b316f7f3ad3d3419fb4b7a8bf5437fc|style: fix format code (#196)|Mon, 18 Nov 2019 14:35:52 -0500|Fri, 15 Jan 2021 23:07:49 -0500
+688e6c1dc04c189241eb0dc47de10c390dfccffc|feat: disabled fix format json (#196)|Mon, 18 Nov 2019 14:35:23 -0500|Fri, 15 Jan 2021 23:07:34 -0500
+dc103e2abf589f817e331c2ec079c6c93ce0862a|style: format alacritty (#196)|Mon, 18 Nov 2019 14:34:15 -0500|Fri, 15 Jan 2021 23:07:20 -0500
+cfba28165cae62524921e3a576a9e338482a97c4|refactor: settings for pre-commit hooks (#196)|Mon, 18 Nov 2019 14:33:16 -0500|Fri, 15 Jan 2021 23:06:59 -0500
+56612e649c531bcc2a99cb6b792550fae48f259f|refactor: settings alacritty (#196)|Mon, 18 Nov 2019 14:18:28 -0500|Fri, 15 Jan 2021 23:06:13 -0500
+b029a899d7e2af0a1ecec73adddf10db77821905|feat: clean docker test for run test.lint (#194)|Tue, 5 Nov 2019 21:44:01 -0500|Fri, 15 Jan 2021 23:05:57 -0500
+4b0d8ddd5f33ba9bcac3d9619db4aed14be5aebe|chore: implement news tools (#194)|Tue, 5 Nov 2019 21:42:12 -0500|Fri, 15 Jan 2021 23:05:40 -0500
+d55e481853b8b19689c287b20f1034202c98ffe7|chore: enabled pylint (#192)|Mon, 4 Nov 2019 11:38:57 -0500|Fri, 15 Jan 2021 23:05:21 -0500
+526df2160ac15b9705a0b497b8ae72b58acd8bcd|feat: change font family firacode (#192)|Fri, 1 Nov 2019 07:40:49 -0500|Fri, 15 Jan 2021 23:05:07 -0500
+15468fbce5dd4e23e91ac79ab1effc5cd39c638c|chore: settings keybinding and settings (#192)|Thu, 31 Oct 2019 23:58:43 -0500|Fri, 15 Jan 2021 23:04:53 -0500
+891cf0502eefc34e8941af93ea2a63625eae8d85|feat: var script (#192)|Thu, 31 Oct 2019 23:56:14 -0500|Fri, 15 Jan 2021 23:04:36 -0500
+276cd3182eddfd2da07c739e4d4387a8c48a51ab|chore: implement skip-lock (#192)|Thu, 31 Oct 2019 23:03:31 -0500|Fri, 15 Jan 2021 23:04:20 -0500
+42b4f36f421ca747def5d0611e0c98c3e91f4e6a|docs: clean ngrok (#192)|Thu, 31 Oct 2019 23:03:11 -0500|Fri, 15 Jan 2021 23:04:07 -0500
+5c8cf7ec3100267d1a55ee3f8660a9fef93d73dc|chore: ignore C0330 (#192)|Thu, 31 Oct 2019 23:02:47 -0500|Fri, 15 Jan 2021 23:03:54 -0500
+2f7aafa653755649568e28bf066e2c08e4463b41|chore: actions for make (#192)|Thu, 31 Oct 2019 23:02:28 -0500|Fri, 15 Jan 2021 23:03:40 -0500
+8a5fe0f291fbfd42849769b89820b96edbb316f5|refactor: change gitignore terraform,python,node,ansible,bash (#192)|Thu, 31 Oct 2019 17:12:29 -0500|Fri, 15 Jan 2021 23:03:11 -0500
+1867e795e93e32ac40aa9d8dd0a8e06af5f76a58|chore: implement fira code font (#190)|Mon, 14 Oct 2019 00:18:28 -0500|Fri, 15 Jan 2021 23:02:57 -0500
+677dd17f13ee8008c5cb7e756098bb387d9e7675|chore: fonts of fira code (#190)|Mon, 14 Oct 2019 00:10:32 -0500|Fri, 15 Jan 2021 23:02:37 -0500
+a98506f0958a76b4a5b562c42adfd34e6e84a4b5|feat: implement skip-lock for pipenv (#190)|Mon, 14 Oct 2019 00:09:48 -0500|Fri, 15 Jan 2021 23:02:13 -0500
+4328498aa09d9b8d39b7d9839ceffe7abb3cb155|style: format for docker-compose (#188)|Thu, 10 Oct 2019 14:01:28 -0500|Fri, 15 Jan 2021 23:01:56 -0500
+103d259574b43b50644b40ced021e99e1aa5de2f|refactor: deleted files unnecessary (#188)|Fri, 15 Jan 2021 23:01:21 -0500|Fri, 15 Jan 2021 23:01:21 -0500
+679d06e182cf40714bfa73f3929a2b5a6c0d4b82|chore: added tools for zsh (#188)|Thu, 10 Oct 2019 13:55:32 -0500|Fri, 15 Jan 2021 23:00:46 -0500
+c0dd641086baafb969dadaaf024b2404b82e9769|refactor: change zsh-gvm-plugin to zsh-goenv (#188)|Thu, 10 Oct 2019 13:54:54 -0500|Fri, 15 Jan 2021 23:00:31 -0500
+2aa4ceb2b6deb04a020d8e9d6335ca94e8edcc60|chore: clean validation nvm (#188)|Thu, 10 Oct 2019 13:50:32 -0500|Fri, 15 Jan 2021 23:00:17 -0500
+587d3b33060d349eb720991515226091ab170a05|refactor: service for docker (#188)|Thu, 10 Oct 2019 13:48:43 -0500|Fri, 15 Jan 2021 23:00:03 -0500
+9937382f7fe38ab84febbd66ef6113d31ca099af|style: format code for setup (#188)|Thu, 10 Oct 2019 13:45:05 -0500|Fri, 15 Jan 2021 22:59:46 -0500
+35b7b976291d0a8584a86d0e5f9210e583b9cdf4|refactor: upgrade settings pre-commit (#188)|Thu, 10 Oct 2019 13:44:18 -0500|Fri, 15 Jan 2021 22:59:30 -0500
+4189563a0a8a88ba6ee5c18897f8935e99beedb3|refactor: change file to example (#188)|Thu, 10 Oct 2019 13:37:06 -0500|Fri, 15 Jan 2021 22:59:15 -0500
+68690dd1c28f4dd4d32733f40565d25c383339ac|chore: implement module pomodoro (#185)|Mon, 23 Sep 2019 18:18:43 -0500|Fri, 15 Jan 2021 22:58:45 -0500
+42a0ae04c3bb6bb8ac0c78553cf35fca20bb4367|feat: implement dash app load (#185)|Mon, 23 Sep 2019 16:06:40 -0500|Fri, 15 Jan 2021 22:58:29 -0500
+8d0063d898e04213712a38c95b358dfe401eea90|feat: upgrade settings wifi (#185)|Mon, 23 Sep 2019 15:54:41 -0500|Fri, 15 Jan 2021 22:58:14 -0500
+26e9250f830db7af7b2197cf5f5d697621fe5c0b|feat: disable widget (#185)|Mon, 23 Sep 2019 15:53:13 -0500|Fri, 15 Jan 2021 22:58:00 -0500
+7d6d65a19e11409f0523253de9cd65ff133eaf26|fix: generated .env (#184)|Sun, 15 Sep 2019 09:28:58 -0500|Fri, 15 Jan 2021 22:57:45 -0500
+b5f96e6ab3267f3c1bac9fd62186fbbb3461700b|feat: implement make .env (#184)|Sun, 15 Sep 2019 09:24:03 -0500|Fri, 15 Jan 2021 22:57:29 -0500
+49215b293eb31469d1b4db98a166bc17fb26d612|chore: zshrc settings (#184)|Sun, 15 Sep 2019 06:30:39 -0500|Fri, 15 Jan 2021 22:57:14 -0500
+bba775cf9261e567fef2856b42c7e3742140cb3b|chore: environment sample (#184)|Sun, 15 Sep 2019 06:24:20 -0500|Fri, 15 Jan 2021 22:56:54 -0500
+167b26e55f1a623031e23b806d4a2263973bf86b|chore: change project (#184)|Sun, 15 Sep 2019 06:23:23 -0500|Fri, 15 Jan 2021 22:56:37 -0500
+330ed97eb8b646c78006164dc0786a42a1dc943d|chore: extras to provision (#184)|Sun, 15 Sep 2019 06:22:30 -0500|Fri, 15 Jan 2021 22:56:21 -0500
+0c9c157fa5a7936cd74fe8791f5ac46691241874|docs: info for contributing (#184)|Sun, 15 Sep 2019 06:21:49 -0500|Fri, 15 Jan 2021 22:56:05 -0500
+106bc6d4210390de0650592b3fbf27a9bab02800|refactor: extras to provision (#184)|Sun, 15 Sep 2019 06:19:47 -0500|Fri, 15 Jan 2021 22:55:24 -0500
+a5dfa240fdae21d81b0e34fe4ad9c8016f0b95d9|feat: upgrade license (#184)|Sun, 15 Sep 2019 06:12:19 -0500|Fri, 15 Jan 2021 22:55:05 -0500
+730087ffb012c111c8b23dc8decd02f3af592b15|chore: clean functions jira zsh (#184)|Fri, 15 Jan 2021 22:53:57 -0500|Fri, 15 Jan 2021 22:53:57 -0500
+3c0805e6636c5f66a3adeaca4974a1c41fd47b61|chore: actions test for make (#184)|Sun, 15 Sep 2019 06:06:41 -0500|Fri, 15 Jan 2021 22:53:22 -0500
+d876178cb6a613a87dfcfba1300adcbf4bb85e9f|chore: dependences for python (#184)|Sun, 15 Sep 2019 06:05:26 -0500|Fri, 15 Jan 2021 22:53:07 -0500
+61c7d15911d08e53988e86306c63c2708b7a83f1|refactor: upgrade structure settings (#184)|Sun, 15 Sep 2019 06:04:16 -0500|Fri, 15 Jan 2021 22:52:50 -0500
+ddd1c50d5e7037e02d247e70110d6bbc0e99a4ba|refactor: version to 1.5.0|Mon, 5 Aug 2019 12:20:11 -0500|Fri, 15 Jan 2021 22:52:32 -0500
+9ee0b1b8979ce849c1563ff9d853d3295a6b45ba|fix: update package pyyaml (1.5.0)|Mon, 5 Aug 2019 12:12:19 -0500|Fri, 15 Jan 2021 22:52:13 -0500
+378c3e19d3d8a697c759a92d6e220a20b3fc5bf5|chore: clean unnecessary file (1.5.0)|Mon, 5 Aug 2019 12:09:20 -0500|Fri, 15 Jan 2021 22:51:54 -0500
+cba84525cd589f283ecfd57f1baff198df4aaedc|feat: file for functions (#182)|Thu, 1 Aug 2019 17:21:35 -0500|Fri, 15 Jan 2021 22:51:38 -0500
+55f9e0305abbf9645db5aca4b06e998fecfdc5b9|chore: settings for wifi ulwifit (#182)|Thu, 1 Aug 2019 17:20:23 -0500|Fri, 15 Jan 2021 22:51:15 -0500
+f7238be24bcd934610c6709b0cfab6a7126ad804|chore: change load apps for hammerspoon (#182)|Thu, 1 Aug 2019 17:19:38 -0500|Fri, 15 Jan 2021 22:51:01 -0500
+f86c60caf301fca9ec86df75f1d11715829a608c|feat: clean package time machine (#182)|Thu, 1 Aug 2019 17:18:57 -0500|Fri, 15 Jan 2021 22:50:32 -0500
+2a12ab68f0a3e0db13e2116ac6c84839884f5aa6|docs: email of author (#179)|Thu, 1 Aug 2019 17:12:00 -0500|Fri, 15 Jan 2021 22:50:12 -0500
+46b90d2c57071eb09fc0cec468362c95cc023102|chore: update package for pipfile ($179)|Thu, 1 Aug 2019 17:11:14 -0500|Fri, 15 Jan 2021 22:49:57 -0500
+367a50e7cddd63711715d1c102e66fd66c3ea107|refactor: options for make file (#179)|Thu, 1 Aug 2019 17:10:21 -0500|Fri, 15 Jan 2021 22:49:42 -0500
+bed6b33fa29256b6e86fa473acd730ff0c91094e|refactor: setting for docs as service (#179)|Thu, 1 Aug 2019 17:09:37 -0500|Fri, 15 Jan 2021 22:49:29 -0500
+a6efc4bf0273d0562605d948c6050b1561e63951|chore: update setting project (#179)|Thu, 1 Aug 2019 17:08:45 -0500|Fri, 15 Jan 2021 22:49:09 -0500
+d92caf2c96817b437689bb67a7b531c0dd3ce54b|refactor: change actions for make (#179)|Thu, 1 Aug 2019 17:07:38 -0500|Fri, 15 Jan 2021 22:48:48 -0500
+4d4620d13dde2b1f0a74143bb017146520cba9a7|refactor: change settings for docker-compose (#179)|Thu, 1 Aug 2019 17:05:27 -0500|Fri, 15 Jan 2021 22:48:33 -0500
+dea449ed42e42063eb27d7c2511da673dec572f3|refactor: update settings project (#179)|Fri, 15 Jan 2021 22:48:03 -0500|Fri, 15 Jan 2021 22:48:03 -0500
+1d81db85fadffaca14ef8035c7cd69d9132a4cb5|fix: change of git to https (#180)|Thu, 1 Aug 2019 16:49:31 -0500|Fri, 15 Jan 2021 22:46:26 -0500
+92f791c07cfac820d24de27f42ab3fbda4ea7477|feat: update ignore files with gitignore.io (#179)|Tue, 16 Jul 2019 23:44:11 -0500|Fri, 15 Jan 2021 22:46:10 -0500
+58c4a09af645a87890e69d3cfea2410de8f74d4c|feat: update settings attributes for git (#179)|Tue, 16 Jul 2019 23:43:34 -0500|Fri, 15 Jan 2021 22:45:56 -0500
+53b2527f8463ecca536925234e4360eb5381c961|refactor: implement pipfile (#179)|Tue, 16 Jul 2019 23:42:55 -0500|Fri, 15 Jan 2021 22:45:43 -0500
+3c7d8699ab029302bcbb661c1bb8350bcc0afb19|chore: update packages pre-commit hooks (#179)|Tue, 16 Jul 2019 23:40:34 -0500|Fri, 15 Jan 2021 22:45:15 -0500
+268607a97518711c06f2528508a5b0295bc94c2c|chore: enabled module wifi (#178)|Mon, 8 Jul 2019 11:29:06 -0500|Fri, 15 Jan 2021 22:45:01 -0500
+d4d0e97ed2a522a9f00c65f1d3a4b5e9e79a94da|chore: module wifi (#178)|Mon, 8 Jul 2019 11:28:24 -0500|Fri, 15 Jan 2021 22:44:48 -0500
+aa7ed74a3fc6fcafaf8c6b41a1cbc134c6b44e78|chore: implement function for up volume (#178)|Mon, 8 Jul 2019 11:27:48 -0500|Fri, 15 Jan 2021 22:44:34 -0500
+071d140dc18360fd0674ffab4a3c9c63f97b2ef4|refactor: implement init module (#178)|Fri, 5 Jul 2019 12:16:30 -0500|Fri, 15 Jan 2021 22:44:17 -0500
+e307451a21fbcf50c1bc89183b4a8f2da8e8959f|feat: implement load app slack (#178)|Fri, 5 Jul 2019 12:15:59 -0500|Fri, 15 Jan 2021 22:44:03 -0500
+71b692a43910ca18fd058a866d26eb221ca6db65|feat: clean unnecessary widget for desktop (#178)|Fri, 5 Jul 2019 12:15:24 -0500|Fri, 15 Jan 2021 22:43:46 -0500
+1da13d02906a6b35781f5dfe8bdfe1ca33601fbd|feat: update settings hammerspoon files ignore (#178)|Fri, 5 Jul 2019 11:36:26 -0500|Fri, 15 Jan 2021 22:43:31 -0500
+ac63a020515277f652d252fb172af9de828c6f29|refactor: settings hammerspoon (#178)|Sat, 29 Jun 2019 02:33:43 -0500|Fri, 15 Jan 2021 22:43:14 -0500
+fc219af6a0e0ee2acfa43adc0dd4bc18c6e1ef3b|feat: implement keys for switch windows (#178)|Thu, 27 Jun 2019 16:03:29 -0500|Fri, 15 Jan 2021 22:42:59 -0500
+5f0987a1dd264d67769e55efa4e95327ecff088f|refactor: load library for core (#178)|Thu, 27 Jun 2019 16:02:45 -0500|Fri, 15 Jan 2021 22:42:41 -0500
+77fcf9682caf240fe665da0e9b637f4a8578f15d|refactor: move files to path core (#178)|Thu, 27 Jun 2019 15:00:44 -0500|Fri, 15 Jan 2021 22:42:22 -0500
+9aafe47186bab110ff8922c544e679796e417c12|feat: implement assets file for hammerspoon (#178)|Thu, 27 Jun 2019 14:51:28 -0500|Fri, 15 Jan 2021 22:42:06 -0500
+7bed38ab81bbf3313e5f033f83879996ba9af30c|refactor: move code hammerspoon (#178)|Thu, 27 Jun 2019 14:50:02 -0500|Fri, 15 Jan 2021 22:41:41 -0500
+f0e47d58fe18c1f18bfc026f3d38dcfc3e4e0434|chore: settings for init spoon (#176)|Mon, 17 Jun 2019 12:08:02 -0500|Fri, 15 Jan 2021 22:41:23 -0500
+4798365f556d72ad5084f4fe07099cfb05acdff6|chore: spoon install (#176)|Mon, 17 Jun 2019 12:07:37 -0500|Fri, 15 Jan 2021 22:41:09 -0500
+d3419bdac3d5cdc24a6774462227d6dea4caeac9|chore: sync path library for osx (#173)|Sun, 5 May 2019 01:14:14 -0500|Fri, 15 Jan 2021 22:40:53 -0500
+8991081e0c3bf1927e73cc372c3720b0666930f3|feat: order package dependences (#173)|Sun, 5 May 2019 01:13:33 -0500|Fri, 15 Jan 2021 22:40:36 -0500
+6e2e53600733e7d7dd112fbc4293c0c1ed204829|feat: update version python (#173)|Sun, 5 May 2019 01:13:02 -0500|Fri, 15 Jan 2021 22:40:22 -0500
+038d651b52265659f5c724a4b7ba319f26787d06|chore: add settings for mailspring (#173)|Sat, 4 May 2019 21:46:10 -0500|Fri, 15 Jan 2021 22:40:02 -0500
+77c19167ad38d0221e6fe9e9e126b28e337f086c|refactor: load docs (#173)|Sat, 4 May 2019 21:28:40 -0500|Fri, 15 Jan 2021 22:39:49 -0500
+2d92e4664bb8cb86285c4a8ad9fcb268350c4869|refactor: move path make to provision (#173)|Sat, 4 May 2019 21:23:23 -0500|Fri, 15 Jan 2021 22:39:34 -0500
+76702c26b32335efac9bbf10719b6cab47cb4bf7|refactor: validation is_exist_program (#171)|Sun, 24 Mar 2019 13:29:46 -0500|Fri, 15 Jan 2021 22:39:18 -0500
+f430952124144a9e64bed178b2ba3f1f69e7160e|chore: copy settings hammerspoon to home (#171)|Sun, 24 Mar 2019 13:25:08 -0500|Fri, 15 Jan 2021 22:39:04 -0500
+defc35425a09637aa315ca6e2edbc1c5bc339710|chore: hammerspoon scripts for windows (#171)|Sun, 24 Mar 2019 13:19:57 -0500|Fri, 15 Jan 2021 22:38:47 -0500
+db0023df7d7e71d8b2148dd0e746d9287c26a9a1|feat: change theme for tmux maglev (#171)|Sun, 24 Mar 2019 13:18:59 -0500|Fri, 15 Jan 2021 22:38:31 -0500
+5427e44eae800f428757fc6bd0357c74fb451655|chore: install in brew hammerspoon (#171)|Sun, 24 Mar 2019 13:18:24 -0500|Fri, 15 Jan 2021 22:38:15 -0500
+b1096a9fbc31dc4281da968ff7b5d6b0f23d56c6|docs: add hammerspoon info (#171)|Sun, 24 Mar 2019 05:50:00 -0500|Fri, 15 Jan 2021 22:37:57 -0500
+7eb403f097a50b051630b1b9fb4ce0170843ed21|chore: add dependence zsh-rust (#169)|Sat, 23 Mar 2019 22:11:31 -0500|Fri, 15 Jan 2021 22:37:43 -0500
+97e92fd8d9fb62aff0a4b883c684a13b0895a70a|chore: clean rust validation (#169)|Sat, 23 Mar 2019 22:10:29 -0500|Fri, 15 Jan 2021 22:37:24 -0500
+9d34e7dbf59f06c7e71baec467835bd82e16f325|chore: clean tools rust install (#169)|Sat, 23 Mar 2019 22:09:20 -0500|Fri, 15 Jan 2021 22:36:58 -0500
+a450e0da8fe7c82e1750a1159f62675e7ac5c71e|refactor: load show help actions for make (#167)|Sat, 23 Mar 2019 12:00:25 -0500|Fri, 15 Jan 2021 22:36:43 -0500
+ca1c0af4c11149b9c34b3dd1ab0b538229191137|chore: install zsh-rvm for dotfiles (#167)|Sat, 23 Mar 2019 11:55:17 -0500|Fri, 15 Jan 2021 22:36:14 -0500
+5653797e2dcf973411cdf1246a681a671adc7a88|chore: delete unnecessary rvm settings (#167)|Fri, 15 Jan 2021 22:35:26 -0500|Fri, 15 Jan 2021 22:35:26 -0500
+99bf337bdcb59db677b8ca93cb18771359f4f232|chore: clean unnecessary rvm install (#167)|Sat, 23 Mar 2019 11:51:17 -0500|Fri, 15 Jan 2021 22:34:49 -0500
+8c85eb25a434da56d37cae81f4d6dfa1d992a355|refactor: package dependences for zsh (1.4.0)|Fri, 15 Jan 2021 22:34:06 -0500|Fri, 15 Jan 2021 22:34:06 -0500
+dc88447644eb5b3a2e510271adab39f80181a364|chore: add new version for project (1.4.0)|Wed, 13 Mar 2019 18:35:27 -0500|Fri, 15 Jan 2021 22:31:58 -0500
+dbac3ed369eace4c9c58847ce5c728c6abf03468|refactor: settings tmux conf app (1.4.0)|Wed, 13 Mar 2019 18:33:45 -0500|Fri, 15 Jan 2021 22:31:42 -0500
+5672d2372d83e2d4b8feded8d9c13b60705d20ed|fix: order packages test (#165)|Sun, 17 Feb 2019 08:47:25 -0500|Fri, 15 Jan 2021 22:31:19 -0500
+db5cb0bc277f8b1d5f520c1e6143780790ac5d15|refactor: settings tmux plugins (#165)|Sun, 17 Feb 2019 08:45:29 -0500|Fri, 15 Jan 2021 22:31:00 -0500
+121e724cf2afff023f431e7683ed0d41ab522a09|chore: implement dependences for tmux (#165)|Sun, 17 Feb 2019 08:44:17 -0500|Fri, 15 Jan 2021 22:30:38 -0500
+cd59a84cbd98fc184171ca6a85c4d58afab2ea98|chore: implement dependences for 1password (#165)|Sun, 17 Feb 2019 01:19:35 -0500|Fri, 15 Jan 2021 22:30:17 -0500
+d0722d45d325bd2794dd55b11743555202c1a1a7|chore: implement code for zazu (#161)|Sun, 10 Feb 2019 07:52:11 -0500|Fri, 15 Jan 2021 22:29:56 -0500
+ce28078e452a3b77baad268f00f7c80c03b0547a|fix: sync .configuration to home (#159)|Sun, 10 Feb 2019 07:44:29 -0500|Fri, 15 Jan 2021 22:29:28 -0500
+41deebfc1983f384accab2b27abf39fad93f8cc0|fix: delete gvm and pyenv (#159)|Fri, 15 Jan 2021 22:28:53 -0500|Fri, 15 Jan 2021 22:28:53 -0500
+2012bfb29afc0e870ce26d5010b209e512cecae0|chore: implement settings for docker-compose for stage dev (#159)|Sun, 10 Feb 2019 07:06:18 -0500|Fri, 15 Jan 2021 22:28:03 -0500
+01ae4e7a08d841c359a85f897d9e3c38c11b8362|chore: implement package test (#159)|Sun, 10 Feb 2019 07:05:53 -0500|Fri, 15 Jan 2021 22:27:40 -0500
+7b9e3baa7d2e49dc57dcf71826a33abc50e58eb1|style: syntax code for docker test (#159)|Sun, 10 Feb 2019 07:05:16 -0500|Fri, 15 Jan 2021 22:27:19 -0500
+738a1ec3ae3af3bb8c248525e46d00072ce7d19e|chore: actions for test make (#159)|Sun, 10 Feb 2019 07:04:11 -0500|Fri, 15 Jan 2021 22:26:59 -0500
+4c69d905c52d03c4ceeaea5b4b93f9af7da3a21d|refactor:  move file docker-compose to root (#159)|Sun, 10 Feb 2019 06:57:32 -0500|Fri, 15 Jan 2021 22:26:36 -0500
+c40d5dcca0a3cf66d0e6bfe93fc2711c1801b9ae|chore: implement enabled app rsync (#159)|Sun, 10 Feb 2019 06:39:18 -0500|Fri, 15 Jan 2021 22:26:09 -0500
+ea936043b9b9ffd8d95b72f1b7e165eb1415d223|fix: clean unnecessary settings docker-compose (#159)|Sun, 10 Feb 2019 06:38:26 -0500|Fri, 15 Jan 2021 22:25:45 -0500
+6e22bd7157db579de2e56976f284fdbd2b16ed0a|style: url to url short (#159)|Sun, 10 Feb 2019 06:31:32 -0500|Fri, 15 Jan 2021 22:25:25 -0500
+109b86b56198258ef3351dcefaae8cf689bee4bd|chore: implement settings for alacritty (#159)|Sun, 10 Feb 2019 06:12:03 -0500|Fri, 15 Jan 2021 22:24:50 -0500
+510d1fa1ecf082bbd21e40d5d0cddb0350bc1339|chore: app alacritty install brew  (#159)|Sat, 9 Feb 2019 23:21:46 -0500|Fri, 15 Jan 2021 22:22:56 -0500
+ff18e74ca124190b70398784425b76d554700ac2|feat: install dependences for brew (#159)|Sat, 9 Feb 2019 23:20:57 -0500|Fri, 15 Jan 2021 22:22:32 -0500
+bd4b151bef525f152c1dcfc8efe77e9fb17de462|chore: settings for project (#159)|Sat, 9 Feb 2019 22:48:20 -0500|Fri, 15 Jan 2021 22:21:54 -0500
+fbea30a41f7aaae7c1aa9e7e4f0bc69d609099af|fix: clean unnecessary panes tmux (#159)|Sat, 9 Feb 2019 22:47:57 -0500|Fri, 15 Jan 2021 22:21:18 -0500
+4f51d3218580f24afdc38b8f96bf6da83d8d129a|refactor: dependences pre-commit hooks (#159)|Sat, 9 Feb 2019 22:46:22 -0500|Fri, 15 Jan 2021 22:20:02 -0500
+bd3c924177801d4df42c3327b607bc2e4cd1e5f6|build: version 1.3.1|Thu, 24 Jan 2019 04:26:12 -0500|Fri, 15 Jan 2021 22:19:44 -0500
+ddf6b5242689eb5aa5d4e9cfd1338061ecd84b49|fix: version in readme (1.3.1)|Thu, 24 Jan 2019 04:25:21 -0500|Fri, 15 Jan 2021 22:19:23 -0500
+e1bf80d305a9d9f6168a5fd6d3f945b2189bbc1f|chore: implement plugins for zsh (1.3.1)|Thu, 24 Jan 2019 04:23:45 -0500|Fri, 15 Jan 2021 22:18:59 -0500
+248b0fdbc901f0b69c7c9d9ef3b9d99cc00f6695|fix: order applications for install (1.3.1)|Fri, 15 Jan 2021 22:18:23 -0500|Fri, 15 Jan 2021 22:18:23 -0500
+375a4f523ffab59dbd2e89c8e9b8b495ab84e281|fix: delete tool nvm and use by antibody (1.3.1)|Fri, 15 Jan 2021 22:16:21 -0500|Fri, 15 Jan 2021 22:16:21 -0500
+d436427e5d6f4d7a54b7c2300bb954d0383fc75d|fix: order format for readme (1.3.1)|Thu, 24 Jan 2019 04:06:23 -0500|Fri, 15 Jan 2021 22:14:39 -0500
+1233ae020be12fcd88cfd292b6285e6b62828d72|fix: unnecessary arguments for pip (1.3.1)|Thu, 24 Jan 2019 03:56:16 -0500|Fri, 15 Jan 2021 22:14:17 -0500
+e5afec99c50453ce4961600ed929dee58e137fe8|fix: version package for setup (1.3.1)|Fri, 15 Jan 2021 22:13:43 -0500|Fri, 15 Jan 2021 22:13:43 -0500
+7c98815caf627d40549b9aa49dc0c4aa467c8342|fix: ignore files for documentation (1.3.1)|Thu, 24 Jan 2019 03:54:17 -0500|Fri, 15 Jan 2021 22:12:29 -0500
+11f83e511fa5397b54fe3b83296e1e965e02c7b0|fix: update settings pre-commit hooks (1.3.1)|Thu, 24 Jan 2019 03:53:17 -0500|Fri, 15 Jan 2021 22:12:06 -0500
+5e0430d83f785947d1891425383b2b4adaf5dae1|chore: implement application group for brew (#157)|Sun, 16 Dec 2018 10:21:23 -0500|Fri, 15 Jan 2021 22:11:47 -0500
+044b8c3cdeb46ba861976b27f6bb4c4e72cbddea|chore: implement tools install (#157)|Sun, 16 Dec 2018 10:20:01 -0500|Fri, 15 Jan 2021 22:11:26 -0500
+dc35c6777edcbc86d82b63440f90e9d381094969|fix: update version python packages (#157)|Fri, 15 Jan 2021 22:10:51 -0500|Fri, 15 Jan 2021 22:10:51 -0500
+c4d482b776b758d4512189a63a8b9e09599fccc1|fix: version changelog (1.3.0)|Sun, 16 Dec 2018 10:06:02 -0500|Fri, 15 Jan 2021 22:09:26 -0500
+5c1685397ac53ce4207ff57e23bb931c231e0d71|style: arg for image ubuntu (1.3.0)|Sun, 16 Dec 2018 10:04:36 -0500|Fri, 15 Jan 2021 22:08:59 -0500
+79c76fa663aa87664f09b1b547d010bf8712ea1d|fix: settings version python 3.6.4 (1.3.0)|Sun, 16 Dec 2018 10:04:09 -0500|Fri, 15 Jan 2021 22:08:40 -0500
+e81a6321446845de2783ec4fdc9abd9fbf2a655f|fix: run docker for actions (1.3.0)|Sun, 16 Dec 2018 10:03:40 -0500|Fri, 15 Jan 2021 22:08:20 -0500
+41e2aaa68995efc114ea67e4813460f25b443170|fix: not return message (1.3.0)|Sun, 16 Dec 2018 09:52:38 -0500|Fri, 15 Jan 2021 22:08:03 -0500
+036e1aaa5d598d9aead7182761e1d540f01085c7|docs: info for changelog (1.3.0)|Sun, 16 Dec 2018 09:47:39 -0500|Fri, 15 Jan 2021 22:07:42 -0500
+359d4deb3effd50322e253c41f991dddfdc07411|fix: disabled commit in bumpversion (1.3.0)|Sun, 16 Dec 2018 09:47:05 -0500|Fri, 15 Jan 2021 22:07:17 -0500
+8179e0191a9d86c8f87b9d4bfc95e6a8e1c27a98|chore: implement tools for brew install (1.3.0)|Sun, 16 Dec 2018 09:43:54 -0500|Fri, 15 Jan 2021 22:06:52 -0500
+97399fc63bfd4c74662abf565adce42a5e9650b2|feat: implement tools for zsh (1.3.0)|Sun, 16 Dec 2018 09:42:31 -0500|Fri, 15 Jan 2021 22:06:25 -0500
+8f550bad464ceb1e22a8a2f511d27637afab3b88|chore: implement packages for install bjoern (1.3.0)|Sat, 27 Oct 2018 18:23:02 -0500|Fri, 15 Jan 2021 22:06:03 -0500
+89c83779d72f214db00eea94e0ae18107f7d173a|fix: messages for prompt (1.3.0)|Sat, 27 Oct 2018 18:17:47 -0500|Fri, 15 Jan 2021 22:05:43 -0500
+9f11285cff81c79f223f176afcb78b8d3ae87153|style: update restview from 2.7.0 to 2.9.1|Fri, 15 Jan 2021 22:05:07 -0500|Fri, 15 Jan 2021 22:05:07 -0500
+f0a5ae2cba17e0e69a0c46df7b1d651af16a41f3|chore: implement library libevent (#155)|Fri, 24 Aug 2018 14:41:28 -0500|Fri, 15 Jan 2021 22:03:19 -0500
+318557d52644d8de49a57c510437761152796913|fix: settings version python (#155)|Fri, 24 Aug 2018 14:37:10 -0500|Fri, 15 Jan 2021 22:02:21 -0500
+a26b996db9284f507c8c47054c82f105c181818f|refactor: change hooks prepare-commit to path (#155)|Fri, 24 Aug 2018 14:35:07 -0500|Fri, 15 Jan 2021 22:01:46 -0500
+cb9f28e8bff4ed25b6ae77cfff9a00dafc80aac7|fix: clean docker-machine (#155)|Sun, 27 May 2018 19:34:54 -0500|Fri, 15 Jan 2021 22:01:28 -0500
+2b0c21aed0ca0f8cf3a8ec21b851fd66f9946574|fix: delete execution to files (#155)|Sun, 27 May 2018 19:28:06 -0500|Fri, 15 Jan 2021 22:01:11 -0500
+f6d700d06ac53dd4ce235d235ede6acf9e064c93|fix: clean settings makefile (#155)|Sun, 27 May 2018 19:22:47 -0500|Fri, 15 Jan 2021 22:00:53 -0500
+ced47b45e69c99697a848dcb450378f33d755583|fix: update settings pre-commit hooks (#155)|Sun, 27 May 2018 19:22:01 -0500|Fri, 15 Jan 2021 22:00:30 -0500
+2a828e307dcea3bde9cde6c88fee519f83ea1f77|fix: packages setup dependences for python (#155)|Sun, 27 May 2018 19:19:09 -0500|Fri, 15 Jan 2021 22:00:10 -0500
+1d4434204ac66e9b6fbfacd13743c56bf8a13650|fix: settings hooks prepare-commit (#155)|Sun, 27 May 2018 19:13:44 -0500|Fri, 15 Jan 2021 21:59:51 -0500
+eae4abca08cc38955d483cb86a41aad523bdeda8|refactor: move files mk to make (#155)|Sun, 27 May 2018 19:11:03 -0500|Fri, 15 Jan 2021 21:59:27 -0500
+289fcd1c21ed369b1cb709f850d318da44693c16|fix: settings tmuxinator (#155)|Sun, 27 May 2018 19:10:16 -0500|Fri, 15 Jan 2021 21:59:11 -0500
+1bff7e443c4be4a34592e3412046bd8e6d65eef0|chore: implement version for changelog (1.2.0)|Tue, 2 Jan 2018 13:37:01 -0500|Fri, 15 Jan 2021 21:58:51 -0500
+fbac42370266ec509ff3dc98d38e89431a83a69f|build: bump version 1.1.0 → 1.2.0|Tue, 2 Jan 2018 13:36:05 -0500|Fri, 15 Jan 2021 21:58:37 -0500
+d0df0174ca97362c51c2760bb3c47642af7c422e|feat: update version nodejs (#151)|Tue, 2 Jan 2018 13:14:55 -0500|Fri, 15 Jan 2021 21:58:19 -0500
+4830caa1e1ecde71f6d3efcd98929952dbd3c14f|fix: tmux settings clean (#151)|Tue, 2 Jan 2018 13:14:27 -0500|Fri, 15 Jan 2021 21:57:57 -0500
+e44f46b1d0346aba4c3de4aff00c598b8734cb5b|feat: clean unnecessary settings for git (#151)|Tue, 2 Jan 2018 12:33:42 -0500|Fri, 15 Jan 2021 21:57:03 -0500
+f1d32cb2deb86f101324b4c9e7be47b11ed5768c|fix: clean functions (#151)|Fri, 15 Jan 2021 21:56:27 -0500|Fri, 15 Jan 2021 21:56:27 -0500
+0f80c40081ac65024a9743d6097afe102415ce90|chore: clean tools unnecessary (#147)|Tue, 2 Jan 2018 11:44:16 -0500|Fri, 15 Jan 2021 21:54:57 -0500
+bc24477532be5f82895e3fcf14e7289b8b3c14b2|chore: implement settings for zsh (#147)|Mon, 1 Jan 2018 12:11:45 -0500|Fri, 15 Jan 2021 21:54:38 -0500
+5454ecf527d30ac90329fdca29b406b95aa39925|chore: implement nord Theme (#147)|Mon, 1 Jan 2018 12:05:41 -0500|Fri, 15 Jan 2021 21:54:18 -0500
+e679a93fadaeb2f0853636db3a05c51fdf733a7c|fix: url 1.0.0 version (#148)|Mon, 1 Jan 2018 11:59:14 -0500|Fri, 15 Jan 2021 21:53:55 -0500
+8d411bf6168fc97f1364101ffd28e19480b8045e|refactor: path for docker to provision (#148)|Mon, 1 Jan 2018 11:57:13 -0500|Fri, 15 Jan 2021 21:53:32 -0500
+03b16730941da4049a2c1eb8a7e94093a6c4e752|style: syntax format yml (#148)|Mon, 1 Jan 2018 11:50:32 -0500|Fri, 15 Jan 2021 21:52:58 -0500
+478229100d0a6fc1da786feb256626a215e7f431|fix: actions for makefile (#148)|Mon, 1 Jan 2018 11:49:03 -0500|Fri, 15 Jan 2021 21:52:34 -0500
+5dfe47dca0e9b46330d68b4ea84d62c3e7446d1d|chore: packages dependences for python (#148)|Mon, 1 Jan 2018 11:48:34 -0500|Fri, 15 Jan 2021 21:51:59 -0500
+948f28c8ec008b1ec35211784c2bac27084d2017|style: settings projectile (#148)|Mon, 1 Jan 2018 11:47:29 -0500|Fri, 15 Jan 2021 21:51:35 -0500
+f8904aaae18c30f9363fe1d5f5e1f82042888901|feat: implement settings pre-commit hooks (#148)|Mon, 1 Jan 2018 11:44:22 -0500|Fri, 15 Jan 2021 21:51:04 -0500
+80247cab48e4f5291b3739bf14483577c9f00a29|chore: implement settings tmuxinator local (#148)|Mon, 1 Jan 2018 09:21:33 -0500|Fri, 15 Jan 2021 21:50:43 -0500
+4665129b410859f92cd41b0455062aaa514bdd4b|fix: unnecessary tmuxinator dotfiles (#148)|Mon, 1 Jan 2018 09:20:26 -0500|Fri, 15 Jan 2021 21:50:22 -0500
+866f1c846377474c6210e33141acfc2f692906b4|build: new version release (1.1.0)|Tue, 21 Nov 2017 12:21:07 -0500|Fri, 15 Jan 2021 21:50:00 -0500
+576653b8957136efe99a58302e2f68d553ed860b|fix: add version release (1.1.0)|Tue, 21 Nov 2017 12:20:32 -0500|Fri, 15 Jan 2021 21:49:34 -0500
+53a3b276a0f218b97e5705b9dfc6ab5e149226de|build: bump version 1.0.0 → 1.1.0|Tue, 21 Nov 2017 12:20:10 -0500|Fri, 15 Jan 2021 21:49:18 -0500
+d50e88b44e6775925a6ab2dd66d8d7961012e6d4|fix: update install brew (#144)|Tue, 21 Nov 2017 11:17:28 -0500|Fri, 15 Jan 2021 21:48:59 -0500
+4e3459a5d3272e891cd60cd233fba9bc1ced2817|docs: implement info code of conduct (#144)|Tue, 21 Nov 2017 11:13:03 -0500|Fri, 15 Jan 2021 21:48:41 -0500
+2f928503e4744e542369bbe8d1fc623bc7af8c7a|docs: best info how to contributing (#144)|Tue, 21 Nov 2017 11:11:57 -0500|Fri, 15 Jan 2021 21:48:12 -0500
+4981be5da62f1928a284917471cf7d05b538c970|chore: implement templates of issue and pull request (#144)|Tue, 21 Nov 2017 11:05:46 -0500|Fri, 15 Jan 2021 21:47:49 -0500
+ca899ed4898462cddeb0f737eca3067e1d94f050|chore: implement profile in zshrc (#143)|Tue, 21 Nov 2017 10:59:30 -0500|Fri, 15 Jan 2021 21:47:26 -0500
+35352fc92256a5a7f37b00834cef82e02d60ce0e|fix: load shellcheck customrc (#143)|Fri, 15 Jan 2021 21:46:54 -0500|Fri, 15 Jan 2021 21:46:54 -0500
+540921fc2aadae0b8bfab169ce9285fc883b6e11|fix: settings version changelog (1.0.0)|Mon, 23 Oct 2017 01:38:48 -0500|Fri, 15 Jan 2021 21:45:12 -0500
+3f3bcb5617063b269ea9ad7841098c52b62a3afe|build: bump version 0.0.0 → 1.0.0|Mon, 23 Oct 2017 01:37:05 -0500|Fri, 15 Jan 2021 21:45:00 -0500
+344dd42ee363a6b8928617156a014aeed060fd48|docs: commits for mailmap (1.0.0)|Fri, 15 Jan 2021 21:44:21 -0500|Fri, 15 Jan 2021 21:44:21 -0500
+2a1074187a6e09b563ef8063ee097fa262f45d42|fix: clean changelog version (1.0.0)|Mon, 23 Oct 2017 01:27:48 -0500|Fri, 15 Jan 2021 21:43:05 -0500
+96a8b31d6878337d3a37fb31de36144b54ab2a94|fix: settings current_version for bumpversion (1.0.0)|Mon, 23 Oct 2017 01:27:29 -0500|Fri, 15 Jan 2021 21:42:39 -0500
+3eab923f0554328d879ffcffcfefb37609d22f24|feat: clean version (1.0.0)|Mon, 23 Oct 2017 01:27:11 -0500|Fri, 15 Jan 2021 21:42:11 -0500
+d76bd436044bf6a597285f7a57b5aa7fdcbb91e1|core: create pyup.io config file|Fri, 15 Sep 2017 23:03:51 -0500|Fri, 15 Jan 2021 21:41:58 -0500
+8d6e6da1f576b418f3a58c6db46297d164c6fdd0|build: fixed name changelog (1.0.3)|Sun, 19 Jul 2015 12:28:58 -0500|Fri, 15 Jan 2021 21:41:34 -0500
+a231c629f440e6668e3e7eff1bbc6fba55307773|fix: load zshrc (#21)|Sun, 19 Jul 2015 12:15:16 -0500|Fri, 15 Jan 2021 21:40:50 -0500
+3f72cf4376fe577ab31e639b0937973f59c632b5|build: generated name versions (1.0.2)|Thu, 16 Jul 2015 12:09:06 -0500|Fri, 15 Jan 2021 21:39:56 -0500
+4d08bcd76c06c752231cda50d1551d2fa3ba2912|style: format fix syntax function (#12)|Fri, 15 Jan 2021 21:38:29 -0500|Fri, 15 Jan 2021 21:38:29 -0500
+c0b145bc77e818cedcc16a0ffe247a395d18f2d8|style: test code without function (#12)|Mon, 13 Jul 2015 23:35:21 -0500|Fri, 15 Jan 2021 21:36:36 -0500
+fc4a3478201153fd0a8f72615ccda787d0c0d042|chore: implement module git for puppet (#12)|Mon, 13 Jul 2015 23:30:59 -0500|Fri, 15 Jan 2021 21:36:01 -0500
+bd894fed313da20da27d7ec5aa393d3768d43cac|fix: undefined variable show message (#12)|Mon, 13 Jul 2015 17:12:37 -0500|Fri, 15 Jan 2021 21:35:43 -0500
+4b102153e485633a1c168fc0334716c299d34a61|chore: implement modules puppet static (#12)|Mon, 13 Jul 2015 16:43:21 -0500|Fri, 15 Jan 2021 21:33:58 -0500
+ef144e36df8e809facd4f1910889f7cc62e95486|chore: implement configuration for vagrant (#12)|Mon, 13 Jul 2015 16:42:49 -0500|Fri, 15 Jan 2021 21:33:29 -0500
+88c3dc58c9cccb03eae00a77c6e6dee06031ddc2|build: upgrade version for librarian puppet (#12)|Mon, 13 Jul 2015 16:42:23 -0500|Fri, 15 Jan 2021 21:32:42 -0500
+8f91bfeea63977ccddcf44c0200b389263c71d27|fix: configuration editorconfig (#12)|Mon, 13 Jul 2015 16:41:41 -0500|Fri, 15 Jan 2021 21:31:50 -0500
+7faf403380752e6ded08034778bd6bdafc3eb4d2|docs: implement license (#13)|Fri, 15 Jan 2021 21:30:38 -0500|Fri, 15 Jan 2021 21:30:38 -0500
+b4b84b01ce3007598eba3c1536ef2778a0ff34ae|chore: implement install gvm (#11)|Fri, 15 Jan 2021 21:29:19 -0500|Fri, 15 Jan 2021 21:29:19 -0500
+c0e8769d106b46c3bcb7614a8e3686918b50b401|chore: implement code install for pyenv (#9)|Fri, 15 Jan 2021 21:26:42 -0500|Fri, 15 Jan 2021 21:26:42 -0500
+9652f5f7d791778d8a75b5f2d0a4248007bdfc42|docs: implement change in changelog file (1.0.0)|Sat, 4 Jul 2015 16:11:33 -0500|Fri, 15 Jan 2021 21:23:04 -0500
+b5e86dc93a116f6e09ea80bb054a1372a6b06d29|fix: name variable (#5)|Sat, 4 Jul 2015 16:04:40 -0500|Fri, 15 Jan 2021 21:22:20 -0500
+9032b6bbceff2242ddda6c1b08d5bea2854ac01b|fix: load functions upgrade (#5)|Fri, 15 Jan 2021 21:21:45 -0500|Fri, 15 Jan 2021 21:21:45 -0500
+c8d618ee31e66ddc9157040e2d67c42db8c6db68|style: fixed name variables (#2)|Sat, 4 Jul 2015 08:59:48 -0500|Fri, 15 Jan 2021 21:19:25 -0500
+57f10413e1ebc0ba5dd0641b4d76254dfdbfe662|style: format syntax code (#2)|Fri, 15 Jan 2021 21:17:59 -0500|Fri, 15 Jan 2021 21:17:59 -0500
+b0a8cc440ace38ac8d53b423676367a53d1a1d4e|docs: added install fonts (0.1.9)|Thu, 2 Jul 2015 00:54:23 -0500|Fri, 15 Jan 2021 21:15:14 -0500
+4762218acc9f3ce0e75df9dad9fbd55b02730874|style: clean theme unnecessary|Thu, 2 Jul 2015 00:42:05 -0500|Fri, 15 Jan 2021 21:14:00 -0500
+c2a5998d100bf315092a59688baa615f38f7c6c1|fix: validation if exist path pyenv for profile|Thu, 2 Jul 2015 00:34:38 -0500|Fri, 15 Jan 2021 21:12:53 -0500
+d6751c203a25a390efa3890d03937344b5ef4318|style: change variables lower to upper|Tue, 30 Jun 2015 15:39:15 -0500|Fri, 15 Jan 2021 21:12:01 -0500
+6ec8ef2486374bd25f093fe81703412c3a76b6e9|refactor: name files fonts|Tue, 30 Jun 2015 15:20:19 -0500|Fri, 15 Jan 2021 21:10:35 -0500
+d6de983b86e5b591093ed2c326d09dbb8dd79f3b|style: space for function messages|Tue, 30 Jun 2015 15:18:05 -0500|Fri, 15 Jan 2021 21:09:48 -0500
+d942d81f496ee8597f49c159713b8dedc28126f2|fix: install fonts install|Tue, 30 Jun 2015 15:06:45 -0500|Fri, 15 Jan 2021 21:09:30 -0500
+2ebc68e866c5af36d92b6f765e652474362cb934|chore: implement files for function|Tue, 30 Jun 2015 14:38:23 -0500|Fri, 15 Jan 2021 21:08:26 -0500
+56481931ac2920ff1eb1086600ad9451f2cadb25|chore: implement install fonts|Fri, 15 Jan 2021 21:05:55 -0500|Fri, 15 Jan 2021 21:05:55 -0500
+f159b3f20a7b9d73b8f26d03e309701c283a39cd|chore: implement fonts liberation mono|Fri, 15 Jan 2021 21:04:08 -0500|Fri, 15 Jan 2021 21:04:08 -0500
+ec3d823401cf7766fa2d22898b7b0899e1ce1fbe|fix: load configuration zsh (0.1.8)|Mon, 29 Jun 2015 11:22:25 -0500|Fri, 15 Jan 2021 21:03:18 -0500
+ab86b9639379afa120e16ed4fba2587e8313b041|fix: load plugins for zshrc (0.1.7)|Mon, 29 Jun 2015 09:04:32 -0500|Fri, 15 Jan 2021 21:02:51 -0500
+c499ae1fa7aa6b13adf35b068cfc317e08ffe5c8|fix: values for gitconfig (0.1.7)|Fri, 15 Jan 2021 21:02:13 -0500|Fri, 15 Jan 2021 21:02:13 -0500
+6f213caf963854d7e6f3ea29b51a643afa9a8322|fix: install via curl and wget (0.1.7)|Fri, 15 Jan 2021 21:00:13 -0500|Fri, 15 Jan 2021 21:00:13 -0500
+511c1f4c49e530abf60915a142b620dadba76919|build: added new version (0.1.6)|Mon, 29 Jun 2015 08:19:23 -0500|Fri, 15 Jan 2021 20:59:28 -0500
+ae3bfeb237a0240ef3c4c0599c89cde02c7fc369|chore: implement install dotfiles|Fri, 15 Jan 2021 20:57:56 -0500|Fri, 15 Jan 2021 20:57:56 -0500
+b5aef5b02aef2f0440f9e3e05f3a6cc82cf2ad53|chore: implement configuration zshrc|Sun, 28 Jun 2015 23:02:39 -0500|Fri, 15 Jan 2021 20:53:27 -0500
+b697dd33dfec0f108c87d89972f60172acb3f596|build: emails mapping for mailmap|Sun, 28 Jun 2015 15:12:56 -0500|Fri, 15 Jan 2021 20:51:45 -0500
+a35032f8f22165731c650a9d0086b938801359f5|fix: values messages|Sun, 28 Jun 2015 15:04:25 -0500|Fri, 15 Jan 2021 20:51:27 -0500
+ef00983344e8e5296593d312da31f119f534d824|chore: implement repository and messages|Sun, 28 Jun 2015 12:38:02 -0500|Fri, 15 Jan 2021 20:48:31 -0500
+8ac7cbf3ec6a5978ed116592d7d156cddd05e98d|refactor: separated app and shell code|Fri, 15 Jan 2021 20:47:09 -0500|Fri, 15 Jan 2021 20:47:09 -0500
+8ef1f00e9ba623f8774f138431aca9590d5841e4|style: clean space white|Fri, 26 Jun 2015 18:06:23 -0500|Fri, 15 Jan 2021 20:42:54 -0500
+61c33ab32c511054f13eb70d6d939dfed2af17fb|fix: format functions|Fri, 26 Jun 2015 18:05:40 -0500|Fri, 15 Jan 2021 20:42:36 -0500
+5a3f8b8b73ac2df4c0937d347550fccad329aa51|chore: implement gvm for profile|Fri, 26 Jun 2015 18:03:32 -0500|Fri, 15 Jan 2021 20:41:53 -0500
+884f3e6e7ac217a7d886383b48ff15b6125a2f35|feat: implement delete not used zpresto configurations|Fri, 26 Jun 2015 17:51:36 -0500|Fri, 15 Jan 2021 20:38:10 -0500
+fb669d263001c58d163baed520cfbb41358388b2|fix: load files clean unnecessary|Fri, 26 Jun 2015 17:48:04 -0500|Fri, 15 Jan 2021 20:37:38 -0500
+d5a6054be163f18640edf9b84e0804bbc13735e8|chore: implement configuration profile|Fri, 26 Jun 2015 17:02:29 -0500|Fri, 15 Jan 2021 20:37:18 -0500
+66a499354d98add887821b7513518e9e6fc12753|perf: deleted file unnecesary|Fri, 26 Jun 2015 16:44:47 -0500|Fri, 15 Jan 2021 20:36:59 -0500
+90cbb811247cd71a28093dcea487de0866928154|refactor: path fonts to resources fonts|Tue, 16 Jun 2015 20:01:04 -0500|Fri, 15 Jan 2021 20:35:14 -0500
+7355bd3cefa4b30fd94ea543527e3e232398ae4e|chore: implement path vendor ignore|Tue, 16 Jun 2015 19:57:24 -0500|Fri, 15 Jan 2021 20:34:48 -0500
+fd171d267fd49a18db31e7a05dbe4fbcbf694166|feat: added logs to gitconfig|Wed, 24 Jun 2015 07:52:32 -0500|Fri, 15 Jan 2021 20:34:24 -0500
+87cf148f022743457113da5fcee03f6c3efb0a13|refactor: git log format|Wed, 24 Jun 2015 07:35:41 -0500|Fri, 15 Jan 2021 20:33:55 -0500
+8577c9b0b8bc0a40b4722961d9cc931c9df80d98|fix: configuration files conf|Fri, 15 Jan 2021 20:33:10 -0500|Fri, 15 Jan 2021 20:33:10 -0500
+74063ebe6f9b98a8b77cd6df5050148e8ffa352f|chore: implement configuration zpresto|Sun, 14 Jun 2015 09:06:53 -0500|Fri, 15 Jan 2021 20:31:43 -0500
+5a73f0c96a475a580c23d9113009cbb8e6051843|build: clean files unnecessary and order files|Sun, 14 Jun 2015 09:01:59 -0500|Fri, 15 Jan 2021 20:31:21 -0500
+c71b08346e67b92323dc670d9441641f063f8801|refactor: files of configuration to path conf|Fri, 15 Jan 2021 20:30:23 -0500|Fri, 15 Jan 2021 20:30:23 -0500
+65f3c4b8eaf7c3aea2ab831d54bf167b82a2bd44|chore: implement configuration scroll up for tmux|Wed, 10 Jun 2015 17:49:04 -0500|Fri, 15 Jan 2021 20:29:07 -0500
+2bea48146f8b06db103dde07a89416fabe28bc7a|style: fixed configuration mail map|Mon, 4 May 2015 11:59:36 -0500|Fri, 15 Jan 2021 20:27:06 -0500
+c5fd26d6d540e22e7a664fdefbf235c2df85be1a|fix: name max commits|Mon, 4 May 2015 11:57:22 -0500|Fri, 15 Jan 2021 20:26:45 -0500
+b12990b34a1b9d25f9a51916977dd0ca6e1acc13|fix: configuration history tmux|Mon, 4 May 2015 11:52:14 -0500|Fri, 15 Jan 2021 20:26:13 -0500
+972a6e8702378fae7b2342847cc9f48c5208aaf2|chore: implement standard configuration projects|Fri, 15 Jan 2021 20:25:26 -0500|Fri, 15 Jan 2021 20:25:26 -0500
+fa5d2287d9ece458457689a6cd34eb7bc0dadac3|fix: value email mailmap (0.1.5)|Sat, 18 Apr 2015 07:11:28 -0500|Fri, 15 Jan 2021 20:24:09 -0500
+8b85e895ed4532eeeaaae7782038b5c61d42420b|chore: implement map email git shortlog (0.1.4)|Fri, 15 Jan 2021 20:23:25 -0500|Fri, 15 Jan 2021 20:23:25 -0500
+9d9045710f50e836ea11ae9e33c779f20a6a7ab2|fix: value email (0.1.3)|Fri, 15 Jan 2021 20:21:30 -0500|Fri, 15 Jan 2021 20:21:30 -0500
+ff77f63f548996689bf6829cbfe2ff567dd92bfa|chore: implement file changelog (0.1.2)|Sat, 18 Apr 2015 06:22:27 -0500|Fri, 15 Jan 2021 20:20:36 -0500
+3c469023e7ae1881deed46b328b6888c4b9a25f5|feat: name git configuration|Thu, 16 Apr 2015 00:49:46 -0500|Fri, 15 Jan 2021 20:20:16 -0500
+e141f43571ca8c44426d6a358c612e653ac4f161|chore: implement gem tmuxinator|Tue, 3 Mar 2015 11:59:28 -0500|Fri, 15 Jan 2021 20:20:02 -0500
+ee1b57f7414776c0c891fab8f7986e4e6ba1d054|chore: implement gems ruby dependences|Mon, 2 Mar 2015 12:57:49 -0500|Fri, 15 Jan 2021 20:18:49 -0500
+d25517cb0395a34c95b32a7bc880f607b238764a|build: clean files unnecessary|Fri, 10 Apr 2015 00:37:59 -0500|Fri, 15 Jan 2021 20:18:27 -0500
+ae57565d161e8bad05fc0f7d22cb4e938896d629|fix: tmux configuration|Thu, 15 Jan 2015 19:18:25 -0500|Fri, 15 Jan 2021 20:17:48 -0500
+376a8e4df69c23d5ba49f192c073a71e11aa90e8|chore: added new files git of configuration and ignore|Fri, 2 Jan 2015 10:13:04 -0500|Fri, 15 Jan 2021 20:17:19 -0500
+3e99ffc6f1198406abfad374cf049cc0f76729a7|feat: upgrade tmux configuration|Fri, 2 Jan 2015 10:12:01 -0500|Fri, 15 Jan 2021 20:17:02 -0500
+d8bd20a0268de9ae38968150afa9fb31394c48c9|chore: implement configuration tmux|Fri, 21 Nov 2014 17:41:04 -0500|Fri, 15 Jan 2021 20:16:41 -0500
+e8025ca10edfb8fa4a3eb42ba3b1f6844575e050|build: deleted files unnecessary vagrant|Fri, 21 Nov 2014 17:38:43 -0500|Fri, 15 Jan 2021 20:16:23 -0500
+240012accd4fa0d72ae243dfcc242c20d03f66a4|fix: configuration tmux|Fri, 15 Jan 2021 20:14:24 -0500|Fri, 15 Jan 2021 20:14:24 -0500
+c9ea842294adad97c2997318a820bb58e1cc4745|chore: implement functions bitbucket|Fri, 15 Jan 2021 20:12:00 -0500|Fri, 15 Jan 2021 20:12:51 -0500
+077d1b37f310a4c2ecba56f0b00ba9bfa8709bb9|fix: change tmux configuration|Mon, 28 Oct 2013 12:13:38 -0500|Fri, 15 Jan 2021 20:11:12 -0500
+2946820c861e3f82c16707550ea056b68f55864d|build: delete sublime files unnecessary|Sun, 13 Oct 2013 08:44:50 -0500|Fri, 15 Jan 2021 20:09:36 -0500
+d134641db88cb1243c4a0f5e0b1927abd22768e0|fix: settings version changelog (2.2.0)|Mon, 23 Oct 2017 01:12:21 -0500|Fri, 15 Jan 2021 20:05:39 -0500
+009653d6e82ef1cf3c0d1c3b01d826f6c06f5470|build: bump version 2.1.0 → 2.2.0|Mon, 23 Oct 2017 01:11:35 -0500|Fri, 15 Jan 2021 19:57:39 -0500
+a0856e5e22660a3105992e18ed6759463a27b0b5|docs: implement info readme (#141)|Mon, 23 Oct 2017 01:05:06 -0500|Fri, 15 Jan 2021 19:57:23 -0500
+f3570eb15ccf4778cf22b13c18ab24dd26983f44|docs: implement info changelog (#141)|Mon, 23 Oct 2017 01:04:47 -0500|Fri, 15 Jan 2021 19:57:02 -0500
+5af3a8725bc658620abd3b3ad9d1f849ea0eb5fb|docs: implement settings authors (#141)|Mon, 23 Oct 2017 01:03:17 -0500|Fri, 15 Jan 2021 19:55:46 -0500
+a400a03986e6718bb49e1d6a7f61cad4a1762730|docs: info contributing (#141)|Mon, 23 Oct 2017 01:02:55 -0500|Fri, 15 Jan 2021 19:55:21 -0500
+d520018187d64ce11b0a8bb71900d0b46e1529d6|docs: implement settings info development (#141)|Mon, 23 Oct 2017 01:02:29 -0500|Fri, 15 Jan 2021 19:54:49 -0500
+5dab45575a2ae560e9d1a5c58e6883ed06f0039d|chore: implement settings bumplus (#141)|Mon, 23 Oct 2017 01:00:47 -0500|Fri, 15 Jan 2021 19:54:19 -0500
+b0bf723fe8fadc86697a74ebab05b9c460f49f30|fix: deleted files *.md|Mon, 23 Oct 2017 00:52:01 -0500|Fri, 15 Jan 2021 19:54:06 -0500
+2ec39460dca4a49077896904cd331ebd93882401|chore: implement terminal theme nord (#139)|Mon, 23 Oct 2017 00:42:22 -0500|Fri, 15 Jan 2021 19:53:31 -0500
+d95709e32bbbb5ef36de07c03e0a16cf93e0d844|fix: settings for tmux (#139)|Mon, 23 Oct 2017 00:41:14 -0500|Fri, 15 Jan 2021 19:53:13 -0500
+b2f17aa099ca8e6751065a72dd2d71fab8e744fa|fix: clean netrc and docker-machine (#136)|Mon, 23 Oct 2017 00:32:48 -0500|Fri, 15 Jan 2021 19:52:49 -0500
+0cf1faa08867a6fdd7617c8eb11bf6258911bba4|feat: zsh docker-machine for zshrc (#136)|Mon, 23 Oct 2017 00:27:53 -0500|Fri, 15 Jan 2021 19:52:20 -0500
+d240157a695097ed8765cf8311d7c0e068af8378|fix: name actions for install to run (#133)|Sun, 22 Oct 2017 23:42:22 -0500|Fri, 15 Jan 2021 19:51:57 -0500
+57000750d947e6f063d7b4b2cd0ac26ee53ae306|fix: change image python to ubuntu-dotfiles (#133)|Sun, 22 Oct 2017 23:38:45 -0500|Fri, 15 Jan 2021 19:51:25 -0500
+3dade2c050308f57537a16067f2aeb61d7f85f91|fix: workdir for dotfiles in dockerfile (#133)|Sun, 22 Oct 2017 23:38:01 -0500|Fri, 15 Jan 2021 19:51:02 -0500
+f242acc86b107d0bb038f6c80f2f69e7d1843fae|fix: settings script dir (#133)|Sun, 22 Oct 2017 23:37:05 -0500|Fri, 15 Jan 2021 19:49:53 -0500
+de15d6dadc1c90ef2c58cf8fcdae330adec2a52b|fix: code run script (#133)|Sun, 22 Oct 2017 23:36:20 -0500|Fri, 15 Jan 2021 19:49:37 -0500
+ce4f5aafa19c699d9d9315e1344114c66ac8d5b1|feat: deleted script setup.sh (#133)|Sun, 22 Oct 2017 23:35:32 -0500|Fri, 15 Jan 2021 19:49:18 -0500
+7977f3fed2ed220191a79995e163c2115a0cebb2|fix: clean transfer (#133)|Sun, 22 Oct 2017 20:12:11 -0500|Fri, 15 Jan 2021 19:49:01 -0500
+b9b28ddfbe0ac74fe0d10851f133558eb9f053ab|fix: install tools bash (#133)|Sun, 22 Oct 2017 20:03:45 -0500|Fri, 15 Jan 2021 19:48:37 -0500
+c25b865282e48671e93b1308d55caec24413cccb|docs: change name resources for extras (#133)|Sun, 22 Oct 2017 20:03:10 -0500|Fri, 15 Jan 2021 19:48:19 -0500
+d4d03db55c219afd74765a16e94d73cbc39f554f|chore: implement script for extras (#133)|Sun, 22 Oct 2017 20:02:46 -0500|Fri, 15 Jan 2021 19:48:01 -0500
+ab7ba9ddc3995af16a6a1f4947ee7c22435a83fd|fix: ignored SC2154,SC2034 (#133)|Sun, 22 Oct 2017 20:01:57 -0500|Fri, 15 Jan 2021 19:47:44 -0500
+f11767a7d25c90d54f64533604fe6469828649d8|fix: exclude files zsh of pre-commit (#133)|Sun, 22 Oct 2017 19:50:00 -0500|Fri, 15 Jan 2021 19:47:16 -0500
+10bb488ddeded753402193853af81faff229f32e|feat:  unnecessary transfer (#133)|Sun, 22 Oct 2017 19:40:33 -0500|Fri, 15 Jan 2021 19:46:41 -0500
+848cb4a6aab90866999bffa8e89334879ad893f2|chore: implement paths extras files (#133)|Sun, 22 Oct 2017 19:28:24 -0500|Fri, 15 Jan 2021 19:46:18 -0500
+2ba648cd15eaaf6fa90cad4ea5516e45fa305745|chore: implement dockerfiles path (#133)|Sun, 22 Oct 2017 19:27:47 -0500|Fri, 15 Jan 2021 19:45:49 -0500
+c05ecf61dd67b83836bc6baf5ac00bf17b5ccb86|chore: implement settings docker-compose for stage (#133)|Sun, 22 Oct 2017 19:27:04 -0500|Fri, 15 Jan 2021 19:45:14 -0500
+c20f2f3c854ef64f089c562edbf7e8f34af0270c|build: clean unnecessary applications (#133)|Sun, 22 Oct 2017 18:19:25 -0500|Fri, 15 Jan 2021 19:44:47 -0500
+91adf6daab464655aec7b23ba2d48e15cfa9e5d4|chore: implement actions for makefile (#133)|Sun, 22 Oct 2017 17:51:29 -0500|Fri, 15 Jan 2021 19:44:27 -0500
+20b2561c93579ca6b0ee431c3dc40eb1c167c388|fix: services for docker-compose (#133)|Sun, 22 Oct 2017 17:48:26 -0500|Fri, 15 Jan 2021 19:44:11 -0500
+1e0be0b2efaef4089db85db4562261f611671afa|chore: implement actions for for make (#133)|Sun, 22 Oct 2017 17:47:50 -0500|Fri, 15 Jan 2021 19:43:48 -0500
+c5861c01a9b5694710a7a011208ebe6a60888c36|chore: settings actions for exports (#133)|Sun, 22 Oct 2017 17:47:17 -0500|Fri, 15 Jan 2021 19:43:24 -0500
+a6c53a2c8b30f39f09800a840a985867c5b8d5ac|fix: deleted unnecessary dockerfile (#133)|Sun, 22 Oct 2017 17:44:46 -0500|Fri, 15 Jan 2021 19:43:05 -0500
+c019d82ca8048071adfca98d663c707542a5f850|chore: implement packages for python (#133)|Sun, 22 Oct 2017 17:44:12 -0500|Fri, 15 Jan 2021 19:42:46 -0500
+60651497ba8a614a4b2357180cde395e6408d999|fix: settings project (#133)|Sun, 22 Oct 2017 17:40:53 -0500|Fri, 15 Jan 2021 19:42:22 -0500
+526794923368fdd7edfcad4aa7b939b1f8e6afce|fix: settings project (#133)|Sun, 22 Oct 2017 17:40:32 -0500|Fri, 15 Jan 2021 19:42:04 -0500
+ea22b5ce9e6e0d4c7fc95bac347579ee48d3424c|fix: clean unnecessary dotfiles tmuxinator (#133)|Sun, 22 Oct 2017 17:40:10 -0500|Fri, 15 Jan 2021 19:41:42 -0500
+3a56720515fda9640760c141cdaeeedd968a0c09|feat: settings package python (#133)|Sun, 22 Oct 2017 17:39:02 -0500|Fri, 15 Jan 2021 19:41:26 -0500
+af2e4d6518a7a404f77f5af67100bcb966216f09|build: clean unnecessary files (#133)|Sun, 22 Oct 2017 17:38:24 -0500|Fri, 15 Jan 2021 19:41:07 -0500
+627493ce6ebfcfa6763492e0bb1da9f0b1e34a86|fix: hooks settings pre-commit (#133)|Sun, 22 Oct 2017 17:37:54 -0500|Fri, 15 Jan 2021 19:40:45 -0500
+22d23d5ef4db291facef3d73ad164371422de7b5|build: clean unnecessary path resources (#133)|Sun, 22 Oct 2017 17:29:23 -0500|Fri, 15 Jan 2021 19:40:21 -0500
+896470de1546d9a3bffdbae2bf962a5367f96277|chore: implement settings gitattributes (#133)|Sun, 22 Oct 2017 17:27:23 -0500|Fri, 15 Jan 2021 19:40:04 -0500
+7734b6a4df65025f5a3b4f02e47e8a25569c9251|fix: settings editor configuration (#133)|Sun, 22 Oct 2017 17:26:58 -0500|Fri, 15 Jan 2021 19:39:45 -0500
+cb0701d0a403bdbda9e67c3889eb05af89a4da91|feat: ignore files for docker (#133)|Sun, 22 Oct 2017 17:26:02 -0500|Fri, 15 Jan 2021 19:39:25 -0500
+d7c9a10758677601f09699087ea11352116de43f|chore: implement settings for pylint (#133)|Sun, 22 Oct 2017 17:25:36 -0500|Fri, 15 Jan 2021 19:38:58 -0500
+9d26fd67f29a148901226f2fd4ed777fcd869a2e|fix: settings python version (#133)|Sun, 22 Oct 2017 17:25:07 -0500|Fri, 15 Jan 2021 19:38:38 -0500
+3710e0512251bb625456453982c4a80f200b55c2|build: deleted script unnecessary for bash (#133)|Sun, 22 Oct 2017 17:24:33 -0500|Fri, 15 Jan 2021 19:37:59 -0500
+f57e73fb8de1ee5bd927b1c3c41299f58d7c8f30|fix: settings projectile (#133)|Mon, 31 Jul 2017 10:45:14 -0500|Fri, 15 Jan 2021 19:37:40 -0500
+8b5a458ee5631e96b970bbba6953466c61fb6b10|build: clean files unnecessary (#133)|Sun, 30 Jul 2017 22:03:28 -0500|Fri, 15 Jan 2021 19:37:17 -0500
+0de8efbe9ddbc561dbadd368f7be03b5621322d5|fix: update version to changelog (2.1.0)|Sat, 15 Apr 2017 20:29:16 -0500|Fri, 15 Jan 2021 19:36:45 -0500
+8ed6e517969db48e665ad31bbe946e0ed89e1f47|build: generated version (2.1.0)|Sat, 15 Apr 2017 20:27:51 -0500|Fri, 15 Jan 2021 19:36:21 -0500
+e1d1d0502900507030af5aee14eff49868800110|build: bump version 2.0.9 → 2.1.0|Sat, 15 Apr 2017 20:25:40 -0500|Fri, 15 Jan 2021 19:36:03 -0500
+538e38ac2c62bff8953b5c61453dbb90591d8e7a|fix: declarative vars in functions (#118)|Sat, 15 Apr 2017 20:23:17 -0500|Fri, 15 Jan 2021 19:35:45 -0500
+981ffb07b6320452792155b3fc54263ebe2a0ba5|fix: settings volumes for docker-compose (#118)|Sat, 15 Apr 2017 16:53:23 -0500|Fri, 15 Jan 2021 19:35:30 -0500
+2097346cc319e0a91945e68d5b344cab96675a8e|fix: orders zsh plugins (#118)|Fri, 14 Apr 2017 21:12:33 -0500|Fri, 15 Jan 2021 19:35:13 -0500
+eedb2b854ab13146871d65d5a335247ae2adc7e2|refactor: update version 3 for docker-compose (#118)|Fri, 14 Apr 2017 21:11:57 -0500|Fri, 15 Jan 2021 19:34:47 -0500
+8b533192e93ed94d10184f9a4d1b79ba78a7f3dd|fix: update dependence docker-compose (#118)|Fri, 14 Apr 2017 21:11:01 -0500|Fri, 15 Jan 2021 19:34:23 -0500
+a6aff5c80a701cfd024e7471c4befb2906f3b697|fix: deleted netrc (#118)|Fri, 14 Apr 2017 21:10:07 -0500|Fri, 15 Jan 2021 19:34:05 -0500
+59f5e45c8004875450a7cd3f66eea209c3076ee7|chore: implement file docker ignore (#118)|Fri, 14 Apr 2017 00:22:12 -0500|Fri, 15 Jan 2021 19:32:01 -0500
+74c089596c1eff1eb87c9cf836b84242701f842f|chore: app install notifier for osx (#120)|Thu, 13 Apr 2017 08:23:58 -0500|Fri, 15 Jan 2021 19:31:44 -0500
+a368dd20f96661b4989f147e24eac09442ed6aa2|fix: clean app screen (#120)|Thu, 13 Apr 2017 08:20:04 -0500|Fri, 15 Jan 2021 19:31:27 -0500
+00def4850a0e153d9ca7a836e692c0fb7a6e02c5|docs: add plugin functions server (#132)|Sun, 19 Mar 2017 03:37:14 -0500|Fri, 15 Jan 2021 19:31:05 -0500
+89f30ecec593cbcc55252f7c8ccedbd63544bafc|docs: clean span class badges (#132)|Sun, 19 Mar 2017 03:35:01 -0500|Fri, 15 Jan 2021 19:30:22 -0500
+adf49d95e2b10f98a2aedb2478bd1ee31891d7eb|fix: clean functions server (#132)|Sun, 19 Mar 2017 03:34:30 -0500|Fri, 15 Jan 2021 19:30:05 -0500
+c90015c6b6b3fb4a0a25db48f5ef0af4ba9ff944|chore: implement settings volume info for docker (#132)|Sun, 19 Mar 2017 03:31:17 -0500|Fri, 15 Jan 2021 19:29:42 -0500
+20407959a1c7e57da21aabfe2fa5a4920fb7034c|feat: file customrc ignored for git (#132)|Fri, 17 Mar 2017 16:16:20 -0500|Fri, 15 Jan 2021 19:29:12 -0500
+b883a9d59567ba4128d04fd39fa17c9059b0ce6b|build: generated upgrade release version (2.0.9)|Tue, 14 Feb 2017 12:51:16 -0500|Fri, 15 Jan 2021 19:28:43 -0500
+3b7ce3c6a93377090aed88619d7ea72fa5426e38|build: bump version 2.0.8 → 2.0.9|Tue, 14 Feb 2017 12:50:31 -0500|Fri, 15 Jan 2021 19:28:20 -0500
+002180b5071d0d75e78ac95f8885576003904054|docs: info file netrc (#130)|Tue, 14 Feb 2017 12:47:35 -0500|Fri, 15 Jan 2021 19:28:05 -0500
+ed60cb842e35add4c0b875602ad2ef282bb4f2a9|chore: implement file net for github (#130)|Tue, 14 Feb 2017 12:42:55 -0500|Fri, 15 Jan 2021 19:27:44 -0500
+a63ec1eed3aa88b3eb686c045c5b1c0667abaa80|fix: clean gvm script unnecessary (#131)|Tue, 14 Feb 2017 12:36:34 -0500|Fri, 15 Jan 2021 19:27:25 -0500
+652858d5dd452c26956287402bb854ffac451a19|fix: clean package zsh not found (#129)|Tue, 14 Feb 2017 12:32:57 -0500|Fri, 15 Jan 2021 19:27:07 -0500
+232ff1c5857ab56c1681ef6d1051e40e752c49af|chore: implement settings git scmbrc (#128)|Fri, 10 Feb 2017 01:25:26 -0500|Fri, 15 Jan 2021 19:26:46 -0500
+d1cf4743269ddb6b9ba2de85be0d151f45a6b086|build: bump version 2.0.7 → 2.0.8|Thu, 26 Jan 2017 01:50:54 -0500|Fri, 15 Jan 2021 19:26:32 -0500
+4697618c26b07decd9063e84cf3161c6ee4b8752|build: generated release (2.0.8)|Thu, 26 Jan 2017 01:50:25 -0500|Fri, 15 Jan 2021 19:26:09 -0500
+d710718fad895369e013860c14cae230e78f61c7|docs: implement info plugins for antibody (#127)|Thu, 26 Jan 2017 01:47:16 -0500|Fri, 15 Jan 2021 19:25:45 -0500
+d483d31b2d4b6a4c1b0c6e2de95b837e1d199e67|fix: settings docker and docker compose (#126)|Thu, 26 Jan 2017 01:14:36 -0500|Fri, 15 Jan 2021 19:25:29 -0500
+2cc362c7e8082c7475b8a78cc3ec0f6201d5327b|feat: clean script of docker (#125)|Thu, 26 Jan 2017 01:05:20 -0500|Fri, 15 Jan 2021 19:25:04 -0500
+a839643b2f2255bb4d705c021e65321ace0a2b71|chore: implement docker composer aliases (#124)|Thu, 26 Jan 2017 01:02:14 -0500|Fri, 15 Jan 2021 19:24:44 -0500
+70228896c49370030761cd4edd07f3e4f1566bce|fix: clean script not used (#124)|Thu, 26 Jan 2017 01:00:51 -0500|Fri, 15 Jan 2021 19:24:23 -0500
+d4d4b6a14bc03c6d8edbe98fb08914939a018698|docs: change antigen to antibody (#123)|Sun, 22 Jan 2017 08:22:20 -0500|Fri, 15 Jan 2021 19:24:01 -0500
+9459b49f82fd334b569bd419ff50f63911e1200d|fix: file unnecessary antigen install (#123)|Sun, 22 Jan 2017 08:20:58 -0500|Fri, 15 Jan 2021 19:23:30 -0500
+d1661d841fe8c08c7d6184f7befa3969f1ae0ae9|build: clean solarized tmux file (#122)|Sun, 22 Jan 2017 08:08:43 -0500|Fri, 15 Jan 2021 19:22:53 -0500
+0d5eb848f09bb487c48b08eb0d613b430f8fa003|fix: settings load plugin antibody (#121)|Sun, 22 Jan 2017 08:05:26 -0500|Fri, 15 Jan 2021 19:22:25 -0500
+4baaa2e5a7fd4b946e0092569bb876db58472c64|fix: load script for zsh (#121)|Fri, 20 Jan 2017 01:10:04 -0500|Fri, 15 Jan 2021 19:21:57 -0500
+9d83e9365cc41e70a143fcf5e758e5d89bb26644|build: clean files bundles for antibody (#121)|Fri, 20 Jan 2017 01:08:34 -0500|Fri, 15 Jan 2021 19:21:30 -0500
+505cd25dac1cbc6fe9c9225158c0ff13d94755aa|fix: clean load file bundle (#121)|Fri, 20 Jan 2017 01:06:19 -0500|Fri, 15 Jan 2021 19:21:10 -0500
+96248292af1aac03a3862448cf1ae0cf75880a19|build: generate release version (2.0.7)|Fri, 30 Dec 2016 10:44:46 -0500|Fri, 15 Jan 2021 19:20:44 -0500
+9ff582069c93332b7a43f99bbedae793e3ddbb2c|build: new changes (2.0.7)|Fri, 30 Dec 2016 10:43:39 -0500|Fri, 15 Jan 2021 19:20:18 -0500
+a5c27af2cf5ce111ef514112d9f25e9de91c7772|fix: settings script (#119)|Fri, 30 Dec 2016 10:38:30 -0500|Fri, 15 Jan 2021 19:19:57 -0500
+376394042f1f4e2a4446707334f71311e68d2f45|refactor: change bash to zsh (#119)|Fri, 30 Dec 2016 10:37:29 -0500|Fri, 15 Jan 2021 19:19:34 -0500
+b42277f9a16a079b0f3cec75ac76f96d7de51c70|fix: settings script test (#119)|Fri, 30 Dec 2016 10:36:58 -0500|Fri, 15 Jan 2021 19:19:09 -0500
+d262e24079a4e7939d751bbb2ad64ff17a2a7df9|fix: settings install (#119)|Thu, 29 Dec 2016 22:00:47 -0500|Fri, 15 Jan 2021 19:18:51 -0500
+b5427dadee789d7311939941da38ec44f96614f4|fix: settings script (#119)|Thu, 29 Dec 2016 22:00:25 -0500|Fri, 15 Jan 2021 19:18:33 -0500
+8a53da365735ab737490f086e437d2e345214e88|fix: settings shell (#119)|Thu, 29 Dec 2016 21:59:12 -0500|Fri, 15 Jan 2021 19:18:13 -0500
+eff9b3450f6844fe6a6589c31f6ee6a266090c83|fix: env home (#119)|Thu, 29 Dec 2016 21:58:30 -0500|Fri, 15 Jan 2021 19:17:58 -0500
+dda84e923c7be89a21d26ce3ebee965d8e2cedea|fix: script of make (#119)|Thu, 29 Dec 2016 19:36:32 -0500|Fri, 15 Jan 2021 19:17:42 -0500
+4cabf13c07308171348979dfb0fc3e48ac317322|chore: implement script lintcode (#119)|Thu, 29 Dec 2016 19:30:03 -0500|Fri, 15 Jan 2021 19:17:18 -0500
+829faa7314a7424ad3e262e092d3b660a10418e7|fix: script test.sh (#119)|Thu, 29 Dec 2016 18:10:06 -0500|Fri, 15 Jan 2021 19:17:01 -0500
+663eb5433ea17eab105641d26cf2dfdad92c63c2|fix: onbuild for dockerfile (#119)|Thu, 29 Dec 2016 18:06:17 -0500|Fri, 15 Jan 2021 19:16:35 -0500
+0085c942d857a67bffab477c8975fdd9aa6b387b|build: bump version 2.0.3 → 2.0.4|Sun, 11 Dec 2016 10:02:05 -0500|Fri, 15 Jan 2021 19:16:18 -0500
+3ecb5290069df0861c3101276ed19ffb692c4c02|build: settings tags (2.0.6)|Sun, 11 Dec 2016 10:01:32 -0500|Fri, 15 Jan 2021 19:15:55 -0500
+4d10a77aa113e669a201ac2ddeae5e4f5e889728|chore: program hunspell (#117)|Sun, 11 Dec 2016 09:33:46 -0500|Fri, 15 Jan 2021 19:15:40 -0500
+b7d015afa4b4ecc0e98d8129929b31b31f7d72a9|docs: info asciinema|Sun, 11 Dec 2016 09:25:16 -0500|Fri, 15 Jan 2021 19:15:27 -0500
+8b3d5f172cc146607f7976a0cc0a2b3cc72e819d|chore: install asciinema (#116)|Sun, 11 Dec 2016 09:09:20 -0500|Fri, 15 Jan 2021 19:15:09 -0500
+2f8e691b4cfd38b92098f348ce7ada870c0ab24d|build: settings changelog (2.0.5)|Wed, 7 Dec 2016 13:21:58 -0500|Fri, 15 Jan 2021 19:14:46 -0500
+2254cea8984df0bc972cdc10c3b997c83f28fab0|fix: settings tmux code for pain (#115)|Wed, 7 Dec 2016 13:19:32 -0500|Fri, 15 Jan 2021 19:14:18 -0500
+eb8dc1d504456ae217d9bcadb84ad5a01aeabd15|chore: upgrade fonts fira code (#114)|Tue, 6 Dec 2016 01:19:07 -0500|Fri, 15 Jan 2021 19:13:50 -0500
+c111b64ce8f5c14dc884b344b5619da2620c1bc0|build: clean fonts of fira code (#114)|Tue, 6 Dec 2016 01:17:02 -0500|Fri, 15 Jan 2021 19:13:23 -0500
+4aa9a094dc15a455d99862515b654c99203401ab|build: upgrade tag version for bumpversion (2.0.4)|Sat, 3 Dec 2016 21:12:03 -0500|Fri, 15 Jan 2021 19:12:57 -0500
+b1128df83c6454f206a3c23fb326ed96e3a6f7f0|build: update release (2.0.4)|Sat, 3 Dec 2016 21:11:11 -0500|Fri, 15 Jan 2021 19:12:32 -0500
+077cb9a75b7a5e83459baadd31bb8e4b21a8aedf|docs: info peco (#86)|Sat, 3 Dec 2016 21:00:48 -0500|Fri, 15 Jan 2021 19:12:16 -0500
+3d67a4f811d2b27f1546cecc20e94de8f18f1dcb|chore: implement tool peco (#86)|Sat, 3 Dec 2016 20:57:35 -0500|Fri, 15 Jan 2021 19:11:48 -0500
+4f47ac25db06da1452e02b43c40179fbdb128a3c|fix: clean mate and sublime on functions (#113)|Thu, 1 Dec 2016 17:28:34 -0500|Fri, 15 Jan 2021 19:11:30 -0500
+f39092d0ed9325820eb1c5bcd175f1b40c80b631|chore: implement install java (#112)|Fri, 18 Nov 2016 21:40:07 -0500|Fri, 15 Jan 2021 19:11:13 -0500
+28cba6bf9ff7a598dd7379cfda3910532bca55b2|build: upgrade release (2.0.3)|Mon, 14 Nov 2016 09:29:05 -0500|Fri, 15 Jan 2021 19:10:45 -0500
+7d804f31484a9fded8d6a9039736153ab695b9e4|build: generated bump version v2.0.1 → 2.0.2|Mon, 14 Nov 2016 09:28:04 -0500|Fri, 15 Jan 2021 19:10:21 -0500
+6c215a185432f70d590846deef49dc4436f443cb|chore: script setup action make (#110)|Mon, 14 Nov 2016 09:24:28 -0500|Fri, 15 Jan 2021 19:09:53 -0500
+d328eab60fc87c1e0529e586f8e9d778b850447d|fix: script bootstrap (#110)|Mon, 14 Nov 2016 09:24:07 -0500|Fri, 15 Jan 2021 19:09:27 -0500
+3507c9ef5de3b7cf10036ed0842d85013d1c96d6|build: update dependences packages python (#110)|Sun, 13 Nov 2016 14:30:38 -0500|Fri, 15 Jan 2021 19:09:00 -0500
+a35e9354be2b14a89ad5a26469b8a5be26679407|fix: validation rust install (#108)|Sun, 13 Nov 2016 14:24:53 -0500|Fri, 15 Jan 2021 19:08:37 -0500
+a7d2bf870952f2bccb082e01e1902465eb431065|fix: validation exist program (#108)|Sun, 13 Nov 2016 14:24:26 -0500|Fri, 15 Jan 2021 19:07:40 -0500
+5d7ef05147d29856d9b9fdccbad7e21e74870d1d|chore: tools unrar (#108)|Sun, 13 Nov 2016 12:09:36 -0500|Fri, 15 Jan 2021 19:07:19 -0500
+65b415bb2f19eec024b66d099d13c77092639f63|chore: implement fonts ttf (#111)|Fri, 11 Nov 2016 14:30:51 -0500|Fri, 15 Jan 2021 19:06:51 -0500
+ba1415d5a04296932a3e9c4c32432cc156c4a9c5|fix: dependences for brew (#109)|Fri, 11 Nov 2016 13:46:13 -0500|Fri, 15 Jan 2021 19:06:04 -0500
+dd01b0e48958173784694353f544590f25a3bfed|fix: update settings version (2.0.2)|Thu, 10 Nov 2016 11:30:44 -0500|Fri, 15 Jan 2021 19:05:48 -0500
+d57abc1b6ab9fef3f2df0ab0fb37fc4f7c7ae7ba|fix: install rust (#106)|Thu, 10 Nov 2016 11:27:45 -0500|Fri, 15 Jan 2021 19:05:32 -0500
+4bc7d0145e36136e7bab7b1df400a539f2b70904|style: settings utf-8 tmux (#107)|Thu, 10 Nov 2016 11:20:18 -0500|Fri, 15 Jan 2021 19:05:08 -0500
+37bfb077ec3c5b8630d48b37920394062b8f424e|docs: clean comment unnecessary (#102)|Fri, 21 Oct 2016 08:57:41 -0500|Fri, 15 Jan 2021 19:04:47 -0500
+a384fd66f2b77e4c5668b85a024f588e2e3666b1|chore: implement new font fira code (#102)|Fri, 21 Oct 2016 08:50:38 -0500|Fri, 15 Jan 2021 19:04:20 -0500
+07ad397f54f032a0828fe0ac3babf24f445035ec|fix: clean font source code pro unnecessary (#102)|Fri, 21 Oct 2016 08:47:41 -0500|Fri, 15 Jan 2021 19:04:00 -0500
+8e3111c7160c389f59927b69c5cda272bc356ea8|build: new version (2.0.1)|Tue, 4 Oct 2016 08:17:26 -0500|Fri, 15 Jan 2021 19:03:35 -0500
+ab2c17733e76a860b9fd65bb27fb71868aaaafe3|fix: install command for tmux theme (#101)|Tue, 4 Oct 2016 07:42:57 -0500|Fri, 15 Jan 2021 19:03:12 -0500
+b450d2ea0bc2bfc77403f5f4fe2650ab7398d972|fix: settings tmux pack theme (#101)|Tue, 4 Oct 2016 07:38:19 -0500|Fri, 15 Jan 2021 19:02:54 -0500
+ccae3074664790a2667b770a7a32f6e3477deb00|fix: clean dependences unnecessary (#18)|Tue, 4 Oct 2016 06:56:34 -0500|Fri, 15 Jan 2021 19:02:31 -0500
+f322acb5cc3fbbe46b4a3a40f665bb23f9637119|chore: implement install git-flow (#18)|Tue, 4 Oct 2016 06:13:14 -0500|Fri, 15 Jan 2021 19:02:09 -0500
+80d37e984b506ce4ebbfb9717b3d10adc5df70b2|chore: implement grip settings (#98)|Tue, 4 Oct 2016 06:02:49 -0500|Fri, 15 Jan 2021 19:01:51 -0500
+2ec180b4830b9bb95beda7baea74f4bf4da5a3a3|docs: clean info readme (#99)|Tue, 4 Oct 2016 05:18:11 -0500|Fri, 15 Jan 2021 19:01:36 -0500
+ed5752de4a83fdcc59751a4a52005f0ab316bbf9|fix: implement zsh-gvm dependence (#99)|Tue, 4 Oct 2016 04:15:14 -0500|Fri, 15 Jan 2021 19:01:20 -0500
+905823b3acb64f32885c832383684b2ccbda7de3|fix: settings docker (#94)|Tue, 4 Oct 2016 03:14:48 -0500|Fri, 15 Jan 2021 19:01:06 -0500
+14c547cdf6de135aa25f842f478d5083a84a8c12|chore: implement execute plantuml (#97)|Sat, 1 Oct 2016 06:46:47 -0500|Fri, 15 Jan 2021 19:00:32 -0500
+86309e39c42a0f21156a3c1bfbec9f54242846a3|docs: link wakatime (#93)|Sat, 1 Oct 2016 06:43:41 -0500|Fri, 15 Jan 2021 19:00:16 -0500
+cc28321d03d8012b7de81c28bd80ca08e185c1be|chore: implement var plantuml (#97)|Thu, 29 Sep 2016 13:15:51 -0500|Fri, 15 Jan 2021 18:59:58 -0500
+8629344d6e99e47f204050a28d9e0adb9aeeaaba|chore: implement jar for plantuml (#97)|Thu, 29 Sep 2016 13:10:16 -0500|Fri, 15 Jan 2021 18:59:35 -0500
+3a47a209dc13813844a28aa19d37b6ed6991880c|build: update version tag (2.0.0)|Wed, 28 Sep 2016 00:27:58 -0500|Fri, 15 Jan 2021 18:59:15 -0500
+9b5fd8bc697a56e4697403f455f8075b1b69a43e|build: bump version generated 1.1.9 → 2.0.0|Wed, 28 Sep 2016 00:22:35 -0500|Fri, 15 Jan 2021 18:58:54 -0500
+bd1ec36b7832ef2640051911234b6556b73d57fb|fix: name bootstrap (#96)|Tue, 27 Sep 2016 21:46:22 -0500|Fri, 15 Jan 2021 18:58:40 -0500
+fd60b484ddf162357ed7efd9b3daf70c1dc8c4e6|chore: locale settings to ubuntu (#96)|Tue, 27 Sep 2016 21:45:00 -0500|Fri, 15 Jan 2021 18:58:20 -0500
+2dd26685ee2c9a768bbaeab741c26f0767b4dd50|test:  implement test action (#96)|Tue, 27 Sep 2016 21:07:47 -0500|Fri, 15 Jan 2021 18:57:52 -0500
+630dc0fcffdf63916bf04d0a1319c95de16a6143|fix: setup script (#96)|Tue, 27 Sep 2016 21:07:19 -0500|Fri, 15 Jan 2021 18:57:37 -0500
+3a4f4e36a7362c3630ef9e80b6df28bddc7fae87|build: clean files ansible unnecessary (#95)|Tue, 27 Sep 2016 20:57:03 -0500|Fri, 15 Jan 2021 18:57:12 -0500
+7911ef02c5fba0ff1da782999e4195bd9c963770|fix: script setup (#92)|Tue, 27 Sep 2016 20:50:59 -0500|Fri, 15 Jan 2021 18:56:59 -0500
+0233adb5c63e15c24fa097471790ea8bbe42bd7c|fix: path volumes (#92)|Tue, 27 Sep 2016 20:49:56 -0500|Fri, 15 Jan 2021 18:56:37 -0500
+60f617db4077ae8d6f58e1ec0d54d3e15c12c59b|fix: docker settings (#92)|Tue, 27 Sep 2016 20:48:53 -0500|Fri, 15 Jan 2021 18:56:21 -0500
+43290f168e9d9ee8f55be96f42d206a5bccb0db6|fix: name tmuxinator for docker (#92)|Tue, 27 Sep 2016 18:21:14 -0500|Fri, 15 Jan 2021 18:56:04 -0500
+f2b737febcffadf179686fa671fad95fc46311dd|fix: docker settings (#92)|Tue, 27 Sep 2016 17:28:20 -0500|Fri, 15 Jan 2021 18:55:45 -0500
+dbb7adac288d1cbf347ae1b32377ac1bd715232a|build: file unnecessary (#92)|Tue, 27 Sep 2016 16:54:14 -0500|Fri, 15 Jan 2021 18:55:22 -0500
+b6a71e686c0009fe41d4bde0b610288a3b372999|fix: install repository (#92)|Tue, 27 Sep 2016 16:52:27 -0500|Fri, 15 Jan 2021 18:55:06 -0500
+4458e30b3a1b76d7b4a3a91e5e9466ac7cfc91ab|fix: bootstrap start (#92)|Tue, 27 Sep 2016 16:44:26 -0500|Fri, 15 Jan 2021 18:54:46 -0500
+51ee1f5112a5b1b60d24f49c0c0eaf8585f99611|fix: clean vars disorder (#92)|Tue, 27 Sep 2016 16:27:25 -0500|Fri, 15 Jan 2021 18:54:27 -0500
+95c8bea645743e554f46c0afbe8a650f3c78f349|fix: clean exports vars (#92)|Tue, 27 Sep 2016 16:20:47 -0500|Fri, 15 Jan 2021 18:54:06 -0500
+7b81cbc686cf81708431584069cc79896faa2630|fix: settings change path (#92)|Tue, 27 Sep 2016 16:19:04 -0500|Fri, 15 Jan 2021 18:53:51 -0500
+bed46ad03fe1371ec033aed18193ef3f236ac194|fix: clean vagrant unnecessary (#92)|Sun, 25 Sep 2016 00:27:12 -0500|Fri, 15 Jan 2021 18:53:34 -0500
+224a85e023be21caf02c89ad8471e974dc8d9d66|chore: make run (#92)|Sun, 25 Sep 2016 00:22:33 -0500|Fri, 15 Jan 2021 18:53:19 -0500
+a32728d3c2989e9be8aa4fc1334c288507915dad|fix: options unnecessary (#92)|Sun, 25 Sep 2016 00:14:24 -0500|Fri, 15 Jan 2021 18:53:03 -0500
+3dbbc2047d6c898011bbe7ff1576fc710b0b3412|fix: deleted run server unnecessary (#92)|Sun, 25 Sep 2016 00:12:47 -0500|Fri, 15 Jan 2021 18:52:36 -0500
+1024600065abe5d8a41b98868e6018752535d26d|fix: script load for start bootstrap (#92)|Sun, 25 Sep 2016 00:06:19 -0500|Fri, 15 Jan 2021 18:52:06 -0500
+255df52f16aa5c268d855e8b081218f8d5db81c2|fix: load install (#92)|Sun, 25 Sep 2016 00:05:12 -0500|Fri, 15 Jan 2021 18:51:28 -0500
+88a0da319a19d0ce98108ca9e483ccb01a7279ef|fix: validate vars (#92)|Sat, 24 Sep 2016 23:44:58 -0500|Fri, 15 Jan 2021 18:51:14 -0500
+548c86cf80f099304901690c7516934da5a30c9a|fix: deleted load.sh (#92)|Sat, 24 Sep 2016 23:40:35 -0500|Fri, 15 Jan 2021 18:50:59 -0500
+97cb162a23bc6672a02ddb227e89e679a4a1cc9c|fix: move files sh (#92)|Sat, 24 Sep 2016 23:36:30 -0500|Fri, 15 Jan 2021 18:50:44 -0500
+d8e5f3b03c6ad22a4237b33a9f9cabb673ff264e|fix: change name tmuxinator (#92)|Sat, 24 Sep 2016 23:32:34 -0500|Fri, 15 Jan 2021 18:50:29 -0500
+9152da57531ee6d47be1413978f92e8dc618fcad|fix: clean files script (#92)|Sat, 24 Sep 2016 23:19:18 -0500|Fri, 15 Jan 2021 18:50:13 -0500
+4ef2a5b38e361ac2d28af4e9e15505b2c5463414|fix: name vars (#92)|Sat, 24 Sep 2016 19:26:22 -0500|Fri, 15 Jan 2021 18:49:54 -0500
+31c45b7b2ac066d2372b54e31debf7a008682505|fix: script bootstrap (#92)|Sat, 24 Sep 2016 19:19:11 -0500|Fri, 15 Jan 2021 18:49:40 -0500
+237b5c816664d813cc8d4b87b671c4bd27fad709|chore: load script (#92)|Sat, 24 Sep 2016 19:16:14 -0500|Fri, 15 Jan 2021 18:49:25 -0500
+12afb5ca580ad73487b026bad71f09ad0b70bd4a|fix: script load code (#92)|Sat, 24 Sep 2016 19:13:58 -0500|Fri, 15 Jan 2021 18:49:04 -0500
+7b61481b6b225ad6adedb903d9df30569941fb8f|fix: load shell (#92)|Sat, 24 Sep 2016 10:49:59 -0500|Fri, 15 Jan 2021 18:48:50 -0500
+71ff0955b86bced6e52297e66b8d870e7d0e3ea7|fix: functions make (#92)|Sat, 24 Sep 2016 10:44:22 -0500|Fri, 15 Jan 2021 18:48:33 -0500
+29a404bfa552a34c07b461a845b5de58740fe679|fix: bootstrap script (#92)|Sat, 24 Sep 2016 10:32:23 -0500|Fri, 15 Jan 2021 18:48:15 -0500
+bb48e670617b39e46ea93f1fe9a88f87e139595e|chore: install configuration rust (#91)|Sun, 18 Sep 2016 02:55:14 -0500|Fri, 15 Jan 2021 18:47:53 -0500
+523c5241843ac9b2028dfaad3042f7e8bd9fb23a|chore: implement install rust (#91)|Sun, 18 Sep 2016 02:52:59 -0500|Fri, 15 Jan 2021 18:47:32 -0500
+6aadf5b3fbb47044753cd7e03ba61cd6a911803f|chore: plugin zsh git-secret (#80)|Tue, 6 Sep 2016 23:15:52 -0500|Fri, 15 Jan 2021 18:47:16 -0500
+bc15219a4ce3ae1f0dc5080418c1f4348bd80e2a|chore: brew on apps for osx (#87)|Tue, 6 Sep 2016 23:04:16 -0500|Fri, 15 Jan 2021 18:46:57 -0500
+2e5f6d4bcb4de7e29fde85f45b6713eaf82289e5|docs: message on Application on brew (#87)|Tue, 6 Sep 2016 23:01:23 -0500|Fri, 15 Jan 2021 18:46:40 -0500
+dc35f426cecfe542a6b9a8176530d12ef577368e|chore: applications dependences in brew (#87)|Tue, 6 Sep 2016 22:52:09 -0500|Fri, 15 Jan 2021 18:46:14 -0500
+a1d37b030519e36b180d419872223926004ae408|docs: update version on changelog (1.1.9)|Sat, 20 Aug 2016 00:06:18 -0500|Fri, 15 Jan 2021 18:45:44 -0500
+cfe6c8614a5ddd624371679dd34cc8575ca18aac|build: bump version: v1.1.8 → 1.1.9|Sat, 20 Aug 2016 00:02:44 -0500|Fri, 15 Jan 2021 18:45:30 -0500
+5900a9324491a6aae1fcbcd96b3c96aee6228135|chore: configuration version in bumpversion (#90)|Sat, 20 Aug 2016 00:00:53 -0500|Fri, 15 Jan 2021 18:44:39 -0500
+7faa6df8b0b83dfaa5cc71e538914dfa6b9e7dda|style: order dependence package python (#90)|Fri, 19 Aug 2016 23:58:33 -0500|Fri, 15 Jan 2021 18:44:23 -0500
+9bbd70b30eda1ddea408cf545876ceb3577b418e|feat: dependence bumpversion package python (#90)|Fri, 19 Aug 2016 23:57:44 -0500|Fri, 15 Jan 2021 18:44:03 -0500
+419ec5918bedd37f3dab8e975315246bec599ca9|docs: implement badge for project (#89)|Fri, 19 Aug 2016 23:48:51 -0500|Fri, 15 Jan 2021 18:43:40 -0500
+1c73192d6c1547c55e4ddc6346156cf068bc729c|chore: settings code climate (#89)|Fri, 19 Aug 2016 23:44:55 -0500|Fri, 15 Jan 2021 18:43:22 -0500
+8501a0762ebdfc88217ebc7167110ce30f95cac1|chore: settings tmuxinator (#89)|Fri, 19 Aug 2016 23:41:22 -0500|Fri, 15 Jan 2021 18:43:07 -0500
+a4591c608fdbe9ec950b0071f897ba5048486d8c|feat: clean command not found shopt (#70)|Wed, 3 Aug 2016 15:24:49 -0500|Fri, 15 Jan 2021 18:42:47 -0500
+dce136bc8f741d4cef0a66f5095a93d70e3f359d|build: generated new tag (1.1.8)|Tue, 2 Aug 2016 23:57:42 -0500|Fri, 15 Jan 2021 18:41:52 -0500
+3506a716e4f33dc13f57d0fa471f140b9565b906|style: clean vars aliases (#88)|Tue, 2 Aug 2016 23:30:26 -0500|Fri, 15 Jan 2021 18:41:18 -0500
+d4f3fa28188d13c96027e96954046ecbd46fa541|chore: plugin zsh-git-aliases (#88)|Tue, 2 Aug 2016 23:28:52 -0500|Fri, 15 Jan 2021 18:41:03 -0500
+def286f99ff46642bfa0df4f0a4815d32cc22e08|chore: settings clean repository git (#85)|Thu, 28 Jul 2016 11:04:54 -0500|Fri, 15 Jan 2021 18:40:43 -0500
+20c422e71e7ae383e81c2313ac84357f53ad8d54|docs: info transfer on readme (#61)|Mon, 25 Jul 2016 00:51:39 -0500|Fri, 15 Jan 2021 15:58:20 -0500
+48117d484f02bd399f42a5bdb05275fe2dbde58e|chore: transfer.sh (#61)|Mon, 25 Jul 2016 00:48:09 -0500|Fri, 15 Jan 2021 15:58:00 -0500
+374fd5a75fc573e35c0e3781ca87f0cdf16820f9|build: clean and added export vars settings (#84)|Sun, 24 Jul 2016 02:35:40 -0500|Fri, 15 Jan 2021 15:57:41 -0500
+b1f62a052442da8ec0bb20373408aa72957b2ec7|fix: name title homebrew (#84)|Sun, 24 Jul 2016 02:27:19 -0500|Fri, 15 Jan 2021 15:57:19 -0500
+e6abd570e284a7474759f517a6da33a90453b23d|chore: tools homebrew (#84)|Sun, 24 Jul 2016 02:26:23 -0500|Fri, 15 Jan 2021 15:57:01 -0500
+79a22c5ac7f702ccb750ac47bef9f80903d4c8ce|chore: script for docker (#83)|Sun, 24 Jul 2016 01:19:25 -0500|Fri, 15 Jan 2021 15:56:34 -0500
+d94334efa54f973411dae8f8dc381366b4febb4f|docs: info dockerfile configuration (#83)|Sun, 24 Jul 2016 01:16:58 -0500|Fri, 15 Jan 2021 15:56:08 -0500
+ce2c4c3ef6a44205f4780f5c23635c544f0d2513|build: upgrade version (1.1.7)|Sat, 23 Jul 2016 23:12:35 -0500|Fri, 15 Jan 2021 15:55:44 -0500
+f1079641e9ec4d0bd850d803c5edb7ba0eb1d4f3|docs: change info for zsh wakatime (#81)|Sat, 23 Jul 2016 23:09:20 -0500|Fri, 15 Jan 2021 15:55:25 -0500
+b62bbbe8d3664795ac8991b1ca7f51280c24cfba|chore: zsh wakatime (#81)|Sat, 23 Jul 2016 23:07:19 -0500|Fri, 15 Jan 2021 15:55:05 -0500
+b37e12e6f7bb6d720b68e6af34b30868b4087f3a|build: upgrade version (1.1.6)|Sat, 23 Jul 2016 22:56:20 -0500|Fri, 15 Jan 2021 15:54:45 -0500
+0dfd25aad83a499eac31d575b0d1fcd9dc2ef8e9|fix: install apps (#82)|Sat, 23 Jul 2016 22:51:09 -0500|Fri, 15 Jan 2021 15:54:28 -0500
+f3e4a56ef1b5c05c9598db01570a2bd9a73f83e1|chore: install mac-cli tools (#82)|Sat, 23 Jul 2016 22:06:56 -0500|Fri, 15 Jan 2021 15:54:02 -0500
+5b0e978305cdda8b6db7153b18768c140bbba9e1|docs: info mac-cli readme (#82)|Sat, 23 Jul 2016 21:56:25 -0500|Fri, 15 Jan 2021 15:53:42 -0500
+b651dcaca13032ab63113923c5c4ab0c7512bcbd|fix: code deploy (#79)|Sun, 3 Jul 2016 02:44:17 -0500|Fri, 15 Jan 2021 15:53:17 -0500
+79f86b116e135744a8373db314e8bfb6aceaab0b|fix: check code provision.sh (#79)|Sun, 3 Jul 2016 02:42:27 -0500|Fri, 15 Jan 2021 15:53:01 -0500
+c6d857431993379f2cd5c059024060a74f0cf27a|docs: info development (#79)|Sun, 3 Jul 2016 02:26:38 -0500|Fri, 15 Jan 2021 15:52:39 -0500
+6ef7bef8c9fd73fbdfd904a9f7d01d49ebaed094|chore: repository pre-commit-shell (#79)|Sat, 2 Jul 2016 22:40:16 -0500|Fri, 15 Jan 2021 15:52:12 -0500
+94affe79173c0a63f2126b6545d8ebf1977a1f59|build: upgrade version (1.1.5)|Sun, 12 Jun 2016 02:02:18 -0500|Fri, 15 Jan 2021 15:51:48 -0500
+737bcfcb097145a1cc877d3df1acc67dbae44c31|dcos: wakatime terminal on readme.md (#77)|Sun, 12 Jun 2016 01:53:48 -0500|Fri, 15 Jan 2021 15:51:21 -0500
+20bf58c07575e4991d7fc41ba33da45661735a5e|chore: install wakatime terminal (#77)|Sun, 12 Jun 2016 01:48:37 -0500|Fri, 15 Jan 2021 15:51:03 -0500
+446ed44ef817285cce23a01359137e8d864388ac|chore: wakatime configuration (#77)|Sun, 12 Jun 2016 01:46:13 -0500|Fri, 15 Jan 2021 15:50:45 -0500
+1fb2f923c94fdb2949a5f754b74cea2cb278410c|chore: install wakatime (#77)|Sun, 12 Jun 2016 01:38:50 -0500|Fri, 15 Jan 2021 15:50:28 -0500
+a777de334c9dd766578d48f301021f5c21643b77|chore: file load in profile shell (#77)|Sun, 12 Jun 2016 01:38:06 -0500|Fri, 15 Jan 2021 15:50:10 -0500
+95e6365a907047d5efd13de65bd588ef076e2676|chore: export path for wakatime (#77)|Sun, 12 Jun 2016 01:36:09 -0500|Fri, 15 Jan 2021 15:49:45 -0500
+69696ca99a25d46e161a13ad76a4d55f19ed234d|chore: load source shell (#77)|Sun, 12 Jun 2016 01:35:11 -0500|Fri, 15 Jan 2021 15:49:24 -0500
+6e40c55d8ab885df27dac84312968fe77b10be6a|chore: vars wakatime terminal (#77)|Sun, 12 Jun 2016 01:24:48 -0500|Fri, 15 Jan 2021 15:49:01 -0500
+550324bbc4b1a3d8f1e2cc7330b2e900c5bc6630|fix: export var path (#77)|Sun, 12 Jun 2016 01:10:06 -0500|Fri, 15 Jan 2021 15:48:44 -0500
+5c3f8a6cf77b536a21ba13b53445f1b97d022f1b|feat: delete license badge duplicated (#77)|Sun, 12 Jun 2016 01:01:12 -0500|Fri, 15 Jan 2021 15:48:25 -0500
+7f6602c827a22d07916c03ad86bc6a6c75a81175|docs: implement badge (#77)|Sun, 12 Jun 2016 00:09:45 -0500|Fri, 15 Jan 2021 15:47:57 -0500
+8c7d6a9db329c3beaae532dac22fa4a8f2f8cecb|docs: badge readme (#77)|Sun, 12 Jun 2016 00:00:56 -0500|Fri, 15 Jan 2021 15:47:33 -0500
+eec345876be2bd14cb8681042341c15f02530d1e|chore: nvmrc version node (#76)|Sun, 29 May 2016 09:22:01 -0500|Fri, 15 Jan 2021 15:47:15 -0500
+72ff180ede4baf79ffade9c045d04797e81026b5|build: upgrade version (1.1.4)|Sat, 28 May 2016 23:21:53 -0500|Fri, 15 Jan 2021 15:46:45 -0500
+f5e359cf8387ec661a569bc08786df6a3cfd75d0|fix: bug load configuration for nvm (#75)|Sat, 28 May 2016 23:16:38 -0500|Fri, 15 Jan 2021 15:46:25 -0500
+e3ed1819524ed06150a93270fc92285cadbd73f7|build: upgrade Version (1.1.3)|Fri, 27 May 2016 00:24:38 -0500|Fri, 15 Jan 2021 15:45:45 -0500
+ee23c34481e9c1b8ed4b6d379e74a5efab7fc5fb|chore: function repository upgrade (#73)|Fri, 27 May 2016 00:20:08 -0500|Fri, 15 Jan 2021 15:45:21 -0500
+5da746e590d1019ddf9eb6fea2012973a8cd2ee8|build: upgrade Version (1.1.2)|Fri, 27 May 2016 00:08:52 -0500|Fri, 15 Jan 2021 15:45:02 -0500
+c9ca9d6f8a22c20766a05b335b79573b9ad9144c|chore: download dependences roles ansible (#72)|Thu, 26 May 2016 18:31:11 -0500|Fri, 15 Jan 2021 15:44:37 -0500
+3aaca0b2289b8ebf06cbe88c96b19f07db36ef4f|build: clean file dependences roles (#72)|Thu, 26 May 2016 18:27:21 -0500|Fri, 15 Jan 2021 15:44:13 -0500
+88a2dad575e383eb9173e100245a13fcbc4f0a0d|chore: added get system operative (#71)|Thu, 26 May 2016 17:56:35 -0500|Fri, 15 Jan 2021 15:43:54 -0500
+1485e6953fc142ac6c0b9ed05bfea6ace41e1893|fix: name path (#71)|Thu, 26 May 2016 17:53:38 -0500|Fri, 15 Jan 2021 15:43:37 -0500
+0ee56ebacee5aec05f7b01dc9787a7e90304b974|chore: added template commit git (#68)|Tue, 24 May 2016 11:52:08 -0500|Fri, 15 Jan 2021 15:43:20 -0500
+4e4c6c683db9a8981a4bffd210a3e11cbc00b968|build: clean values term (#69)|Fri, 20 May 2016 13:08:06 -0500|Fri, 15 Jan 2021 15:43:03 -0500
+fa7136df8a81a2e543a830a66c07af3f709ea5d3|chore: added vars export pyenv (#67)|Wed, 4 May 2016 11:42:48 -0500|Fri, 15 Jan 2021 15:42:44 -0500
+7d07dbfc5ae2e0dd6f3524d5c60f10ef0a492a31|chore: implement font of nerd fonts (#62)|Sun, 24 Apr 2016 06:15:48 -0500|Fri, 15 Jan 2021 15:42:23 -0500
+b03430212c5c27c63edcf05553fa35f5e5e81a3f|feat: add alias wget (#66)|Sun, 24 Apr 2016 05:41:22 -0500|Fri, 15 Jan 2021 15:41:57 -0500
+bd45a4041f13d6167a75ca5042d911fa8c7363a5|build: upgrade version (1.1.1)|Sun, 17 Apr 2016 23:29:50 -0500|Fri, 15 Jan 2021 15:41:37 -0500
+97303b787c6689c1371f66d5fc369841301cdde5|style: fix space code exports (#64)|Sun, 17 Apr 2016 23:20:04 -0500|Fri, 15 Jan 2021 15:41:18 -0500
+3a8a6b3e8db3f6d4aeccffa28a81de631432404d|build: clean code unnecessary pyenv load (#64)|Sun, 17 Apr 2016 23:19:28 -0500|Fri, 15 Jan 2021 15:40:50 -0500
+82900721212a1256297b894fd8a2dcc4f5a7ec36|fix: load pyenv bin (#64)|Sun, 17 Apr 2016 23:18:34 -0500|Fri, 15 Jan 2021 15:40:34 -0500
+8ed82a7dced419eca25b529e15210414ccf9f6f8|fix: order panes for tmux (#63)|Sun, 17 Apr 2016 23:01:50 -0500|Fri, 15 Jan 2021 15:40:14 -0500
+6e8da46d6610c72d8411871fd8edc7c0f5d574f4|chore: add tmux theme solarized light (#63)|Sun, 17 Apr 2016 22:40:50 -0500|Fri, 15 Jan 2021 15:39:56 -0500
+6cd65183d4ea5b041df863387e10fe0a48b839c1|chore: add tmux color tpm (#63)|Sun, 17 Apr 2016 21:44:41 -0500|Fri, 15 Jan 2021 15:39:38 -0500
+380aaeb3c135e1cd56a9a5b3dfd74781711a6fdf|ci: upgrade version (1.1.0)|Thu, 14 Apr 2016 12:15:07 -0500|Fri, 15 Jan 2021 15:39:16 -0500
+a4388f61c13861820956395b78daa3a9988227d5|fix: name branch of git (1.1.0)|Thu, 14 Apr 2016 12:12:59 -0500|Fri, 15 Jan 2021 15:38:56 -0500
+9dd2ac320efcc36c0b0ffe5e746876a7fe85920a|fix: loader path install tools (#60)|Thu, 14 Apr 2016 12:06:38 -0500|Fri, 15 Jan 2021 15:38:35 -0500
+c34c84344e43062d8a3ea7fe48a42642f7307fea|chore: added load configs (#60)|Thu, 14 Apr 2016 12:03:56 -0500|Fri, 15 Jan 2021 15:38:09 -0500
+3c085f4ab817034ae75a2acac1d512d0285659f9|fix: install antibody (#57)|Thu, 14 Apr 2016 11:52:20 -0500|Fri, 15 Jan 2021 15:37:53 -0500
+fcc47334cb5b1f6c0c807ffdec7d71837297c740|build: clean vars not used (#57)|Thu, 14 Apr 2016 11:50:31 -0500|Fri, 15 Jan 2021 15:37:22 -0500
+e27f0f184242cdedccb906856a5c35c9a83b0862|fix: not found install scm breeze (#56)|Thu, 14 Apr 2016 08:22:38 -0500|Fri, 15 Jan 2021 15:37:02 -0500
+ab44d8ca6bb78fb9930cf0882b1a9d7326143690|fix: value path dir (#58)|Thu, 14 Apr 2016 07:48:15 -0500|Fri, 15 Jan 2021 15:36:37 -0500
+cebcf53290a569c8f036968d206272385fc3c757|fix: path path load (#58)|Thu, 14 Apr 2016 07:35:06 -0500|Fri, 15 Jan 2021 15:36:18 -0500
+b1686d6e4007c5be779524687221f61622e3c075|fix: fixed name git branch (#55)|Thu, 14 Apr 2016 07:20:53 -0500|Fri, 15 Jan 2021 15:35:52 -0500
+4f00392f6a61eeb5085fd569905c2003f62735d5|chore: added vars in load tools (#55)|Thu, 14 Apr 2016 07:13:18 -0500|Fri, 15 Jan 2021 15:35:34 -0500
+509d7d8e49695f5ed418eec406f48e55f83ccd85|feat: delete unnecessary vars bootstrap (#55)|Thu, 14 Apr 2016 07:12:40 -0500|Fri, 15 Jan 2021 15:35:10 -0500
+d100688737761790476179d3453f721a4f9d6802|chore: fixed vars bootstrap (#55)|Thu, 14 Apr 2016 07:05:39 -0500|Fri, 15 Jan 2021 15:34:54 -0500
+a56422d283c50997eb46015c31a45d36307933df|chore: added package tmux (#54)|Thu, 14 Apr 2016 06:03:00 -0500|Fri, 15 Jan 2021 15:34:39 -0500
+45aee05c1129f345eed26510cb73152121858b0e|chore: added package zsh (#54)|Thu, 14 Apr 2016 06:01:35 -0500|Fri, 15 Jan 2021 15:34:18 -0500
+8129967bec5764cdbb29c50a9cb76c7a5640df86|fix: call execute install (#54)|Thu, 14 Apr 2016 05:56:09 -0500|Fri, 15 Jan 2021 15:33:56 -0500
+a2aa83f94fa174c424fa65317ecbf9d2c87b2671|feat: ignore roles contrib ansible (#53)|Thu, 14 Apr 2016 05:43:58 -0500|Fri, 15 Jan 2021 15:33:38 -0500
+473cd85696cc9c1c3a91f87384d587460e0947d0|fix: name roles in ansible (#53)|Thu, 14 Apr 2016 05:39:20 -0500|Fri, 15 Jan 2021 15:33:22 -0500
+3c1e825b32aaaf28aa9fba869a321b686eec48a3|chore: added role common (#53)|Thu, 14 Apr 2016 05:38:45 -0500|Fri, 15 Jan 2021 15:33:07 -0500
+830b83e22f384c7119bf16416c4c706d2ccc25a9|chore: added makefile scripts (#53)|Thu, 14 Apr 2016 05:25:08 -0500|Fri, 15 Jan 2021 15:32:46 -0500
+9a03bdd56198972ce72cae44f0e57833c6501cda|chore: added script utilities (#53)|Thu, 14 Apr 2016 05:22:36 -0500|Fri, 15 Jan 2021 15:32:31 -0500
+b504403165f3555817e30218b8ce6ee47c8cb9e3|fix: fixed data bootstrap (#53)|Thu, 14 Apr 2016 05:21:37 -0500|Fri, 15 Jan 2021 15:32:06 -0500
+27b00549adfe03a611b43861a807c4c34e886427|fix: name environment vagrant (#53)|Thu, 14 Apr 2016 05:14:00 -0500|Fri, 15 Jan 2021 15:31:48 -0500
+c1736233f95d2026e9c3947b9b143a364328b1bc|chore: fixed content vagrant local (#53)|Fri, 8 Apr 2016 16:28:15 -0500|Fri, 15 Jan 2021 15:31:27 -0500
+843c137ed61a612f6eddbd8e092811a9b02caf88|chore: added files ansible deployment (#53)|Fri, 8 Apr 2016 16:26:55 -0500|Fri, 15 Jan 2021 15:31:09 -0500
+1d3e293443f41c0505b9e1544d94f2cb25621e73|chore: added dependence roles (#53)|Fri, 8 Apr 2016 16:08:26 -0500|Fri, 15 Jan 2021 15:30:50 -0500
+b01ff584f24cfe7e4a0925ccfdc9c049ad6bd03a|build: clean files unnecessary (#53)|Fri, 8 Apr 2016 16:06:43 -0500|Fri, 15 Jan 2021 15:30:25 -0500
+08b0272079ef961b826c2eab55ef0497c0a314d3|refactor: upgrade code vagrant (#53)|Fri, 8 Apr 2016 15:59:26 -0500|Fri, 15 Jan 2021 15:30:03 -0500
+2c2bfeee54930b4ee1f318f63ee3c7d13259a7b3|chore: configuration scm_breeze (#51)|Sat, 20 Feb 2016 20:30:46 -0500|Fri, 15 Jan 2021 15:29:35 -0500
+325d4bfa171915f5d65be5c033aee94dc8005ab4|chore: added values settings scm_breeze (#51)|Sat, 20 Feb 2016 20:30:08 -0500|Fri, 15 Jan 2021 15:29:13 -0500
+9a5f82acd9701e42a4a2b92f23a17e9140e8a366|feat: added ls list files with (#50)|Thu, 28 Jan 2016 08:17:26 -0500|Fri, 15 Jan 2021 15:28:42 -0500
+01417a8295caac564d91214f7aef7dab644ced49|ci: added path for command|Tue, 12 Jan 2016 07:23:18 -0500|Fri, 15 Jan 2021 15:28:01 -0500
+595c47c8d2b5a7cd8ac763a35388434cd0cc8809|chore: added antibody configuration (#49)|Thu, 7 Jan 2016 23:56:45 -0500|Fri, 15 Jan 2021 15:26:18 -0500
+e3d454ec4d967cbd5f85be57cae491e3343201a8|docs: added info authors (#48)|Wed, 6 Jan 2016 14:56:44 -0500|Fri, 15 Jan 2021 15:25:55 -0500
+968c6364f6d15291ab558f7b30b6dc2ceaa539af|docs: added authors info (#48)|Wed, 6 Jan 2016 14:54:47 -0500|Fri, 15 Jan 2021 15:25:32 -0500
+96b3709b8c0d737e7762ee56f8e68aefbddb8de7|chore: added map mail users (#48)|Wed, 6 Jan 2016 14:52:04 -0500|Fri, 15 Jan 2021 15:25:12 -0500
+55ca3c6e9af37cd534e6c9c92bfceab524d16abd|feat: added aliases git flow (#48)|Wed, 6 Jan 2016 14:44:25 -0500|Fri, 15 Jan 2021 15:24:51 -0500
+faa1493ad8154a4ed31dfb57196e2d3e5d6cba4f|chore: alias for applications (#45)|Wed, 16 Dec 2015 16:04:54 -0500|Fri, 15 Jan 2021 15:24:27 -0500
+4fa479a3bd904f70912bda7a3ce15b9514437255|fix: change symbol (#44)|Mon, 14 Dec 2015 12:44:31 -0500|Fri, 15 Jan 2021 15:24:08 -0500
+903f893b21f7779d34aa585bf4fc748b2aa4f7a3|style: change symbol tmux window (#44)|Mon, 14 Dec 2015 12:42:58 -0500|Fri, 15 Jan 2021 15:23:41 -0500
+a85193f519b682f127cb77b66d7ea548acdbb618|feat: change name file customrc (#43)|Mon, 7 Dec 2015 18:08:59 -0500|Fri, 15 Jan 2021 15:23:24 -0500
+a6824cfee1b4af4aad8be6729ad06d452545cfa4|chore: added load Local configuration (#43)|Mon, 7 Dec 2015 16:34:17 -0500|Fri, 15 Jan 2021 15:23:00 -0500
+69de3a5bcf502da612b144e1902e31c626f4f14b|core: added zsh completion (#42)|Tue, 24 Nov 2015 00:50:35 -0500|Fri, 15 Jan 2021 15:22:42 -0500
+44f0b81313a9661bca4f9b9364c6de792c8a0c43|refactor: packages upgrade plugin bundles (#42)|Mon, 23 Nov 2015 22:39:23 -0500|Fri, 15 Jan 2021 15:22:14 -0500
+dfdedc27ab7acc8ed5d13b83358f3243b3afe9b4|refactor: added new configuration for antibody (#42)|Mon, 23 Nov 2015 22:35:01 -0500|Fri, 15 Jan 2021 15:21:44 -0500
+17fff0ac32f25adfeaf2b052953bfb4de007f1b6|fix: exports value vars (#42)|Mon, 23 Nov 2015 22:33:29 -0500|Fri, 15 Jan 2021 15:21:22 -0500
+4ec8f4e6a7aaf27ecd497bc86d2455753f7f129e|fix: fixed configuration shell for tmux|Mon, 23 Nov 2015 22:27:27 -0500|Fri, 15 Jan 2021 15:20:57 -0500
+fa7996fc9f9d0f2eb170d10b554d1f211c4e3b2f|docs: comment variables unnecessary (#42)|Sun, 22 Nov 2015 01:37:46 -0500|Fri, 15 Jan 2021 15:20:36 -0500
+038a51f83c3b4483a1c65b7e976e6ec0e4ec635b|refactor: change antigen to antibody (#42)|Sun, 22 Nov 2015 01:35:47 -0500|Fri, 15 Jan 2021 15:20:07 -0500
+29f2872e3bba0fc7f994020f9f63925cdcc92119|chore: added load antibody (#42)|Sun, 22 Nov 2015 01:32:35 -0500|Fri, 15 Jan 2021 15:19:46 -0500
+efc49bb32127380fd5a4ed499cc67a8998a6f927|chore: add value exports for projects (#42)|Sun, 22 Nov 2015 01:23:23 -0500|Fri, 15 Jan 2021 15:19:18 -0500
+00fb42f849e0c996f4470d79c656f1aa761108cb|chore: add source variables export (#7)|Fri, 20 Nov 2015 16:40:16 -0500|Fri, 15 Jan 2021 15:18:51 -0500
+3dc69d5fa4dcbad6ba1f979d6acbb7a7ecc294ad|chore: added plugins Tarrasch (#41)|Mon, 16 Nov 2015 00:22:45 -0500|Fri, 15 Jan 2021 15:18:34 -0500
+7e2a65a2cf1569ebded1e38e33300b9ae2df800b|fix: configuration export vars (#17)|Sun, 15 Nov 2015 23:39:50 -0500|Fri, 15 Jan 2021 15:18:09 -0500
+6889c743329bf6f2093c4ce148d1266882b1f951|fix: code shell for zshrc (#17)|Sun, 15 Nov 2015 23:39:16 -0500|Fri, 15 Jan 2021 15:17:41 -0500
+2e7501595bec43d3be24b237fa165f35ed8c183f|chore: disabled title shell (#17)|Sun, 15 Nov 2015 23:37:21 -0500|Fri, 15 Jan 2021 15:17:19 -0500
+fae1ebf21c304070a30aa56af1901b732e0c3ac4|build: clean plugins unnecessary (#17)|Sun, 15 Nov 2015 23:36:51 -0500|Fri, 15 Jan 2021 15:16:56 -0500
+e2eee1a111d45c11be06bb76dc63f2fd9be63b17|feat: enabled git-extras tools (#17)|Sun, 15 Nov 2015 23:33:40 -0500|Fri, 15 Jan 2021 15:16:33 -0500
+3a3fcaf0f50123fbc510301881818565e07975a6|chore: added configuration for git-extras (#17)|Sun, 15 Nov 2015 23:32:49 -0500|Fri, 15 Jan 2021 15:16:02 -0500
+082f2b2961a6c69a958e7f8a63a8e1fc1024bf3a|chore: install git-extras tools (#17)|Sun, 15 Nov 2015 23:31:33 -0500|Fri, 15 Jan 2021 15:15:35 -0500
+4f78451a423615f426cc9c70ea2fe29edead73ae|ci: added configuration for pre-commit (#40)|Sun, 15 Nov 2015 10:48:41 -0500|Fri, 15 Jan 2021 15:14:57 -0500
+1460d21141fb087cb99e8734752041e6f6e430d2|build: clean fonts (#40)|Sun, 15 Nov 2015 10:48:06 -0500|Fri, 15 Jan 2021 15:14:36 -0500
+17aaf8a718e44ea94bab1cfd66f258ea0255dd59|fix: bug on osx captain|Sun, 15 Nov 2015 10:32:32 -0500|Fri, 15 Jan 2021 15:14:11 -0500
+b723389ebd9fb6bed423dfb8b9991e3184d53cc3|chore: add configuration rvmrc|Sat, 17 Oct 2015 13:48:27 -0500|Fri, 15 Jan 2021 15:13:42 -0500
+d68a3419f6fc201b762a0d75f0111379ff045119|build: ignored files generated by gtags|Fri, 21 Aug 2015 11:31:37 -0500|Fri, 15 Jan 2021 15:13:24 -0500
+53be350cb239cd54089f54eb244ea136a9893be9|chore: added plugin antigen (#39)|Thu, 20 Aug 2015 01:58:23 -0500|Fri, 15 Jan 2021 15:13:08 -0500
+488672b16ae1d7ef34af17ff608db439ebd87c66|chore: added dependences vagrant + ansible (#38)|Thu, 20 Aug 2015 01:53:01 -0500|Fri, 15 Jan 2021 15:12:52 -0500
+4debc8b3238aa90bf081928f7cac7a065ac9881d|build: clean modules unnecessary puppet (#38)|Sun, 2 Aug 2015 12:57:51 -0500|Fri, 15 Jan 2021 15:12:31 -0500
+b76f1164168cc1bd7c4edce26fdda638da2d10b2|docs: info tmux-themepack (#37)|Sun, 2 Aug 2015 00:46:32 -0500|Fri, 15 Jan 2021 15:12:15 -0500
+bbb156ee4131ce41fa0ef8fd70869e32b0b1c8e6|fix: install apps (#37)|Sun, 2 Aug 2015 00:45:44 -0500|Fri, 15 Jan 2021 15:11:54 -0500
+9519f8bdce6839cf44f710c54210944d91c8ec3a|chore: added config theme tmux (#37)|Sun, 2 Aug 2015 00:45:22 -0500|Fri, 15 Jan 2021 15:11:33 -0500
+02643b20bd6e3a6e221a2e3cc0ec30ba585ecbd8|chore: added load path configuration (#37)|Sun, 2 Aug 2015 00:44:49 -0500|Fri, 15 Jan 2021 15:11:06 -0500
+b216e20ad1693eff35e6d9de5c93a455c962752b|chore: added install tmux-themepack (#37)|Sun, 2 Aug 2015 00:42:58 -0500|Fri, 15 Jan 2021 15:10:50 -0500
+325f8fa1d31fc8efe604ea447c9fcf69267c2323|chore: added path themepack (#37)|Sun, 2 Aug 2015 00:35:15 -0500|Fri, 15 Jan 2021 15:10:31 -0500
+2aa4f31aa7468193300b4bce9ba5943ba0ccf41b|build: upgrade version (1.0.9)|Sat, 1 Aug 2015 22:42:38 -0500|Fri, 15 Jan 2021 15:10:04 -0500
+d497f87d67d42292a961e8ff70dc215586d376d0|fix: path directory gvm (#36)|Sat, 1 Aug 2015 13:58:04 -0500|Fri, 15 Jan 2021 14:11:38 -0500
+9fddaae5e2d797dea41609be7017207e4bd4472a|fix: fixed load path in zshrc (#36)|Sat, 1 Aug 2015 13:55:05 -0500|Fri, 15 Jan 2021 14:11:21 -0500
+95c1e9debdf07d748efdc8eb2572b44387f790e6|feat: clean show variables (#35)|Sat, 1 Aug 2015 09:04:15 -0500|Fri, 15 Jan 2021 14:11:01 -0500
+76dc7a864b29594e415e6d67e18b265519b7a599|chore: added test variable path (#35)|Sat, 1 Aug 2015 08:59:43 -0500|Fri, 15 Jan 2021 14:10:43 -0500
+ce17775db6e3b667c67291220a569019a9660348|fix: fixed test path (#35)|Sat, 1 Aug 2015 08:54:48 -0500|Fri, 15 Jan 2021 14:10:27 -0500
+9f207e5850b0ea0259bcc0687c73d7946882b625|chore: added test show variables (#35)|Sat, 1 Aug 2015 04:17:29 -0500|Fri, 15 Jan 2021 14:10:09 -0500
+a26270e112e3fc333f0d503347681cf4e356a14f|chore: added test path list (#35)|Sat, 1 Aug 2015 04:05:56 -0500|Fri, 15 Jan 2021 14:09:53 -0500
+42f6981d9fdd50e5f3fbc2d6c1ba254e45a0771f|chore: added die in install fonts (#35)|Sat, 1 Aug 2015 03:55:21 -0500|Fri, 15 Jan 2021 14:09:35 -0500
+b6c82e940aa4cd28c68528bd465619ffbff2a14e|fix: install command fonts in system (#35)|Sat, 1 Aug 2015 03:42:44 -0500|Fri, 15 Jan 2021 14:09:09 -0500
+50c01e2658f0bef4b13ae2faffd58bc83147e895|docs: added info new fonts (#35)|Sat, 1 Aug 2015 03:42:20 -0500|Fri, 15 Jan 2021 14:08:53 -0500
+8c273aae17d89df16ab0f5b0d41164cbc4ac9fe9|chore: added new fonts powerline (#35)|Sat, 1 Aug 2015 03:41:44 -0500|Fri, 15 Jan 2021 14:08:33 -0500
+a046e772a37bba5cdc96968c124829da1cff9279|build: clean file fonts unnecessary (#35)|Sat, 1 Aug 2015 03:24:26 -0500|Fri, 15 Jan 2021 14:08:09 -0500
+0e164f90438847cfa72aee7ae1e3ddb3e2a2c394|style: clean space unnecessary (#34)|Sat, 1 Aug 2015 02:27:27 -0500|Fri, 15 Jan 2021 14:07:31 -0500
+272797e3d56e72e204159099d61fdcbd121a04e7|docs: added info antigen (#34)|Sat, 1 Aug 2015 02:23:33 -0500|Fri, 15 Jan 2021 14:07:11 -0500
+1ab2bec19e60229ca7b3ed6fe8b3103fa6a33cdc|test: added test source zshrc (#34)|Sat, 1 Aug 2015 01:25:13 -0500|Fri, 15 Jan 2021 14:06:53 -0500
+5d060253b870d2b781f144dc866c9928d7f0fc45|chore: file unnecessary in load zsh (#34)|Sat, 1 Aug 2015 01:22:11 -0500|Fri, 15 Jan 2021 14:06:12 -0500
+9b3c98b08469f8393b4c2bc328e4cebcc593e046|chore: create path antigen install (#34)|Sat, 1 Aug 2015 01:11:53 -0500|Fri, 15 Jan 2021 06:16:37 -0500
+c0f40d480276bc6a125a051f7ebf73e279ba8ade|chore: test variable install (#34)|Sat, 1 Aug 2015 00:20:07 -0500|Fri, 15 Jan 2021 06:16:09 -0500
+f994c0526ff629a2ca273c4f2850fbc9d5532463|chore: implement test antigen path (#34)|Sat, 1 Aug 2015 00:08:52 -0500|Fri, 15 Jan 2021 06:15:51 -0500
+c5226b46ab3aee3cbcc2eb627bac07c3fe672514|chore: implement load zshrc with antigen (#34)|Fri, 31 Jul 2015 23:59:06 -0500|Fri, 15 Jan 2021 06:15:29 -0500
+e46d77d809f5e2e9e8896f73443122a055bb7b62|chore: implement info fonts (#33)|Thu, 30 Jul 2015 08:34:08 -0500|Fri, 15 Jan 2021 06:15:06 -0500
+a8623c7010badffea4c82ce2efc4400fbf3fd4e4|docs: clean badge unnecessary (#33)|Thu, 30 Jul 2015 08:23:38 -0500|Fri, 15 Jan 2021 06:14:40 -0500
+01e10e70ab8df8ee029fc8d58bb177c11bcd4596|chore: added font freemono (#33)|Thu, 30 Jul 2015 08:20:04 -0500|Fri, 15 Jan 2021 06:14:22 -0500
+01082fac0bddca9cbe115161cfebafc4c036de85|chore: implement font consolamono (#33)|Thu, 30 Jul 2015 08:19:21 -0500|Fri, 15 Jan 2021 06:13:57 -0500
+dd063d893103a01b7f2030d0a59e02d6e30f50f4|chore: fonts source code pro (#33)|Thu, 30 Jul 2015 08:18:11 -0500|Fri, 15 Jan 2021 06:13:33 -0500
+d8298bb2d49c8f316b21a5ef82128ec2d9f188a2|style: coding utf-8 in files (#32)|Wed, 29 Jul 2015 10:23:58 -0500|Fri, 15 Jan 2021 06:13:03 -0500
+b675c37872c60a1d8d47616f8774020715ec219e|build: fixed version change log (#31)|Wed, 29 Jul 2015 01:58:07 -0500|Fri, 15 Jan 2021 06:12:31 -0500
+84c78b9c83766eed0aaaaf3712d4d9ff1db8928d|docs: info project (#31)|Wed, 29 Jul 2015 01:29:30 -0500|Fri, 15 Jan 2021 06:12:12 -0500
+4b1b18d884f6ddd7b99f63a75285a282b0c08719|docs: fixed changelog usage keep chagelog (#31)|Wed, 29 Jul 2015 01:28:34 -0500|Fri, 15 Jan 2021 06:11:47 -0500
+74b9022962b8685db57c9cb7863d7463977b1f46|refactor: upgrade files in gitignore (#31)|Wed, 29 Jul 2015 01:27:41 -0500|Fri, 15 Jan 2021 06:10:39 -0500
+7719c2ee4821848578fc864d198553d1844aeca4|chore: added gitattributes (#31)|Wed, 29 Jul 2015 01:20:56 -0500|Fri, 15 Jan 2021 06:10:21 -0500
+5244d8ebf3fb5ee32d1b4a6ac930ecaedfefbfc9|build: upgrade version (1.0.8)|Tue, 28 Jul 2015 20:19:17 -0500|Fri, 15 Jan 2021 06:10:01 -0500
+6b5a48731678f7c4a3a7f06b13ef145906200db7|fix: name system (#30)|Tue, 28 Jul 2015 20:11:13 -0500|Fri, 15 Jan 2021 06:09:44 -0500
+908a6b98bd31615126418119b826a7d2a5b047d4|chore: implement env so in travis (#30)|Tue, 28 Jul 2015 20:06:31 -0500|Fri, 15 Jan 2021 06:09:26 -0500
+ea65d4b4e809ca170ccdcce21eb5b2ac49136fec|test: multi os by language (#30)|Tue, 28 Jul 2015 19:56:52 -0500|Fri, 15 Jan 2021 06:09:06 -0500
+5e84519f7e9c96af1257be85abf1241f14ce5545|test: fixed multi os testing (#30)|Tue, 28 Jul 2015 19:51:20 -0500|Fri, 15 Jan 2021 06:08:50 -0500
+5749f8ea6a849f85776b682f05a4c0a0ceb63075|chore: clean env arch (#30)|Tue, 28 Jul 2015 19:45:15 -0500|Fri, 15 Jan 2021 06:08:27 -0500
+f70528aa25e4ce1ea9578f3cd07dc363a8d0a1af|chore: implement env compilers (#30)|Tue, 28 Jul 2015 19:42:10 -0500|Fri, 15 Jan 2021 06:08:11 -0500
+34bbeab5d9273d25d4822e0755dbe761d9850307|chore: env linux and osx 32 and 64 bits (#30)|Tue, 28 Jul 2015 19:14:30 -0500|Fri, 15 Jan 2021 06:07:52 -0500
+cbe5ec1cdeefb6159549f40b462c866f317fff17|fix: configuration install travis (#30)|Tue, 28 Jul 2015 18:46:27 -0500|Fri, 15 Jan 2021 06:07:31 -0500
+233fc2c170a382cfb1c6da6ae8ee075fec3563f5|test: testing os multiple matrix (#30)|Tue, 28 Jul 2015 17:22:18 -0500|Fri, 15 Jan 2021 06:07:10 -0500
+87cfe4f9952b29bdc1c9e734f330a97f18e3c362|fix: change files execution in travis (#30)|Tue, 28 Jul 2015 16:54:48 -0500|Fri, 15 Jan 2021 06:06:51 -0500
+55caa4024c86edd9d7957ec5409ac84d49316954|test: added test shell execution (#30)|Tue, 28 Jul 2015 16:51:02 -0500|Fri, 15 Jan 2021 06:06:31 -0500
+fd2bf0a606b8629ba5107aeecdac3570d83f55d8|chore: added install setup (#30)|Tue, 28 Jul 2015 16:49:56 -0500|Fri, 15 Jan 2021 06:06:12 -0500
+1cc06fbeca3f0398179b7f945060dfda6b435622|fix: file deleted script/validate (#30)|Tue, 28 Jul 2015 16:49:20 -0500|Fri, 15 Jan 2021 06:05:56 -0500
+d10bdb0f45eb1e6636b80c1ac589f4eea04dd005|chore: permission to validate (#30)|Tue, 28 Jul 2015 16:39:53 -0500|Fri, 15 Jan 2021 06:05:37 -0500
+52ce59908b85ba17a071566e90daf4b6761065e3|chore: implement validate path (#30)|Tue, 28 Jul 2015 16:35:00 -0500|Fri, 15 Jan 2021 06:05:20 -0500
+f6c541c1da491c01f73b82a2d01f9d0971f4fef6|chore: added dependence travis-lint (#30)|Tue, 28 Jul 2015 16:18:57 -0500|Fri, 15 Jan 2021 06:05:01 -0500
+4299a950f9138310e61e695714d990c8267b1e4f|fix: testing configuration travis (#30)|Tue, 28 Jul 2015 16:17:41 -0500|Fri, 15 Jan 2021 06:04:36 -0500
+0f12c3ba89c501c819185936dd7babd71986135e|fix: change language in travis test (#28)|Tue, 28 Jul 2015 09:41:04 -0500|Fri, 15 Jan 2021 06:04:17 -0500
+cdb8eb3576b467978a9bc067dde34cad437f64a9|refactor: migrating from legacy to container-based infrastructure (#30)|Tue, 28 Jul 2015 09:28:41 -0500|Fri, 15 Jan 2021 06:03:43 -0500
+4bf129ba6ce3079cff24c8b0fc770dce7a6e9a25|chore: implemented test env osx (#30)|Tue, 28 Jul 2015 09:05:26 -0500|Fri, 15 Jan 2021 06:03:18 -0500
+2f756551b0a0b2e18d600ce7b1d7099db62ac610|fix: fixed editorconfig for file yml (#30)|Tue, 28 Jul 2015 08:49:23 -0500|Fri, 15 Jan 2021 06:02:59 -0500
+029a6f621068d092be2aeab99c18b98015a59587|build: upgrade version (1.0.7)|Mon, 27 Jul 2015 16:20:20 -0500|Fri, 15 Jan 2021 06:02:31 -0500
+42d49ad1e6fd18e498ca25469fec5a01f026cd43|chore:  added rvm to test (#15)|Mon, 27 Jul 2015 16:12:19 -0500|Fri, 15 Jan 2021 06:02:08 -0500
+88ec5f1f2c4be853f40f429f81e020758380455d|chore: implement rvm ruby version manager (#15)|Mon, 27 Jul 2015 16:11:10 -0500|Fri, 15 Jan 2021 06:01:42 -0500
+b0d8ee5440810c5bc87ba4a931942afce949e314|build: clean test variables (#15)|Mon, 27 Jul 2015 15:58:16 -0500|Fri, 15 Jan 2021 06:01:08 -0500
+5e52e2a4664752bd7c50943987d1b4a631eff387|chore: added test in filter branch (#15)|Mon, 27 Jul 2015 15:56:54 -0500|Fri, 15 Jan 2021 06:00:49 -0500
+a24d38795728f7d138cae2747ab0da362a7bff6f|fix: script fix git (#15)|Mon, 27 Jul 2015 15:54:50 -0500|Fri, 15 Jan 2021 06:00:24 -0500
+85874d7fcae2904f979fde940fad920f69a5a82d|build: upgrade version module nvm (1.0.6)|Mon, 27 Jul 2015 14:07:16 -0500|Fri, 15 Jan 2021 05:59:56 -0500
+ddb5478e5362416ef0cd132682447f0c3e3eecfa|docs: comment code fixed git (#28)|Mon, 27 Jul 2015 13:55:33 -0500|Fri, 15 Jan 2021 05:59:30 -0500
+11fbe049c33d026ac71db3b68b7c19586fa30efd|docs: comment code to itachi uchiha (#28)|Mon, 27 Jul 2015 13:53:35 -0500|Fri, 15 Jan 2021 05:58:36 -0500
+d96aac22c398fdbb45f0185bde4d15a3b65b474c|chore: change name user git to fix-git (#28)|Mon, 27 Jul 2015 13:51:34 -0500|Fri, 15 Jan 2021 05:58:07 -0500
+931d5cd72fd1f982e848e2111bce0fe28f38ade8|chore: added nvm to bash test (#28)|Mon, 27 Jul 2015 13:43:13 -0500|Fri, 15 Jan 2021 05:57:36 -0500
+321efd0d3300ca0d3034c5a40f3a292e1bf9a101|build: clean emails not valid in mailmap (#28)|Mon, 27 Jul 2015 13:38:37 -0500|Fri, 15 Jan 2021 05:57:20 -0500
+cf92fec1f5f7a3214cf1710f427e94fdb15908b1|chore: implement nvm package (#28)|Mon, 27 Jul 2015 13:35:31 -0500|Fri, 15 Jan 2021 05:56:56 -0500
+ae00041a96d8d632db9c37d627facfc495bc961a|build: upgrade changelog (1.0.5)|Fri, 24 Jul 2015 07:26:04 -0500|Fri, 15 Jan 2021 05:56:29 -0500
+42cacc94d2a6786cd47dc7383b5a812b4befbc9d|build: clean code unnecessary (#27)|Fri, 24 Jul 2015 07:21:15 -0500|Fri, 15 Jan 2021 05:56:03 -0500
+393de82cd3ea3c6f6f12139835a814373c01d85b|chore: variable root assign level global (#27)|Fri, 24 Jul 2015 07:14:03 -0500|Fri, 15 Jan 2021 05:55:37 -0500
+16517102aeef54e94e1092f95f7e93ee8f06ee49|chore: load files (#27)|Fri, 24 Jul 2015 07:05:53 -0500|Fri, 15 Jan 2021 05:55:17 -0500
+b604c530e2af9147eb9be36e3e794963b0fa4b49|chore: show values variables (#27)|Thu, 23 Jul 2015 23:16:56 -0500|Fri, 15 Jan 2021 05:55:01 -0500
+4a463111e4c4650877122a31a882f94a3866e378|fix: test show variables (#27)|Thu, 23 Jul 2015 23:09:25 -0500|Fri, 15 Jan 2021 05:54:44 -0500
+5f17ed888c55619be765a0efc5834ae38a37f98e|fix: load functions code (#27)|Thu, 23 Jul 2015 22:59:55 -0500|Fri, 15 Jan 2021 05:54:28 -0500
+8c70915d5c3d3be2fe4058a9a3a567a22d9642ac|build: implement version changelog (1.0.4)|Thu, 23 Jul 2015 18:12:13 -0500|Fri, 15 Jan 2021 05:53:52 -0500
+471d44981ff28efd0df69c3990b5d629b16e96be|fix: load functions (#4)|Thu, 23 Jul 2015 18:06:13 -0500|Fri, 15 Jan 2021 05:53:37 -0500
+a0da79346f965de1ec2235ccd7f3d19cc511015b|feat: clean file mailmap slovacus (#4)|Thu, 23 Jul 2015 18:01:26 -0500|Fri, 15 Jan 2021 05:53:12 -0500
+c25cb1050a099c0417f8150323bdf718ec807748|fix: fixed syntax logical code (#4)|Thu, 23 Jul 2015 18:00:23 -0500|Fri, 15 Jan 2021 05:52:59 -0500
+dd9a3603b0ed33cb33161af666649df8df100379|chore: test install (#4)|Thu, 23 Jul 2015 17:50:43 -0500|Fri, 15 Jan 2021 05:52:45 -0500
+f82614e6b043e37182f1e7ab57a4da0972950420|chore: fixed show success (#4)|Thu, 23 Jul 2015 16:22:01 -0500|Fri, 15 Jan 2021 05:52:24 -0500
+fc84440c74cf192cfcb64d37a4af16f698530a03|fix: test message success (#4)|Thu, 23 Jul 2015 16:17:00 -0500|Fri, 15 Jan 2021 05:52:04 -0500
+e044eef6471425c702bb635d71bced5537d7fbe2|chore: validation path for program (#4)|Thu, 23 Jul 2015 16:11:41 -0500|Fri, 15 Jan 2021 05:51:44 -0500
+08b9c41e7d30e62c5af73537ee39ef14f7fecad7|fix: load directory (#4)|Thu, 23 Jul 2015 16:02:34 -0500|Fri, 15 Jan 2021 05:51:28 -0500
+2c8d921877bed8133bc50fc88c0eaabe9be5c4df|fix: test path root (#4)|Thu, 23 Jul 2015 15:58:53 -0500|Fri, 15 Jan 2021 05:51:09 -0500
+4216c52f8e97b67db2ad2703eb7f87e59d5f6762|style: fixed path application (#4)|Thu, 23 Jul 2015 09:23:00 -0500|Fri, 15 Jan 2021 05:50:52 -0500
+2c11fa4ca2a20910f8c2b4eb6145b1d774542a73|style: fixed syntax test (#4)|Thu, 23 Jul 2015 08:45:12 -0500|Fri, 15 Jan 2021 05:50:35 -0500
+f18d61eba556d44971c92fb18f246d8a0c8a2b7d|chore: added exports variable travis|Thu, 23 Jul 2015 01:52:15 -0500|Fri, 15 Jan 2021 05:50:19 -0500
+5fff3d4ed4c85ea18d103f18484966738b9d40e1|refactor: validation path repository (#4)|Thu, 23 Jul 2015 01:50:07 -0500|Fri, 15 Jan 2021 05:49:46 -0500
+f27b37b13ab056b01c809a04bdc0550866976250|chore: test variables (#4)|Thu, 23 Jul 2015 01:23:39 -0500|Fri, 15 Jan 2021 05:49:32 -0500
+ffeb7e8e49f43be822d4f18d91be56ae746959ff|chore: fixed load test (#4)|Thu, 23 Jul 2015 01:21:36 -0500|Fri, 15 Jan 2021 05:49:17 -0500
+d0c1aa8827986212ad8d1a7a2ab82f140af3291e|build: clean test install (#4)|Thu, 23 Jul 2015 01:16:11 -0500|Fri, 15 Jan 2021 05:49:00 -0500
+df64070a6c0e018a0132546ef851e0681a95046f|chore: exports test (#4)|Thu, 23 Jul 2015 01:08:07 -0500|Fri, 15 Jan 2021 05:48:40 -0500
+6c466fb39c70265889d4c88e32a995f4aadc94bc|chore: implement test install (#4)|Thu, 23 Jul 2015 01:02:12 -0500|Fri, 15 Jan 2021 05:48:18 -0500
+71185d932d3dd8db65da18a7e73bb4f1234d5714|build: clean program curl (#4)|Thu, 23 Jul 2015 00:49:02 -0500|Fri, 15 Jan 2021 05:48:00 -0500
+d3a70e2e513043d5f093a90dcb718e99da282a4f|fix: dependences dotfiles (#4)|Thu, 23 Jul 2015 00:46:48 -0500|Fri, 15 Jan 2021 05:47:43 -0500
+0181130fddb1869742280abb33bcd6b2c8f51893|chore: change language code (#4)|Wed, 22 Jul 2015 23:59:10 -0500|Fri, 15 Jan 2021 05:47:24 -0500
+e3c6ada57364dc9df87b118b657f1777b35236a6|docs: implement image badge travis (#4)|Wed, 22 Jul 2015 23:56:43 -0500|Fri, 15 Jan 2021 05:46:58 -0500
+59ca5ec6f329fb6ef698d81853c40945134e3b14|chore: implement configuration travis (#4)|Wed, 22 Jul 2015 23:53:25 -0500|Fri, 15 Jan 2021 05:46:28 -0500
+29f6f5de43c188391e002d3b925e8746193788a2|chore: implement test bash (#4)|Wed, 22 Jul 2015 23:47:07 -0500|Fri, 15 Jan 2021 05:46:07 -0500
+3be340bdab73aaabfed2f5995aba4d63287a9d86|docs: file contributing (#14)|Wed, 22 Jul 2015 23:22:21 -0500|Fri, 15 Jan 2021 05:45:51 -0500
+a622eadc921c49596192b1ec820554474cdf990d|chore: implement install tpm (#25)|Tue, 21 Jul 2015 17:27:20 -0500|Fri, 15 Jan 2021 05:45:27 -0500
+49b07446be7851876563ec840e65e68d731becc8|chore: added load plugins in tmux conf (#25)|Tue, 21 Jul 2015 17:25:12 -0500|Fri, 15 Jan 2021 05:44:56 -0500
+cf301810d8f7dfe1784470016949c7b80bebe548|chore: implement path tpm plugins (#25)|Tue, 21 Jul 2015 17:14:15 -0500|Fri, 15 Jan 2021 05:44:33 -0500
+e8b9f2364e2830f98aded30fa130550f05e4df32|docs: implement info tpm tmux (#25)|Tue, 21 Jul 2015 17:13:46 -0500|Fri, 15 Jan 2021 05:43:58 -0500
+804de6afc7d991d9bbe313ec671e515416283dc6|chore: implement fix commits author|Tue, 21 Jul 2015 02:15:31 -0500|Fri, 15 Jan 2021 05:43:22 -0500
+b4781b9b306f84bd7887f636c991e3c88b0b8188|chore: added user to mailmap (#24)|Tue, 21 Jul 2015 01:52:28 -0500|Fri, 15 Jan 2021 05:42:58 -0500
+6924ae4e16fb06b2336e7d0219c40509f5ddf01f|chore: implement file projectile (#24)|Tue, 21 Jul 2015 01:48:38 -0500|Fri, 15 Jan 2021 05:42:36 -0500
+1a8370d2f463d451cfc0644db4097ed78405ccb8|docs: implement image badge bitdeli (#23)|Tue, 21 Jul 2015 01:45:15 -0500|Fri, 15 Jan 2021 05:42:15 -0500
+6cb8a6d733b6d70b40c0ef818a3ad9c6687a746c|docs: fixed name changelog (1.0.3)|Sun, 19 Jul 2015 12:28:58 -0500|Fri, 15 Jan 2021 05:41:52 -0500
+22d39efbe3ac02d3e992383d51029c2dee3e8a77|fix: clean load completion (#21)|Sun, 19 Jul 2015 12:16:59 -0500|Fri, 15 Jan 2021 05:41:24 -0500
+b4ae29607a7a59d9e86ff5924018a66327838b45|fix: load zshrc (#21)|Sun, 19 Jul 2015 12:15:16 -0500|Fri, 15 Jan 2021 05:41:03 -0500
+7709a36950f08be684fe0f929ca80cd727679c00|style: order image badge (#20)|Thu, 16 Jul 2015 12:58:20 -0500|Fri, 15 Jan 2021 05:40:40 -0500
+ae73236b0b0109f173456a0295b40d833dbb6f06|docs: fixed name versions (1.0.2)|Thu, 16 Jul 2015 12:09:06 -0500|Fri, 15 Jan 2021 05:40:13 -0500
+aa0735c4a532c1b7db987272975ff0090aa7223a|build: clean content unnecessary (#19)|Thu, 16 Jul 2015 12:02:39 -0500|Fri, 15 Jan 2021 05:39:49 -0500
+851b6a202ec788c3c396b39a24e9990ebf86a85e|fix: values errors (#19)|Thu, 16 Jul 2015 11:59:28 -0500|Fri, 15 Jan 2021 05:39:30 -0500
+34e080c30d0666ce7c9d18cd6f5982a191e31bc8|style: fixed syntax function (#12)|Mon, 13 Jul 2015 23:40:28 -0500|Fri, 15 Jan 2021 05:39:01 -0500
+68287cea5d4b18f5c1530a176f232adaf5d2c2f4|tests: code without function (#12)|Mon, 13 Jul 2015 23:35:21 -0500|Fri, 15 Jan 2021 05:38:41 -0500
+100c2aaeee2bb57c5807a4d03837844a6146c969|chore: added module git (#12)|Mon, 13 Jul 2015 23:30:59 -0500|Fri, 15 Jan 2021 05:38:24 -0500
+86bd178b422909348669d60a29906c6ee87581c0|style: undefined variable show message (#12)|Mon, 13 Jul 2015 17:12:37 -0500|Fri, 15 Jan 2021 05:36:57 -0500
+92de71be7ac0a2bdd9350856a6229dc439d28a31|chore: implement files unnecessary for ignored (#12)|Mon, 13 Jul 2015 16:48:54 -0500|Fri, 15 Jan 2021 05:36:25 -0500
+8bb3b776fe0ead8f777863f482c1ec16c08535ec|chore: implement modules puppet static (#12)|Mon, 13 Jul 2015 16:43:21 -0500|Fri, 15 Jan 2021 05:36:03 -0500
+2db7e2457da0265e8274d81152d7de1739840ad4|chore: implement configuration vagrant (#12)|Mon, 13 Jul 2015 16:42:49 -0500|Fri, 15 Jan 2021 05:35:32 -0500
+42e142be626d43bd40099a84cb13f99b406cd64a|build: upgrade version librarian puppet (#12)|Mon, 13 Jul 2015 16:42:23 -0500|Fri, 15 Jan 2021 05:35:10 -0500
+3484545a54fca13b0b4b40b795a01aa8d989a530|fix: configuration editconfig (#12)|Mon, 13 Jul 2015 16:41:41 -0500|Fri, 15 Jan 2021 05:34:42 -0500
+b10d71edf4e652d76f7519ffee1a554befefff4a|fix: message response pyenv (#11)|Mon, 13 Jul 2015 16:24:19 -0500|Fri, 15 Jan 2021 05:34:25 -0500
+c934802385ea895c892a506cad46728a0cdb5409|chore: implement permission execution install (#10)|Mon, 13 Jul 2015 16:20:55 -0500|Fri, 15 Jan 2021 05:33:57 -0500
+3ca5da4568d4e74ca83e659579ddb1a571929774|docs: implement license (#3)|Mon, 13 Jul 2015 08:21:37 -0500|Fri, 15 Jan 2021 05:33:35 -0500
+ef72cc353ff674eafef0222eae5bb273bd0219d4|chore: implement install gvm (#11)|Mon, 13 Jul 2015 08:06:17 -0500|Fri, 15 Jan 2021 05:33:25 -0500
+467c69af90747f271ddf18628e8c27b64b417ef8|chore: implement function install fonts (#11)|Mon, 13 Jul 2015 07:57:36 -0500|Fri, 15 Jan 2021 05:32:18 -0500
+6372bd55c74fb6c477f6c144c534f660d8d0af13|chore: implement install pyenv (#9)|Sun, 12 Jul 2015 23:16:29 -0500|Fri, 15 Jan 2021 05:31:57 -0500
+5b58afd5377ac42ac2ac6f378befb6f38ba86481|chore: implement code install pyenv (#9)|Sun, 12 Jul 2015 23:09:25 -0500|Fri, 15 Jan 2021 05:31:34 -0500
+febdb7df8e9f7aa29a5d70b98bfc1e93bd20c2cf|style: added space between badge (#6)|Sat, 11 Jul 2015 04:07:58 -0500|Fri, 15 Jan 2021 05:31:13 -0500
+b4486ecf56b193dcf46ae72d922294183cbc25bb|docs: implement various badges github (#6)|Sat, 11 Jul 2015 04:05:00 -0500|Fri, 15 Jan 2021 05:30:54 -0500
+98e9897c6af537be92deedcfa28abe44e10158f0|docs: implement various badges (#8)|Sat, 11 Jul 2015 01:59:50 -0500|Fri, 15 Jan 2021 05:30:35 -0500
+054041d37044d2cf48795633504282652b3e1c3c|docs: implement change in changelog file (1.0.0)|Sat, 4 Jul 2015 16:11:33 -0500|Fri, 15 Jan 2021 05:29:52 -0500
+65fc3db18961d85f95c983690c3a1c4887f5fd57|docs: implement badge start github (#6)|Sat, 4 Jul 2015 16:07:20 -0500|Fri, 15 Jan 2021 05:29:24 -0500
+0e7c80efd623975f7cf14c318bde9dfaf5db6b96|style: fix name variable (#5)|Sat, 4 Jul 2015 16:04:40 -0500|Fri, 15 Jan 2021 05:28:56 -0500
+7b29fa71328f641a16b7fa676bfb827cd07931f6|fix: load functions upgrade (#5)|Sat, 4 Jul 2015 15:31:10 -0500|Fri, 15 Jan 2021 05:28:37 -0500
+4f65626b1cf67fd5183c7166882f9af78c737f72|fix: function doit (#3)|Sat, 4 Jul 2015 15:06:33 -0500|Fri, 15 Jan 2021 05:28:17 -0500
+5804a26e4fb120d6b1b6417a3c2e4a0176a41ab0|build: clean validation unnecessary (#3)|Sat, 4 Jul 2015 12:57:00 -0500|Fri, 15 Jan 2021 05:27:55 -0500
+648f1c5e1d988588857b71101382f325c16c7ce5|docs: comment unnecessary alias (#3)|Sat, 4 Jul 2015 12:23:39 -0500|Fri, 15 Jan 2021 05:27:32 -0500
+73c235242aba4930d0af40eb6a7cb0831d80c6f8|chore: validation load .bashrc to .zshrc (#3)|Sat, 4 Jul 2015 12:08:42 -0500|Fri, 15 Jan 2021 05:27:08 -0500
+c3f363eb87818c3d936a465b1fa2f63d5ffd6a91|style: fixed name variables (#2)|Sat, 4 Jul 2015 08:59:48 -0500|Fri, 15 Jan 2021 05:26:47 -0500
+2c341b09b6fcdb9d53a44fe2714aed733b239751|fix: path configuration (#2)|Sat, 4 Jul 2015 08:44:30 -0500|Fri, 15 Jan 2021 05:26:12 -0500
+f67511e50e060665237f454e8f6a81188dee684a|style: format syntax code (#2)|Sat, 4 Jul 2015 08:29:39 -0500|Fri, 15 Jan 2021 05:25:53 -0500
+78aa4753fe13885a74b3aa84eeddf5b4f2793785|docs: implementation badge image waffle|Fri, 3 Jul 2015 07:29:55 -0500|Fri, 15 Jan 2021 05:25:35 -0500
+b7df4c2959b6124bfcd7ffedebcb5c1af2dcdb36|chore: install fonts (0.1.9)|Thu, 2 Jul 2015 00:54:23 -0500|Fri, 15 Jan 2021 05:25:12 -0500
+f960ffd574cdc6f6585597d240083d8f8053af22|fix: script install fonts|Thu, 2 Jul 2015 00:48:34 -0500|Fri, 15 Jan 2021 05:24:47 -0500
+d3dc7829119594de46e3b6324d62df823d2f230b|build: clean theme unnecessary|Thu, 2 Jul 2015 00:42:05 -0500|Fri, 15 Jan 2021 05:24:30 -0500
+0ee3e41edaf047ea645a3d5f5c7c269fe143a2b1|chore: validation exists path of pyenv and rvm|Thu, 2 Jul 2015 00:41:24 -0500|Fri, 15 Jan 2021 05:24:06 -0500
+d39e1f0c81859937e787a6c5164710e266b30cc9|chore: validation if exist path pyenv|Thu, 2 Jul 2015 00:34:38 -0500|Fri, 15 Jan 2021 05:23:44 -0500
+a1a2f45622f3a2e5b4b9beab952e57aedef3fbe8|style: disabled bugs configuration in archlinux|Thu, 2 Jul 2015 00:27:18 -0500|Fri, 15 Jan 2021 05:23:28 -0500
+12769c4e8b36f69b50e20baafa3580253a1a4763|style: variables lower to upper|Tue, 30 Jun 2015 15:39:15 -0500|Fri, 15 Jan 2021 05:23:07 -0500
+33356c7bab7b18d668c266ac016533f17307be10|style: variables of lower to upper change|Tue, 30 Jun 2015 15:27:04 -0500|Fri, 15 Jan 2021 05:22:47 -0500
+5b9db63d662cb2cbf9625af7ecb57df500cb57b0|fix: change name files slug|Tue, 30 Jun 2015 15:20:19 -0500|Fri, 15 Jan 2021 05:22:14 -0500
+295b7cadb2512f90193358dede38e435fc00582c|style: space in function declarated|Tue, 30 Jun 2015 15:18:05 -0500|Fri, 15 Jan 2021 05:21:52 -0500
+32bb1aa2b9a43a9279d0f7fd773ccad69fedcb11|fix: install fonts path|Tue, 30 Jun 2015 15:06:45 -0500|Fri, 15 Jan 2021 05:21:32 -0500
+231f942e9b1b29054c2e841f1079a2882b1345e1|chore: implement files functions|Tue, 30 Jun 2015 14:38:23 -0500|Fri, 15 Jan 2021 05:21:13 -0500
+f012db64582b684cc52d4040a3110bb6482bde7e|chore: implement install install fonts for bashrc|Tue, 30 Jun 2015 14:37:56 -0500|Fri, 15 Jan 2021 05:20:46 -0500
+c69fdc77f3c9cf097176c9c19ddb14d1870f9302|chore: files fonts|Tue, 30 Jun 2015 14:37:20 -0500|Fri, 15 Jan 2021 05:20:29 -0500
+1f9746588018101946caf68bef1f2cc2fdcea98e|fix: load settings zsh (0.1.8)|Mon, 29 Jun 2015 11:22:25 -0500|Fri, 15 Jan 2021 05:19:58 -0500
+58e3612ee23b6aee25f3594bad9b0816f1a21d46|fix: load plugins zshrc (0.1.7)|Mon, 29 Jun 2015 09:04:32 -0500|Fri, 15 Jan 2021 05:19:30 -0500
+59c1281b760f5286130fffae98a906e35eca8861|fix: settings for gitconfig (0.1.7)|Mon, 29 Jun 2015 08:48:32 -0500|Fri, 15 Jan 2021 05:19:02 -0500
+e9f8b8d2455fe09b78799a8990b4fff4b5a76773|fix: install via curl and wget (0.1.7)|Mon, 29 Jun 2015 08:44:04 -0500|Fri, 15 Jan 2021 05:18:19 -0500
+9473aceccc0eefe8030fa1d52fef7e786180cdd6|build: add new version (0.1.6)|Mon, 29 Jun 2015 08:19:23 -0500|Fri, 15 Jan 2021 05:17:41 -0500
+2af4314fdecf4a05462804c033ba51b3882bf9f1|docs: install through curl or wget|Mon, 29 Jun 2015 08:13:23 -0500|Fri, 15 Jan 2021 05:17:20 -0500
+9542439ba598e3361c6a93828f97a81d427d6b2e|fix: load files bashrc|Mon, 29 Jun 2015 07:55:15 -0500|Fri, 15 Jan 2021 05:16:50 -0500
+35ed068492c78b31c678cbe18989d53fabd1affa|chore: implement install command dotfiles|Mon, 29 Jun 2015 07:53:22 -0500|Fri, 15 Jan 2021 05:16:11 -0500
+0a93c31a76db91a6b9e35dad6a90e8f3eab832e8|chore: implement settings for zshrc|Sun, 28 Jun 2015 23:02:39 -0500|Fri, 15 Jan 2021 05:15:44 -0500
+e74ee178e5f8f5b8aec478c0bd3756bca4a0b355|fix: variables in aliases|Sun, 28 Jun 2015 16:03:21 -0500|Fri, 15 Jan 2021 05:15:25 -0500
+5aa5fede0a7c76b9e7a3fcea5ec1aff908c21e94|fix: alias ls|Sun, 28 Jun 2015 15:56:01 -0500|Fri, 15 Jan 2021 05:15:09 -0500
+b582f87db8176006ccfe41ead25b8df8a6beffbb|style: input file settings|Sun, 28 Jun 2015 15:46:50 -0500|Fri, 15 Jan 2021 05:14:29 -0500
+96e8321cf1e98c5a47857b103eda8a0bfa0982ad|fix: make generate backup|Sun, 28 Jun 2015 15:39:28 -0500|Fri, 15 Jan 2021 05:14:03 -0500
+bece82fadc5a08d867de53b46584e3d8f64a3dd9|style: emails mapping|Sun, 28 Jun 2015 15:12:56 -0500|Fri, 15 Jan 2021 05:13:37 -0500
+baacf6f04c21a9095c733ecf6f9d462d58f31af3|fix: values messages info, debug, success and error|Sun, 28 Jun 2015 15:04:25 -0500|Fri, 15 Jan 2021 05:12:53 -0500
+3f97f788181e96c7573eafb0d4bdd076a5fe27ca|build: cleaning unnecessary variables|Sun, 28 Jun 2015 15:00:54 -0500|Fri, 15 Jan 2021 05:12:31 -0500
+4b2593d8b1866e83281fe1dcde95f92a6cc1c89b|fix: value app_name for load boot|Sun, 28 Jun 2015 12:52:50 -0500|Fri, 15 Jan 2021 05:12:12 -0500
+70eda02ac73796cf8c53ef005dcf97cccfb336e1|style: change values in gitconfig|Sun, 28 Jun 2015 12:49:03 -0500|Fri, 15 Jan 2021 05:11:40 -0500
+c8e181bdeb98f4c76879f6914c7e4201e0b2b301|docs:  commands for install info|Sun, 28 Jun 2015 12:47:40 -0500|Fri, 15 Jan 2021 05:11:03 -0500
+1de3ddbc835d705c3eb464402df2c93ac45838e6|fix: install files in bootstrap|Sun, 28 Jun 2015 12:39:28 -0500|Fri, 15 Jan 2021 05:10:31 -0500
+9e4fc40c7d41c7f2a7868714224a66110168c64a|chore: implement files model core|Sun, 28 Jun 2015 12:38:02 -0500|Fri, 15 Jan 2021 05:10:08 -0500
+5682f70b60e1a1df28dd40b1429daa1b9e8a861a|style: clean functions unnecesary boostrap.sh|Fri, 26 Jun 2015 23:45:26 -0500|Fri, 15 Jan 2021 05:09:51 -0500
+e47225cd3d51d9e8897ffba5bd32ec22a1d10e36|refactor: separated files to app and shell|Fri, 26 Jun 2015 18:12:44 -0500|Fri, 15 Jan 2021 05:09:30 -0500
+2575e7b03213933af51b627725c765c9f3261a8a|style: clean space white|Fri, 26 Jun 2015 18:06:23 -0500|Fri, 15 Jan 2021 05:09:15 -0500
+13bd4e2f2b4b155293c909a53cbde85086ca61b5|style: format functions|Fri, 26 Jun 2015 18:05:40 -0500|Fri, 15 Jan 2021 05:08:54 -0500
+1aa8a41cadb2f5cbc3942ea87b7543801ce42b65|refactor: vars exports for bashrc and zshrc|Fri, 26 Jun 2015 18:04:58 -0500|Fri, 15 Jan 2021 05:08:10 -0500
+43bd721acb3e81a642e42c18e7372c7ac5fb5865|chore: implement gvm to profile|Fri, 26 Jun 2015 18:03:32 -0500|Fri, 15 Jan 2021 05:07:53 -0500
+545853af8cc219312104e700e2b5feaed3746815|refactor: settings aliases bashrc and zshrc|Fri, 26 Jun 2015 17:59:23 -0500|Fri, 15 Jan 2021 05:07:22 -0500
+9f7566e2d98465fc6eed7f4715e9b35623479806|build: clean files duplicated|Fri, 26 Jun 2015 17:58:45 -0500|Fri, 15 Jan 2021 05:07:05 -0500
+49e1668e6913f174cb7a6de082c14c3782a4ae8e|chore: load file .profile instead of bash_profile|Fri, 26 Jun 2015 17:57:06 -0500|Fri, 15 Jan 2021 05:06:43 -0500
+ffe4ebacbfcaea9449a40d294b5f665f7316d1a4|chore: implement file profile bashrc|Fri, 26 Jun 2015 17:54:51 -0500|Fri, 15 Jan 2021 05:06:22 -0500
+388437fd4d3fa3c39852ff101205be7f09db6f6d|feat: delete unnecessary zpresto settings|Fri, 26 Jun 2015 17:51:36 -0500|Fri, 15 Jan 2021 05:05:22 -0500
+edb10de0146001e4270add17100e677eaa7c0979|build: clean files unnecessary|Fri, 26 Jun 2015 17:48:04 -0500|Fri, 15 Jan 2021 05:05:06 -0500
+c851aa0fdb68d94bf76d1d0dc9730a15707957ac|chore: implement settings profile|Fri, 26 Jun 2015 17:02:29 -0500|Fri, 15 Jan 2021 05:04:42 -0500
+5b8e4970dee105ebd645473fce6063d96e7209d8|build: deleted file unnecessary|Fri, 26 Jun 2015 16:44:47 -0500|Fri, 15 Jan 2021 05:04:08 -0500
+173383072086d33c97e5cc7fca7eff954b3ae731|refactor: change path fonts to resources fonts|Tue, 16 Jun 2015 20:01:04 -0500|Fri, 15 Jan 2021 05:03:45 -0500
+c4fd980e8953541f696b0fea6b50a836943e8314|chore: implement path vendor ignore|Tue, 16 Jun 2015 19:57:24 -0500|Fri, 15 Jan 2021 05:03:18 -0500
+62e63baf0a4423657188b2d250d3d0fd43cf9c4a|chore: ignore files logs in gitconfig|Wed, 24 Jun 2015 07:52:32 -0500|Fri, 15 Jan 2021 05:02:50 -0500
+2b199620ed0bbd314cd278dde082178afff9a409|style: change to  git log format|Wed, 24 Jun 2015 07:35:41 -0500|Fri, 15 Jan 2021 05:02:25 -0500
+1902d19ffb3100fb501b7faa732f9ec8baac5703|style: fixed settings files conf|Sun, 14 Jun 2015 09:16:16 -0500|Fri, 15 Jan 2021 05:01:58 -0500
+dc1cd86620198af919d716e678ca963804dda161|build: clean files unnecessary|Sun, 14 Jun 2015 09:07:55 -0500|Fri, 15 Jan 2021 05:01:39 -0500
+ffabfaea7cafa92bea2ffbe9ff75d7763cbc1e60|chore: implement settings zpresto|Sun, 14 Jun 2015 09:06:53 -0500|Fri, 15 Jan 2021 05:01:17 -0500
+66155d8c269648b412f2dcb0128b3f8f5b014afd|build: clean files unnecessary and order files|Sun, 14 Jun 2015 09:01:59 -0500|Fri, 15 Jan 2021 05:00:58 -0500
+682f0d82d24dc0c73c160a62c528f1260c655638|refactor: files of configuration to path conf|Sun, 14 Jun 2015 08:57:57 -0500|Fri, 15 Jan 2021 05:00:24 -0500
+4b59e1ced611e4eb9f7f86d96a8d35b438346474|style: settings scroll up tmux|Wed, 10 Jun 2015 17:49:04 -0500|Fri, 15 Jan 2021 04:59:55 -0500
+cde153094567e7cd42daa532db2c7e892d34dd5e|chore: implement alias xclip|Mon, 1 Jun 2015 12:42:39 -0500|Fri, 15 Jan 2021 04:59:36 -0500
+6f11b384b3e07a8dcf1a1277d58127fac72b9c02|style: name repo git dotfiles|Mon, 4 May 2015 12:06:41 -0500|Fri, 15 Jan 2021 04:58:52 -0500
+11ca599b4be639a209c3b8d2cf5ac97a0cb84ae5|fix: values links for info project|Mon, 4 May 2015 12:02:02 -0500|Fri, 15 Jan 2021 04:58:23 -0500
+6680f285289e6685f74b8c502302cbad5c603d24|style: values for map mail for commits|Mon, 4 May 2015 11:59:36 -0500|Fri, 15 Jan 2021 04:57:44 -0500
+d94508c138895d4c57e989acd1b8e10037f1557a|style: name max commits for contributings|Mon, 4 May 2015 11:57:22 -0500|Fri, 15 Jan 2021 04:57:03 -0500
+adc4e31c27b840a16264aca372515275586c8f65|fix: settings tmux|Mon, 4 May 2015 11:52:14 -0500|Fri, 15 Jan 2021 04:56:25 -0500
+20dabbe5aab9a24033522fb55f41ad0963a57eeb|chore: implement settings file for editorconfig|Fri, 24 Apr 2015 10:55:13 -0500|Fri, 15 Jan 2021 04:55:43 -0500
+80af5456cb7811f988efea1e5f3ba8230cbed0a8|style: fixed value email mailmap settings (0.1.5)|Sat, 18 Apr 2015 07:11:28 -0500|Fri, 15 Jan 2021 04:55:08 -0500
+0aa9c581b841956ea51603a67f3e483a8edb4ceb|chore: added map email settings for git shortlog (0.1.4)|Sat, 18 Apr 2015 07:02:26 -0500|Fri, 15 Jan 2021 04:54:34 -0500
+71cbd9d558eed69e0b81ba031774a06f4fd98b79|style: value email (0.1.3)|Sat, 18 Apr 2015 06:29:45 -0500|Fri, 15 Jan 2021 04:54:06 -0500
+4c5a2ee2c4712ea55ac90962925fc6bbbd1f4ee9|chore: implement CHANGELOG (0.1.2)|Sat, 18 Apr 2015 06:22:27 -0500|Fri, 15 Jan 2021 04:53:34 -0500
+9d94f3ee0fb94238083d57df6dce76e58f1a5794|style: name gitconfig files|Thu, 16 Apr 2015 00:49:46 -0500|Fri, 15 Jan 2021 04:53:04 -0500
+854dd0667559a4ec649608583dda8fd2f7dc8411|chore: implement gem tmuxinator dependence|Tue, 3 Mar 2015 11:59:28 -0500|Fri, 15 Jan 2021 04:52:39 -0500
+7359d6cf6cdb2f0c561f5cc1c17a0b063ef8843d|chore: implement files ignored for gitignore|Mon, 2 Mar 2015 12:59:44 -0500|Fri, 15 Jan 2021 04:51:46 -0500
+568eee82e00402026401321a77eedebde04db27e|chore: implement gems dependences|Mon, 2 Mar 2015 12:57:49 -0500|Fri, 15 Jan 2021 04:51:16 -0500
+c4d4dbdccc507413dad7eb6c4665892a4b1352fc|build: clean files generated|Fri, 10 Apr 2015 00:37:59 -0500|Fri, 15 Jan 2021 04:50:49 -0500
+a974985a7d4d2a7bd4d134e1f3990e506df2ce6e|build: clean dependences unnecessary|Fri, 10 Apr 2015 00:33:08 -0500|Fri, 15 Jan 2021 04:50:29 -0500
+9ac79c8fa6143fc166b1dea809446feb6fc98a88|chore: implement settings for git|Fri, 2 Jan 2015 10:13:04 -0500|Fri, 15 Jan 2021 04:50:08 -0500
+1ce7cf457b16471b1f9d06dba9defc931b26ae8e|chore: implement settings for tmux|Fri, 21 Nov 2014 17:41:04 -0500|Fri, 15 Jan 2021 04:46:30 -0500
+a8d42d51ccd47b0d32444e79409f13d8f63c5161|build: deleted files unnecessary|Fri, 21 Nov 2014 17:38:43 -0500|Fri, 15 Jan 2021 04:46:13 -0500
+b55206e359d535a5228051114e4649cbe06f2076|style: settings bundles dependences fro bundles vim|Wed, 5 Feb 2014 21:55:59 -0500|Fri, 15 Jan 2021 04:45:44 -0500
+deac1107519839273a607ff892a7dcf107b3a965|chore: implement settings vimrc.local|Mon, 4 Nov 2013 18:04:58 -0500|Fri, 15 Jan 2021 04:45:28 -0500
+4c666f24456017c1415c6871f299034febb4b571|refactor: settings bitbucket for bashrc and functions|Mon, 28 Oct 2013 08:44:36 -0500|Fri, 15 Jan 2021 04:45:11 -0500
+1641ee7510f5b9f6a91dc8c70430e021936d545a|refactor: settings tmux|Mon, 28 Oct 2013 12:13:38 -0500|Fri, 15 Jan 2021 04:40:48 -0500
+b830518fb3ad25228a0a4067300de40b4e22a0e9|chore: implement settings for bash|Fri, 25 Oct 2013 08:32:32 -0500|Fri, 15 Jan 2021 04:40:24 -0500
+6234700430bd00e2e0d8c97abfa00878251b8608|style: change theme for bash|Fri, 25 Oct 2013 10:32:59 -0500|Fri, 15 Jan 2021 04:40:05 -0500
+9743f9d53423ef00a87117d05e50b892569cba9e|refactor: change names files|Mon, 21 Oct 2013 08:33:59 -0500|Fri, 15 Jan 2021 04:39:36 -0500
+42ad0036ef9710c20e732e23b4a05c980d1fc00d|style: format settings files vim|Mon, 21 Oct 2013 08:26:16 -0500|Fri, 15 Jan 2021 04:38:52 -0500
+e10ea1e3737a34b25bc7f13891fceddfee9322df|refactor: update settings vim|Mon, 14 Oct 2013 09:11:52 -0500|Fri, 15 Jan 2021 04:38:31 -0500
+350e04ec0aa741996d936fceda7a93ff7553555e|build: delete sublime generated|Sun, 13 Oct 2013 08:44:50 -0500|Fri, 15 Jan 2021 04:38:14 -0500
+c700321cdc5b6f6adc423b81b1a795ed8299d47b| chore: implement tmux settings|Sun, 13 Oct 2013 08:44:18 -0500|Fri, 15 Jan 2021 04:38:01 -0500
+1034719d2c6e17469fb16c3f442a3a54694dd709|chore: add settings bashrc|Mon, 21 Oct 2013 15:25:04 -0500|Fri, 15 Jan 2021 04:37:49 -0500
+ea2cf6f75a3687066d62006780dced24d2ca99a3|chore: add settings bundles local|Fri, 11 Oct 2013 08:36:26 -0500|Fri, 15 Jan 2021 04:37:37 -0500
+debd538201bc1b01c757e23b968f478b3afbe4df|chore: add settings terminator|Sun, 29 Sep 2013 20:21:02 -0500|Fri, 15 Jan 2021 04:37:21 -0500
+5c96016ff4c9d932164109b66fe268412a471586|chore: implement file dotfiles|Sun, 22 Sep 2013 14:51:56 -0500|Fri, 15 Jan 2021 04:36:51 -0500
+5a18c10523f1ccb5b3cd5c8686f80dbd31c74082|build: delete files unnecessary|Mon, 2 Sep 2013 22:42:53 -0500|Fri, 15 Jan 2021 04:36:36 -0500
+fea0909b78113078f099216540fffb7ed154c7d9|add files|Mon, 2 Sep 2013 18:08:18 -0500|Mon, 2 Sep 2013 18:08:18 -0500

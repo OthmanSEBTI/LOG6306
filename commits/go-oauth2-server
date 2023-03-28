@@ -1,0 +1,529 @@
+d02a401490d06ce773ac4635e210986dbfaf520e|Merge pull request #68 from tebrizetayi/Docker_Compose_Postgres|Mon, 19 Oct 2020 17:33:16 +0100|Mon, 19 Oct 2020 17:33:16 +0100
+3bc084bba6783f0561966d66eb510757db2843ee|Docker compose: Database is uninitialized and superuser password is not specified. #67|Sun, 17 May 2020 12:14:31 +0200|Sun, 17 May 2020 12:14:31 +0200
+0e093a4b4cb86a877e81bb7b633234724255a319|Merge pull request #63 from yutita/patch-1|Sun, 20 Oct 2019 01:52:25 +0100|Sun, 20 Oct 2019 01:52:25 +0100
+49f656e87450c3e60c9f8e0ec8bba54b92c72726|Add current go version to Travis|Sat, 19 Oct 2019 14:49:31 +0700|Sat, 19 Oct 2019 14:49:31 +0700
+09e73534eb19274cef4a70811ab5caae4aef0d0e|ci: updated .travis.yml|Fri, 5 Jul 2019 12:10:28 +0100|Fri, 5 Jul 2019 12:10:46 +0100
+4895e9ee95e7e6d01b6e7b5fedb75fa8a79529e6|Merge pull request #57 from theobouwman/patch-1|Tue, 28 May 2019 22:25:34 +0100|Tue, 28 May 2019 22:25:34 +0100
+aba9b31bab8866c70d11780a21af7059f27ca3bb|etc API 3|Tue, 28 May 2019 20:13:35 +0200|Tue, 28 May 2019 20:13:35 +0200
+8aefa6d5ba26a75a09695c1fbff5825b87e6471f|Updated dependencies.|Thu, 21 Feb 2019 13:39:26 +0000|Thu, 21 Feb 2019 13:39:26 +0000
+e7c9924ddc639ee85d16a9b9bcac263a2042720e|Merge pull request #51 from kfreiman/master|Fri, 16 Nov 2018 13:00:38 +0800|Fri, 16 Nov 2018 13:00:38 +0800
+07d3977a8835a36f6a839ce3c2b3282d1fe785d7|Fix #49. Create user home dir in Dockerfile.|Mon, 12 Nov 2018 19:23:09 +0300|Mon, 12 Nov 2018 19:23:09 +0300
+0a75d6bda8ace4bd091a5ca79f9a2610579f0aab|Update .travis.yml|Thu, 1 Nov 2018 11:54:34 +0800|Thu, 1 Nov 2018 11:54:34 +0800
+b4903d985701986170a247ae5a6919ed1b9d036d|Travis file update|Sun, 7 Oct 2018 19:41:53 +0800|Sun, 7 Oct 2018 19:41:53 +0800
+88791a909d012ac4d51a00f30fd2fdaa6b222ae3|Travis file update|Sun, 7 Oct 2018 19:38:41 +0800|Sun, 7 Oct 2018 19:38:41 +0800
+9b7be4fb9880c11776e55ece643e9959e4ec6bc7|Removed vendorcheck|Sun, 7 Oct 2018 19:04:16 +0800|Sun, 7 Oct 2018 19:04:16 +0800
+16ee366677bb6e87144acf3b64346c4f84adabad|CI for Go 1.11|Sun, 7 Oct 2018 18:34:35 +0800|Sun, 7 Oct 2018 18:34:35 +0800
+877df21ab0842c475c731c643e12a6771454e6ef|Docker file go modules|Sun, 7 Oct 2018 18:32:06 +0800|Sun, 7 Oct 2018 18:32:06 +0800
+c227f692ad98d5fe3c8d0942c7de1f595f35670a|Using Go modules for dependency management.|Sun, 7 Oct 2018 18:22:16 +0800|Sun, 7 Oct 2018 18:22:16 +0800
+eea7e3de18e72efc21c956ac3faa4107faaa05a1|Update README.md|Sun, 10 Jun 2018 11:50:32 +0800|Sun, 10 Jun 2018 11:50:32 +0800
+0c9d1666ef1b09d08862ca6fd47ae936a8293fe5|Merge pull request #44 from miguelmota/master|Fri, 23 Feb 2018 11:52:02 +0800|Fri, 23 Feb 2018 11:52:02 +0800
+268432cb56636a6ccadad8588af7212f2eb1e8e5|fix typo|Thu, 22 Feb 2018 16:43:29 -0800|Thu, 22 Feb 2018 16:43:29 -0800
+3fbf0472c0f21e405ccccc8afd844179d86b05a7|Update README.md|Wed, 21 Feb 2018 22:48:50 +0800|Wed, 21 Feb 2018 22:48:50 +0800
+fb80fa689237141b03a43613722915b7984aa13e|Updated dependencies.|Sat, 13 Jan 2018 17:58:56 +0800|Sat, 13 Jan 2018 17:58:56 +0800
+9be0887f7a9195eb534a48f68fc56a182ae26a4c|Updated Makefile.|Wed, 20 Dec 2017 15:02:58 +0800|Wed, 20 Dec 2017 15:02:58 +0800
+ac2088a674dce7f6bb89d70bd52d4562d332330a|Update Makefile|Tue, 19 Dec 2017 23:04:01 +0800|Tue, 19 Dec 2017 23:04:01 +0800
+2c2ad5e2e1c48db520360ffc85307cc2a731b642|Update README.md|Tue, 19 Dec 2017 14:43:54 +0800|Tue, 19 Dec 2017 14:43:54 +0800
+5653c75f675a8a23a6e97c96d4cfa2c4a8484d06|Removed script to create test db from .travis.yml as tests are run via docker-compose now.|Wed, 1 Nov 2017 19:18:38 +0800|Wed, 1 Nov 2017 19:18:38 +0800
+ef2a01e4ccfd7eaf60454a78ea61d70b6f716478|Pruned dependencies.|Wed, 1 Nov 2017 19:14:12 +0800|Wed, 1 Nov 2017 19:14:12 +0800
+b45c96be0519d332a6ae426474f2cb3e44cd57f1|Increased deadline of gometalinter to 120s|Wed, 1 Nov 2017 16:48:37 +0800|Wed, 1 Nov 2017 16:48:37 +0800
+cfbf2499738b3b86e923eb8e9337cee5709ed2d9|Updated dep cli tool and ran dep ensure -update|Wed, 1 Nov 2017 16:34:11 +0800|Wed, 1 Nov 2017 16:34:11 +0800
+65c0192dee6e69357275580700605634a87dd68a|Fixed Travis gometalinter issues.|Wed, 1 Nov 2017 15:56:43 +0800|Wed, 1 Nov 2017 15:56:43 +0800
+04590da5d8360d8bde92bce1c06614d8ffa35d8e|Merge pull request #40 from darkowlzz/fix-vendoring|Wed, 1 Nov 2017 15:23:20 +0800|Wed, 1 Nov 2017 15:23:20 +0800
+05effa7774d24580fe74d212c79ba8afe04a8f2f|Update vendoring and fix the build|Tue, 31 Oct 2017 18:32:10 +0530|Tue, 31 Oct 2017 18:49:56 +0530
+0e903a5708c970eaffbf0e8b82c17e2a54a94528|Update README.md|Mon, 30 Oct 2017 16:06:40 +0800|Mon, 30 Oct 2017 16:06:40 +0800
+dbd279fdcaafe42bd93f2143d0196ce4b507d3e4|Run tests with coverage in Dockerfile.test|Wed, 11 Oct 2017 12:54:32 +0100|Wed, 11 Oct 2017 12:54:32 +0100
+82640041ca9ef5e230b8641b44ce6aa134e0c62a|Removed codeship|Wed, 11 Oct 2017 12:48:52 +0100|Wed, 11 Oct 2017 12:48:52 +0100
+85085918628da23755f1349225827dd92a2164db|Renamed go_oauth2_server.go to go-oauth2-server.go|Wed, 11 Oct 2017 12:29:58 +0100|Wed, 11 Oct 2017 12:29:58 +0100
+5643078b3726deec7b1fbe522cb55f7baa368512|Updated dependencies.|Wed, 11 Oct 2017 12:26:19 +0100|Wed, 11 Oct 2017 12:26:19 +0100
+077cc7d44919af48597930471db6a90ae1d5618f|Removed unused file.|Wed, 11 Oct 2017 12:11:47 +0100|Wed, 11 Oct 2017 12:11:47 +0100
+cb84c85446b00faa9be7af89b6cfc397e7ac85bf|Refactoring of tests to run via docker-compose. Fixed introspect bug.|Wed, 11 Oct 2017 12:00:20 +0100|Wed, 11 Oct 2017 12:00:20 +0100
+61a85228728948fd54ed1f445e5ae40393e578fc|Removed oauth_users.meta_user_id column (not needed/used) and fixed introspect endpoint.|Tue, 10 Oct 2017 17:41:54 +0100|Tue, 10 Oct 2017 17:41:54 +0100
+293d6f2d245f8457ed1f8d682c6e06c854ac1438|Updated from godep to dep for dependency management.|Mon, 2 Oct 2017 14:01:19 +0100|Mon, 2 Oct 2017 14:01:19 +0100
+4dcbef6ff98a0d015c838a381f3793feb82fd857|Update README.md|Mon, 4 Sep 2017 17:33:15 +0100|Mon, 4 Sep 2017 17:33:15 +0100
+d36b1cbfa3aeeccedc27e1344b99b5ba4e1fe3df|Update README.md|Mon, 4 Sep 2017 17:32:49 +0100|Mon, 4 Sep 2017 17:32:49 +0100
+5ae6116ba136522bdd0a1c58727efe6f4088213c|Make sure coverage.out file exists.|Fri, 14 Jul 2017 16:59:36 +0100|Fri, 14 Jul 2017 16:59:36 +0100
+fb609a1c2747b1e1b4e816051b71eb5f47604aef|Fixing coverage report to aggregate results from all packages.|Fri, 14 Jul 2017 16:56:16 +0100|Fri, 14 Jul 2017 16:56:16 +0100
+7fce2c1a92fddd56d021d9a5a7a3ddc99b38e83e|Update README.md|Mon, 19 Jun 2017 23:03:54 +0100|Mon, 19 Jun 2017 23:03:54 +0100
+b6da85cadba94009013863b17a21901bf354fe93|Updated deps|Mon, 19 Jun 2017 22:57:41 +0100|Mon, 19 Jun 2017 22:57:41 +0100
+f2e7e2ba1ccfaad1883fb7775aac905e89668b13|Speed up coverage.|Mon, 19 Jun 2017 22:51:16 +0100|Mon, 19 Jun 2017 22:51:16 +0100
+5bc03d109adbf90cb2dd956a08943446afbea0e8|Increased test timeouts.|Mon, 19 Jun 2017 19:49:34 +0100|Mon, 19 Jun 2017 19:49:34 +0100
+911fd045951297974fd791e4c4118e53ec38542b|Separate Makefile command for running tests with coverage.|Mon, 19 Jun 2017 19:37:13 +0100|Mon, 19 Jun 2017 19:41:14 +0100
+8c2a3f2515932740f8179a7a36ffc8f584ce83e5|Increase test timeout to 60s.|Mon, 19 Jun 2017 19:32:45 +0100|Mon, 19 Jun 2017 19:32:45 +0100
+d09a4195717bd4e4d9f224ee5b1523d26fefb532|Added codecov coverage.|Mon, 19 Jun 2017 19:19:23 +0100|Mon, 19 Jun 2017 19:19:23 +0100
+aeebfaba9baacb86c6b94d0d597f65f6c0613d3f|Updated README|Fri, 2 Jun 2017 16:51:45 +0100|Fri, 2 Jun 2017 16:51:45 +0100
+d4351470fb3dff8219890229a63c1e8f6bd57c5f|Fixed linter issues.|Fri, 2 Jun 2017 16:10:19 +0100|Fri, 2 Jun 2017 16:10:19 +0100
+1bf613cebe937e06135ddcf7af83123496b6581d|Updated .travis.yml with linter and other checks|Fri, 2 Jun 2017 15:59:41 +0100|Fri, 2 Jun 2017 15:59:41 +0100
+a792bf15606f8e0f5980b081e8b0baa596862572|Fixed linter issues and added linting commands to Makefile|Fri, 2 Jun 2017 15:58:31 +0100|Fri, 2 Jun 2017 15:58:31 +0100
+3b726d89e373c4d1d2614112bfe9a831b1a0e8c8|Updated README|Fri, 2 Jun 2017 15:47:56 +0100|Fri, 2 Jun 2017 15:47:56 +0100
+7db94ecab9606b012f413d3e0cde816b2293f9ad|Updated deps|Wed, 31 May 2017 00:49:56 +0100|Wed, 31 May 2017 00:49:56 +0100
+75a0a49477cc11a73e405cf267d8a423135efa37|Added bitdoin donate button.|Tue, 30 May 2017 19:29:53 +0100|Tue, 30 May 2017 19:29:53 +0100
+d3a265b1cc2f262dd8d4609eb3ee1e8000b95091|Removed Makefile from .dockerignore|Wed, 24 May 2017 20:07:21 +0100|Wed, 24 May 2017 20:07:21 +0100
+a6bdb05eb5d3286ac0544cff8596f827b3a2c7e2|Updated deps.|Fri, 12 May 2017 10:46:01 +0100|Fri, 12 May 2017 10:46:01 +0100
+547570deaa8f1be4943af8d037a1c030788983ee|Updated dependencies.|Thu, 11 May 2017 12:38:11 +0100|Thu, 11 May 2017 12:38:11 +0100
+2a09c3386922e5c0e5d372a4ca5a325cb8a73970|Update response_test.go|Wed, 10 May 2017 18:49:48 +0100|Wed, 10 May 2017 18:49:48 +0100
+f691a8c9c283e9ad51f194f0634bef14a643b435|Update response_test.go|Wed, 10 May 2017 18:04:47 +0100|Wed, 10 May 2017 18:04:47 +0100
+15125790e8ca3a3e275fbd5bf99bd8c656a36ca7|Update README.md|Mon, 8 May 2017 00:01:13 +0100|Mon, 8 May 2017 00:01:13 +0100
+1fee20b5a85b3023eefdfeec91eb1a36286b4474|Updated .dockerignore|Sun, 30 Apr 2017 23:43:18 +0100|Sun, 30 Apr 2017 23:43:18 +0100
+257aa71154fab82a0c3a2d04bc00ad253190fb7c|Improved docker-compose. More reliable and resilient.|Sun, 30 Apr 2017 23:40:37 +0100|Sun, 30 Apr 2017 23:40:37 +0100
+124538927ebeaa1b675b48fa1a3c09f7be15cdff|Updated dependencies.|Fri, 28 Apr 2017 20:03:58 +0100|Fri, 28 Apr 2017 20:03:58 +0100
+d6fc7d3d288f369333cae84f3bc4de8b6fea8e72|Merge pull request #32 from adam-hanna/forPR|Fri, 28 Apr 2017 20:02:54 +0100|Fri, 28 Apr 2017 20:02:54 +0100
+3edd2a3bccf92e4b063237d3d8576956e03831a8|Updated dependencies|Thu, 27 Apr 2017 17:06:59 +0100|Thu, 27 Apr 2017 17:07:05 +0100
+6f155a33fb11d1ab2dc4e1407a5bd0e63e115dbc|even more formatting changes|Fri, 21 Apr 2017 22:49:11 -0700|Fri, 21 Apr 2017 22:49:11 -0700
+73bf71ded4dc5505f261a7da91545cfa5dc5db97|more cleaning before pr|Fri, 21 Apr 2017 22:43:41 -0700|Fri, 21 Apr 2017 22:43:41 -0700
+8f45fd23518b683fe4a2d6ce8125ce93d2bcff10|removed unecessary vendor package|Fri, 21 Apr 2017 22:04:04 -0700|Fri, 21 Apr 2017 22:04:04 -0700
+ddc870a58df6916ee711f3f6a110faeb9c073cbd|final cleanup for pr|Fri, 21 Apr 2017 21:48:36 -0700|Fri, 21 Apr 2017 21:48:36 -0700
+6198d847d8042fd4084933a4da9c685ac7ffded4|updated readme|Fri, 21 Apr 2017 21:22:24 -0700|Fri, 21 Apr 2017 21:22:24 -0700
+84cbe26298912563329b8b84d11d48c0c81e632e|ready for merge|Fri, 21 Apr 2017 18:10:11 -0700|Fri, 21 Apr 2017 18:10:11 -0700
+286da1849ffa0e7c71e05eaaaf7e2a2f413a3ef4|fixed tests after merge|Fri, 21 Apr 2017 17:06:58 -0700|Fri, 21 Apr 2017 17:06:58 -0700
+76305796d275954bd420c29b50319df2aaed8ddc|Merge branch 'feature/clearUserTokens' into tryMerge|Fri, 21 Apr 2017 16:53:40 -0700|Fri, 21 Apr 2017 16:53:40 -0700
+af66afcf0aa8ad48f6d822751d4775a0926c5c83|merged feature/abstraction|Fri, 21 Apr 2017 16:53:09 -0700|Fri, 21 Apr 2017 16:53:09 -0700
+0a789378f28e0064e97dba4fdfb7729886f62bef|merged with RichardKnop master|Fri, 21 Apr 2017 16:45:22 -0700|Fri, 21 Apr 2017 16:45:22 -0700
+1a2ba1cf416f2b689bed2a68d405a45912475dc2|removed fmt.Println's|Fri, 21 Apr 2017 16:25:41 -0700|Fri, 21 Apr 2017 16:25:41 -0700
+ded3de1679a773dd74f0fbe6588f009063bb78fa|added TestClearUserTokens|Fri, 21 Apr 2017 16:23:28 -0700|Fri, 21 Apr 2017 16:23:28 -0700
+45cfb213ae32cd8d861ae210694028957f5d6572|clear tokens working on logout|Fri, 21 Apr 2017 15:36:29 -0700|Fri, 21 Apr 2017 15:36:29 -0700
+f94b88256ac4cfda5e0422778eea1df796c25799|removed unused vars|Fri, 21 Apr 2017 08:47:20 -0700|Fri, 21 Apr 2017 08:47:20 -0700
+14de713fd42bc731c60c973530fa91d65ac21177|finished refactoring abstraction|Fri, 21 Apr 2017 08:37:31 -0700|Fri, 21 Apr 2017 08:37:31 -0700
+c2f9f03a3963caef97e73efa6e67d935d789233d|tmp commit|Fri, 21 Apr 2017 08:35:09 -0700|Fri, 21 Apr 2017 08:35:09 -0700
+8fd5914bea6fb94da2049d17ea1d9293a7486dc2|added minor comment|Fri, 21 Apr 2017 08:20:53 -0700|Fri, 21 Apr 2017 08:20:53 -0700
+e179f06a4cb15468da71a2d35fcdcbeb8617e79e|removed default redis configs|Fri, 21 Apr 2017 02:28:40 -0700|Fri, 21 Apr 2017 02:28:40 -0700
+3f488961a5ef07aa252bcbef14aa3ce1f7272d5f|package name changes|Fri, 21 Apr 2017 02:12:39 -0700|Fri, 21 Apr 2017 02:12:39 -0700
+f0c94b0e202d0b4ac8d4ba7e2e862b2571cfa969|really really finished|Fri, 21 Apr 2017 02:00:01 -0700|Fri, 21 Apr 2017 02:00:01 -0700
+a2cb852f75834ad6b7d4d03e441687caa65a993c|now finished refactor|Fri, 21 Apr 2017 01:57:09 -0700|Fri, 21 Apr 2017 01:57:09 -0700
+199d198a0e3343ce519bd2426c6f59eb9a39b073|finished refactor|Fri, 21 Apr 2017 01:54:03 -0700|Fri, 21 Apr 2017 01:54:03 -0700
+e367e05c857b300c2e9fd6ad2127d096d628dd6b|Merge pull request #29 from adam-hanna/hotfix/authRespTypeBug|Thu, 20 Apr 2017 09:39:44 +0100|Thu, 20 Apr 2017 09:39:44 +0100
+e6f2832eaae120a69002699f704a395aebd16197|now correctly using cnf.Session.Secret|Wed, 19 Apr 2017 18:49:40 -0700|Wed, 19 Apr 2017 18:49:40 -0700
+ccd44d7d2d5dc67cb44227a6d16499c19f3123a2|extended plugin structs correctly this time|Wed, 19 Apr 2017 18:25:51 -0700|Wed, 19 Apr 2017 18:25:51 -0700
+568f3fcba17fcb47233201492119fbf928e7f44a|extended plugin structs to include service structs|Wed, 19 Apr 2017 18:22:29 -0700|Wed, 19 Apr 2017 18:22:29 -0700
+4ed5c4d60fb266e2f6348fe287925ca241c2e61a|moved bulk of redis integration to new file in plugins dir|Wed, 19 Apr 2017 18:20:31 -0700|Wed, 19 Apr 2017 18:20:31 -0700
+533d7c7406cc1bfd1b0af8056a316cc0f7dbcd7a|changed some comments|Wed, 19 Apr 2017 18:17:48 -0700|Wed, 19 Apr 2017 18:17:48 -0700
+8ee67fb25f43be28fc2d9fb0c033b564d279c4d1|Merge branch 'master' of github.com:RichardKnop/go-oauth2-server into hotfix/authRespTypeBug|Wed, 19 Apr 2017 18:07:08 -0700|Wed, 19 Apr 2017 18:07:08 -0700
+ea45fdb4ac7a57edac37a83df6c9c1fc8290745b|fixed bug in authorize that was returning a nil err when it should have been returning a custom err. Also made minor linting changes|Wed, 19 Apr 2017 18:02:28 -0700|Wed, 19 Apr 2017 18:02:28 -0700
+140325ea4872fe2262c999b0b5a3bf84d0b2fc8f|integrated redis store|Wed, 19 Apr 2017 17:53:13 -0700|Wed, 19 Apr 2017 17:53:13 -0700
+3ed1ca57eb96713180171462c2a462512433bc52|no build errs|Wed, 19 Apr 2017 17:30:37 -0700|Wed, 19 Apr 2017 17:30:37 -0700
+a2dac6e0cac1fd315a00a67e70ad92021cf1a941|working?|Wed, 19 Apr 2017 17:20:53 -0700|Wed, 19 Apr 2017 17:20:53 -0700
+2d778e615aed0dd73cfb7e55d39f9e7c6aad8927|removed unecessary fmt printlns|Wed, 19 Apr 2017 16:44:43 -0700|Wed, 19 Apr 2017 16:44:43 -0700
+da80fd1a2ab4fb22e2e6ad5114426033785280c1|all tests passing|Wed, 19 Apr 2017 16:40:40 -0700|Wed, 19 Apr 2017 16:40:40 -0700
+87775028d6032e5aa94039683a13df6fb3cffa9d|passing all tests|Wed, 19 Apr 2017 15:51:54 -0700|Wed, 19 Apr 2017 15:51:54 -0700
+8fb9ebcd4e8bd93e9d3a6764181a3c63e761b1d5|all working, yay!|Wed, 19 Apr 2017 15:45:05 -0700|Wed, 19 Apr 2017 15:45:05 -0700
+235003bd8691005295b7365bf6321766a5139788|more progress with abstraction|Wed, 19 Apr 2017 10:15:32 -0700|Wed, 19 Apr 2017 10:15:32 -0700
+dc9c6584129ec3f5204f0226ea745d904320f041|making progress with abstraction|Wed, 19 Apr 2017 09:41:00 -0700|Wed, 19 Apr 2017 09:41:00 -0700
+9e370e14b9af806fe82b81e5ddb36c52247f7fc4|added some abstraction to session|Tue, 18 Apr 2017 21:48:52 -0700|Tue, 18 Apr 2017 21:48:52 -0700
+c2085987b68136255f57f9a05850b1bb57b03ba4|switched to uuids and passing tests|Tue, 18 Apr 2017 16:15:56 -0700|Tue, 18 Apr 2017 16:15:56 -0700
+dd37fb150f2e7a2a07ed2adbc644eb544edafa60|Updated deps.|Wed, 12 Apr 2017 21:05:17 +0100|Wed, 12 Apr 2017 21:05:17 +0100
+7cfd55d6040da12404ec56d2f6c8bb29f5872853|Added maintainer to Dockerfile|Wed, 12 Apr 2017 21:00:24 +0100|Wed, 12 Apr 2017 21:00:24 +0100
+ba684187bd74f010baca07e312eb2955ceb33976|Improved docker entrypoint.|Tue, 11 Apr 2017 17:32:48 +0100|Tue, 11 Apr 2017 17:32:48 +0100
+617dcd8c1c52333dd20e398e9438c9a16518a190|Updated gorm.|Sun, 9 Apr 2017 21:41:08 +0100|Sun, 9 Apr 2017 21:41:08 +0100
+acbf9458e88cc685c4fb7470239c3a6f618b4fb9|Updated Go version to 1.8 for Travis|Sun, 9 Apr 2017 21:28:35 +0100|Sun, 9 Apr 2017 21:28:35 +0100
+86b1de693c15f9ecd9ec7af257deb6e4c6144a04|Merge pull request #26 from ballad89/consul-config-backend|Sun, 9 Apr 2017 21:18:16 +0100|Sun, 9 Apr 2017 21:18:16 +0100
+d2ad5a1c491040185b989655015f9b1df9393d97|vendor added dependencies|Sun, 9 Apr 2017 14:06:26 +0200|Sun, 9 Apr 2017 14:06:26 +0200
+0355898b3c15b9db19b35874c454a6b9170c3e38|update documentation|Sun, 9 Apr 2017 03:41:47 +0200|Sun, 9 Apr 2017 03:41:47 +0200
+805df6269d25824ab0c595c982eb4ff2173ff9fa|add support for consul config backend|Sun, 9 Apr 2017 03:14:54 +0200|Sun, 9 Apr 2017 03:14:54 +0200
+2f7ea82ac5226cbc1fb0ca7f9904fb0d887c39e2|fetch config from etcd via interface|Sun, 9 Apr 2017 00:32:06 +0200|Sun, 9 Apr 2017 00:32:06 +0200
+83049425aa76fddadb1b4cad5e398a85084ecc97|Refactored logging.|Wed, 29 Mar 2017 16:46:58 +0100|Wed, 29 Mar 2017 16:46:58 +0100
+f303999b430e6ad00723004450b4d612ac6a2c96|Updated dependencies.|Wed, 29 Mar 2017 16:26:53 +0100|Wed, 29 Mar 2017 16:26:53 +0100
+a0d92a9548c6fb3b1eb8ef3b891b65d09a1de6e0|Added ETCDCTL_API=3 to etcdctl put command.|Sun, 11 Dec 2016 16:53:29 +0800|Sun, 11 Dec 2016 16:53:29 +0800
+11060feb2e8244599aaef856d5df05fe59877f3c|Fixed postgres data dir volume in docker compose.|Sun, 11 Dec 2016 00:05:50 +0800|Sun, 11 Dec 2016 00:05:50 +0800
+63f6b5ded5c997514f0e8dbe49f33bf6042f595a|Updated .dockerignore|Wed, 7 Dec 2016 11:20:19 +0800|Wed, 7 Dec 2016 11:20:19 +0800
+0b4e145f85f59f43486db20ee2bdc0a1c085915d|Fixed a test suite bug.|Sun, 4 Dec 2016 22:45:42 +0800|Sun, 4 Dec 2016 22:45:42 +0800
+4e1d2b2f4bebea39a5c8aa3a7274251559e72321|Decoupled models into a separate package. Plus more refactoring.|Sun, 4 Dec 2016 22:41:29 +0800|Sun, 4 Dec 2016 22:41:29 +0800
+b822c456904fa2b0d04d482da25e82e8c7cbbad1|Moved password and response packages to util/|Sun, 4 Dec 2016 22:33:02 +0800|Sun, 4 Dec 2016 22:33:02 +0800
+a95971de41141fb75065457ba5d85d12d154eb59|docker compose refactor|Wed, 30 Nov 2016 17:38:11 +0800|Wed, 30 Nov 2016 17:40:56 +0800
+14fc8d81a2174a10893ecdf6b12f0797379e0408|Migrated to etcd API v3.|Tue, 29 Nov 2016 00:08:30 +0800|Tue, 29 Nov 2016 00:23:27 +0800
+3a1311450663bdf2c2a341503ea9e549d29ef1d3|Migrated to etcd API v3.|Tue, 29 Nov 2016 00:08:30 +0800|Tue, 29 Nov 2016 00:12:41 +0800
+f4eba94339ae83ef6449ef80d1be18c38fa61000|Update docker-compose-entrypoint.sh|Wed, 23 Nov 2016 00:05:26 +0800|Wed, 23 Nov 2016 00:05:26 +0800
+318ef2c0d7312a74cdd6eb2f9f374a703ce4c054|Updated deps.|Sat, 22 Oct 2016 16:00:26 +0800|Sat, 22 Oct 2016 16:00:26 +0800
+f9df3742463506041215d286635bc13b7b31dfd3|Fixed docker compose.|Sat, 1 Oct 2016 15:18:12 +0800|Sat, 1 Oct 2016 15:18:12 +0800
+9be69a4855d4f0c1f53a0a9d53dfb9017200cbab|Big refactor, updates and cleaning up.|Wed, 28 Sep 2016 15:00:14 +0800|Wed, 28 Sep 2016 15:27:49 +0800
+35ba85777d2e690d619cbfbdaffaa8631e5fcce2|Update docker-compose-entrypoint.sh|Tue, 20 Sep 2016 15:54:56 +0800|Tue, 20 Sep 2016 15:54:56 +0800
+a91464813c2f692decd1b7e7d8840ff7541025ea|Added .dockerignore|Tue, 30 Aug 2016 00:01:51 +0800|Tue, 30 Aug 2016 00:01:51 +0800
+99079e7a9c2e590d00b99551a8753928369cbba7|Update docker-compose-entrypoint.sh|Mon, 29 Aug 2016 23:50:31 +0800|Mon, 29 Aug 2016 23:50:31 +0800
+2968ae29d21d625bd41c4bad669c219acfc597e8|Updated deps.|Mon, 29 Aug 2016 23:47:26 +0800|Mon, 29 Aug 2016 23:47:26 +0800
+b4b8c74b0c51bff7ac0d1f926996f87735cad905|Linter fixed and docker-compose refactor.|Mon, 29 Aug 2016 23:47:02 +0800|Mon, 29 Aug 2016 23:47:02 +0800
+d366829db03ece28a123a7da5fca27097c4350c1|Updated deps.|Sat, 27 Aug 2016 16:18:09 +0800|Sat, 27 Aug 2016 16:18:39 +0800
+82b86550f1b167d3c1a6531d79ee72c83c677fdf|Update Makefile|Tue, 16 Aug 2016 15:36:35 +0800|Tue, 16 Aug 2016 15:36:35 +0800
+7a1ee1df7e286ef2f8a29dfb3eaeec71aeee8d62|Update .travis.yml|Tue, 16 Aug 2016 15:36:21 +0800|Tue, 16 Aug 2016 15:36:21 +0800
+f3e4799e797d8df58a8845416a3ce6ce2c27907b|Updated README file. Commit should be signed with GPG.|Mon, 15 Aug 2016 20:34:01 +0800|Mon, 15 Aug 2016 20:34:01 +0800
+0132c75351078f36c8c6839c2d7cd331a6003933|Updated deps.|Sun, 14 Aug 2016 17:36:54 +0800|Sun, 14 Aug 2016 17:36:54 +0800
+7fba011cdbc8d4e25c77c818179e9099140e5e05|Updated deps|Fri, 5 Aug 2016 01:46:12 +0800|Fri, 5 Aug 2016 01:46:17 +0800
+837854bdc99b149bcf4fd02422884d48ffdaaa07|More refactoring.|Fri, 5 Aug 2016 01:43:42 +0800|Fri, 5 Aug 2016 01:43:42 +0800
+b3658ae4060a856354a9da9b18f2efc75e33753f|More refactoring.|Fri, 5 Aug 2016 01:33:01 +0800|Fri, 5 Aug 2016 01:33:01 +0800
+f16412aaa6bbf2911ad152dcf355b6d6ebde5f8c|More refactoring.|Thu, 4 Aug 2016 21:12:46 +0800|Thu, 4 Aug 2016 21:12:46 +0800
+746852f953dd573185f9ab61c5a07190fcd8fd8d|Test refactor.|Thu, 4 Aug 2016 20:46:59 +0800|Thu, 4 Aug 2016 20:46:59 +0800
+851ee6d0ac352052fb27f623dbd727ba0cd087cc|Removed unused file.|Thu, 4 Aug 2016 19:38:17 +0800|Thu, 4 Aug 2016 19:38:17 +0800
+ebb30bd2b256d43647e636ef8c7f6bfb84fbc3ef|Big refactoring and security improvements.|Thu, 4 Aug 2016 19:35:40 +0800|Thu, 4 Aug 2016 19:35:40 +0800
+571ec70f696f6465eac5aa6316bd2119b5f586b8|Optimise to run less SQL queries.|Thu, 4 Aug 2016 18:38:25 +0800|Thu, 4 Aug 2016 18:38:25 +0800
+0bd8a16d49623dcc97f03452cc050738e48dc700|Migrations refactor.|Thu, 4 Aug 2016 15:33:27 +0800|Thu, 4 Aug 2016 15:33:27 +0800
+2b0cdde69e330264c0fa6bc50fda70c7479ccb25|Docker compose refactor.|Wed, 3 Aug 2016 01:15:02 +0800|Wed, 3 Aug 2016 01:15:02 +0800
+47e537db3b8ab54b0ce03d1c779d92e00274eb8f|Updated deps.|Tue, 2 Aug 2016 19:22:07 +0800|Tue, 2 Aug 2016 19:22:07 +0800
+475fbc86cf9b9385cb1650f6ae3241396b61036b|Fixed bug.|Mon, 1 Aug 2016 19:06:45 +0800|Mon, 1 Aug 2016 19:06:45 +0800
+71b0bee88f67c26be8cbe05dbca2c6644fc9987c|Refactored Dockerfile and entrypoint according to best practices.|Mon, 1 Aug 2016 19:01:13 +0800|Mon, 1 Aug 2016 19:01:13 +0800
+ebb00703e5919a2c858e299dc7d979afe1510287|Graceful exit based on SIGTERM or SIGNINT signals supported now.|Mon, 1 Aug 2016 19:00:59 +0800|Mon, 1 Aug 2016 19:00:59 +0800
+322cb91a28204799f82208d0840a33a96a9764aa|Added support for encrypted etcd client traffic.|Mon, 1 Aug 2016 19:00:26 +0800|Mon, 1 Aug 2016 19:00:26 +0800
+21d6704ea9e7a3f49c581659162ade9b48e353c3|Updated deps.|Fri, 29 Jul 2016 20:11:38 +0800|Fri, 29 Jul 2016 20:11:38 +0800
+d2798a9be3667a161f20892d6a6076e7e31b3fb8|Updated README.|Fri, 29 Jul 2016 15:04:18 +0800|Fri, 29 Jul 2016 15:04:18 +0800
+d0885b7ba6225f8749eae1a729206a7e41029b71|Updated deps.|Wed, 27 Jul 2016 02:00:59 +0800|Wed, 27 Jul 2016 02:00:59 +0800
+20ae3fbb21c1df9bb56e9460ae8bf16d62f64c12|Oauth suite test small refactor.|Mon, 11 Jul 2016 23:08:57 +0800|Mon, 11 Jul 2016 23:08:57 +0800
+0db40bc058bb966dbf32aea199c17dbd4a980ef6|Fixing CI.|Mon, 11 Jul 2016 02:43:10 +0800|Mon, 11 Jul 2016 02:43:10 +0800
+33245628bcec102eff2f1f95f6f024a8762a5299|Fixed test database user.|Mon, 11 Jul 2016 02:32:22 +0800|Mon, 11 Jul 2016 02:32:22 +0800
+eed9ca1112bdcc6f3496838f5278bf492118714d|Massive refactoring.|Mon, 11 Jul 2016 02:27:32 +0800|Mon, 11 Jul 2016 02:27:32 +0800
+cabd8362c4bebbd6eefcec87778d802eef9774d9|Database test utils and unit tests.|Mon, 11 Jul 2016 00:36:28 +0800|Mon, 11 Jul 2016 00:36:28 +0800
+f658df7306b55780e582301c07fbaaaa7180a87b|Updated gorm.|Mon, 11 Jul 2016 00:09:57 +0800|Mon, 11 Jul 2016 00:09:57 +0800
+ce3d0da81aeb8084a17a14fa5c5f0001ffd019c1|Refactoring. Updated deps. Reduced DB calls on Authenticate call.|Fri, 8 Jul 2016 16:20:39 +0800|Fri, 8 Jul 2016 16:20:39 +0800
+e40ee45627ec3fa413dd49e673533b2cb3b7eb81|Updated deps.|Wed, 29 Jun 2016 14:39:22 +0800|Wed, 29 Jun 2016 14:39:22 +0800
+05b1b1ed937750fa483e5c90f08e7ad0b55b1792|Updated deps.|Mon, 20 Jun 2016 01:40:02 +0800|Mon, 20 Jun 2016 01:40:02 +0800
+4dd6efcd28c48dc8cbec57dfa68d0622a3e872ae|Updated deps.|Fri, 10 Jun 2016 02:03:40 +0800|Fri, 10 Jun 2016 02:03:40 +0800
+7ff6b1821a9b32597489aed9a88eef28c93e7832|Check for username uniqueness to return pretty error.|Thu, 9 Jun 2016 15:52:48 +0800|Thu, 9 Jun 2016 15:52:48 +0800
+45b18ca4f5cef6805b67f189423ee46ecf563b53|Updated deps.|Mon, 6 Jun 2016 14:55:26 +0800|Mon, 6 Jun 2016 14:55:26 +0800
+bef0189c09462563d533bb906a12636a40487f19|Updated deps.|Fri, 3 Jun 2016 14:36:29 +0800|Fri, 3 Jun 2016 14:36:29 +0800
+eee50f399c4d7332d3cc764e812682e3acaabe8b|Updated deps.|Fri, 3 Jun 2016 14:27:46 +0800|Fri, 3 Jun 2016 14:27:46 +0800
+f378dd0ac0a3a833ba35cc2c7f4c9ea8e45b0460|Updated deps.|Fri, 3 Jun 2016 14:24:34 +0800|Fri, 3 Jun 2016 14:24:34 +0800
+2dd4ffecf0573277561e283eefa9551788618b3a|Updated deps.|Fri, 3 Jun 2016 14:21:17 +0800|Fri, 3 Jun 2016 14:21:17 +0800
+db2d51520e7cd11fe0375a3767b2850b1280d43d|Updated go-fixtures.|Thu, 2 Jun 2016 18:33:13 +0800|Thu, 2 Jun 2016 18:33:13 +0800
+b30b2bd318faac5c4081a2c13414f3b87c22d58e|Updated deps.|Thu, 2 Jun 2016 00:20:53 +0800|Thu, 2 Jun 2016 00:20:53 +0800
+f28c9cc6984a7b7beb0b036022dd3cecc66ef529|Updated gorm.|Thu, 2 Jun 2016 00:18:19 +0800|Thu, 2 Jun 2016 00:18:19 +0800
+b5e9862f802d79e2d8423248d7ca6c3179d6d45e|Updated go-fixtures.|Wed, 1 Jun 2016 19:43:29 +0800|Wed, 1 Jun 2016 19:43:29 +0800
+555638b98dc68bab2788a85c9ddb900d4377065a|Updated dependencies.|Wed, 1 Jun 2016 14:47:12 +0800|Wed, 1 Jun 2016 14:47:12 +0800
+9a6e0bae180dd7b4f65b04e6c53384cf160a982b|Updated README.|Wed, 25 May 2016 16:31:07 +0800|Wed, 25 May 2016 16:31:07 +0800
+4e3d8c77b8c8e2a8f07d274453668365b7d99d1b|Log error when cli action fails.|Tue, 24 May 2016 19:53:53 +0800|Tue, 24 May 2016 19:53:53 +0800
+12ccc60bd78d685bebc49e6692a8007c4d9c7b0b|Updated dependencies.|Mon, 23 May 2016 21:54:12 +0800|Mon, 23 May 2016 21:54:12 +0800
+7c57b671e3758faedb6e00f7c6007568700e93c8|Fixed typo in README.|Tue, 17 May 2016 17:37:37 +0800|Tue, 17 May 2016 17:37:37 +0800
+7738bd56ee8d860fa16cdd663d0c2595abf50141|https://github.com/codegangsta/cli/blob/master/CHANGELOG.md#deprecated-cli-app-action-signature|Tue, 17 May 2016 17:34:37 +0800|Tue, 17 May 2016 17:34:37 +0800
+d4fa07ae18294663bc7b6d0a6233bf4d3f6964c2|Updated dependencies.|Mon, 16 May 2016 23:36:23 +0800|Mon, 16 May 2016 23:36:23 +0800
+f35814e63166e8dadddb9bf07a396abeae61d053|Fixed config reloading.|Thu, 12 May 2016 23:08:23 +0800|Thu, 12 May 2016 23:08:23 +0800
+6d25acbbd68e94ff8ff0eb4c9d720cf28f9ad541|Updated deps.|Tue, 10 May 2016 22:01:53 +0800|Tue, 10 May 2016 22:01:53 +0800
+5ed61e6edba2ee2da170d8ece4023a3e43a11d12|Updated dependencies.|Thu, 28 Apr 2016 18:10:22 +0800|Thu, 28 Apr 2016 18:10:22 +0800
+ce3d2177063a45ed0092dbc3ddf7fc6dbb42f1d2|Updated dependencies.|Thu, 28 Apr 2016 18:09:34 +0800|Thu, 28 Apr 2016 18:09:34 +0800
+e909b001af7d11b639009a099997ea74319c4a62|Updated README.|Sun, 24 Apr 2016 20:59:27 +0800|Sun, 24 Apr 2016 20:59:27 +0800
+8f9a6935728e3c17599947b3721755528ddcce57|Merge pull request #10 from mosheco/master|Sun, 24 Apr 2016 20:54:53 +0800|Sun, 24 Apr 2016 20:54:53 +0800
+cefeea051457e9f4afd0eb36d097c7fc78d29231|Remove internal id's from response Add required HTTP response headers|Thu, 21 Apr 2016 14:49:27 +0300|Thu, 21 Apr 2016 14:49:27 +0300
+cd0f05bdf75c224ac7a843bc4966be3ff6bf458f|Update README.md|Thu, 7 Apr 2016 18:22:35 +0100|Thu, 7 Apr 2016 18:22:35 +0100
+7efbbc0b26be4ecee6af02bdce88505e86208d1c|Added user ID to access token response.|Wed, 6 Apr 2016 15:37:07 +0100|Wed, 6 Apr 2016 15:37:07 +0100
+f529cc457d3dba15047bc557ddd1363f10182fc4|Updated gorm.|Tue, 5 Apr 2016 15:30:35 +0100|Tue, 5 Apr 2016 15:30:35 +0100
+73e041f0e4f5e02fc22e7924934ee38de75cefc8|Updated go-fixtures.|Fri, 1 Apr 2016 12:06:17 +0100|Fri, 1 Apr 2016 12:06:17 +0100
+2937194f66102f0dc503999c24d11a9146370428|go fmt|Tue, 29 Mar 2016 18:49:30 +0800|Tue, 29 Mar 2016 18:49:30 +0800
+5ffaa29e78907714bab4b39e2ac4976236ee2a9b|Refactored test.|Tue, 29 Mar 2016 18:35:32 +0800|Tue, 29 Mar 2016 18:39:33 +0800
+fcc6e590d7223ba788ee7898d25b267211fcb814|Merge pull request #9 from mosheco/master|Tue, 29 Mar 2016 18:28:43 +0800|Tue, 29 Mar 2016 18:28:43 +0800
+d893c78c9f4ad031ef281d678ee4453d942f1ffd|Updated dependencies.|Mon, 28 Mar 2016 23:30:03 +0800|Mon, 28 Mar 2016 23:30:03 +0800
+edf73073fd7f30bdf7d55d798ec451e2d87dbeff|Exported model constructors.|Thu, 24 Mar 2016 22:43:58 +0800|Thu, 24 Mar 2016 22:43:58 +0800
+c5af9c0cb2e4641d91474e1213c3f99fe9717be3|Updated gorm.|Wed, 23 Mar 2016 18:56:29 +0800|Wed, 23 Mar 2016 18:56:29 +0800
+e9499471b5593e98322d863ebf8a462a950582ed|Made sure updated_at field is being set when updating models without callbacks.|Tue, 22 Mar 2016 21:26:03 +0800|Tue, 22 Mar 2016 21:26:03 +0800
+a6956fc602f6c928d5742f646a269b34bcbee578|Added comments to fixtures.|Sun, 20 Mar 2016 13:25:28 +0800|Sun, 20 Mar 2016 13:25:28 +0800
+ee7912dbf3a64521098a5ed1416da0afec8d4611|No refresh token for client_credentials grant|Sat, 19 Mar 2016 03:58:22 +0200|Sat, 19 Mar 2016 03:58:22 +0200
+736a8f663b241f1b22b41a543f86ef8213e422b8|Updated deps.|Fri, 18 Mar 2016 14:17:35 +0800|Fri, 18 Mar 2016 14:17:35 +0800
+88eeac966dc5d5d1d4ec96355a6d87f218eff3a5|Refactoring test suites a bit.|Thu, 17 Mar 2016 15:21:07 +0800|Thu, 17 Mar 2016 15:21:07 +0800
+e5245a3e63e4ba60085f3294fd1627335c7dfb83|Explicitly use ORDER BY with every SELECT query.|Thu, 17 Mar 2016 10:32:23 +0800|Thu, 17 Mar 2016 10:32:23 +0800
+f7bc0d9195bf6e19a34be3dc205098c8613f1e97|Merge pull request #7 from dimitriin/master|Thu, 10 Mar 2016 21:47:28 +0800|Thu, 10 Mar 2016 21:47:28 +0800
+6da293b833843f56d8725eb73c50398437189849|Updated README|Thu, 10 Mar 2016 16:57:17 +0600|Thu, 10 Mar 2016 16:57:17 +0600
+247a926b1bf9192bf84312de2536157f97eef879|Separate docker-compose configuration|Thu, 10 Mar 2016 16:49:15 +0600|Thu, 10 Mar 2016 16:49:15 +0600
+5a9bc22680ac41db6612f2827baf3555c87e6e46|Updated gorm.|Wed, 9 Mar 2016 17:11:25 +0800|Wed, 9 Mar 2016 17:11:25 +0800
+88d2dd2667d252b592f3cd4ec5ba40690d8d3339|Exported all errors.|Tue, 8 Mar 2016 13:54:31 +0800|Tue, 8 Mar 2016 14:00:58 +0800
+db2563855b6fe62afafed4b44f24ae9fecee0b45|Fixed database pkg to work with updated gorm.|Tue, 8 Mar 2016 12:41:58 +0800|Tue, 8 Mar 2016 12:41:58 +0800
+116d466391e34536c4bb60b09676e98ee90ea0fe|Updated gorm.|Tue, 8 Mar 2016 12:35:58 +0800|Tue, 8 Mar 2016 12:35:58 +0800
+d72a403a6521db2eafb0cbe597b7a3fb01f78285|Oauth server container expose port 8080 and docker-compose readme|Sun, 6 Mar 2016 19:14:48 +0600|Sun, 6 Mar 2016 19:14:48 +0600
+f7b37686155c0e09ff7a2b61895a0fdc0e71885b|Updated gorm.|Sat, 5 Mar 2016 21:39:20 +0800|Sat, 5 Mar 2016 21:39:20 +0800
+1e5f311b3b4a255fcb6b37196efabf1153bf60d3|formatting|Fri, 4 Mar 2016 23:37:31 +0800|Fri, 4 Mar 2016 23:37:31 +0800
+8e3c1625a5a0ec8c5f45212a92d56cb3c6b98f7e|Scope defaults to originally requested in refresh token grant now.|Wed, 2 Mar 2016 10:42:25 +0800|Wed, 2 Mar 2016 10:42:25 +0800
+73a69953a8583f861784d3ea4a7c48b21394576e|Exported new method oauth.Service.Login.|Tue, 1 Mar 2016 22:26:21 +0800|Tue, 1 Mar 2016 22:26:21 +0800
+6b7208ef0047a6ede18b6f6e81072675bc500f0d|Updated gorm.|Tue, 1 Mar 2016 15:00:14 +0800|Tue, 1 Mar 2016 15:00:14 +0800
+a5a185f0d4088ca050c43eecee5f192faeb81ceb|Fixed a session bug introduced in the previous commit.|Sun, 28 Feb 2016 22:56:14 +0800|Sun, 28 Feb 2016 22:56:14 +0800
+d334804606f38b1a0f4d547e33c18845f139a0ff|Update service.go|Sun, 28 Feb 2016 22:48:23 +0800|Sun, 28 Feb 2016 22:48:23 +0800
+b4d34800fe12289b969ac31a7b857899189c151d|Update response_test.go|Sun, 28 Feb 2016 22:45:47 +0800|Sun, 28 Feb 2016 22:45:47 +0800
+1507411fd4adddc090b3e3a3f30a1063293536d3|Update response.go|Sun, 28 Feb 2016 22:43:47 +0800|Sun, 28 Feb 2016 22:43:47 +0800
+7ad64c1d1174beccff3683ccf80cb40f00b05def|Small test db refactor.|Sun, 28 Feb 2016 02:45:27 +0800|Sun, 28 Feb 2016 02:45:27 +0800
+ae48e72bd6b09188bfa864451f7ad87933298184|Refactored loaddata command.|Sat, 27 Feb 2016 19:19:16 +0800|Sat, 27 Feb 2016 19:19:16 +0800
+ed9c42548278baa2b9dd8f88c634ff398438f594|Overwritten gorm.NowFunc.|Sat, 27 Feb 2016 05:24:05 +0800|Sat, 27 Feb 2016 05:24:05 +0800
+7224b9e10f7b219c6a1d42dc0cf9d2e5c89e5550|Refactored tests suites to be more DRY.|Sat, 27 Feb 2016 01:46:35 +0800|Sat, 27 Feb 2016 01:46:35 +0800
+7d0740cdd03109686362d85d8c06deac633120a6|Updated go-fixtures.|Sat, 27 Feb 2016 00:06:53 +0800|Sat, 27 Feb 2016 00:06:53 +0800
+98fea877827a8d689d3a9b79f0b631c4b6344d3f|Update routes.go|Fri, 26 Feb 2016 19:30:35 +0800|Fri, 26 Feb 2016 19:30:35 +0800
+a7dbd30a980e1d637448a1c88022f948012b1fb6|Big test refactoring.|Fri, 26 Feb 2016 01:41:10 +0800|Fri, 26 Feb 2016 01:41:10 +0800
+bf5864451d1b142b0140fee38131bde2dec455e0|Docker-compose build|Thu, 25 Feb 2016 15:30:47 +0600|Thu, 25 Feb 2016 15:30:47 +0600
+fa33adcb8dbec5ad60146d31acbedcd571cdc9f6|Update client.go|Thu, 25 Feb 2016 15:59:03 +0800|Thu, 25 Feb 2016 15:59:03 +0800
+289e6daecdf57c8834e963e5549e31fc476af9f2|Update user.go|Thu, 25 Feb 2016 15:57:03 +0800|Thu, 25 Feb 2016 15:57:03 +0800
+fa727405a7cbcd00dcec04093c6f3503e492923c|Update user.go|Thu, 25 Feb 2016 15:39:33 +0800|Thu, 25 Feb 2016 15:39:33 +0800
+9b69d3baf9804e757029eaea7bbce2181d4c7025|Updated oauth2 doc.|Mon, 22 Feb 2016 17:41:54 +0800|Mon, 22 Feb 2016 17:43:54 +0800
+5b0c545ec13c53984474f61e00fe4f4efcbb0177|Fixed web layouts.|Sun, 21 Feb 2016 19:56:14 +0800|Sun, 21 Feb 2016 19:56:14 +0800
+a4e6c013d4ffdd269a80396e4ae4f78d4fac42ce|Fixed web layouts.|Sun, 21 Feb 2016 18:27:48 +0800|Sun, 21 Feb 2016 18:27:48 +0800
+0134ab563a6c036e15126703ccc753c6cca0577a|Small html layout change.|Sat, 20 Feb 2016 20:14:02 +0800|Sat, 20 Feb 2016 20:14:02 +0800
+f00232208995e149779f3938fe0859b6dbb301cd|Load Twitter Bootstrap from CDN.|Sat, 20 Feb 2016 20:06:06 +0800|Sat, 20 Feb 2016 20:06:06 +0800
+bb4353753b77e1662d94c22203e1bb19203196fd|Implicit grant asks user to define access lifetime now.|Sat, 20 Feb 2016 18:23:02 +0800|Sat, 20 Feb 2016 18:23:02 +0800
+e6a30862337366eb4fc9ac800c245d393fdaaec2|Prevent clickjacking with x-frame-options header.|Sat, 20 Feb 2016 16:52:57 +0800|Sat, 20 Feb 2016 16:52:57 +0800
+05b5f403bb6bddd377bcbdc229233b366dad57a0|Big oauth refactoring.|Sat, 20 Feb 2016 16:07:34 +0800|Sat, 20 Feb 2016 16:21:20 +0800
+679eaab66b6450538a7f8682f12189fb0de51220|Updated deps.|Sat, 20 Feb 2016 01:45:11 +0800|Sat, 20 Feb 2016 01:47:19 +0800
+3933f43abc1331dedb1f6dcd17192ad80d433313|Upgraded travis Go version to 1.6|Fri, 19 Feb 2016 20:14:03 +0800|Fri, 19 Feb 2016 20:14:03 +0800
+d93d74c12ff9de5a271ab96d44f7a730f6463b3b|Refactored register and login pages. Both require client_id query param now.|Thu, 18 Feb 2016 02:38:16 +0800|Thu, 18 Feb 2016 02:38:16 +0800
+11a58700517326a12197081f27b309fae5b89ce4|Updated deps.|Tue, 16 Feb 2016 16:12:46 +0800|Tue, 16 Feb 2016 16:12:46 +0800
+1eea8c6959b15ba950d32982a1dcf56d2e185c67|Improved util sql null helpers.|Tue, 16 Feb 2016 15:42:11 +0800|Tue, 16 Feb 2016 16:01:12 +0800
+c82a24200374756a6b25df5241a03a80eb1ee3ad|Updated deps.|Mon, 15 Feb 2016 15:03:19 +0800|Mon, 15 Feb 2016 15:03:19 +0800
+d7469e1e5dfa810405413fe2db11385f8a5e3dff|Updated gorm.|Sun, 14 Feb 2016 15:03:04 +0800|Sun, 14 Feb 2016 15:03:04 +0800
+f0c79216ec2c33ad7d13573c9573d3537cd040ac|Updated README.|Sun, 14 Feb 2016 00:10:26 +0800|Sun, 14 Feb 2016 00:10:26 +0800
+692c3aeb93fafd13d8560b05f740fa6d0998f8a2|Added loading of scopes fixture to docker entrypoint.|Sat, 13 Feb 2016 23:37:53 +0800|Sat, 13 Feb 2016 23:37:53 +0800
+7a5239aa6ce056415d85cf3a9f3a6a60df6b78a9|Moved defer after checking error.|Sat, 13 Feb 2016 23:33:31 +0800|Sat, 13 Feb 2016 23:33:31 +0800
+df19ebd93a3ff6a7471c2cbac18b404327dc5327|Added https redirection middleware to util.|Sat, 13 Feb 2016 22:01:51 +0800|Sat, 13 Feb 2016 22:08:26 +0800
+f826b28919c79d2d242f9305f5ed1ffb20e3508e|Updated deps.|Thu, 11 Feb 2016 23:38:20 +0800|Thu, 11 Feb 2016 23:38:20 +0800
+30017ae4c3893b27e10528c05a21ea7e78e91ab4|Updated deps.|Thu, 11 Feb 2016 23:32:12 +0800|Thu, 11 Feb 2016 23:32:12 +0800
+89bc37c501e39ca1f178f1e8e3ad2f009e12645a|Small test and fixtures refactoring.|Thu, 11 Feb 2016 23:22:50 +0800|Thu, 11 Feb 2016 23:22:50 +0800
+a9534be922441cb1a083912ea100d91719af964f|Added introspectHandler to service mock.|Thu, 11 Feb 2016 20:12:05 +0800|Thu, 11 Feb 2016 20:12:05 +0800
+ee58a78ff844a2c46f10c83b8b944e32ecb1f4db|Small refactoring.|Thu, 11 Feb 2016 02:44:56 +0800|Thu, 11 Feb 2016 02:44:56 +0800
+d9c77d43e1bb1a6e0b4d91bde33ae0beb63bf764|Updated Travis Go version to 1.5.3|Thu, 11 Feb 2016 00:11:12 +0800|Thu, 11 Feb 2016 00:11:12 +0800
+761b11702a7812ea2d974a318f87717a26a5e904|Fixed tests.|Thu, 11 Feb 2016 00:06:38 +0800|Thu, 11 Feb 2016 00:06:38 +0800
+bee27709fcdbe1de3f72b490a3113069c648ac94|Merge pull request #6 from sotosof/rfc7662-introspection|Wed, 10 Feb 2016 23:59:04 +0800|Wed, 10 Feb 2016 23:59:04 +0800
+f8283433b5e27f69e0d06d04bd102fa06a18c7b1|Added multiple test clients. Refactored tests.|Tue, 9 Feb 2016 22:40:43 +0800|Tue, 9 Feb 2016 22:40:43 +0800
+a2ec64b16674ecdc61b7eaa13e9f83a7477a050b|Moved database logging to database factory|Tue, 9 Feb 2016 19:20:54 +0800|Tue, 9 Feb 2016 19:20:54 +0800
+5b6246175e55f4fa41383ebe3794f5fa92912cba|Updated dependencies.|Tue, 9 Feb 2016 14:44:15 +0800|Tue, 9 Feb 2016 14:44:15 +0800
+fef2c034b9ea39bb6cbffe59cff3822946b86507|Updated gorm.|Mon, 8 Feb 2016 19:19:12 +0800|Mon, 8 Feb 2016 19:19:12 +0800
+d879be94959cbd09d8276a2f3ddc6b56a0a8590b|Token Introspection (rfc7662).|Sun, 7 Feb 2016 19:08:05 +0100|Mon, 8 Feb 2016 10:11:10 +0100
+04281a6a9486195463ef67f0c92e5e978d32a803|Fixed login redirection bug|Fri, 5 Feb 2016 21:49:36 +0800|Fri, 5 Feb 2016 21:49:36 +0800
+d3a1a395573d04461a3d211a96648d63edb3adec|Fixed tests bug.|Fri, 5 Feb 2016 21:20:24 +0800|Fri, 5 Feb 2016 21:20:24 +0800
+794de06cf1b3bfd12f9028ba67ce57c9f45c0fa9|Small improvement to main executable.|Fri, 5 Feb 2016 21:01:19 +0800|Fri, 5 Feb 2016 21:01:19 +0800
+6d3194319f484b4546812e4db4cf7eb9e37d5eb6|CLI commands refactoring.|Fri, 5 Feb 2016 20:53:48 +0800|Fri, 5 Feb 2016 20:53:48 +0800
+1ded17cc65b28060f642a85ef6c203916990afa0|Updated dependencies.|Fri, 5 Feb 2016 20:41:33 +0800|Fri, 5 Feb 2016 20:41:33 +0800
+61eed4e09be79859e669b00c80ecef0ad0530711|Updated dependencies.|Fri, 5 Feb 2016 17:16:15 +0800|Fri, 5 Feb 2016 17:16:15 +0800
+79ee9ff8e06a40d31eddd41315285bc7c01b553e|Added a bool flag to enable/disable config reloading.|Thu, 4 Feb 2016 22:34:50 +0800|Thu, 4 Feb 2016 22:34:50 +0800
+1d77d9cc46514740c8dd8694f16fd591227aff15|Added CreateClientTx to oauth.|Thu, 4 Feb 2016 21:15:28 +0800|Thu, 4 Feb 2016 21:15:28 +0800
+7987a33f115b7b26752e0183ea7a0d90477b1063|Updated deps|Thu, 4 Feb 2016 06:00:00 +0800|Thu, 4 Feb 2016 06:00:00 +0800
+acdfd78c24b262e88ca110ae5be99cc61ac30041|Added make fmt|Thu, 4 Feb 2016 05:51:58 +0800|Thu, 4 Feb 2016 05:51:58 +0800
+cac3862600628209fadf938571e80da7283d416d|Updated dependencies|Thu, 4 Feb 2016 05:48:49 +0800|Thu, 4 Feb 2016 05:48:49 +0800
+e96e993f42ae35fccdb603ebc6689d9da2274f2f|Test refactoring.|Wed, 3 Feb 2016 20:14:50 +0800|Wed, 3 Feb 2016 20:14:50 +0800
+343d7ace0b50f99e6b30ba4c07e287a72b3d34fd|Updated deps|Wed, 3 Feb 2016 18:39:59 +0800|Wed, 3 Feb 2016 18:39:59 +0800
+5bde8012dba7d4d5b302c462d1517db265cc2a94|Fixed import.|Tue, 2 Feb 2016 23:47:44 +0800|Tue, 2 Feb 2016 23:47:44 +0800
+96794f824267b001bfd6c344542f9145b6fdcdec|Big refactoring and reformatting.|Tue, 2 Feb 2016 23:27:46 +0800|Tue, 2 Feb 2016 23:27:46 +0800
+8951901fa82eedfd60412d5050fb9b499345c6f7|Updated dependencies.|Sat, 23 Jan 2016 20:00:23 +0800|Sat, 23 Jan 2016 20:00:23 +0800
+7d6302bc9bace260bc759589a0cc5fa5f47bd5e3|Simplified the main executable. Moved commands to a separate package.|Sat, 23 Jan 2016 19:58:48 +0800|Sat, 23 Jan 2016 19:58:48 +0800
+8d4baee34306995d1cb37df06b4b8cb649847070|Fixed etcd URL log value in config factory.|Sat, 23 Jan 2016 19:53:39 +0800|Sat, 23 Jan 2016 19:53:39 +0800
+055b1f354b74c23e74eecfe22af485ada2a4a53d|Do not return from config reloading goroutine on error. Continue trying.|Fri, 22 Jan 2016 23:55:18 +0800|Fri, 22 Jan 2016 23:55:18 +0800
+d11d3c6b7049bde88f7c4f0b7f469ff465e927e3|Refactored config factory.|Thu, 21 Jan 2016 23:31:20 +0800|Thu, 21 Jan 2016 23:31:20 +0800
+a64055ebe236d46804d6993dcdfb957069150060|Improved config factory.|Thu, 21 Jan 2016 22:15:43 +0800|Thu, 21 Jan 2016 22:15:43 +0800
+873c0e5fc6455d6618bb19264cd20e660fef50f7|Removed viper. Using official etcd client instead to reload config.|Thu, 21 Jan 2016 22:12:17 +0800|Thu, 21 Jan 2016 22:12:17 +0800
+04617a703efd4a40fe20563287eb99a600b68513|Update README.md|Tue, 19 Jan 2016 19:33:48 +0800|Tue, 19 Jan 2016 19:33:48 +0800
+ee8daad79ecee6dc6bf4a06d2f253c2f9c750e9c|Updated deps.|Mon, 18 Jan 2016 21:40:40 +0800|Mon, 18 Jan 2016 21:40:40 +0800
+0f4a32a38a75ed03a7b11927298e8ef58b450d74|Update README.md|Mon, 18 Jan 2016 21:34:32 +0800|Mon, 18 Jan 2016 21:34:32 +0800
+70712b0b2c9f2f017baf50223e3158e7ac09e89e|Updated deps.|Mon, 18 Jan 2016 13:03:07 +0800|Mon, 18 Jan 2016 13:03:11 +0800
+4cbb35a8278df77d4bd4c8bed3a839c790f10cd1|Update factory.go|Thu, 14 Jan 2016 20:06:37 +0800|Thu, 14 Jan 2016 20:06:37 +0800
+a1aee70c35bc54921af56542f65eee014eb18000|Updated dependencies.|Thu, 14 Jan 2016 20:03:20 +0800|Thu, 14 Jan 2016 20:03:20 +0800
+d5ff4416ddd1050f47c722c8338607c58d002f02|Updated dependencies.|Thu, 14 Jan 2016 01:20:18 +0800|Thu, 14 Jan 2016 01:20:18 +0800
+90e84acea9559fc9e61ce31c4ecb8b16a87e3a7f|Update suite_test.go|Thu, 14 Jan 2016 01:19:24 +0800|Thu, 14 Jan 2016 01:19:24 +0800
+229d09419b60772a1da9f3f3540547b9deec9cd8|Update suite_test.go|Thu, 14 Jan 2016 01:18:42 +0800|Thu, 14 Jan 2016 01:18:42 +0800
+9452d0a64af403b8ab7a95dabd7e97f04b5c0d05|Big refactoring.|Mon, 11 Jan 2016 23:02:44 +0800|Mon, 11 Jan 2016 23:02:44 +0800
+6f38df7163036eaf03edc99762cf148d532747af|Updated dependencies.|Sun, 10 Jan 2016 02:17:45 +0800|Sun, 10 Jan 2016 02:17:45 +0800
+05abe0ef354579d80c3d6c05193508b09d5fd905|Refactor access token response.|Thu, 7 Jan 2016 23:18:08 +0800|Thu, 7 Jan 2016 23:29:20 +0800
+f59d94a1791a49fbd3d5ae2cab7440291d9bed26|Updated dependencies.|Thu, 7 Jan 2016 22:26:26 +0800|Thu, 7 Jan 2016 22:26:26 +0800
+ee9c2edbbfdb695f79c6c7f9a8a3c548b9834589|Refactoring and bug fixes.|Thu, 7 Jan 2016 20:16:20 +0800|Thu, 7 Jan 2016 20:16:20 +0800
+b88187b63cd3206460a4fd282f87d254f3267f9e|Renamed session interface file.|Tue, 5 Jan 2016 22:56:18 +0800|Tue, 5 Jan 2016 22:56:18 +0800
+2cd1a65c5e631511142897d03ea3cab0a681afe0|Removed accidentally copy pasted values from other project.|Tue, 5 Jan 2016 22:47:29 +0800|Tue, 5 Jan 2016 22:47:29 +0800
+fd7fd263f41472c17b5309eae22b3c526a0b42db|Docker entrypoint moved to a script.|Tue, 5 Jan 2016 22:47:14 +0800|Tue, 5 Jan 2016 22:47:14 +0800
+1fb837fc6d74649d323c9bfb15749fb12769bc92|Refactoring.|Tue, 5 Jan 2016 22:44:05 +0800|Tue, 5 Jan 2016 22:44:05 +0800
+74e31c7a63148129d228e7903aa683802f219cb3|Updated dependencies.|Tue, 5 Jan 2016 18:14:04 +0800|Tue, 5 Jan 2016 18:14:04 +0800
+00a6a158d79418ba3be43037d0f53ef667727548|Updated gorm.|Sun, 3 Jan 2016 23:43:05 +0800|Sun, 3 Jan 2016 23:43:05 +0800
+5e098a611ab0245f5d607e9d1e8fb42af16effde|Update .travis.yml|Sun, 3 Jan 2016 12:22:33 +0800|Sun, 3 Jan 2016 12:22:33 +0800
+9d158bec76af8904b929f515b6109a23c1972f54|Updated dependencies.|Sat, 2 Jan 2016 17:17:46 +0800|Sat, 2 Jan 2016 17:17:46 +0800
+fd4b951760f4fdc71063363ee09cc71560893e22|Updated dependencies.|Sat, 2 Jan 2016 15:52:59 +0800|Sat, 2 Jan 2016 15:52:59 +0800
+dec23e16a771af83b8099dcea007d6ba67982180|Updated dependencies.|Wed, 30 Dec 2015 23:05:38 +0800|Wed, 30 Dec 2015 23:05:38 +0800
+7ff3515ec44694dc7350234a36c7f45b765da467|Refactored service mock. Updated dependencies.|Wed, 30 Dec 2015 14:07:36 +0800|Wed, 30 Dec 2015 14:07:36 +0800
+fdc29a297a25949a86820f4b36261f37ba64350b|Updated minor version of Go in Travis config to 1.5.2.|Sun, 27 Dec 2015 00:38:19 +0800|Sun, 27 Dec 2015 00:38:19 +0800
+39ae86b08cfb954977ff4895a32f92a3489ed932|Updated dependencies.|Sun, 27 Dec 2015 00:30:04 +0800|Sun, 27 Dec 2015 00:30:04 +0800
+3da0b08be6d5983d0bb5f8dd5f85ad4b2efd69ba|Update README.md|Sat, 26 Dec 2015 18:07:02 +0800|Sat, 26 Dec 2015 18:07:02 +0800
+020b98e34a4541fbf833385ecde30272109fb656|Merge branch 'master' of https://github.com/RichardKnop/go-oauth2-server|Sat, 26 Dec 2015 15:44:38 +0800|Sat, 26 Dec 2015 15:44:38 +0800
+e6330b006c67befeb8bd25af506ca19c36b05a3e|Fixing README formatting.|Sat, 26 Dec 2015 15:44:28 +0800|Sat, 26 Dec 2015 15:44:28 +0800
+e406f8b4ee237c1321887aa91115eb3d53a94411|Update routes_test.go|Sat, 26 Dec 2015 15:38:31 +0800|Sat, 26 Dec 2015 15:38:31 +0800
+1690ed55c780f3227f90d92cc27423f45221395c|Typo in README.|Thu, 24 Dec 2015 21:17:39 +0800|Thu, 24 Dec 2015 21:17:39 +0800
+19b4d564bb2fd87e1f859b20c06bc67f85b6a3fa|Updated dependencies.|Thu, 24 Dec 2015 21:05:31 +0800|Thu, 24 Dec 2015 21:05:31 +0800
+55f1c8479aed9e93b1f6bb0b2391e34848df8c3a|Updated README.|Thu, 24 Dec 2015 21:03:22 +0800|Thu, 24 Dec 2015 21:03:22 +0800
+b3e0a8dec07199c5451e713789960453da3ec92c|Added Dockerfile.|Thu, 24 Dec 2015 21:02:06 +0800|Thu, 24 Dec 2015 21:02:06 +0800
+6faa7ccd5c9c2921c58f010874deeca887517e57|Major refactoring.|Thu, 24 Dec 2015 21:00:46 +0800|Thu, 24 Dec 2015 21:00:46 +0800
+6bbb742266b25790a512d8bff237920fda10f3e2|Update README.md|Thu, 17 Dec 2015 19:34:14 +0800|Thu, 17 Dec 2015 19:34:14 +0800
+8627d0068cf5263fb9dec513dec67d1f27193a17|Updated dependencies.|Thu, 10 Dec 2015 23:07:18 +0800|Thu, 10 Dec 2015 23:07:18 +0800
+352fddbfc2c8a844062457f58cf53bfff4b67c9e|Migration model now extends gorm.Model.|Thu, 10 Dec 2015 00:35:26 +0800|Thu, 10 Dec 2015 00:35:26 +0800
+a52c5147f9a4c239e82383effde8ec9cc9e938e7|Fixed test data section of README.|Wed, 9 Dec 2015 10:53:27 +0800|Wed, 9 Dec 2015 10:53:27 +0800
+b975031618b726f56ab7a4ff9144f54ceb13b60a|All models now extend gorm.Model.|Wed, 9 Dec 2015 10:50:03 +0800|Wed, 9 Dec 2015 10:50:03 +0800
+7845c327b38c824ea64b19ba285c6f83489a3661|Update response.go|Tue, 8 Dec 2015 18:05:02 +0800|Tue, 8 Dec 2015 18:05:02 +0800
+ffc1a159abeaa7d5fc132729bbaf0ef2562ba533|Renamed package json to response. Added created_at/updated_at timestamps back to models, prefixed table names with oauth_.|Mon, 7 Dec 2015 23:22:02 +0800|Mon, 7 Dec 2015 23:27:09 +0800
+26f3fab14753b96c117c88ad8c4121c4fe52988e|Update json.go|Mon, 7 Dec 2015 23:07:07 +0800|Mon, 7 Dec 2015 23:07:07 +0800
+1909a32ae9ebc0e8952e0751997c57ac6d3bbc37|Update handlers.go|Mon, 7 Dec 2015 17:02:44 +0800|Mon, 7 Dec 2015 17:02:44 +0800
+ff80eab916b2d7b52e959eb9ad39a8b53d5eaec9|Update migrations.go|Mon, 7 Dec 2015 13:09:52 +0800|Mon, 7 Dec 2015 13:09:52 +0800
+89c4c2c823a3b824d93027043b6564332f89cd5c|More thorough session test.|Tue, 24 Nov 2015 18:48:00 +0800|Tue, 24 Nov 2015 18:48:00 +0800
+ba6931c898c697699e31f348b062f2642f0dfd3e|Mini import formatting refactor.|Tue, 24 Nov 2015 03:08:28 +0800|Tue, 24 Nov 2015 03:08:28 +0800
+12a4495ddde3544dc51b09280035a03a9b931657|Session test refactored a bit.|Tue, 24 Nov 2015 01:07:31 +0800|Tue, 24 Nov 2015 01:07:31 +0800
+88a26a82fda930d73ccbe6b1224fc5294c43794d|Renamed errUserSessonNotStarted to errSessonNotStarted.|Tue, 24 Nov 2015 01:01:01 +0800|Tue, 24 Nov 2015 01:01:01 +0800
+e32de8a5d2961649fcefd26745e5989bea7c9710|Refactored the session package. Started writing tests for it too.|Tue, 24 Nov 2015 00:59:13 +0800|Tue, 24 Nov 2015 00:59:13 +0800
+295ecafd7f8246fb7a9826545d0aab832db051ac|Improved routes test to check middleware registration.|Mon, 23 Nov 2015 18:02:45 +0800|Mon, 23 Nov 2015 18:02:45 +0800
+64381ce661df402295fc9e64ff60ac61dc026b9e|Added tests for routes package.|Mon, 23 Nov 2015 16:04:18 +0800|Mon, 23 Nov 2015 16:04:18 +0800
+0c55ba6ebe3353bc6c7ff440764ba899c5175889|Removed duplicate route building code and moved it to the routes package.|Sun, 22 Nov 2015 17:48:08 +0800|Sun, 22 Nov 2015 17:48:08 +0800
+6b73647648aa65ef725211727a32889b1d1966be|Updated README.md|Sat, 21 Nov 2015 20:04:18 +0800|Sat, 21 Nov 2015 20:04:18 +0800
+b3e2bfdd84713f6185735129bb480a3a67da05f2|Update README.md|Fri, 20 Nov 2015 19:44:25 +0800|Fri, 20 Nov 2015 19:44:25 +0800
+5918d185ac091f340463fac6fb8e10472a7d756f|Updated README.md|Fri, 20 Nov 2015 19:21:31 +0800|Fri, 20 Nov 2015 19:21:31 +0800
+f71aefeff442c54811981df3ffa6e6fb624afbaa|Moved session keys to internal variables to avoid repeating the same string over.|Fri, 20 Nov 2015 01:45:15 +0800|Fri, 20 Nov 2015 01:45:15 +0800
+44dad38c6d524a5d9fb010c56a01e74c6a1fa984|Fixed test name typo|Thu, 19 Nov 2015 04:04:01 +0800|Thu, 19 Nov 2015 04:04:01 +0800
+e7f745384d08d60e68582adef2b6b5601e7fcc79|Changed /oauth/api/v1/tokens to /api/v1/oauth/tokens.|Thu, 19 Nov 2015 03:47:15 +0800|Thu, 19 Nov 2015 03:47:18 +0800
+b2fd23001862b6a63ed23271f44f59d82711638c|More tests. Also defined oauth.ServiceInterface.|Thu, 19 Nov 2015 01:39:55 +0800|Thu, 19 Nov 2015 01:39:55 +0800
+813a201976c7d9b5df5ec7e5e6bf67937308460d|Update README.md|Wed, 18 Nov 2015 21:26:26 +0800|Wed, 18 Nov 2015 21:26:26 +0800
+fc83e7de82a1b6606dc746beb70f1169aea874ae|Update README.md|Wed, 18 Nov 2015 21:18:11 +0800|Wed, 18 Nov 2015 21:18:11 +0800
+f09efd3a80b0ded1281366e6cd362bdac1431880|Update README.md|Wed, 18 Nov 2015 21:15:53 +0800|Wed, 18 Nov 2015 21:15:53 +0800
+8b1d6d54097424c6c76e8e9d6d51c03001fa2980|Update README.md|Wed, 18 Nov 2015 21:09:15 +0800|Wed, 18 Nov 2015 21:09:15 +0800
+cb833500f14238b0137f653a857e960079d1f0a3|Update README.md|Wed, 18 Nov 2015 21:04:51 +0800|Wed, 18 Nov 2015 21:04:51 +0800
+dd6e670308c99c20775f38718a8137a947659267|Update README.md|Wed, 18 Nov 2015 21:03:20 +0800|Wed, 18 Nov 2015 21:03:20 +0800
+976dee121f008e984e08f23bda8929b0ce6052e5|Added codeship badge.|Wed, 18 Nov 2015 21:01:17 +0800|Wed, 18 Nov 2015 21:01:17 +0800
+36a5fcb158c914afed04d40eb726887443f9cd28|codeship test|Wed, 18 Nov 2015 20:54:35 +0800|Wed, 18 Nov 2015 20:54:35 +0800
+98b7ca3e26d80d9452c48e52ab320f2cde51ba57|Implicit grant should return scope in the URL fragment as well.|Wed, 18 Nov 2015 20:03:39 +0800|Wed, 18 Nov 2015 20:03:39 +0800
+6ea55ef52f3ec0a370b1d93b535a1fa1ea0b3701|Made scope used in oauth tests more realistic.|Wed, 18 Nov 2015 20:02:28 +0800|Wed, 18 Nov 2015 20:02:28 +0800
+8d94f5e06aceda55c5508252288e23953d307820|Removed CreatedAt, UpdatedAt fields from oauth package models. Keep the oauth package minimal.|Wed, 18 Nov 2015 19:54:51 +0800|Wed, 18 Nov 2015 19:54:51 +0800
+9c0e06e9fce13e2a46f1e275eba9721e1c12f2fb|Made scope in examples in README file more realistic.|Wed, 18 Nov 2015 19:54:22 +0800|Wed, 18 Nov 2015 19:54:22 +0800
+b62a1402c8c64a4481c2eb9d8c4dd4f7f05434b6|Better names for variables.|Wed, 18 Nov 2015 14:50:18 +0800|Wed, 18 Nov 2015 14:50:18 +0800
+fcd07d914fe9bbc921146b4a509d3c1687a86f64|Update README.md|Wed, 18 Nov 2015 14:44:00 +0800|Wed, 18 Nov 2015 14:44:00 +0800
+ef2ce82872ef5064019ef19815e62445609f2bb6|Update README.md|Wed, 18 Nov 2015 14:41:25 +0800|Wed, 18 Nov 2015 14:41:25 +0800
+55cd4786637a2726ae2e5e20d9e83fbd46df11de|Added mention of Postgres and etcd dependencies to the top of the README.md.|Wed, 18 Nov 2015 14:37:47 +0800|Wed, 18 Nov 2015 14:37:47 +0800
+26dee22cdf53b707719571652cc751fa07a777e4|Updated license to Mozilla Public License, version 2.0.|Wed, 18 Nov 2015 14:23:26 +0800|Wed, 18 Nov 2015 14:23:26 +0800
+33fac40a157cd2bdce725abc28ffd0d698472835|Added license.|Wed, 18 Nov 2015 14:20:36 +0800|Wed, 18 Nov 2015 14:20:36 +0800
+5467316f434f54754f2134808250e351ddef6b9e|Fixed some missing return statemens and comments.|Wed, 18 Nov 2015 05:53:43 +0800|Wed, 18 Nov 2015 05:53:43 +0800
+2a630c48b9fe9d0b9af258dc11c4f71992e68f4b|Refactoring. Better comments. Faster tests.|Wed, 18 Nov 2015 05:46:25 +0800|Wed, 18 Nov 2015 05:46:25 +0800
+de1427aeaf57ac90182dfee4c05284ea1eae8cf4|Big refactoring. Moved null value handling to util module. Added more comments.|Wed, 18 Nov 2015 02:25:43 +0800|Wed, 18 Nov 2015 02:25:43 +0800
+b980e8986a9266fba35d7c47796e72d9fda02fc8|Authorization code grant now checks redirect URI if it was used during the authorize flow as per the spec. Updated dependencies.|Wed, 18 Nov 2015 00:39:47 +0800|Wed, 18 Nov 2015 00:39:47 +0800
+d123bf02c78bb5e44a5bcb7d679a2a2c189837f5|Fixed a tiny README typo.|Tue, 17 Nov 2015 18:32:13 +0800|Tue, 17 Nov 2015 18:32:13 +0800
+9f96e4606a103af8e7d366648ba110f2bcf1bad6|Fixed README nav bug.|Tue, 17 Nov 2015 18:31:27 +0800|Tue, 17 Nov 2015 18:31:27 +0800
+b5e52d10c2738678df3aa9d93a61af0d9c61b27c|Refactoring of authorize flow to be according to the spec. Big README.md refactor.|Tue, 17 Nov 2015 18:30:26 +0800|Tue, 17 Nov 2015 18:30:26 +0800
+08f01257b2ebb876b033f16fa44df2fdf63bb502|Authorization flow finally working end to end. Both code and token response types up and running.|Tue, 17 Nov 2015 07:16:42 +0800|Tue, 17 Nov 2015 07:16:42 +0800
+a3ff21512e0e6b09890adddc951daa9c563b5560|Made big progress. Authorize flow is almost finished. Just needs more testing.|Tue, 17 Nov 2015 05:21:43 +0800|Tue, 17 Nov 2015 05:21:43 +0800
+251379574ee284e4af834ac7d87214dfce264e0a|Moved some common code to util.go.|Mon, 16 Nov 2015 22:54:26 +0800|Mon, 16 Nov 2015 22:54:26 +0800
+c7ef608ea29572fea1ff514422af370e1f978455|More progress with web views.|Mon, 16 Nov 2015 22:27:08 +0800|Mon, 16 Nov 2015 22:27:08 +0800
+e3b09c0f6a1590f66def2a9a5a3ff5b0a88fbdd2|Return actual error if r.ParseForm() fails.|Mon, 16 Nov 2015 20:29:13 +0800|Mon, 16 Nov 2015 20:29:13 +0800
+35a15c99aa04fe588e100cae5e3f40e9b8c8166c|Refactoring. r.ParseForm called only once.|Mon, 16 Nov 2015 20:15:44 +0800|Mon, 16 Nov 2015 20:15:44 +0800
+84e22a6047f6d24cb704621faf263519b3f1d81f|More session progress. IsLoggedIn method falls back to refresh token now.|Mon, 16 Nov 2015 17:32:53 +0800|Mon, 16 Nov 2015 17:32:53 +0800
+99cc68f4010f0f9d02907ea2015950951917deb1|Session refactoring.|Mon, 16 Nov 2015 16:09:07 +0800|Mon, 16 Nov 2015 16:09:07 +0800
+452ab545b81342582c18165f291bc50b8747b1a2|Moved the session service to a separate module.|Mon, 16 Nov 2015 16:07:40 +0800|Mon, 16 Nov 2015 16:07:40 +0800
+3bf9a4edcfaafc94ff68137bb7dae8a9b8e87e45|Session progress. Added sessionService.isLoggedIn method.|Mon, 16 Nov 2015 15:42:14 +0800|Mon, 16 Nov 2015 15:42:14 +0800
+e3a910245130b11efb0f3da914d24d999d2684e7|More refactoring. Trying to avoid shadowing of vars.|Mon, 16 Nov 2015 03:24:26 +0800|Mon, 16 Nov 2015 03:24:26 +0800
+eca046722966b879293bc80e3a73b15fc5b9eefe|Small refactoring.|Sun, 15 Nov 2015 23:19:37 +0800|Sun, 15 Nov 2015 23:19:37 +0800
+c37c8b981e46d27de36c90857d74eed1d505aa3e|Saving progress with the web module.|Sun, 15 Nov 2015 19:32:04 +0800|Sun, 15 Nov 2015 19:32:04 +0800
+35385e52267f1d46ba1657269be87bbfe63b0f5d|Make sure the scopes are sorted alphabetically.|Sat, 14 Nov 2015 06:20:07 +0800|Sat, 14 Nov 2015 06:20:07 +0800
+f1929480c276fb27f783ffd709a145c916e66d64|Updated README.md|Sat, 14 Nov 2015 06:13:44 +0800|Sat, 14 Nov 2015 06:13:44 +0800
+73720993186c4c20e5e7ee800c0bf8baf86c9e58|Added few comments|Sat, 14 Nov 2015 06:11:44 +0800|Sat, 14 Nov 2015 06:11:44 +0800
+a5ef56236b315e67485efa99c70f434ddebff628|Moved another function to the util module.|Sat, 14 Nov 2015 06:09:07 +0800|Sat, 14 Nov 2015 06:09:07 +0800
+6f3c02f139db116c0d1d18accfe6daa2e7997873|Make sure scopes are ordered when selected from database. Move StringInSlice to a util module.|Sat, 14 Nov 2015 05:54:21 +0800|Sat, 14 Nov 2015 05:54:21 +0800
+3dd01f5e3273d4859dc872ea6d86779a17fefb58|Added Authenticate method.|Sat, 14 Nov 2015 05:32:24 +0800|Sat, 14 Nov 2015 05:53:42 +0800
+b7930890f0ac03aa934e4d354452905795404c47|Better and more robust tests|Sat, 14 Nov 2015 04:39:52 +0800|Sat, 14 Nov 2015 04:39:52 +0800
+40ea942b75b761f8a1e15df00cb6d03b70a889c7|Making tests more robust.|Fri, 13 Nov 2015 22:40:36 +0800|Fri, 13 Nov 2015 22:40:36 +0800
+bf05aaf66de83647aaf949c0f59dd78369e29670|More unit tests|Fri, 13 Nov 2015 22:07:04 +0800|Fri, 13 Nov 2015 22:07:04 +0800
+c42e6a67aee451ab93bcbd4bc93cfb1207bc6b20|Refactoring. Renamed grant files to make it more obvious they are grant type implementations.|Fri, 13 Nov 2015 21:31:16 +0800|Fri, 13 Nov 2015 21:31:16 +0800
+9ce97bab5e9dafcf9202373a66fa89e66f4a31bb|Little bit more refactoring.|Fri, 13 Nov 2015 03:43:12 +0800|Fri, 13 Nov 2015 03:43:12 +0800
+b5eb42b626bfc0811039cc6d1d214eae893a4f1e|More progress with web views. Using Twitter bootstrap now plus base layout and templates.|Fri, 13 Nov 2015 03:26:27 +0800|Fri, 13 Nov 2015 03:26:27 +0800
+814db16defcdea8842bcffc82218b7c0338f8dec|Session refactoring. More config options.|Fri, 13 Nov 2015 01:49:51 +0800|Fri, 13 Nov 2015 01:49:51 +0800
+97813476eee7b43e559eeb4da8ad4690ee319ec2|Forgot to call session.save(r, w)|Thu, 12 Nov 2015 21:23:59 +0800|Thu, 12 Nov 2015 21:23:59 +0800
+73c8d57729feb57cdaefeb8f90b3c6b66f207a36|Added securecookie and sessions to deps.|Thu, 12 Nov 2015 20:39:46 +0800|Thu, 12 Nov 2015 20:39:46 +0800
+99ed4f763785347db5d15ca645a1d5d914283170|More progress with the web module. Setting up sessions now.|Thu, 12 Nov 2015 20:36:37 +0800|Thu, 12 Nov 2015 20:36:37 +0800
+424dc98d18414cf19b08a3c87a47af07bbff2b05|Fixed a small error.|Thu, 12 Nov 2015 02:44:51 +0800|Thu, 12 Nov 2015 02:44:51 +0800
+d5964b945f751040515327d8f2cba9e96742d0d6|A little migrations refactoring.|Thu, 12 Nov 2015 02:20:42 +0800|Thu, 12 Nov 2015 02:20:42 +0800
+ddc2941d4bdb9dda113f183d70bc8d07431d268d|Fixed migrations bug.|Thu, 12 Nov 2015 02:18:56 +0800|Thu, 12 Nov 2015 02:18:56 +0800
+c01690e205962e871a983c30338e9c6585e55acf|Refactoring. Using new instead of &{} literal.|Thu, 12 Nov 2015 02:10:16 +0800|Thu, 12 Nov 2015 02:10:16 +0800
+8f56830e7513a7e1ad01746d514f7bb0626c7074|Routes refactoring.|Wed, 11 Nov 2015 21:21:51 +0800|Wed, 11 Nov 2015 21:21:51 +0800
+07ecf0ea5b190fde8adff6258f1d3700acd71080|Injecting oauth service dependency to accounts service.|Wed, 11 Nov 2015 21:13:46 +0800|Wed, 11 Nov 2015 21:13:46 +0800
+ae41c4e21c5c4b013a862b7cfb7b31344f199af7|Refactoring. Started working on login, register and authorize web pages.|Wed, 11 Nov 2015 19:09:11 +0800|Wed, 11 Nov 2015 19:09:11 +0800
+b0112a9a961fa65639292371de4b54fd2061a23e|Adding routes for web pages.|Wed, 11 Nov 2015 03:36:00 +0800|Wed, 11 Nov 2015 03:36:00 +0800
+d6e6c5a93749dbe54f6b0ffc9631358de287c4a1|Started working on web pages.|Wed, 11 Nov 2015 03:34:27 +0800|Wed, 11 Nov 2015 03:34:27 +0800
+334f4f1b263ffcdad58a6ca62f78a0e87eceaebc|Fixed bug in README.md navigation.|Wed, 11 Nov 2015 02:41:46 +0800|Wed, 11 Nov 2015 02:41:46 +0800
+fd41b47efd00653e34bb8a1fa433b53552509747|Updated README.md|Wed, 11 Nov 2015 02:39:05 +0800|Wed, 11 Nov 2015 02:39:05 +0800
+b20cdc64023363b99dd285d0ba02e098f78dca62|Updated README.md|Wed, 11 Nov 2015 02:29:49 +0800|Wed, 11 Nov 2015 02:29:49 +0800
+309cb6422378df4f3fec785a5066bcb2aa39c7ee|fixed json test error.|Wed, 11 Nov 2015 02:13:37 +0800|Wed, 11 Nov 2015 02:13:37 +0800
+608fbc4e9dbcb162f8eb43d49fcaf44c2fc33751|Big refactoring. Switched go-json-rest for negroni.|Wed, 11 Nov 2015 02:12:04 +0800|Wed, 11 Nov 2015 02:12:04 +0800
+f8d221a2528cbc7701514d6f074507fc5f063801|Fixed tests.|Tue, 10 Nov 2015 21:17:05 +0800|Tue, 10 Nov 2015 21:17:05 +0800
+9d219409ae2b42572fce19b4e82f784c627f9f47|Big refactoring. Moved config and db objects to a struct to avoid passing them around.|Tue, 10 Nov 2015 20:18:28 +0800|Tue, 10 Nov 2015 20:18:28 +0800
+77dbfed72560be1ce9cbcad7164f9b3713506441|Improved unit tests.|Mon, 9 Nov 2015 22:33:54 +0800|Mon, 9 Nov 2015 22:33:54 +0800
+d8844e07ef6aac9d4149d05daea6805bf9718684|Refactoring of where conditions to use objects instead of string replacements. Work in progress on more tests.|Mon, 9 Nov 2015 22:15:27 +0800|Mon, 9 Nov 2015 22:15:27 +0800
+c919d12679b9b2c28ebaa602b2f5ea655d6f6f35|refactoring|Mon, 9 Nov 2015 06:22:38 +0800|Mon, 9 Nov 2015 06:22:38 +0800
+d155448db3853ef6ff8ca024e49a388b05b35c20|Adding authorization_code and implicit handlers.|Mon, 9 Nov 2015 06:14:57 +0800|Mon, 9 Nov 2015 06:14:57 +0800
+02a0ac84c97d41da3cc8ff96dd875bdf34575370|tiny refactor|Mon, 9 Nov 2015 06:11:37 +0800|Mon, 9 Nov 2015 06:11:37 +0800
+9a44ce5249c6107f82e0df9810c1fb8264ede167|Adding create_at and updated_at columns.|Mon, 9 Nov 2015 06:04:07 +0800|Mon, 9 Nov 2015 06:04:07 +0800
+4605abbc392b2ceb119359e3ad14de9efd79568c|Fixed foreign key NULL issue by using sql.NullInt64.|Mon, 9 Nov 2015 05:56:08 +0800|Mon, 9 Nov 2015 05:56:08 +0800
+dc8375a203a37fa262a039701575141adbf10628|Big refactor of refresh tokens.|Mon, 9 Nov 2015 05:16:49 +0800|Mon, 9 Nov 2015 05:16:49 +0800
+e10b84dddeb6bf42265cdde136525d76c7e505df|Bit improved unit test.|Sun, 8 Nov 2015 22:33:14 +0800|Sun, 8 Nov 2015 22:33:14 +0800
+80c96002bbe44f07ae0af7b016f194e0950137c4|Some refactoring.|Sun, 8 Nov 2015 22:30:34 +0800|Sun, 8 Nov 2015 22:30:34 +0800
+ba59de12ca21102290b7156bd8a48827fd4a90c2|More tests, refactored grantAccessToken for easier testing, fixed scope bug when refreshing token.|Sun, 8 Nov 2015 22:24:16 +0800|Sun, 8 Nov 2015 22:24:16 +0800
+01e7647dd5e297a9b546fc69490be1dcf6cca98f|Refactoring and more refresh token tests.|Sun, 8 Nov 2015 18:43:15 +0800|Sun, 8 Nov 2015 18:43:15 +0800
+662f47144171614d3e415e2d38af27333722b26e|Updated README.md|Sun, 8 Nov 2015 04:26:33 +0800|Sun, 8 Nov 2015 04:26:33 +0800
+c9794e8cf220437f2a74d8f3ce11588b58b8e5ef|Minor refactoring.|Sun, 8 Nov 2015 02:42:39 +0800|Sun, 8 Nov 2015 02:42:39 +0800
+16e0773ce77c3b5ab211d2555dbe75c90f652c90|Lots of refactoring (mainly properly commenting code) plus new tests.|Sun, 8 Nov 2015 02:24:50 +0800|Sun, 8 Nov 2015 02:24:50 +0800
+e881c81f46e6380af2c52236b033d9b6e2982872|Moved stringInSlice helper function to utils.go.|Sat, 7 Nov 2015 21:41:02 +0800|Sat, 7 Nov 2015 21:41:02 +0800
+86f98e886c23d655b717752aef055dee60bd79fa|Removed the users part from README.md as currently it made no sense.|Sat, 7 Nov 2015 21:38:36 +0800|Sat, 7 Nov 2015 21:38:36 +0800
+75eab812e4e338ee068a27465a9ea0a429390f64|Renamed oauth2 to just oauth.|Sat, 7 Nov 2015 21:37:32 +0800|Sat, 7 Nov 2015 21:37:32 +0800
+09d84beba4ca7fbe5b9f3187ddb566de2af9bdae|More refactoring and tests.|Sat, 7 Nov 2015 20:30:06 +0800|Sat, 7 Nov 2015 20:30:06 +0800
+e0bcc73bdd10aafb579ae127f2b88cfbdaddd898|Massive refactoring.|Sat, 7 Nov 2015 19:25:13 +0800|Sat, 7 Nov 2015 19:25:13 +0800
+a6e62805ba2607c69f2fd19ddb0f654219587394|Started testing refresh_token grant. Also deleting old access tokens when granting a new one.|Sat, 7 Nov 2015 18:59:34 +0800|Sat, 7 Nov 2015 18:59:34 +0800
+413550f51ee3e987018c12cf8bede47d1829ed68|Updated README.md|Sat, 7 Nov 2015 03:42:16 +0800|Sat, 7 Nov 2015 03:42:16 +0800
+69c455eeb9d20154e4f08095f16a4d20a9d7104d|Update config.go|Sat, 7 Nov 2015 03:35:44 +0800|Sat, 7 Nov 2015 03:35:44 +0800
+34d90e024320b1aeb83b32cee0eeca2bc298478d|Simplified .travis.yml|Sat, 7 Nov 2015 03:33:35 +0800|Sat, 7 Nov 2015 03:33:35 +0800
+33c7b73845c4ad3a3fccbc07b36223207e7ba70e|Config has sensible defaults without etcd so Travis works.|Sat, 7 Nov 2015 03:32:02 +0800|Sat, 7 Nov 2015 03:32:02 +0800
+c7c60a26e96b5c2db96d1d0f1d80f191b405aed9|Updated .travis.yml|Sat, 7 Nov 2015 03:13:09 +0800|Sat, 7 Nov 2015 03:13:09 +0800
+0c903217201414ff8c4f1c56f39224f9e3248ed1|Updated .travis.yml|Sat, 7 Nov 2015 03:12:20 +0800|Sat, 7 Nov 2015 03:12:20 +0800
+cb1b847f7134ec3c248824912eedb4ff6cb638b4|Updated README.md|Sat, 7 Nov 2015 03:11:16 +0800|Sat, 7 Nov 2015 03:11:16 +0800
+7e116d523aeb630e74d8de93c1d37e37592a781b|Update .travis.yml|Sat, 7 Nov 2015 03:09:02 +0800|Sat, 7 Nov 2015 03:09:02 +0800
+22bb21803e37a16b3ded003771fd30fac921ff4a|Update .travis.yml|Sat, 7 Nov 2015 03:01:06 +0800|Sat, 7 Nov 2015 03:01:06 +0800
+c7b56bc2736fdfb7c046cae049c93130edd101e8|Update .travis.yml|Sat, 7 Nov 2015 02:58:58 +0800|Sat, 7 Nov 2015 02:58:58 +0800
+7d650f211f2d245291374476e9fa31866173981e|Update .travis.yml|Sat, 7 Nov 2015 02:57:05 +0800|Sat, 7 Nov 2015 02:57:05 +0800
+e9a502dac7274c5dd3569e18d2b3649d1e50d51c|Fixing travis|Sat, 7 Nov 2015 02:54:42 +0800|Sat, 7 Nov 2015 02:54:42 +0800
+329bdb589df5a58b56512a17e9779529eaebdc7c|Updated dependencies.|Sat, 7 Nov 2015 02:53:11 +0800|Sat, 7 Nov 2015 02:53:11 +0800
+e59accdb5c1a186d19af9a9f2b7e88f29f6382c2|Fixed .travis.yml syntax error.|Sat, 7 Nov 2015 02:52:48 +0800|Sat, 7 Nov 2015 02:52:48 +0800
+cd8dc627c11b676925f4d0c66a9d0c234ee96ee1|Moved configuration to etcd|Sat, 7 Nov 2015 02:49:45 +0800|Sat, 7 Nov 2015 02:49:45 +0800
+21d0382daee772f4d8c093cb9c0303aac12308b9|Updated README.md|Sat, 7 Nov 2015 01:43:30 +0800|Sat, 7 Nov 2015 01:43:30 +0800
+15354b922035b01daacc49fe0ad62aa4752c2484|Tests for client credentials grant.|Sat, 7 Nov 2015 01:36:53 +0800|Sat, 7 Nov 2015 01:36:53 +0800
+bd3e2b063616d192c668bb218f91964688f31fae|More scope tests.|Sat, 7 Nov 2015 00:57:11 +0800|Sat, 7 Nov 2015 00:57:11 +0800
+d811597404b16b0b0687ebb4f22cf2c5c1f22331|Scope and tests refactoring.|Sat, 7 Nov 2015 00:50:40 +0800|Sat, 7 Nov 2015 00:50:40 +0800
+14dc0ba323dd43bc8206d65a525ce68d3cc22efa|Scope tests.|Sat, 7 Nov 2015 00:48:55 +0800|Sat, 7 Nov 2015 00:48:55 +0800
+cf54857e7dc6ecd1c2f6520b59ddbfd52c4bfc03|Fixed typos in README.md|Sat, 7 Nov 2015 00:36:47 +0800|Sat, 7 Nov 2015 00:36:47 +0800
+40fac6787181eeddc3b0519a3befbcef68354422|Working on scopes.|Sat, 7 Nov 2015 00:33:10 +0800|Sat, 7 Nov 2015 00:33:10 +0800
+dc87bb7bd5e02072be8d2a9b435443b25cd73f67|Increase test timeout.|Fri, 6 Nov 2015 23:08:00 +0800|Fri, 6 Nov 2015 23:08:00 +0800
+c02f181a30ef26690c0c1995813e82bb7a27e5ed|Splitting tests to separate files per grant type.|Fri, 6 Nov 2015 23:07:28 +0800|Fri, 6 Nov 2015 23:07:28 +0800
+087c5a45d9d5a659851ca41d047599ea74a2df29|Fixed scopes bug|Fri, 6 Nov 2015 23:05:34 +0800|Fri, 6 Nov 2015 23:05:34 +0800
+75a77785190b7bdf444a5744e45638f29cca43e4|Added created and updated timestamps to clients and users.|Fri, 6 Nov 2015 23:03:22 +0800|Fri, 6 Nov 2015 23:03:22 +0800
+1382dfd7364fb61438c602e5c326b4ea4afbd436|Split authentication to a separate file, unit tested password grant.|Fri, 6 Nov 2015 22:56:50 +0800|Fri, 6 Nov 2015 22:56:50 +0800
+3a9a4ca8cb0b8fbdcd831f08e99c9254b340b3fc|More tests, client authentication required for tokens endpoint as per the spec.|Fri, 6 Nov 2015 20:18:07 +0800|Fri, 6 Nov 2015 20:18:07 +0800
+01219a198410980d0da0b6401061fa2cb96474fd|Denormilised scope.|Fri, 6 Nov 2015 18:56:40 +0800|Fri, 6 Nov 2015 18:56:40 +0800
+f63038013688a8309ad3dfcaf1a2344b9bd6ded2|Prefixed env vars with OAUTH2_ and prefixed URIs with /oauth2/ as well.|Fri, 6 Nov 2015 18:16:37 +0800|Fri, 6 Nov 2015 18:16:37 +0800
+d64c0f3ea6abebd30f177e54d8a325dd4e26c1bd|Middleware and errors refactoring.|Fri, 6 Nov 2015 18:04:13 +0800|Fri, 6 Nov 2015 18:04:13 +0800
+3fdca38d99d2e2698cbab6790f9e63dfddb6067e|Updated README.md|Fri, 6 Nov 2015 03:44:21 +0800|Fri, 6 Nov 2015 03:44:21 +0800
+ce4c35b06bf11819c7e3ffe9709a19d46dfa48d2|Fixed travis button in README.md|Fri, 6 Nov 2015 03:43:20 +0800|Fri, 6 Nov 2015 03:43:20 +0800
+ff7db35c3b64393783af28650475514544d987ba|Added Travis button.|Fri, 6 Nov 2015 03:42:29 +0800|Fri, 6 Nov 2015 03:42:29 +0800
+f4682c2b7c84b572edd1c5019896aef6d868ce43|Updated .travis.yml|Fri, 6 Nov 2015 03:40:35 +0800|Fri, 6 Nov 2015 03:40:35 +0800
+fcb156961c407f81eed63b117baee400ba53f21d|Updated README.md|Fri, 6 Nov 2015 03:33:19 +0800|Fri, 6 Nov 2015 03:33:19 +0800
+dde9366bc98e42bb9113180ca4bbd50368fd84c7|Renamed repo to go-oauth2-server..|Fri, 6 Nov 2015 03:28:18 +0800|Fri, 6 Nov 2015 03:30:46 +0800
+0ec5b5e0ce790b2c262c3d2183eb60cdfd6c1fc9|Removed unique constraint from first/last name. Updated README.md.|Fri, 6 Nov 2015 03:16:34 +0800|Fri, 6 Nov 2015 03:16:34 +0800
+28f93d7fea03c685dca7859823c6302bd78c60f5|Unit tests passing.|Fri, 6 Nov 2015 03:12:59 +0800|Fri, 6 Nov 2015 03:12:59 +0800
+d6ba3bb9d98970c0753e0c4c2c243b6cf751811c|Updated README.md|Fri, 6 Nov 2015 02:47:58 +0800|Fri, 6 Nov 2015 02:47:58 +0800
+dda385c4ed29b735a6cc2f6d1972b21ce0db417e|Updated README.md|Fri, 6 Nov 2015 02:46:36 +0800|Fri, 6 Nov 2015 02:46:36 +0800
+6c935608180af1ca834db70877abe484aa2f01ee|Fixed bug in migrations. Updated README.md. Refactoring.|Fri, 6 Nov 2015 02:44:35 +0800|Fri, 6 Nov 2015 02:44:35 +0800
+c4578b6bbcf9eee98056fd8bef15a2e68f8da6e4|User registration unit tested. Tests pass.|Fri, 6 Nov 2015 01:47:10 +0800|Fri, 6 Nov 2015 01:47:10 +0800
+6514a647925e81ad90c20cd30e29c4adee39b124|Made migrations compatible with unit testing.|Thu, 5 Nov 2015 22:54:24 +0800|Thu, 5 Nov 2015 22:54:24 +0800
+d837e456ade4b005b529ff805dbfa5dd77e208ba|Refactoring to make testing easier.|Thu, 5 Nov 2015 22:04:23 +0800|Thu, 5 Nov 2015 22:04:23 +0800
+8ae53adc38c2dacc5a312507a7e6bc558986d2ce|Making handlers testable by injecting config and db via dependency injection.|Thu, 5 Nov 2015 15:03:38 +0800|Thu, 5 Nov 2015 15:03:38 +0800
+089c6a22452508477ab548c63e89ac510ecaf0e7|Added mention of testify to README.md|Wed, 4 Nov 2015 01:35:29 +0800|Wed, 4 Nov 2015 01:35:29 +0800
+a7dc5fb6e41ac5553a2a1f5f5087c93cde90beb9|Improved unit test for bad JSON payload for registerUser.|Wed, 4 Nov 2015 01:31:49 +0800|Wed, 4 Nov 2015 01:31:49 +0800
+f00299db0ede9d98469a22fcfcbebfbb3c5cbad3|Started using github.com/stretchr/testify to write unit tests.|Wed, 4 Nov 2015 01:23:23 +0800|Wed, 4 Nov 2015 01:23:23 +0800
+0d51383cb1c8e7dc9bdab820cdb623d844d9406a|Explicitely setting UTF-8 charset in Content-Type header.|Wed, 4 Nov 2015 01:00:58 +0800|Wed, 4 Nov 2015 01:00:58 +0800
+57e38baa1554134d07c1c00232a054c0dc984937|Added autor information.|Wed, 4 Nov 2015 00:48:39 +0800|Wed, 4 Nov 2015 00:48:39 +0800
+43514be07410ac21931c9836abafcb0b707d3ac4|Updated README.md|Wed, 4 Nov 2015 00:22:49 +0800|Wed, 4 Nov 2015 00:22:49 +0800
+4675f05c388fcd0a7b23995cc037ba4e9d45b4fc|Refactoring, more progress, updated dependencies.|Wed, 4 Nov 2015 00:16:09 +0800|Wed, 4 Nov 2015 00:16:09 +0800
+321a165cf61dabfa5a7bfb1c017f09a7461df827|Added comments to token lifetime variables and updated README.md|Tue, 3 Nov 2015 20:57:02 +0800|Tue, 3 Nov 2015 20:57:02 +0800
+2b11c023646d3a6f030ff86950142616cda4d18b|Updated README.md|Tue, 3 Nov 2015 20:54:43 +0800|Tue, 3 Nov 2015 20:54:43 +0800
+13b3291478f76c4f46d84c8a3889854075fda308|Fixed typo in README.md|Tue, 3 Nov 2015 20:53:32 +0800|Tue, 3 Nov 2015 20:53:32 +0800
+7d603c8960889a546e696a72b1dd640a4270025b|Fixed typo in README.md|Tue, 3 Nov 2015 20:52:50 +0800|Tue, 3 Nov 2015 20:52:50 +0800
+d997af92e589c30d973d92798766e6bddae8b790|Added Configuration section to README.md|Tue, 3 Nov 2015 20:52:12 +0800|Tue, 3 Nov 2015 20:52:12 +0800
+8dff555b34c97ddaf4b187ff9883dda99ecce06a|Updated README.md|Tue, 3 Nov 2015 20:47:10 +0800|Tue, 3 Nov 2015 20:47:10 +0800
+b96a132b4c4bdb3791f7a725d3f560a64dee645e|Updated README.md|Tue, 3 Nov 2015 20:45:38 +0800|Tue, 3 Nov 2015 20:45:38 +0800
+f0f9024aa448a666146cb6a7829cd369b2c01bb9|Fixed a bug in README.md|Tue, 3 Nov 2015 20:14:45 +0800|Tue, 3 Nov 2015 20:14:45 +0800
+1af2ff6ebab8dbaab8ddb9b99fffa4fce96013ed|Much more progress with tokens handler.|Tue, 3 Nov 2015 20:08:17 +0800|Tue, 3 Nov 2015 20:11:32 +0800
+7d6333f7b40172de28e27c76ff4a8c37eb6c78b0|Progress with tokens handler. Added users handler. Will be used for registering users.|Tue, 3 Nov 2015 18:16:04 +0800|Tue, 3 Nov 2015 18:18:47 +0800
+3403647e0bc719d68bfa8db16c06944ce49a7cd0|Refactored models|Mon, 2 Nov 2015 23:13:23 +0800|Mon, 2 Nov 2015 23:13:23 +0800
+d04f6d6e9efe22fe03b6872616f1b2865834eba8|Updated README.md.|Mon, 2 Nov 2015 18:48:36 +0800|Mon, 2 Nov 2015 18:48:36 +0800
+090a0531b3300efb56c975180a88399f164b693e|Adding more Oauth 2.0 models.|Mon, 2 Nov 2015 18:46:37 +0800|Mon, 2 Nov 2015 18:46:37 +0800
+e26db0db98496b9f8765e9a18c8d68abc53db91b|Started working on tokens handler.|Mon, 2 Nov 2015 18:18:46 +0800|Mon, 2 Nov 2015 18:18:46 +0800
+83f33dac2230af894f691e5870d57458db9a63a6|Update README.md|Mon, 2 Nov 2015 15:30:30 +0800|Mon, 2 Nov 2015 15:30:30 +0800
+91ac9e880d0b3f0aa925fa04b64aa8b1201afdb7|Update README.md|Mon, 2 Nov 2015 15:29:30 +0800|Mon, 2 Nov 2015 15:29:30 +0800
+2463e2a5fb60b14ecebce2fec3abd012c976d152|Update README.md|Mon, 2 Nov 2015 15:29:15 +0800|Mon, 2 Nov 2015 15:29:15 +0800
+a2f4d06deac0a5f4889ebc10ff023c7853290ff2|Update README.md|Mon, 2 Nov 2015 15:21:48 +0800|Mon, 2 Nov 2015 15:21:48 +0800
+120cbb532bd0d67422babdb49c7da2332f679f3d|Update factory_test.go|Mon, 2 Nov 2015 14:56:08 +0800|Mon, 2 Nov 2015 14:56:08 +0800
+373183ef44fa846e0984cd3fb0127565461089af|Added first tests, refactored factories and Makefile.|Mon, 2 Nov 2015 14:51:43 +0800|Mon, 2 Nov 2015 14:51:43 +0800
+1c86609cf6412e07a1881e33b251ede29b2532a0|Set up and tear down test database in Makefile.|Mon, 2 Nov 2015 04:51:40 +0800|Mon, 2 Nov 2015 04:51:40 +0800
+9dc41e193fdb5a9d3e2b3ffc4d512c973a426404|Changed default database user to be more sensible.|Mon, 2 Nov 2015 04:37:16 +0800|Mon, 2 Nov 2015 04:37:16 +0800
+a7558a9ff81c28ca0dadcc7ead1fe60e67904213|Migrations working now.|Mon, 2 Nov 2015 04:20:37 +0800|Mon, 2 Nov 2015 04:20:37 +0800
+1f55343b6abcef5f14b655562f889bf55fde73ed|Updated Migration model.|Sun, 1 Nov 2015 22:43:08 +0800|Sun, 1 Nov 2015 22:43:08 +0800
+d3c1ab8be1deb25d0e9ca30dc2327cd40fb624fb|Updated README.md.|Sun, 1 Nov 2015 22:27:35 +0800|Sun, 1 Nov 2015 22:33:52 +0800
+2fbc3595ead7c2c867f5a841a72cf9b0e9e0a8b4|Use CreatedAt from gorm.Model.|Sun, 1 Nov 2015 22:16:49 +0800|Sun, 1 Nov 2015 22:16:49 +0800
+7130b99360a47cbd6857b0f1ea4244c515c36197|Added Godeps with vendored dependencies.|Sun, 1 Nov 2015 21:54:09 +0800|Sun, 1 Nov 2015 21:54:09 +0800
+4493972d6ae3eeefa0b7115e6115c92402ff75a4|Initial commit|Sun, 1 Nov 2015 21:31:41 +0800|Sun, 1 Nov 2015 21:31:41 +0800

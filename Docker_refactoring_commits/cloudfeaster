@@ -1,0 +1,15 @@
+,repo_name,sha,message
+34,cloudfeaster,5ce3ff2fa63db990b5ede9a1b77b46a99b4e866e,refactor: DRYup docker push in CirleCI config
+90,cloudfeaster,78ea531d0efb9cec0455ff4b24cf3c406b042389,refactor: simplify build-docker-image.sh a bit
+125,cloudfeaster,74c76f3ff4632efa8eb94fde5153de9e90ad7c45,refactor: dev-env/docker_image_integration_tests.sh
+147,cloudfeaster,ac75d5c87d0a8b0f7fdb65f1d01794effbeee7c3,refactor: simplify docker image build for runtime
+189,cloudfeaster,4e68a55e4b7a3670df2fe8189047f8c769d08d83,refactor: put existing docker stuff in dev-env
+237,cloudfeaster,47e280502dc60f580e0cf7dfcbe9c43c6280690a,refactor: simplify dev_env/build-docker-image.sh
+238,cloudfeaster,0b7cdd56304d90f38dc82684ba2b0d7cea2c6967,fix: docker build in CircleCI (minor refactor too)
+278,cloudfeaster,c18e9d18f7a6d312a8f1b990e5d1abf3f957dd21,refactor: build-docker-image.sh
+383,cloudfeaster,dcc430391020c7ea6a95b7dea2f1db49e5a6fdc8,refactor: remove dev-env-version docker label
+451,cloudfeaster,9cfb13c9ffadb9fcc2dc4341722233e6980136d2,refactor: optimize dev env docker build
+452,cloudfeaster,2f828f6d8b21f4015dc03ab70c0d385bba644572,refactor: simplify dev env docker build
+480,cloudfeaster,a8407c8be29097d5073f00dcdff6c614b0a95707,refactor: circleci docker image tag & push
+503,cloudfeaster,1932e549ab650b09ae55a311f10f40480b48deb8,refactor: rejig how docker images are built
+733,cloudfeaster,0183708facac79f0172f50bbf97a148bb0cac0d9,refactor .travis.yml handling of docker iamges

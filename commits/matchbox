@@ -1,0 +1,406 @@
+1599dfe4db515f28c9874c799ec7a8e2a0488ca3|Update README.md|Mon, 26 Nov 2018 16:29:09 -0500|Mon, 26 Nov 2018 16:29:09 -0500
+39200d367d79a15f87aa59aa8edd8ebf0d6a16ea|Update README.md|Mon, 26 Nov 2018 16:28:35 -0500|Mon, 26 Nov 2018 16:28:35 -0500
+cd1b2dc8f7f55fdd0958f5db8f032a43ce8710c1|Merge pull request #55 from northwestwitch/fix_mockito_reference|Mon, 19 Nov 2018 10:55:36 -0500|Mon, 19 Nov 2018 10:55:36 -0500
+6082f00a8f1170d4d7fd6a92d2d281fc4721a531|update reference data version to 1807|Mon, 19 Nov 2018 10:34:17 +0100|Mon, 19 Nov 2018 10:34:17 +0100
+dc5384bbbb17c74edce6a7b3b3db54b758172eec|fixed mockito dependency|Mon, 19 Nov 2018 10:10:12 +0100|Mon, 19 Nov 2018 10:10:12 +0100
+f8af0f01738ee5c6be3e058764c96af1664910de|Adding in mockito dependency to maven|Wed, 26 Sep 2018 16:36:14 -0400|Wed, 26 Sep 2018 16:36:14 -0400
+caaf534192e386c48878b66cbe0ebacc0efb4eda|Adjusting Exomiser version to be 11.0.0|Wed, 26 Sep 2018 09:50:30 -0400|Wed, 26 Sep 2018 09:50:30 -0400
+53d8aeee4c1c40720edb3808f7cfbd3b57b67b33|Merge branch 'dev'|Wed, 25 Jul 2018 14:51:25 -0400|Wed, 25 Jul 2018 14:51:25 -0400
+b27bc58547557a0aa05b8cf0c1ab0f428bb85731|Merge branch 'master' into dev|Wed, 25 Jul 2018 14:50:38 -0400|Wed, 25 Jul 2018 14:50:38 -0400
+f71e440477c34fe41dded134312bde2c19e9b459|updating pom to 10.1.0 exomiser|Wed, 18 Jul 2018 13:59:07 -0400|Wed, 18 Jul 2018 13:59:07 -0400
+34dcbb64be8b325bc8d854f37b94da6349b5a724|detaching running container and moving on to next with -d|Thu, 12 Jul 2018 21:21:46 -0400|Thu, 12 Jul 2018 21:21:46 -0400
+311135021080729994e48772a4460372b99d2c5d|changing permissions on modified entrypoint file|Thu, 12 Jul 2018 18:43:27 -0400|Thu, 12 Jul 2018 18:43:27 -0400
+b289ef59f784874a07353ba7eb88ea7438c8fa2c|refactoring further and adjusting var names that were causing some bugs|Thu, 12 Jul 2018 18:31:57 -0400|Thu, 12 Jul 2018 18:31:57 -0400
+e887f73e15b915aa08a5d26662a855261c763e3e|updating the script that builds a local MME network to use a mongo instance directly in the container itself|Thu, 12 Jul 2018 17:55:31 -0400|Thu, 12 Jul 2018 17:55:31 -0400
+2a8d82ab9ca1961b8201f29cd9af26aea4d098bd|updating exomiser version|Thu, 12 Jul 2018 11:52:57 -0400|Thu, 12 Jul 2018 11:52:57 -0400
+5e9d57d907344b096dfa81ebf94199a73c4c7e5c|updating to new Exomiser version 10.0.1|Wed, 11 Jul 2018 16:33:57 -0400|Wed, 11 Jul 2018 16:33:57 -0400
+4f5408867d06588bf90638ae571e37b849ca6496|refactoring..|Wed, 11 Jul 2018 16:32:28 -0400|Wed, 11 Jul 2018 16:32:28 -0400
+f2666dfc78e4a09d299402eec676e6c6419e8b09|updating to newest exomiser version|Wed, 11 Jul 2018 16:24:26 -0400|Wed, 11 Jul 2018 16:24:26 -0400
+d4c57046996578e9f023c429203e9c4e6910ee4b|deprecating Maven build README|Mon, 9 Jul 2018 14:18:58 -0400|Mon, 9 Jul 2018 14:18:58 -0400
+bc0825b890640449a8c1c07b88da90456333526a|depracating Maven based build based on feedback of complexity from publication reviewers|Mon, 9 Jul 2018 14:16:25 -0400|Mon, 9 Jul 2018 14:16:25 -0400
+34717ebb6c385630c6b3c170db2da124a0c2745f|sharing variant level data only when OK'ed by submitted continued, and refactoring continued|Tue, 3 Jul 2018 13:57:50 -0400|Tue, 3 Jul 2018 13:57:50 -0400
+fe4d668041ea7443a5be7b61bbec85c16c95d217|refactoring unused code and converting to Java8+|Tue, 3 Jul 2018 11:36:23 -0400|Tue, 3 Jul 2018 11:36:23 -0400
+e5da9253964c9f3082e79659b842f59e1369d45b|Adding in variant level sharing preferences and adjusting tests|Mon, 2 Jul 2018 14:40:42 -0400|Mon, 2 Jul 2018 14:40:42 -0400
+7480647ebed96d57a59e7995a1f49b3cfb65687e|adding in the ability to give the user an option for sharing of variant level data|Thu, 28 Jun 2018 14:17:35 -0400|Thu, 28 Jun 2018 14:17:35 -0400
+2b7939b2c502614efa4d6eb4ae2b2aa0ab30e555|refactoring continued|Thu, 28 Jun 2018 13:47:19 -0400|Thu, 28 Jun 2018 13:47:19 -0400
+3d93598add9adb7a55a76ce0923d27de4bed33bd|refactoring out some old style java|Thu, 28 Jun 2018 13:46:19 -0400|Thu, 28 Jun 2018 13:46:19 -0400
+cbfe8c67db772398872015d3aa478a047256a1e0|Merge branch 'dev'|Fri, 27 Apr 2018 16:19:32 -0400|Fri, 27 Apr 2018 16:19:32 -0400
+68724ea370acb040b3ffa667b22ee45237b117b6|minor updates|Fri, 27 Apr 2018 16:17:54 -0400|Fri, 27 Apr 2018 16:17:54 -0400
+74b2dbedf4efa5345f2543b600f15e19181abfa0|Merge branch 'master' into dev|Fri, 27 Apr 2018 16:17:04 -0400|Fri, 27 Apr 2018 16:17:04 -0400
+86f3a3d89214a9ac89c916a672f78315b87fbc81|Changing the network communication error message to be a better exception|Fri, 27 Apr 2018 16:14:42 -0400|Fri, 27 Apr 2018 16:14:42 -0400
+dfd3cad17d4901ffdb54f0c828a97604073529d8|Adding email alert support to matchbox|Thu, 19 Apr 2018 14:18:53 -0400|Thu, 19 Apr 2018 14:18:53 -0400
+8ec4b4b928bac6a60773fe13f6ce69418eb2cc4c|Merge branch 'dev'|Wed, 4 Apr 2018 10:35:50 -0400|Wed, 4 Apr 2018 10:35:50 -0400
+14e02f6f5fce2d8091af846dad0aea3cd0a78ebf|refactoring and minor adjustment of matching criteria when no genotypes are entered|Wed, 4 Apr 2018 10:32:11 -0400|Wed, 4 Apr 2018 10:32:11 -0400
+880e671f0043967a70671d6d18b03cab353bbb93|Merge branch 'dev'|Wed, 14 Mar 2018 20:16:22 -0400|Wed, 14 Mar 2018 20:16:22 -0400
+4b1ed229ce94d53debc1fc50aea90c1f9bd64e62|Added in a test for gene for scoring to evaluate genotype scoring algorithm|Wed, 14 Mar 2018 19:00:54 -0400|Wed, 14 Mar 2018 19:00:54 -0400
+cb22e8b3a039e7dd99e6b28369d6e898680b17a1|Adjusting genotype algorithm to not get the inverse of the constraint score since that "can have" a non-inverse/direct relationship with diease causing|Wed, 14 Mar 2018 17:26:28 -0400|Wed, 14 Mar 2018 17:26:28 -0400
+8c17e8c73ee8fecb8add3bf807b436d346457a9a|creating image for matchbox with modified dockerfile|Sun, 11 Feb 2018 20:47:33 -0500|Sun, 11 Feb 2018 20:47:33 -0500
+a6eccff2e103068cacfd017dcd00b5f2544b65c8|Adjusting entrypoint to not need authenticated mongoDB when no username and password are not given|Sun, 11 Feb 2018 20:04:52 -0500|Sun, 11 Feb 2018 20:04:52 -0500
+24fadf6722fb6aebecf06f4ed4243daa35b8446c|updating Dockerfile with test values for the specific instance|Sun, 11 Feb 2018 15:29:36 -0500|Sun, 11 Feb 2018 15:29:36 -0500
+61f94c159ea01e3cb429c97d52fd7679b269b62f|no need to switches to adjust HTTPS status, merging into one|Sun, 11 Feb 2018 15:15:05 -0500|Sun, 11 Feb 2018 15:15:05 -0500
+ab8229b56141e8b5a15a5f11c5e59b4c997fe467|Adding in the ability to create a full MME network on a local machine to test matchbox communication as a regression test|Sun, 11 Feb 2018 13:46:53 -0500|Sun, 11 Feb 2018 13:46:53 -0500
+b3b7a92d77ada1bdea45f62d5a0df1f1e3243519|Merge branch 'dev'.Minor adjustments to README detailing requirements to build process using Docker|Wed, 7 Feb 2018 20:33:37 -0500|Wed, 7 Feb 2018 20:33:37 -0500
+00da53ec80c565c3efd492eb79ba339be47700dd|adding that MongoDB is needed|Wed, 7 Feb 2018 20:08:13 -0500|Wed, 7 Feb 2018 20:08:13 -0500
+46031e7eb6726357ce538a79ca89144930b990b6|mentioning that MongoDB instance is needed|Wed, 7 Feb 2018 20:04:50 -0500|Wed, 7 Feb 2018 20:04:50 -0500
+50eb3f1e35238ffc43e47ad552110bed302df5f5|minor edit|Wed, 7 Feb 2018 16:37:19 -0500|Wed, 7 Feb 2018 16:37:19 -0500
+e3046df18c5d9383c5c811175b5b574dcebc330d|Supporting both reference data within container as well as being able to mount it from externally|Wed, 7 Feb 2018 16:35:29 -0500|Wed, 7 Feb 2018 16:35:29 -0500
+5acd3142da773d0b663e66be86e905d38808cdfa|Merge branch 'dev' into master|Sun, 4 Feb 2018 14:57:10 -0500|Sun, 4 Feb 2018 14:57:10 -0500
+d524d0e220132f8acaf492efe7bd02c7cd4414c1|to allow for when gnomad does not have constraint scores for this query|Mon, 29 Jan 2018 12:54:14 -0500|Mon, 29 Jan 2018 12:54:14 -0500
+7e002018b095623baffdd548ed327b6054310689|Refactoring out depracated constants|Thu, 18 Jan 2018 15:34:12 -0500|Thu, 18 Jan 2018 15:34:12 -0500
+8e0b547857696070c1cdb1e5ad930f30ed6e1e5f|Refactoring merging algorithms and adding hashcode and equals to Patient structure since it is used as a key in a map downstream|Thu, 18 Jan 2018 15:31:12 -0500|Thu, 18 Jan 2018 15:31:12 -0500
+40bdd15ab21531b107d09004dc9bbc14f80d0fe2|Adjust genotype score mathematics|Thu, 18 Jan 2018 13:15:22 -0500|Thu, 18 Jan 2018 13:15:22 -0500
+e02aaefd86a907ad841fc6eebff5446ecec93401|Merge branch 'master' into dev|Tue, 16 Jan 2018 20:10:45 -0500|Tue, 16 Jan 2018 20:10:45 -0500
+3e422f1ed87160cc292170d8d33cb92ed90d485e|updating version to reflect new Exomiser version|Tue, 16 Jan 2018 18:15:27 -0500|Tue, 16 Jan 2018 18:15:27 -0500
+46c0dd39d7f93641dc023984edbcec1998b44c87|Using constraint score based on SOcode that represent missense, LOF, synonymous variant types|Mon, 15 Jan 2018 18:33:42 -0500|Mon, 15 Jan 2018 18:33:42 -0500
+c67212ea3dc206accf5d4851c3cdb7094d488e96|Adjustng gnomad API query to use constraint scores and adjusting tests|Sun, 14 Jan 2018 19:22:04 -0500|Sun, 14 Jan 2018 19:22:04 -0500
+e3c17381239737f46fb79f500c239c53bab2f0b8|updating the README: taking out any references regarding the need to download reference data. This is now done by the build process and already in the container|Mon, 18 Dec 2017 13:27:05 -0500|Mon, 18 Dec 2017 13:27:05 -0500
+9b94628be9bf177d12330c35076b7b134281dbca|Adding in the ability for the docker file to download the reference data at build time|Mon, 18 Dec 2017 13:21:23 -0500|Mon, 18 Dec 2017 13:21:23 -0500
+0e541579d70d1b3e207b250c7159ae258f10b1e0|adding in reference data directly into container|Mon, 18 Dec 2017 13:06:53 -0500|Mon, 18 Dec 2017 13:06:53 -0500
+58ab6ad4234ba05eeae905a18561fa23b5ab4fba|Merge branch 'master' into dev|Thu, 14 Dec 2017 10:59:21 -0500|Thu, 14 Dec 2017 10:59:21 -0500
+431d8f2ab48050278d8deedcbbfac65cba6c7aab|updating docs with new reference data location|Wed, 13 Dec 2017 20:54:29 -0500|Wed, 13 Dec 2017 20:54:29 -0500
+f1cf978b85dee38dbe7c2bf58a37a78b247c9969|Merge branch 'dev'. Merging in updates related to using a smaller reference dataset for Exomiser and better READMEs and updates to tests, and refactoring|Wed, 13 Dec 2017 15:55:51 -0500|Wed, 13 Dec 2017 15:55:51 -0500
+5fdc46a683b84c3ba8e503611199e1f7ba800c64|updating description|Wed, 13 Dec 2017 15:51:58 -0500|Wed, 13 Dec 2017 15:51:58 -0500
+4e84e3bbcdce26f322e1f1c1836056ed1f651a13|updating README to reflect Monarch contributions|Wed, 13 Dec 2017 15:47:58 -0500|Wed, 13 Dec 2017 15:47:58 -0500
+fc0291ea2baaba44bf3b5595f4feea27b5d61b1a|pointing data fetching to faster google bucket|Wed, 13 Dec 2017 15:17:28 -0500|Wed, 13 Dec 2017 15:17:28 -0500
+59eb5c57b7760a8fe5c8be690cddad0a12008c6f|Updating README on new reference dataset|Wed, 13 Dec 2017 15:09:13 -0500|Wed, 13 Dec 2017 15:09:13 -0500
+9f05e681ac05a0a182295511da47e56c138698d9|updating Dockerfile and entrypoint to reflect the new smaller exomiser data bundle and new application constant|Wed, 13 Dec 2017 12:58:26 -0500|Wed, 13 Dec 2017 12:58:26 -0500
+14832d83950598269fa0973260f39d39dd0242ba|updating the deploy/maven/README to use the new reference data|Wed, 13 Dec 2017 11:02:30 -0500|Wed, 13 Dec 2017 11:02:30 -0500
+3123fd6e8343e7d3674070c58c745d5dbe96aeb8|Simplify imports in GenotypeSimilarityServiceImplTest|Wed, 13 Dec 2017 10:51:19 +0000|Wed, 13 Dec 2017 10:51:19 +0000
+d4294f8e9f97dcf32046b3562567688eeae1d758|Merge branch 'dev' of https://github.com/macarthur-lab/matchbox into dev|Wed, 13 Dec 2017 10:50:18 +0000|Wed, 13 Dec 2017 10:50:18 +0000
+d10384b12ef907fe8743691ec5c0cbd64b7e481e|Update pom.xml to exomiser version 9.0.0 Update pom.xml exomiser groupId to org.monarchinitiative.exomiser Add new exomiser.phenotype.data-version property to application.properties Update ExomiserConfig to stub unwanted GenomeAnalysisService|Wed, 13 Dec 2017 10:44:58 +0000|Wed, 13 Dec 2017 10:44:58 +0000
+14b27e00a6f267661d19398ca5814a1598b1e601|refactoring|Tue, 12 Dec 2017 14:11:37 -0500|Tue, 12 Dec 2017 14:11:37 -0500
+61c397fc6585815767bfd0a022fbc4f90a956359|Merge branch 'master' into dev|Sun, 10 Dec 2017 19:38:16 -0500|Sun, 10 Dec 2017 19:38:16 -0500
+768852c90c99265aa0e953ab84f6f03293fed263|Adjusting formatting|Wed, 25 Oct 2017 18:56:56 -0400|Wed, 25 Oct 2017 18:56:56 -0400
+e62d907358643ff0fdf77c7865e047c86b84fdb1|Better documentation and examples on how to use matchbox with docker and wire in other nodes and systems to to it. Also adding in ability to use docker matchbox as https (previously you had to go with maven build route to get https. Now exposing that in docker build version)|Wed, 25 Oct 2017 14:13:59 -0400|Wed, 25 Oct 2017 14:13:59 -0400
+9ad01b14332cffa09c687bcb5f9d5a0bd1b2ef53|Adjusting Dockerfile to use newest Exomiser version|Mon, 23 Oct 2017 16:02:43 -0400|Mon, 23 Oct 2017 16:02:43 -0400
+0080b209e59a9243421163f60c61f26aa407303e|updating Dockerfile to match new Exomiser version|Mon, 23 Oct 2017 14:33:39 -0400|Mon, 23 Oct 2017 14:33:39 -0400
+95d253f4cfdf92a8a39efa848441429b21500e5a|Updating to new version of Exomiser 8.0.1|Mon, 23 Oct 2017 14:17:59 -0400|Mon, 23 Oct 2017 14:17:59 -0400
+686fee07107e7ebd3e67ea302da19a2668a2ac94|updating Exomiser library version|Wed, 11 Oct 2017 09:30:58 -0400|Wed, 11 Oct 2017 09:30:58 -0400
+1aa7e52db5ddbc41179b15243e68d64f57d948cd|Correct various bugs and issues in GenotypeSimilarityService.|Tue, 3 Oct 2017 15:56:42 +0100|Tue, 3 Oct 2017 15:56:42 +0100
+f067b5c31333dbc642be932225f3a23008880898|Change Variant.isUnPopulated internals to use correct logical operators.|Tue, 3 Oct 2017 15:55:06 +0100|Tue, 3 Oct 2017 15:55:06 +0100
+4049b8fa319950040219d339c64f1bee971ef69e|Refactored system property based injection of gene mapping file directory path out of class and used constant in application properties file|Mon, 11 Sep 2017 19:40:29 -0400|Mon, 11 Sep 2017 19:40:29 -0400
+19fe292582b1826195c4e7b26d14236882731569|rolling back to 8.0.0 for a test|Fri, 8 Sep 2017 13:58:24 -0400|Fri, 8 Sep 2017 13:58:24 -0400
+cd0d4d058cbae289ca192e3389259462a73b116e|updating exomiser version|Fri, 8 Sep 2017 12:22:27 -0400|Fri, 8 Sep 2017 12:22:27 -0400
+b81405ef1d039f49e1d23bdbac6a0ee7fbbf9e5c|Fixed tests to align to new algorithm|Thu, 7 Sep 2017 12:19:41 -0400|Thu, 7 Sep 2017 12:19:41 -0400
+6286ae1ff06e74f24a6b336443743a64db4a5d41|Merge branch 'dev' of https://github.com/macarthur-lab/matchbox into dev|Wed, 6 Sep 2017 22:37:51 -0400|Wed, 6 Sep 2017 22:37:51 -0400
+4eaf1e3b1672dd37bca63d01a3f3e73972b4bf72|updates to tests|Wed, 6 Sep 2017 22:36:50 -0400|Wed, 6 Sep 2017 22:36:50 -0400
+5aeced75c3356a1fe3708bf4d765687869e17108|minor updates to tests|Wed, 6 Sep 2017 22:35:48 -0400|Wed, 6 Sep 2017 22:35:48 -0400
+4bac84740d455c7c472f784935e30819b0e9e6ee|Merge branch 'master' into dev and adjusting tests to suite new genotype scoring|Wed, 6 Sep 2017 22:33:30 -0400|Wed, 6 Sep 2017 22:33:30 -0400
+954e40d463dc02068690828a032ca84fa14bb9cb|Fixed docker/Dockerfile to pull exomiser 8.0.0 tag without full history and to skip tests when installing.|Wed, 6 Sep 2017 12:18:54 +0100|Wed, 6 Sep 2017 12:18:54 +0100
+8250f063fbce85d0cf0df2bf90bbdfc2ac815b10|Merge branch 'dev' of https://github.com/macarthur-lab/matchbox into dev|Wed, 6 Sep 2017 12:15:18 +0100|Wed, 6 Sep 2017 12:15:18 +0100
+05987ea326cc331bc05455056767836c83c22128|Fixed Dockerfile to pull exomiser 8.0.0 tag without full history and to skip tests when installing.|Wed, 6 Sep 2017 12:14:51 +0100|Wed, 6 Sep 2017 12:14:51 +0100
+66104840c9c23135ae6fe403306d132d4fb84165|Merge branch 'dev'|Fri, 1 Sep 2017 13:42:46 -0400|Fri, 1 Sep 2017 13:42:46 -0400
+98afc1a649c08380b89aa59c12b62cd942f4d818|testing allowing for non-authenticated mongodb systems for k8 deployments|Fri, 1 Sep 2017 09:32:07 -0400|Fri, 1 Sep 2017 09:32:07 -0400
+6a15a0d537129e69c685397b5e425b6c1a4fe0ac|Updating kubernetes fields|Fri, 1 Sep 2017 09:15:00 -0400|Fri, 1 Sep 2017 09:15:00 -0400
+c1b15c9cb35781901542a5a62d307e33b76701a1|re-arranging dockerfile fields|Thu, 31 Aug 2017 13:49:50 -0400|Thu, 31 Aug 2017 13:49:50 -0400
+884f2de3c7210fe323dfb06091339b91f5cbea0c|Adding in new reference data tar ball|Thu, 31 Aug 2017 11:24:25 -0400|Thu, 31 Aug 2017 11:24:25 -0400
+1f07cb676445a62318214652ce912d6147345ccf|Adding in kubernetes deployment files|Thu, 31 Aug 2017 11:21:49 -0400|Thu, 31 Aug 2017 11:21:49 -0400
+51a14dc9861a05a684190e6020f85a248a83a0ea|deleting unused files|Thu, 31 Aug 2017 11:06:19 -0400|Thu, 31 Aug 2017 11:06:19 -0400
+fc3769fd64755f95c92691e50c4a7a8c22b04e40|logo adjustments|Thu, 31 Aug 2017 11:00:47 -0400|Thu, 31 Aug 2017 11:00:47 -0400
+ee33258485e6625040f995d53a9c03123a40b624|swapping logo with better svg version|Thu, 31 Aug 2017 10:55:07 -0400|Thu, 31 Aug 2017 10:55:07 -0400
+1e7ff1de0b2546ee906d6ddfb42fc0ecfba9b62e|image update|Wed, 30 Aug 2017 22:36:32 -0400|Wed, 30 Aug 2017 22:36:32 -0400
+a3a305aa6c8d37d6ee253199d53f6114888e3df6|centering|Wed, 30 Aug 2017 22:34:30 -0400|Wed, 30 Aug 2017 22:34:30 -0400
+f6bbb030b2a862852b8b685ad77aa44eec1beb1b|centering|Wed, 30 Aug 2017 22:33:29 -0400|Wed, 30 Aug 2017 22:33:29 -0400
+bbe400a6da097f006569151d5aeba811549518da|resize|Wed, 30 Aug 2017 22:31:49 -0400|Wed, 30 Aug 2017 22:31:49 -0400
+43f4aafab3aea0355705c87d73efdaeb5950f4a5|image placement and size adjustment|Wed, 30 Aug 2017 22:29:39 -0400|Wed, 30 Aug 2017 22:29:39 -0400
+85df9e32a65df00507e23900985c5acd8a62d04f|better placement of image is on the left|Wed, 30 Aug 2017 21:16:22 -0400|Wed, 30 Aug 2017 21:16:22 -0400
+5c24f4322f98ec52e9b1f1e4815a89874b5cafb3|trying out new position of image|Wed, 30 Aug 2017 21:15:14 -0400|Wed, 30 Aug 2017 21:15:14 -0400
+03747b96db5e9ce97a7f327cf5412578d7582f5e|formatting adjustment|Wed, 30 Aug 2017 21:13:42 -0400|Wed, 30 Aug 2017 21:13:42 -0400
+029f952c8d7eebcf55e82565f86202e7f2b074de|size adjustments|Wed, 30 Aug 2017 21:13:04 -0400|Wed, 30 Aug 2017 21:13:04 -0400
+5fa454e9ac9387d32448fa874d689a2479ea522b|Adjusting size of logo|Wed, 30 Aug 2017 21:10:29 -0400|Wed, 30 Aug 2017 21:10:29 -0400
+20fa8a29907111681a6e61de4a3d79998a24b6b5|trying out resizing|Wed, 30 Aug 2017 21:07:11 -0400|Wed, 30 Aug 2017 21:07:11 -0400
+7b5ef4923c169aa2cfdf2eb8f5737c1e510b4b9c|trying out logo|Wed, 30 Aug 2017 20:42:52 -0400|Wed, 30 Aug 2017 20:42:52 -0400
+680fad7fc49671998c04d55c7573d696f2c0a289|Adding in logo to README|Wed, 30 Aug 2017 20:41:22 -0400|Wed, 30 Aug 2017 20:41:22 -0400
+fd154b22365a726b80d2d7db2b2123732cb9feee|minor formatting fixes|Wed, 30 Aug 2017 20:33:58 -0400|Wed, 30 Aug 2017 20:33:58 -0400
+e13c8da83f237bc52541d6227a0067ed4c919d86|refactoring main README cont.|Wed, 30 Aug 2017 20:32:55 -0400|Wed, 30 Aug 2017 20:32:55 -0400
+e4049bb4a55c8b8ce4ab915b3c45ef7555c7b094|abstracting out maven based build readme|Wed, 30 Aug 2017 20:31:14 -0400|Wed, 30 Aug 2017 20:31:14 -0400
+1e6536d7474aec4a8697953f0ebee26476bd9bec|Updating maven README with recent build updates|Wed, 30 Aug 2017 20:15:59 -0400|Wed, 30 Aug 2017 20:15:59 -0400
+a7eab399fe5ea8bcaef0bf8cac7951cf05c50c6b|Extracting out the maven build instructions away from top level page|Wed, 30 Aug 2017 20:10:09 -0400|Wed, 30 Aug 2017 20:10:09 -0400
+d731ed6c2e20eac8813c8f8422d3122bb2637d90|Adding in files for kubernetes deploy step|Wed, 30 Aug 2017 20:07:43 -0400|Wed, 30 Aug 2017 20:07:43 -0400
+64c32ee24e3f79381531bc24476b5b9d87eb0cb2|updating README link|Wed, 30 Aug 2017 20:04:03 -0400|Wed, 30 Aug 2017 20:04:03 -0400
+ae2090c7c09dc1990a131a03a3739499a1a2d625|re-organizing repo to have a deploy directory where docker, kubernetes, bare maven strategies are placed|Wed, 30 Aug 2017 20:02:00 -0400|Wed, 30 Aug 2017 20:02:00 -0400
+8d2bf2c1aafc7a4f00bb3109c68788b99af96848|Merge branch 'master' into dev|Wed, 30 Aug 2017 19:19:32 -0400|Wed, 30 Aug 2017 19:19:32 -0400
+85013ed391b925226cf77d167f44adbb8cd6ff77|Updating README to reflect the need for the new reference dataset|Wed, 30 Aug 2017 19:02:45 -0400|Wed, 30 Aug 2017 19:02:45 -0400
+aa389962be18a8762af0bdce2357d2f0d71fc84d|formatting fixes|Mon, 28 Aug 2017 19:22:17 -0400|Mon, 28 Aug 2017 19:22:17 -0400
+40b0ebceafe702d1268ff3145a48cc5f3f74df06|updates to app properties|Mon, 28 Aug 2017 19:20:51 -0400|Mon, 28 Aug 2017 19:20:51 -0400
+e6025852e4c3d63ff170d2a92712d8b4de26661f|minor updates to README|Mon, 28 Aug 2017 18:58:04 -0400|Mon, 28 Aug 2017 18:58:04 -0400
+b8520e6662a67caaffe35040afb6b10073238467|adjusting formatting|Mon, 28 Aug 2017 18:41:25 -0400|Mon, 28 Aug 2017 18:41:25 -0400
+5c648e73686a4985d8f62bb9c5fa5535cb439d87|made mongodb database name customizable and added the capability to customize that in the docker file. Improved the documentation  and organization in the Dockerfile a bit more|Mon, 28 Aug 2017 18:34:48 -0400|Mon, 28 Aug 2017 18:34:48 -0400
+82a33a9d3a206851c13cfb8303e57058c1a5eced|exposed the extra field that switches between high phenotype matches with no genotypes in common to the entrypoint file|Mon, 28 Aug 2017 17:25:38 -0400|Mon, 28 Aug 2017 17:25:38 -0400
+4a5466354db602463042df89600896b5c5ae2bb6|Added in a field to turn off feature where matches are returned even there are no genes in common given there is a high phenotype match. This will be left to the host center to decide|Mon, 28 Aug 2017 17:19:50 -0400|Mon, 28 Aug 2017 17:19:50 -0400
+edd524d23fbbaa9afb761ecc870bba4af372c774|Merge branch 'dev'|Mon, 28 Aug 2017 16:35:39 -0400|Mon, 28 Aug 2017 16:35:39 -0400
+888545bce16beeaa045e9f70021b67356c199ba1|Added a test for a perfect match giving back a 1.0|Mon, 28 Aug 2017 16:34:02 -0400|Mon, 28 Aug 2017 16:34:02 -0400
+b9ed6bb807f21e82a04e83a5bf8da674a4bdf289|Updating tests to work with the new genotype matching algorithm and rules|Mon, 28 Aug 2017 14:33:50 -0400|Mon, 28 Aug 2017 14:33:50 -0400
+8afa9d3d948187485127eb07d0215e539f184987|Adding in provisions to return a perfect 1.0 for exact matches between patients|Fri, 18 Aug 2017 21:30:59 -0400|Fri, 18 Aug 2017 21:30:59 -0400
+d30cb476de606a1298b78a2275ba9e2fc954c735|refactoring unused imports and adding in a cache for gene allele frequencies|Fri, 18 Aug 2017 14:37:52 -0400|Fri, 18 Aug 2017 14:37:52 -0400
+5f1947e01e7dc81f1a54724c8da7ba6c1f0abcf9|Adjusting the algorithm to decide between using a gene or variant getting information from gnomad|Thu, 17 Aug 2017 22:29:28 -0400|Thu, 17 Aug 2017 22:29:28 -0400
+8fdc891ac81a2d0da9d0123fcfa6df4c205c2b7b|Refactoring and merging genotype and phenotype scores better|Wed, 16 Aug 2017 21:20:27 -0400|Wed, 16 Aug 2017 21:20:27 -0400
+958d4d925a4b1303006675233881615de34ba139|gnomad built in|Tue, 15 Aug 2017 21:29:25 -0400|Tue, 15 Aug 2017 21:29:25 -0400
+d11a2437a8742280fa4581bd9e541d46fa6d1f90|Wiring in gnomad for allele frequencies cont.|Tue, 15 Aug 2017 15:22:12 -0400|Tue, 15 Aug 2017 15:22:12 -0400
+c04de2dfd77188095b3a5ca2fab2e89267da9f53|Improving genotype algorithm by wiring in gnomad for allele frequencies|Mon, 14 Aug 2017 21:26:25 -0400|Mon, 14 Aug 2017 21:26:25 -0400
+957607e2ce619b8f3a16e6989d0c9750819e5c4a|merging in new master updates|Mon, 14 Aug 2017 15:41:05 -0400|Mon, 14 Aug 2017 15:41:05 -0400
+7bedbfd9ef0b7e4ab075b9414b4371a67f73ce14|Merge branch 'master' into dev|Mon, 14 Aug 2017 15:39:46 -0400|Mon, 14 Aug 2017 15:39:46 -0400
+cce1121c0c74e93dd67e6a07af70cacc68fa1748|readme edits cont.|Mon, 14 Aug 2017 11:44:19 -0400|Mon, 14 Aug 2017 11:44:19 -0400
+cf991b17b9aaa6dee0314ab5ba5d87863b3e4a2c|fixing an example in the docker readme|Mon, 14 Aug 2017 11:43:24 -0400|Mon, 14 Aug 2017 11:43:24 -0400
+5104093b111ce267e9e287826b3139f3ce7a752a|minor fix to README|Mon, 14 Aug 2017 09:23:27 -0400|Mon, 14 Aug 2017 09:23:27 -0400
+80619695fdd445c037a5932380fae2c17e2b4ec1|updating main README to reflect changes to docker build process|Mon, 14 Aug 2017 09:20:56 -0400|Mon, 14 Aug 2017 09:20:56 -0400
+5dcbd7b664ae87320ea726bcfa1a8b2312ae1812|Updated exomiser version to 8.0.0|Mon, 14 Aug 2017 09:51:46 +0100|Mon, 14 Aug 2017 09:51:46 +0100
+39d243fc78d11b773d0c072c54ec391a70d548d9|formatting fixes|Sun, 13 Aug 2017 21:20:43 -0400|Sun, 13 Aug 2017 21:20:43 -0400
+c8639ee483ec6045e15a6d6396bfd7a42f0cf786|minor formatting updates|Sun, 13 Aug 2017 21:17:01 -0400|Sun, 13 Aug 2017 21:17:01 -0400
+82bc9097581b03801b3596671580f86fcab8f666|added in a beta qualifier|Sun, 13 Aug 2017 21:10:41 -0400|Sun, 13 Aug 2017 21:10:41 -0400
+c15434af2261505e8921fd6795b719a5ce27234d|Updating Dockerfile to use data volumes insert reference data and a README documenting the process|Sun, 13 Aug 2017 21:07:39 -0400|Sun, 13 Aug 2017 21:07:39 -0400
+bbc144b881d85058783b5b360c5aee85f8bc0a00|added a comment to make sure users updated dockerfile with this same port number|Sat, 12 Aug 2017 13:27:35 -0400|Sat, 12 Aug 2017 13:27:35 -0400
+52c929f81cb8074415bdcf5de1b7de50058a6c36|adding server port default value to match docker file|Sat, 12 Aug 2017 13:25:32 -0400|Sat, 12 Aug 2017 13:25:32 -0400
+0fd5cfcb42495de6bd9de538a43fcc6d3f3e1b02|adjusting properties to prevent mongo autoconf sticking values|Sat, 12 Aug 2017 09:21:23 -0400|Sat, 12 Aug 2017 09:21:23 -0400
+36fa62dec391e268abf377cba66a8d63885784ec|refactoring and adjusting docker to permit env variables for mongo, and making spring ignore mongo autoconfiguratin to stop it using localhost by default|Fri, 11 Aug 2017 22:14:21 -0400|Fri, 11 Aug 2017 22:14:21 -0400
+ef6c315384b949f86d859b4b53d4d475aa940cf7|Adding in gnomad capabilities for enhanced genotype scoring|Fri, 11 Aug 2017 21:57:40 -0400|Fri, 11 Aug 2017 21:57:40 -0400
+f9b99bb13a8cbbb029c9c4bba69db69cd6c43c0e|updating the Exomiser version to match updates in that system|Tue, 8 Aug 2017 20:52:41 -0400|Tue, 8 Aug 2017 20:52:41 -0400
+9065aa058da1258cf1e11a09638a57ef17335c21|Merge branch 'hotfix-updating_README_with_docker_build_steps' into dev|Thu, 3 Aug 2017 20:48:11 -0400|Thu, 3 Aug 2017 20:48:11 -0400
+81fcf12ddd832731599df4ca831b4ea62324d2a9|Merge branch 'hotfix-updating_README_with_docker_build_steps'|Thu, 3 Aug 2017 20:45:44 -0400|Thu, 3 Aug 2017 20:45:44 -0400
+a5e90392804a7bbaa52c7c51c0ea3b52f3f5b898|Adding in docker build support|Thu, 3 Aug 2017 20:45:13 -0400|Thu, 3 Aug 2017 20:45:13 -0400
+d812b069dc6a77783841c2b7e11b69dcf219abaa|Merge branch 'master' into dev|Thu, 3 Aug 2017 20:10:35 -0400|Thu, 3 Aug 2017 20:10:35 -0400
+5f5481afdcbeb87aed09aa9006883c5627c019f2|minor updates to README cont.|Thu, 3 Aug 2017 20:08:30 -0400|Thu, 3 Aug 2017 20:08:30 -0400
+3207fd287686b11b010e98b798b3c38f8e6a77f9|minor adjustments to README|Thu, 3 Aug 2017 20:05:14 -0400|Thu, 3 Aug 2017 20:05:14 -0400
+15187a4df4b1b16172ed5edf90278c4cac20e415|Updating README to reflect recent changes to phenotype matching algorithm and its dependencies|Thu, 3 Aug 2017 19:40:38 -0400|Thu, 3 Aug 2017 19:40:38 -0400
+2780b124f680f1a9244a2b286f9b61b5a097ed5d|Testing updating of genotype algorithms|Thu, 3 Aug 2017 19:37:52 -0400|Thu, 3 Aug 2017 19:37:52 -0400
+7cb73def36385f94a07d0f838c57cd55d217d38d|adjustments to regressions tests (now inserts, searches, deletes and tests match, insert, delete endpoints, added a qualifyier to a function, and fixed a bug in return JSON message value of controller|Sat, 15 Jul 2017 21:12:03 -0400|Sat, 15 Jul 2017 21:12:03 -0400
+09b3a50b8446588c2ff76dda89727ebbd0baa657|Merge branch 'feature-genotype_match_redo' into dev|Sat, 15 Jul 2017 14:13:25 -0400|Sat, 15 Jul 2017 14:13:25 -0400
+36390e4af2e1399164340974363e4991b2e8b719|moving entities to entitiy package|Fri, 14 Jul 2017 19:28:55 -0400|Fri, 14 Jul 2017 19:28:55 -0400
+ae40a606da1adec1c9fc6a7767c77bc8e23482c6|Merge branch 'hotfix-metrics_db_call_bug' into dev|Fri, 30 Jun 2017 14:13:19 -0400|Fri, 30 Jun 2017 14:13:19 -0400
+40ccc1ae88673193e0f53f64ddac913d9b76ad0c|Merge branch 'hotfix-metrics_db_call_bug'|Fri, 30 Jun 2017 14:12:39 -0400|Fri, 30 Jun 2017 14:12:39 -0400
+3deb44a8280d5e81468a236aa7b16a680b17f3e7|Adjustments to metric bug that had got in with the last round of refactoring|Fri, 30 Jun 2017 14:11:29 -0400|Fri, 30 Jun 2017 14:11:29 -0400
+7183d20d519e106c362d35f2b14234e9d1785ca3|adjusting metrics|Fri, 30 Jun 2017 13:34:25 -0400|Fri, 30 Jun 2017 13:34:25 -0400
+59a3aa83e119bec19924d6c437522a6ca628774e|adjusting HGNC to Enselm translaton to allow for 1:many mapping of Ensml to HGNC, merge branch 'master' into dev|Thu, 29 Jun 2017 20:56:03 -0400|Thu, 29 Jun 2017 20:56:03 -0400
+f95a234f8afa97893d0995d8094c2c0bef8a4ded|Merge branch 'dev'|Mon, 26 Jun 2017 12:43:04 -0400|Mon, 26 Jun 2017 12:43:04 -0400
+fd6e2fd035879c67e02aa271fe059e6e31e56820|Changed the GenotypeSimilarity scoring - will return a match score of 0.7 or over for patients with a matching gene symbol irrespective of whether they have any other genotype features missing.|Thu, 22 Jun 2017 16:16:19 +0100|Thu, 22 Jun 2017 16:16:19 +0100
+3ffaa52dab1876eaf3e922a045bc4c0a61a4b4ce|Added new PhenotypeSimilarityScorer interface to remove direct dependence on Exomiser classes in the MatchService Changed the PhenotypeSimilarityService have a new buildPhenotypeSimilarityScorer() method which returns a PhenotypeSimilarityScorer for a given patient. Moved the PhenotypeSimilarityService.scorePhenotypes(Patient queryPatient, Patient nodePatient) method to new PhenotypeSimilarityScorer interface. Re-instated MatchServiceImpl unit tests using new interfaces to create mock PhenotypeSimilarityScorer/PhenotypeSimilarityService classes.|Thu, 15 Jun 2017 15:59:21 +0100|Thu, 15 Jun 2017 15:59:21 +0100
+cc0aaadf4943148b394bb4c61652bde785d0857f|Merge branch 'geno_pheno_scores' into dev|Wed, 14 Jun 2017 17:42:49 +0100|Wed, 14 Jun 2017 17:42:49 +0100
+754e0903a8ab2ace8f8722f28857fe6de7fcd41b|Merge branch 'dev' of https://github.com/macarthur-lab/matchbox into dev|Wed, 14 Jun 2017 17:34:16 +0100|Wed, 14 Jun 2017 17:34:16 +0100
+eefc2f111ac8827c7d7b533f7e8760331d969235|Added new PhenotypeSimilarityScore, GenotypeSimilarityScore and GenomicFeatureMatch classes. Changed GenotypeSimilarityService to return a single GenotypeSimilarityScore for a patient pair. Changed PhenotypeSimilarityService to return a single PhenotypeSimilarityScore for a patient pair. Simplified MatchServiceImpl to return patients with a matching gene symbol or phenotype score >= 0.7 Added "_genotypeScore" and "_phenotypeScore" key-value pairs to the returned MatchmakerResult score.|Wed, 14 Jun 2017 17:33:11 +0100|Wed, 14 Jun 2017 17:33:11 +0100
+0d4dbf224b512f62e1700cfd11d4785da950d0b5|adjusted merging function to be a bit better|Tue, 13 Jun 2017 22:45:34 -0400|Tue, 13 Jun 2017 22:45:34 -0400
+ddda007ba916f054e393d455696a5c835d8214fe|needs slight adjustment to allow for two sized lists coming from genotypes and phenotype seached, committing for now|Tue, 13 Jun 2017 21:44:33 -0400|Tue, 13 Jun 2017 21:44:33 -0400
+3831abc1b62d9811f77702e482f842a510bb1ca6|updating test with a method stub to help build and test. Need to implement method|Tue, 13 Jun 2017 19:56:48 -0400|Tue, 13 Jun 2017 19:56:48 -0400
+9690649a2fc3d9edc97142c7b3c6827e90119950|Continuing to integrate some code to limit the number of patients we send back without changing Jules's improvements|Tue, 13 Jun 2017 19:34:30 -0400|Tue, 13 Jun 2017 19:34:30 -0400
+e8b29e96c7f1bb4274828da12c065dddf2c70f0d|Updated Spring boot version to 1.5.4|Tue, 13 Jun 2017 11:24:20 +0100|Tue, 13 Jun 2017 11:24:20 +0100
+6d7a5700d2887a6616d9838145b1afea79bbc8c3|First go at adjusting Jules improvements that affected genotype matching. Adjusting genotype matching results to send back only patients that share a variant in the same gene as the query patient.Minor adjustments to allow for this in the new code. In progress..|Mon, 12 Jun 2017 22:11:10 -0400|Mon, 12 Jun 2017 22:11:10 -0400
+4a667b30bc50472f673d7d39c5400b958f3221d1|Added ExomiserConfig class to stop Jannovar loading. Inlined odd calls to self-referenced get methods in MatchController. Removed unnecessary public methods on GenotypeSimilarityService interface, made them private in the implementation. Added missing gene symbol normalisation for geneId/symbols in GenotypeSimilarityServiceImpl. Fixed potential null pointer exception for patients with missing variant type information in GenotypeSimilarityServiceImpl. Removed requirement for any patient database calls in GenotypeSimilarityServiceImpl and PhenotypeSimilarityServiceImpl. Genotype and Phenotype matching can now happen independently - patients with one or the other missing will get a 0.6 score for this value. MatchServiceImpl will return the top 5 results with a score of 0.42 or greater. MatchMakerSearhImpl now supplies all local node patients to the MatchService. Added cursory unit tests for Patient, GenotypeSimilarityServiceImpl, MatchServiceImpl, PatientRecordUtility, AppTest. Added a TestData utility class for providing canned data to the system.|Tue, 6 Jun 2017 16:00:33 +0100|Tue, 6 Jun 2017 16:00:33 +0100
+3dd9580b1e77abf4ed5381f8b16de229815e0cc0|Added Exomiser phenotype matching to PhenotypeSimilarityServiceImpl.|Fri, 19 May 2017 15:44:23 +0100|Fri, 19 May 2017 15:44:23 +0100
+9187ce5db795223f9d2601f0c44691c797d89980|Cleaned-up pom.xml Upgraded Spring boot to version 1.5.3 from 1.3.3. Moved application.properties to src/main/resources Removed evil hard-coded application context nasties and replaced with a less evil @ImportResource("file:config/config.xml") Removed completely useless MongoDBConfiguration - this is simply duplicates and overrides the spring boot implementation. Updated README.md with latest updates. AppTest is basically useless now - needs some proper love and attention.|Fri, 19 May 2017 14:54:36 +0100|Fri, 19 May 2017 14:54:36 +0100
+c9a12635abd699ba723ce68d7d84f671652cf086|Removed botched merge entries from .gitignore|Thu, 18 May 2017 12:08:49 +0100|Thu, 18 May 2017 12:08:49 +0100
+f8157d1b9fb02689a6ee4adf0663c0a0044d9055|Merge branch 'master' into dev|Mon, 8 May 2017 14:17:44 -0400|Mon, 8 May 2017 14:17:44 -0400
+a2ee8b3b6c03420f50f5fb5be77ab1dea77658ba|minor updates|Mon, 8 May 2017 14:15:01 -0400|Mon, 8 May 2017 14:15:01 -0400
+56cce9403a72bee3fcf7c02ae357157a1325a862|Merging in moving standard disclaimer from patient level to top level and other refactoring|Sat, 6 May 2017 13:59:36 -0400|Sat, 6 May 2017 13:59:36 -0400
+0300d2c6c5e989de0211ebdd8519c5c13dddcc22|Refactoring and changes related to moving the standard disclaimer from the patient level to the top level results level on request of decipher and to match other mme nodes.Also fixing a bug related to parsing match score from incoming eternal results|Sat, 6 May 2017 13:58:04 -0400|Sat, 6 May 2017 13:58:04 -0400
+75ec7c8fa2a33e869cdfaa1821b0e441d573fee7|Added .gitignore|Wed, 3 May 2017 09:48:03 +0100|Wed, 3 May 2017 09:48:03 +0100
+0090dc8d790fc265901d72acefca392b260e8488|updating config file with new changes|Tue, 25 Apr 2017 11:44:33 -0400|Tue, 25 Apr 2017 11:44:33 -0400
+00fa52bdfa6172bda1861d84345ebde396c90c66|took out config for external nodes. This is now done through nodes.json|Thu, 20 Apr 2017 15:51:37 -0400|Thu, 20 Apr 2017 15:51:37 -0400
+e4c3b603e788218c472670559b0c9b690e99a3e7|Adding in more metrics to internal endpoint, fixing logging issues, changing wiring in of external nodes to reading in from JSON file as inspired by Jules Jacobsen strategy of using a YAML file for this. For now using JSON for ease, can swtich to YAML if needed later|Wed, 19 Apr 2017 21:13:00 -0400|Wed, 19 Apr 2017 21:13:00 -0400
+f009cc7d1ab958471d391f89a620dbed7d9f0893|moving node details from config.xml to its own JSON file outside of code|Tue, 18 Apr 2017 20:47:29 -0400|Tue, 18 Apr 2017 20:47:29 -0400
+1fbc311aaeeadbfacf7fff7401262b980379b5aa|adjusting syntax|Tue, 18 Apr 2017 13:10:44 -0400|Tue, 18 Apr 2017 13:10:44 -0400
+e31064b5c20eb8967beda46f8a6ad3c3e9656c1f|Merging in metrics API updates as per recent discussions in the Matchmaker Tech working group|Mon, 17 Apr 2017 20:48:39 -0400|Mon, 17 Apr 2017 20:48:39 -0400
+226fdbb8b5a02cae60a535d6ddefbbea9cbce921|Both privileged and public end points ready|Mon, 17 Apr 2017 20:45:53 -0400|Mon, 17 Apr 2017 20:45:53 -0400
+f1a0ba18573635081fce515c55114b745348747a|Wiring in public endpoints cont.|Mon, 17 Apr 2017 19:56:04 -0400|Mon, 17 Apr 2017 19:56:04 -0400
+c1be6571ea29ee03d472606b76d64f472ebdcf19|Adding in metrics and wiring in public metrics to database|Mon, 17 Apr 2017 16:51:25 -0400|Mon, 17 Apr 2017 16:51:25 -0400
+1d08e66a2c94ad72a76fec75cbd27d9a2b670db1|Adding in privileged and public endpoints, extended off a base metrics class. Refactoring to put that in place and renaming some classes to better names|Sun, 16 Apr 2017 11:09:30 -0400|Sun, 16 Apr 2017 11:09:30 -0400
+5f3a4e9d6faba1820c22ee8479fd4e4412b2971b|adding in a service layer to help inject implementations better|Thu, 13 Apr 2017 15:50:02 -0400|Thu, 13 Apr 2017 15:50:02 -0400
+fae9b2d22be0f57086198e98f4dba867753600fb|Merging in changes and suggestion by Jules Jacobsen continued. Source code diverged a bit from that branch, so manually picking out pieces and adding in to save some time with merge conflicts|Wed, 12 Apr 2017 19:47:08 -0400|Wed, 12 Apr 2017 19:47:08 -0400
+907050ce7cdf09dc2aadf00ce5851231b43fb741|refactoring out unused/leftover spring annotations|Wed, 12 Apr 2017 18:58:42 -0400|Wed, 12 Apr 2017 18:58:42 -0400
+21eca966e33223b60a50d7168a3265d015928010|took out secrets and generalized app prop file|Wed, 12 Apr 2017 17:37:50 -0400|Wed, 12 Apr 2017 17:37:50 -0400
+1f5ff0789c8b48235b8d57beabba01c184e3eaf9|Updates, -fixed logging again by adding back in logback-spring.xml file -renamed user level application.properties file directory to be config -removed inner application properties file since it is no longer used|Wed, 12 Apr 2017 17:31:00 -0400|Wed, 12 Apr 2017 17:31:00 -0400
+c9e8b81f0452d4725fd91795bb16f96b64134e62|merging in latest updates from integration for deployment|Tue, 11 Apr 2017 14:11:39 -0400|Tue, 11 Apr 2017 14:11:39 -0400
+21fae2b2693407c51ddb482f6f9554b704a65481|refactoring cont.|Sun, 9 Apr 2017 20:35:53 -0400|Sun, 9 Apr 2017 20:35:53 -0400
+49baff729e88a709cbbcc709b96d21535f5dca4b|trying out fongo for more tests|Sun, 9 Apr 2017 19:17:58 -0400|Sun, 9 Apr 2017 19:17:58 -0400
+581dfffa214aec1c83b9ec57d2ec00e3121c4132|Refactoring and putting implementation classes of similarity behind service classes in anticipation of having more than one implementation to do this|Fri, 7 Apr 2017 15:43:32 -0400|Fri, 7 Apr 2017 15:43:32 -0400
+96ef70563b75f180572a1179d33832398ae09a11|refactoring cont.|Fri, 7 Apr 2017 14:26:49 -0400|Fri, 7 Apr 2017 14:26:49 -0400
+d6f3a83bc4bbe8465c636e1f15974e30a16cbf27|updating code where it was instantiating objects without using spring benefit of autowiring. Made these into services and wired in where needed by autowiring|Fri, 7 Apr 2017 11:03:17 -0400|Fri, 7 Apr 2017 11:03:17 -0400
+e3f137201989757de44407309a752c178aeb8a96|refactoring and using spring autowiring annotations vs using config.xml|Thu, 6 Apr 2017 21:18:33 -0400|Thu, 6 Apr 2017 21:18:33 -0400
+dbd5125a0ddb35c3d28730b8160d17242b1f281d|Added in a new dependency for logging|Thu, 6 Apr 2017 12:42:27 -0400|Thu, 6 Apr 2017 12:42:27 -0400
+2cec56215cac87fe437945ecab40b2eb00942bf9|adding log-level field to properties fix logging|Thu, 6 Apr 2017 12:41:11 -0400|Thu, 6 Apr 2017 12:41:11 -0400
+def09f0bcb9a6527a721a3c16b3c21a72400b32d|Adding in an extra attribute to request object to pass on name of center from authentication filter and also refactoring out unused annotations|Wed, 5 Apr 2017 22:26:37 -0400|Wed, 5 Apr 2017 22:26:37 -0400
+aad61fca208675833fffd68702d93d5763684d57|merging in master|Mon, 13 Mar 2017 17:39:19 -0400|Mon, 13 Mar 2017 17:39:19 -0400
+b971f9f0013afc523e4c3e2b00ee3e17200542f0|updating docs cont.|Mon, 13 Mar 2017 17:35:57 -0400|Mon, 13 Mar 2017 17:35:57 -0400
+5df811b38473900135421de14a6e0ab2fcde3758|updated README with instructions on how to serve matchbox as HTTPS|Mon, 13 Mar 2017 17:32:28 -0400|Mon, 13 Mar 2017 17:32:28 -0400
+77fd4f3e461aaaeaa0811872c6a62a8b72a34c1b|Adding in fields to application.properties to allow it to be https if needed|Mon, 13 Mar 2017 14:39:06 -0400|Mon, 13 Mar 2017 14:39:06 -0400
+6eb02c9d14fe43633a798002d8786b157843c0e9|merging in changes related to refactoring out constants, and adding in HTTPS support (when needed)|Mon, 13 Mar 2017 14:07:13 -0400|Mon, 13 Mar 2017 14:07:13 -0400
+8c6d1562eb466a293926293538895c3c65374917|Refactoring old comments out, moving configuration constants, and taking out hardcoded path to truststore from communications into application.properties as it should be|Mon, 13 Mar 2017 13:27:12 -0400|Mon, 13 Mar 2017 13:27:12 -0400
+6d204d77c757c8068d2c25223d672b8c08e75f34|minor update to docs|Mon, 30 Jan 2017 19:27:39 -0500|Mon, 30 Jan 2017 19:27:39 -0500
+4d598c46c06a69f74ae94051676e081c11bf7ea8|Adding some lines to say that we can help you join the MME and listing some characteristics of MME data sharing|Mon, 30 Jan 2017 19:26:08 -0500|Mon, 30 Jan 2017 19:26:08 -0500
+426dd469222a91ce054a3eb559472809a81b09ad|Added in a warning to use certificate adjustment ONLY in staging servers and not in production.|Sun, 29 Jan 2017 15:09:11 -0500|Sun, 29 Jan 2017 15:09:11 -0500
+7c6184034c3387ceb80d9f81741dbdb3c9f40e78|updating README cont.|Sun, 29 Jan 2017 13:23:46 -0500|Sun, 29 Jan 2017 13:23:46 -0500
+f1ea380726224b2e236b057bb74eefefd4b721bd|updating README with matching strategy cont.|Sun, 29 Jan 2017 13:22:31 -0500|Sun, 29 Jan 2017 13:22:31 -0500
+108fdba83d098b7248045d27547d3508f60125bd|Changing Requirements title to be "You will need" to avoid language confusion|Sun, 29 Jan 2017 13:02:10 -0500|Sun, 29 Jan 2017 13:02:10 -0500
+11b52698727ebccd67c9b6bccdd394cc68cc57cf|deleting an old section in README that was no longer needed|Sun, 29 Jan 2017 09:44:21 -0500|Sun, 29 Jan 2017 09:44:21 -0500
+7bfbc316547bc01b81617043cf78413266dd1c38|Added in a note to README about Java keystore as well as abstracting out that constant from the Communications class into the constant properties files that the user updates in installation|Sun, 29 Jan 2017 09:41:37 -0500|Sun, 29 Jan 2017 09:41:37 -0500
+48275e7ec02a7c658e4d0db6110681cc1469c890|clarifying README cont.|Sun, 29 Jan 2017 09:23:21 -0500|Sun, 29 Jan 2017 09:23:21 -0500
+8ac0cc892c82e339c8479f3997cae0d260fa1b39|Updated README with better details on connecting and installing MongoDB and building|Sun, 29 Jan 2017 09:19:09 -0500|Sun, 29 Jan 2017 09:19:09 -0500
+7b9f7c63a0ebdfffbbdbfc50e51e79099ac68a0c|Adding in governance structure doc draft|Sat, 28 Jan 2017 20:32:08 -0500|Sat, 28 Jan 2017 20:32:08 -0500
+eda79d565a972ba1e127bb1dd5009562c606f7f1|taking out email address to allow for generic use|Sat, 28 Jan 2017 18:59:18 -0500|Sat, 28 Jan 2017 18:59:18 -0500
+c70a96c1805f1aef55273ae814c1b66c50aeae8f|changing package name to be more inline with its purpose and reduce confusion|Sat, 28 Jan 2017 16:29:38 -0500|Sat, 28 Jan 2017 16:29:38 -0500
+8cc875fe54166a6fce8bf9e3b5cd5bce9568b7ad|took out IDE config files that had been checked in by error over time|Fri, 27 Jan 2017 14:55:54 -0500|Fri, 27 Jan 2017 14:55:54 -0500
+d800edcdb0a14cc5884104479aea482cd1fb70c8|took out .project files that had been checked in over time|Fri, 27 Jan 2017 14:41:49 -0500|Fri, 27 Jan 2017 14:41:49 -0500
+082945c83b1647d9583f15ec0148d14fda7739e4|Refactored class names from Match to Similarity since it collides with the Match interface and creates some confusion when reading the code|Fri, 27 Jan 2017 14:37:14 -0500|Fri, 27 Jan 2017 14:37:14 -0500
+d9981aeaed78e2a2f1ed2685412374ddb1b717fb|doc updating cont.|Thu, 26 Jan 2017 21:11:09 -0500|Thu, 26 Jan 2017 21:11:09 -0500
+38d019e69cba09f284246a273a0ad9bc45e2e6ca|updating regression tests and adding some docs to it|Thu, 26 Jan 2017 21:09:04 -0500|Thu, 26 Jan 2017 21:09:04 -0500
+b9d3b87d8a961e44cb34050a3251bb16ca0ca3c3|Added in more examples to cover all API endpoints|Thu, 26 Jan 2017 20:15:22 -0500|Thu, 26 Jan 2017 20:15:22 -0500
+9df75714c881d2f4c159ffef60016db2faf07ec5|updating docs cont.|Thu, 26 Jan 2017 16:52:46 -0500|Thu, 26 Jan 2017 16:52:46 -0500
+f455f63310c7fdbbf7685116cacd61f317f5ce61|updating README with a full end to end example|Thu, 26 Jan 2017 16:50:51 -0500|Thu, 26 Jan 2017 16:50:51 -0500
+da3875c98e1dd2289d44281bf69ef2c8daead555|updating config file with new class name|Thu, 26 Jan 2017 16:01:34 -0500|Thu, 26 Jan 2017 16:01:34 -0500
+e51fec49f2e08d1409214d2a52dea0a6fa1b139c|updating README with test information|Thu, 26 Jan 2017 08:17:06 -0500|Thu, 26 Jan 2017 08:17:06 -0500
+ec27322b9acf5766379fef9a61ab39404d7d5df1|updated README, refactored code, class nomenclature, updated tests (all passes), improved doc tags in methods and classes|Wed, 25 Jan 2017 16:27:40 -0500|Wed, 25 Jan 2017 16:27:40 -0500
+06e9bbf356df84e6a599daf06f75fd399278f8b9|updating README cont..|Wed, 25 Jan 2017 16:09:16 -0500|Wed, 25 Jan 2017 16:09:16 -0500
+f268e647872ada62f4f080c9689d4fbcae392634|Updated README|Wed, 25 Jan 2017 16:03:24 -0500|Wed, 25 Jan 2017 16:03:24 -0500
+fbe6e2c14a447930d6f798ab149d9532fcfb8a66|adding docs cont.|Wed, 25 Jan 2017 14:58:05 -0500|Wed, 25 Jan 2017 14:58:05 -0500
+60607d2ed489eace4d50d0f5cc413af6ee384b92|Adding some more documentation tags|Wed, 25 Jan 2017 14:55:30 -0500|Wed, 25 Jan 2017 14:55:30 -0500
+84d3619c18d4485e56befcef8e3dbfc13e12bbf3|Adjusting nomenclature on some interfaces to fit some common standards and be easier to read|Wed, 25 Jan 2017 14:53:56 -0500|Wed, 25 Jan 2017 14:53:56 -0500
+e5f45a2f0121bcb22f83878775758312af89e42d|Updated tests and adjusted javadocs and refactored|Wed, 25 Jan 2017 14:36:46 -0500|Wed, 25 Jan 2017 14:36:46 -0500
+397a10a954fb7f8c9389812dbdf3a02cb5268f47|small punctuation adjustment in string disclaimer|Tue, 24 Jan 2017 12:46:58 -0500|Tue, 24 Jan 2017 12:46:58 -0500
+5b5964fa87d67e77e45b79544c73d5e06c577164|merging in branch with disclaimer|Tue, 24 Jan 2017 12:29:08 -0500|Tue, 24 Jan 2017 12:29:08 -0500
+6002c8a0b3ba2b8225b91f978cd7b51abca3bfd0|Added in a copy of Broad disclaimer directly into the API result as well, as per genematcher and others does it (along with having it on the website)|Tue, 24 Jan 2017 12:28:20 -0500|Tue, 24 Jan 2017 12:28:20 -0500
+dd875d6f3b650f534600ac8a1bdb51b461016e19|adjusting metrics|Mon, 23 Jan 2017 18:36:00 -0500|Mon, 23 Jan 2017 18:36:00 -0500
+f23bb7c95bae5b0243580407972167815d315b72|Adjusting metrics calculations|Mon, 23 Jan 2017 18:35:14 -0500|Mon, 23 Jan 2017 18:35:14 -0500
+bd2518cadf7ba48b9790354645dbe9f6c60b18b6|Updating license cont.|Thu, 5 Jan 2017 12:39:38 -0500|Thu, 5 Jan 2017 12:39:38 -0500
+965873fdd165486b7d524610ab91190a1d0cab24|Merge branch 'master' of https://github.com/macarthur-lab/matchbox|Thu, 5 Jan 2017 12:39:10 -0500|Thu, 5 Jan 2017 12:39:10 -0500
+66ca4b39124a0391e56975ed8bed0c911d115a2d|Adding the correct license|Thu, 5 Jan 2017 12:38:49 -0500|Thu, 5 Jan 2017 12:38:49 -0500
+d60285afd0d2ea1077c9e92d2709405675ecaf93|Merge branch 'master' of https://github.com/macarthur-lab/matchbox|Thu, 5 Jan 2017 12:33:36 -0500|Thu, 5 Jan 2017 12:33:36 -0500
+847f04faf9bf43c5092bea74ede9e17e443e17ee|minor updates|Thu, 5 Jan 2017 12:31:58 -0500|Thu, 5 Jan 2017 12:31:58 -0500
+15cf9b9e41cbcbec32b948354d7507d656ff8216|updating basic config information and making it generic|Thu, 5 Jan 2017 12:31:07 -0500|Thu, 5 Jan 2017 12:31:07 -0500
+9093071c06bde17826cbfdfbd8dede447ec119fd|Adding BSD clause-3 license as discussed|Thu, 5 Jan 2017 11:39:44 -0500|Thu, 5 Jan 2017 11:39:44 -0500
+3986e7bb8ac84a0a401599e8c8a4af8e35e86c3e|adjusting docs and making license into BSD|Thu, 5 Jan 2017 10:25:25 -0500|Thu, 5 Jan 2017 10:25:25 -0500
+a111b2494e7fc49049a449d62d4ba158cb6865b8|updates docs|Thu, 5 Jan 2017 09:43:35 -0500|Thu, 5 Jan 2017 09:43:35 -0500
+00310f0154900787d7ffb6536029ddbf97cab9de|updating docs to get this ready for open sourcing|Wed, 4 Jan 2017 21:13:50 -0500|Wed, 4 Jan 2017 21:13:50 -0500
+70be7fc399fe02e698bb3c7981679fed6deec60d|temp commit to switch branches|Wed, 4 Jan 2017 17:10:01 -0500|Wed, 4 Jan 2017 17:10:01 -0500
+847d33856476cb1f50b11c639a94a7f2e3b54403|Added .gitattributes and .gitignore.|Wed, 16 Nov 2016 15:49:36 +0000|Wed, 16 Nov 2016 15:49:36 +0000
+0e3a2f4f2d3224dec660c903655a17ccd49289b9|merge|Fri, 28 Oct 2016 12:32:21 -0400|Fri, 28 Oct 2016 12:32:21 -0400
+ddd8992a31d0abb5308d0042594be478e2ef342a|logging needs this application properties file on the classpath, adding it back in|Fri, 21 Oct 2016 19:15:25 -0400|Fri, 21 Oct 2016 19:15:25 -0400
+4ae34e6eff26771d2781fa2bb0dc0debf2541d7b|deleting classpath application properties file|Fri, 21 Oct 2016 17:16:12 -0400|Fri, 21 Oct 2016 17:16:12 -0400
+2850c792c259682a80c687531d6f234bb8f38b53|Pushing to production|Fri, 21 Oct 2016 15:53:04 -0400|Fri, 21 Oct 2016 15:53:04 -0400
+787eb2bcdea24339e85d1a575699d8b0436c0fba|adding in example application properties to resources|Fri, 21 Oct 2016 12:47:16 -0400|Fri, 21 Oct 2016 12:47:16 -0400
+6a286de9677129bf97bcf36b671090d9740542dd|changed pointer to application.properties to be a file pointer instead of classpath|Fri, 21 Oct 2016 12:44:16 -0400|Fri, 21 Oct 2016 12:44:16 -0400
+033098ccc021c7626c4d82ff84a011e66eb249a6|merging with master. Switching to spring logging (vs printlns to initial dev), abstracted out all database loging credentials applications.properties file|Fri, 21 Oct 2016 10:03:09 -0400|Fri, 21 Oct 2016 10:03:09 -0400
+fed7001e6a535fd0a5a742d1b95fbc30b8b3dfdd|Adding in datbase config information to properties file|Fri, 21 Oct 2016 09:35:59 -0400|Fri, 21 Oct 2016 09:35:59 -0400
+6e82f7331d5bda6794732740fd9e19a921023dab|Adding in logging and taking out print statements, extracting all username/password and other database strings to application.properties file|Thu, 20 Oct 2016 19:24:17 -0400|Thu, 20 Oct 2016 19:24:17 -0400
+277d23dd3ff7932f42f726ede604fe46c0b43922|adding in key certificate|Fri, 14 Oct 2016 18:48:54 -0400|Fri, 14 Oct 2016 18:48:54 -0400
+39081e7098c480dc3ec082705dc71b447795923b|Added in zygosity as a score factor and took out number of genes in common on advice of Daniel|Thu, 13 Oct 2016 21:24:01 -0400|Thu, 13 Oct 2016 21:24:01 -0400
+fa0eedce73b497a76f80257a74a649510aff3725|Added in tostring to results and stopped matchbox from returning the same patient (as in the query) back. This was in place for initial testing but now taking out|Thu, 13 Oct 2016 12:33:00 -0400|Thu, 13 Oct 2016 12:33:00 -0400
+4ce2e6424d109fb5a232fa5cfdeefe9c38cb5018|Starting to add in disclaimers|Thu, 13 Oct 2016 11:07:13 -0400|Thu, 13 Oct 2016 11:07:13 -0400
+bbf0efb91392c825d92457bf2f37f90a3cf90122|Added in a matched field to log, stopped system from persisting query details unless there was a match, added in more fields to metrics endpoint|Wed, 12 Oct 2016 21:39:31 -0400|Wed, 12 Oct 2016 21:39:31 -0400
+12d1fa0d703c47a72f40fd8176e2d96d7d87a486|adding in metrics endpoints cont.|Wed, 12 Oct 2016 10:28:37 -0400|Wed, 12 Oct 2016 10:28:37 -0400
+22b344d8d0305b49bd16588903d360b9597b7a7b|Adding tests and metrics endpoint that shows number of genes and|Tue, 4 Oct 2016 22:42:56 -0400|Tue, 4 Oct 2016 22:42:56 -0400
+dc3662c10be51c6552920ad95f181d43dde15ef3|fixing auth|Thu, 29 Sep 2016 15:24:11 -0400|Thu, 29 Sep 2016 15:24:11 -0400
+c99815aa451c9f375eca0588f18c9c97db911b7f|minor update|Thu, 29 Sep 2016 15:23:45 -0400|Thu, 29 Sep 2016 15:23:45 -0400
+fe70900ec735934468ab14c2700ab444cf5b2c40|merging in better logging|Thu, 29 Sep 2016 15:08:16 -0400|Thu, 29 Sep 2016 15:08:16 -0400
+cef3c340cd60a0802208351daa0a2de20885d59c|Added in institution as a field in logging events|Thu, 29 Sep 2016 09:54:51 -0400|Thu, 29 Sep 2016 09:54:51 -0400
+52e97f09eb684582318fecb5d8a8d561190d3e0e|Adding in capability to persist incoming queries and their results for reporting|Wed, 28 Sep 2016 14:50:25 -0400|Wed, 28 Sep 2016 14:50:25 -0400
+89d0be2a26c41e9b0964cb406105a7a78603ef8a|temp commit|Mon, 26 Sep 2016 19:44:14 -0400|Mon, 26 Sep 2016 19:44:14 -0400
+36e8617978f4652f5d1b2e9870bbae54daf9c4e0|temp commit|Mon, 26 Sep 2016 17:30:44 -0400|Mon, 26 Sep 2016 17:30:44 -0400
+4ab18071440d984f5a06a125c3c99184324cb63b|fixes to allowing in multiple submissions|Thu, 15 Sep 2016 18:58:53 -0400|Thu, 15 Sep 2016 18:58:53 -0400
+d881395441f5a9c1b58282f41368a8a72c289332|testing updates|Wed, 14 Sep 2016 15:23:47 -0400|Wed, 14 Sep 2016 15:23:47 -0400
+de091c314c893b14d376b8611e900bc82876d2f7|testing communication|Wed, 14 Sep 2016 13:30:42 -0400|Wed, 14 Sep 2016 13:30:42 -0400
+50f2d2790757e6764ddfd7e8149e9b31b0c70ddd|A fix for HTTPS issue|Wed, 14 Sep 2016 13:14:43 -0400|Wed, 14 Sep 2016 13:14:43 -0400
+9e6aaa595698063f28da4270c794ee920f690c15|updating pom for tests|Tue, 13 Sep 2016 20:44:46 -0400|Tue, 13 Sep 2016 20:44:46 -0400
+3f0f35dbb05a13fb3100d79a2151363e795e43d9|temp commit|Tue, 13 Sep 2016 20:44:02 -0400|Tue, 13 Sep 2016 20:44:02 -0400
+d742e9fe03b504814be0a2ec0bfff56ffb23dc7a|updating POM|Tue, 13 Sep 2016 20:43:08 -0400|Tue, 13 Sep 2016 20:43:08 -0400
+bcc4fc952e000ed7305a06b06d742c19bd5bac24|Made adjustments to stop matchbox from sending the same result found by searching by symbol and ensembl id|Tue, 13 Sep 2016 20:27:38 -0400|Tue, 13 Sep 2016 20:27:38 -0400
+ab1abae8029199caa048f90398d5f83d18da46d1|adjusting mongodb connection string|Mon, 12 Sep 2016 15:38:37 -0400|Mon, 12 Sep 2016 15:38:37 -0400
+ee8ee0a77bd6c0c93d1d180057adbe5fef53f31f|Adding in authentication to mongo|Mon, 12 Sep 2016 15:22:50 -0400|Mon, 12 Sep 2016 15:22:50 -0400
+12cf1bdf723b0dd0b490f3c96366f98488462a05|Updates to scrubbing results of empty fields and more tests|Thu, 8 Sep 2016 19:42:59 -0400|Thu, 8 Sep 2016 19:42:59 -0400
+7714336ee486c3a992130169b0f88420bb52ed59|Updated system to sieve out empty optional fields in results before sending them over. c/o feedback from genematcher and phenomecentral|Thu, 8 Sep 2016 12:28:14 -0400|Thu, 8 Sep 2016 12:28:14 -0400
+3a37fccb86651aa50c90d35a1847a0ae570faf8b|Updated Patient object to send out a json representation that is without any fields that are empty. Added in more tests for all these changes|Wed, 7 Sep 2016 22:11:00 -0400|Wed, 7 Sep 2016 22:11:00 -0400
+42bee9c99d683b64783068b30d989b1a9e36b2b1|Added in test to catch the situation that a perfect match should return 1, and subsequent should reduce that value.Updated the geneotype matching code to reflect this|Wed, 7 Sep 2016 10:56:17 -0400|Wed, 7 Sep 2016 10:56:17 -0400
+8278a59bfb8ece7aea90bf1bbae084e18397c759|refactoring of unused imports|Sun, 4 Sep 2016 14:57:43 -0400|Sun, 4 Sep 2016 14:57:43 -0400
+5a1904b4c48103ca248817e0870f430bfc0f9979|Updated to search by both ensembl and symbol in case queries hav either, obfuscated input query log so we don't persist patient queries from outside in log by mistake|Sun, 4 Sep 2016 14:56:16 -0400|Sun, 4 Sep 2016 14:56:16 -0400
+ea35816ecc13c646c826747329583eb1797a25b3|Updated gene search to search by both ensembl and symbol|Sun, 4 Sep 2016 14:54:16 -0400|Sun, 4 Sep 2016 14:54:16 -0400
+beea79bc3a4bda6f0ffdfc658294f502f4d48c60|updates to TODOs|Sun, 4 Sep 2016 09:33:16 -0400|Sun, 4 Sep 2016 09:33:16 -0400
+982e9ef7df43098c5b1d96dee0e5a16a9b6be176|Changed the logging from printing a whole query (which is probably bad to persist) to simply the contact information for a count of metrics|Sun, 4 Sep 2016 09:29:52 -0400|Sun, 4 Sep 2016 09:29:52 -0400
+8d73309e251a79548be9b277ea6d66efb5f34912|Updated system to use v1.0 content headers as per discussions with GeneMatcher folks|Sat, 3 Sep 2016 21:40:36 -0400|Sat, 3 Sep 2016 21:40:36 -0400
+c6d74fc094e4ccd9dc40a6d509af100b6c013415|Updated README with a typo fix, updated match control to handle curl calls where the railing = is missing|Sat, 27 Aug 2016 16:21:13 -0400|Sat, 27 Aug 2016 16:21:13 -0400
+7f9c65f0260c3a2f5fb09af4b96e4426d1edfbf4|updated README with details on changing server port of tomcat|Sun, 21 Aug 2016 16:47:33 -0400|Sun, 21 Aug 2016 16:47:33 -0400
+fc3f8cfa540c8bd611514c374350660b3dbb4054|when sending a error HTTP message, added in a message as well|Sun, 21 Aug 2016 15:20:24 -0400|Sun, 21 Aug 2016 15:20:24 -0400
+81932fb1b70974a7a60447d68bf30c6412748582|Improving regression tests, now inserting all 50 test patients and counting if 50 uploaded fine|Fri, 19 Aug 2016 15:42:58 -0400|Fri, 19 Aug 2016 15:42:58 -0400
+a4d6ab335d108b73bda559a0db862c9d853d469c|Adding a bit more regression testing|Wed, 17 Aug 2016 17:09:19 -0400|Wed, 17 Aug 2016 17:09:19 -0400
+e368bd78063d4077e28901f4b6f71e233f3f7ee2|Building out regression tests|Tue, 16 Aug 2016 16:52:12 -0400|Tue, 16 Aug 2016 16:52:12 -0400
+b0e86a95bd1b127bb38f0cc1c1e7cd33bee0c246|Added in a API token generator|Tue, 16 Aug 2016 16:44:14 -0400|Tue, 16 Aug 2016 16:44:14 -0400
+e30655ef38b2150ed0e14226781eb95a2b88cfc8|Re-factoring|Wed, 3 Aug 2016 18:39:07 -0400|Wed, 3 Aug 2016 18:39:07 -0400
+6ce194f7f80d44791d145fd9df4e92e94ea6f4c4|Added in delete patient functionality|Wed, 3 Aug 2016 15:27:55 -0400|Wed, 3 Aug 2016 15:27:55 -0400
+7a1eb7de9a681986df1cc30b22b7dcf04c08b8f8|minor comment on purpose|Wed, 3 Aug 2016 14:43:01 -0400|Wed, 3 Aug 2016 14:43:01 -0400
+7abad4d6b1a18f374ade32d00c14acead78bf2c2|Refactoring of unused classes, renaming, and returning a warning when an external website is not live|Wed, 3 Aug 2016 13:11:53 -0400|Wed, 3 Aug 2016 13:11:53 -0400
+7c0d5c92f1fdb31e4d7f9d2cd054f85d8af51b20|updating config file bean naming to align with some new updates|Wed, 3 Aug 2016 11:38:05 -0400|Wed, 3 Aug 2016 11:38:05 -0400
+35875f92ee21b153b386a92cec1fc7bc0ba07823|Adding in ability for config file to store access tokens from allowed centers|Wed, 3 Aug 2016 10:46:54 -0400|Wed, 3 Aug 2016 10:46:54 -0400
+8aaef4b285b284743b52c91b739dc31142da0f95|refactoring entity classes to entity package and adding in an example entry for access granted token|Wed, 3 Aug 2016 10:01:35 -0400|Wed, 3 Aug 2016 10:01:35 -0400
+aaf73c3cecb79aefa327689204d3b7c3779e6131|Adding in regression tests for API|Tue, 2 Aug 2016 20:29:29 -0400|Tue, 2 Aug 2016 20:29:29 -0400
+8b0dafce0d003b8a98ff5eea8deb71f0259b2ef3|Adding unit testing for genotype matching|Tue, 2 Aug 2016 18:57:50 -0400|Tue, 2 Aug 2016 18:57:50 -0400
+f86f003c6e2fd3006b1e06a488f32fed38ee93b4|Refactoring authentication architechture and adding in code for external nodes to call in|Tue, 2 Aug 2016 15:46:47 -0400|Tue, 2 Aug 2016 15:46:47 -0400
+a42b7ca95b4a9f29fb4707f335d47175151ccaa2|Added in a better genotype matching algorithm based on types|Thu, 28 Jul 2016 21:47:29 -0400|Thu, 28 Jul 2016 21:47:29 -0400
+dc27a41d7f1794aa6b27e1698aabc1911d174bfb|Wiring in basic scoring algorithm that uses a basic matching system (as a placeholder to be improved)|Wed, 27 Jul 2016 19:58:55 -0400|Wed, 27 Jul 2016 19:58:55 -0400
+1c9c74e79404a78f66e8a53235e553352b241cdd|Adding in phenotype rankings|Wed, 27 Jul 2016 15:41:26 -0400|Wed, 27 Jul 2016 15:41:26 -0400
+8526b223fc9e7bbb3d980abd657df8d493b417d1|Abstracted out matching algorithms to it own package to start adding in phenotype matching. And checking in eclipse project file to help with developing it and hav it recognize it as a java project in eclipse|Wed, 27 Jul 2016 08:53:46 -0400|Wed, 27 Jul 2016 08:53:46 -0400
+b15318dba3a87a56fcd949685fe9ccf41a9b21d1|Refactoring of test sets|Tue, 26 Jul 2016 13:29:04 -0400|Tue, 26 Jul 2016 13:29:04 -0400
+c08e09cae0e2574e743336258b126284e61a2d87|refactored README with new name|Mon, 25 Jul 2016 21:29:25 -0400|Mon, 25 Jul 2016 21:29:25 -0400
+1c265e6ec21507ef5918a6c2cd8b60d52f1328ae|refactored package names to the new name|Mon, 25 Jul 2016 21:19:57 -0400|Mon, 25 Jul 2016 21:19:57 -0400
+38b0e15e26594c1ee07517422f6dc77b55adaa25|Added in automated indexing to GenomicFeature.Gene.id|Sat, 9 Jul 2016 21:40:08 -0400|Sat, 9 Jul 2016 21:40:08 -0400
+81f7d9dd2b7aed2f8a797fd979bef36a18c3d33b|using explicit check for if patient exists rather than catching exceptions|Sat, 9 Jul 2016 17:24:50 -0400|Sat, 9 Jul 2016 17:24:50 -0400
+afc8fdd8dde2e757f8a6c7a49ae5441ddeaf1f4c|Updated error handling to be a bit more decriptive and better|Sat, 9 Jul 2016 16:13:37 -0400|Sat, 9 Jul 2016 16:13:37 -0400
+e47edb05455820bf18c92758b941969d8b83c1c8|Updating matchbox to return status codes along with messages|Fri, 8 Jul 2016 11:14:18 -0400|Fri, 8 Jul 2016 11:14:18 -0400
+7d60160202787476e1a72e4e8365f3d2d91915ad|Checking in obfuscated config file without tokens|Wed, 15 Jun 2016 12:20:38 -0400|Wed, 15 Jun 2016 12:20:38 -0400
+1f3eabad8ddb8fb517e28a5b7ff378aa6f00d921|Added in a field to track if a node had self signed certificates|Wed, 15 Jun 2016 09:25:28 -0400|Wed, 15 Jun 2016 09:25:28 -0400
+4629961c196a4419352de7a6407375651f958931|adding a switch to say if an external node is using a self signed cert of not|Tue, 14 Jun 2016 22:03:40 -0400|Tue, 14 Jun 2016 22:03:40 -0400
+f27c474c1daa5c11746d735dc6fd31dc7e4331b6|Wiring in other matchmaker nodes and adjusting security settings to allow for https calls with sometimes missing security settings|Tue, 14 Jun 2016 20:29:37 -0400|Tue, 14 Jun 2016 20:29:37 -0400
+f219fe662b52a27f9dc8aea641bc750573e7ece1|Starting to add in GeneMatcher credentials. This exposed the need to sometimes ignore Certificates and the need for HttpsConnection. Refactored code to allow the use for Https and ignore certificates if needed|Fri, 10 Jun 2016 16:53:59 -0400|Fri, 10 Jun 2016 16:53:59 -0400
+090de92e742751eb1039151ed39db0e50a398150|Returning external matchmaker call results back to UI OK|Mon, 6 Jun 2016 19:23:49 -0400|Mon, 6 Jun 2016 19:23:49 -0400
+fd86583320e7b58e298fc5b8cc504b3481f9861e|back-end server now talking to reference server|Mon, 6 Jun 2016 15:33:55 -0400|Mon, 6 Jun 2016 15:33:55 -0400
+dd8cdb2594ed6d696acfbca55d53980aefe37010|Adding in the public test reference server to test calling external nodes and documenting how to do this|Mon, 6 Jun 2016 13:42:17 -0400|Mon, 6 Jun 2016 13:42:17 -0400
+7b5ba84b81e08f1552e71b0d829758040ff62eb2|Minor updates testing authenticated mongo connections|Fri, 27 May 2016 13:00:33 -0400|Fri, 27 May 2016 13:00:33 -0400
+bc5ffd2c68c67228a1aeb949a7e6005ad4ee4a69|Fixed the bug with the query not finding all results|Wed, 25 May 2016 21:15:35 -0400|Wed, 25 May 2016 21:15:35 -0400
+4a94b15972102f8c6ffc3f39c48f4e7a3b8f7aab|Updated /individual/add to throw an error message when a patient with an id that is already in the system tries to be inserted again|Wed, 25 May 2016 16:18:51 -0400|Wed, 25 May 2016 16:18:51 -0400
+65dd09b9fcade9103997a9e470966a8f1f219aa2|Fixed incorrect Variant object population bug|Wed, 25 May 2016 15:30:43 -0400|Wed, 25 May 2016 15:30:43 -0400
+787a3a6ddcd28bba7b74f3fda5cc5b68d0c5ba86|making patient objects immutable|Wed, 25 May 2016 14:06:30 -0400|Wed, 25 May 2016 14:06:30 -0400
+5fe1f2ff474428c6b9c43f98026f90afd4cc9c1a|Fixing a bug with variant related to mutability of objects|Tue, 24 May 2016 19:33:41 -0400|Tue, 24 May 2016 19:33:41 -0400
+1c1fb1a2080cc5f1c442b027d174f1c29c4c8647|Able to insert a patient with optional and required fields filled out|Fri, 13 May 2016 19:11:29 -0400|Fri, 13 May 2016 19:11:29 -0400
+5ea5e5f1fd676ddea8450d7c9da3b4791d6cddbc|Added in ability to handle missing Features or GenomicFeatures, but not both (as per MME spec)|Wed, 11 May 2016 14:35:18 -0400|Wed, 11 May 2016 14:35:18 -0400
+ad78eeae04df353efd2a96e5debca3edf6b05af2|Added in validation of input patient structure. Checking if id and contact details are entered. If they are not, a 400 Bad Request is sent back as defined in MME Spec|Wed, 11 May 2016 10:41:59 -0400|Wed, 11 May 2016 10:41:59 -0400
+e6efae87a0b263634eb4261bf040b603946cfcc0|Checking if ID is entered, if not throwing a bad gatway error as dictated by the MME Spec|Mon, 9 May 2016 16:15:02 -0400|Mon, 9 May 2016 16:15:02 -0400
+9cd0ed613b3dbc92d54d393a0ff298dd0121fa52|Adding in required/optional variability to queries from outside|Mon, 9 May 2016 15:07:46 -0400|Mon, 9 May 2016 15:07:46 -0400
+2e68e91f7d301204ad227ada3c21106a56141855|fixing url double mapping error|Fri, 6 May 2016 14:36:00 -0400|Fri, 6 May 2016 14:36:00 -0400
+2f71e86633d6ddfdab8232b109af846efee79224|Added in delete endppiont and update db name to mme_primary|Fri, 6 May 2016 14:18:41 -0400|Fri, 6 May 2016 14:18:41 -0400
+4fe687271c87f0d980fac9743c86c5a456664e41|Notes on matching strategy|Fri, 15 Apr 2016 14:27:30 -0400|Fri, 15 Apr 2016 14:27:30 -0400
+ed8f16647620985ec3c9525a92a42b844c490214|formatting updates to README|Fri, 15 Apr 2016 14:00:29 -0400|Fri, 15 Apr 2016 14:00:29 -0400
+8c4d04aa0c254e950612ea8dc92b92618d188f56|Documented some examples to use with test server|Fri, 15 Apr 2016 13:57:27 -0400|Fri, 15 Apr 2016 13:57:27 -0400
+93a6641a49bb956f41fd670d4147fc1097fc32ae|Adding in TODO notes|Fri, 15 Apr 2016 12:18:19 -0400|Fri, 15 Apr 2016 12:18:19 -0400
+08355ebdbb65f9f2996aaaf8ae5007a19ebea05e|minor updates|Fri, 15 Apr 2016 11:59:23 -0400|Fri, 15 Apr 2016 11:59:23 -0400
+750944ec57d6d064201607fd47b7c9539aeb3459|gene search query in place|Fri, 15 Apr 2016 11:00:29 -0400|Fri, 15 Apr 2016 11:00:29 -0400
+c923ab0e0d2453e3d8e165325c3307aeb265cf41|Matching on gene symbol!|Thu, 14 Apr 2016 19:59:52 -0400|Thu, 14 Apr 2016 19:59:52 -0400
+02c34318ce77b1608aad142dca30e761d834933b|Trying to wire in querying Mongo on Gene names, almost there..|Thu, 14 Apr 2016 16:24:50 -0400|Thu, 14 Apr 2016 16:24:50 -0400
+0d74ac72938f063fa259d2f4b527197ae3d4f387|Specifying database and collectioname in mongo|Thu, 14 Apr 2016 11:45:17 -0400|Thu, 14 Apr 2016 11:45:17 -0400
+4878ab2cd15d4345519a7834634db71b77c4e235|Specifying the database to be|Thu, 14 Apr 2016 11:43:58 -0400|Thu, 14 Apr 2016 11:43:58 -0400
+430e1df85d7cb39ef1d1edff641b9bb7a4e39aa5|refactoring unused code and hiding Search functions behind the interface to better abstract it out|Thu, 14 Apr 2016 11:11:34 -0400|Thu, 14 Apr 2016 11:11:34 -0400
+e26abb4b7869935bd647bdc9cd740aceb35266e1|Added in search functions that differentiate between local database search only and external node search only|Thu, 14 Apr 2016 10:53:16 -0400|Thu, 14 Apr 2016 10:53:16 -0400
+4305c68086a9ce4ee865be8e8fda105a181a7b74|Added in an API end-point to view individuals in beamr|Thu, 14 Apr 2016 10:13:18 -0400|Thu, 14 Apr 2016 10:13:18 -0400
+78f20169ecdaa5e2151146e307a2b043565f90a8|Wiring into Mongo data model|Wed, 13 Apr 2016 21:07:11 -0400|Wed, 13 Apr 2016 21:07:11 -0400
+045579d6c820e8ebd4f79541264dc25035cdbc89|Wired mongo directly to controller and took out intermediary classes since they were confusing things, will add them back in later|Wed, 13 Apr 2016 17:02:35 -0400|Wed, 13 Apr 2016 17:02:35 -0400
+89393073cd465f7ede1d5096337f4732fd4f3fed|Saving a patient in MongoDB|Wed, 13 Apr 2016 16:57:37 -0400|Wed, 13 Apr 2016 16:57:37 -0400
+2dbb200a5e1c1872cd61320e4b785cad20375109|Wiring in MongoDB as the backend database|Wed, 13 Apr 2016 14:39:15 -0400|Wed, 13 Apr 2016 14:39:15 -0400
+315851bd0d2c378d38da6f021f1780bb64aee763|Wiring in MongoDB as a backend datamodel, but keeping it loosely coupled to the rest of the application so we can switch it when we do the same for seqr|Wed, 13 Apr 2016 10:38:10 -0400|Wed, 13 Apr 2016 10:38:10 -0400
+bdb2f774f983c40c828c982499d6b133d9efd601|Updating README with backend information|Mon, 11 Apr 2016 15:59:23 -0400|Mon, 11 Apr 2016 15:59:23 -0400
+cee573bffbc9210ff0c01b600b3542f5bec24cc4|Parsing the patient JSON POST input into a Patient object and passing that along to be searched and compared with|Mon, 11 Apr 2016 15:34:17 -0400|Mon, 11 Apr 2016 15:34:17 -0400
+117c55e35ceebe35536f8e1d13515cb4d2d7091d|parsing the request into a object continued|Sun, 10 Apr 2016 18:56:24 -0400|Sun, 10 Apr 2016 18:56:24 -0400
+e20b5ca98b44bd10af46300b02ba8e376f5fb4db|Parsing input patient search request from request body|Sun, 10 Apr 2016 16:11:45 -0400|Sun, 10 Apr 2016 16:11:45 -0400
+210232d663d3a8da937df274617346afbb52f449|Reading in patient record and fixed a bug where config file was not populating controllers|Sun, 10 Apr 2016 13:48:51 -0400|Sun, 10 Apr 2016 13:48:51 -0400
+b6d7c3062432872a3961e449d3bfd9f3bce801c0|reading in a patient through POST payload|Sun, 10 Apr 2016 13:20:13 -0400|Sun, 10 Apr 2016 13:20:13 -0400
+1b4afcf721157e3625b69e889753b53d70dc7587|Took out hardcoding of mapping the spring file to app. And renamed spring file to be more apt config.xml|Sun, 10 Apr 2016 09:14:26 -0400|Sun, 10 Apr 2016 09:14:26 -0400
+bd0551a4fb2ed356904848b3d6d4d02dd4842eb7|typo fixes|Sat, 9 Apr 2016 14:49:58 -0400|Sat, 9 Apr 2016 14:49:58 -0400
+08341d301f1b67b3f20b9bda2b4d8c050745baa2|Fixing of typos and grammer in README|Sat, 9 Apr 2016 14:48:54 -0400|Sat, 9 Apr 2016 14:48:54 -0400
+abdcb419b1cd1be1e4e3094358ab2984e32a7a14|Updates to README|Sat, 9 Apr 2016 14:44:59 -0400|Sat, 9 Apr 2016 14:44:59 -0400
+6d5afb6cb3afc59a7a5933a35e7257deb7ed39c7|Formatting updates to README|Sat, 9 Apr 2016 14:37:45 -0400|Sat, 9 Apr 2016 14:37:45 -0400
+2247691d4db8196d94ee197ce422a8735f48bc7d|minor update to text in README|Sat, 9 Apr 2016 14:35:41 -0400|Sat, 9 Apr 2016 14:35:41 -0400
+b68bac6bfc3c3cc1680312acb644c6fbf4c30c95|Updating README|Sat, 9 Apr 2016 14:34:37 -0400|Sat, 9 Apr 2016 14:34:37 -0400
+92ef7305e2aa1e9f67cf42d0f4a172d5285e413c|Updating README with search strategy and minor updates to comments in code|Sat, 9 Apr 2016 14:27:11 -0400|Sat, 9 Apr 2016 14:27:11 -0400
+6ae58467956dd4f81ff290bf02b539304faa8614|Wiring in controllers and injecting in matchmaker nodes through IoC|Sat, 9 Apr 2016 14:18:43 -0400|Sat, 9 Apr 2016 14:18:43 -0400
+b100e44cf59d352361b87156abc1c821ad9f9640|Setting up matchmaker searching and dependency injection for coding in matchmaker nodes|Sat, 9 Apr 2016 13:41:01 -0400|Sat, 9 Apr 2016 13:41:01 -0400
+4f60d0efae2e64201966a0e324347e2948fce973|Adding generators|Fri, 8 Apr 2016 19:12:55 -0400|Fri, 8 Apr 2016 19:12:55 -0400
+12c03124ab1d30cea2b81d049caf82b1275f4f8a|Minor updates|Fri, 8 Apr 2016 17:26:07 -0400|Fri, 8 Apr 2016 17:26:07 -0400
+22da19416ca7e6ffb8d343020b6249abe61f6f1e|Starting to add the ability add and to search in other matchmaker nodes|Fri, 8 Apr 2016 17:25:08 -0400|Fri, 8 Apr 2016 17:25:08 -0400
+a628e25db5b4354064fb89160cd0887cc3c94f71|updated Spring POM with new name package names|Fri, 8 Apr 2016 15:26:05 -0400|Fri, 8 Apr 2016 15:26:05 -0400
+648e8b9613f9a632a12a9016e464a68e4c567005|Updating README|Fri, 8 Apr 2016 13:13:16 -0400|Fri, 8 Apr 2016 13:13:16 -0400
+ce1e482ae05ca0762cbfbfe2eeaf221755f70ec7|Added in test and installation details to README|Fri, 8 Apr 2016 13:04:43 -0400|Fri, 8 Apr 2016 13:04:43 -0400
+d210df46f11b184c1ddd5dcc1d778466cee74c1a|initial commit|Fri, 8 Apr 2016 12:39:07 -0400|Fri, 8 Apr 2016 12:39:07 -0400
+22ad688311c4fe6fb080119bca9e6c517667e390|Initial commit|Fri, 8 Apr 2016 11:17:36 -0400|Fri, 8 Apr 2016 11:17:36 -0400

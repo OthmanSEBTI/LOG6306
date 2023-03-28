@@ -1,0 +1,961 @@
+5875dc0489f707232534ce75daf3707f909bcd15|Updated badges|Sun, 28 Jul 2019 23:32:05 +0100|Sun, 28 Jul 2019 23:32:05 +0100
+5d51286d9cc5f596ad060145a17fb7da3144e087|Fixed linter error|Sun, 28 Jul 2019 23:16:17 +0100|Sun, 28 Jul 2019 23:16:17 +0100
+b2b065f2411b51af56dce32fe94b51b89eb57aee|Fix linter errors|Sun, 28 Jul 2019 23:06:36 +0100|Sun, 28 Jul 2019 23:06:36 +0100
+a01e78845fd413e9e9ae22ae4048d5530b51a043|Fix linter errors|Sun, 28 Jul 2019 23:05:27 +0100|Sun, 28 Jul 2019 23:05:27 +0100
+ab6cfb4f1027a97de2f6b92895e09b7a4b7f16da|Fix linter error|Sun, 28 Jul 2019 23:04:30 +0100|Sun, 28 Jul 2019 23:04:30 +0100
+0a2f8f00f8b6b625e0b065e93e3a7f30a604110a|Fix linter error|Sun, 28 Jul 2019 23:03:48 +0100|Sun, 28 Jul 2019 23:03:48 +0100
+78d02b4424d8e3f7ff9c69f092a4962f6e8d6f97|Merge pull request #103 from rtobar/dlg-integration|Fri, 5 Jul 2019 10:32:59 +0100|Fri, 5 Jul 2019 10:32:59 +0100
+89a14511bdf7da3e7f97eb5b0e82e6cec14f7c3a|Fixing linting failures|Fri, 5 Jul 2019 11:21:24 +0800|Fri, 5 Jul 2019 11:21:24 +0800
+b10ff6723a84b1c5e7815c90d7e2bd406e2bc11c|Update README.md|Thu, 4 Jul 2019 13:12:36 +0100|Thu, 4 Jul 2019 13:12:36 +0100
+bad310a283d4d459464a2aff670fd596f5716fef|Use the daliuge-pbc PBC implementation on demand|Thu, 4 Jul 2019 16:41:33 +0800|Thu, 4 Jul 2019 16:41:33 +0800
+c95ac2236f6a548fb1d769840de3d5e18e2b41ed|Decoupling the scheduler from sip_pbc|Thu, 4 Jul 2019 16:35:58 +0800|Thu, 4 Jul 2019 16:40:47 +0800
+55ba63a6b68a89b94e68d8741b755ab52c542a97|UKSW-10 Unit tests for visibility receive (continued) (#97)|Mon, 3 Jun 2019 11:52:57 +0100|Mon, 3 Jun 2019 11:52:57 +0100
+df1965d5632720f6565d70d1e153333b196b0c9a|Feature/ci integration (#102)|Fri, 31 May 2019 16:08:28 +0100|Fri, 31 May 2019 16:08:28 +0100
+81aa318e65c3aa50b51ad5c4661df56b84ae14b5|Fix memory leak in receiver_free().|Fri, 31 May 2019 14:12:24 +0100|Fri, 31 May 2019 14:12:24 +0100
+cbde27dc4510eff29ce507904c5eecf593963b55|UKSW-30 updated travis and testing requirements v1|Mon, 13 May 2019 11:43:30 +0100|Fri, 24 May 2019 10:56:26 +0100
+2b22c87d8179e64da1dd1ed04bfe3f456a3a5288|UKSW-30 temp removing urlib3 and cpp-coveralls for testing|Mon, 13 May 2019 11:38:25 +0100|Fri, 24 May 2019 10:56:26 +0100
+a13964ab3284c01c1e754613d79b2b3dbde48637|UKSW-30 temp removing urlib3 for testing|Mon, 13 May 2019 11:33:24 +0100|Fri, 24 May 2019 10:56:26 +0100
+8d3572e239b0ca053c4afd8fe49fecdde19dfc6f|UKSW-30  testing with previous testing_requirements|Mon, 13 May 2019 11:24:24 +0100|Fri, 24 May 2019 10:56:26 +0100
+8f01397fe2806878b52428098fc6c04778c2a731|UKSW-30 removed code coverage for testing|Mon, 13 May 2019 11:17:27 +0100|Fri, 24 May 2019 10:56:26 +0100
+ab5dc885dba9889424a9923ee9b4f0f6d3cf0b3c|UKSW-30 removed code coverage for testing|Mon, 13 May 2019 10:47:18 +0100|Fri, 24 May 2019 10:56:26 +0100
+697c4adfc33ee44d20a42567bbb9cae7d383e8e4|UKSW-30 Testing2|Mon, 13 May 2019 10:30:11 +0100|Fri, 24 May 2019 10:56:26 +0100
+24f7012c0d55584bb40ae8c9cae0d4441cb4b1e2|UKSW-30 Testing|Mon, 13 May 2019 10:14:44 +0100|Fri, 24 May 2019 10:56:26 +0100
+b6a89d00717b06517d84ce0d630505273a7dfc4b|Updated scripts to include coveralls for python|Mon, 13 May 2019 10:02:38 +0100|Fri, 24 May 2019 10:56:26 +0100
+f848c21a9770bb48ae541216172b977bb3ccc2e8|UKSW-9 Travis updated with coveralls v3|Fri, 10 May 2019 14:41:45 +0100|Fri, 10 May 2019 14:54:24 +0100
+0e8595d65239b26349e4acc33bfdbf30244578ed|Reverted Tests.cpp to master version|Fri, 10 May 2019 13:58:57 +0100|Fri, 10 May 2019 14:54:24 +0100
+4c6a4c35544619dbbd56fda590028a1a1b6a124f|UKSW-9 updated travis.ci with coveralls v2|Thu, 9 May 2019 16:48:41 +0100|Fri, 10 May 2019 14:54:24 +0100
+8ac04006161a5d157d923ed32908d689ecab4cd4|UKSW-9 testing an alternative way|Thu, 9 May 2019 16:42:32 +0100|Fri, 10 May 2019 14:54:24 +0100
+05bb8f30870d2790350e2a557639797c79cbd449|UKSW-9 testing an alternative way|Thu, 9 May 2019 16:36:56 +0100|Fri, 10 May 2019 14:54:24 +0100
+f3ec8feb313d2d28bc2da6a16dd5dce4d0a1f45b|UKSW-9 updated travis.ci with coveralls v2|Thu, 9 May 2019 16:25:14 +0100|Fri, 10 May 2019 14:54:24 +0100
+804f6616ade53e0e52151ef3013042b11838700c|UKSW-9 testing to check if coveralls works|Thu, 9 May 2019 16:09:09 +0100|Fri, 10 May 2019 14:54:24 +0100
+18f74ac1eda001ae3fd8e00a6b39b1904b7d1e48|UKSW-9 testing to check if coveralls works|Thu, 9 May 2019 16:03:39 +0100|Fri, 10 May 2019 14:54:24 +0100
+9362f9d574d077ae04d3ad370eae64191f176a63|UKSW-9 updated travis.ci with coveralls v1|Thu, 9 May 2019 15:52:22 +0100|Fri, 10 May 2019 14:54:24 +0100
+fa1a0e9aaf1189965758dcf7e50a5dbd9e483f5c|UKSW-9 updated travis and CMakeLists|Thu, 9 May 2019 15:35:21 +0100|Fri, 10 May 2019 14:54:24 +0100
+31d14cc404c71895f9f130250a07f257349d8de5|UKSW-9 updated travis abd CMakeLists|Wed, 8 May 2019 15:51:38 +0100|Fri, 10 May 2019 14:54:24 +0100
+35ed5a8c5477b7f4f31dae72ec73cf721660a75c|UKSW-9 updated travis abd CMakeLists|Wed, 8 May 2019 15:44:50 +0100|Fri, 10 May 2019 14:54:24 +0100
+e8387ed481d96082925e5b94c2946d0dcce59bad|UKSW-9 updated travis abd CMakeLists|Wed, 8 May 2019 15:29:54 +0100|Fri, 10 May 2019 14:54:24 +0100
+cea9d8e4eae6dbe61c708882533b231bcd15dbc4|UKSW-9 updated travis abd CMakeLists|Wed, 8 May 2019 14:55:41 +0100|Fri, 10 May 2019 14:54:24 +0100
+037fccadec1cc35705763c8954becafe32746060|UKSW-9 updated travis README and CMakeLists|Wed, 8 May 2019 14:47:34 +0100|Fri, 10 May 2019 14:54:24 +0100
+1562865a1ef02956b531ead8160c4e205f81819a|UKSW-9 updated travis README and CMakeLists|Wed, 8 May 2019 14:39:09 +0100|Fri, 10 May 2019 14:54:24 +0100
+d313af466e47c9a8e936d12322441432dd24d328|UKSW-9 updated travis README and CMakeLists|Wed, 8 May 2019 14:29:55 +0100|Fri, 10 May 2019 14:54:24 +0100
+0e5e00167040fc6e3ee6d6f651e4f902049b2ad2|Added coveralls-cmake dir and updated travis and CMakeLists.txt file|Wed, 8 May 2019 13:47:44 +0100|Fri, 10 May 2019 14:54:24 +0100
+25275952a9a46d0525cfe9486793e869c72a0e67|UKSW-9 updated override the script error|Wed, 8 May 2019 11:23:58 +0100|Fri, 10 May 2019 14:54:24 +0100
+df68588b7ed108aea708074268fa59170acd93fb|UKSW-9 updated urllib3|Wed, 8 May 2019 11:15:46 +0100|Fri, 10 May 2019 14:54:24 +0100
+d0b6942d2c9bbb566f4a297ea8ad2b104e21646c|UKSW-9 updated urllib3|Wed, 8 May 2019 11:10:27 +0100|Fri, 10 May 2019 14:54:24 +0100
+063186e291cbf43d33e049b2a2c22e573a3ff6ce|UKSW-9 updated urllib3|Wed, 8 May 2019 11:05:52 +0100|Fri, 10 May 2019 14:54:24 +0100
+4d97978a19b6294cdcc6f1a7ea4c426b917799fe|UKSW-9 updated travis.yml and test requirements.txt files|Wed, 8 May 2019 10:55:54 +0100|Fri, 10 May 2019 14:54:24 +0100
+1b6ea6c8ef3a4f5d31f586c593d908c641c1211a|UKSW-9 updated travis.yml and test requirements.txt files|Wed, 8 May 2019 10:49:26 +0100|Fri, 10 May 2019 14:54:24 +0100
+4d9cde01e046352cda08096119b4442ba1979c11|UKSW-9 updated travis.yml with coveralls|Wed, 8 May 2019 10:41:32 +0100|Fri, 10 May 2019 14:54:24 +0100
+0da0a150b3b506570c6d37615f00f0b31a839f19|UKSW-9 updated travis.yml with coveralls|Wed, 8 May 2019 10:35:33 +0100|Fri, 10 May 2019 14:54:24 +0100
+5a9c8b41283e1aa7fd0a4b980e3744909b692b27|UKSW-9 reverted back to orignal version|Thu, 2 May 2019 10:29:40 +0100|Fri, 10 May 2019 14:54:24 +0100
+495a0c02f0f17bceb8c214c67554a3eb4466c595|UKSW-9 updating travis.yml|Thu, 2 May 2019 10:14:01 +0100|Fri, 10 May 2019 14:54:24 +0100
+f99e4f068459190bdde71e8d0b65986e09f9e322|UKSW-9 updating travis.yml|Thu, 2 May 2019 10:13:06 +0100|Fri, 10 May 2019 14:54:24 +0100
+edc50c2db6b5f7baf95b5c9b8009df3f81ea2a89|UKSW-9 updating travis.yml|Thu, 2 May 2019 10:05:45 +0100|Fri, 10 May 2019 14:54:24 +0100
+216c0c859c6b5a2565a7cd5054a7b0ba00c29137|UKSW-9 updating travis.yml|Thu, 2 May 2019 10:04:30 +0100|Fri, 10 May 2019 14:54:24 +0100
+c95ad9e61af42c7b2eab2c0fb09077914dced732|UKSW-9 updated travis and build_test.sh file with coveralls|Thu, 2 May 2019 09:59:15 +0100|Fri, 10 May 2019 14:54:24 +0100
+4f19911a5d732e9b9bccb30edf44730111fcf702|UKSW-9 - Updated travis.yml file|Wed, 1 May 2019 14:33:19 +0100|Fri, 10 May 2019 14:54:24 +0100
+d7be4501fce3d78f331b5c1c5a48211f9374bb7c|Vis recv unit test completed|Mon, 29 Apr 2019 16:44:35 +0100|Fri, 10 May 2019 14:54:24 +0100
+12ed857c46b3c11a26d9edea5a80398e2994666e|Updated unit test includes heap data|Mon, 29 Apr 2019 12:00:56 +0100|Fri, 10 May 2019 14:54:24 +0100
+8b9e6e71e64c7307e64b1f5d55d714871baf593f|temp commit|Mon, 29 Apr 2019 10:55:28 +0100|Fri, 10 May 2019 14:54:24 +0100
+d422fb6347745d43854c3e7792b1446e04d01192|Updated ingest unit test, more work to be done on visibility data|Thu, 25 Apr 2019 14:38:25 +0100|Fri, 10 May 2019 14:54:24 +0100
+423170e5fefab2fe6d8d7a99cf86ca7f87afc89d|Changes to the test_stream_receive|Thu, 25 Apr 2019 13:19:00 +0100|Fri, 10 May 2019 14:54:24 +0100
+c2cef3bf4437047c65929ae310ba9b4eeb844f7f|Updated travis to include codecov v4|Thu, 25 Apr 2019 11:59:34 +0100|Fri, 10 May 2019 14:54:24 +0100
+6a1fd26d2fbb7ebe02e4f65eca928d083da8060c|Updated travis to include codecov v3|Thu, 25 Apr 2019 11:37:40 +0100|Fri, 10 May 2019 14:54:24 +0100
+cedea2de834622086c4b5e59d85a5babc54c3766|Updated travis to include codecov for the c unit test v2|Thu, 25 Apr 2019 11:19:42 +0100|Fri, 10 May 2019 14:54:24 +0100
+c38ec7e8b2c1b5d7f6272e970569f80abf6ef634|Updated travis to include codecov for the c unit test|Thu, 25 Apr 2019 11:04:18 +0100|Fri, 10 May 2019 14:54:24 +0100
+583328a47357a6dc47732467a70603c2a7c47bd6|Updated travis to include codecov for the c unit test|Thu, 25 Apr 2019 10:39:36 +0100|Fri, 10 May 2019 14:54:24 +0100
+9d54175a1ec5f8426b1194c7d6e644308cf19c31|More testing|Thu, 18 Apr 2019 14:45:02 +0100|Fri, 10 May 2019 14:54:24 +0100
+023a8422c65e9fdd79c933a4a4856cb9bc656e4c|More testing|Thu, 18 Apr 2019 14:38:37 +0100|Fri, 10 May 2019 14:54:24 +0100
+2a41f764de32474c54aa3d9f6b1bfad528d21b31|More testing|Thu, 18 Apr 2019 14:22:29 +0100|Fri, 10 May 2019 14:54:24 +0100
+8a0b1afc35e4da217d2c663e0f2b037b176d38cc|Testing extended travis.ci with cpp|Thu, 18 Apr 2019 14:17:53 +0100|Fri, 10 May 2019 14:54:24 +0100
+c159a01509c06d7a1ca7488cb965428e4acd3599|Testing extended travis.ci with cpp|Thu, 18 Apr 2019 10:37:42 +0100|Fri, 10 May 2019 14:54:24 +0100
+e5296e36cbb12d7f1b1e244d7de34ba382a9e898|current version of test.cpp for andrew to work on|Tue, 16 Apr 2019 14:24:55 +0100|Fri, 10 May 2019 14:54:24 +0100
+eecab7c2bc20652e842f9026b83d7af926165f5a|Initial commit of the feature/recv_unit_test branch|Mon, 15 Apr 2019 22:50:59 +0100|Fri, 10 May 2019 14:54:24 +0100
+77fe06e0263679f113a52d5a7ac944e078a4ae23|Updated jinja2 dependency to address security alert [UKSW-20] (#98)|Sat, 4 May 2019 00:30:27 +0100|Sat, 4 May 2019 00:30:27 +0100
+8c8006de6ad71dcd44114b0338780738079c87d4|TSK-2774 Add unit tests for C receiver. (#96)|Thu, 11 Apr 2019 19:26:16 +0100|Thu, 11 Apr 2019 19:26:16 +0100
+32c684b1bb2df77e8cb6daf72ff5d87f766a0fbd|TSK-2771 - modify scripts to work with modified flask interface (#95)|Tue, 2 Apr 2019 16:01:22 +0100|Tue, 2 Apr 2019 16:01:22 +0100
+d2620a53b32fdc2e668cef0172715e70c0b0fc4a|TSK-2778 log error if target state is not allowed (#94)|Mon, 1 Apr 2019 11:25:41 +0100|Mon, 1 Apr 2019 11:25:41 +0100
+cf5b4a11d1b8d91898d23b4aac334fbdf91b3135|TSK-2778 Stop checking state when in off (#93)|Mon, 1 Apr 2019 10:56:01 +0100|Mon, 1 Apr 2019 10:56:01 +0100
+bbd49f405480332f49eaa5d64596b4ddfb030d01|TSK-2750 Create and update demo on startup and states (#90)|Mon, 18 Mar 2019 12:07:45 +0000|Mon, 18 Mar 2019 12:07:45 +0000
+dce7bf7a70e2c883903f782d81290ab73c2d8fd9|Refactor/sip directory (#89)|Fri, 15 Mar 2019 08:51:15 +0000|Fri, 15 Mar 2019 08:51:15 +0000
+a1b63e3523592a0640dd40328996f0fc1494d4b9|Refactor/deploy (#88)|Thu, 14 Mar 2019 14:37:02 +0000|Thu, 14 Mar 2019 14:37:02 +0000
+37bb6f46c3f68cce095c63cead3c7061eb557313|TSK-2765 Test performance writing data to storage on P3. (#87)|Wed, 13 Mar 2019 18:19:22 +0000|Wed, 13 Mar 2019 18:19:22 +0000
+8cbc24fb62b25a5bbf7c1dbaf4bb0004326fd99f|Delete __init__.py|Mon, 11 Mar 2019 09:19:49 +0000|Mon, 11 Mar 2019 09:19:49 +0000
+589ab8a5a6ef10d02b2701c734dab1447519c47c|Delete __init__.py|Mon, 11 Mar 2019 09:19:34 +0000|Mon, 11 Mar 2019 09:19:34 +0000
+d9e9252cad1d0d05a14f499b1137d6599223a91e|Delete __init__.py|Mon, 11 Mar 2019 09:19:18 +0000|Mon, 11 Mar 2019 09:19:18 +0000
+2116facff8fbe328b5874ae63f6e8a9295110deb|TSK-2768 Clean up of tools folder (#86)|Fri, 8 Mar 2019 16:26:52 +0000|Fri, 8 Mar 2019 16:26:52 +0000
+db05e234d0afeb2a57b4a02b28c68e6a6da91f0e|TSK-2753 Updates to the EC Master Controller (#81)|Fri, 8 Mar 2019 14:37:21 +0000|Fri, 8 Mar 2019 14:37:21 +0000
+0979e3e33463928393b58b5fa5f8d3631fa72fc1|TSK-2762 Add capability to write received data to storage. (#84)|Thu, 7 Mar 2019 12:54:11 +0000|Thu, 7 Mar 2019 12:54:11 +0000
+17e1917794db839c1f1975def32cf584bd654447|Updated readme for Tango logger (#85)|Thu, 7 Mar 2019 01:20:24 +0000|Thu, 7 Mar 2019 01:20:24 +0000
+d96f796aaf093272b71bed54cfb7aafeac335f87|Merge pull request #83 from SKA-ScienceDataProcessor/feature/tango-logging|Wed, 6 Mar 2019 12:06:58 +0000|Wed, 6 Mar 2019 12:06:58 +0000
+a5845c4dba263b72bb10a65436ea90ce88619c3e|Merge branch 'master' into feature/tango-logging|Wed, 6 Mar 2019 00:57:45 +0000|Wed, 6 Mar 2019 00:57:45 +0000
+4d8ca392841525b416e8a2b7bcd2f166169294f0|TSK-2761 Fixed Docker Swarm API 'command' field handling (#82)|Wed, 6 Mar 2019 00:18:02 +0000|Wed, 6 Mar 2019 00:18:02 +0000
+12558a972f0aae028c06af55f34076ad5a05a97e|Final debugging|Tue, 26 Feb 2019 16:21:04 +0000|Tue, 26 Feb 2019 16:21:04 +0000
+5edde8d06349e860c9096a64b1bd5efcb5424bce|Final debugging|Tue, 26 Feb 2019 16:06:16 +0000|Tue, 26 Feb 2019 16:06:16 +0000
+ba7054a1e747d5aeeb44a5a75a06e53fe42f68da|Updates/ec mc (#79)|Fri, 22 Feb 2019 09:52:05 +0000|Fri, 22 Feb 2019 09:52:05 +0000
+ab49fd93383d6b4cbb3bcac6d481a57e8fda96ef|TSK-2755 Added workflow demo for SDP closeout. (#78)|Fri, 22 Feb 2019 09:10:43 +0000|Fri, 22 Feb 2019 09:10:43 +0000
+2ed04af7842fa1f0f328ec2015b1d017df7441a0|Latest changes to logger code - including example use in Tango master|Thu, 21 Feb 2019 21:42:15 +0000|Thu, 21 Feb 2019 21:42:15 +0000
+3cf3af530d78296f7dc8c4cc98d6b5c5d0236035|Latest changes to logger code - including example use in Tango master|Thu, 21 Feb 2019 21:41:07 +0000|Thu, 21 Feb 2019 21:41:07 +0000
+655aa721c81241b0484f06b3a923ecfc0db85484|TSK-2747 Add initial multi-threaded C receiver test. (#80)|Fri, 15 Feb 2019 09:43:53 +0000|Fri, 15 Feb 2019 09:43:53 +0000
+d62ecd73bd2e9756f0048d61f465d47bc1f6f7a0|Latest changes to logger code - including example use in Tango master|Thu, 14 Feb 2019 16:49:23 +0000|Thu, 14 Feb 2019 16:49:23 +0000
+3987c4b0ed92de4eae535362c9506b21c32e9996|Merge branch 'feature/promethus_alarms'|Thu, 7 Feb 2019 10:41:51 +0000|Thu, 7 Feb 2019 10:41:51 +0000
+0481735dbebc9dc4bea12ae5009d0634ae84a267|Bug fix: Translate 'environment' to 'env' in Docker Swarm client. (#73)|Wed, 6 Feb 2019 12:01:27 +0000|Wed, 6 Feb 2019 12:01:27 +0000
+5e7e292fa483d8f3a244d67983e629de1b82bd54|Initial Healthcheck test in app ./sip/execution_control/master_contro… (#63)|Wed, 6 Feb 2019 11:08:52 +0000|Wed, 6 Feb 2019 11:08:52 +0000
+a941454d46ce0f46d91526e12343cc6238e6acb0|Get master controller image from github|Fri, 1 Feb 2019 13:08:43 +0000|Fri, 1 Feb 2019 13:08:43 +0000
+187a4041f975dd0511959a6b0788b1335d146e74|Update version mumber|Fri, 1 Feb 2019 11:22:45 +0000|Fri, 1 Feb 2019 11:22:45 +0000
+99ed1d453a9af7a26ddc243fc2b1a91b8123b9ce|Add more about how to demonstrate alarms|Fri, 1 Feb 2019 09:52:30 +0000|Fri, 1 Feb 2019 09:52:30 +0000
+f43abf3eae5f3715d6a9906b5524c8173629a37b|Fixed linter errors.|Fri, 1 Feb 2019 00:13:24 +0000|Fri, 1 Feb 2019 00:13:24 +0000
+31159a6e554c988a597e3e70ffb751805a6573d2|Merge branch 'master' into feature/promethus_alarms|Thu, 31 Jan 2019 23:58:33 +0000|Thu, 31 Jan 2019 23:58:33 +0000
+4c12bd42f02eebdc5ac1c9eaf2baf4170df353dd|Initial checkin of untested Tango logging framework files|Thu, 31 Jan 2019 20:50:05 +0000|Thu, 31 Jan 2019 20:50:05 +0000
+b29b2db84fafa293ee5b4a0edb6afa9fb84805d3|Re-add workflow definition files for ingest pipeline.|Thu, 31 Jan 2019 16:02:28 +0000|Thu, 31 Jan 2019 16:02:28 +0000
+56208b1635e612356fc48041887f259b12d42001|Merge pull request #75 from SKA-ScienceDataProcessor/update/test_runner|Wed, 30 Jan 2019 18:04:40 +0000|Wed, 30 Jan 2019 18:04:40 +0000
+64ae9fb338168968e6203a05c69a4a5da796b28f|Update to testing script.|Fri, 25 Jan 2019 18:02:44 +0000|Mon, 28 Jan 2019 15:04:41 +0000
+20c7ae64d21691f9e30156de7e0417dacd6da3a3|Merge branch 'master' into feature/promethus_alarms|Mon, 28 Jan 2019 11:44:34 +0000|Mon, 28 Jan 2019 11:44:34 +0000
+50093b23f0f5db6250e83f00b7fa5b4f0ab39de6|Prepare for merge with master|Wed, 23 Jan 2019 10:19:43 +0000|Wed, 23 Jan 2019 10:19:43 +0000
+7e35b8b38ba41681b3c4fdfd7c31f0b9248d0ae4|Merge pull request #72 from SKA-ScienceDataProcessor/updates/docker_swarm_client|Tue, 22 Jan 2019 15:18:56 +0000|Tue, 22 Jan 2019 15:18:56 +0000
+9c298bfee9f5ab2a93a08c2adeaf2a90e69f995b|Merge branch 'master' into updates/docker_swarm_client|Tue, 22 Jan 2019 15:08:38 +0000|Tue, 22 Jan 2019 15:08:38 +0000
+d83fcbbf907cc2a5daf34a0c4c87a05f1be596ab|Merge pull request #71 from SKA-ScienceDataProcessor/fix/pbc_permissions|Mon, 21 Jan 2019 16:54:31 +0000|Mon, 21 Jan 2019 16:54:31 +0000
+90e4fb4d44d971bf7d3b738c167ff24cba10e5c9|Merge branch 'master' into fix/pbc_permissions|Mon, 21 Jan 2019 16:46:52 +0000|Mon, 21 Jan 2019 16:46:52 +0000
+a2efadcea3176917b69a941d2b4642c487796c23|Move to deploy and set push_gateway mode to global|Thu, 17 Jan 2019 10:32:42 +0000|Thu, 17 Jan 2019 10:32:42 +0000
+aed61c4c04638d06364fd4a012c049cfb9391b22|Added a new function called get_actual_replica.|Tue, 15 Jan 2019 15:40:59 +0000|Tue, 15 Jan 2019 15:40:59 +0000
+f2fa8c3ad816909b20ac2ab9ee3bb1c1867f0a92|Integrate alarms|Thu, 10 Jan 2019 15:49:24 +0000|Thu, 10 Jan 2019 15:49:24 +0000
+edf29a1bd49faebb934f92af7a0349eece206432|Relaxed requirements SIP python module versions|Thu, 10 Jan 2019 12:32:19 +0000|Thu, 10 Jan 2019 12:32:19 +0000
+38f08d67d54c1dc3724b84fa9e2e0f5aa3da7f38|Updated docker image to run as root.|Wed, 9 Jan 2019 15:52:26 +0000|Wed, 9 Jan 2019 15:52:26 +0000
+72ec43506add9a5270fa9bd40766337120c03f4e|Merge pull request #68 from SKA-ScienceDataProcessor/fix/pypi_doc|Wed, 9 Jan 2019 14:26:25 +0000|Wed, 9 Jan 2019 14:26:25 +0000
+65f571db38702c711273f521831acc8118b91f65|:note: Changed SKA SIP to SKA SDP SIP|Wed, 9 Jan 2019 13:23:22 +0000|Wed, 9 Jan 2019 13:23:22 +0000
+677e724c31f929868f729b862de8e39ff8d9f951|Merge branch 'fix/pypi_doc' of github.com:SKA-ScienceDataProcessor/integration-prototype into fix/pypi_doc|Wed, 9 Jan 2019 13:19:14 +0000|Wed, 9 Jan 2019 13:19:14 +0000
+8488b7e2c29b5e5849b42c8461a1780b8f0c36b1|:memo: Update to docstrings for pypi packages.|Tue, 8 Jan 2019 11:51:32 +0000|Wed, 9 Jan 2019 13:18:38 +0000
+2c758574bc0cd07916d8552ed40e0e8abc16977b|Merge pull request #70 from SKA-ScienceDataProcessor/fix/processing_controller_bug|Wed, 9 Jan 2019 10:54:53 +0000|Wed, 9 Jan 2019 10:54:53 +0000
+96271e1de4e99970d37d7c644e3a1aae7865170c|Merge branch 'master' into fix/pypi_doc|Wed, 9 Jan 2019 10:50:09 +0000|Wed, 9 Jan 2019 10:50:09 +0000
+931305c1a059f7da5babcbad9ac683037a6e96d6|Merge branch 'master' into fix/processing_controller_bug|Wed, 9 Jan 2019 10:44:22 +0000|Wed, 9 Jan 2019 10:44:22 +0000
+deb79ee76e90188fb9d43d925b92d4eb2967901a|:arrow_up: Updated to PyYAML==4.2b (#67)|Wed, 9 Jan 2019 10:38:38 +0000|Wed, 9 Jan 2019 10:38:38 +0000
+7ec3217e8010f9ecd1ddb53abf60c4d63dab4099|:shirt: Fixed linter error due to ununsed import|Wed, 9 Jan 2019 10:34:42 +0000|Wed, 9 Jan 2019 10:34:42 +0000
+2a679e8f422f6023484b4594e17f5521618c96ab|:bug: Removed assert in PB for specific PBC API version|Wed, 9 Jan 2019 10:11:23 +0000|Wed, 9 Jan 2019 10:25:00 +0000
+546f990dfa6772aacfee8d6fd783643091964ba1|:memo: Update to docstrings for pypi packages.|Tue, 8 Jan 2019 11:51:32 +0000|Tue, 8 Jan 2019 11:51:32 +0000
+0bb894766a9f45fa7836b7286aeb74580a130ba8|Merge pull request #64 from SKA-ScienceDataProcessor/update/pbc_docker_api|Mon, 7 Jan 2019 16:05:39 +0000|Mon, 7 Jan 2019 16:05:39 +0000
+527b3619f4582bc61c2cf9261ef10e42069bfcfe|Merge branch 'master' into update/pbc_docker_api|Mon, 17 Dec 2018 15:35:24 +0000|Mon, 17 Dec 2018 15:35:24 +0000
+0705d655766883fce4da1af051e9c2b5c6ccd082|Merge pull request #65 from SKA-ScienceDataProcessor/updates/tango_ds_healthcheck|Mon, 17 Dec 2018 15:28:32 +0000|Mon, 17 Dec 2018 15:28:32 +0000
+35187f714fe827f9f10eecc157ee21ad6b792c7a|Merge branch 'master' into updates/tango_ds_healthcheck|Fri, 14 Dec 2018 17:02:29 +0000|Fri, 14 Dec 2018 17:02:29 +0000
+9c1e38cfd3e043bfced65bfa778312ddcd4aed9b|Merge pull request #62 from SKA-ScienceDataProcessor/update/tango_mysql_healthcheck|Fri, 14 Dec 2018 16:50:03 +0000|Fri, 14 Dec 2018 16:50:03 +0000
+e680f4452f074f64285d7e1938c37d1e33c0b390|Merge branch 'master' into update/tango_mysql_healthcheck|Fri, 14 Dec 2018 16:22:30 +0000|Fri, 14 Dec 2018 16:22:30 +0000
+3f8ec4cac1958932f41da0a76a02a7e323fca1e9|Add device server "ping" as healthcheck for Tango servers|Fri, 14 Dec 2018 15:32:22 +0000|Fri, 14 Dec 2018 15:32:22 +0000
+96d40a399323823c7f88aa361abdee10b6657a55|:arrow_up: Updated PBC to `skasip-docker-swarm==1.0.7`|Fri, 14 Dec 2018 14:20:29 +0000|Fri, 14 Dec 2018 14:28:11 +0000
+9716c1d7b0082781113dbac89e3d29a67ac8fac0|Merge pull request #61 from SKA-ScienceDataProcessor/update/pc-pbc-refactor|Thu, 13 Dec 2018 16:08:44 +0000|Thu, 13 Dec 2018 16:08:44 +0000
+12b7d5a645bbbe3accd768490b8c9747175c7001|:memo: Updated docstrings (apparently \'s are not allowed!)|Thu, 13 Dec 2018 15:39:11 +0000|Thu, 13 Dec 2018 15:39:11 +0000
+a643e062b0cc0a2b4bd2058aac6ba9574694ce4a|Merge branch 'update/pc-pbc-refactor' of github.com:SKA-ScienceDataProcessor/integration-prototype into update/pc-pbc-refactor|Thu, 13 Dec 2018 15:28:17 +0000|Thu, 13 Dec 2018 15:28:17 +0000
+4da19903ba3fdcb95a9aaef828b3e12cabcd69ab|:memo: Updated docstrings for the PBC (Celery) tasks.|Thu, 13 Dec 2018 15:28:03 +0000|Thu, 13 Dec 2018 15:28:03 +0000
+a912351ce843bb7173b41fa648179225996fa0c9|Merge branch 'master' into update/pc-pbc-refactor|Thu, 13 Dec 2018 12:08:26 +0000|Thu, 13 Dec 2018 12:08:26 +0000
+7e8a332c549517e02345e4fc00c2cc7b582909a3|Updates/docker api (#59)|Thu, 13 Dec 2018 08:57:17 +0000|Thu, 13 Dec 2018 08:57:17 +0000
+ce93f2ff51d0f1dd98716995c1b9c9dc717fc62b|Added a healthcheck function to the tango mysql service.|Tue, 11 Dec 2018 14:41:35 +0000|Tue, 11 Dec 2018 14:41:35 +0000
+5750a7069d01cce1cdf33f2b82fd694f543e617c|:white_check_mark: Updated tests to fail more gracefully|Mon, 10 Dec 2018 18:10:59 +0000|Mon, 10 Dec 2018 18:13:08 +0000
+3a4a85c883d6be368c291bec7e1f8ad23e2543c1|:arrow_up: Updated compose files to use newest versions of PC & PBC|Mon, 10 Dec 2018 17:09:19 +0000|Mon, 10 Dec 2018 17:09:19 +0000
+01ceed1ba1548d949e6506a1a5f81be34a6b075e|:arrow_up: Updated the PC to use the PBC library version 1.2.3|Mon, 10 Dec 2018 17:07:25 +0000|Mon, 10 Dec 2018 17:07:25 +0000
+3324d76ef7aa5296b841e8fb92cbb5c322811aa5|Fixed Processing Controller|Mon, 10 Dec 2018 15:00:49 +0000|Mon, 10 Dec 2018 15:00:49 +0000
+b6784ec601da38b4f2b7277f9d35e85618ef3a05|:white_check_mark: Added EC Processing Controller tests.|Mon, 10 Dec 2018 13:55:04 +0000|Mon, 10 Dec 2018 13:55:04 +0000
+5e0d79c75ba58066fdabc2f5e5dbd5932e1e7ab6|Fixed some unit test and linter issues|Fri, 7 Dec 2018 17:50:51 +0000|Fri, 7 Dec 2018 17:50:51 +0000
+8ab153b702315553752f8db1d3a7aafca8fbc16d|:green_heart: Added job names.|Fri, 7 Dec 2018 17:35:55 +0000|Fri, 7 Dec 2018 17:35:55 +0000
+22af41bc74e5aa274c39cbaed59ff376c978669f|:green_heart: Removed redundant travis stage [ci skip]|Fri, 7 Dec 2018 17:25:07 +0000|Fri, 7 Dec 2018 17:25:07 +0000
+2ccf862ec9f7fb253bd02ad9469bfba93e072809|:green_heart: Experimental update to code coverage handling.|Fri, 7 Dec 2018 16:54:29 +0000|Fri, 7 Dec 2018 16:54:29 +0000
+93c1a45693fa774dfd78b94942c1c0ce8f6a7593|:green_heart: Add test coverage to test running script.|Fri, 7 Dec 2018 15:06:28 +0000|Fri, 7 Dec 2018 15:06:28 +0000
+99955c1062e8872d82b084764e1d72b1aec80f9b|:green_heart: Updated PBC tests|Fri, 7 Dec 2018 14:20:56 +0000|Fri, 7 Dec 2018 14:20:56 +0000
+a0511e7ac4f671f3333a9ade3a27fb6633e7d1c2|Updated PBC logging [ci skip]|Fri, 7 Dec 2018 14:17:12 +0000|Fri, 7 Dec 2018 14:17:12 +0000
+ecca5db9be938fc11ff71e06b80d197d8b6cc968|:green_heart: Another experimental update to the travis build script|Thu, 6 Dec 2018 12:35:27 +0000|Thu, 6 Dec 2018 17:55:28 +0000
+2cac6bc5280ee251b34fc13c7bdbdd6fecdc2f50|:green_heart: Another experimental update to the travis build script|Thu, 6 Dec 2018 12:24:41 +0000|Thu, 6 Dec 2018 12:27:23 +0000
+21e969e44542fa8fc0c54fbdee4820962a28cefc|:green_heart: Fixed error in .travis.yml|Thu, 6 Dec 2018 02:40:37 +0000|Thu, 6 Dec 2018 02:40:37 +0000
+f10b33dcbac50ab3930168df6b88bac43aa791e9|updated EC PC to new PBC|Thu, 6 Dec 2018 02:16:19 +0000|Thu, 6 Dec 2018 02:31:30 +0000
+ca7568171ea8032763355bd9185c9dfe2face3aa|:green_heart: Another experimental update to the travis build script|Thu, 6 Dec 2018 02:02:41 +0000|Thu, 6 Dec 2018 02:31:30 +0000
+350784ad8ad0ae47c8e387055151535ea741d97d|:green_heart: Experimental refactor of the travis build into stages|Thu, 6 Dec 2018 01:46:29 +0000|Thu, 6 Dec 2018 02:31:30 +0000
+7259bce7e294687edb1a7bc0196d9ffcac0e80a1|:green_heart: Experimental refactor of the travis build into stages|Thu, 6 Dec 2018 01:46:29 +0000|Thu, 6 Dec 2018 02:31:29 +0000
+353c143733f8ca8fe8920a6d00cf422034b4bd9f|:white_check_mark: :art: Cleanup and update of PBC tests|Wed, 5 Dec 2018 17:50:14 +0000|Thu, 6 Dec 2018 02:31:29 +0000
+a9cdce82c0c30431ad606a6876ce977e65dee733|:green_heart: First attempt at enabling CI tests of the PBC.|Tue, 4 Dec 2018 15:56:15 +0000|Thu, 6 Dec 2018 02:31:29 +0000
+2c23e711c8d90e768d83590faa61886d42e6b014|Updated EC Processing Controller to use the new PBC library.|Tue, 4 Dec 2018 15:41:43 +0000|Thu, 6 Dec 2018 02:31:29 +0000
+2906e10f00d3338af0c8acdd015e1968ef7906b4|:art: initial refactor of EC PBC|Tue, 4 Dec 2018 01:52:44 +0000|Thu, 6 Dec 2018 02:31:29 +0000
+028c9c42c1bb1343b5e26120b051852abc5507b8|Merge pull request #58 from SKA-ScienceDataProcessor/update/config_db_redis_version_fix|Wed, 5 Dec 2018 13:48:03 +0000|Wed, 5 Dec 2018 13:48:03 +0000
+ad36921f32a151589ccd3abc8982b85788171e01|:arrow_down: Downgraded redis API version to 2.10.6|Tue, 4 Dec 2018 02:40:45 +0000|Tue, 4 Dec 2018 02:40:45 +0000
+cbc8b6b19cefae8ae2ed9f07518299b874b62e4f|Merge pull request #57 from SKA-ScienceDataProcessor/updates/demos_23_11_18|Mon, 3 Dec 2018 12:17:05 +0000|Mon, 3 Dec 2018 12:17:05 +0000
+764ed818f4ceb5973a0f3148b36e14bffecf98ab|Test scripts a ubuntu 18.04 vm|Fri, 30 Nov 2018 17:43:03 +0000|Fri, 30 Nov 2018 17:43:03 +0000
+08c9b119b57e511decba1196535847e3054596cf|:memo: fixed typo|Fri, 30 Nov 2018 17:18:24 +0000|Fri, 30 Nov 2018 17:18:24 +0000
+5eadd5d414a51d5c21644a31917cef62a504a586|Merge branch 'updates/demos_23_11_18' of github.com:SKA-ScienceDataProcessor/integration-prototype into updates/demos_23_11_18|Fri, 30 Nov 2018 17:16:21 +0000|Fri, 30 Nov 2018 17:16:21 +0000
+d69ad285d648259b8680bf733809322bec19df52|:memo: updated contributing guide|Fri, 30 Nov 2018 16:38:47 +0000|Fri, 30 Nov 2018 17:15:31 +0000
+dec1dfe6f2262d1de937443181a80e07150af44c|:memo: added link describing branch merge options|Fri, 30 Nov 2018 17:11:06 +0000|Fri, 30 Nov 2018 17:15:21 +0000
+4f234299b3a4746ca2a22e341e8be408eb12ee61|:memo: Fixed typo [ci skip]|Fri, 30 Nov 2018 13:38:22 +0000|Fri, 30 Nov 2018 17:15:21 +0000
+0a9ca0bbecbc744e864732da208a6f99ba4a05b0|:no|Fri, 30 Nov 2018 16:38:47 +0000|Fri, 30 Nov 2018 16:38:47 +0000
+a4d3ef47dbb259791d3cf7742766cfca2d18b20f|Merge branch 'updates/demos_23_11_18' of github.com:SKA-ScienceDataProcessor/integration-prototype into updates/demos_23_11_18|Fri, 30 Nov 2018 14:15:31 +0000|Fri, 30 Nov 2018 14:15:31 +0000
+2461965708660581cd87e7b86ce7ccd3261e7591|:memo: Updated commit message description [ci skip]|Fri, 30 Nov 2018 14:15:14 +0000|Fri, 30 Nov 2018 14:15:14 +0000
+d9c26a5a9666b9cc6f557555ee05ee7f49fe63e5|:memo: further updates to the contributing guide|Fri, 30 Nov 2018 14:00:52 +0000|Fri, 30 Nov 2018 14:06:10 +0000
+e2f11aaada9d1c69f78c450958f93ee3b9fa3e1b|:memo: Fixed typo [ci skip]|Fri, 30 Nov 2018 13:38:22 +0000|Fri, 30 Nov 2018 13:38:22 +0000
+a68257073312a2623564593844216e6f5f59a782|:memo: updated contributing guide|Fri, 30 Nov 2018 13:34:22 +0000|Fri, 30 Nov 2018 13:34:22 +0000
+564891b37ffca3f026dc5dc5e7fe4c461b7c30b2|Merge branch 'master' into updates/demos_23_11_18|Fri, 30 Nov 2018 03:01:14 +0000|Fri, 30 Nov 2018 03:01:14 +0000
+baf2862a06e73344f252a2ca03f4c883b4cae545|Update issue templates|Fri, 30 Nov 2018 02:59:30 +0000|Fri, 30 Nov 2018 02:59:30 +0000
+b982d88975780426342d57feccb6216a4ebd6ef7|Created experimental PULL request template.|Fri, 30 Nov 2018 02:52:50 +0000|Fri, 30 Nov 2018 02:52:50 +0000
+a090f5a64b95d2a7cc23bd58c9cace175c0850e5|:memo: Started contributing guide.|Fri, 30 Nov 2018 02:17:37 +0000|Fri, 30 Nov 2018 02:17:37 +0000
+ceb2d93966ea8b7234d930ec50fe366a8329bb15|renamed folder|Fri, 30 Nov 2018 02:06:14 +0000|Fri, 30 Nov 2018 02:06:14 +0000
+f5ce432937cefdb3982ced4e23c1c8d8b2aed31c|removed volume binds on p3|Fri, 30 Nov 2018 00:58:23 +0000|Fri, 30 Nov 2018 00:58:23 +0000
+3f4cdfa8ff5082f5af03441af879c22ab91c9bbc|:bug: Fix to EventQueue.get() workaround.|Thu, 29 Nov 2018 02:30:19 +0000|Thu, 29 Nov 2018 02:30:19 +0000
+2adf334878f37c989675bd452db00a5d4d3bde34|Work around to address issue with historical events (issue #54)|Thu, 29 Nov 2018 02:07:07 +0000|Thu, 29 Nov 2018 02:07:07 +0000
+3aac3d30a825b9bafc334c97b36c659b19891df4|:note: updated changelogs|Thu, 29 Nov 2018 02:06:13 +0000|Thu, 29 Nov 2018 02:06:13 +0000
+544e0cb134cbcded9817384c480bffc59497a1c5|Added development compose file.|Thu, 29 Nov 2018 01:31:18 +0000|Thu, 29 Nov 2018 01:31:18 +0000
+892e337c3c6a88c06fa9ed4bc967e440f02e1da7|Updated docker images for skasip-config-db 1.2.0|Thu, 29 Nov 2018 01:28:53 +0000|Thu, 29 Nov 2018 01:28:53 +0000
+d08e916eacf3b20ad526eb716695b620b8ab0e56|updated travis settings|Thu, 29 Nov 2018 00:35:20 +0000|Thu, 29 Nov 2018 00:35:20 +0000
+99cdec45479488521d34c2ef4da3c6cebb4eea33|merged in upstream changes from master|Thu, 29 Nov 2018 00:32:19 +0000|Thu, 29 Nov 2018 00:32:19 +0000
+fd7cf01ada47fa8194e83ae8815e3f5a485d6004|Merge pull request #56 from SKA-ScienceDataProcessor/deploy_portainer|Wed, 28 Nov 2018 19:20:03 +0000|Wed, 28 Nov 2018 19:20:03 +0000
+eed9c110da9b523b892a95246334f0e350df1e72|:green_heart: disabled config db unit tests|Wed, 28 Nov 2018 19:14:40 +0000|Wed, 28 Nov 2018 19:14:40 +0000
+f2dfbd96adf2a27db7b080d6225af3c85c430bc9|Updated to fixed versions of skasip libraries.|Wed, 28 Nov 2018 19:07:54 +0000|Wed, 28 Nov 2018 19:07:54 +0000
+e1b2fae9ecdaee058c890085d36dbadf549f6c3c|Set fixed versions of skasip libraries|Wed, 28 Nov 2018 19:06:31 +0000|Wed, 28 Nov 2018 19:06:31 +0000
+e04bbeba084497dcb1e8b3f7144cc5835e88ea5b|Set fixed versions of skasip python libraries|Wed, 28 Nov 2018 19:04:15 +0000|Wed, 28 Nov 2018 19:04:15 +0000
+6ca9aa48b50316c22554755eb2d3f38223e65e6d|Set fixed versions of skasip libraries|Wed, 28 Nov 2018 19:02:50 +0000|Wed, 28 Nov 2018 19:02:50 +0000
+a712dc530789c82b2156ce5b07baee88c984875b|Update .travis.yml|Wed, 28 Nov 2018 18:49:44 +0000|Wed, 28 Nov 2018 18:49:44 +0000
+7de5a9fb44deeb0e376dbdeb219bd42e6eb2a793|Merge branch 'master' into deploy_portainer|Wed, 28 Nov 2018 18:37:42 +0000|Wed, 28 Nov 2018 18:37:42 +0000
+4650e0dc0d69c72d5eb0aa7b368532f3aa6a7fec|Added Compose file and README for deploying Portainer.|Wed, 28 Nov 2018 18:33:58 +0000|Wed, 28 Nov 2018 18:33:58 +0000
+f6c17a01c0585186a3572b5a555680333d941d20|:bug: fixed bad import statements|Wed, 28 Nov 2018 13:29:48 +0000|Wed, 28 Nov 2018 13:29:48 +0000
+bbb8b70a59a38fc60923235b248da782507c7ce4|:bug: fixed invalid unit test check.|Wed, 28 Nov 2018 04:04:30 +0000|Wed, 28 Nov 2018 04:04:30 +0000
+ef92420a70fb7a402178206a47efc67930913737|:bug: test no longer requires strict sort order in list|Wed, 28 Nov 2018 03:46:26 +0000|Wed, 28 Nov 2018 03:46:26 +0000
+689fb392e10d4ef51084eb55676218021664ae92|:green_heart: updated ci build config.|Wed, 28 Nov 2018 03:38:31 +0000|Wed, 28 Nov 2018 03:38:31 +0000
+6bc56926fe4250857afed74cc801c7f272113d6f|updated to version 1.2.0, added unit test that checks versions|Wed, 28 Nov 2018 03:37:41 +0000|Wed, 28 Nov 2018 03:37:41 +0000
+5357a2e0624f2bcbe8d19e519eeef85aa3917b0e|:arrow_up: Updated deployment to use redis:5.0.1-alpine|Wed, 28 Nov 2018 03:22:06 +0000|Wed, 28 Nov 2018 03:22:06 +0000
+1a5b93188f233d78a4c42c608d12a5513652e5e9|:green_heart: updated ci to test with the redis:5.0.1-alpine image.|Wed, 28 Nov 2018 03:18:56 +0000|Wed, 28 Nov 2018 03:18:56 +0000
+f42587eb438ab72a36dd38f21754bdd8d422cce9|Merge branch 'updates/demos_23_11_18' of github.com:SKA-ScienceDataProcessor/integration-prototype into updates/demos_23_11_18|Wed, 28 Nov 2018 03:15:36 +0000|Wed, 28 Nov 2018 03:15:36 +0000
+5423d350e1fe8e3220cc291d7fcf68071207e89b|:green_heart: fix to requirements file.|Wed, 28 Nov 2018 03:11:59 +0000|Wed, 28 Nov 2018 03:14:22 +0000
+172800a7492008178a96a6da62fe1ee345619c3c|:green_heart: fixed requirements file for the configuration_db|Wed, 28 Nov 2018 03:11:59 +0000|Wed, 28 Nov 2018 03:11:59 +0000
+a47879de337bd506f4da1c90b2b22044f3962120|:memo: Updated readme for [unreleased] version 1.2.0 [ci skip]|Wed, 28 Nov 2018 03:07:48 +0000|Wed, 28 Nov 2018 03:07:48 +0000
+36b9c12f103c6da4d1acec48b7467a74d0725fa4|:memo: Updated usage example.|Wed, 28 Nov 2018 03:05:12 +0000|Wed, 28 Nov 2018 03:05:12 +0000
+cff2ce13083ea10458014c139a2e7f5e0d4c379e|:arrow_up: Updated to `redis==3.0.1`|Wed, 28 Nov 2018 02:53:53 +0000|Wed, 28 Nov 2018 02:53:53 +0000
+e322788f8b652adf8ff54cbf648ba85b42991bdd|:memo: Updated readme|Tue, 27 Nov 2018 01:55:39 +0000|Tue, 27 Nov 2018 01:55:39 +0000
+4befc7afd8e1ed92027e185effe573b614363a33|:fire: Removed redundant .dockerignore file|Tue, 27 Nov 2018 01:55:18 +0000|Tue, 27 Nov 2018 01:55:18 +0000
+aa256463dbdd5ad43ad56ba8e35111d8146cc97d|Updated to unreleased `skasip-config-db==1.1.6`|Tue, 27 Nov 2018 01:53:48 +0000|Tue, 27 Nov 2018 01:53:48 +0000
+fff86f9fd89834f862c5541009d0c1dd1ec3411f|Updated version and changelog.|Mon, 26 Nov 2018 23:04:25 +0000|Mon, 26 Nov 2018 23:04:25 +0000
+d2faa24d8b6c05baad524bf04c52b82283f6a60a|:shirt: fixed cyclic dependency warnings|Mon, 26 Nov 2018 23:00:34 +0000|Mon, 26 Nov 2018 23:00:34 +0000
+513ed283c4557ada89f128fb1577c31bc9092df5|:arrow_up: Updated test & linting package versions|Mon, 26 Nov 2018 22:59:11 +0000|Mon, 26 Nov 2018 22:59:11 +0000
+1e0fa755ea006a3439ae64c67c664e24045fc9bf|:green_heart: attempt to force travis to use python 3.6.5|Mon, 26 Nov 2018 18:21:25 +0000|Mon, 26 Nov 2018 18:21:25 +0000
+1722c8a3791fa933c6c4b3b2747830baa88a1411|:shirt: fixed linter errors.|Mon, 26 Nov 2018 16:08:50 +0000|Mon, 26 Nov 2018 16:08:50 +0000
+ade3f057dad16a95ed17fd1a2720270b55fb4411|:white_check_mark: added top level pytest.ini file.|Mon, 26 Nov 2018 16:07:58 +0000|Mon, 26 Nov 2018 16:07:58 +0000
+1923c47b12473357ed99c526587d9a59c3b08288|:fire: removed redundant .gitignore file.|Mon, 26 Nov 2018 16:07:24 +0000|Mon, 26 Nov 2018 16:07:24 +0000
+59afabda015f35f07cba96e3ac6bc0bb5e1448a8|:art: moved emulators and examples into the sip folder.|Mon, 26 Nov 2018 16:05:09 +0000|Mon, 26 Nov 2018 16:05:09 +0000
+e7fde462e21614a9b9d9fcea955319a2b5db6597|:fire: removed docker volume from the test config db compose file.|Mon, 26 Nov 2018 13:32:34 +0000|Mon, 26 Nov 2018 13:32:34 +0000
+5e8b5bae2899e6e6b7bb3f70c6b8f8b469c32b34|:shirt: fixed linter warnings.|Mon, 26 Nov 2018 13:23:15 +0000|Mon, 26 Nov 2018 13:23:15 +0000
+d14626859a508059618985fd6ef15b13d6d82c74|:shirt: removed linter warnings|Mon, 26 Nov 2018 12:55:45 +0000|Mon, 26 Nov 2018 12:55:45 +0000
+556925a623e188c651ea41510aa47356d0ad9dba|removed broken link to requirements file|Mon, 26 Nov 2018 02:22:30 +0000|Mon, 26 Nov 2018 02:22:30 +0000
+56bac61e90a96c411aeaeee5ed697627e9fba179|added utility script for scheduling SBIs from an iTango interface.|Fri, 23 Nov 2018 02:56:35 +0000|Fri, 23 Nov 2018 02:56:35 +0000
+e3350903c5f02a7362b834b8d0ac5c9afac4185c|slight updates to the flask sdp master interface|Fri, 23 Nov 2018 02:09:07 +0000|Fri, 23 Nov 2018 02:09:07 +0000
+c1df9fe767bbb66a924cfae0f1c6ccc2629c1f4a|A new more quality of life improvements.|Fri, 23 Nov 2018 01:15:46 +0000|Fri, 23 Nov 2018 01:15:46 +0000
+e1a2b81aa67132e8f7817e25c3c43de63df36a58|A new more quality of life improvements.|Thu, 22 Nov 2018 22:23:40 +0000|Thu, 22 Nov 2018 22:23:40 +0000
+26fb9ba85c76bff52eeb4aee64858d274d4c9f32|A new more quality of life improvements.|Thu, 22 Nov 2018 01:56:55 +0000|Thu, 22 Nov 2018 01:56:55 +0000
+a2c1bffe4db939a5c72d93cdf0a3203392d5e09c|#$@&%*! its working!|Thu, 22 Nov 2018 01:28:07 +0000|Thu, 22 Nov 2018 01:28:07 +0000
+361782ab333acfab8a4430df4c54255843ace568|merged in upstream changes|Wed, 21 Nov 2018 15:37:22 +0000|Wed, 21 Nov 2018 15:37:22 +0000
+c335437d57490a46928ecd87266a76b70c3cc943|updates and refactor for demos.|Wed, 21 Nov 2018 15:31:52 +0000|Wed, 21 Nov 2018 15:31:52 +0000
+3cc52787c30bb06bc929c4c1cb2ccaeb3c83c7ab|updates and refactor for demos.|Wed, 21 Nov 2018 15:31:34 +0000|Wed, 21 Nov 2018 15:31:34 +0000
+6eee6a5b01ac927d1ef4bcef8c2acb6e295de91a|Updated docker compose for processing_controller|Wed, 21 Nov 2018 15:08:45 +0000|Wed, 21 Nov 2018 15:08:45 +0000
+226c0c518604914e355a0c40ac57682bc0083310|Updated the priority, it will now load the highest priority first|Wed, 21 Nov 2018 10:38:54 +0000|Wed, 21 Nov 2018 10:38:54 +0000
+cc8bf4b7f33f5216404ad92f75f81d43d78c7142|resolved merge conflicts|Wed, 21 Nov 2018 00:41:21 +0000|Wed, 21 Nov 2018 00:41:21 +0000
+7111734e04ea7fa6dc1198a9195c8b957d6d7060|updates and refactor for demos.|Wed, 21 Nov 2018 00:33:20 +0000|Wed, 21 Nov 2018 00:33:20 +0000
+fe3ef3f46db26892a119512350a443d7efff5141|Populates PB to the queue|Wed, 21 Nov 2018 00:02:54 +0000|Wed, 21 Nov 2018 00:02:54 +0000
+b7ee349df69f5f4bade7e8a8fc59807ddefd46fd|Update PC monitor_pbc_status|Tue, 20 Nov 2018 16:38:12 +0000|Tue, 20 Nov 2018 16:38:12 +0000
+e43cb399043227b83fa2d20c9edb656f856cdb2d|PC syntax updated|Tue, 20 Nov 2018 15:51:53 +0000|Tue, 20 Nov 2018 15:51:53 +0000
+3d30587b3391d5e9cb8d49babde4ef519263f67a|Updated Processing Controller to execute PBC|Tue, 20 Nov 2018 15:35:57 +0000|Tue, 20 Nov 2018 15:35:57 +0000
+105eb502dc4b6de49b2c3a7324e24ca776423f19|removed old folder|Tue, 20 Nov 2018 12:19:47 +0000|Tue, 20 Nov 2018 12:19:47 +0000
+3dab8c5a61613ebe24d29e548ca1f4e457cba872|Merge pull request #50 from SKA-ScienceDataProcessor/feature/scheduler|Tue, 20 Nov 2018 12:03:42 +0000|Tue, 20 Nov 2018 12:03:42 +0000
+9073f272eb4fbd5861d85b78450ecb3064392441|cleaned up travis installation|Tue, 20 Nov 2018 11:58:19 +0000|Tue, 20 Nov 2018 11:58:19 +0000
+88ac5a5b102afd3bc21e56f88824f7ff687c3c75|Merge remote-tracking branch 'origin/master' into feature/scheduler|Tue, 20 Nov 2018 11:55:24 +0000|Tue, 20 Nov 2018 11:55:24 +0000
+0fd605ad664965b44d92a28c1d73d4b7f5058da8|Updates to prep for demos.|Tue, 20 Nov 2018 04:50:18 +0000|Tue, 20 Nov 2018 04:50:18 +0000
+6aa0db582bea3b5e70e1b43ab77a7c44d292cb10|updated EC MC for demos|Tue, 20 Nov 2018 04:49:11 +0000|Tue, 20 Nov 2018 04:49:11 +0000
+e733b71fd39b82e21c10b0a0f21f54a3c8eb8353|replaced print with logging.|Tue, 20 Nov 2018 04:48:34 +0000|Tue, 20 Nov 2018 04:48:34 +0000
+be567194b0be9e86d279f0eaa6ce10d05b011c07|Updated compose file for the demos.|Tue, 20 Nov 2018 04:47:52 +0000|Tue, 20 Nov 2018 04:47:52 +0000
+af8c20b0b4508a75e5aaee76cd5e586fb4f4f711|Updates to prep for demos.|Tue, 20 Nov 2018 02:54:43 +0000|Tue, 20 Nov 2018 02:54:43 +0000
+4e2485558f1cb71cac58ed6c3970f1ef9af5902b|Fixed allowed SDP target states|Tue, 20 Nov 2018 02:54:03 +0000|Tue, 20 Nov 2018 02:54:03 +0000
+0305f2d5527812421364d2e39859fde0558470f1|Updated config-db import name|Mon, 19 Nov 2018 16:59:00 +0000|Mon, 19 Nov 2018 16:59:00 +0000
+dcfee5b2b8abb406cb1d6c764bf956b4869ba9ee|Updated PBC with abort functionality|Mon, 19 Nov 2018 16:44:43 +0000|Mon, 19 Nov 2018 16:44:43 +0000
+887f9cfb347fbe0c8bfe8f1c38e2f9366c33401c|PBC fixed, now deletes the stages in the correct order|Mon, 19 Nov 2018 16:01:52 +0000|Mon, 19 Nov 2018 16:01:52 +0000
+a8627612d7388798771d6da4934688ebc64b9340|added some extra flags on init_logger, added methods to turn of logging and set the logging level without reinitalising|Mon, 19 Nov 2018 14:12:02 +0000|Mon, 19 Nov 2018 14:12:02 +0000
+927cd1c9d6c1a1dffbf6dd701aec00505eded882|merged in upstream changes from master|Mon, 19 Nov 2018 13:47:22 +0000|Mon, 19 Nov 2018 13:47:22 +0000
+6b515ee8d5ddff0d099140674aab3eca6898f3c8|Merge branch 'feature/scheduler' of github.com:SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Mon, 19 Nov 2018 13:42:16 +0000|Mon, 19 Nov 2018 13:42:16 +0000
+8f3106315cf8dcb865e1910393be3f3d06bf93e6|Downgraded redis python version|Mon, 19 Nov 2018 13:41:57 +0000|Mon, 19 Nov 2018 13:41:57 +0000
+f41d03b6fc895b49d8568d403769757869ae14a2|enabled extra debug info in SIP logger|Mon, 19 Nov 2018 13:30:15 +0000|Mon, 19 Nov 2018 13:30:15 +0000
+d3806f02472bf4c6dcb5441adff4cebab9e646a3|updated requirements|Mon, 19 Nov 2018 13:21:36 +0000|Mon, 19 Nov 2018 13:21:36 +0000
+9d917d80629dead7257347bfeae022faf7f59529|fixed merge conflict|Mon, 19 Nov 2018 13:13:47 +0000|Mon, 19 Nov 2018 13:13:47 +0000
+7e194d2f698ecab3c6ecc0a2252ec730cf8e0706|updated to new skasip-config-db api|Mon, 19 Nov 2018 13:12:40 +0000|Mon, 19 Nov 2018 13:12:40 +0000
+bbd416f25765356dcc569f858feb1caa6a7651d7|Updated sip config db import names|Mon, 19 Nov 2018 13:12:32 +0000|Mon, 19 Nov 2018 13:12:32 +0000
+1d5ed23ce129a78336f20fc8ca61bf2437e8e3f3|Merge pull request #52 from SKA-ScienceDataProcessor/updates/ical_dask|Mon, 19 Nov 2018 13:02:22 +0000|Mon, 19 Nov 2018 13:02:22 +0000
+59e2790e85deb42af0363a59dcf101d75efc9b14|removed redundant config db modules|Mon, 19 Nov 2018 12:59:29 +0000|Mon, 19 Nov 2018 12:59:29 +0000
+0140a6892af7a73bbe91950217d548d2b86fa61f|disabled tests / linting on ical dask code|Mon, 19 Nov 2018 12:53:41 +0000|Mon, 19 Nov 2018 12:53:41 +0000
+2377e0087b4873fafa7e779a18ffb3106f8eb884|merged in upstream changes from master|Mon, 19 Nov 2018 12:48:11 +0000|Mon, 19 Nov 2018 12:48:11 +0000
+39701d93082e89976d763efa20665e6420b34162|Merge remote-tracking branch 'origin/master' into updates/ical_dask|Mon, 19 Nov 2018 12:46:01 +0000|Mon, 19 Nov 2018 12:46:01 +0000
+a2531ec613e760f8d254d2986d6722f175c8283b|Merge pull request #49 from SKA-ScienceDataProcessor/update/pci_flask|Mon, 19 Nov 2018 11:40:35 +0000|Mon, 19 Nov 2018 11:40:35 +0000
+50f2c0957a685a608452628e1e0bac1b28c0bf9b|Updated requirements|Mon, 19 Nov 2018 04:50:43 +0000|Mon, 19 Nov 2018 04:50:43 +0000
+7775aba7464eb3210d07160cf6c5faaa793c4e72|updated requirements|Mon, 19 Nov 2018 04:48:23 +0000|Mon, 19 Nov 2018 04:48:23 +0000
+74e7a800950acf9b9be392480be3d5cf21ad0938|Updated requirements|Mon, 19 Nov 2018 04:43:22 +0000|Mon, 19 Nov 2018 04:43:22 +0000
+661e6fbcfc41402d780c39f540ab8e075ffe939b|Merge remote-tracking branch 'origin' into updates/ical_dask|Mon, 19 Nov 2018 04:38:21 +0000|Mon, 19 Nov 2018 04:38:21 +0000
+02cd0dd63bd6293ecca08cc3a159f6d498dc08ef|Merge remote-tracking branch 'origin' into update/pci_flask|Mon, 19 Nov 2018 04:36:14 +0000|Mon, 19 Nov 2018 04:36:14 +0000
+741b670e0b629004f7d5b2242a6d8d91c5e9b7df|Merge remote-tracking branch 'origin' into feature/scheduler|Mon, 19 Nov 2018 04:35:42 +0000|Mon, 19 Nov 2018 04:35:42 +0000
+8e3312e68edbdff5e352fef43b8e306e60ad76b4|Merge pull request #53 from SKA-ScienceDataProcessor/feature/prometheus|Mon, 19 Nov 2018 04:35:11 +0000|Mon, 19 Nov 2018 04:35:11 +0000
+b33fba604caafc85e941510c013d5893fd6c6418|merged in upstream changes from master|Mon, 19 Nov 2018 04:32:53 +0000|Mon, 19 Nov 2018 04:32:53 +0000
+8d2d00f8204dd5c1f5ef37782831afbc23a3387f|moved new prometheus alarms example using Kafka to the examples folder|Mon, 19 Nov 2018 04:30:32 +0000|Mon, 19 Nov 2018 04:30:32 +0000
+569b1b0288000332a6cc34b4704099321094b9c7|Fixed bad requirements path.|Mon, 19 Nov 2018 04:23:24 +0000|Mon, 19 Nov 2018 04:23:24 +0000
+a875783cac89120e64cc5e7b5c1c8874182cdb66|Merge remote-tracking branch 'origin' into update/pci_flask|Mon, 19 Nov 2018 04:20:09 +0000|Mon, 19 Nov 2018 04:20:09 +0000
+f16ca99678f30a15ff0ef038287cd2ed86d00401|Merge branch 'master' into feature/prometheus|Mon, 19 Nov 2018 04:19:18 +0000|Mon, 19 Nov 2018 04:19:18 +0000
+b788699b38a119d824fe3fa55d2a700488ebe2ba|Merge pull request #48 from SKA-ScienceDataProcessor/feature/mc-tango|Mon, 19 Nov 2018 04:18:15 +0000|Mon, 19 Nov 2018 04:18:15 +0000
+19216f28998ae737cc60e371e1d23d9f6f08b88f|Merge remote-tracking branch 'origin/master' into feature/prometheus|Mon, 19 Nov 2018 04:14:32 +0000|Mon, 19 Nov 2018 04:14:32 +0000
+afd1502435ab07dbe6842dacc6d25109edc2fd16|merged in upstream changes from master|Mon, 19 Nov 2018 04:13:38 +0000|Mon, 19 Nov 2018 04:13:38 +0000
+7679d03614faa3bb2f06f1bc02cf29615e82aa9e|Merge pull request #45 from SKA-ScienceDataProcessor/mc_rest|Mon, 19 Nov 2018 04:11:26 +0000|Mon, 19 Nov 2018 04:11:26 +0000
+f31f309dac904b79cadcedd42df678e618eebdce|Fixed typo in path.|Mon, 19 Nov 2018 04:03:11 +0000|Mon, 19 Nov 2018 04:03:11 +0000
+4af761cff149b6cd7bd1087f4a86ea445ff204f0|Updated requirements|Mon, 19 Nov 2018 04:02:15 +0000|Mon, 19 Nov 2018 04:02:15 +0000
+d8c33cf702d603533f1ef8af4b095bcd8a0b85fc|renamed package again|Mon, 19 Nov 2018 03:59:22 +0000|Mon, 19 Nov 2018 03:59:22 +0000
+8adfe06479ece923c3eb7fcff14758641ade37b7|renamed package and fixed linter errors|Mon, 19 Nov 2018 03:53:58 +0000|Mon, 19 Nov 2018 03:53:58 +0000
+af7c383fb3e3d5209d94223946fe3f9c75ef6e7a|added FIXME comment|Mon, 19 Nov 2018 03:15:20 +0000|Mon, 19 Nov 2018 03:15:20 +0000
+837ded5f750625d19617c982c1019480cf11beeb|Minor refactoring of the Master Controller.|Mon, 19 Nov 2018 03:14:10 +0000|Mon, 19 Nov 2018 03:14:10 +0000
+49a489b86150d301408982ae6a2ff062b5a1f043|Merge remote-tracking branch 'origin/master' into mc_rest|Mon, 19 Nov 2018 01:29:20 +0000|Mon, 19 Nov 2018 01:29:20 +0000
+39ad5831effd9bc34ab4d56849951c2b1c253fd8|updated to version 1.1.1|Mon, 19 Nov 2018 01:28:35 +0000|Mon, 19 Nov 2018 01:28:35 +0000
+6f729eed2d1bc8d73151bc2aaa9cc4b0c817b57c|added state object method to get the event queue for a given subscriber.|Mon, 19 Nov 2018 01:27:57 +0000|Mon, 19 Nov 2018 01:27:57 +0000
+32ab3ef972174cd8cb2999e3f53a94bbe56b473b|updated for skasip-config-db version 1.1.0|Mon, 19 Nov 2018 01:24:53 +0000|Mon, 19 Nov 2018 01:24:53 +0000
+618d5aaa9e817c1f76dd5ad7b037e76304b49dbb|merged in upstream changes from master|Mon, 19 Nov 2018 01:15:20 +0000|Mon, 19 Nov 2018 01:15:20 +0000
+4eb02494eff9db1e18e6279cd500445f642a9442|Fixed a number of issues in the skasip-config-db scripts.|Mon, 19 Nov 2018 01:12:08 +0000|Mon, 19 Nov 2018 01:12:08 +0000
+f12762bb86d769d337bfa2353872de9d7746ad23|Refactor of config db library into submodules.|Mon, 19 Nov 2018 00:16:28 +0000|Mon, 19 Nov 2018 00:16:28 +0000
+460bf4d34fbfe5c04f3d338b648a99f8ace5b756|removed/moved utility scripts|Sat, 17 Nov 2018 21:18:18 +0000|Sat, 17 Nov 2018 21:18:18 +0000
+b670d8f9533afe2afc7f6928c61bd4d6fd86f47e|- Moved Flask SDP Master to Tango Control folder. - Minor refactoring of Execution Control Master Controller|Sat, 17 Nov 2018 21:16:59 +0000|Sat, 17 Nov 2018 21:16:59 +0000
+edbc013bad01d3bcee1523d1f6ce993aa0aa4ccf|Merge remote-tracking branch 'origin/master' into mc_rest|Sat, 17 Nov 2018 19:29:07 +0000|Sat, 17 Nov 2018 19:29:07 +0000
+39be5ac4a940c2101cb87c1c1112aa0bc2d01dab|updated to version 1.0.13|Sat, 17 Nov 2018 19:27:50 +0000|Sat, 17 Nov 2018 19:27:50 +0000
+c437e3ef12c78c1bf0ef0a9477643e7cc1c5712e|Added some code comments.|Sat, 17 Nov 2018 19:27:11 +0000|Sat, 17 Nov 2018 19:27:11 +0000
+99b1d1c5222135e79d4ca5f72c4f079d47cb845a|Log message now show filename and line number if the log level is set to debug.|Sat, 17 Nov 2018 19:24:28 +0000|Sat, 17 Nov 2018 19:24:28 +0000
+78ec52e90bcc7973e1aad114a0b5496925355468|resolved fixme|Sat, 17 Nov 2018 14:10:33 +0000|Sat, 17 Nov 2018 14:10:33 +0000
+0a50bf3ff3dc926735ceac43ae89b02efb8b6f71|updated to sip logger version 1.0.12|Sat, 17 Nov 2018 14:05:27 +0000|Sat, 17 Nov 2018 14:05:27 +0000
+b3a6b220243a2a6230bfaaa77fe2496983415c31|Merge remote-tracking branch 'origin/master' into mc_rest|Sat, 17 Nov 2018 14:02:49 +0000|Sat, 17 Nov 2018 14:02:49 +0000
+9988bda21daa28fb7dade987773a6ebacd4b5979|updated sip logging library to not propagate settings to the root logger by default.|Sat, 17 Nov 2018 14:02:11 +0000|Sat, 17 Nov 2018 14:02:11 +0000
+d150a01065faefd44a9aa405ca93bd4451ed7283|Added utility scripts, fixed linter warnings, added versioning.|Sat, 17 Nov 2018 13:58:25 +0000|Sat, 17 Nov 2018 13:58:25 +0000
+d0ff141222a9b2a6766d066116c9084dc2b0310a|Merge remote-tracking branch 'origin/master' into updates/ical_dask|Sat, 17 Nov 2018 12:40:03 +0000|Sat, 17 Nov 2018 12:40:03 +0000
+daae2cd3858074d58e09b02654baa625d5295b3e|Merge remote-tracking branch 'origin/master' into feature/scheduler|Sat, 17 Nov 2018 09:33:05 +0000|Sat, 17 Nov 2018 09:33:05 +0000
+d6b94396d30c8ce261c6931b0e186ad02d87b24a|Merge pull request #51 from SKA-ScienceDataProcessor/feature/async_ingest|Fri, 16 Nov 2018 18:26:19 +0000|Fri, 16 Nov 2018 18:26:19 +0000
+14c5fcb4f2cf303dbab81437191f0dfbd54ceec9|Merge branch 'master' into feature/async_ingest|Fri, 16 Nov 2018 18:17:54 +0000|Fri, 16 Nov 2018 18:17:54 +0000
+6a19bfd6328c659767279662d17b0407ad8e3e96|Merge branch 'mc_rest' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into mc_rest|Fri, 16 Nov 2018 17:27:51 +0000|Fri, 16 Nov 2018 17:27:51 +0000
+adf430a50907affc1c0975f719353b7ca7b857fd|randomly generate fault or alarm|Fri, 16 Nov 2018 17:24:43 +0000|Fri, 16 Nov 2018 17:24:43 +0000
+a9e06529c84a37a20ba98ba6c642a7bdbe7e3756|updated pbc code - its almost working|Fri, 16 Nov 2018 17:09:25 +0000|Fri, 16 Nov 2018 17:09:25 +0000
+ccfbd9101eb2a29821b0f4c47147128123f52a74|Shell scripts to deploy and remove the stacks|Fri, 16 Nov 2018 12:59:21 +0000|Fri, 16 Nov 2018 12:59:21 +0000
+86eea44281ce56c3832ab9a9d577ac330af55f4b|Added Docker compose file with fluentd logging.|Fri, 16 Nov 2018 12:13:42 +0000|Fri, 16 Nov 2018 12:13:42 +0000
+8cd359f9d975e83c5fd60d3d6d24e91f37ded1bb|renamed test|Fri, 16 Nov 2018 11:59:21 +0000|Fri, 16 Nov 2018 11:59:21 +0000
+6c9f473fbe056b23908a54c8384a32e3cdfb1636|moved docker compose generator to examples as its effectively deprecated. updated travis build accordingly|Fri, 16 Nov 2018 11:56:02 +0000|Fri, 16 Nov 2018 11:56:02 +0000
+e61e2ea6bc9351448f0d42f8099e1382ab85c402|Minor cleanup and quality of life improvements.|Fri, 16 Nov 2018 02:59:31 +0000|Fri, 16 Nov 2018 02:59:31 +0000
+bcafcca4defe779f6ab44516539501e58a249eda|fixed versions of deps|Fri, 16 Nov 2018 02:04:57 +0000|Fri, 16 Nov 2018 02:04:57 +0000
+56edb1c54531697fc295dc18080a71933b7d6060|slight cleanup of pbc|Fri, 16 Nov 2018 02:03:00 +0000|Fri, 16 Nov 2018 02:03:00 +0000
+717f97261e5048140bb34371ed60a7a843629b37|Moved mock workflow stage into the science pipeline workflows folder and created a mock workflow for it to reside in.|Fri, 16 Nov 2018 00:59:55 +0000|Fri, 16 Nov 2018 00:59:55 +0000
+3bed5c2e3bc5cb49ffe7c3683e75310edac53053|removed duplicate test left over from refactor|Fri, 16 Nov 2018 00:17:54 +0000|Fri, 16 Nov 2018 00:17:54 +0000
+708d9855401fd5a00e3f06bf5bd31bfc44af6172|merged in upstream changes|Fri, 16 Nov 2018 00:16:37 +0000|Fri, 16 Nov 2018 00:16:37 +0000
+cf1d22f3a7ef66d59e95b52fc7ad06eabc812d08|Added SIP PBC docker-in-docker base image.|Fri, 16 Nov 2018 00:14:20 +0000|Fri, 16 Nov 2018 00:14:20 +0000
+032d46af86375c40ce28e904d5882d9a89eb2ebd|Refactor needed to publish the SIP docker_swarm api on pypi:|Fri, 16 Nov 2018 00:14:00 +0000|Fri, 16 Nov 2018 00:14:00 +0000
+2750944eee4e8609a901c02156ce2794a233cc92|docker client fixed, pylint error fixed|Fri, 16 Nov 2018 00:00:47 +0000|Fri, 16 Nov 2018 00:00:47 +0000
+625030a1b2527a46515096b12cc9fcae68df1ea0|Fixed linter errors due to bad import order.|Thu, 15 Nov 2018 23:17:00 +0000|Thu, 15 Nov 2018 23:17:00 +0000
+2aceb84fa3712b393e8c0a8c3c0a287ac6bd33dc|Merge branch 'feature/scheduler' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Thu, 15 Nov 2018 23:13:42 +0000|Thu, 15 Nov 2018 23:13:42 +0000
+87a824d31c35ebdc42f50c7fd1ba75f2c075703f|Test script for docker swarm api on p3|Thu, 15 Nov 2018 23:13:35 +0000|Thu, 15 Nov 2018 23:13:35 +0000
+67ecc5e673b516de7d438f9294eac43203f6461f|Test script for docker swarm api on p3|Thu, 15 Nov 2018 23:12:55 +0000|Thu, 15 Nov 2018 23:12:55 +0000
+8948be8f4afca90579c01b92f98786fc28ee193f|updated test log spammer compose files.|Thu, 15 Nov 2018 22:56:34 +0000|Thu, 15 Nov 2018 22:56:34 +0000
+6232a84328d797c1ff0bb1d9db142d93963647af|updated travis settings|Thu, 15 Nov 2018 22:23:54 +0000|Thu, 15 Nov 2018 22:23:54 +0000
+ccfc8211e07833eab0c1389f969ce95fee3fed78|updated travis ci config|Thu, 15 Nov 2018 21:50:55 +0000|Thu, 15 Nov 2018 21:50:55 +0000
+23debc9b3e6cf01be40a52c78d84b178d1eabb96|merged in upstream changes from master|Thu, 15 Nov 2018 21:36:52 +0000|Thu, 15 Nov 2018 21:36:52 +0000
+5ad05a91c23cdb1198c65694c5e5b5f6c3d693b3|Fixed pylint warnings/errors.|Thu, 15 Nov 2018 21:22:07 +0000|Thu, 15 Nov 2018 21:22:07 +0000
+bc1220df514eef172d1586d4e1faba881514ba91|merged in upstream changes from master|Thu, 15 Nov 2018 21:00:32 +0000|Thu, 15 Nov 2018 21:00:32 +0000
+44d30d80796ee1fa5806b916253f6948da0ce1c1|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 20:56:59 +0000|Thu, 15 Nov 2018 20:56:59 +0000
+5cbd9e85584829cf419b6573e04dff096f17cfad|Updated to use current version of SIP logger.|Thu, 15 Nov 2018 18:36:01 +0000|Thu, 15 Nov 2018 18:36:01 +0000
+9c72f4d91f33733e951717ba7ead13412c116644|Updated logging library and log spammer to work with p3.|Thu, 15 Nov 2018 17:37:31 +0000|Thu, 15 Nov 2018 17:37:31 +0000
+a2d4275027eb91fae59913d8d083b126793bd046|simulate subsystems getting target state and setting current state|Thu, 15 Nov 2018 17:11:32 +0000|Thu, 15 Nov 2018 17:11:32 +0000
+0ac320d960a0217e6877c6375c1a6263e918e47b|Added 'Get Target State'|Thu, 15 Nov 2018 16:54:51 +0000|Thu, 15 Nov 2018 16:54:51 +0000
+75790d95e008d0e581523a07570e3d9ea6a37197|Updated docker client to accept log driver and options|Thu, 15 Nov 2018 16:49:50 +0000|Thu, 15 Nov 2018 16:49:50 +0000
+52db93325f534ec0ba95ec1164b8312eda3d4f8c|Updated docker test script|Thu, 15 Nov 2018 16:19:36 +0000|Thu, 15 Nov 2018 16:19:36 +0000
+83bfa0b573e08a7b264a41913ec35e5590e60740|pytest fix|Thu, 15 Nov 2018 16:07:55 +0000|Thu, 15 Nov 2018 16:07:55 +0000
+6b76d21018ebacbf094b6c638ab0f7b153700689|Merge branch 'feature/scheduler' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Thu, 15 Nov 2018 15:47:47 +0000|Thu, 15 Nov 2018 15:47:47 +0000
+e7743dce63498b15a7e4ceac01dd6e45241c3179|Updated docker swarm api|Thu, 15 Nov 2018 15:47:41 +0000|Thu, 15 Nov 2018 15:47:41 +0000
+0c31b6acc057bae85aa29dbdd5e9384379f69a48|added experimental multi line code travis script command for code coverage|Thu, 15 Nov 2018 15:26:05 +0000|Thu, 15 Nov 2018 15:26:05 +0000
+1e1ec8b421fe9e97c9c9c9f1a98fcca3e7bbbe27|Use SIP logging library, and specify command line as a single-element list.|Thu, 15 Nov 2018 15:16:40 +0000|Thu, 15 Nov 2018 15:16:40 +0000
+c032faeeb495ce1bc5dcf0e6c8209014f2ea5ad1|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 14:27:20 +0000|Thu, 15 Nov 2018 14:27:20 +0000
+6671789b379200cf59bff5695019f10d1fa2e9b1|Merge remote-tracking branch 'origin/master' into feature/async_ingest|Thu, 15 Nov 2018 14:25:53 +0000|Thu, 15 Nov 2018 14:25:53 +0000
+e95b4c915109b886d29d0ec1e7c30c4c7769d4a1|Updated sip logging module and log spammer test to match. Added fluentd configuration for updated log timestamp format.|Thu, 15 Nov 2018 14:14:17 +0000|Thu, 15 Nov 2018 14:14:17 +0000
+2b02524f986ea77f8ff2425cd66cc734ce14b7d7|- Added placeholder for mock workflow|Thu, 15 Nov 2018 11:53:42 +0000|Thu, 15 Nov 2018 11:53:42 +0000
+11a919dbbdc35012858b3207ffcc262e4c9eac62|- updates to log spammer & logging library - fixed config_db requirements at current working package versions.|Thu, 15 Nov 2018 11:53:18 +0000|Thu, 15 Nov 2018 11:53:18 +0000
+45ade5826e434448014aab18cd3f5f76d488ccf8|updated the log spammer example.|Thu, 15 Nov 2018 11:51:50 +0000|Thu, 15 Nov 2018 11:51:50 +0000
+75b5b91cce88474675055d335b2bdb09e98fbf36|added placeholder sip demo deployment scripts|Thu, 15 Nov 2018 11:51:19 +0000|Thu, 15 Nov 2018 11:51:19 +0000
+a99a43e2bb91ff6b2830e2af4676fd568da37edb|Backup script|Thu, 15 Nov 2018 10:42:03 +0000|Thu, 15 Nov 2018 10:42:03 +0000
+18f989e9d1f6ee85ecbe825b4c89a507a9bbde60|updated logging library for better compatiblity with P3|Thu, 15 Nov 2018 10:03:04 +0000|Thu, 15 Nov 2018 10:03:04 +0000
+37a4e102d688ef767f97a648eccd877c21770fda|- Added Id property to state object (SDPState, ServiceState)|Thu, 15 Nov 2018 09:49:08 +0000|Thu, 15 Nov 2018 09:49:08 +0000
+eccf3dfcd7538672ba0fb29ac9e60111bceeb807|- rename of scheduler PB queue|Thu, 15 Nov 2018 09:45:11 +0000|Thu, 15 Nov 2018 09:45:11 +0000
+6b1e4dcfa589063349733bb267e39fcbadd89109|- Added version info to PBC and PB code - slight cleanup of scheduler|Thu, 15 Nov 2018 09:44:22 +0000|Thu, 15 Nov 2018 09:44:22 +0000
+45d6539b5ebf10487a9da15707ad94115071e6ef|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 03:46:20 +0000|Thu, 15 Nov 2018 03:46:20 +0000
+1706ed971846f07734ed17fe63e1ecc16e8c0132|added flag to the init db script to simply clear the entire db|Thu, 15 Nov 2018 03:42:47 +0000|Thu, 15 Nov 2018 03:42:47 +0000
+356c253c1390a867234efb7aa7cbe11193a9d590|fixed pytest rootdir setting|Thu, 15 Nov 2018 03:35:35 +0000|Thu, 15 Nov 2018 03:35:35 +0000
+d682ac82879940c4a11c1edef788754deb3b8ea3|- Slight cleanup. - Added version to library __init__.py, this is shared with setup.py|Thu, 15 Nov 2018 03:27:47 +0000|Thu, 15 Nov 2018 03:27:47 +0000
+8193c6e03eb61f72af414ee4939d0e2db8336943|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 03:15:32 +0000|Thu, 15 Nov 2018 03:15:32 +0000
+cf6dfb589b8d3cbeb1854fa718e2de9b9df43e00|fixed pytest paths|Thu, 15 Nov 2018 03:15:19 +0000|Thu, 15 Nov 2018 03:15:19 +0000
+926c7e8526b42af13fb3559af79a5f98ec0e1970|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 03:10:16 +0000|Thu, 15 Nov 2018 03:10:16 +0000
+2bf92af7fecaaa0f53d1bbbccfe238abfbe33af3|added module symbols to the logging library|Thu, 15 Nov 2018 03:10:00 +0000|Thu, 15 Nov 2018 03:10:00 +0000
+ed2b361085a6b873b3760b2b2527a09d18763b1c|fixed url|Thu, 15 Nov 2018 03:09:10 +0000|Thu, 15 Nov 2018 03:09:10 +0000
+86017c375fb69c3339bf22ba40ed8b74d31ccd85|moved logging utility library to platform folder|Thu, 15 Nov 2018 03:06:38 +0000|Thu, 15 Nov 2018 03:06:38 +0000
+c261bc25ac1ec3a200e04205b3588e2302a7dfa3|Removed old execution control PBC folder - this is now part of the PC|Thu, 15 Nov 2018 03:04:16 +0000|Thu, 15 Nov 2018 03:04:16 +0000
+60a6d6b0af871d1e056bbb393b436876c16f9a17|updated pytest paths|Thu, 15 Nov 2018 03:01:07 +0000|Thu, 15 Nov 2018 03:01:07 +0000
+3d29b0a1e22a3a9173c19823d5c2581438e6280c|fixed requirements paths in travis settings|Thu, 15 Nov 2018 02:52:04 +0000|Thu, 15 Nov 2018 02:52:04 +0000
+24300eac7181f9d5b75a784732e5826decd4717b|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Thu, 15 Nov 2018 02:45:24 +0000|Thu, 15 Nov 2018 02:45:24 +0000
+de6d5890ab20b93c92fd3e63b3d0a3d7a9842c2b|Merge remote-tracking branch 'origin/master' into feature/scheduler|Thu, 15 Nov 2018 02:44:31 +0000|Thu, 15 Nov 2018 02:44:31 +0000
+e017cf1994d795f8f2ab6e1324bdcd690323843e|Added functions that set workflow stage status.|Thu, 15 Nov 2018 02:29:23 +0000|Thu, 15 Nov 2018 02:29:23 +0000
+c68bf037cd78b2a09f3e2620f1402413e8a091f3|fixed versions of python packages used in testing to (hopefully) avoid pytest module incompatibilities.|Thu, 15 Nov 2018 01:51:09 +0000|Thu, 15 Nov 2018 01:51:09 +0000
+dc66c182ea18459a84dbbbd280db4163f0598687|- Updated example containerised logger after more testing on P3. - Updated fluent.conf for better timestamp handling.|Thu, 15 Nov 2018 01:42:00 +0000|Thu, 15 Nov 2018 01:42:00 +0000
+90bbe93f237cedf5ae6058cbec65e14f772b44ef|Merge branch 'feature/scheduler' of github.com:SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Wed, 14 Nov 2018 23:39:28 +0000|Wed, 14 Nov 2018 23:39:28 +0000
+1183422ae61f73c78dc32736b8ecf373b7617b11|- Fixed indent level in compose file. - Removed redundant __init__.py files|Wed, 14 Nov 2018 23:39:09 +0000|Wed, 14 Nov 2018 23:39:09 +0000
+2b7275db7ae816201f7b64cd6f332c21058b06c1|added placeholder for container healthcheck function. added compose file for mac os|Wed, 14 Nov 2018 23:36:30 +0000|Wed, 14 Nov 2018 23:36:30 +0000
+0ab0e7cadcba05e23cedc0e5edf1c9b2eaa1f0ff|updated placement constraints for running on p3|Wed, 14 Nov 2018 22:59:00 +0000|Wed, 14 Nov 2018 22:59:00 +0000
+5fe743a2955a9c00765d517235f1eef8c668e9eb|fixed incorrect image version|Wed, 14 Nov 2018 22:47:05 +0000|Wed, 14 Nov 2018 22:47:05 +0000
+297f4051605b25a44bea162bf1f5f8568bc3cd41|- Added docker compose file for use on P3 - Removed redundant depends_on key|Wed, 14 Nov 2018 22:45:19 +0000|Wed, 14 Nov 2018 22:45:19 +0000
+46ff772c44e3ecf2ebb1daee56980248618bf74b|hopefully fixed a number of issues with ports for tango services.|Wed, 14 Nov 2018 16:48:02 +0000|Wed, 14 Nov 2018 16:48:02 +0000
+1f2d26557ac6e0977de670b46348705295aae1de|PBC now able to delete services when it is complete|Wed, 14 Nov 2018 16:45:21 +0000|Wed, 14 Nov 2018 16:45:21 +0000
+a72aaeeaaf0dec8c5f9ca9c28ad61e2dba7dacfb|Flask shell script now observes allowed state transitions|Wed, 14 Nov 2018 15:02:25 +0000|Wed, 14 Nov 2018 15:02:25 +0000
+26a002b6d5ee7a6d6e445953df4dc86a049c3fbe|README for yml files|Wed, 14 Nov 2018 14:40:09 +0000|Wed, 14 Nov 2018 14:40:09 +0000
+dcd09be3ecae9301e7b2bcf424755ada9128ac29|Merge branch 'feature/scheduler' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Wed, 14 Nov 2018 14:28:33 +0000|Wed, 14 Nov 2018 14:28:33 +0000
+f4a0681e0a21c64e7e734a92f16c666fe3a9973e|Updated docker client, it will check the state and delete when complete|Wed, 14 Nov 2018 14:28:17 +0000|Wed, 14 Nov 2018 14:28:17 +0000
+3a261a69b272c3b24f5cf557e21296aca06296f1|Docker stack deploy yml files fixed|Wed, 14 Nov 2018 14:27:37 +0000|Wed, 14 Nov 2018 14:27:37 +0000
+01399817c307a2b3cb53fb3676c6533a3b5f3cca|Processing Block Realtime and offline|Wed, 14 Nov 2018 14:09:13 +0000|Wed, 14 Nov 2018 14:09:13 +0000
+b579d7ec19c25787befb0449edef9c684fbbdbed|git ignore|Wed, 14 Nov 2018 09:46:16 +0000|Wed, 14 Nov 2018 09:46:16 +0000
+4703817c9a50eafb02caaf6ded915ca723ccfe78|More changes to the database API; Flask API /ProcBlock/all implemented|Wed, 14 Nov 2018 09:45:09 +0000|Wed, 14 Nov 2018 09:45:09 +0000
+6426a6bbb299dfc425e9f9dfaa4c06ca79125229|Updated tango_docker_base image to the updated skasip-config-db library. Updated versions of Docker images to reflect this.|Wed, 14 Nov 2018 02:47:47 +0000|Wed, 14 Nov 2018 02:47:47 +0000
+f2caaeeea97ef82950ac1c5fce80725c72935ce7|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Wed, 14 Nov 2018 02:35:27 +0000|Wed, 14 Nov 2018 02:35:27 +0000
+1a5e495779f4c6c38348c6522b64e9adf6702871|Updated config db library to 1.0.20:|Wed, 14 Nov 2018 02:33:04 +0000|Wed, 14 Nov 2018 02:33:04 +0000
+bc14ede78346b3633aeaf78e6b41d238659b7769|- refactor of processing controller device server to become simply a processing block device server. - added _version.py files, used to set the version of the service in multiple places (docker image, tango device version etc) - slight cleanup and doc updates.|Wed, 14 Nov 2018 01:49:17 +0000|Wed, 14 Nov 2018 01:49:17 +0000
+eadc69c74f6b11a132b7a66a980902fab3bd9be8|- Tidy up of the travis ci file.|Tue, 13 Nov 2018 23:21:06 +0000|Tue, 13 Nov 2018 23:21:06 +0000
+f1079ad39f4ee48532e9ff92538c2f4611a1cda7|updated example compose file for testing logging on P3 with fluentd|Tue, 13 Nov 2018 17:14:46 +0000|Tue, 13 Nov 2018 17:14:46 +0000
+ea6cd3b5210c61921de271c3e05c3d9f7ba9fa6d|Merge branch 'feature/scheduler' of github.com:SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Tue, 13 Nov 2018 16:23:07 +0000|Tue, 13 Nov 2018 16:23:07 +0000
+bf5c6f398054b9881668ca515eb2b637f68e3d9b|- Updated the mock workflow task to format log messages according to the   skasip-logging library. - Add test docker-compose to test the mock_workflow_stage container   with logging on P3.|Tue, 13 Nov 2018 16:21:55 +0000|Tue, 13 Nov 2018 16:21:55 +0000
+9c9b8a427e2061fb4a8be9d2eaf46d243f740980|updated processing block controller test script|Tue, 13 Nov 2018 16:15:19 +0000|Tue, 13 Nov 2018 16:15:19 +0000
+c98b240a730fba301f3a4d6512ea71d57f9ba1e7|Added Docker Compose files for spead2_bench.py, also with fluentd logging.|Tue, 13 Nov 2018 16:06:52 +0000|Tue, 13 Nov 2018 16:06:52 +0000
+0ce37ecd7ac269f335ec777cf2eee8f75343303e|Updated docker client to return service ids and updated compose file restart condition to none|Tue, 13 Nov 2018 15:41:55 +0000|Tue, 13 Nov 2018 15:41:55 +0000
+425537f2f0a8b7d957c8d2cce0584c6be8afd4df|more experiments with dynamic device creation.|Tue, 13 Nov 2018 13:34:13 +0000|Tue, 13 Nov 2018 13:34:13 +0000
+83a651a6a451ae4d6580e6641ad148003e693738|Processing block controller starts with docker client|Tue, 13 Nov 2018 13:23:53 +0000|Tue, 13 Nov 2018 13:23:53 +0000
+7d35621d09d713f9068657f4e1d886983f452489|another travis ci update to 'fix' testing of the tango-control components.|Tue, 13 Nov 2018 12:42:45 +0000|Tue, 13 Nov 2018 12:42:45 +0000
+5f91f5a2469903a4b2c81b27711406c7cbb1bd57|- renamed pytango install|Tue, 13 Nov 2018 11:21:36 +0000|Tue, 13 Nov 2018 11:21:36 +0000
+2d8a1d8248dd18025b56dd9654827d06d2702d45|- disabled install of pytango for now|Tue, 13 Nov 2018 11:16:43 +0000|Tue, 13 Nov 2018 11:16:43 +0000
+ba9b3b05b39b4af7385c350a4e865b85ae649d84|- updated tango docker base image to ubuntu 18.04 - further tweaks to travis ci for the tango tests|Tue, 13 Nov 2018 11:14:03 +0000|Tue, 13 Nov 2018 11:14:03 +0000
+7381589e6c364d111b9419dfc69ce7bc6299df09|another update to travis ci to try to get tango to install in the CI VM|Tue, 13 Nov 2018 10:58:33 +0000|Tue, 13 Nov 2018 10:58:33 +0000
+107112bb77523cfe1c348a5050d01cd6a5af5482|updated travis ci config file in an attempt to install python packages needed for testing the tango code|Tue, 13 Nov 2018 10:53:36 +0000|Tue, 13 Nov 2018 10:53:36 +0000
+df99463fee605b97192e10ae49db5f4162ef872c|Cleanup and refactor of SIP Tango devices.|Tue, 13 Nov 2018 02:31:07 +0000|Tue, 13 Nov 2018 02:31:07 +0000
+dfc93200a477c73075d0faa1f8dba0e40f6c3760|updated requirements to use skasip-config-db pypi package|Mon, 12 Nov 2018 22:13:07 +0000|Mon, 12 Nov 2018 22:13:07 +0000
+182134818274ed3cac584ca70b98b723061f75bb|updated requirements to use skasip-config-db pypi package|Mon, 12 Nov 2018 22:12:32 +0000|Mon, 12 Nov 2018 22:12:32 +0000
+94bc5d26767e0000b418f82340308c392e618d5b|Merge remote-tracking branch 'origin/master' into feature/scheduler|Mon, 12 Nov 2018 22:10:30 +0000|Mon, 12 Nov 2018 22:10:30 +0000
+94b66f1b948a3fdb078a5d5dab8ed3043fec7b27|merged in upstream changes from master|Mon, 12 Nov 2018 22:09:58 +0000|Mon, 12 Nov 2018 22:09:58 +0000
+2baf6006f273ee43d5f23df4750ea30c53b52b60|updated dockerfiles.|Mon, 12 Nov 2018 22:09:10 +0000|Mon, 12 Nov 2018 22:09:10 +0000
+22a7879e9149400f20b962bde1760f291fbd862f|updated readme|Mon, 12 Nov 2018 21:54:42 +0000|Mon, 12 Nov 2018 21:54:42 +0000
+29d52532c3953e1614cf329f286fc888536c8dea|- Added logging library (pip install sip-logging) - Updated config db API to add some additional utility functions and update the subarray data objects.|Mon, 12 Nov 2018 21:50:37 +0000|Mon, 12 Nov 2018 21:50:37 +0000
+f00d7697e46a800a972dda76d9fc0bb97e330089|Updated docker client to return created docker service names|Mon, 12 Nov 2018 16:48:25 +0000|Mon, 12 Nov 2018 16:48:25 +0000
+4421fbc1c0d93e04adaedf9a4803b5494b933477|Updated docker client to work with args|Mon, 12 Nov 2018 15:41:37 +0000|Mon, 12 Nov 2018 15:41:37 +0000
+99bc2f907bd145ad977937087c836a1ecb0f4486|Updated Tango Control devices.|Mon, 12 Nov 2018 14:16:49 +0000|Mon, 12 Nov 2018 14:16:49 +0000
+b9205251b777534fd62c92ec4235186463f44476|Fixed linter problems.|Fri, 9 Nov 2018 18:17:31 +0000|Fri, 9 Nov 2018 18:17:31 +0000
+6615daef806d94a470a6fecbb54da11f38d37f9e|Merge remote-tracking branch 'origin/master' into feature/async_ingest|Fri, 9 Nov 2018 17:34:43 +0000|Fri, 9 Nov 2018 17:34:43 +0000
+3a0ff4300cbb7099f1a59f4c21d290240368ca85|Changed version of Docker Compose file to be compatible with P3.|Fri, 9 Nov 2018 17:27:11 +0000|Fri, 9 Nov 2018 17:27:11 +0000
+bf9e99540422500d0b6da8f14e5fe52e833945fc|Added Docker compose files to run both the sender and receiver.|Fri, 9 Nov 2018 17:11:06 +0000|Fri, 9 Nov 2018 17:11:06 +0000
+ebece84c59433273c88ea0199cfbda2e6c5e46ba|Figured out how to set the docker compose command|Fri, 9 Nov 2018 16:56:18 +0000|Fri, 9 Nov 2018 16:56:18 +0000
+17112c9b55e108737fb3f265ef6d3118b187171c|Flask API with Scheduling Block|Fri, 9 Nov 2018 14:40:40 +0000|Fri, 9 Nov 2018 14:40:40 +0000
+d3137cfcf2a1e72d0509e6b20b30caf70c321064|Restructured the folder and added test for workflow definition|Fri, 9 Nov 2018 13:12:37 +0000|Fri, 9 Nov 2018 13:12:37 +0000
+1f00aa5b532908102d1ffcafc6f07363077dd571|Merge branch 'feature/scheduler' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Fri, 9 Nov 2018 09:55:53 +0000|Fri, 9 Nov 2018 09:55:53 +0000
+fbdeb78485151f337119a3a6e211097446f4aa30|Removed pbc folder, add workflow definition function to utils and created a personal workflow definition for pbc|Fri, 9 Nov 2018 09:55:21 +0000|Fri, 9 Nov 2018 09:55:21 +0000
+95b10fa5dc13f6d035f9605a719a45187f81bc68|updated readme|Fri, 9 Nov 2018 02:34:22 +0000|Fri, 9 Nov 2018 02:34:22 +0000
+8dd8298afab0584a36cf9ff121c169c5c1ded80b|- fixed updated bind mounts which broke after updating to new base   image which runs as the SIP user.|Fri, 9 Nov 2018 02:31:17 +0000|Fri, 9 Nov 2018 02:31:17 +0000
+5c5a1b99aeefb69d3fefbd1d09036ff7c1028354|- Renamed tango base image to `skasip/tango_docker_base` - Added utility script to build and upload tango images.|Fri, 9 Nov 2018 02:24:59 +0000|Fri, 9 Nov 2018 02:24:59 +0000
+25d1abdaa8b0913fa65b10d64e1d1f6f4aa813eb|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Fri, 9 Nov 2018 02:02:14 +0000|Fri, 9 Nov 2018 02:02:14 +0000
+b8b1fa2fed6792dd4ee73d7ce87418771d338de0|Merge remote-tracking branch 'origin/master' into feature/scheduler|Fri, 9 Nov 2018 02:01:46 +0000|Fri, 9 Nov 2018 02:01:46 +0000
+116c4abec09a4f240f815e60609372033221a64a|Removed old files.|Fri, 9 Nov 2018 01:52:30 +0000|Fri, 9 Nov 2018 01:52:30 +0000
+f011f5a7308d6bf2c8040e6e6392e5f9f9257628|Merge remote-tracking branch 'origin/master' into feature/scheduler|Fri, 9 Nov 2018 01:45:25 +0000|Fri, 9 Nov 2018 01:45:25 +0000
+81c8ac829feb53b8149720e58c7068b5fab0bffd|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Fri, 9 Nov 2018 01:44:27 +0000|Fri, 9 Nov 2018 01:44:27 +0000
+f3cc346c668c1c24f3ebd33042914ecf5aa34893|- Added common Docker base image for SIP Tango Services. - Updated Tango Docker images to version 1.0.0 - Changed `tango_master` imports from PyTango -> tango (the former is   deprecated)|Fri, 9 Nov 2018 01:43:57 +0000|Fri, 9 Nov 2018 01:43:57 +0000
+ce789f60cf73736e4a412b60117d43c2116749f3|Update __init__.py|Fri, 9 Nov 2018 01:35:08 +0000|Fri, 9 Nov 2018 01:35:08 +0000
+ff11d07e4dc52874f6e159b4035ddfd4276367ca|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Fri, 9 Nov 2018 00:45:04 +0000|Fri, 9 Nov 2018 00:45:04 +0000
+53d36d70662f030e8ab4bd54bda369a00eea8287|Updated config db library to version 1.0.14.|Fri, 9 Nov 2018 00:43:42 +0000|Fri, 9 Nov 2018 00:43:42 +0000
+449d8cad88b3532fa0567f187a92f414249e3b5b|moved alarms into examples|Fri, 9 Nov 2018 00:02:22 +0000|Fri, 9 Nov 2018 00:02:22 +0000
+398c876c76f59cbf4b0962841f0ce6e2135d893c|moved alarms into execution control|Fri, 9 Nov 2018 00:01:23 +0000|Fri, 9 Nov 2018 00:01:23 +0000
+a8a2b277ae031b528b7cb88a2cc68e1793e6d6f7|updated name of Processing Controller device server. this fixes the issue where the MC was not able to spawn PB devices.|Thu, 8 Nov 2018 17:24:05 +0000|Thu, 8 Nov 2018 17:24:05 +0000
+774bee4a9856f756f5c3fd2d322fba2268f292bc|added processing controller tango device updated master controller tango device|Thu, 8 Nov 2018 17:17:06 +0000|Thu, 8 Nov 2018 17:17:06 +0000
+0f23999a4dd11edb9292798c2adc6c760ea61b59|Uses the new database API; fleshing out FLASK interface for extended functionality|Thu, 8 Nov 2018 17:06:21 +0000|Thu, 8 Nov 2018 17:06:21 +0000
+eb02eab841b5318701fe9ceb4f34159a62ebb5b5|merged in upstream changes from master|Thu, 8 Nov 2018 15:08:25 +0000|Thu, 8 Nov 2018 15:08:25 +0000
+8170bc2395d4890f0abc6c4e0313fb30c8fb5eb9|added functions to tango master|Thu, 8 Nov 2018 15:06:07 +0000|Thu, 8 Nov 2018 15:06:07 +0000
+79f63ee622b3c64e95d8c075d10fb9c10d252260|The scripts to run ICAL pipeline on AlaSKA P3 cluster.|Thu, 8 Nov 2018 12:24:28 +0000|Thu, 8 Nov 2018 12:24:28 +0000
+8533777de6dfeb2fdfd17ac5cf7cb5141c2b6288|- moved tango master into tango control folder. - deleted some files that are no longer neeeded - updated tango host containers to be on port 20000|Thu, 8 Nov 2018 11:57:44 +0000|Thu, 8 Nov 2018 11:57:44 +0000
+223dc72f28aba00983ff7e8f534bf344376c7556|Update docker-compose.yml|Thu, 8 Nov 2018 11:37:10 +0000|Thu, 8 Nov 2018 11:37:10 +0000
+07c86480aee84a424d9f0ffb9d6270705bab86db|Tidy code|Thu, 8 Nov 2018 11:35:29 +0000|Thu, 8 Nov 2018 11:35:29 +0000
+18783c5b7d6005ac8ca8b4c1ea8526a360c155fe|Merge branch 'master' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into feature/scheduler|Thu, 8 Nov 2018 10:10:03 +0000|Thu, 8 Nov 2018 10:10:03 +0000
+5d1d3344821757c870dbaff52c84bf7af10bd04b|added script to directly update states (service or sdp) in the config db.|Thu, 8 Nov 2018 03:02:03 +0000|Thu, 8 Nov 2018 03:02:03 +0000
+cf22df12bd64eff6ddddf04cdd04074aca73ac5c|added script to add autogenerated SBIs directly to the config db.|Thu, 8 Nov 2018 02:48:16 +0000|Thu, 8 Nov 2018 02:48:16 +0000
+b52f05d5b47069381f6df4f39f2f1c23f4209f04|fixed line separators|Thu, 8 Nov 2018 02:12:58 +0000|Thu, 8 Nov 2018 02:12:58 +0000
+3a2598583fa1c574335cb1056c48a947c9e26364|Reworked tango control package adding placeholders for SIP Tango devices.|Thu, 8 Nov 2018 02:11:47 +0000|Thu, 8 Nov 2018 02:11:47 +0000
+a4cbfac7d24c38ee94176807961404f601d33d1b|Update README.md|Thu, 8 Nov 2018 02:02:19 +0000|Thu, 8 Nov 2018 02:02:19 +0000
+f4a059c0296d59320dc197a0c2e3bcbb57de8095|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Thu, 8 Nov 2018 01:24:09 +0000|Thu, 8 Nov 2018 01:24:09 +0000
+e1616706e98e4d137e97811b3f3bf2d7a94b25be|added tango control folder, moved the tango db code into this and added placeholders for updated tango devices|Thu, 8 Nov 2018 01:23:41 +0000|Thu, 8 Nov 2018 01:23:41 +0000
+eda119ebd7f0a2404cabe14ae12de294c2a82f46|Update README.md|Thu, 8 Nov 2018 01:20:01 +0000|Thu, 8 Nov 2018 01:20:01 +0000
+0f694ea182d6725ae0035562c30851c1ef8337ed|Merge pull request #47 from SKA-ScienceDataProcessor/feature/deploy_swarm_dask_cluster|Thu, 8 Nov 2018 01:09:03 +0000|Thu, 8 Nov 2018 01:09:03 +0000
+27ef517232c17781b4b10b52df02451120107bb3|Merge remote-tracking branch 'origin/master' into feature/mc-tango|Thu, 8 Nov 2018 01:06:01 +0000|Thu, 8 Nov 2018 01:06:01 +0000
+014cb9b4e0c314957c3d3543d00fdc47f2e2311e|Merge branch 'master' into feature/deploy_swarm_dask_cluster|Thu, 8 Nov 2018 01:02:44 +0000|Thu, 8 Nov 2018 01:02:44 +0000
+81508e52e313676f4c6c8402c6d9570c1a44da06|Update README.md|Thu, 8 Nov 2018 01:02:17 +0000|Thu, 8 Nov 2018 01:02:17 +0000
+85bf597bddabafc7b954138004c3b70adf61622a|Update README.md|Thu, 8 Nov 2018 01:00:54 +0000|Thu, 8 Nov 2018 01:00:54 +0000
+053688ee228ad8e44554b369f260a2c6d832b67b|merged in upstream changes from master|Thu, 8 Nov 2018 00:57:14 +0000|Thu, 8 Nov 2018 00:57:14 +0000
+67146be659303336a521e5b28678256fea619463|added submodule imports back to __init__|Thu, 8 Nov 2018 00:53:35 +0000|Thu, 8 Nov 2018 00:53:35 +0000
+87958b0e1e5d87e50cd9de54d1bfe28828fc10e7|Merge remote-tracking branch 'origin/master' into update/pci_flask|Thu, 8 Nov 2018 00:44:47 +0000|Thu, 8 Nov 2018 00:44:47 +0000
+b964b730be08e49faf799ac30d1609ac619041d6|updated to new version of the config_db from the master branch.|Thu, 8 Nov 2018 00:43:52 +0000|Thu, 8 Nov 2018 00:43:52 +0000
+54fba87c30639f0afe39d197ab1e7b5aac73b374|removed deprecated files and folders.|Thu, 8 Nov 2018 00:35:45 +0000|Thu, 8 Nov 2018 00:35:45 +0000
+a1d2d599fb3a0262499c270fc7c7c1dccf54dbb3|removed left over init files|Thu, 8 Nov 2018 00:30:32 +0000|Thu, 8 Nov 2018 00:30:32 +0000
+234ad470a6c5072d2f87f81a70303d53267c8736|merged in upstream changes from master|Thu, 8 Nov 2018 00:29:10 +0000|Thu, 8 Nov 2018 00:29:10 +0000
+3004eae514f02be0d1699c9d75bb68b8a54d66f5|Merge pull request #46 from SKA-ScienceDataProcessor/updates/config_db_refactor|Thu, 8 Nov 2018 00:20:12 +0000|Thu, 8 Nov 2018 00:20:12 +0000
+afdba4044022ac6b09e35215827b30908fa1933f|prevented autogenerated test workflow definitions being registered more than once.|Thu, 8 Nov 2018 00:13:13 +0000|Thu, 8 Nov 2018 00:13:13 +0000
+a127905ca78c0e14733111161d5ef419600ec9d4|updated readme and updated requirements path in the travis settings.|Thu, 8 Nov 2018 00:03:19 +0000|Thu, 8 Nov 2018 00:03:19 +0000
+56117fa2c825d0608e4f281414e85e252b5f6d89|Moved code up one folder.|Wed, 7 Nov 2018 23:57:08 +0000|Wed, 7 Nov 2018 23:57:09 +0000
+2257cde8c9b6c2416680e71e81d9cac1d68b1e03|Restructured data files and updated setup.py to install the `skasip_init_config_db` script.|Wed, 7 Nov 2018 23:09:29 +0000|Wed, 7 Nov 2018 23:09:29 +0000
+0149902b57ecf47bd325f003239b0b2503a282c7|removed left over debuging print statement|Wed, 7 Nov 2018 22:07:50 +0000|Wed, 7 Nov 2018 22:07:50 +0000
+906e5107344e9198264665f991ca058cf8511897|Added requirements file for test packages, updated travis config to use this.|Wed, 7 Nov 2018 22:03:18 +0000|Wed, 7 Nov 2018 22:03:18 +0000
+503f1d8b3ec6595e94020585a7817e10f94c654e|fixed template|Wed, 7 Nov 2018 16:58:29 +0000|Wed, 7 Nov 2018 16:58:29 +0000
+aa0ea3324ef1805893569335c725e3218a16e757|updated test template|Wed, 7 Nov 2018 16:52:38 +0000|Wed, 7 Nov 2018 16:52:38 +0000
+99f29df85da7e4d074d35a3082c97fdc825a893b|updated PBC test in an attempt to get workflow stages to run automatically.|Wed, 7 Nov 2018 16:27:09 +0000|Wed, 7 Nov 2018 16:27:09 +0000
+5d039a257921e6d966e3f33f42e87e352533c473|moved docker api and compose generator to EC folder.|Wed, 7 Nov 2018 11:46:48 +0000|Wed, 7 Nov 2018 11:46:48 +0000
+defda778c0467fb259038ca541884c5e32551742|added workflow definition and stage templates for testing the PBC.|Wed, 7 Nov 2018 11:41:16 +0000|Wed, 7 Nov 2018 11:41:16 +0000
+3940df2ef58476308d53b44c58117000f0c919b2|updated mock workflow stage container|Wed, 7 Nov 2018 11:21:08 +0000|Wed, 7 Nov 2018 11:21:08 +0000
+eb37f0d7cc6aa97853e5c70688c75166ce8bbe72|Send descriptors for every heap to allow receiver to start mid-stream. Ensure end-of-stream message is sent on keyboard interrupt. Added timeout to sender. Send visibility_timestamp_count and visibility_timestamp_fraction. Use more appropriate memory pool sizes.|Wed, 7 Nov 2018 11:16:58 +0000|Wed, 7 Nov 2018 11:16:58 +0000
+0da65e8df0147bd83d0d7e09befe0ac698976541|changes to workflow definition|Wed, 7 Nov 2018 11:02:59 +0000|Wed, 7 Nov 2018 11:02:59 +0000
+254b32ae7330c23fe8f51bea88c428e7b8400b84|updated handling of workflow definitions.|Wed, 7 Nov 2018 10:47:34 +0000|Wed, 7 Nov 2018 10:47:34 +0000
+61319fa15b077e726d840bda4112994bd7dc84cd|Updated to new specification of the workflow template directory.|Wed, 7 Nov 2018 03:24:26 +0000|Wed, 7 Nov 2018 03:24:26 +0000
+45930d17c9fa42ab8c0ab2735cdfa67bcefa58f9|Update to extend PB API for use with the PB / PBC.|Wed, 7 Nov 2018 03:05:40 +0000|Wed, 7 Nov 2018 03:05:40 +0000
+a5903dacffe2f736c88586f4568d9bac59b251d5|Updated the class method for SBI data creation to not accept a subarray id. This prevents creating SBIs with invalid subarray assignment.|Tue, 6 Nov 2018 14:07:10 +0000|Tue, 6 Nov 2018 14:07:10 +0000
+61d8d8ad4549367d3774a95b957a2b6d4152a786|Added an additional argument called `process` with default=True, to `EventQueue.get_published_events()` method to simply return the list of published pending events without moving them to the processed events list. The default behaviour of this method is unchanged.|Mon, 5 Nov 2018 18:40:07 +0000|Mon, 5 Nov 2018 18:42:00 +0000
+7ca1edd4299ea43e33660f314aa70510a1cc749d|Added origin field to events.|Mon, 5 Nov 2018 12:30:51 +0000|Mon, 5 Nov 2018 12:30:51 +0000
+8623be6abfd3b00a32d9752ef7d33dce5599e1ca|- updated / fixed unit tests.|Sat, 3 Nov 2018 02:26:24 +0000|Sat, 3 Nov 2018 02:26:24 +0000
+00adcd27df6a98afdb0c11936a5d454da09ab753|Merge branch 'updates/config_db_refactor' of github.com:SKA-ScienceDataProcessor/integration-prototype into updates/config_db_refactor|Sat, 3 Nov 2018 02:06:02 +0000|Sat, 3 Nov 2018 02:06:02 +0000
+3ce4844df6fdaabad7f95bbb24b2ac79c660699a|- Added current and target state update logic. - Renamed active events to processed events.|Sat, 3 Nov 2018 02:05:32 +0000|Sat, 3 Nov 2018 02:05:32 +0000
+79b6cca40688a67c1083bd7d0ba460fd6fbff73a|First commit of tango branch in new home - needs tidying!|Fri, 2 Nov 2018 16:36:49 +0000|Fri, 2 Nov 2018 16:36:49 +0000
+00fd6319a209ad287f5b8a8ff66f10548cbe60ea|Updated docstrings|Fri, 2 Nov 2018 14:12:31 +0000|Fri, 2 Nov 2018 14:12:31 +0000
+91023eb0626feaa8dc0b9829bae721b756fa9eb6|- added data to handle state transition checking. - refactored, in particular get/set status, methods on sbi and pb objects.|Fri, 2 Nov 2018 02:14:46 +0000|Fri, 2 Nov 2018 02:14:46 +0000
+f8da93e6e15f295e58173a1b016279cc8f91fca0|Initial commit pbc|Thu, 1 Nov 2018 16:41:00 +0000|Thu, 1 Nov 2018 16:41:00 +0000
+278607279d4c5c939b82614330f09a21596bfb65|fixed linter error|Thu, 1 Nov 2018 16:40:42 +0000|Thu, 1 Nov 2018 16:40:42 +0000
+138fec25f5543d432cb96547e7f70914b0f91cce|Merge branch 'updates/config_db_refactor' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into updates/config_db_refactor|Thu, 1 Nov 2018 16:15:13 +0000|Thu, 1 Nov 2018 16:15:13 +0000
+a636225b73d901c5c1bb5907891edba3491d5640|Updated readme, removed .zip file and added jinja to the requirments.txt file|Thu, 1 Nov 2018 16:13:26 +0000|Thu, 1 Nov 2018 16:13:26 +0000
+136d7ae3645f25b6e3edfd917d17ec5d78859b2b|fixed linter errors|Thu, 1 Nov 2018 16:12:57 +0000|Thu, 1 Nov 2018 16:12:57 +0000
+1264f17aefb4d584c9bd9fd78ff2339c5b1d8921|- Updated setup.py to include data files (schemas & workflow definitions) - Updated script which initialises the database to use the installed version of the library.|Thu, 1 Nov 2018 15:52:01 +0000|Thu, 1 Nov 2018 15:52:01 +0000
+af359924372caccf7072e8ad93c74de773206564|merged in upstream changes from master|Thu, 1 Nov 2018 03:42:01 +0000|Thu, 1 Nov 2018 03:42:01 +0000
+d5912955eee68208fcc69e39d93e6cc40523edc9|Added module docstring.|Thu, 1 Nov 2018 03:34:51 +0000|Thu, 1 Nov 2018 03:34:51 +0000
+b4bede74933463cfe9c0428b81193088baa9409a|updated tests. updated script to initialise the database.|Thu, 1 Nov 2018 03:27:06 +0000|Thu, 1 Nov 2018 03:27:06 +0000
+e88200eca6197d1b634fd5f659be773e7b5b19a9|Reworked PB and SBI data objects.|Thu, 1 Nov 2018 01:49:34 +0000|Thu, 1 Nov 2018 01:49:34 +0000
+3c2365280b5e087a652244ee1bbdf0721fee4244|added module for sdp service states|Wed, 31 Oct 2018 16:27:11 +0000|Wed, 31 Oct 2018 16:27:11 +0000
+98e283480382d37bfdcf09b1fdfdf6dca6057344|- Removed use of Python 3.7 function `datetime.fromisoformat()` - Added state object base class.|Wed, 31 Oct 2018 16:04:44 +0000|Wed, 31 Oct 2018 16:04:44 +0000
+4a39f598b58da9c44eed3d4923825caff8167165|- Updated events data keys adding an event timestamp. - Updated SDP state function|Wed, 31 Oct 2018 15:50:44 +0000|Wed, 31 Oct 2018 15:50:44 +0000
+837abb875d73eb956276411a8b5f5f1fae40401a|Updates to sdp state data object modules.|Wed, 31 Oct 2018 12:29:57 +0000|Wed, 31 Oct 2018 12:29:57 +0000
+d9189a20195c682e9e3d7fd6c6323ff67ffd143e|Fixed linter errors|Wed, 31 Oct 2018 00:26:05 +0000|Wed, 31 Oct 2018 00:26:05 +0000
+4a52b566f0397f9ed9837411c5d4d15c1bc53d18|updated .gitingore|Wed, 31 Oct 2018 00:08:36 +0000|Wed, 31 Oct 2018 00:08:36 +0000
+60e4c3e652e68c3407edc77a7ce978c1b53cbdfd|Added subarray - sbi handling. Test of code coverage checking.|Wed, 31 Oct 2018 00:07:27 +0000|Wed, 31 Oct 2018 00:07:27 +0000
+ca6eac75725e430e1edb244a614faeb951fc8993|updated travis settings|Tue, 30 Oct 2018 22:13:52 +0000|Tue, 30 Oct 2018 22:13:52 +0000
+fd419497431a7cf4b5bc6e304ac998737a90e705|Fixed more linter errors.|Tue, 30 Oct 2018 18:13:41 +0000|Tue, 30 Oct 2018 18:13:41 +0000
+e426449527fdb10586e3fa4af7c381a6d2ec53ee|Fixed linter errors (hopefully!).|Tue, 30 Oct 2018 17:50:30 +0000|Tue, 30 Oct 2018 17:50:30 +0000
+f508fbbab29989ef4bc35d4a4a29e1936fa84fa1|refactor towards a ConfigDB API matching the SIP report|Tue, 30 Oct 2018 17:20:50 +0000|Tue, 30 Oct 2018 17:20:50 +0000
+46af34d25940f005961df65b55a6c15a11f011e7|refactor towards matching report|Sat, 27 Oct 2018 01:06:00 +0100|Sat, 27 Oct 2018 01:06:00 +0100
+7b5977d3abd3c89a1ba6d21081ded8738afeac85|refactor to new folder structure|Fri, 26 Oct 2018 22:36:08 +0100|Fri, 26 Oct 2018 22:36:08 +0100
+8a99144208652542f09e87cae8a031b38f6c7a1a|Modified to install config_db package from github|Fri, 26 Oct 2018 16:54:31 +0100|Fri, 26 Oct 2018 16:54:31 +0100
+6466d1d4a9af7580428485c23c431f45e5eadec5|New files for creating containers under P-cubed on Alaska|Fri, 26 Oct 2018 09:39:06 +0100|Fri, 26 Oct 2018 09:39:06 +0100
+d5beeb83f3d321e3a3ccd4b2209164a49873e43f|Changes after testing on the P-cubed server|Thu, 25 Oct 2018 16:14:08 +0100|Thu, 25 Oct 2018 16:14:08 +0100
+d1f35de2b8e10da805f1ad3afa9c9b30c2285e60|Removed the zip file|Thu, 18 Oct 2018 15:42:15 +0100|Thu, 18 Oct 2018 15:42:15 +0100
+ad59794726563760695d6134fa2fea0de8f7d673|Create a simple function / python or script to add the scheduling information to the configuration db|Thu, 18 Oct 2018 15:30:48 +0100|Thu, 18 Oct 2018 15:30:48 +0100
+997f21ab0ede286f98607cf7461a88b157dbb60a|minor changes post-pull request|Thu, 18 Oct 2018 11:52:58 +0100|Thu, 18 Oct 2018 11:52:58 +0100
+f9919bc5da0e0e8d710315d5de63c9bd71350056|New utilities|Thu, 18 Oct 2018 11:51:17 +0100|Thu, 18 Oct 2018 11:51:17 +0100
+49522cb946ae4205852c14e8947444394ceab4e4|Changes to use scheduler rather than a sleep loop|Thu, 18 Oct 2018 11:49:11 +0100|Thu, 18 Oct 2018 11:49:11 +0100
+00023d472984cd29658bf3c30452a72165f28ce5|master_controller no longer required|Wed, 17 Oct 2018 14:35:35 +0100|Wed, 17 Oct 2018 14:35:35 +0100
+56a635caa83bb1ce1d4b81333ba1e7e14c1157b0|removal of config_db.zip|Wed, 17 Oct 2018 14:34:34 +0100|Wed, 17 Oct 2018 14:34:34 +0100
+a89961ebc14b3ddaf391e01b43e3f1e993bbfa38|Merged with master|Wed, 17 Oct 2018 14:25:29 +0100|Wed, 17 Oct 2018 14:25:29 +0100
+85f4593414aed1520f239f8f7ff02a97751938fa|Writes alarms to a Kafka queue instead of redis|Wed, 17 Oct 2018 13:16:59 +0100|Wed, 17 Oct 2018 13:16:59 +0100
+7e41757a796e67c6eb53fcd2915ae8dbf6fc69a8|Mc rest (#44)|Mon, 15 Oct 2018 12:51:50 +0100|Mon, 15 Oct 2018 12:51:50 +0100
+9108ca1739801463529f1fa25eb5dafee2b8de18|Maintainence continue|Mon, 8 Oct 2018 15:11:39 +0100|Mon, 8 Oct 2018 15:11:39 +0100
+e4d44f20dae958ca95ba6974930ec8850a15eef7|Merge branch 'master' into mc_rest|Mon, 8 Oct 2018 09:50:04 +0100|Mon, 8 Oct 2018 09:50:04 +0100
+b8e66748cc081b6cb32d43075acc6ff88b474ca5|Feature/prometheus (#41)|Mon, 8 Oct 2018 09:49:02 +0100|Mon, 8 Oct 2018 09:49:02 +0100
+e8d39ef920a28da3dae0094ce1a0f024486639c2|Updated config db version to 0.2|Thu, 4 Oct 2018 11:33:29 +0100|Thu, 4 Oct 2018 11:33:29 +0100
+fec173404449d3eb0e256b38df06a17398dc6eda|Updated generater script, which generates sbi block data for test|Wed, 3 Oct 2018 15:51:33 +0100|Wed, 3 Oct 2018 15:51:33 +0100
+da41bcbb08e3b22cbbce54ce3db1d85b0624ff0e|Updated on the travis error and deleted redundant scripts|Thu, 27 Sep 2018 14:23:38 +0100|Thu, 27 Sep 2018 14:23:38 +0100
+6563e1370400c92c4c71d872781919cc30abf894|Updated on the travis error and deleted redundant scripts|Thu, 27 Sep 2018 14:22:09 +0100|Thu, 27 Sep 2018 14:22:09 +0100
+c6dd49a2c669110bdadc40eaa01528bd8ecd3a26|Merged README_startup amd README_venv into README.md|Thu, 27 Sep 2018 14:13:16 +0100|Thu, 27 Sep 2018 14:13:16 +0100
+edb3f274413d488b194f02dd24a16ca8d20b6ff4|no longer required|Thu, 27 Sep 2018 14:12:10 +0100|Thu, 27 Sep 2018 14:12:10 +0100
+31dac50c165d4280c9bf522b31bb402e2d3d5762|Changes after comments from the last pull request.|Thu, 27 Sep 2018 09:46:07 +0100|Thu, 27 Sep 2018 09:46:07 +0100
+6c7653ffff2c8cb47de9ea523759731d2506c8bc|Updated README file to include information about how to zip the client|Wed, 26 Sep 2018 14:33:15 +0100|Wed, 26 Sep 2018 14:33:15 +0100
+455e6c47314d4ba5b82244527d4b36ac556ee713|Initial commit|Tue, 25 Sep 2018 16:53:33 +0100|Tue, 25 Sep 2018 16:53:33 +0100
+7196f4ea957ec6ce369ed0d55c9d772e934be6cb|Using config_db as python module|Tue, 25 Sep 2018 14:53:32 +0100|Tue, 25 Sep 2018 14:53:32 +0100
+aa8096951512c57e8ab820c6c52cc86a4d11edfd|Using config_db as python module; fix loop problem with target set to off|Tue, 25 Sep 2018 14:51:08 +0100|Tue, 25 Sep 2018 14:51:08 +0100
+f35de6938243fda78a9cf4174eea195594cf7faf|updated to master branch|Mon, 24 Sep 2018 16:18:08 +0100|Mon, 24 Sep 2018 16:18:08 +0100
+1a440583507690dd3d335c59eec0a04a005216a9|Changes for pep-8|Mon, 24 Sep 2018 16:12:09 +0100|Mon, 24 Sep 2018 16:12:09 +0100
+9f548dce585590aaf18690089851b3a85b982d46|Feature/configuration db (#43)|Mon, 24 Sep 2018 16:08:15 +0100|Mon, 24 Sep 2018 16:08:15 +0100
+55883fb3cee8f8f329ed72e26dd4be0882c07138|Make mostly consistent with PEP-8 style|Tue, 18 Sep 2018 09:06:35 +0100|Tue, 18 Sep 2018 09:06:35 +0100
+e3827f44c12181c8741ad300018f7450140bf9fa|Added dummy update_components module|Fri, 14 Sep 2018 14:49:34 +0100|Fri, 14 Sep 2018 14:49:34 +0100
+f8997780e4a44b61fbc2bc08e653a593018e508d|remove white space at end of line; ensure lines shorter than 80 chars|Fri, 14 Sep 2018 14:38:50 +0100|Fri, 14 Sep 2018 14:38:50 +0100
+43a5753fd74f723caabb3d448d8980014f28b0e7|Instructions on how to run the REST services|Thu, 13 Sep 2018 16:31:50 +0100|Thu, 13 Sep 2018 16:31:50 +0100
+f538f799a62780eda79af2607e242da213e0d72d|Further changes to Nijin's code|Thu, 13 Sep 2018 14:18:27 +0100|Thu, 13 Sep 2018 14:18:27 +0100
+24fc432330545085e8d681e2f86085e707072f86|Latest version of Nijin's db_client, copied over to this branch|Thu, 13 Sep 2018 14:14:02 +0100|Thu, 13 Sep 2018 14:14:02 +0100
+db7490a9e43dc73a832cc2a2f0d41dec13c5b782|Ready for next stage ... ?|Wed, 12 Sep 2018 17:14:23 +0100|Wed, 12 Sep 2018 17:14:23 +0100
+a23397d52bb76b5ee237ff48a6c7577da2e262fe|Ready for next stage ... ?|Wed, 12 Sep 2018 17:12:57 +0100|Wed, 12 Sep 2018 17:12:57 +0100
+ea52f11e73f6439b8808cfd06f4656d4fc31bcc0|Getting images from DockerHub|Wed, 12 Sep 2018 16:01:52 +0100|Wed, 12 Sep 2018 16:01:52 +0100
+ccff7772a0a56ae04268d5b79c081d96b7278255|Copied contents of configuration_db from latest version of branch feature/configuration_db|Wed, 12 Sep 2018 15:40:22 +0100|Wed, 12 Sep 2018 15:40:22 +0100
+c0f1405f8a0865badc9e912a40567f5e3b377c39|Move master_interface_service/* to master_interface_service/rest|Wed, 12 Sep 2018 15:37:03 +0100|Wed, 12 Sep 2018 15:37:03 +0100
+e42ac44327990024785e6278b90683ff7b08ef9b|JSON section in README.md|Tue, 28 Aug 2018 15:27:23 +0100|Tue, 28 Aug 2018 15:27:23 +0100
+9183b51cc5a19e30b8b43458ac43111022d476f6|JSON parameter file implemented, new version of ARL|Tue, 28 Aug 2018 15:12:42 +0100|Tue, 28 Aug 2018 15:12:42 +0100
+280883105b2ed72203a8d1703a6ca8892fd8cc14|refactor and added some additional functionality to the db pb api|Wed, 22 Aug 2018 13:55:06 +0100|Wed, 22 Aug 2018 13:55:06 +0100
+2242bfa39ba0757b4ea02bbe240c89e81c2a89cb|Delete nodeids|Tue, 21 Aug 2018 12:54:51 +0100|Tue, 21 Aug 2018 12:54:51 +0100
+06811227f7bf796df59f58f3c2eea81a780aa854|removed mock Docker EE interface code - this will be replaced in favour of the SIP Docker Swarm client API|Mon, 20 Aug 2018 13:20:10 +0100|Mon, 20 Aug 2018 13:20:10 +0100
+7609e261efa37769dafe46dc45e063c2c2692b36|Docker api (#40)|Fri, 17 Aug 2018 16:29:41 +0100|Fri, 17 Aug 2018 16:29:41 +0100
+f7eae906fd835e161008a62dca6b7900eda72178|update to proposed experimental PC database API and associated tests|Fri, 17 Aug 2018 15:06:23 +0100|Fri, 17 Aug 2018 15:06:23 +0100
+dfd9a1d178874c73a01b30db992d1190c4d9fb44|fairly major refactor of the PC|Thu, 16 Aug 2018 13:33:31 +0100|Thu, 16 Aug 2018 13:33:31 +0100
+a873542def462425fc28553ba573da327d3d9cd3|experiments with the config db client|Tue, 14 Aug 2018 11:26:30 +0100|Tue, 14 Aug 2018 11:26:30 +0100
+91361cc6612e9b629fcc41f1ace41b0127e2a37a|Add README files|Fri, 3 Aug 2018 11:55:16 +0100|Fri, 3 Aug 2018 11:55:16 +0100
+0f8d56e6d629a652046b01c06def6fbebc76e723|Revert "Add README files"|Fri, 3 Aug 2018 11:51:40 +0100|Fri, 3 Aug 2018 11:51:40 +0100
+38a7efc15466f5a750a396f8b5ec0b1811639a7b|Merge branch 'master' of https://github.com/SKA-ScienceDataProcessor/integration-prototype|Fri, 3 Aug 2018 11:45:42 +0100|Fri, 3 Aug 2018 11:45:42 +0100
+deb0e3c229163df96b2fbf7ec00a176ac442f143|Add README files|Fri, 3 Aug 2018 11:45:05 +0100|Fri, 3 Aug 2018 11:45:05 +0100
+146a74112081843e69f2d0b99ed3fac3e681e878|Files and applications have been moved from master_controller/rest/mock_watchdog to the master_controller_service and from  master_controller/rest to the master_interface_service. The new applicatons have been updated to reflect the changes required in the database. A set of utilities to access the flask interface from the command line have been added. Docker Compose files have been moved from master_controller/rest to the execution_control directory and modified accordingly. Andrew McDermott 2018-08-01|Wed, 1 Aug 2018 15:02:41 +0100|Wed, 1 Aug 2018 15:02:41 +0100
+8d1b2a710a583a52ede7d5ee146709d75446874b|Merge pull request #39 from SKA-ScienceDataProcessor/updates/ical_dask|Mon, 30 Jul 2018 15:11:18 +0100|Mon, 30 Jul 2018 15:11:18 +0100
+a1d8a6a9652be829bf9b5cd16c7b6164e9fafb7c|Merge with origin Merge branch 'updates/ical_dask' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into updates/ical_dask|Mon, 30 Jul 2018 15:07:26 +0100|Mon, 30 Jul 2018 15:07:26 +0100
+142efa0a366efb0914a8abb1dfb411563db9f3c7|Info on starting/stopping Docker Swarm in README.md|Mon, 30 Jul 2018 15:01:47 +0100|Mon, 30 Jul 2018 15:01:47 +0100
+466e3e052a7833e69a538b4a5d5065c3f23b0401|Inial implementation of prometheus alarms|Mon, 30 Jul 2018 13:52:01 +0100|Mon, 30 Jul 2018 13:52:01 +0100
+0daf5c57d666d7ca8d3c27ce4cea87bdd9e8864e|merged in upstream changes from master|Fri, 27 Jul 2018 11:33:33 +0100|Fri, 27 Jul 2018 11:33:33 +0100
+3b3e034885b157e9a9864a224abe5d006e3a0b9c|Altered to work with modified master_client.py|Mon, 23 Jul 2018 16:42:25 +0100|Mon, 23 Jul 2018 16:42:25 +0100
+d901eac451f6d322f0c8ca9a65ee85e426bc31fe|Replace REDIS client code with Nijin's updated version|Mon, 23 Jul 2018 16:39:39 +0100|Mon, 23 Jul 2018 16:39:39 +0100
+37a7fba59b0e8151d9f37bada6e75b198b4e6f64|Changes suggested by B.McIlwrath to remove excess colouns in key names|Mon, 23 Jul 2018 16:24:31 +0100|Mon, 23 Jul 2018 16:24:31 +0100
+f537b1dde26ee1ff506183eef3becfd57eacd70a|Merge pull request #37 from SKA-ScienceDataProcessor/update/config_db_api|Mon, 23 Jul 2018 14:58:18 +0100|Mon, 23 Jul 2018 14:58:18 +0100
+b2f9ef39ff37550d5bc0e5b389aae6119531094b|Merge branch 'master' into update/config_db_api|Mon, 23 Jul 2018 14:55:10 +0100|Mon, 23 Jul 2018 14:55:10 +0100
+56c27c7ceef4a83e52440f946ab10ffdc7317f5e|Added @checkconnection wrapper to the functions in the low-level config api|Mon, 23 Jul 2018 14:52:30 +0100|Mon, 23 Jul 2018 14:52:30 +0100
+1a6d2a2a8138377c93d4b8e08fc153f7e7d2372e|Merge remote-tracking branch 'origin/master' into feature/scheduler|Fri, 20 Jul 2018 07:39:53 +0100|Fri, 20 Jul 2018 07:39:53 +0100
+5fe329d0da9f2f479673ddfb65cc655113ed0f6a|experiments with event handling|Thu, 19 Jul 2018 17:33:40 +0100|Thu, 19 Jul 2018 17:33:40 +0100
+d0f61326ce596a8fd7900d1c99486abc090f90af|Merge pull request #38 from SKA-ScienceDataProcessor/fixes/pci_flask|Thu, 19 Jul 2018 16:45:00 +0100|Thu, 19 Jul 2018 16:45:00 +0100
+666cf3ae31a8ea72d32f29a1c717b46a7debe0de|Fixed typo in CI configuration.|Wed, 18 Jul 2018 01:31:18 +0100|Wed, 18 Jul 2018 01:31:18 +0100
+97038e4b55b79b11066f22805cdf18f53d6e0ac6|Added ICAL Dask minimal ARL Python requirements to CI.|Wed, 18 Jul 2018 01:25:20 +0100|Wed, 18 Jul 2018 01:25:20 +0100
+f4046dbb967a4b965b427da3463df843b5cbe877|Updated CI linting checks. Fixed a coupled of pylint warnings.|Wed, 18 Jul 2018 01:20:43 +0100|Wed, 18 Jul 2018 01:20:43 +0100
+d8a3a445bec419a156e4d9c6b9c069500b260596|updated readme|Tue, 17 Jul 2018 18:22:04 +0100|Tue, 17 Jul 2018 18:22:04 +0100
+a65633591ee912ec8db24754b2460777aaf17cfd|Cleaned up stop script|Tue, 17 Jul 2018 18:12:08 +0100|Tue, 17 Jul 2018 18:12:08 +0100
+bbd8215a6bfcce8acc2f7d4bc1c9f83ac0eff017|Updated readme (still needs work). Updated TODO|Tue, 17 Jul 2018 18:11:30 +0100|Tue, 17 Jul 2018 18:11:30 +0100
+5a45e057a6d8437c56e9f60d58248bf7eeccef34|added results placeholder, updated .gitignore|Tue, 17 Jul 2018 18:10:54 +0100|Tue, 17 Jul 2018 18:10:54 +0100
+f66a451202ebb69e69c6d23337adb200b41b15fa|Updated readme & added todo file.|Tue, 17 Jul 2018 17:50:07 +0100|Tue, 17 Jul 2018 17:50:07 +0100
+8032fafe540cc80ab86158861487958edb0c6a11|Updated / cleaned up workflow scripts.|Tue, 17 Jul 2018 17:49:37 +0100|Tue, 17 Jul 2018 17:49:37 +0100
+11762cd6758ee298e6c59f7ea7a01c5203a03385|Updated / added docker compose files (for use with docker stack deploy)|Tue, 17 Jul 2018 17:49:06 +0100|Tue, 17 Jul 2018 17:49:06 +0100
+4009ff9016e8ae6da7bc402c608474275d21b44f|Updated Dockerfiles|Tue, 17 Jul 2018 17:48:40 +0100|Tue, 17 Jul 2018 17:48:40 +0100
+a0eabdf6ff8196d86ffc1836a65cbcab8607671e|Updated & cleaned-up bash build and run scripts.|Tue, 17 Jul 2018 17:48:18 +0100|Tue, 17 Jul 2018 17:48:18 +0100
+ba8d796292ad6719de7b65221849110b1863d973|Added description.|Tue, 17 Jul 2018 13:41:49 +0100|Tue, 17 Jul 2018 13:41:49 +0100
+876d91aab8cbb42ec3615ad9771d7fef41514c50|Restructured Dockerfiles to make the first few lines identical.|Tue, 17 Jul 2018 13:41:32 +0100|Tue, 17 Jul 2018 13:41:32 +0100
+955206d5d5042a3a96fb09b59e4555502e47c3ff|fixed typo.|Tue, 17 Jul 2018 13:40:28 +0100|Tue, 17 Jul 2018 13:40:28 +0100
+67460ebe193dd1784f9950fc240c7de479c3a404|Reverted multi-line travis commands. Updated readme py.test -> pytest.|Tue, 17 Jul 2018 12:39:37 +0100|Tue, 17 Jul 2018 12:39:37 +0100
+ed54c4f8cfc998c1a7ee5778a15c1634a8d6c1f9|Switched to multi-line commands for better readability.|Tue, 17 Jul 2018 12:30:27 +0100|Tue, 17 Jul 2018 12:30:27 +0100
+75343408c5c411ea52506afd39bf32bf90f17648|Disabled failed linter checks not associated with this branch. Disabled fixme/todo linter fails in pylint (again).|Mon, 16 Jul 2018 18:44:17 +0100|Mon, 16 Jul 2018 18:44:17 +0100
+a9840207db290eac58205896e9fc6fb70c2b0e88|Fixed pydocstyle warnings.|Mon, 16 Jul 2018 18:31:54 +0100|Mon, 16 Jul 2018 18:31:54 +0100
+2c70dc989b6144ded515d470fe699edb070430dc|Moved linter commands to scripts section so they don't fail on first error.|Mon, 16 Jul 2018 18:20:38 +0100|Mon, 16 Jul 2018 18:20:38 +0100
+7b45b797cad76838f2b9f673d68ac558ebae6ffc|Fixed use of os.getenv() defaults and redundant exception handling.|Mon, 16 Jul 2018 18:19:09 +0100|Mon, 16 Jul 2018 18:19:09 +0100
+04bc3d007234e634f141985f1394e944d9908b2e|No longer needlessly catch and immediately return jsonschema ValidationError exceptions.|Mon, 16 Jul 2018 18:09:58 +0100|Mon, 16 Jul 2018 18:09:58 +0100
+6b8a5ee2c1d0f7c22f7cc2eb6d7edd3ee8563d7d|Fixed / workaround for a number of errors raised by the latest version of pylint.|Mon, 16 Jul 2018 18:01:18 +0100|Mon, 16 Jul 2018 18:01:18 +0100
+d9c49eb5d40dabd657e50c9bd36a8a7dc52f5113|fixed bad indent in travis config|Mon, 16 Jul 2018 17:39:09 +0100|Mon, 16 Jul 2018 17:39:09 +0100
+0d73b115805b7531af89f1944c53144247922fbc|added missing line at end of file|Mon, 16 Jul 2018 17:29:08 +0100|Mon, 16 Jul 2018 17:29:08 +0100
+992435ee8d11d59a79eebdb94b5885da1d2abd04|refactored class names|Mon, 16 Jul 2018 17:27:11 +0100|Mon, 16 Jul 2018 17:27:11 +0100
+a2a45579e2991cf9bdfe788fc0e3ef4ff928b7f5|reverted change|Mon, 16 Jul 2018 17:25:14 +0100|Mon, 16 Jul 2018 17:25:14 +0100
+dfb04afc28575af6bdcc6b7b8925a10a9f8d837b|Updated description of how to run unit tests.|Mon, 16 Jul 2018 16:23:39 +0100|Mon, 16 Jul 2018 16:23:39 +0100
+087ba23f6dbb9c5de1351ac66ba8d688ada267b6|Resume pylint failures of fixme statements.|Mon, 16 Jul 2018 16:23:10 +0100|Mon, 16 Jul 2018 16:23:10 +0100
+0bb2b7cc3d0972b479265297427fa66b080af162|Various updates as a result of testing the PC client API|Mon, 16 Jul 2018 16:16:10 +0100|Mon, 16 Jul 2018 16:16:10 +0100
+61037223f37fa49331d46d49e2611e0e3a3cb1e9|Updated use of env variables for db connection.|Mon, 16 Jul 2018 16:15:24 +0100|Mon, 16 Jul 2018 16:15:24 +0100
+8d439f5ee21c194421b34b180672bc9084d88987|Added todo list|Mon, 16 Jul 2018 16:14:27 +0100|Mon, 16 Jul 2018 16:14:27 +0100
+b8d39ccb510426da77304e4f6b55a0c2fe577281|Fixed documentation (pydocstyle) linting errors.|Fri, 13 Jul 2018 15:39:52 +0100|Fri, 13 Jul 2018 15:39:52 +0100
+665e1a0846bdabcb1c5d6704ab378da63d3f63f0|renamed master controller unit tests to disable them as the tests are currently broken.|Fri, 13 Jul 2018 15:25:36 +0100|Fri, 13 Jul 2018 15:25:36 +0100
+98ee5add472df2e49e270e48ec5aff89da1b8d8d|fixed a couple of typos, updated todo comments|Fri, 13 Jul 2018 15:02:32 +0100|Fri, 13 Jul 2018 15:02:32 +0100
+95c90b97ba8e0dc6cc095755e294e121e991468c|slight rewording of README|Fri, 13 Jul 2018 14:56:17 +0100|Fri, 13 Jul 2018 14:56:17 +0100
+acc9da8fd3e1d4b219bd5cb68d53b2e8f4974e49|merged in changes from master|Fri, 13 Jul 2018 14:55:46 +0100|Fri, 13 Jul 2018 14:55:46 +0100
+1982817cbdbe711a57ca7085c8f06977bca53b80|Merge remote-tracking branch 'origin/master' into feature/scheduler|Fri, 13 Jul 2018 14:43:24 +0100|Fri, 13 Jul 2018 14:43:24 +0100
+3ef739f76894596eacb34bba7f6d663b71210839|Renamed main scheduler module, updated logging format|Fri, 13 Jul 2018 14:42:43 +0100|Fri, 13 Jul 2018 14:42:43 +0100
+86f42411c8b52a666cd1652556180bef9384e807|Updated readme for mock PBC|Fri, 13 Jul 2018 14:42:01 +0100|Fri, 13 Jul 2018 14:42:01 +0100
+72ca0d6dca044ec9bc9025cad2707c9cbe84b52e|Added missing requirement|Fri, 13 Jul 2018 14:41:37 +0100|Fri, 13 Jul 2018 14:41:37 +0100
+ca23d8986693fcac94ab93466feef4c24b467093|Cleanup of README|Fri, 13 Jul 2018 14:41:23 +0100|Fri, 13 Jul 2018 14:41:23 +0100
+98cd7aef19668907e1b3b7d999263f1df414aa64|Updated development compose file for use with Docker Swarm|Fri, 13 Jul 2018 14:41:08 +0100|Fri, 13 Jul 2018 14:41:08 +0100
+e76662f274d89171999a0a23b739801538f7537a|Removed old compose files.|Fri, 13 Jul 2018 14:40:38 +0100|Fri, 13 Jul 2018 14:40:38 +0100
+5b5c215c3498c3b07f35ca17cd1b73652e3f9917|Merge pull request #34 from SKA-ScienceDataProcessor/feature/ical_dask|Thu, 12 Jul 2018 15:35:21 +0100|Thu, 12 Jul 2018 15:35:21 +0100
+5bdbb86e942a882c3c369879d577b63464e25125|Merge branch 'master' into feature/ical_dask|Thu, 12 Jul 2018 15:28:46 +0100|Thu, 12 Jul 2018 15:28:46 +0100
+9f21eb0ede2879de1a92319d702abc1a0034c246|Exclude ical_dask from pycodestyle linter|Thu, 12 Jul 2018 15:17:23 +0100|Thu, 12 Jul 2018 15:17:23 +0100
+af986e4f580bb6613dff1f672bef8d4cb87afe58|A bug in README.md|Thu, 12 Jul 2018 14:14:56 +0100|Thu, 12 Jul 2018 14:14:56 +0100
+22fb7f3e5fdcda23b47f16517988eb4596d83b81|Futher tidy up of standalone ical workflow script|Thu, 12 Jul 2018 11:59:51 +0100|Thu, 12 Jul 2018 11:59:51 +0100
+e7b3f8b96961b33ca8d4e5cd08c7095e7dbc0028|Added ignore on astropy.units|Thu, 12 Jul 2018 11:01:04 +0100|Thu, 12 Jul 2018 11:01:04 +0100
+a34fb408299ea8a8f2a27177db6b20afb56b75e7|README.md is updated|Thu, 12 Jul 2018 08:29:18 +0100|Thu, 12 Jul 2018 08:29:18 +0100
+41b92f74783aacfebe5682d789de4dfbb8802562|Added dockerignore to ignore ARL from the build context|Wed, 11 Jul 2018 21:25:23 +0100|Wed, 11 Jul 2018 21:25:23 +0100
+b15dd3a212bf33d8c9350dc43b215b66a4d142ac|Merge remote-tracking branch 'origin/master' into updates/ical_dask|Wed, 11 Jul 2018 18:05:56 +0100|Wed, 11 Jul 2018 18:05:56 +0100
+f6a99e5a2a41ce8b2864bf2df0beab2fcd6a18ce|Refactored and corrected markdown linter style warnngs in the README.md|Wed, 11 Jul 2018 17:49:31 +0100|Wed, 11 Jul 2018 17:49:31 +0100
+a53f8e793cad34116d727100b50df9552ea34916|Tidy up of the Docker image build script.|Wed, 11 Jul 2018 17:48:51 +0100|Wed, 11 Jul 2018 17:48:51 +0100
+e7f4f7a807035ce1394dd1b5062ad7f923c3d036|Added git ignore file.|Wed, 11 Jul 2018 17:45:03 +0100|Wed, 11 Jul 2018 17:45:03 +0100
+43e383e89322a4eee71005202d1ae6cb5ffcd0d5|Merge pull request #36 from SKA-ScienceDataProcessor/feature/docker_compose_generator|Wed, 11 Jul 2018 15:01:46 +0100|Wed, 11 Jul 2018 15:01:46 +0100
+619c4a53441b24457e68dfd9dd75d65cf20f6c12|Fixed line length|Wed, 11 Jul 2018 14:56:08 +0100|Wed, 11 Jul 2018 14:56:08 +0100
+7f1b8273e27cb9693789cac7b79558f9c9be5c9f|added missing line ending.|Wed, 11 Jul 2018 14:51:24 +0100|Wed, 11 Jul 2018 14:51:24 +0100
+d9d25d74c75251ef5e5854126dd5b2bd1d2ff706|added missing line ending|Wed, 11 Jul 2018 14:51:07 +0100|Wed, 11 Jul 2018 14:51:07 +0100
+b40841021890603836b40affa5ea700647a2d0ce|fixed typo|Wed, 11 Jul 2018 14:50:15 +0100|Wed, 11 Jul 2018 14:50:15 +0100
+bdc2a2219bfb8fdcb916d995b2bc6e96be2e902d|fixed typo|Wed, 11 Jul 2018 14:49:29 +0100|Wed, 11 Jul 2018 14:49:29 +0100
+117a0884e8774855783de2944f7caf22a07d3bb2|fixed typo|Wed, 11 Jul 2018 14:48:21 +0100|Wed, 11 Jul 2018 14:48:21 +0100
+64de2b7d60dd49d7d34f60cbb58fbde85b10b009|fixed typo|Wed, 11 Jul 2018 14:46:59 +0100|Wed, 11 Jul 2018 14:46:59 +0100
+c2be67c96d9d4c0f55f203ae42d380fdd10b44fa|fixed typo|Wed, 11 Jul 2018 14:46:25 +0100|Wed, 11 Jul 2018 14:46:25 +0100
+57df848fdad5b14d1aa35c53b4100b999d2b4f34|fixed typo|Wed, 11 Jul 2018 14:45:28 +0100|Wed, 11 Jul 2018 14:45:28 +0100
+1aa6ced13da5ce905bff74c86451ff61cfcc7047|fixed typo|Wed, 11 Jul 2018 14:44:41 +0100|Wed, 11 Jul 2018 14:44:41 +0100
+d12318b0581d17405f8e8abc784cada42ad9bede|fixed typo|Wed, 11 Jul 2018 14:43:37 +0100|Wed, 11 Jul 2018 14:43:37 +0100
+b47c7b0230a792992eebbd46211de0d6c567848f|fixed typo|Wed, 11 Jul 2018 14:41:47 +0100|Wed, 11 Jul 2018 14:41:47 +0100
+60af3eba4e1582d3e8e533f691a4a97f9d5a0cde|Fixed typo|Wed, 11 Jul 2018 14:11:04 +0100|Wed, 11 Jul 2018 14:11:04 +0100
+055391b1bb2f161361471a81ef7d8146318556ab|Update docker-compose.send.j2.yml|Wed, 11 Jul 2018 14:10:12 +0100|Wed, 11 Jul 2018 14:10:12 +0100
+b4a5e80da99ce104d37d3972091dea0a6c5a333a|Update docker-compose.recv.j2.yml|Wed, 11 Jul 2018 14:09:56 +0100|Wed, 11 Jul 2018 14:09:56 +0100
+69454707c69364aad4baf1b375d401c923eff7cb|Update README.md|Wed, 11 Jul 2018 14:09:25 +0100|Wed, 11 Jul 2018 14:09:25 +0100
+548a92f2e767fb4646f6118be609a25a6a632a37|Update utils.py|Wed, 11 Jul 2018 14:08:50 +0100|Wed, 11 Jul 2018 14:08:50 +0100
+077dae3777db9a01b41b25d939fc4c66c8be83bb|removed redundant module|Tue, 10 Jul 2018 18:15:21 +0100|Tue, 10 Jul 2018 18:15:21 +0100
+f101734ae01a554b40cbdbd9b11a8a5c7bd2ffe0|code refactor and documentation update|Tue, 10 Jul 2018 18:14:42 +0100|Tue, 10 Jul 2018 18:14:42 +0100
+3ec72b56a1c129650d980a5d71b134ac1c883a6e|removed unused function.|Tue, 10 Jul 2018 18:07:43 +0100|Tue, 10 Jul 2018 18:07:43 +0100
+190ced461b7b6b20253f87721fbd1159c30104c7|code refactor / cleanup, updated README.md|Tue, 10 Jul 2018 18:06:44 +0100|Tue, 10 Jul 2018 18:06:44 +0100
+3e04830b41daa309436f9dc5e5bd04a684091e60|minor code refactor / tidy up|Tue, 10 Jul 2018 17:59:05 +0100|Tue, 10 Jul 2018 17:59:05 +0100
+322ed70bf63ce8b90e0dea4c9e1a680823ebdbce|updates compose file generator module|Tue, 10 Jul 2018 13:11:35 +0100|Tue, 10 Jul 2018 13:11:35 +0100
+2a34538d399250fd17573bcbbbba84819fd5d887|started fleshing out compose generator module|Fri, 6 Jul 2018 17:20:50 +0100|Fri, 6 Jul 2018 17:20:50 +0100
+eaf79722d8c72043ae9a0945b30d7046aa30e820|updated test of generating recv config|Fri, 6 Jul 2018 16:32:43 +0100|Fri, 6 Jul 2018 16:32:43 +0100
+a604d7eef7fe51da2bb733dcb086485d1fb5199d|Merge branch 'master' into mc_rest|Thu, 5 Jul 2018 16:21:50 +0100|Thu, 5 Jul 2018 16:21:50 +0100
+33f149a864cf6b4b769300428888debe5d8a145c|Fixed linter errors.|Thu, 5 Jul 2018 16:00:58 +0100|Thu, 5 Jul 2018 16:00:58 +0100
+b88842c7ec1c0089f627f302587f72dbd9238076|Added single-liner shellscripts to create and start, and stop and delete, containers in this appliication (master_controller/rest)|Fri, 29 Jun 2018 13:29:29 +0100|Fri, 29 Jun 2018 13:29:29 +0100
+9d0ba17fdd2954916888df2a39521f8891b8e22c|Changes to the Logging configuration|Fri, 29 Jun 2018 13:25:54 +0100|Fri, 29 Jun 2018 13:25:54 +0100
+fdb44887c161bdc72d6a58096a7bf3aee636203c|Added requirements &  updated CI config to include updated requirements.|Fri, 29 Jun 2018 02:51:44 +0100|Fri, 29 Jun 2018 02:51:44 +0100
+71f07b7d7f16a82bab702dadb21056ea6e18fa99|Separated modeling and data processing|Thu, 28 Jun 2018 17:50:24 +0100|Thu, 28 Jun 2018 17:50:24 +0100
+668fc69c2c957f6d413295c72b9d4de708027f25|Added tests to TravisCI and fixed use of relative template paths.|Wed, 27 Jun 2018 20:17:12 +0100|Wed, 27 Jun 2018 20:17:12 +0100
+86ed997e0fab1719c4fc8826ff1abb650c54128f|Updated Readme|Wed, 27 Jun 2018 20:03:02 +0100|Wed, 27 Jun 2018 20:03:02 +0100
+8aa2aaa319e9a0cd6ce7120d04f0a75c61535be7|Clean up of template files for vis receive|Wed, 27 Jun 2018 19:52:09 +0100|Wed, 27 Jun 2018 19:52:09 +0100
+b4bf3241107e0a50a18ff5fd12706489a86adf47|Test now demonstrates generating the vis sender compose file.|Wed, 27 Jun 2018 19:51:39 +0100|Wed, 27 Jun 2018 19:51:39 +0100
+1d348cc1385f3843b214edd0fa5becf066746814|Fixed Docker compose file.|Wed, 27 Jun 2018 18:39:34 +0100|Wed, 27 Jun 2018 18:39:34 +0100
+927864b273bacb8109b3bb5bd41c7857c0145b2c|Refactor of folder structure.|Wed, 27 Jun 2018 18:27:04 +0100|Wed, 27 Jun 2018 18:27:04 +0100
+572a64a58158f7cfe9db4545250c51697686653a|Improve bandwidth of memory copy by clearing arrays first.|Wed, 27 Jun 2018 17:44:15 +0100|Wed, 27 Jun 2018 17:44:15 +0100
+8bbe83dae6d787eadfbc743706f09783f3a2dd73|Placeholder for docker compose file generator library.|Wed, 27 Jun 2018 17:31:50 +0100|Wed, 27 Jun 2018 17:31:50 +0100
+5a6ef097aa24618b0b36171c652c22b9b5c92ab9|Updated low level client API.|Wed, 27 Jun 2018 13:56:00 +0100|Wed, 27 Jun 2018 13:56:00 +0100
+0a2f25c89d6b21f5ecb193f46be5ffa17da27e82|added missing volumes section|Wed, 27 Jun 2018 13:16:45 +0100|Wed, 27 Jun 2018 13:16:45 +0100
+ddefff272e48827f9bafba362ccfd93faba296bc|added decorator for checking connnections to the db. fixed some pydocstyle warnings|Wed, 27 Jun 2018 11:08:48 +0100|Wed, 27 Jun 2018 11:08:48 +0100
+39252ed0b3194fa80639c42cef42667dbc7eb557|updated instructions for running unit tests|Wed, 27 Jun 2018 11:08:12 +0100|Wed, 27 Jun 2018 11:08:12 +0100
+db6296952cd96f12e0b5547232188d9763f0d070|added placeholder unit tests|Tue, 26 Jun 2018 19:24:15 +0100|Tue, 26 Jun 2018 19:24:15 +0100
+943e42b0c8395d878a8ec411cfef9d884919a9cf|changed order of schema entries to make required fields more prominent|Tue, 26 Jun 2018 19:23:52 +0100|Tue, 26 Jun 2018 19:23:52 +0100
+ab654312c63dae70f30540c63c9d770d565ffaf1|fixed linter errors|Tue, 26 Jun 2018 19:22:57 +0100|Tue, 26 Jun 2018 19:22:57 +0100
+47b3796575bdcaca642652bd1bfeee14f6178f42|added additional test and linting commands to the CI script|Tue, 26 Jun 2018 19:22:02 +0100|Tue, 26 Jun 2018 19:22:02 +0100
+b4bc30c24ae23c9bb079dc456201630f75710093|updated compose file version|Tue, 26 Jun 2018 18:32:04 +0100|Tue, 26 Jun 2018 18:32:04 +0100
+82ef7ac936473876efc89f7e5ede93077808a25c|fixed linter errors - line endings|Tue, 26 Jun 2018 18:31:33 +0100|Tue, 26 Jun 2018 18:31:33 +0100
+6f881d8f71915f9cf93b1acb9aee5b9782773a80|removed unused gitignore|Tue, 26 Jun 2018 18:31:03 +0100|Tue, 26 Jun 2018 18:31:03 +0100
+f9ae5fd83e507c4b0406a7fe1072088b565a4139|start of merge of config db api from master|Tue, 26 Jun 2018 18:24:08 +0100|Tue, 26 Jun 2018 18:24:08 +0100
+e5898c098e9241a8e883b0211676554938d17c1b|rename + refactor|Tue, 26 Jun 2018 18:14:01 +0100|Tue, 26 Jun 2018 18:14:01 +0100
+895088d982a85ef4a8649d7711b0737917018863|removed placeholder code folder|Tue, 26 Jun 2018 17:36:04 +0100|Tue, 26 Jun 2018 17:36:04 +0100
+50cd297c26143e3d0eb9a83a00e462c019a3214d|merged in code from old (messy) feature branch|Tue, 26 Jun 2018 17:20:59 +0100|Tue, 26 Jun 2018 17:20:59 +0100
+139bb7b5569f41d087065c9f653607707282bd3d|merged in changes from master|Tue, 26 Jun 2018 16:54:10 +0100|Tue, 26 Jun 2018 16:54:10 +0100
+ccec9a84a917211d5d52b6de3c620e40305ecfbf|added some initial placeholders for a dask ee interface test code|Tue, 26 Jun 2018 16:19:30 +0100|Tue, 26 Jun 2018 16:19:30 +0100
+9564b958a5581f3f4ae2085b22195ba0840a06ab|refactored and updated dask test deployment code|Tue, 26 Jun 2018 13:20:11 +0100|Tue, 26 Jun 2018 13:20:11 +0100
+ba15a26a44186e5eefbaeef868b7bb7a1972b8d4|Report memory speed in receiver.|Tue, 26 Jun 2018 11:31:26 +0100|Tue, 26 Jun 2018 11:31:26 +0100
+04a1dab858f9257a8dc485af7965b0627e6a4c65|Don't use pickles.|Mon, 25 Jun 2018 12:28:54 +0100|Mon, 25 Jun 2018 12:28:54 +0100
+6928493804b6d9b5e33b80544d5dc3515689c44b|Merge pull request #33 from SKA-ScienceDataProcessor/feature/pci_flask|Mon, 25 Jun 2018 12:14:21 +0100|Mon, 25 Jun 2018 12:14:21 +0100
+ee4c67fecd68bd1833f6b32c5173c4cfff0fa4b5|Report time taken for unpack and write components.|Fri, 22 Jun 2018 11:51:34 +0100|Fri, 22 Jun 2018 11:51:34 +0100
+ffae0c2f3a634b31a7e6d62d616a58fd0befb13b|changes to make the containers talk together|Fri, 22 Jun 2018 11:32:10 +0100|Fri, 22 Jun 2018 11:32:10 +0100
+363725e1b6b989625a04701d194e1b97dd2d0d58|Print a message to the output file location to check it's working.|Thu, 21 Jun 2018 18:48:45 +0100|Thu, 21 Jun 2018 18:48:45 +0100
+25c6e2317d606716f34887d75cf91d1b33275628|Updated config files for P3.|Thu, 21 Jun 2018 18:08:49 +0100|Thu, 21 Jun 2018 18:08:49 +0100
+72faff7cb852c96d00cfd55594b93318f7efcf2e|Initial version of ical-pipeline|Thu, 21 Jun 2018 16:00:50 +0100|Thu, 21 Jun 2018 16:00:50 +0100
+fc2d7b479d00bec01c18a0435c4de547dd61d474|Added option to write received data to a file as a binary pickle.|Thu, 21 Jun 2018 14:26:54 +0100|Thu, 21 Jun 2018 14:26:54 +0100
+cb22f6f6a43ec5324ec670ea604297e81b30afa3|updated compose files for use with a overlay network|Wed, 20 Jun 2018 15:14:21 +0100|Wed, 20 Jun 2018 15:14:21 +0100
+63ef52f67be0131388822ee5877e79839b58758d|more experimenting with deployment options|Wed, 20 Jun 2018 14:30:03 +0100|Wed, 20 Jun 2018 14:30:03 +0100
+a1990fa8c65051b0206181e9def00dbe23cf14d9|updated description of how to push changes to the registry|Mon, 18 Jun 2018 15:29:32 +0100|Mon, 18 Jun 2018 15:29:32 +0100
+1f1c48b1771c8ef989a07804a78da7399e0f3377|Merge branch 'feature/pci_flask' of github.com:SKA-ScienceDataProcessor/integration-prototype into feature/pci_flask|Mon, 18 Jun 2018 15:28:23 +0100|Mon, 18 Jun 2018 15:28:23 +0100
+3beba9cc734aa74647e5574e4209c10ea6bb53e4|Updated the readme in an attempt to address suggestions from the review.|Mon, 18 Jun 2018 15:27:25 +0100|Mon, 18 Jun 2018 15:27:25 +0100
+925895061fd19d8d91e9967c1e4f809feed353f8|more updates and experimentation|Mon, 18 Jun 2018 14:10:53 +0100|Mon, 18 Jun 2018 14:10:53 +0100
+8d1cba472a8653315e9d7d82fc91511adf7eb2c2|updated README and config for new shared sip-swarm cluster on P3|Wed, 13 Jun 2018 15:06:37 +0100|Wed, 13 Jun 2018 15:06:37 +0100
+1f06d116a9e94ad529d2e03e9cafe2e6e686bb8a|Refactored dask deployment example|Wed, 13 Jun 2018 13:52:41 +0100|Wed, 13 Jun 2018 13:52:41 +0100
+c49dcb3628133254ab91e52aab995184186b2bc3|Fixed merge conflict.|Tue, 12 Jun 2018 14:56:50 +0100|Tue, 12 Jun 2018 14:56:50 +0100
+594890f69a3536e107e35858c8c95743c94a154f|Set max_heaps=1 in the receiver to avoid out-of-order heaps, for now.|Tue, 12 Jun 2018 14:43:36 +0100|Tue, 12 Jun 2018 14:43:36 +0100
+fd1c9fc4ef838c4820bfd9ff55a17af868605246|Simplify sender.|Tue, 12 Jun 2018 14:42:18 +0100|Tue, 12 Jun 2018 14:42:18 +0100
+5f4a8c331fdb0e7db506367fbb63d31259381769|minor updates due to experimenting / hacking dask interface code|Mon, 11 Jun 2018 18:19:56 +0100|Mon, 11 Jun 2018 18:19:56 +0100
+9515cdc0a2633bd519e741d70b0e9f3a545656bd|updated dask workflow testing|Fri, 8 Jun 2018 14:11:29 +0100|Fri, 8 Jun 2018 14:11:29 +0100
+d9c15637fe16e5411ccbcfe125535091492c3762|Update TODO.md|Wed, 6 Jun 2018 13:51:40 +0100|Wed, 6 Jun 2018 13:51:40 +0100
+e919688da5c76c0ef3358d05fb1dfb031939c33c|reverted to version from master|Tue, 5 Jun 2018 15:55:24 +0100|Tue, 5 Jun 2018 15:55:24 +0100
+543a138c3fa735f86fa7e67ae49e6af3ad9cf907|Merge remote-tracking branch 'origin/master' into feature/pci_flask|Tue, 5 Jun 2018 15:50:55 +0100|Tue, 5 Jun 2018 15:50:55 +0100
+74c34a72b6dedb80d60cc08b5100989e3e21d669|fixed bad include|Tue, 5 Jun 2018 15:46:02 +0100|Tue, 5 Jun 2018 15:46:02 +0100
+9d5fc630f7de3821336693859509732c9f790185|updated todo list|Tue, 5 Jun 2018 15:39:25 +0100|Tue, 5 Jun 2018 15:39:25 +0100
+98e8cef31e094aa7a3f61dff8281e5370c2b77fb|updated missing database error handling|Tue, 5 Jun 2018 15:38:24 +0100|Tue, 5 Jun 2018 15:38:24 +0100
+5f043d12d7aae102e89c206be7bdb2f23ca0cd92|updated tests and readme|Tue, 5 Jun 2018 14:56:18 +0100|Tue, 5 Jun 2018 14:56:18 +0100
+e3f42dcec26cdc6ce48669c32636a92c4a545ce0|updated todo list|Tue, 5 Jun 2018 02:02:39 +0100|Tue, 5 Jun 2018 02:02:39 +0100
+2e540e8f09f7284e0b967b7641dc330718ba3ddb|updated gitignore for pytest cache files|Tue, 5 Jun 2018 02:00:35 +0100|Tue, 5 Jun 2018 02:00:35 +0100
+ff083442818f93061785f0284b017024d5b2503e|additional attempt to hide log messages|Tue, 5 Jun 2018 01:51:08 +0100|Tue, 5 Jun 2018 01:51:08 +0100
+a0c57226a3d537d4e3d9713c6afc835ac2d3fcea|updated travis settings in an attempt to hide some logging output|Tue, 5 Jun 2018 01:44:18 +0100|Tue, 5 Jun 2018 01:44:18 +0100
+c12d7a42d6c1f66c0981f453d48862355b730544|fixed travis to install requirements for the Flask PCI app|Tue, 5 Jun 2018 01:32:00 +0100|Tue, 5 Jun 2018 01:32:00 +0100
+cc1468457c51913c70918e886b9d38a62945d7b3|updated env settings for travis|Tue, 5 Jun 2018 01:22:58 +0100|Tue, 5 Jun 2018 01:22:58 +0100
+128945ed72dc6c4a4c1000665d64b283761e77bf|updated docker-compose version in travis ci settings|Tue, 5 Jun 2018 01:18:06 +0100|Tue, 5 Jun 2018 01:18:06 +0100
+ffa52a9641ac089e5b95d32410cf446dbd1dfe77|updated travis-ci settings to make sure a redis container is started for the unit tests|Tue, 5 Jun 2018 01:16:49 +0100|Tue, 5 Jun 2018 01:16:49 +0100
+7ff6c060b2272110e7bb9d9969c8ed12e8fedfd7|updated testing of the PCI flask app|Tue, 5 Jun 2018 01:03:09 +0100|Tue, 5 Jun 2018 01:03:09 +0100
+ae01804a8c7825d1bcd86acf6cfc659bb274b764|updated unit tests, fixed a number of errors|Mon, 4 Jun 2018 18:32:45 +0100|Mon, 4 Jun 2018 18:32:45 +0100
+cbf6d2a69d4dcfc30c47f1afe2bc1cb1796639c1|updated tests on config db client|Mon, 4 Jun 2018 14:29:47 +0100|Mon, 4 Jun 2018 14:29:47 +0100
+439c53bd3b76ba21743729f7ef1c0404d2bf5cf4|fixed a couple of linting warnings / errors|Mon, 4 Jun 2018 13:21:04 +0100|Mon, 4 Jun 2018 13:21:04 +0100
+5b4db822b0d49ab45d10365d5c7aaa86954dc2e0|Merge pull request #32 from SKA-ScienceDataProcessor/logging_spammer_example|Mon, 4 Jun 2018 13:09:21 +0100|Mon, 4 Jun 2018 13:09:21 +0100
+cccadfe5a5156b6065155d82c35213cc7ffe2c38|removed redundant print statement, updated unit test|Mon, 4 Jun 2018 13:06:01 +0100|Mon, 4 Jun 2018 13:06:01 +0100
+e16f107bb0e4b1f4aaa418d1afc9fb197e5eec9b|fixed a few typos in the readme|Fri, 1 Jun 2018 16:36:35 +0100|Fri, 1 Jun 2018 16:36:35 +0100
+ccdbf023abedc1b09c9161d8a9f11f74dbca277a|Added automatic check on received values.|Fri, 1 Jun 2018 14:09:37 +0100|Fri, 1 Jun 2018 14:09:37 +0100
+9ff7202c50c0ee51896af2c3163a9babcf8e96d0|updated unit tests|Fri, 1 Jun 2018 12:21:41 +0100|Fri, 1 Jun 2018 12:21:41 +0100
+64cc82411687950fbe70552d09e48a4a8d74597a|added / updated settings files used for testing on P3|Fri, 1 Jun 2018 00:53:36 +0100|Fri, 1 Jun 2018 00:53:36 +0100
+2c4757fdea8600568dc62b4abee5c85574f7ec3a|updated readme|Fri, 1 Jun 2018 00:37:47 +0100|Fri, 1 Jun 2018 00:37:47 +0100
+7a45b20a8cb865ff011387d59f31b74854ba8384|added config for running on P3, updated readme|Fri, 1 Jun 2018 00:37:19 +0100|Fri, 1 Jun 2018 00:37:19 +0100
+34d184721de625dc13fff1b0e07269d9aa27f6bc|updated readme with some additional details about running on P3|Fri, 1 Jun 2018 00:35:16 +0100|Fri, 1 Jun 2018 00:35:16 +0100
+845ee87776574e55489fa1078be15dcd1ae08be7|Merge branch 'feature/async_ingest' of github.com:SKA-ScienceDataProcessor/integration-prototype into feature/async_ingest|Fri, 1 Jun 2018 00:34:10 +0100|Fri, 1 Jun 2018 00:34:10 +0100
+43f117c9a160ae92fc5586eead2c3368536c3399|Process received heaps in a worker thread.|Fri, 1 Jun 2018 00:33:01 +0100|Fri, 1 Jun 2018 00:33:01 +0100
+eb9c584932ab3da33e299dc422ea20a9ff07ac66|updated readme|Fri, 1 Jun 2018 00:13:38 +0100|Fri, 1 Jun 2018 00:13:38 +0100
+f02742a9539ce4ba0135ca845b7d4c504b90de1b|First attempt at adding support to run using docker|Fri, 1 Jun 2018 00:10:46 +0100|Fri, 1 Jun 2018 00:10:46 +0100
+2d0ac6ea3d9eddbb99114c73883883dc37f913bf|fixed readme cleanup instructions|Thu, 31 May 2018 14:42:41 +0100|Thu, 31 May 2018 14:42:41 +0100
+5213eef186ce8bf5899b5296c898d0fa0bcf2b5b|added output folder with readme as placeholder for fluentd files|Thu, 31 May 2018 14:37:10 +0100|Thu, 31 May 2018 14:37:10 +0100
+fc01addd21936b101f91124c00af90ec15af7347|Added test scripts for asynchronous send and receive using multiple SPEAD streams.|Thu, 31 May 2018 14:33:22 +0100|Thu, 31 May 2018 14:33:22 +0100
+0e72f6bbd72599821a26f7c52a2fc2877c27dd0b|refactoring in prep fo rpull request|Thu, 31 May 2018 14:31:43 +0100|Thu, 31 May 2018 14:31:43 +0100
+f73c4a3eeed99dd151ad3348c98912b6ca678b96|updated readme|Wed, 30 May 2018 13:50:17 +0100|Wed, 30 May 2018 13:50:17 +0100
+7be9c430895ff1b27165675c0f8fa068ef26595a|added argument to configure the log rate|Wed, 30 May 2018 13:49:48 +0100|Wed, 30 May 2018 13:49:48 +0100
+fa4574c860dc719c19a3e45345512e73c624d51c|updated readme|Wed, 30 May 2018 13:11:54 +0100|Wed, 30 May 2018 13:11:54 +0100
+b9d679319c7b9f1d6530cabfcb7c7c139555f066|Merge branch 'logging_spammer_example' of github.com:SKA-ScienceDataProcessor/integration-prototype into logging_spammer_example|Wed, 30 May 2018 12:51:34 +0100|Wed, 30 May 2018 12:51:34 +0100
+88976521c4fa17149da9d4fb3a1b10d36a825fd6|decreased log spamming rate|Wed, 30 May 2018 12:50:12 +0100|Wed, 30 May 2018 12:50:12 +0100
+535014573ed904a7c23450fb8ad3a3c26e795a28|added some experimental fluentd options to control timestamp granularity|Tue, 29 May 2018 17:13:12 +0100|Tue, 29 May 2018 17:13:12 +0100
+93e19f34f0e27dc29c00224dba5d6ea8cef47592|added compose file to test deployment on P3 using stack deploy - this is not working yet...|Sun, 27 May 2018 12:10:57 +0100|Sun, 27 May 2018 12:10:57 +0100
+c0d77c2dbac37be499570b5c3685454f63b2f8cd|capture docker image as tag field in fluentd|Sat, 26 May 2018 11:30:44 +0100|Sat, 26 May 2018 11:30:44 +0100
+d9263dd7c3eb44236d93a39f7550f9a709fd0714|updated logging example to use a local fluentd container configured to output to file|Sat, 26 May 2018 11:06:43 +0100|Sat, 26 May 2018 11:06:43 +0100
+8c918c8a7e7ab3bb7489921e361f758533c7f0c1|fixed requirements - thanks Brian!|Wed, 23 May 2018 11:47:09 +0100|Wed, 23 May 2018 11:47:09 +0100
+268c3e7aebfffbf66c9b490c7bb59642e854c79b|initial commit of feature branch to merge in the PCI|Wed, 23 May 2018 02:26:20 +0100|Wed, 23 May 2018 02:26:20 +0100
+e3ce145c6d0567a2e70e2e6b0cc9fe345258dd13|updated CI settings for linting the examples directory|Tue, 22 May 2018 02:26:22 +0100|Tue, 22 May 2018 02:26:22 +0100
+e8d54cf1ebc40e5a0cad4a988302c8ed70dad6d7|updated example log spammer for testing with P3|Tue, 22 May 2018 02:25:56 +0100|Tue, 22 May 2018 02:25:56 +0100
+0520e76ac53d033a2b31c1a275a7824ec7ac9b53|Merge remote-tracking branch 'origin/master' into logging_spammer_example|Tue, 22 May 2018 02:01:13 +0100|Tue, 22 May 2018 02:01:13 +0100
+f3a362e712d7804fa5a023c8c97748105a6e4706|Merge pull request #31 from SKA-ScienceDataProcessor/config_database|Tue, 22 May 2018 01:46:00 +0100|Tue, 22 May 2018 01:46:00 +0100
+36154c5b8f1f129aa3df1425d0be0fc3baa4f50f|Merge remote-tracking branch 'origin/master' into config_database|Tue, 22 May 2018 01:39:55 +0100|Tue, 22 May 2018 01:39:55 +0100
+727b34fa535e4ac9e11ce056da4eeab39c42125e|merged updated CI config from upstream version in config db branch|Tue, 22 May 2018 01:39:02 +0100|Tue, 22 May 2018 01:39:02 +0100
+33f1584ae3a3bdca7785deb06edd36fc0ca761be|added requirements to CI file|Tue, 22 May 2018 01:34:59 +0100|Tue, 22 May 2018 01:34:59 +0100
+ab5d38c3267ea4f81913b7192a54c4520a4294dc|fixed linter errors, moved Dockerfile to utils folder|Tue, 22 May 2018 01:27:37 +0100|Tue, 22 May 2018 01:27:37 +0100
+9a0e647908bbbb6ea50e4a736ef4be7726d47ce3|udated readme|Sat, 19 May 2018 01:55:05 +0100|Sat, 19 May 2018 01:55:05 +0100
+32788110b5229bb03c76e427e8112c4d120479e6|Added Travis-ci badge|Sat, 19 May 2018 01:19:20 +0100|Sat, 19 May 2018 01:19:20 +0100
+ebfd46f7f99772285f30842ba9fc602f89d7e156|initial commit|Sat, 19 May 2018 01:17:52 +0100|Sat, 19 May 2018 01:17:52 +0100
+de6632e3a3f8b7e48d8842a33d6b3fee6da48cd4|Updated some of the changes from the code review list|Fri, 18 May 2018 13:32:38 +0100|Fri, 18 May 2018 13:32:38 +0100
+ba35324fb21df0b3933d1bac49326f7df50c4efa|Merge branch 'config_database' of https://github.com/SKA-ScienceDAtaProcessor/integration-prototype into config_database|Fri, 18 May 2018 13:30:21 +0100|Fri, 18 May 2018 13:30:21 +0100
+ed504f6d451adba0966f7ded322fc57a048bae55|Updated some of the changes from the code review list|Fri, 18 May 2018 13:29:29 +0100|Fri, 18 May 2018 13:29:29 +0100
+df83ae6bb3122aa53504a8b9144f399ac4da5b24|removed relative imports, as this prevents the tests from running - need to review code structure to addess this at some point|Thu, 17 May 2018 13:41:38 +0100|Thu, 17 May 2018 13:41:38 +0100
+ca4edded15ad84e671020533d53682803477fb07|fixed line wraps at 80 characters|Thu, 17 May 2018 13:41:04 +0100|Thu, 17 May 2018 13:41:04 +0100
+4c667a6ef8e6bede103e774a93949eb44c0fa044|removed stray __init__.py file|Thu, 17 May 2018 02:50:30 +0100|Thu, 17 May 2018 02:50:30 +0100
+b6144a52fd61bfef8777e848a11d5da1e2398242|fixed travis settings|Thu, 17 May 2018 01:50:33 +0100|Thu, 17 May 2018 01:50:33 +0100
+ec0a09061cc883455a0199f8f87fb21129f86d04|fixed typo|Thu, 17 May 2018 01:09:40 +0100|Thu, 17 May 2018 01:09:40 +0100
+16ff5f6e2669baf0ac4eff961c34c52b975aaf4a|updated travis-ci settings|Thu, 17 May 2018 00:38:31 +0100|Thu, 17 May 2018 00:38:31 +0100
+66c9423f4653e30bfc1a2e5488ea548350f05f8d|fixed import errors|Thu, 17 May 2018 00:05:47 +0100|Thu, 17 May 2018 00:05:47 +0100
+7d20bb521e7fd48390b0e4830540f9bcc8b71bbe|added min versions to requirements|Thu, 17 May 2018 00:05:05 +0100|Thu, 17 May 2018 00:05:05 +0100
+ef0e6795dffef6e779d5e27ca48b5ead3fadcfbe|updated test linter settings and travis-ci settings|Thu, 17 May 2018 00:04:43 +0100|Thu, 17 May 2018 00:04:43 +0100
+47b585d76cfbd4235ec42e9b7c5048caa2f21487|Disabled pylint checks except for EC|Wed, 16 May 2018 17:53:39 +0100|Wed, 16 May 2018 17:53:39 +0100
+66932c97d7456b20f1ddfb10954bee7cafb4f76f|synchronised PC service to that of the verison in master|Wed, 16 May 2018 17:44:17 +0100|Wed, 16 May 2018 17:44:17 +0100
+1cb4969a979e0fa8ceabf6dee0f540ac432ce32c|removed PCS service not part of this pull request|Wed, 16 May 2018 17:42:03 +0100|Wed, 16 May 2018 17:42:03 +0100
+ba78e09f5f20ff5b133661117f8abf891772bab3|merged in changes from master|Wed, 16 May 2018 17:33:27 +0100|Wed, 16 May 2018 17:33:27 +0100
+ed8a1f20ecf62fd485711aa65341ca96e19a00a5|removed PCI services that should not be part of this pull request, added experimental travis-ci config|Wed, 16 May 2018 17:30:15 +0100|Wed, 16 May 2018 17:30:15 +0100
+cbe3ad3cac962acdd33841ac96cc38aeec7fa719|updated travis setting in an attempt to get it to build spead2|Wed, 16 May 2018 17:17:02 +0100|Wed, 16 May 2018 17:17:02 +0100
+17bdba8f5c06017a9e3fbca95058ae56dc9605e6|added spead2 dependency to travis|Wed, 16 May 2018 16:49:33 +0100|Wed, 16 May 2018 16:49:33 +0100
+11735d11a853a4f65a97fd1d38f14ae671ca2c96|updated travis-ci settings|Wed, 16 May 2018 16:42:41 +0100|Wed, 16 May 2018 16:42:41 +0100
+587e569d61cad01a6f36b8dcf3b276f34c6dc93d|fixed linter errors, updated travis ci config|Wed, 16 May 2018 15:12:15 +0100|Wed, 16 May 2018 15:12:15 +0100
+5e49ef8c832f947779f66a530c232b0e45695af5|Removed branch restrictions|Wed, 16 May 2018 14:17:42 +0100|Wed, 16 May 2018 14:17:42 +0100
+b2eac4fd151d15a0d59b92a8fe134ad659c2ac64|Updated delete processing block function, split scheduling block function, schema and scheduling block data file|Mon, 14 May 2018 13:20:26 +0100|Mon, 14 May 2018 13:20:26 +0100
+085260b6d760fc22fdc50a95f0d68247886d99d7|few minor changes to make merging easier with the db client in the PCI flask_api app|Fri, 11 May 2018 01:44:56 +0100|Fri, 11 May 2018 01:44:56 +0100
+c0d2fea7f51d5f2383c2403b927456e7f638f472|updates after integrating changes from new config db client|Fri, 11 May 2018 01:43:32 +0100|Fri, 11 May 2018 01:43:32 +0100
+3d1bf3dffa70d4c846c5d110d450b668ddc033b4|merged in changes from config db branch|Thu, 10 May 2018 23:28:03 +0100|Thu, 10 May 2018 23:28:03 +0100
+4ec686bf2aca386bc480814683622ba87d7e0795|minor refactor|Thu, 10 May 2018 23:25:01 +0100|Thu, 10 May 2018 23:25:01 +0100
+47bec00ca1a9153f57c2a2141738e7ef2aef0eb1|added tempory helper home route|Thu, 10 May 2018 23:21:13 +0100|Thu, 10 May 2018 23:21:13 +0100
+d9461ab9f19e354bc5466ea912fa34c2b725a53d|Updated the TODO list|Thu, 10 May 2018 17:20:45 +0100|Thu, 10 May 2018 17:20:45 +0100
+2ce33f0a13826dc028b50fd7177409a00849ba31|Renamed test_execution_controller to test_scheduling_client and updated the README.md. Move uncessary files to temp folder.|Thu, 10 May 2018 17:17:46 +0100|Thu, 10 May 2018 17:17:46 +0100
+ddd8bc4f4654ae5028381969ff5f48ed53be8734|updated web ui frontend to the PCI service|Thu, 10 May 2018 16:57:19 +0100|Thu, 10 May 2018 16:57:19 +0100
+447d32a11795a833ffc0cccd0a4b48a50bcee7a9|Updated the config client when receommend changes|Thu, 10 May 2018 13:47:21 +0100|Thu, 10 May 2018 13:47:21 +0100
+0f37e6099c856059f70b42c66f00063d40712f1c|Merge branch 'processing_controller_interface_flask' of https://github.com/SKA-ScienceDataProcessor/integration-prototype into config_database|Wed, 9 May 2018 15:02:34 +0100|Wed, 9 May 2018 15:02:34 +0100
+8ed529e169b9ed67d5b76efc8f6ed213a0694c28|slight rework of use of config db client|Tue, 8 May 2018 13:32:57 +0100|Tue, 8 May 2018 13:32:57 +0100
+2070f7108167ba0c0088cecd4f8288b3bad4fc53|updated blueprints to use the 'official' config db client. update list of todos|Fri, 4 May 2018 19:38:07 +0100|Fri, 4 May 2018 19:38:07 +0100
+7438048717f3d0a36d790d9f4895961b8e6e59b1|Dockerized config database|Fri, 4 May 2018 09:08:56 +0100|Fri, 4 May 2018 09:08:56 +0100
+ef1be1e49d3689321b849471b460c1b6cef9e6c2|Update .travis.yml|Fri, 4 May 2018 01:10:16 +0100|Fri, 4 May 2018 01:10:16 +0100
+6778e4bcdd7f8475a6cab4565d01a592c150d05a|Create .travis.yml|Fri, 4 May 2018 01:06:53 +0100|Fri, 4 May 2018 01:06:53 +0100
+ac1e24e823955296b5660c77ea1f3fe65886872f|Update README.md|Fri, 4 May 2018 01:02:03 +0100|Fri, 4 May 2018 01:02:03 +0100
+4e27dff4945a8bd9f7a4e41e7a5b477de2328209|Create README.md|Fri, 4 May 2018 00:59:44 +0100|Fri, 4 May 2018 00:59:44 +0100
+003c7ccc653fd4ed61503625c4e126ce6bbaf47c|Create README.md|Fri, 4 May 2018 00:56:06 +0100|Fri, 4 May 2018 00:56:06 +0100
+0b67a598d0adca1d21384167df52d29209bc9d3d|Start of merge and replace of mock config db client with actual config db client|Thu, 3 May 2018 23:59:30 +0100|Thu, 3 May 2018 23:59:30 +0100
+d47bc9c48dc64261c0100275b1f317ebcfa3984a|updated readme|Thu, 3 May 2018 21:59:41 +0100|Thu, 3 May 2018 21:59:41 +0100
+d975e355e1511b8d4ef3cdde11d183353524e88c|Merge branch 'config_database' into processing_controller_interface_flask|Thu, 3 May 2018 21:53:42 +0100|Thu, 3 May 2018 21:53:42 +0100
+6bb40cddebea17320ddad5cb267188b99e1cf0e8|refactor (fairly major) of Flask processing controller interface service|Thu, 3 May 2018 21:52:02 +0100|Thu, 3 May 2018 21:52:02 +0100
+68e4271b5efca73617f5619cc9449b15cdb80376|Added new functions to controller client, changed names of some of the function, updated the layout, added pattern to json schema for ids, updated the test script|Wed, 2 May 2018 16:23:40 +0100|Wed, 2 May 2018 16:23:40 +0100
+81fc74c47c7c2419bf8d6aa9c3519135d8a56ed2|Uses Nijin's database api|Wed, 2 May 2018 13:37:07 +0100|Wed, 2 May 2018 13:37:07 +0100
+b3a39c6e58b90535ae0477571d2dd2530d9a07a5|Merge remote-tracking branch 'origin/config_database' into mc_rest|Mon, 30 Apr 2018 12:43:48 +0100|Mon, 30 Apr 2018 12:43:48 +0100
+0cfa7f543cd64f975d70ff01e47bd377cc856dd4|added updates to mock code for running workflows|Sat, 28 Apr 2018 19:48:39 +0100|Sat, 28 Apr 2018 19:48:39 +0100
+a92166429ddc52cc53e97aae0e4a9284bb26d255|updated mock workflow and workflow tasks intended to be uses with testing the mock processig block controller|Sat, 28 Apr 2018 02:52:53 +0100|Sat, 28 Apr 2018 02:52:53 +0100
+561dd3554aa7d20b4f2f828c14443412f0f1a5de|Merge branch 'master' into processing_controller_celery|Fri, 27 Apr 2018 22:42:09 +0100|Fri, 27 Apr 2018 22:42:09 +0100
+b3a1bb8cd17a88382d74b11ea1fc489462291016|updated processing block controller for testing with a mock containerised workflow stage and mock execution engine interface using docker to start the task|Fri, 27 Apr 2018 22:11:28 +0100|Fri, 27 Apr 2018 22:11:28 +0100
+164337e8f9052948888e414f9316c0e545c5b63e|added sub-array method for posting new scheduling block instances, added sub-array status route|Fri, 27 Apr 2018 16:03:24 +0100|Fri, 27 Apr 2018 16:03:24 +0100
+951f36d20c1c061876b42db3c3db0937f484541d|added sub-array list and detail routes to processing controlller interface|Fri, 27 Apr 2018 15:49:36 +0100|Fri, 27 Apr 2018 15:49:36 +0100
+3d13fe7b1c043231b5f0c6721416e6cc663eb3fd|updated readme|Fri, 27 Apr 2018 14:26:07 +0100|Fri, 27 Apr 2018 14:26:07 +0100
+203946efe311de7924b537911a43ac72aedad667|Merge branch 'config_database' into processing_controller_interface_flask|Fri, 27 Apr 2018 13:51:50 +0100|Fri, 27 Apr 2018 13:51:50 +0100
+d57d5edea210ec0ff873d19b83db26902aac37f3|Delete TODO.md|Fri, 27 Apr 2018 13:48:34 +0100|Fri, 27 Apr 2018 13:48:34 +0100
+3db50f4fc30acad1244986fa3e501921688aebc8|Merge pull request #30 from SKA-ScienceDataProcessor/tango_db|Fri, 27 Apr 2018 13:47:41 +0100|Fri, 27 Apr 2018 13:47:41 +0100
+eb101c09eaa052d1fae35b08063426bcaebed1c1|added health route|Fri, 27 Apr 2018 12:37:08 +0100|Fri, 27 Apr 2018 12:37:08 +0100
+8fbf89d86ecebb8e217b218153697b2462280b53|attempted fix of fluentd log exporter container with monasca plugin|Fri, 27 Apr 2018 12:19:07 +0100|Fri, 27 Apr 2018 12:19:07 +0100
+647ad4d55cbd3344dec806c04dff5d6658a16750|Merge branch 'logging_spammer_example' of github.com:SKA-ScienceDataProcessor/integration-prototype into logging_spammer_example|Thu, 26 Apr 2018 16:38:20 +0100|Thu, 26 Apr 2018 16:38:20 +0100
+ef7e1671d0c1bb71a41365a5897bb83646468f84|added start of custom fluentd container for use with docker logs and monasca|Thu, 26 Apr 2018 16:38:03 +0100|Thu, 26 Apr 2018 16:38:03 +0100
+ac7765f71358c5df42f7a4de960bf49cd84d3613|Docker compose file which uses json-file log driver|Thu, 26 Apr 2018 16:25:27 +0100|Thu, 26 Apr 2018 16:25:27 +0100
+6d67bc0dd45f9713a702238518b177d987b98cdd|added example log spammer for testing ELK logging|Thu, 26 Apr 2018 15:49:55 +0100|Thu, 26 Apr 2018 15:49:55 +0100
+34e306748489ba2d137a0a09545a71dd11e8eca2|Updated the controller client with get scheduling and processing block and update_value functionsand test_execution_scheduler script|Wed, 25 Apr 2018 16:28:02 +0100|Wed, 25 Apr 2018 16:28:02 +0100
+320b6e99076374d979ac53604e5a050a4a1328c3|Updated the controller client and test_execution scheduler script|Wed, 25 Apr 2018 14:45:29 +0100|Wed, 25 Apr 2018 14:45:29 +0100
+fbb9483284f0092bf7070b9e512f72476154fab0|Updated the controller client and test_execution scheduler script|Wed, 25 Apr 2018 14:32:53 +0100|Wed, 25 Apr 2018 14:32:53 +0100
+1e7c75ca9ec0faa90dc29feba4a3118cc20d4460|added placeholder routes for sub-array resource|Thu, 19 Apr 2018 16:49:33 +0100|Thu, 19 Apr 2018 16:49:33 +0100
+5d810d84b33930d374269b9b6e4b2c20b126d8d8|Changed the name of the master controller unittest file and created a unittest file for controller client|Thu, 19 Apr 2018 16:31:45 +0100|Thu, 19 Apr 2018 16:31:45 +0100
+77ca5d354617f4547240b4acfc3a3864c7f61fdc|Added boolean function to the master client and added quick comment in the readme file|Thu, 19 Apr 2018 16:16:39 +0100|Thu, 19 Apr 2018 16:16:39 +0100
+51735122a69cdc619f1309a1d142de0d49ec55f0|updated test device server|Thu, 19 Apr 2018 13:05:44 +0100|Thu, 19 Apr 2018 13:05:44 +0100
+a8efb0b8d8044bcc92c5d07cd04e3f1752330584|Merge remote-tracking branch 'origin/config_database' into mc_rest|Thu, 19 Apr 2018 11:44:35 +0100|Thu, 19 Apr 2018 11:44:35 +0100
+d367249523db5c3654309970179564e6698c6a14|Add incomplete service watchdog app|Thu, 19 Apr 2018 11:40:43 +0100|Thu, 19 Apr 2018 11:40:43 +0100
+9364d6d77ce00ab3c167cd963bd2b801ecc3c481|renamed test device folder to better reflect its identity|Wed, 18 Apr 2018 15:34:16 +0100|Wed, 18 Apr 2018 15:34:16 +0100
+2b8066a798ee44c1f3a1007e90ec187dc3cc7c12|added todo list and updated readme|Wed, 18 Apr 2018 15:15:53 +0100|Wed, 18 Apr 2018 15:15:53 +0100
+927838d9a02f12441926b40223dc13c8e2badb46|Refactor of Tango host service, added test tango device service|Wed, 18 Apr 2018 15:11:57 +0100|Wed, 18 Apr 2018 15:11:57 +0100
+953f45edbfd7200905eb584f25533b385decc6d3|updated tango database containers|Wed, 18 Apr 2018 13:15:10 +0100|Wed, 18 Apr 2018 13:15:10 +0100
+2081e097ad53da8984109ed4af4124fc7142fb73|changed run scripts to chmod 755 to fix an issue with run permissions inside the tango_db container|Fri, 13 Apr 2018 16:52:08 +0100|Fri, 13 Apr 2018 16:52:08 +0100
+2d4adebc03d6b2b5725e323e1d8124587e538f98|moved notes into README|Fri, 13 Apr 2018 16:41:25 +0100|Fri, 13 Apr 2018 16:41:25 +0100
+e381a1cc3c5c51087003524055754a766ab422fd|split out the default tango_db containers from an aternative test configuration which has been moved into the tango_db_alt1 folder|Fri, 13 Apr 2018 16:35:20 +0100|Fri, 13 Apr 2018 16:35:20 +0100
+923a695df6151b23ba3473a6a4c17d9b2652dd06|added placeholder for sub-array resources|Fri, 13 Apr 2018 16:02:45 +0100|Fri, 13 Apr 2018 16:02:45 +0100
+d69cebbb560d59b474e64ee59c3909e8bc0502c5|Low level api development started. Master client development nearly done.|Fri, 13 Apr 2018 13:38:05 +0100|Fri, 13 Apr 2018 13:38:05 +0100
+5a84061fe38431b572c744c0ec1277c8a395b163|Low level api development started. Master client development nearly done.|Fri, 13 Apr 2018 09:43:04 +0100|Fri, 13 Apr 2018 09:43:04 +0100
+d02b0763e06585e4978f8040ec5483bb6d0b0795|Created python files for low/high level client api and moved the current version of client api to top level directory|Wed, 11 Apr 2018 14:59:34 +0100|Wed, 11 Apr 2018 14:59:34 +0100
+b224664aaff0de4b262a857a9c73284ef8fcbe23|Created python files for low/high level client api and moved the current version of client api to top level directory|Wed, 11 Apr 2018 14:50:06 +0100|Wed, 11 Apr 2018 14:50:06 +0100
+6b5af1f637cb047d3b92f5d3d2f0a1671cc7da97|Made changes to the client api and test files. Created a script file to implement unittest for client api|Tue, 10 Apr 2018 15:26:24 +0100|Tue, 10 Apr 2018 15:26:24 +0100
+e3e77f6f1f79f22b064319801063e73b98ef1abb|Adding latest version of config client api|Mon, 9 Apr 2018 15:46:18 +0100|Mon, 9 Apr 2018 15:46:18 +0100
+6ff3abe1973b2a2fa80c5caaceea291040c053fc|refactor and added alternative Docker files copied from the official Tango docker images|Tue, 27 Mar 2018 16:32:08 +0100|Tue, 27 Mar 2018 16:32:08 +0100
+84c3bc9cfb980faa5cb8a2310ecb48b8ff3009b2|slight refactor|Tue, 27 Mar 2018 14:40:11 +0100|Tue, 27 Mar 2018 14:40:11 +0100
+55e8ff3a6aa25289705e2aee9b3f85621c6624c7|added comment on liked processing blocks|Tue, 27 Mar 2018 13:51:03 +0100|Tue, 27 Mar 2018 13:51:03 +0100
+0a1cf55da32e6b7631279ad2f9bdb53842d34b9b|fixed base image name|Wed, 21 Mar 2018 16:06:56 +0000|Wed, 21 Mar 2018 16:06:56 +0000
+df232142cb312f2b4d6d1643bb4cd69707bf55c8|inital commit of tangodb Docker images copied from Brian's SIP tango branch|Wed, 21 Mar 2018 15:28:31 +0000|Wed, 21 Mar 2018 15:28:31 +0000
+797e2db528bc45bb7ffee243137442c62c40c2d4|renamed top level folder|Wed, 21 Mar 2018 14:45:17 +0000|Wed, 21 Mar 2018 14:45:17 +0000
+dfd0f86d273a75d2169243235d10dfe7dfebc364|Committing latest version of the api|Thu, 15 Mar 2018 11:02:53 +0000|Thu, 15 Mar 2018 11:02:53 +0000
+9ac3cc09a0b1bf4e8c9eca174f92f197fc20794d|Added functions to set, get and update master controller data|Tue, 13 Mar 2018 16:53:30 +0000|Tue, 13 Mar 2018 16:53:30 +0000
+dc3a2a20caa2f3ca1110a74f2252c08b75195ee4|Convert database get result to string in client API|Tue, 13 Mar 2018 14:53:21 +0000|Tue, 13 Mar 2018 14:53:21 +0000
+23f09adae94005e95bdb11323a1e209bc9646f66|Adds a mock watchdog that updates a timestamp.|Tue, 13 Mar 2018 14:48:13 +0000|Tue, 13 Mar 2018 14:48:13 +0000
+d3c8df56f45ccc372e694ef0c462f5f71de23231|Implements TANGO state|Tue, 13 Mar 2018 11:24:05 +0000|Tue, 13 Mar 2018 11:24:05 +0000
+93d50fe1c9691833d64edbc66773b60aa0a6cf58|Initial commit of the configuration database client. Tested with execution scheduler|Mon, 12 Mar 2018 11:38:17 +0000|Mon, 12 Mar 2018 11:38:17 +0000
+c4fc5e1f89d756cdd9a7fe19baa04aeae844a26c|Convert reply from bytes to string|Mon, 12 Mar 2018 11:15:41 +0000|Mon, 12 Mar 2018 11:15:41 +0000
+b348905b2cd27f3e0235a79a92c1aa53d662e313|- Lists Now sorts. - Added error handling on invalid DELETE processing block requests. - Updated hypermedia responses.|Fri, 9 Mar 2018 09:31:43 +0000|Fri, 9 Mar 2018 09:32:37 +0000
+4753129dcc8ea4dc511d15aebd18c9d7c2b2cb72|fixed requirements to reflect change from mongodb to redis|Tue, 6 Mar 2018 22:43:37 +0000|Tue, 6 Mar 2018 22:43:37 +0000
+1a95090318dfd5a50d082c061a523d7122e0764f|updated processing block id value schema pattern|Tue, 6 Mar 2018 22:23:06 +0000|Tue, 6 Mar 2018 22:23:06 +0000
+2878ca7a5f0076ff33f5866dc69e635d63613dfe|slight refactor of Processing Controller Interface code|Tue, 6 Mar 2018 22:00:55 +0000|Tue, 6 Mar 2018 22:00:55 +0000
+0c3210b534ac3640a2382544b08d3f4c1ecd6455|initial rework of processing block controller interface code|Tue, 6 Mar 2018 17:55:04 +0000|Tue, 6 Mar 2018 17:55:04 +0000
+d68697dc047e341992d55867ac6cbd8bcdc25bc7|Added initial Processing Controller Scheduler implementation using Celery and asyncio|Tue, 27 Feb 2018 18:01:21 +0000|Tue, 27 Feb 2018 18:01:21 +0000
+78b53a78865bf9db708173e50ebfa3e3468f3c78|Implement shutdown when OFF is PUT|Wed, 21 Feb 2018 13:03:00 +0000|Wed, 21 Feb 2018 13:03:00 +0000
+376d683fc46ae1bfc90e701a41099d387599cd42|Disallow PUT of state to INIT, ALARM or DISABLE|Wed, 21 Feb 2018 11:53:41 +0000|Wed, 21 Feb 2018 11:53:41 +0000
+e78acb157a51849e74d5ed0e89eb48ebfc7c759d|Fixed a bug in the toy master controller example causing the unit test to fail when the test database was not available.|Fri, 16 Feb 2018 15:22:05 +0000|Fri, 16 Feb 2018 15:22:05 +0000
+e8d04b5de0d2270e3e26f4767b195240056c80da|Updated Readme files.|Fri, 16 Feb 2018 03:42:12 +0000|Fri, 16 Feb 2018 03:42:12 +0000
+1cc6f56b7376f92f2c2d7787ad5f2900bcee6d5f|Updated Todo list|Tue, 13 Feb 2018 19:13:22 +0000|Tue, 13 Feb 2018 19:13:22 +0000
+14d387d850305d65af9eefd0399a000c3948ce7f|Updated Readme.md|Tue, 13 Feb 2018 19:11:20 +0000|Tue, 13 Feb 2018 19:11:20 +0000
+4c0cd937f4c5003a3048487d579e3d7c6c36b65c|Refactored / renamed Processing Block Controller Components.|Tue, 13 Feb 2018 18:57:50 +0000|Tue, 13 Feb 2018 18:57:50 +0000
+3ba0269fa3f2f3de061577cbdd4a44ddb999dcb4|Updated / added README files|Tue, 13 Feb 2018 18:55:22 +0000|Tue, 13 Feb 2018 18:55:22 +0000
+98b0c9b82e70212ef5995ebd1196cf5b9f717af7|- Added quick Zookeeper example / hello-world code & removed Zookeeper configuration db variant folder|Tue, 13 Feb 2018 18:54:37 +0000|Tue, 13 Feb 2018 18:54:37 +0000
+1278437b6e942c7d34c8863c5f74f183eca1d9bc|Updated Jenkinsfile and fixed requirements of the Processing Controller REST interface.|Tue, 13 Feb 2018 16:59:33 +0000|Tue, 13 Feb 2018 16:59:33 +0000
+f4ec18b59dccf447a10d0a5e01a999d413746f8e|Added a number of tools for trawling through the SIP source tree.|Tue, 13 Feb 2018 16:59:05 +0000|Tue, 13 Feb 2018 16:59:05 +0000
+f76e40beda6f4f500418d30b2a25840d56968eb8|Updated version 1 of the CSP visibility sender. - Refactor / cleanup - Removed a bunch of linter errors|Tue, 13 Feb 2018 15:58:13 +0000|Tue, 13 Feb 2018 15:58:13 +0000
+a8cef3ab6525fc39790d1923fedc52b8e2d95d47|updated Jenkinsfile|Tue, 13 Feb 2018 13:27:30 +0000|Tue, 13 Feb 2018 13:27:30 +0000
+e9d88333111963ce78165b2a53dcd4836296affd|Updated Jenkinsfile|Tue, 13 Feb 2018 12:19:23 +0000|Tue, 13 Feb 2018 12:19:23 +0000
+2f6268efe6c55625db3dce03b32c9ec3430ab52d|Updated Jenkinsfile, fixed some linter errors|Tue, 13 Feb 2018 12:12:48 +0000|Tue, 13 Feb 2018 12:12:48 +0000
+7e5d1ee116c82182bef36bbbe71a49bf00019c56|Updated Jenkinsfile|Tue, 13 Feb 2018 03:58:01 +0000|Tue, 13 Feb 2018 03:58:01 +0000
+af4132e7f4c2b8b54505be84ce16763b329ca10a|Updated Jenkinsfile|Tue, 13 Feb 2018 03:54:42 +0000|Tue, 13 Feb 2018 03:54:42 +0000
+d19ea41bc15cf985fa75231cee7090a8d7b5028b|Updated Jenkinsfile|Tue, 13 Feb 2018 03:46:05 +0000|Tue, 13 Feb 2018 03:46:05 +0000
+f5d7180e3989ad055aca830830269f771329b410|Updated Jenkinsfile|Tue, 13 Feb 2018 03:41:56 +0000|Tue, 13 Feb 2018 03:41:56 +0000
+24bf07870bef463dbf8ac7e8f2ba42921361607f|Updated Jenkinsfile|Tue, 13 Feb 2018 03:40:15 +0000|Tue, 13 Feb 2018 03:40:15 +0000
+db9c33c9ca77828c103ac476dd939a3325798d1a|Updated Jenkinsfile|Tue, 13 Feb 2018 03:31:17 +0000|Tue, 13 Feb 2018 03:31:17 +0000
+5a446ae9a07897f1e652e43ea5544080288f9849|Updated Jenkinsfile|Tue, 13 Feb 2018 03:27:32 +0000|Tue, 13 Feb 2018 03:27:32 +0000
+2e3f0ad79fe987bf294616dca8fefc12e7810473|Updated Jenkinsfile|Tue, 13 Feb 2018 03:23:41 +0000|Tue, 13 Feb 2018 03:23:41 +0000
+15347c8d67baa789531a81198517b9f0d59d51ad|Updated Jenkinsfile|Tue, 13 Feb 2018 03:19:54 +0000|Tue, 13 Feb 2018 03:19:54 +0000
+18bd1756206a1150c5bd52b259b7d744e0554f74|Updated Jenkinsfile|Mon, 12 Feb 2018 17:55:31 +0000|Mon, 12 Feb 2018 17:55:31 +0000
+28993f98b1485c4d6a7b7d70e56083121323f8ff|Updated Jenkinsfile|Mon, 12 Feb 2018 17:51:29 +0000|Mon, 12 Feb 2018 17:51:29 +0000
+67132e8782baa5e3c3c0c2692814271bd24bc970|Updated Jenkinsfile|Mon, 12 Feb 2018 17:48:06 +0000|Mon, 12 Feb 2018 17:48:06 +0000
+aa7eca64272dc369da6284a861b2bc6e830b5535|Updated Jenkinsfile|Mon, 12 Feb 2018 17:42:58 +0000|Mon, 12 Feb 2018 17:42:58 +0000
+0bc7ff0d3cf462e7a0a3c17c4d2f3397c0393e88|Updated Jenkinsfile|Mon, 12 Feb 2018 17:39:30 +0000|Mon, 12 Feb 2018 17:39:30 +0000
+e0e73ac42bbbd5c17354e1086ec5fa58b18030ed|Removed empty steps from Jenkinsfile.|Mon, 12 Feb 2018 17:31:10 +0000|Mon, 12 Feb 2018 17:31:10 +0000
+c5006eee4cdf5d06b84330500cd831a87e5ce01d|Fixed a couple of linter errors.|Mon, 12 Feb 2018 17:27:30 +0000|Mon, 12 Feb 2018 17:27:30 +0000
+8272d2429d2436e0a3214575bc18066d614ae38f|Added pylintrc file and updated Jenkinsfile to include static analysis.|Mon, 12 Feb 2018 17:27:11 +0000|Mon, 12 Feb 2018 17:27:11 +0000
+d3f4fee81f3a867489c362a4bb98c7c956a71368|added placeholder for Tango host (database + DataBaseds Device server) and Tango Docker experiment / example|Mon, 12 Feb 2018 15:24:54 +0000|Mon, 12 Feb 2018 15:24:54 +0000
+ee7fb465c9dbb746cef2055b389c6784fc18f5c2|refactored folders|Sat, 10 Feb 2018 17:34:41 +0000|Sat, 10 Feb 2018 17:34:41 +0000
+a279b5ed9ac627858f1d81d045cdffea080847f7|refactored folders|Sat, 10 Feb 2018 17:33:56 +0000|Sat, 10 Feb 2018 17:33:56 +0000
+46a7ed5b7c8065dbef1266f97e820130b2cf747d|Refactored folders.|Sat, 10 Feb 2018 17:33:34 +0000|Sat, 10 Feb 2018 17:33:34 +0000
+8807ce7d0ff1180a52189d52f0789d8dcb2af291|Added folder for a zookeeper configuration db|Sat, 10 Feb 2018 17:28:48 +0000|Sat, 10 Feb 2018 17:28:48 +0000
+5b4157571c27f4584bc4312fcbae41c0bf09e3dc|updated todo list|Sat, 10 Feb 2018 17:28:22 +0000|Sat, 10 Feb 2018 17:28:22 +0000
+f9a5c7ec734536e1a2e9e9a1601d8a1d218b8fb6|Updated readme files|Sat, 10 Feb 2018 16:52:04 +0000|Sat, 10 Feb 2018 16:52:04 +0000
+bd3524145d5c1e0c1315dcfcca4f1aed659439c3|Updated readme|Sat, 10 Feb 2018 16:22:06 +0000|Sat, 10 Feb 2018 16:22:06 +0000
+dc9519a070757a4027be92dd42fc0b4f4cf9bd92|Updated the REST Processing Controller Interface to use Flask blueprints.|Sat, 10 Feb 2018 16:21:49 +0000|Sat, 10 Feb 2018 16:21:49 +0000
+6f65663dd5d99dec958e5dc74b0518ee494bf8f5|added initial skeleton files for Processing Block Controller as a Celery worker|Sat, 10 Feb 2018 01:35:17 +0000|Sat, 10 Feb 2018 01:35:17 +0000
+ec1f705022c54f8bb42156e013bc50c2d87a3843|updated TODO|Sat, 10 Feb 2018 01:30:10 +0000|Sat, 10 Feb 2018 01:30:10 +0000
+9aa04d01970e8714e81d5fcf45944dae92821f19|fixed bad include|Sat, 10 Feb 2018 01:26:47 +0000|Sat, 10 Feb 2018 01:26:47 +0000
+cafc916de07396e5c11a99756438b58102c0a587|updated example Processing Controller REST interface|Sat, 10 Feb 2018 01:26:14 +0000|Sat, 10 Feb 2018 01:26:14 +0000
+346b7019110ab4714421a1f5f614fd8040e5b012|updated badges|Sat, 10 Feb 2018 00:47:35 +0000|Sat, 10 Feb 2018 00:47:35 +0000
+2d337bf8ec923406d472db1272934d34efd27ffa|added dockerhub badges|Sat, 10 Feb 2018 00:37:56 +0000|Sat, 10 Feb 2018 00:37:56 +0000
+9a959a42cd70ceca94a756deb6b8872fbe19bdee|added dockerhub badges|Sat, 10 Feb 2018 00:14:40 +0000|Sat, 10 Feb 2018 00:14:40 +0000
+27876d9590794bb48cb47a3feb544422b1487e91|added code to new SIP master branch|Sat, 10 Feb 2018 00:06:12 +0000|Sat, 10 Feb 2018 00:06:12 +0000

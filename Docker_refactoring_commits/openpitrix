@@ -1,0 +1,3 @@
+,repo_name,sha,message
+1739,openpitrix,bc8993bf2c095313c504284bc595e90a2fa3b2fa,Refactor: redesign 1. use dbr as database client 2. refactor logger with log module 3. refactor grpc server 4. add config_loader 5. redesign services 6. refactor docker_compose 7. add db_ctrl 8. add app e2e code
+1919,openpitrix,ef238746d524d47599896fc8481cd8f586f178fb,refactor: keep docker container started by docker-compose the same with normal docker container

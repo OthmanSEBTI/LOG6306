@@ -1,0 +1,160 @@
+87dfd26aa6aaf2071f99a05dfcd9eabe6a862854|change es address|Tue, 1 Jan 2019 00:07:59 +0800|Tue, 1 Jan 2019 00:07:59 +0800
+36c2f5bdfde87661eb4a009c80dbe2086cb10d11|kotlin to 1.2.21|Mon, 31 Dec 2018 23:47:20 +0800|Mon, 31 Dec 2018 23:47:20 +0800
+a0688fb19ba5a3847ea4f4bfb7e8ce914e9a47fa|add search|Mon, 31 Dec 2018 23:19:54 +0800|Mon, 31 Dec 2018 23:19:54 +0800
+bb69b4b53ab7d3734e446c083846156d70ce9f9c|Merge pull request #4 from lixiaocong/lxc-dev|Sun, 2 Dec 2018 16:45:07 +0800|Sun, 2 Dec 2018 16:45:07 +0800
+c6e50cf78bae828f8e0f729217040650769b4051|update docker|Sun, 2 Dec 2018 16:44:01 +0800|Sun, 2 Dec 2018 16:44:01 +0800
+4e8fb201a3d4ec0544871cf9e3451a5c857eb816|更新个人资料|Sun, 2 Dec 2018 16:40:05 +0800|Sun, 2 Dec 2018 16:40:05 +0800
+1b70028f55c02d1a5ce1ba62a589a8a2799fa8ac|Merge pull request #3 from lixiaocong/lxc-dev|Sun, 2 Dec 2018 01:51:19 +0800|Sun, 2 Dec 2018 01:51:19 +0800
+83e6b77d37fc45a68532dc189b44d82571d7c703|update|Sat, 1 Dec 2018 17:47:20 +0000|Sat, 1 Dec 2018 17:47:20 +0000
+ac1e85f793dd0213dc60a2c442efe3bc667048cf|test|Sat, 1 Dec 2018 17:42:12 +0000|Sat, 1 Dec 2018 17:42:12 +0000
+504405a3bc727e0ca42271efaace8823de7293ec|Merge pull request #2 from lixiaocong/lxc-dev|Sun, 2 Dec 2018 01:33:47 +0800|Sun, 2 Dec 2018 01:33:47 +0800
+37bd31f105b9aa064fb39ce85de21cbdeea900ec|test hook|Sat, 1 Dec 2018 16:35:50 +0000|Sat, 1 Dec 2018 16:35:50 +0000
+b3ba24ba4d71add1fe6a7b748e5274c01124957f|update information|Sat, 1 Dec 2018 23:55:43 +0800|Sat, 1 Dec 2018 23:55:43 +0800
+82ff10d10a34953986b760b073a61b970c62a50c|merge|Mon, 26 Nov 2018 16:33:16 +0000|Mon, 26 Nov 2018 16:33:16 +0000
+4b3b545633bc32c60185cb92d58006e3c2e691ce|change build step|Mon, 26 Nov 2018 16:31:18 +0000|Mon, 26 Nov 2018 16:31:18 +0000
+255bc7cd29c0da76701554f3810eb963b04535c3|timezone|Sat, 24 Nov 2018 17:43:09 +0800|Sat, 24 Nov 2018 17:43:09 +0800
+96d72414f8c79c49b63c623fce0162f062f8552a|update gradle|Sun, 9 Sep 2018 11:24:59 +0000|Sun, 9 Sep 2018 11:24:59 +0000
+7ba04cee4c50e2e029e0dc1db4a3dc0286914872|add idea project filt to ignore|Sat, 8 Sep 2018 20:33:44 +0800|Sat, 8 Sep 2018 20:33:44 +0800
+3ab363b19c94239c1cef807c66c4bd2b963193a1|refactor|Sat, 8 Sep 2018 20:31:15 +0800|Sat, 8 Sep 2018 20:31:15 +0800
+b1b3905a9a66b4b32eafbb4ab34455b528e8dfcf|mv setup.sh to config project|Fri, 17 Aug 2018 15:16:21 +0000|Fri, 17 Aug 2018 15:16:21 +0000
+e8bbc2ad7199d2f27485338d89b3c27743e5f65d|add db config file|Sun, 12 Aug 2018 15:24:29 +0800|Sun, 12 Aug 2018 15:24:29 +0800
+9aeee43f3e98f45c8f0403686964ee053762b6e5|set admin attr in session|Sun, 12 Aug 2018 15:19:16 +0800|Sun, 12 Aug 2018 15:19:16 +0800
+52baf5e9958ff466dcfc653b0f5dfdf883e35fdd|add font to jre image and change transmission settings|Sat, 11 Aug 2018 23:38:38 +0800|Sat, 11 Aug 2018 23:38:38 +0800
+aae5026f90d750ef97e7a4cef88cf07855f7c605|refactor|Sat, 11 Aug 2018 19:43:46 +0800|Sat, 11 Aug 2018 19:43:46 +0800
+6fa095814a012eb0214d714c40dbda6a4f8350d3|Merge remote-tracking branch 'origin/master'|Sat, 11 Aug 2018 19:42:23 +0800|Sat, 11 Aug 2018 19:42:23 +0800
+ce35fbdbbd9814113eb6a7abd8afc2cb3a900a15|refactor|Sat, 11 Aug 2018 19:40:35 +0800|Sat, 11 Aug 2018 19:42:01 +0800
+a35b2373f5d91cb651c99982402846271142f0ba|refactor|Sat, 11 Aug 2018 19:40:35 +0800|Sat, 11 Aug 2018 19:40:36 +0800
+1a37c492ee871626719671c75d10d215ff6b0c23|show free space and fix file sort bug|Thu, 22 Mar 2018 21:18:54 +0800|Thu, 22 Mar 2018 21:18:54 +0800
+830db26742345832b29dfe8a9dad206297221e7f|save database files to local disk|Thu, 22 Mar 2018 16:27:39 +0800|Thu, 22 Mar 2018 16:27:39 +0800
+8f3f30f6410101135bf9935a7179b338e74b4994|fix normal users have access to admin panel bug|Wed, 21 Mar 2018 21:22:24 +0800|Wed, 21 Mar 2018 21:22:24 +0800
+f5f78c3bce512b5dd23852b7b2a2f7005d20243b|solve angular compile error|Tue, 16 Jan 2018 15:51:47 +0000|Tue, 16 Jan 2018 15:51:47 +0000
+17354adcff8f1d685eedfb2af18ebf3381b1ecf0|modify run.sh|Mon, 25 Dec 2017 05:46:47 +0000|Mon, 25 Dec 2017 05:46:47 +0000
+bd1471060e77203375e9cf186eb645f5b5fde58e|modify setup|Mon, 25 Dec 2017 04:01:46 +0000|Mon, 25 Dec 2017 04:01:46 +0000
+f948975600a3f1452ba8d341a217d7138634f753|modify setup script|Mon, 25 Dec 2017 01:53:40 +0000|Mon, 25 Dec 2017 01:53:40 +0000
+5ed7e911da29f9ad6df12bfc7b06d4b74ab89b9e|release|Sun, 24 Dec 2017 21:37:35 +0800|Sun, 24 Dec 2017 21:37:35 +0800
+f50f45d777807420ca3dd1a2123b8758a5cc2b23|fix angular build bug|Sat, 23 Dec 2017 23:52:10 +0800|Sat, 23 Dec 2017 23:52:10 +0800
+97806708745d18379903d09d92a7d4fc2b0f2ac2|delete ng-lighting and finish all interceptors|Fri, 22 Dec 2017 21:46:52 +0800|Fri, 22 Dec 2017 21:46:52 +0800
+c2968593f3ad19afa02701d69fcbf6f37319f6ca|enable/disable qq login|Thu, 21 Dec 2017 21:50:22 +0800|Thu, 21 Dec 2017 21:50:22 +0800
+2b44a5dc6c87f440eaa1e3f063101d27af93044f|enable/disable blog module using config|Wed, 20 Dec 2017 21:54:10 +0800|Wed, 20 Dec 2017 21:54:10 +0800
+7453354c24fa81db8d43c40e1bf2534ee23592e0|add blog interceptor|Wed, 20 Dec 2017 13:10:13 +0800|Wed, 20 Dec 2017 13:10:13 +0800
+836fabb9fd9c29bd8a8e6247370389e8c7767387|store config info in database|Sun, 17 Dec 2017 22:46:55 +0800|Sun, 17 Dec 2017 22:46:55 +0800
+0bd70dc346ba119f5bf8ba5ec53e876086c6704e|change database|Sun, 17 Dec 2017 01:37:57 +0800|Sun, 17 Dec 2017 01:37:57 +0800
+b83e17c4c81c55e8ca3048fbf4caf838e2798516|Update README.md|Sat, 25 Nov 2017 13:43:25 +0800|Sat, 25 Nov 2017 13:43:25 +0800
+4c437ebf054dd2352868975da837ac18fdf1db8b|update session time and qq factory|Fri, 24 Nov 2017 22:15:57 +0800|Fri, 24 Nov 2017 22:15:57 +0800
+e9fdfd8339b7a614276d070e31367b098590c07e|fix delete error|Wed, 22 Nov 2017 17:21:36 +0800|Wed, 22 Nov 2017 17:21:36 +0800
+7c3fbc0c77f3b807c2e6c16eb89d649ebe4ca5c7|bug fix|Wed, 22 Nov 2017 16:42:39 +0800|Wed, 22 Nov 2017 16:42:39 +0800
+b1260133ee857e26ed74c97bef9e3118f4ff53b0|change setup file|Mon, 13 Nov 2017 23:20:58 +0800|Mon, 13 Nov 2017 23:20:58 +0800
+f95d4882559fb0760d1fd1fa0f33db3f0f9faf59|add restart|Mon, 13 Nov 2017 15:12:19 +0000|Mon, 13 Nov 2017 15:12:19 +0000
+fcc2de39f4e10413c76a3fd71bd1c46bb68a811e|delete ss|Mon, 13 Nov 2017 13:39:11 +0000|Mon, 13 Nov 2017 13:39:11 +0000
+9fe62865e3acb849c3438c69eaa91fe238f7407c|save transmission download history|Mon, 13 Nov 2017 15:14:32 +0800|Mon, 13 Nov 2017 15:14:32 +0800
+32f8668c5bcfabd74ac15516a7529ea3aa3fa34e|fix download file name bug|Sun, 12 Nov 2017 00:05:10 +0800|Sun, 12 Nov 2017 00:05:10 +0800
+f9dd9e303a2d805553c7cec868cdafd386f82c9e|fix websocket close bug|Sat, 11 Nov 2017 23:23:25 +0800|Sat, 11 Nov 2017 23:23:25 +0800
+238b32598b734bb7f861f33b5d65b9585faf7254|support folder in file page|Sat, 11 Nov 2017 23:18:11 +0800|Sat, 11 Nov 2017 23:18:11 +0800
+58f73f3fac865e515bf766d13ee551aecda3f58b|add multiple torrents|Sat, 11 Nov 2017 16:43:30 +0800|Sat, 11 Nov 2017 16:43:30 +0800
+6eac6850f9299552f6a25b98fbdb465aeaa6dc15|add upload information|Sat, 11 Nov 2017 16:15:11 +0800|Sat, 11 Nov 2017 16:15:11 +0800
+51f400ecfaf2674d32bddc6da164167e5a7a829a|fix page problem|Sat, 11 Nov 2017 15:23:57 +0800|Sat, 11 Nov 2017 15:23:57 +0800
+0891529e269d74c053ad3dd274cc052769ed013b|fix file get and delete bug|Sat, 11 Nov 2017 00:04:05 +0800|Sat, 11 Nov 2017 00:04:05 +0800
+5d5406c1a1e894fbdd9cc219fb1678291ce242c6|fix download status and control of tasks|Fri, 10 Nov 2017 15:32:56 +0800|Fri, 10 Nov 2017 15:32:56 +0800
+c4503cb2a0faebf232be0a3a92cf71f847684dc0|refactor code, delete some log information|Fri, 10 Nov 2017 15:02:47 +0800|Fri, 10 Nov 2017 15:02:47 +0800
+ea0da81fa15142181651e3d1621718f0a0f783b3|change net mode to host to solve ipv6 problem for now|Fri, 10 Nov 2017 06:57:26 +0000|Fri, 10 Nov 2017 06:57:26 +0000
+c68938e1a38946db18ecb2277aa5456a71170d81|fix on server|Thu, 9 Nov 2017 15:49:08 +0000|Thu, 9 Nov 2017 15:49:08 +0000
+93f223b020e4d3a8533a23b013f0db5f12effc0d|combine two downloaders|Thu, 9 Nov 2017 22:19:00 +0800|Thu, 9 Nov 2017 22:19:00 +0800
+199bc950a36a17e0cce3d92d6d405f902c877a5a|combine two downloaders|Thu, 9 Nov 2017 22:16:44 +0800|Thu, 9 Nov 2017 22:16:44 +0800
+f9ed16e6655b1901412a5fa1f41373fadd5c5ad9|fix admin bugs|Thu, 9 Nov 2017 14:37:06 +0800|Thu, 9 Nov 2017 15:36:14 +0800
+14906ec25decba293f6e25ebdf58c4c4045aff44|udpate admin to angular5|Wed, 8 Nov 2017 23:03:05 +0800|Wed, 8 Nov 2017 23:03:05 +0800
+4cd7cc15beda04f654d83babdf387acf8dde7caa|use docker to run the application|Wed, 8 Nov 2017 19:22:15 +0800|Wed, 8 Nov 2017 19:22:15 +0800
+b513b2570b84dcade7c0eeb7a00af0f66fdb1a34|fix bug in angular|Wed, 8 Nov 2017 11:00:38 +0000|Wed, 8 Nov 2017 11:00:38 +0000
+11cb15bf45d31298e4c0355e350bb11c8c233eaa|use docker to setup dev environment|Wed, 8 Nov 2017 13:45:18 +0800|Wed, 8 Nov 2017 13:45:18 +0800
+ec581e0578f626f2cabd08b8f7b9ede1175a0bd0|move static files to resources to support sprint boot|Wed, 8 Nov 2017 10:20:52 +0800|Wed, 8 Nov 2017 10:20:52 +0800
+bd71b2b33ca390a7f74feaca63c3362b1184e372|change file mode|Sat, 4 Nov 2017 09:55:53 +0000|Sat, 4 Nov 2017 09:55:53 +0000
+82dddcdcd3dc9b55fd0e301996441d7afaf9c771|update|Sat, 4 Nov 2017 17:40:11 +0800|Sat, 4 Nov 2017 17:40:11 +0800
+5f9b8a635ecd2bba2dd2003c59ebeea3b3be15e7|update profile|Sat, 4 Nov 2017 01:20:09 +0800|Sat, 4 Nov 2017 01:20:09 +0800
+4ffc35fc8cbb0e98876372d08a3ceb8502dc1bb2|update|Thu, 2 Nov 2017 12:55:07 +0000|Thu, 2 Nov 2017 12:55:07 +0000
+9182665b4c4a750b86db33818e69fe6bc4f644a2|init docker-compose|Wed, 1 Nov 2017 17:18:41 +0000|Wed, 1 Nov 2017 17:18:41 +0000
+b020bf22dc699cc5fa3b5d272e59e24a7636c9a7|add two docker files|Tue, 31 Oct 2017 14:48:51 +0000|Tue, 31 Oct 2017 14:48:51 +0000
+01bb84ebc743189055efbc56275dfdb5b88cba04|add docker related files|Tue, 31 Oct 2017 03:17:13 +0000|Tue, 31 Oct 2017 03:17:13 +0000
+e4931dc16fc692f9cc638ab16e6af20cfccdbdf7|fix file delete bug|Fri, 4 Aug 2017 16:30:45 +0800|Fri, 4 Aug 2017 16:30:45 +0800
+0809a9da2444de575fc31e173267c4c1d4d8461e|update admin ui|Sat, 29 Jul 2017 18:19:47 +0800|Sat, 29 Jul 2017 18:19:47 +0800
+4d21f499ae2f33f8e3e8570bde15c190866a9341|change filename limit to 50 chars|Sat, 29 Jul 2017 15:09:51 +0800|Sat, 29 Jul 2017 15:09:51 +0800
+ff196c7f9e68db9e21380084f629f8039913f7a2|$ is not allowed on linux ,change to '_'|Fri, 28 Jul 2017 00:05:13 +0800|Fri, 28 Jul 2017 00:05:13 +0800
+926c122fcf4507b64de4fad25c624578467c0cb7|base64 replace slash with $|Thu, 27 Jul 2017 23:42:55 +0800|Thu, 27 Jul 2017 23:42:55 +0800
+22293dfcd094396879ff38ef31c6540d57602b91|use base64 to encode file name to fix file missing bug|Thu, 27 Jul 2017 22:10:42 +0800|Thu, 27 Jul 2017 22:10:42 +0800
+daaef0bd5f08485155abebad3ff9af5edd6e2527|update to FileUtils|Thu, 27 Jul 2017 18:49:54 +0800|Thu, 27 Jul 2017 18:49:54 +0800
+7ed9b93d9cc32831b382c03c7ed8acf60de9d1c7|update downloader|Thu, 27 Jul 2017 14:44:31 +0800|Thu, 27 Jul 2017 14:44:31 +0800
+504ee8b90e8e0c12c938695bed3e863ff1e1945f|Merge remote-tracking branch 'origin/dev' into dev|Wed, 26 Jul 2017 23:56:13 +0800|Wed, 26 Jul 2017 23:56:13 +0800
+753b6016de37b3438a296f6275adec09a99b4bb4|update kotlin version to 1.1.3-2|Wed, 26 Jul 2017 23:54:44 +0800|Wed, 26 Jul 2017 23:54:44 +0800
+d05f155e2339be1d90f263401e4df9cf367f0a9d|update downloader|Wed, 26 Jul 2017 23:43:41 +0800|Wed, 26 Jul 2017 23:43:41 +0800
+a846aff5eccb40b98212c2243f60966c67f14f0d|modify downloader|Sun, 23 Jul 2017 23:51:14 +0800|Sun, 23 Jul 2017 23:51:14 +0800
+23af2fd2ddd6d2c4ff39dc12afcf681bbabca7f5|change dev name|Wed, 19 Jul 2017 15:49:27 +0800|Wed, 19 Jul 2017 15:49:27 +0800
+b347431eb1d0a550b15032dc46a37714ae3324a2|show latest article at top|Wed, 19 Jul 2017 15:41:13 +0800|Wed, 19 Jul 2017 15:41:13 +0800
+9214fde08e4c709fd42f83e0c8ddc47fc17d9f53|test update for hook|Sat, 15 Jul 2017 23:32:59 +0800|Sat, 15 Jul 2017 23:32:59 +0800
+a645b1135416cc8c659ee7b3440f2aad0074ce69|update personal information|Sat, 15 Jul 2017 20:27:17 +0800|Sat, 15 Jul 2017 20:27:17 +0800
+f544e8bf5a535582ad5e0316881324ff127fbff1|update readme|Sat, 15 Jul 2017 18:11:43 +0800|Sat, 15 Jul 2017 18:11:43 +0800
+f585de0c02157aee03dc51b38ada6bcb0ef3e9eb|Update README.md|Sat, 15 Jul 2017 17:43:17 +0800|Sat, 15 Jul 2017 17:43:17 +0800
+3dc292fcd2b313476e1fe0ad000b0fcf94b8fd0b|Update README.md|Sat, 15 Jul 2017 17:42:46 +0800|Sat, 15 Jul 2017 17:42:46 +0800
+c2ca8b0fc647ab8860156a1a4e000170b8b028f8|Merge branch 'dev'|Sat, 15 Jul 2017 17:32:30 +0800|Sat, 15 Jul 2017 17:32:30 +0800
+373d703dc8f7b0041e0769ffc856e4afa6bde71e|change mysql to H2|Sat, 15 Jul 2017 17:05:16 +0800|Sat, 15 Jul 2017 17:05:16 +0800
+5b046571efc5a91ba9eabd2a8439d1143e1a4f94|use default jdbcConnection in Spring Social|Sat, 15 Jul 2017 12:08:45 +0800|Sat, 15 Jul 2017 12:08:45 +0800
+e581859a42ded763a4441b0abadf015afcc709d7|update(save code)|Fri, 14 Jul 2017 23:34:24 +0800|Fri, 14 Jul 2017 23:34:24 +0800
+4119522a922ff98aedb6c1aa3ddb2cfc857eef98|fix websocket url|Fri, 14 Jul 2017 11:24:51 +0800|Fri, 14 Jul 2017 11:24:51 +0800
+8540e109a68fbf56133263601338cb1d42a922d4|Update README.md|Thu, 29 Jun 2017 11:38:51 +0800|Thu, 29 Jun 2017 11:38:51 +0800
+66f4cd7383a9c2422a9e8a3277105117907921b8|update build script|Wed, 21 Jun 2017 16:16:23 +0800|Wed, 21 Jun 2017 16:16:23 +0800
+23ef3fdca5941fd56fcc769ccc7a3af7fe923c5f|update some configuration|Sun, 18 Jun 2017 01:00:25 +0800|Sun, 18 Jun 2017 01:00:25 +0800
+94daf385a070180df9e2b8d1646c31fafbe54d64|delete transmission and add aria2c to move files|Tue, 13 Jun 2017 23:57:45 +0800|Tue, 13 Jun 2017 23:57:45 +0800
+32b25d21170d66a96e407ba85e5071f6adfba1fd|[fix bug] remove task failed|Tue, 13 Jun 2017 23:15:29 +0800|Tue, 13 Jun 2017 23:15:29 +0800
+6e83ee2f055610b071a1b2de160834dbaaa0e1c5|[fix bug] chrome file input open slowly|Tue, 13 Jun 2017 21:52:21 +0800|Tue, 13 Jun 2017 21:52:21 +0800
+59ea2709ef6b115562dd67bdff38d9b5cf99d632|add build script|Sun, 11 Jun 2017 07:33:01 -0400|Sun, 11 Jun 2017 07:33:01 -0400
+94501fadece1879f17e4e092efa40fc0ee3ed9fa|build admin to webapp folder|Sun, 11 Jun 2017 19:03:37 +0800|Sun, 11 Jun 2017 19:03:37 +0800
+859d344a7d79e54d6f41d8656285f54c70114784|deal with wrong encoding|Sun, 11 Jun 2017 14:40:21 +0800|Sun, 11 Jun 2017 14:40:21 +0800
+8c652a9ac82e2a7e6ccb900c7aef153c86c6ef2c|close sidebar after click|Sun, 11 Jun 2017 13:53:07 +0800|Sun, 11 Jun 2017 13:53:07 +0800
+33baabd479df10089634bc754443fbb7e2b97bcd|finish file part and delete old admin code|Sun, 11 Jun 2017 00:24:56 +0800|Sun, 11 Jun 2017 00:24:56 +0800
+63c012bff0a0c1d7e4c830fc2f37e68e0c3d4c3c|finish article,comment,user admin page|Sat, 10 Jun 2017 23:16:53 +0800|Sat, 10 Jun 2017 23:16:53 +0800
+2f84c73617ca6b2bf0e72f786c257ce2394facb2|Update README.md|Fri, 2 Jun 2017 11:42:50 +0800|Fri, 2 Jun 2017 11:42:50 +0800
+a6b555992a4340a6600b32690266d02331f23c40|Update README.md|Fri, 2 Jun 2017 10:57:04 +0800|Fri, 2 Jun 2017 10:57:04 +0800
+1f0242b72f48f248f247c5f4d1cd12c8e1261b49|can delete article and use spring profile|Sun, 21 May 2017 17:18:56 +0800|Sun, 21 May 2017 17:18:56 +0800
+370fdb492c553eb6c98c149559f3b4d15d959dbc|can show articles|Sun, 21 May 2017 16:03:44 +0800|Sun, 21 May 2017 16:03:44 +0800
+f5917300627fc6748c472992ef596a016d334026|add ng-lighting|Sun, 21 May 2017 13:07:22 +0800|Sun, 21 May 2017 13:07:22 +0800
+1b67b345832a35a7272170f6ab1565f9da5b9292|user filter to make sign in when debug|Sat, 20 May 2017 16:43:54 +0800|Sat, 20 May 2017 16:43:54 +0800
+d3057707c55fb6895a506b3d27453d604e04a510|获取dashboard数据|Sat, 20 May 2017 01:35:07 +0800|Sat, 20 May 2017 01:35:07 +0800
+568bc91043d6e9a8dada4a0cdf869189f0259c4d|update package.json|Thu, 18 May 2017 18:26:46 +0800|Thu, 18 May 2017 18:26:46 +0800
+e5d811ad09b04eeca032a2f5fb86c4ee31d9cfd4|delete all websocket except downloader|Sun, 7 May 2017 20:18:36 +0800|Sun, 7 May 2017 20:18:36 +0800
+a9ecb619a13f5f86f75eb6648219d69a335d6e8d|use rest instead of websocket, websocket is not appropriate for this|Sun, 7 May 2017 15:25:16 +0800|Sun, 7 May 2017 15:25:16 +0800
+7be8fa5697c7d512edcb154989090c976b9c9e30|try rxjs in user component|Sat, 22 Apr 2017 19:15:22 +0800|Sat, 22 Apr 2017 19:15:22 +0800
+c5473078a1f1c6a22a496edb6e824be0b9d14a3c|realize dashboard|Fri, 21 Apr 2017 21:21:45 +0800|Fri, 21 Apr 2017 21:21:45 +0800
+5508d0c2fe2dfb1405c03bdfc790b1408d272521|add @EnableDownloader and delete facebook|Fri, 21 Apr 2017 18:27:53 +0800|Fri, 21 Apr 2017 18:27:53 +0800
+640cde19867b4a8d7c5c160581291d4b5109f5f1|finish downloader module|Tue, 18 Apr 2017 15:04:44 +0800|Tue, 18 Apr 2017 15:04:44 +0800
+bdd385af6e5094a7ec811d186dbaaa6d812eaba2|start task: done|Thu, 13 Apr 2017 17:10:25 +0800|Thu, 13 Apr 2017 17:10:25 +0800
+19192f59090b07c4f01e1b1c67333a1a9b656348|add task: done|Thu, 13 Apr 2017 15:25:12 +0800|Thu, 13 Apr 2017 15:25:12 +0800
+096fa71082ad93f3905b102ac55f784234ac9128|get url task name and change a little downloader ui|Wed, 12 Apr 2017 22:38:26 +0800|Wed, 12 Apr 2017 22:38:26 +0800
+08bfa506bf7c8a8eadec3ab13f0d82bb2b473828|add task (front end)|Tue, 4 Apr 2017 00:46:58 +0800|Tue, 4 Apr 2017 00:46:58 +0800
+0fe8e91a14e242c8d4c92d2c6eaa68cbb71c93f0|finish sidebar|Mon, 3 Apr 2017 17:31:23 +0800|Mon, 3 Apr 2017 17:31:23 +0800
+120c4eeb6521093cdfffcf26c2769f93cdd797f8|delete unused files|Mon, 3 Apr 2017 02:41:33 +0800|Mon, 3 Apr 2017 02:41:33 +0800
+2cb37a1f194d621bffeaf770d061e05dd2f53e3c|add download-task as a single component|Sun, 2 Apr 2017 23:43:24 +0800|Sun, 2 Apr 2017 23:43:24 +0800
+2f1a9120e5a0d5688c2b04da6d935afe66187bf5|use websocket get all download task and show theme|Thu, 30 Mar 2017 23:49:25 +0800|Thu, 30 Mar 2017 23:49:25 +0800
+a368aa9bbffbca613c997d679084084cffa0095b|websocket connected|Wed, 22 Mar 2017 19:38:08 +0800|Wed, 22 Mar 2017 19:38:08 +0800
+650fec2c16a59a4cb1ae3e78f9d97936d94a2c11|use kotlin to write model form, so cool and update maven url to use aliyun|Wed, 22 Mar 2017 15:23:39 +0800|Wed, 22 Mar 2017 15:23:39 +0800
+f1d4ab259c11a0fcd0aa1ae6f07067ce0881ac03|empty websocket|Tue, 21 Mar 2017 23:13:11 +0800|Tue, 21 Mar 2017 23:13:11 +0800
+e7d9c663b9986faf3a171114707cf440f53de802|ui|Tue, 21 Mar 2017 20:47:12 +0800|Tue, 21 Mar 2017 20:47:12 +0800
+ded4bb5e4d842da36129d334ba7b5e024efb3d6f|add navbar and sidebar|Fri, 17 Mar 2017 23:46:59 +0800|Fri, 17 Mar 2017 23:46:59 +0800
+8399605ac4b58393b4da05939fe584eaa2b812fd|admin page router|Fri, 17 Mar 2017 21:27:46 +0800|Fri, 17 Mar 2017 21:27:46 +0800
+500ff6dc34fa30c34933b8191450938118eee73b|~_~|Fri, 17 Mar 2017 09:40:44 +0800|Fri, 17 Mar 2017 09:40:44 +0800
+d7a0d87a60646c534276ce4b7710d7cb7a4d8563|init angular2 code|Fri, 17 Mar 2017 00:41:19 +0800|Fri, 17 Mar 2017 00:41:19 +0800
+7e6db154a573d98df2f74fdfd7126538728c338a|finish aria2c|Thu, 16 Mar 2017 17:15:00 +0800|Thu, 16 Mar 2017 17:15:00 +0800
+b51181509360553a5c95bd461198d8331da1b897|add start method and change json library to Gson|Thu, 16 Mar 2017 16:33:01 +0800|Thu, 16 Mar 2017 16:33:01 +0800
+9403e9f30262a3a0949d780df2e9933c17939891|downloader code refactoring|Thu, 16 Mar 2017 10:06:05 +0800|Thu, 16 Mar 2017 10:06:05 +0800
+7cfefa1896dabbe7f046c73631aa4c6ba52cb02f|delete copyright -_-! and change an icon|Wed, 15 Mar 2017 22:14:12 +0800|Wed, 15 Mar 2017 22:14:12 +0800
+8624159db9428e93885990a825d9d6a78683b4cd|stop download tasks|Wed, 15 Mar 2017 22:12:57 +0800|Wed, 15 Mar 2017 22:12:57 +0800
+469768b314c0fd0d55a801ca591bdb31a32ea803|get the download list|Tue, 14 Mar 2017 22:07:03 +0800|Tue, 14 Mar 2017 22:07:03 +0800
+0caffb4bc00b68249791ceaa20b199d7098ab51d|realise addTorrent and addUri methods|Sun, 5 Mar 2017 18:01:40 +0800|Sun, 5 Mar 2017 18:01:40 +0800
+ed83e54fc96e3a52e8203a47915b3c00cf7459ea|create aria2c downloader and test|Sun, 5 Mar 2017 15:23:09 +0800|Sun, 5 Mar 2017 15:23:09 +0800
+8b303b6dda28430e517d70c0b37b9a92a0adefb5|delete TransmissionController and make it works for DownloaderController|Sat, 4 Mar 2017 20:11:48 +0800|Sat, 4 Mar 2017 20:11:48 +0800
+58960a0538734d7c3b76c80dad7b04f52a6577a1|add IDownloader and two impls|Sat, 4 Mar 2017 13:19:52 +0800|Sat, 4 Mar 2017 13:19:52 +0800
+7145ff1278119c08430b9b1a0308db67a408868e|update transmission library|Fri, 3 Mar 2017 14:34:55 +0800|Fri, 3 Mar 2017 14:34:55 +0800
+c2dbda64b53c4a241926013dc00262934f534d58|更新transmission|Tue, 28 Feb 2017 12:22:39 +0800|Tue, 28 Feb 2017 12:22:39 +0800
+6206412a0c99387bca7ce0d0f1f2aa8be2185f4d|更新db.sql|Mon, 27 Feb 2017 22:15:36 +0800|Mon, 27 Feb 2017 22:15:36 +0800
+09b6b2b61e0ab225c1607d64a118f4472cf00918|delete|Wed, 22 Feb 2017 23:11:04 +0800|Wed, 22 Feb 2017 23:11:51 +0800
+c5b28679a06186b96c886844c01c3be75a1979fa|实现war包部署到tomcat|Wed, 22 Feb 2017 22:52:30 +0800|Wed, 22 Feb 2017 23:04:54 +0800
+0555d2e6710a5b5c5f14e0ede2607416f817037d|添加数据库初始化文件|Wed, 22 Feb 2017 20:01:47 +0800|Wed, 22 Feb 2017 20:01:47 +0800
+ad7355a6307f695698da5b279a54b7c35a5decc3|修改几个配置文件名称|Mon, 23 Jan 2017 01:27:22 +0800|Mon, 23 Jan 2017 01:27:22 +0800
+80b663529216cb935ef78305ce54848f0fb87dab|v1.0|Tue, 25 Oct 2016 14:07:22 +0800|Tue, 25 Oct 2016 14:07:22 +0800
+aadcfb93a9080fade9367be0ae5d6378c40d6d71|Update LICENSE.md|Tue, 25 Oct 2016 12:03:09 +0800|Tue, 25 Oct 2016 12:03:09 +0800

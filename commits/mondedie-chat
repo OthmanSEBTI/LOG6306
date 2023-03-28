@@ -1,0 +1,415 @@
+1f85fd096e8456d21a202d13eb2861572f7088c7|Move Mithriljs from bower to npm #37|Fri, 22 Jun 2018 14:25:26 +0200|Fri, 22 Jun 2018 14:26:01 +0200
+de824df1506c99e7d1f7bf5fbd0b6ba408eacf1b|chore(): improve afk mode and add links|Mon, 5 Dec 2016 15:53:31 +0100|Mon, 5 Dec 2016 15:53:31 +0100
+4389aa29ba5728f9dec26b41cb66f0324313d039|chore(): update depedencies|Sat, 3 Dec 2016 13:14:30 +0100|Sat, 3 Dec 2016 13:14:30 +0100
+2eedde8ad7c253ab892b3f9672d8b262a1b3bb7d|docs(): upadte readme|Sat, 3 Dec 2016 11:56:20 +0100|Sat, 3 Dec 2016 11:56:20 +0100
+d2c3fa9279b75d950408be7247a892f713b276f2|docs(): update readme|Sat, 3 Dec 2016 11:44:12 +0100|Sat, 3 Dec 2016 11:44:12 +0100
+f41bcb94f29d94076d97293df70a72273808fe62|docs(): readme and revert docker-compose|Sat, 3 Dec 2016 11:38:09 +0100|Sat, 3 Dec 2016 11:38:09 +0100
+15f536c1cad18ea16963e56a4d4bd8d65bebc4a5|docs(): update readme|Sat, 3 Dec 2016 11:34:37 +0100|Sat, 3 Dec 2016 11:34:37 +0100
+30667682b1fd8eda2d8c60b8420b51620286e057|docs(): update readme|Sat, 3 Dec 2016 11:26:59 +0100|Sat, 3 Dec 2016 11:26:59 +0100
+e638301073dbedc708c3f16b622ccf1eeb196631|add(): remove google analytics and add piwik|Thu, 1 Dec 2016 01:22:22 +0100|Thu, 1 Dec 2016 01:22:22 +0100
+88e473d37722664fbef2e6483c229832777f1d40|fix(): avatar and group color|Fri, 28 Oct 2016 04:40:16 +0200|Fri, 28 Oct 2016 04:40:16 +0200
+31dc77356cb7a487c202b1c9647425f2c333197e|chore(): authentification through flarum|Fri, 28 Oct 2016 04:28:46 +0200|Fri, 28 Oct 2016 04:28:46 +0200
+fdee18228160bd7f273211198535d3bb82f3bae9|fix(): fix ie not necessary|Thu, 27 Oct 2016 05:18:30 +0200|Thu, 27 Oct 2016 05:18:30 +0200
+7d4c6ee8d1ece52860abe882b637685e91aea5a2|fix(): bug slide right menu|Thu, 27 Oct 2016 04:38:24 +0200|Thu, 27 Oct 2016 04:38:24 +0200
+1891b08a6b0a3bd211a41ef4d2748d43c58288e8|chore(): improve css|Thu, 27 Oct 2016 03:54:48 +0200|Thu, 27 Oct 2016 03:54:48 +0200
+06e3792674671103dd565a99e5aa7009e40180c2|refactor(): improve css|Thu, 27 Oct 2016 03:28:26 +0200|Thu, 27 Oct 2016 03:28:26 +0200
+6ade469e6acbe268e48f0d06731b00d2cd8c5656|refactor(): use bootstrap flexbox|Thu, 27 Oct 2016 02:40:02 +0200|Thu, 27 Oct 2016 02:40:02 +0200
+59aab77e3ee384cea37e3634f8640ea440b759cc|chore(): improve modal|Tue, 25 Oct 2016 22:11:09 +0200|Tue, 25 Oct 2016 22:11:09 +0200
+8fb9b4cf6baaeaada4612d061a90da54224312c2|chore(): improve sass compilation|Mon, 24 Oct 2016 17:47:22 +0200|Mon, 24 Oct 2016 17:47:22 +0200
+3b80a8a93bf30ea81e76b911fd3d55c6d4f494df|style(): improve popup delete message|Fri, 21 Oct 2016 17:35:32 +0200|Fri, 21 Oct 2016 17:35:32 +0200
+6479e5d6a1bd797095ab972b37db6c437a4241c3|chore(): remove express-debug and add Yarn|Fri, 21 Oct 2016 08:07:35 +0200|Fri, 21 Oct 2016 08:07:35 +0200
+835738d9d410b2ac39abace1fbb1950ede6a1f50|refactor(): improve popup delete message|Fri, 21 Oct 2016 00:48:13 +0200|Fri, 21 Oct 2016 00:48:13 +0200
+916b09b402dcbb91246b0356d8a3396e0639ff8a|refactor(Notify): better experience|Tue, 18 Oct 2016 21:10:36 +0200|Tue, 18 Oct 2016 21:10:36 +0200
+be9f4364063dff019279397761d580eeea05f7fe|docs(): remove badge|Tue, 18 Oct 2016 03:49:30 +0200|Tue, 18 Oct 2016 03:49:30 +0200
+526b2ab3bb1959162269800f47696c20c092b9d7|fix(): typo|Tue, 18 Oct 2016 03:31:15 +0200|Tue, 18 Oct 2016 03:31:15 +0200
+3e353865f3987c907ff0da19c89105829eaa208e|fix(checkbox): update for bootstrap 4|Tue, 18 Oct 2016 03:29:57 +0200|Tue, 18 Oct 2016 03:29:57 +0200
+be87cbe0b8f6985a12be38aa759710fbb85cecf5|fix(docker): update CMD endpoint|Fri, 14 Oct 2016 14:57:30 +0200|Fri, 14 Oct 2016 14:57:30 +0200
+fdab6962ff09403494495820cfcfac94f24496d7|fix(): using su-exec instead of gosu|Fri, 14 Oct 2016 14:21:49 +0200|Fri, 14 Oct 2016 14:21:49 +0200
+7bdbcfa0ad5fcb3782017af1db84ccad02ac0043|chore(): update to node 6.8.0|Fri, 14 Oct 2016 13:54:14 +0200|Fri, 14 Oct 2016 13:54:14 +0200
+36e9208b28dfdbad07678a5c127b5488d7a7ab30|fix(datetime): invalid date|Fri, 14 Oct 2016 01:08:12 +0200|Fri, 14 Oct 2016 01:08:12 +0200
+679e4d7ee3cff5c1db76a41c763bc1661752f9ac|chore(): update dependencies|Fri, 14 Oct 2016 01:01:48 +0200|Fri, 14 Oct 2016 01:01:48 +0200
+e26aebd469cff347b47c0164bc84384d0b5a8d08|fix(): relative time can be ignored|Fri, 14 Oct 2016 00:31:30 +0200|Fri, 14 Oct 2016 00:31:30 +0200
+52c7bc56f7740e8ee08da54c766a4e904bf184f2|fix(datetime): problem of double date|Thu, 13 Oct 2016 21:46:00 +0200|Thu, 13 Oct 2016 21:46:00 +0200
+9fd38c0b2827cf28d0104c3f0ea422d63e4632d5|refactor(): remove useless information|Wed, 5 Oct 2016 22:08:50 +0200|Wed, 5 Oct 2016 22:08:50 +0200
+e1de0b705cf09d2d0cd4be232579c7f095a8f07d|refactor(datetime): relative time|Wed, 5 Oct 2016 21:58:27 +0200|Wed, 5 Oct 2016 21:58:27 +0200
+4215a60c6b82f7e5cbdeca613df92b0c6a59322b|chore(): updates dependancies|Sat, 17 Sep 2016 04:27:50 +0200|Sat, 17 Sep 2016 04:27:50 +0200
+f643a64bbf8e6fc916e83d976a7dc2db3fa7420a|chore(): update jquery-textcomplete|Wed, 10 Aug 2016 19:42:31 +0200|Wed, 10 Aug 2016 19:42:31 +0200
+0bd34534b22641b9b49d031d6f4ebbabc355c525|chore(): update notify.js|Wed, 10 Aug 2016 15:20:42 +0200|Wed, 10 Aug 2016 15:20:42 +0200
+fb0af7cce8a0a06dfdca9fa40adbc78279476cd5|chore(): update jquery & bootstrap|Thu, 28 Jul 2016 14:55:18 +0200|Thu, 28 Jul 2016 14:55:18 +0200
+605e145133dd62601b72882a67b522c610ff37d4|chore(): updates dependancies|Thu, 21 Jul 2016 15:58:22 +0200|Thu, 21 Jul 2016 15:58:22 +0200
+b09f038f04046a5541a25a583b42a8828bf09b5f|docs(): version 1.4.0|Fri, 1 Jul 2016 08:47:53 +0200|Fri, 1 Jul 2016 08:47:53 +0200
+c5ab9a0e567f42924d955200d5cd71add5b89ec2|fix(): bug with panel fixed|Wed, 29 Jun 2016 02:11:54 +0200|Wed, 29 Jun 2016 02:11:54 +0200
+9e77ad14acb65158ec9b92f43da8d7dff2bf4510|refactor(scss): remove unecessary rule !important|Sun, 26 Jun 2016 11:10:39 +0200|Sun, 26 Jun 2016 11:10:39 +0200
+16a800d748198c238bb584aa62f0915655ed46a1|refactor(): responsive rules|Sat, 25 Jun 2016 17:12:44 +0200|Sat, 25 Jun 2016 17:12:44 +0200
+5fdcf6e52ae4b2bbbffa035e364cd78a8b552337|rm(): remove dotenv|Sat, 25 Jun 2016 14:41:38 +0200|Sat, 25 Jun 2016 14:41:38 +0200
+94f9a6b8d1a93221cb5d2191350ed49e8e658cea|chore(npm): update socket.io|Sat, 25 Jun 2016 01:20:31 +0200|Sat, 25 Jun 2016 01:20:31 +0200
+2047cd89bdba0591f3013a3114de449de0052247|fix(): popup avatar.|Sat, 25 Jun 2016 01:06:36 +0200|Sat, 25 Jun 2016 01:06:36 +0200
+63020269a1b68c185bf5d8d80971c96c5ad06ee6|chore(npm): update dependencies|Fri, 24 Jun 2016 03:22:01 +0200|Fri, 24 Jun 2016 03:22:01 +0200
+a5d5a77cbbe8584edc008b184561fac17eb69154|refactor(): docker-compose_dev|Thu, 23 Jun 2016 23:40:14 +0200|Thu, 23 Jun 2016 23:49:11 +0200
+5f84b7e4b472bfb851f0894661a0eb3b01e9ca32|feat(): gulp-livereload|Tue, 21 Jun 2016 21:03:45 +0200|Tue, 21 Jun 2016 21:03:45 +0200
+530e0505e16bf2dab9158fb69e9a5b65201623ba|oups...|Sun, 19 Jun 2016 13:50:15 +0200|Sun, 19 Jun 2016 13:50:15 +0200
+e2e1991ad72fb4a57b1843cf7f389986aa8bc530|add(): token in docker-compose_dev|Sun, 19 Jun 2016 13:47:18 +0200|Sun, 19 Jun 2016 13:47:18 +0200
+78633d1b649b7b3d79a82c23a1010469768f953a|add(): auth api security token|Thu, 16 Jun 2016 22:12:28 +0200|Thu, 16 Jun 2016 22:12:28 +0200
+5c7294993a2eebb3e7597cc82f3df151abae95b8|refactor(): improve docker-composer_dev file|Thu, 16 Jun 2016 13:23:18 +0200|Thu, 16 Jun 2016 13:23:18 +0200
+a07214e7579c4e41a69bbfd36bf8b38ddc6e0a42|add(docker): docker-compose_dev.yml & remove vagrant|Thu, 16 Jun 2016 00:31:08 +0200|Thu, 16 Jun 2016 00:31:08 +0200
+0c7cd47e61e2e4dc344da3c3d43608d7476d9708|fix(): convert images to jpeg + optimization imagmin|Wed, 15 Jun 2016 17:05:43 +0200|Wed, 15 Jun 2016 17:05:43 +0200
+9d540693aa0e2b11e7dc44a47b4b896933bdb284|fix(ie): DOM7009: Unable to decode image at URL|Wed, 15 Jun 2016 14:10:32 +0200|Wed, 15 Jun 2016 14:10:32 +0200
+1439eda703e77216f46e7f54839bd303795cb96e|refactor(): popup smiley|Wed, 15 Jun 2016 13:02:50 +0200|Wed, 15 Jun 2016 13:02:50 +0200
+4e761504525eb3280e0f62585d11652d1e90a2e6|fix(): minor bug|Tue, 14 Jun 2016 20:08:22 +0200|Tue, 14 Jun 2016 20:08:22 +0200
+291c7c171f50406838f98bac74a2cf3d5ab1375a|style(): improvement|Tue, 14 Jun 2016 17:30:47 +0200|Tue, 14 Jun 2016 17:30:47 +0200
+eabbff3f612dde38ea0a73f0d9e796767f0fc3c3|fix(responsive): bug scroll|Tue, 14 Jun 2016 16:46:06 +0200|Tue, 14 Jun 2016 16:46:06 +0200
+f72b23a349e724b6a780cf74e7bfd34983cbfa41|fix(responsive): fix flexbox in menu|Tue, 14 Jun 2016 16:19:26 +0200|Tue, 14 Jun 2016 16:19:26 +0200
+a5b63330e597641f5b9f17d60de1373695f9036d|refector(responsive): two slide|Tue, 14 Jun 2016 13:30:12 +0200|Tue, 14 Jun 2016 13:30:12 +0200
+f363aba34733d9089d1a7d6558df4c1b7c3151a5|fix(vagrant): update vagrant configuration|Tue, 14 Jun 2016 02:35:18 +0200|Tue, 14 Jun 2016 02:35:18 +0200
+2396cd38cfd7588bb9dd608a830df21206e923f3|dd(redis): turn on AOF mode|Mon, 13 Jun 2016 08:54:03 +0200|Mon, 13 Jun 2016 08:54:03 +0200
+a6cb4a6a442e5bcd10fa37b5f30cdb3aa1afdb6f|fix(): fix regression last commit|Tue, 31 May 2016 00:05:15 +0200|Tue, 31 May 2016 00:05:15 +0200
+76252d03fb2e54db6abbb9d45067da7dab5adb2a|chore(): improve number of users online|Mon, 30 May 2016 23:38:11 +0200|Mon, 30 May 2016 23:38:11 +0200
+f3ee59dcea9247e533e96d1f77197a1d26dc2a96|feat(docker) : Upgrade node to 6.2.0|Mon, 30 May 2016 22:20:48 +0200|Mon, 30 May 2016 23:20:11 +0200
+269ee434d875a21a3e216f70a30d84024391cf88|fix(docker) : fix root run Fixes #30|Mon, 30 May 2016 22:05:04 +0200|Mon, 30 May 2016 23:19:06 +0200
+5ec1dc9f8cceca050b08079348b4be87ea1a8082|fix(): fix regression|Sun, 29 May 2016 16:32:22 +0200|Sun, 29 May 2016 16:32:22 +0200
+d14d3f802d1d9b7ed080f175083d7320d4a6e1c5|chore(): number of users online|Sun, 29 May 2016 15:44:39 +0200|Sun, 29 May 2016 15:44:39 +0200
+ff32b42a6283198259277e84aa4d0d44e30077f4|add(): mode strict|Sat, 28 May 2016 17:43:42 +0200|Sat, 28 May 2016 17:43:42 +0200
+db37c76e70a652436888da1b4e25d6d08131aab5|refactor(): momentjs + gulp|Sat, 28 May 2016 16:15:51 +0200|Sat, 28 May 2016 16:15:51 +0200
+e5a0589293f49aae342968fa6361cc41ceb57d89|refactor(): popup smiley|Fri, 27 May 2016 08:33:50 +0200|Fri, 27 May 2016 08:33:50 +0200
+b9675f09005022c6d56e3e650c7269474d3d65c8|refactor(gulp): improve performance|Fri, 27 May 2016 08:22:14 +0200|Fri, 27 May 2016 08:22:14 +0200
+74b2c34d3febe9818d8c03fe2ffab9e07715c279|fix(): update link https|Thu, 26 May 2016 23:01:23 +0200|Thu, 26 May 2016 23:01:23 +0200
+62df0ef8357f51091daace430134d0b7196ab6fd|add(): pug dependency|Thu, 26 May 2016 22:48:33 +0200|Thu, 26 May 2016 22:48:33 +0200
+6aea627d60ca6896f9490b9513ac43bf38d10b4d|chore(): using pug template #27|Thu, 26 May 2016 22:39:14 +0200|Thu, 26 May 2016 22:39:14 +0200
+da071ed87728e32adf38deaaf9bcfdb618e1251c|refactor(): remove unnecessary asset|Thu, 26 May 2016 22:26:34 +0200|Thu, 26 May 2016 22:26:34 +0200
+bd45bdd6a37568aa271f4bbf94e003a7a270225a|fix(bower): fix bower.json file|Thu, 26 May 2016 21:29:48 +0200|Thu, 26 May 2016 21:29:48 +0200
+baa8ae8e675865615fe9fdbc2d88de31f326920e|refactor(assets): concat more file & use cdn socket.io (minified)|Thu, 26 May 2016 20:51:27 +0200|Thu, 26 May 2016 20:51:27 +0200
+2d3bfbd04a56ee60641bf8475f0b1c2dcdd172a2|fix(time): ParseInt for moment redis data is string|Thu, 19 May 2016 00:46:33 +0200|Thu, 19 May 2016 00:46:33 +0200
+35d345a2c9359320dca1f7d492674e074d218b50|Refactor(moment): remove refactor in backend part|Wed, 18 May 2016 21:34:59 +0200|Wed, 18 May 2016 21:34:59 +0200
+938bce1c33c032b62e0623a3a5d9042b484b9f59|refactor(tooltip): detect dynamic HTML content|Wed, 18 May 2016 09:04:40 +0200|Wed, 18 May 2016 09:04:40 +0200
+a1876be5e10fd981ecb4be9feefb3a0082b1a4f0|feat() : Tooltip and date for messages|Tue, 17 May 2016 22:35:40 +0200|Tue, 17 May 2016 23:31:17 +0200
+59d4ac06cf584f05d875e970daf68d78981023cd|feat(): improve listing messages|Mon, 16 May 2016 23:45:13 +0200|Mon, 16 May 2016 23:45:13 +0200
+748fe7f4f26b6b7fcfb1f1e9f830933407f3dc8e|feat(): add disclose/hide button for images|Mon, 16 May 2016 08:14:42 +0200|Mon, 16 May 2016 08:37:41 +0200
+5aa35948f44575447ce5b22bdd2b9dc079a5326e|refactor(): fix and cleanup #21|Mon, 16 May 2016 01:52:52 +0200|Mon, 16 May 2016 01:52:52 +0200
+a645908a6f873d9d98980e34482b712760a57dbb|fix(): section center width on small resolutions|Mon, 16 May 2016 00:46:55 +0200|Mon, 16 May 2016 00:46:55 +0200
+0d75aa1c485a220ad5eca4cf6bed65425cc510c0|add(): adapt width of .section--center on windows resizing|Mon, 16 May 2016 00:03:48 +0200|Mon, 16 May 2016 00:03:48 +0200
+d4374cc2324738cc62042eecf9132ed6657801f1|fix(): issue #21 proposition|Sun, 15 May 2016 22:41:22 +0200|Sun, 15 May 2016 22:41:22 +0200
+287c648c38111ca5982b8ee98d4a78c50db777bc|fix(): display dates regression with large devices|Sun, 15 May 2016 09:40:07 +0200|Sun, 15 May 2016 09:42:30 +0200
+061976b5e42b6569e0086a4d7bb62db795246be8|refactor(): fix and cleanup|Sun, 15 May 2016 09:00:49 +0200|Sun, 15 May 2016 09:00:49 +0200
+64c91c94341868c127b24ea3c2f795fb727ea9a6|fix(css): see issue #21|Sat, 14 May 2016 17:38:58 +0200|Sat, 14 May 2016 17:38:58 +0200
+8be794200c625e4f61e1313e7ec8252c0e0c656c|chore(): using notify.js instead of HTML5-Desktop-Notifications plugin|Sun, 24 Apr 2016 12:07:39 +0200|Sun, 24 Apr 2016 12:07:39 +0200
+ebde5490640cb6e0cd54c62198f8a9e2e795e5b3|fix(text-complete): rollback to v1.2.1|Sat, 23 Apr 2016 11:30:39 +0200|Sat, 23 Apr 2016 11:34:21 +0200
+af2e639b330f5983e82591937f678e8ccc795fb3|chore(npm): update dependencies|Sat, 2 Apr 2016 10:36:44 +0200|Sat, 2 Apr 2016 10:36:44 +0200
+3441356eec27a9a124aa2eea70c148d700314f6e|style(): fix remove button|Tue, 16 Feb 2016 00:58:20 +0100|Tue, 16 Feb 2016 00:58:20 +0100
+c0941e8d1009a6febd8a0524fecaecf182210fae|feat(): add private mark|Thu, 11 Feb 2016 21:26:36 +0100|Thu, 11 Feb 2016 21:26:36 +0100
+31a47cabb6d108c2f7389133c0d0f82cdbec9fe8|docs(): version 1.3.0|Sun, 7 Feb 2016 11:17:55 +0100|Sun, 7 Feb 2016 11:17:55 +0100
+13f395c47d3906ef4ab75fde5f831e916f94da7c|docs(): update readme + bower.json|Sat, 6 Feb 2016 21:24:53 +0100|Sat, 6 Feb 2016 21:24:53 +0100
+9a7a03be5535f1e7a599d391edf709ee2f83a506|fix(socket.io): force new connection #18 #20|Sat, 6 Feb 2016 12:10:01 +0100|Sat, 6 Feb 2016 12:10:01 +0100
+56243fdb44bf52f1ecb6095c5a8bea23eda8a8d2|chore(npm): update dependencies|Sat, 6 Feb 2016 11:03:39 +0100|Sat, 6 Feb 2016 11:03:39 +0100
+b3dcf2e76235ba4cb80e149b418f84aba694fd03|refactor(): popup smiley|Fri, 29 Jan 2016 23:36:04 +0100|Fri, 29 Jan 2016 23:36:04 +0100
+ed1e2e18489fff5f61ce7b618c116d7f0a14fc8b|chore(): Update base image|Wed, 27 Jan 2016 11:49:12 +0100|Fri, 29 Jan 2016 20:03:27 +0100
+599d0ad31e9bd8b3da231b00bed9f76e659008b2|add(): Star Wars emojis|Tue, 26 Jan 2016 21:36:47 +0100|Tue, 26 Jan 2016 21:36:47 +0100
+444b1baa415d6040ed2e20ae65a55c9c6cb07445|fix(fonts): logo positioning|Thu, 21 Jan 2016 23:53:29 +0100|Thu, 21 Jan 2016 23:53:29 +0100
+fee9f909f3e9d424163aad9e0add7ddfc2676f04|fix(fonts) : Add font BebasNeue and gulp process for fonts path|Thu, 21 Jan 2016 22:33:26 +0100|Thu, 21 Jan 2016 22:33:26 +0100
+c4e88c93df67d987abe73648fa44a8f0e5e70dc4|fix(font) : Font for logo and positionning.|Thu, 21 Jan 2016 22:25:45 +0100|Thu, 21 Jan 2016 22:25:45 +0100
+444c70e85a1aee6f3b7689549ffc7bf521cb79f3|fix(): replace multiple smiley occurences with regex|Wed, 20 Jan 2016 21:51:55 +0100|Wed, 20 Jan 2016 21:51:55 +0100
+b30d33ce19c3903c58d3e9d76527d0c004169039|feat(): add jede conversion method|Wed, 20 Jan 2016 21:17:57 +0100|Wed, 20 Jan 2016 21:17:57 +0100
+3f3ed40ce58483e3d819a87780820b2ce6adf365|docs(docker): add nginx reverse proxy in docker workflow|Sun, 3 Jan 2016 10:14:39 +0100|Sun, 3 Jan 2016 10:14:39 +0100
+4da7d5eb6090836735b5c7ece2b0a33b43b79997|chore(node): update engine version|Sat, 2 Jan 2016 20:12:50 +0100|Sat, 2 Jan 2016 20:12:50 +0100
+21c49fc67e7e8c8abdaa661d45e4a383ac26d458|style(): oups|Thu, 31 Dec 2015 15:33:05 +0100|Thu, 31 Dec 2015 15:33:05 +0100
+0d1c92701e722a4265930351d83bafc3190684d9|refactor(): character counter|Thu, 31 Dec 2015 15:28:17 +0100|Thu, 31 Dec 2015 15:28:17 +0100
+71a2215336ada10892c9d20ea3479f40c7f11258|feat(): add character counter|Thu, 31 Dec 2015 04:13:43 +0100|Thu, 31 Dec 2015 04:13:43 +0100
+2794762a0e622d63d73155f9d14467af0156997f|fix(): http url hardcoded|Thu, 31 Dec 2015 00:00:24 +0100|Thu, 31 Dec 2015 00:00:24 +0100
+eccf67e9c421d00365cfc160d59250b6cd9ed144|add(): new smileys list|Tue, 29 Dec 2015 22:04:18 +0100|Tue, 29 Dec 2015 22:04:18 +0100
+921ac3a7fc87f1dee4ae46974d39a5a9c2b8a542|Merge pull request #22 from xataz/master|Wed, 23 Dec 2015 19:38:30 +0100|Wed, 23 Dec 2015 19:38:30 +0100
+1c0e16a9ae8878dc887c55c0fc66a992108625f2|refactor(docker): Change base image|Wed, 23 Dec 2015 19:29:16 +0100|Wed, 23 Dec 2015 19:29:16 +0100
+730253f0789823729581825ddbba18806958d437|fix(bower): conflict with bootstrap deps & resolutions|Wed, 23 Dec 2015 11:29:14 +0100|Wed, 23 Dec 2015 11:29:14 +0100
+7771dc81b4fadde09d821a1ef8cb9d20ea2e4653|chore(): update dependencies|Fri, 18 Dec 2015 10:43:26 +0100|Fri, 18 Dec 2015 10:43:26 +0100
+e3502e1b421f1436f82e5edb1cbb47ef9d443b40|fix(): reinit users list on socket disconnection #18|Fri, 11 Dec 2015 22:14:12 +0100|Fri, 11 Dec 2015 22:14:12 +0100
+02cb00035875016aa6f1f0f7627be16b0a2048c0|style(bower): update bootstrap v4-alpha.2|Fri, 11 Dec 2015 15:50:56 +0100|Fri, 11 Dec 2015 15:50:56 +0100
+e2f45d16ec486aef510cb16b03392a3336ac4d82|fix(env): remove default value for analytic key|Mon, 7 Dec 2015 20:02:07 +0100|Mon, 7 Dec 2015 20:02:07 +0100
+239950601468764c4ef96f5eec557cd5939d0f3f|feat(analytics) : add analytics script #19|Mon, 7 Dec 2015 19:45:34 +0100|Mon, 7 Dec 2015 19:47:05 +0100
+993e8d68d5f994c94ff24d626f41ce547ede7ed9|fix(): update url api|Mon, 7 Dec 2015 12:17:46 +0100|Mon, 7 Dec 2015 12:17:46 +0100
+f27def6d847c920c1610038267e089f1b86ce9cc|add(): copyright notice|Sun, 6 Dec 2015 10:40:08 +0100|Sun, 6 Dec 2015 10:40:08 +0100
+58bfdf6cfac26aa7a004f9564ed54b31a308ba33|fix(): register user events only once #18|Sun, 6 Dec 2015 09:54:47 +0100|Sun, 6 Dec 2015 09:54:47 +0100
+35c832c96b12a6f33e48d03b1aab9c3b60c1a8b5|bug fix img responsive (firefox)|Sat, 5 Dec 2015 17:52:03 +0100|Sat, 5 Dec 2015 17:52:03 +0100
+f1537bd406db22b457a5078cfe0b822300074123|docs(): version 1.2.0|Sun, 22 Nov 2015 08:51:27 +0100|Sun, 22 Nov 2015 08:51:27 +0100
+626465c2dbc5d6b51ef49bd0224650966a83ef8b|Merge pull request #16 from xataz/master|Sun, 22 Nov 2015 08:26:00 +0100|Sun, 22 Nov 2015 08:26:00 +0100
+71e75ad3b26ba882b2dd63faf657b7fe93298e46|Merge branch 'master' of https://github.com/xataz/mondedie-chat into xataz-master|Sun, 22 Nov 2015 08:25:47 +0100|Sun, 22 Nov 2015 08:25:47 +0100
+5676d1c202a49336c59ef085b206b4a99a515263|fix(docker): fix character error|Sun, 22 Nov 2015 04:13:54 +0100|Sun, 22 Nov 2015 04:13:54 +0100
+6980125650253db7e74ceb46c9113c272e929c53|refactor(docker): Change base image on docker-compose.yml|Sun, 22 Nov 2015 04:12:25 +0100|Sun, 22 Nov 2015 04:12:25 +0100
+325f1d17e645de78b226b8c6c096725660c33ca2|refactor(docker): Change base image|Sun, 22 Nov 2015 04:11:22 +0100|Sun, 22 Nov 2015 04:11:22 +0100
+8dfedd1588a983fa6030438801862496e37b9dce|fix(flexbox): bugfix ie10-11|Fri, 20 Nov 2015 15:01:41 +0100|Fri, 20 Nov 2015 15:01:41 +0100
+3e9ac93545d1240a9758648b456ef2b85b7b5b8b|style(): cleanup scss|Thu, 19 Nov 2015 21:11:07 +0100|Thu, 19 Nov 2015 21:11:07 +0100
+83376e4bc6be6cf6d5fb64052c7d2920c2f31543|fix(docker): fixed somes mistakes in docker files|Wed, 18 Nov 2015 21:43:05 +0100|Wed, 18 Nov 2015 21:43:05 +0100
+4c2fcc4c42d637081ac42d19ea1361957cc1f178|fix(vagrant): fix condition load dotenv module #15|Wed, 18 Nov 2015 21:01:08 +0100|Wed, 18 Nov 2015 21:01:08 +0100
+e4566435a4bc43643a9d65859cfb8ac78e53bb43|fix(): problème align img avatar|Wed, 18 Nov 2015 20:54:02 +0100|Wed, 18 Nov 2015 20:54:02 +0100
+edd032aea10758771238a36b36a4a0b2de086a63|style(): improve sass code token status|Wed, 18 Nov 2015 18:38:07 +0100|Wed, 18 Nov 2015 18:38:07 +0100
+ae2e10480aa47bd23384f9ab8684802c0e4d3510|Merge pull request #14 from xataz/master|Wed, 18 Nov 2015 14:05:59 +0100|Wed, 18 Nov 2015 14:05:59 +0100
+c335b188bffe1c5b90c8e3bc6a15c7180db666a8|docs(): Add docker documentation in README.md|Wed, 18 Nov 2015 12:52:20 +0100|Wed, 18 Nov 2015 12:52:20 +0100
+1fb06719ea6c91919afe3a554499e85c0582c9a9|refactor(docker): Add comment in docker-compose.yml|Wed, 18 Nov 2015 12:51:27 +0100|Wed, 18 Nov 2015 12:51:27 +0100
+b59dbdaa53ffb021ab30981b580128e01a80dd11|refactor(docker): anonymize docker and del duplicate in Dockerfile|Wed, 18 Nov 2015 12:29:12 +0100|Wed, 18 Nov 2015 12:29:12 +0100
+1bda5a846389ae17e62e73b28f1a7acf01fb18fc|Merge branch 'master' of https://github.com/xataz/mondedie-chat|Wed, 18 Nov 2015 12:19:26 +0100|Wed, 18 Nov 2015 12:19:26 +0100
+5153275f7c1b84463f907169a5a4a512d2be2381|feat(docker): add dockerfile and docker-compose|Wed, 18 Nov 2015 12:18:05 +0100|Wed, 18 Nov 2015 12:18:05 +0100
+51c27cb19b493039c2e5bb7c1c1896dd44f4f382|add dockerfile and docker-compose|Tue, 17 Nov 2015 18:54:36 -0500|Tue, 17 Nov 2015 18:54:36 -0500
+3fa70a1a1cb11baed87b8ef58f5010a4b3eba7c6|fix(): correction jeton user online|afk|Tue, 17 Nov 2015 23:30:03 +0100|Tue, 17 Nov 2015 23:30:03 +0100
+df5d6cf74f3e7a9ca191e244161b8fbe612028bb|fix(env): load dotenv module in development mode only #13|Tue, 17 Nov 2015 21:39:04 +0100|Tue, 17 Nov 2015 21:39:04 +0100
+c49698bbc00f8105681702763b526f230761a8c7|style(users list) : Ajout d'un jeton de couleur en fonction de l'état|Mon, 16 Nov 2015 23:11:09 +0100|Mon, 16 Nov 2015 23:11:09 +0100
+db2affaeb5de2b0c37a8ccc2a7acec05c453e5f1|style(responsive): cleanup|Mon, 16 Nov 2015 14:18:38 +0100|Mon, 16 Nov 2015 14:18:38 +0100
+8031bf845c349271edcd02fe4a0ec8b6ef495a52|refactor(): improve auto-complete|Mon, 16 Nov 2015 14:17:05 +0100|Mon, 16 Nov 2015 14:17:05 +0100
+aa62e56f4a9cc9a045bfdecd511e410a23b1e6a5|fix(): hr display in responsive mode|Mon, 16 Nov 2015 10:22:48 +0100|Mon, 16 Nov 2015 10:22:48 +0100
+7ba94bf7d8239bf0d36c2fc433ea120104cb506b|fix(): some minor changes|Mon, 16 Nov 2015 09:25:04 +0100|Mon, 16 Nov 2015 09:25:04 +0100
+d9708cf1e5390e63f8f1c5ce62e5a7a68ec93fe7|style(): improve button slideout & cleanup scss|Sun, 15 Nov 2015 23:15:45 +0100|Sun, 15 Nov 2015 23:15:45 +0100
+aec0da6757b8af04d30f4539fd86f562b0eb33e3|style(): refactor navbar|Sun, 15 Nov 2015 16:19:45 +0100|Sun, 15 Nov 2015 16:19:45 +0100
+94c5fa5ba5df3b28261a04e78f1937178137f579|fix(): button delete #1|Sat, 14 Nov 2015 15:23:12 +0100|Sat, 14 Nov 2015 15:23:12 +0100
+e7d1f520b2179f22990c760ff0c1383856251c2d|docs(): version 1.1.0|Sat, 14 Nov 2015 09:19:58 +0100|Sat, 14 Nov 2015 09:19:58 +0100
+daaac8070878b129a43a97aac3023bd360cb5034|docs(): remove roadmap item|Sat, 14 Nov 2015 09:17:37 +0100|Sat, 14 Nov 2015 09:17:37 +0100
+432d719459483a3ec4de908251ba297452b99cf7|feat(): persist checkbox state in local storage #8|Sat, 14 Nov 2015 08:51:32 +0100|Sat, 14 Nov 2015 08:51:32 +0100
+15e6f4d324ad5b035f43643ae269ca068201ba5d|fix(): autocomplete cmd regex|Sat, 14 Nov 2015 08:28:26 +0100|Sat, 14 Nov 2015 08:28:26 +0100
+79dd30595d6351aa8cd7f199a4fc46dff8924d32|fix(responsive): bugfix button toggle #7|Sat, 14 Nov 2015 02:29:35 +0100|Sat, 14 Nov 2015 02:29:35 +0100
+b3c47cb8b7b43e417f6455b40a6e681ddc954e09|add(responsive): add slideout navbar #7|Sat, 14 Nov 2015 02:00:06 +0100|Sat, 14 Nov 2015 02:00:06 +0100
+100063d284e067fe7b1cfb6ff9fbf6ce024598c7|fix(): fix overflow menu left and move button sign-out|Thu, 12 Nov 2015 18:54:06 +0100|Thu, 12 Nov 2015 18:54:06 +0100
+1cf9dcedfda35ba5024149b97cc1857409631773|add(): add placeholder in textarea|Thu, 12 Nov 2015 12:10:49 +0100|Thu, 12 Nov 2015 12:10:49 +0100
+50ce49eff1667d94d0b947f6693a9e1545199461|fix(responsive): fix font-size logo #4|Wed, 11 Nov 2015 22:23:40 +0100|Wed, 11 Nov 2015 22:23:40 +0100
+17a7efdc407e14a37de240128cd7b617dffffead|fix(responsive): fix height value in textarea #4|Wed, 11 Nov 2015 22:03:12 +0100|Wed, 11 Nov 2015 22:03:12 +0100
+8ebfd27d56b4fdfda22f8de64d60a4327c5d9aa0|feat(): responsive design|Wed, 11 Nov 2015 16:33:44 +0100|Wed, 11 Nov 2015 16:33:44 +0100
+5519102ac1c9e6bc5113ad67ae898cd6ab20218e|refactor(): flexbox position|Wed, 11 Nov 2015 13:04:19 +0100|Wed, 11 Nov 2015 13:04:19 +0100
+420f76d707c6c84bb1ba74357dd760832ebd7ca7|add(sentences) : fix #7|Wed, 11 Nov 2015 01:43:17 +0100|Wed, 11 Nov 2015 01:43:17 +0100
+6bf3dc677bda0a24b5a88fed2531480c9f0ca1c4|improving vagrant installation|Wed, 11 Nov 2015 01:15:46 +0100|Wed, 11 Nov 2015 01:15:46 +0100
+de3761d64e1374a6ded9b6d08fb78c769e261eb0|docs(): update readme.md|Sun, 8 Nov 2015 21:47:04 +0100|Sun, 8 Nov 2015 21:47:04 +0100
+f856b1ba96dcfb190b3f7ebba079b35489ab14c6|add(): release number in footer|Tue, 3 Nov 2015 08:26:07 +0100|Tue, 3 Nov 2015 08:26:07 +0100
+2f16f45eb48047f33bd6e0c07c3eba5fa3b5efc3|fix(): error view variable|Tue, 3 Nov 2015 00:41:44 +0100|Tue, 3 Nov 2015 00:41:44 +0100
+833b96f7d9edf07387a7f4ec7d58c33818d52e0b|docs(): add authentication method to the readme|Tue, 3 Nov 2015 00:15:50 +0100|Tue, 3 Nov 2015 00:15:50 +0100
+48ac45155b28885d17ded9d36682f3f020a479fb|add(): app.json file for Heroku deploy button|Mon, 2 Nov 2015 23:15:16 +0100|Mon, 2 Nov 2015 23:15:16 +0100
+a0feff4b64ef17c9123c2e38c2bcfa48055e00bd|docs(): modification du readme|Mon, 2 Nov 2015 22:26:52 +0100|Mon, 2 Nov 2015 22:26:52 +0100
+d166383d045ca01cf0d8c6b36c8a712444ed2034|fix(): correction de quelques problèmes suite à la maj des dépendances|Sun, 1 Nov 2015 17:47:39 +0100|Sun, 1 Nov 2015 17:47:39 +0100
+e625560ec1a90b6bb20f3ea5f4a103936c285a76|docs(): mise à jour des dépendances|Sun, 1 Nov 2015 17:09:36 +0100|Sun, 1 Nov 2015 17:09:36 +0100
+e0e0ac5aa0f7a9e3679ed0bbf166142ffd5a15a0|docs(): Version 1.0.0 :]|Sun, 1 Nov 2015 16:40:27 +0100|Sun, 1 Nov 2015 16:40:27 +0100
+bceaa252f537d4ebfba1d6108e9858b37a4d3c85|fix(): quelques corrections|Sun, 1 Nov 2015 16:39:04 +0100|Sun, 1 Nov 2015 16:39:04 +0100
+f396ed80658c2601a5ce072cf3f62e7fbf6ca08c|add(): encore quelques phrases :3|Sun, 1 Nov 2015 00:19:16 +0100|Sun, 1 Nov 2015 00:19:16 +0100
+9a87a68056144349624875b5194aa0d85d0edf6c|add(): ajout de quelques phrases pour chatbot|Sat, 31 Oct 2015 23:04:46 +0100|Sat, 31 Oct 2015 23:04:46 +0100
+f827d975e2fc33d144e42071ba9f559aae3909ee|add(sentences) : Ajout de deux phrases|Sat, 31 Oct 2015 20:55:18 +0100|Sat, 31 Oct 2015 20:55:18 +0100
+a503538e12729bb11556e0003b6c327cf118fda3|fix(): correction mineur|Sat, 31 Oct 2015 19:04:16 +0100|Sat, 31 Oct 2015 19:04:16 +0100
+738b97aadf641f1445a5dd29609b818bff67c96e|feat(): faire parler chatbot de manière aléatoire|Sat, 31 Oct 2015 18:52:31 +0100|Sat, 31 Oct 2015 18:52:31 +0100
+3dcd595bf6f00c994e0dd528834ad829f4c9f5ec|add(): confirmation avant suppression d'un message|Sat, 31 Oct 2015 16:16:30 +0100|Sat, 31 Oct 2015 16:16:30 +0100
+ccc273203237bcd69b472d8e6e6dc5c913c03cb9|fix(): /roll @user seulement aux users connectés #4|Sat, 31 Oct 2015 15:53:19 +0100|Sat, 31 Oct 2015 15:54:28 +0100
+9982876b51dca291be44cec34d6b66817868be89|feat(): autocomplétion des commandes|Sat, 31 Oct 2015 15:33:23 +0100|Sat, 31 Oct 2015 15:33:23 +0100
+46d62fcc479cfc11dad0894981483fd7df99de03|fix(): oubli de fichiers css + modification du stockage des /roll @user|Sat, 31 Oct 2015 02:19:10 +0100|Sat, 31 Oct 2015 02:19:10 +0100
+d70225fcc19d74e8efd6efea5cf11c9688411cf3|chore(): versionning du fichier app.min.css|Sat, 31 Oct 2015 02:02:39 +0100|Sat, 31 Oct 2015 02:02:39 +0100
+4f2e78b3a9bf30d39b2bb46b99c834bd66dfc6ba|chore(): versionning du fichier app.min.js|Sat, 31 Oct 2015 00:12:39 +0100|Sat, 31 Oct 2015 00:12:39 +0100
+4a8ffa2f7fb7a0093ef09f3cb01daa86430d31ac|style(): suppression code md|Fri, 30 Oct 2015 13:53:22 +0100|Fri, 30 Oct 2015 13:53:22 +0100
+b4177563a79f9f6903a7a253815b8d637e3fefb6|fix(): correction du pattern pour les messages privés|Thu, 29 Oct 2015 23:55:23 +0100|Thu, 29 Oct 2015 23:55:23 +0100
+6783394013b76b6f5b307df2ca9a4f68b2f13bae|style(): un peu de ménage...|Thu, 29 Oct 2015 23:35:32 +0100|Thu, 29 Oct 2015 23:35:32 +0100
+fabb04b60e623720bd2b1cb1049531d12b41f85f|feat(): désactivation des évènements de connexion|Thu, 29 Oct 2015 23:30:14 +0100|Thu, 29 Oct 2015 23:30:14 +0100
+e9ff75e2cbd67725b32560e655557873f433088f|fix(): retardement des events 'already_connected' et 'user_banned'|Thu, 29 Oct 2015 23:22:02 +0100|Thu, 29 Oct 2015 23:22:02 +0100
+d24bec60d02bb4d20de76281ba1de75cee67dedf|add(): ajout de deux alertes|Thu, 29 Oct 2015 22:42:53 +0100|Thu, 29 Oct 2015 22:42:53 +0100
+dbe956c486e240b4a595dcdd3525462ca16ba864|feat(): ajout de la mention @user à quelques commandes|Thu, 29 Oct 2015 22:09:30 +0100|Thu, 29 Oct 2015 22:09:30 +0100
+aca772e0ffda981e452796872a54db3271e5370d|feat(): ajout de la commande /roll @user|Thu, 29 Oct 2015 21:54:48 +0100|Thu, 29 Oct 2015 21:54:48 +0100
+94dbe51a0619e69e009ed053062e30565a48ba48|add(): ajout du groupe Bonobo en tant qu'admin|Thu, 29 Oct 2015 18:37:40 +0100|Thu, 29 Oct 2015 18:37:40 +0100
+0398605304a25a4f87d16e63944605cf919aa007|fix(): changement de l'interval du roll BXT|Thu, 29 Oct 2015 17:42:57 +0100|Thu, 29 Oct 2015 17:42:57 +0100
+27cbf1d8f35accedffc590f713a74094049c7fb8|add(): ajout de la variable d'environnement de fluxbb|Wed, 28 Oct 2015 23:46:43 +0100|Wed, 28 Oct 2015 23:46:43 +0100
+bea478d958ec2ececa0030b91d6f531452eac7da|fix(): mentions compatibles minuscules/majuscules|Wed, 28 Oct 2015 21:41:11 +0100|Wed, 28 Oct 2015 21:41:11 +0100
+002eaded8a17ef92ef5526212b53719703524da8|feat(): auto-complétion des smileys et des pseudos|Wed, 28 Oct 2015 20:41:18 +0100|Wed, 28 Oct 2015 20:41:18 +0100
+116309924678eedb7e96d26daacaff19afded2ad|fix(): trim() du message avant envoie|Tue, 27 Oct 2015 23:05:14 +0100|Tue, 27 Oct 2015 23:05:14 +0100
+64157e17c313b89cbd985f95f81fc87812251441|feat(): connexion via l'api fluxbb|Tue, 27 Oct 2015 22:43:09 +0100|Tue, 27 Oct 2015 22:43:09 +0100
+ea7352dde1be193d73a83c27101f5f2847a4f4d0|refactor(): csscomb (fichier conf)|Tue, 27 Oct 2015 18:21:36 +0100|Tue, 27 Oct 2015 18:21:36 +0100
+674d5b3b9d7768d9907e979839ae8c8a5179bf73|add(): ajout de gulp-csscomb|Tue, 27 Oct 2015 18:08:39 +0100|Tue, 27 Oct 2015 18:08:39 +0100
+e098ea9f3c7a06ac6828492cc0e7e4c74db07df3|doc(): lien vers la doc bootstrap (temporaire)|Tue, 27 Oct 2015 13:23:40 +0100|Tue, 27 Oct 2015 13:23:40 +0100
+8318082f97f59413cba5cdae5f803a1d592b6c5d|feat(): compilation de bootstrap|Tue, 27 Oct 2015 12:47:53 +0100|Tue, 27 Oct 2015 12:47:53 +0100
+c5289254b2be3be1f9844b612d10286833f9a684|fix(): correction de l'ombre|Mon, 26 Oct 2015 23:51:40 +0100|Mon, 26 Oct 2015 23:51:40 +0100
+9081da92319e636623ce7ebcb5447ac65f8575eb|style(): apparence de la boite à smileys :3|Mon, 26 Oct 2015 23:44:59 +0100|Mon, 26 Oct 2015 23:44:59 +0100
+c51baa1644ffe949d39ea1e425aa0086f8cc0861|style(): changement mineur|Mon, 26 Oct 2015 18:07:57 +0100|Mon, 26 Oct 2015 18:07:57 +0100
+fff5e85e024b8cf7e1fc3513ed0e49bf78553501|refactor(): improve toogle popup (smiley)|Mon, 26 Oct 2015 17:57:25 +0100|Mon, 26 Oct 2015 17:57:25 +0100
+17812da183d836161fb2f3fb5867e2f7b8e9f955|feat(smiley): smiley dans un popup|Mon, 26 Oct 2015 16:13:01 +0100|Mon, 26 Oct 2015 16:13:01 +0100
+f697aa9a5a88a55c5bdd28397f3ebb294cec79b9|fix() : Trap mithril|Sun, 25 Oct 2015 23:25:58 +0100|Sun, 25 Oct 2015 23:25:58 +0100
+7aaafd4b05234d8aa3ae9c0fdf5894299eab3300|fix() : Nouveau message dans le titre si c'est un type message-bot|Sun, 25 Oct 2015 23:14:49 +0100|Sun, 25 Oct 2015 23:14:49 +0100
+fac04d665c500666a37857e252d7fdd36959a130|fix(): correction des messages privés|Sun, 25 Oct 2015 23:05:59 +0100|Sun, 25 Oct 2015 23:05:59 +0100
+c5289d0eed0268917ef77cde070dfbc1bb898983|add(): quelques modifications mineures côté client|Sun, 25 Oct 2015 22:52:48 +0100|Sun, 25 Oct 2015 22:52:48 +0100
+e823ae2de39de65e9ce20c46e2e8a875b1d5a5d8|fix(): correction d'un problème d'heure lors d'un poke|Sun, 25 Oct 2015 21:35:33 +0100|Sun, 25 Oct 2015 21:35:33 +0100
+362090a72296f248125924d58166eeea3653b17b|fix(): correction d'un bug sous IE|Sun, 25 Oct 2015 19:11:15 +0100|Sun, 25 Oct 2015 19:11:15 +0100
+da16bbb0f2e71a44711af3813f2ab0de33b7846c|fix(): correction de la détection de la frappe au clavier|Sun, 25 Oct 2015 18:28:21 +0100|Sun, 25 Oct 2015 18:28:21 +0100
+8cc1e02accb0ef08f27de9b517d6f390a89bca59|style(editor): amélioration du style|Sun, 25 Oct 2015 16:29:27 +0100|Sun, 25 Oct 2015 16:29:27 +0100
+3d1604f8fec03a2ea00569c878918503953f18ae|fix(): correction d'un bug|Sun, 25 Oct 2015 16:07:13 +0100|Sun, 25 Oct 2015 16:07:13 +0100
+1d4602a90bc202037cbd8fccaec1157176e65a7c|fix(): correction d'un problème de duplication|Sun, 25 Oct 2015 15:58:43 +0100|Sun, 25 Oct 2015 15:58:43 +0100
+f95f92334d1f1200aa921bc1e0870c3d50dfdae8|fix(): correction d'un problème de duplication|Sun, 25 Oct 2015 14:50:03 +0100|Sun, 25 Oct 2015 14:50:03 +0100
+d1220e31a17a54082e0b006835d0193577200bb3|feat(): indication lorqu'une personne écrit|Sun, 25 Oct 2015 13:05:34 +0100|Sun, 25 Oct 2015 13:05:34 +0100
+8393b21de610d26d10a04fe8c7a5d04c153a6879|feat(): bouton de suppression dynamique|Sun, 25 Oct 2015 00:10:55 +0200|Sun, 25 Oct 2015 00:10:55 +0200
+34ee1f13e0060107e784b8d8549c5f17cd335b7d|style(editor): couleur des boutons|Sat, 24 Oct 2015 23:35:13 +0200|Sat, 24 Oct 2015 23:35:13 +0200
+5a2944d4349fd7c36618ddb90570bede9ff5740c|feat(smiley): ajout d'un bouton dans la barre|Sat, 24 Oct 2015 22:11:01 +0200|Sat, 24 Oct 2015 22:11:01 +0200
+3611fd67fe5f91709f549b8f8091885b87fed168|add(editor): traduction, bouton désactivé, style..|Sat, 24 Oct 2015 21:25:16 +0200|Sat, 24 Oct 2015 21:25:16 +0200
+6293da554bdaaa1fa6e9beacf3a236e085ba63ae|feat(): saut de ligne avec shift+enter|Sat, 24 Oct 2015 18:35:30 +0200|Sat, 24 Oct 2015 18:35:30 +0200
+d074270941d4b81b99d3ccd418aef8aa200105d1|fix(): correction l'event 'onkeydown' du textarea|Sat, 24 Oct 2015 18:07:17 +0200|Sat, 24 Oct 2015 18:07:17 +0200
+9828691949029584cc5304d431bc0cc51f42f783|refactor(): changement d'editeur markdown|Sat, 24 Oct 2015 17:30:11 +0200|Sat, 24 Oct 2015 17:30:11 +0200
+d1ae8fa04a828ca3ce4c215dde984d87ed7fdd75|style(): modification mineur|Sat, 24 Oct 2015 17:05:02 +0200|Sat, 24 Oct 2015 17:05:02 +0200
+c4c7143175e32ad05eaf11eeecde7aede06eb0e5|refactor(gulp): improve performance|Sat, 24 Oct 2015 17:04:26 +0200|Sat, 24 Oct 2015 17:04:26 +0200
+4d15789b9af842b7833a082a67fce0295c293652|add(): fermeture automatique des notifications|Sat, 24 Oct 2015 14:25:52 +0200|Sat, 24 Oct 2015 14:25:52 +0200
+aa1681e3d94777f2dcb4e2e257e36a73295903bf|Merge branch 'master' of bitbucket.org:mondediefr/nodechat-flarum|Fri, 23 Oct 2015 22:36:01 +0200|Fri, 23 Oct 2015 22:36:01 +0200
+30b1d374bfaef7a86eaa82d172e061c195e9593a|feat(): suppression des messages|Fri, 23 Oct 2015 22:31:56 +0200|Fri, 23 Oct 2015 22:31:56 +0200
+72d16cde632711bcafa7a375bcf6358aeee8f651|style(login): changement mineur|Fri, 23 Oct 2015 21:45:56 +0200|Fri, 23 Oct 2015 21:45:56 +0200
+958e49263a1a1bcde87f31e1f394d731cd6be8f1|add(bower): ajout de simplemde|Thu, 22 Oct 2015 23:01:58 +0200|Thu, 22 Oct 2015 23:01:58 +0200
+31a645daf5a7c7c5d61fe9d577375a332e407f66|add(): ajout de l'attribut key aux éléments de la liste des users|Thu, 22 Oct 2015 00:51:46 +0200|Thu, 22 Oct 2015 00:51:46 +0200
+b1740e205341f492071946c1c79bd7266d71f072|refactor(): implémentation de la commande /roll BXT|Thu, 22 Oct 2015 00:39:27 +0200|Thu, 22 Oct 2015 00:39:27 +0200
+4aa0bc3cac4c98ef0323c8841010117201c18d4d|style(gulp): optimisation|Wed, 21 Oct 2015 17:12:35 +0200|Wed, 21 Oct 2015 17:12:35 +0200
+38fbe9f0c5be789e1a918c31e022dbcf9d373275|refactor(gulp): modification de la tâche watch|Wed, 21 Oct 2015 12:24:58 +0200|Wed, 21 Oct 2015 12:24:58 +0200
+ae3c97c7ae1c07c20255fb9a57c5d72ab8198d77|fix() : Oublie du else|Tue, 20 Oct 2015 23:57:32 +0200|Tue, 20 Oct 2015 23:57:32 +0200
+8af660b14168e2198e3c85278cdb310199dffb7e|fic() : Condition for BXT ban|Tue, 20 Oct 2015 23:55:52 +0200|Tue, 20 Oct 2015 23:55:52 +0200
+df1fcb7ae58b1eb1283908f0be24871a499cf99b|feat() : Add /roll BXT|Tue, 20 Oct 2015 23:47:46 +0200|Tue, 20 Oct 2015 23:47:46 +0200
+e7a9887b0a18ee6a2d98d669dc5cfc70f9584364|style(): $color background|Tue, 20 Oct 2015 23:33:42 +0200|Tue, 20 Oct 2015 23:33:42 +0200
+fad982d303319ca19a6820c9e44a024b4e57b2eb|refactor(): folder client|Tue, 20 Oct 2015 23:03:53 +0200|Tue, 20 Oct 2015 23:03:53 +0200
+aaef6825d1be350deec4d1226465fbd61c3f801f|add(): ajout de gulp-autoprefixer|Mon, 19 Oct 2015 00:15:30 +0200|Mon, 19 Oct 2015 00:15:30 +0200
+e0a32d2d6aa78c7a2002b93d62a2e22a06f444fb|fix(): fix css|Sun, 18 Oct 2015 20:57:34 +0200|Sun, 18 Oct 2015 20:57:34 +0200
+813a37cc654fdf2a24fc82b005fe26449b961a7f|fix(): bouton de suppression uniquement pour les messages normaux|Sun, 18 Oct 2015 18:18:17 +0200|Sun, 18 Oct 2015 18:18:17 +0200
+9f2633f188db1cd94d717d75ef9a6b6604a5e36b|style(): augmentation de la hauteur du footer|Sun, 18 Oct 2015 17:59:52 +0200|Sun, 18 Oct 2015 17:59:52 +0200
+2bed41ebf192fda4f0aa27522161ca8d9974aeec|feat(): ajout d'un bouton delete (message)|Sun, 18 Oct 2015 17:44:10 +0200|Sun, 18 Oct 2015 17:44:10 +0200
+32628031728e522521dcc52bf7b78cf2d059e32b|Merge branch 'master' of bitbucket.org:mondediefr/nodechat-flarum|Sun, 18 Oct 2015 16:31:20 +0200|Sun, 18 Oct 2015 16:31:20 +0200
+ba38d6355c25787d75607a7ec4699617d582cc7c|fix(): doublon lors d'un lancé de dé + mention @user|Sun, 18 Oct 2015 15:47:01 +0200|Sun, 18 Oct 2015 15:47:01 +0200
+731fca14054cdcb0dde93e075642773f58b86b3c|style(): refactoring login|Sun, 18 Oct 2015 15:46:37 +0200|Sun, 18 Oct 2015 15:46:37 +0200
+2df910f1bfe1eb558a867f64e09563ef6ff70de2|feat(): broadcast de certains messages de chatbot|Sun, 18 Oct 2015 15:10:02 +0200|Sun, 18 Oct 2015 15:10:02 +0200
+3d7ca450e7815fe0ab0a2fc6724c483523853820|style(): ajout d'un style aux balises pre et code|Sun, 18 Oct 2015 14:44:58 +0200|Sun, 18 Oct 2015 14:44:58 +0200
+81c143ac77155740248f469e47a7a22482e39529|fix(): correction des marges intérieure et extérieure|Sun, 18 Oct 2015 13:12:36 +0200|Sun, 18 Oct 2015 13:12:36 +0200
+3726c308e65115257867183b6e8ecf3619da0697|fix(): correction de la gestion des messages du bot|Sun, 18 Oct 2015 12:51:38 +0200|Sun, 18 Oct 2015 12:51:38 +0200
+ecbe1957eb9ffb1fdee0366b834ea59e4ac0227d|fix(): correction d'un pb de syntaxe sass|Sun, 18 Oct 2015 12:40:43 +0200|Sun, 18 Oct 2015 12:40:43 +0200
+dffb658517d72452c170c895058ada485d2008aa|refactor(): fonctions addMessage/addBotMessage|Sun, 18 Oct 2015 12:33:28 +0200|Sun, 18 Oct 2015 12:33:28 +0200
+5ec4033ff2412fbeb151d1891ddb10f97d480c84|feat(): ajout de la commande /unlock|Sun, 18 Oct 2015 11:59:13 +0200|Sun, 18 Oct 2015 11:59:13 +0200
+bf3689380d61a4e5b528c43b194c136c324441b1|feat(): ajout de la commande /roll|Sun, 18 Oct 2015 11:38:50 +0200|Sun, 18 Oct 2015 11:38:50 +0200
+935cb5fbf4fbbb447af84bbbdc48d51f1d27a4f6|fix(): problème de duplication du contenu des messages|Sun, 18 Oct 2015 10:03:49 +0200|Sun, 18 Oct 2015 10:03:49 +0200
+5d7921e85b224b166d096e039827e3a0ea2efd30|fix(): margin et padding|Sun, 18 Oct 2015 02:54:12 +0200|Sun, 18 Oct 2015 02:54:12 +0200
+6819d6f4bb9c66078311de76a1094d605fc09cf7|fix(): correction de la date pour certains messages de chatbot|Sun, 18 Oct 2015 01:13:56 +0200|Sun, 18 Oct 2015 01:13:56 +0200
+3c2b18bb90311c9fc9df10ed2975c7024ab46696|fix(): auto-scroll is back !|Sun, 18 Oct 2015 01:08:14 +0200|Sun, 18 Oct 2015 01:08:14 +0200
+feb2191e7a60bb9572b0fc6ad276559f6a7c1aef|style(): quelques changements esthétiques|Sun, 18 Oct 2015 01:06:15 +0200|Sun, 18 Oct 2015 01:06:15 +0200
+2606bf82364ff8e9f8266cc867c8cebe2892ebe5|del:() suppression de css inutile|Sat, 17 Oct 2015 21:19:12 +0200|Sat, 17 Oct 2015 21:19:12 +0200
+ec393cee1b32d28b9fe400c7e2cf2a3764cad086|fix(): fix images|Sat, 17 Oct 2015 20:48:42 +0200|Sat, 17 Oct 2015 20:48:42 +0200
+3775ec1332d56751535875e3493f5f60ca8cf6a0|feat(): ajout d'un bouton smiley dans l'éditeur|Sat, 17 Oct 2015 19:18:49 +0200|Sat, 17 Oct 2015 19:18:49 +0200
+4c72849a8917ff1865dfef7508ce43b70d27477d|fix(): bug interprétation html|Sat, 17 Oct 2015 16:42:04 +0200|Sat, 17 Oct 2015 16:42:04 +0200
+731ef64c6acdc21feb6739ed601875365f4c2841|feat(): refactor message list|Sat, 17 Oct 2015 15:59:01 +0200|Sat, 17 Oct 2015 15:59:01 +0200
+89cada7b7f7987fc237c26ddee02f80c604efa1c|Merge branch 'master' into design-sass|Fri, 16 Oct 2015 23:39:06 +0200|Fri, 16 Oct 2015 23:39:06 +0200
+484416f75d7388dfda0ee4f171914ed3029feb0e|feat(): design nouveau placement|Fri, 16 Oct 2015 23:30:13 +0200|Fri, 16 Oct 2015 23:30:13 +0200
+c7c58596492fdec1955d2672bdd8312ec141a9ac|fix(): bugfix gulp-sass|Fri, 16 Oct 2015 00:12:50 +0200|Fri, 16 Oct 2015 00:12:50 +0200
+23e52a3db922ec1aa60ec0bbe16a50a078400322|style(): suppression de plusieurs tabulations|Thu, 15 Oct 2015 21:49:55 +0200|Thu, 15 Oct 2015 21:49:55 +0200
+f680abd59cbd5f794cdb31bb7cfa15b8bb5c97de|refactor(): sass|Thu, 15 Oct 2015 19:52:21 +0200|Thu, 15 Oct 2015 19:52:21 +0200
+adb95aa2ad6e0822c94fba37090a19a68aa2eacd|del(): suppression du support ie8|Thu, 15 Oct 2015 01:13:12 +0200|Thu, 15 Oct 2015 01:13:12 +0200
+499dc6a769fc1222e3dbbdbc8b48c51b74c64c65|feat(): désactivation de l'auto-scroll|Mon, 12 Oct 2015 17:56:39 +0200|Mon, 12 Oct 2015 17:56:39 +0200
+237351d2d78c9e6c47eee9c6283ab928407e8778|feat(): autoriser les sauts de lignes|Mon, 12 Oct 2015 17:46:44 +0200|Mon, 12 Oct 2015 17:46:44 +0200
+8745d72e27f8732f46337de4c757b321a3a7ab13|add(): demande d'autorisation automatique pour les notifications|Sun, 11 Oct 2015 23:19:57 +0200|Sun, 11 Oct 2015 23:19:57 +0200
+16fa017cc0b36b2209bdb33987fb842c45edc625|add(): ajout des smileys ajax chat + activation du cache|Sun, 11 Oct 2015 23:07:22 +0200|Sun, 11 Oct 2015 23:07:22 +0200
+31d11adfc4dcaea83c410583713d0004f87a68ef|fix(): correction de la fonction messages.list()|Sun, 11 Oct 2015 19:44:52 +0200|Sun, 11 Oct 2015 19:44:52 +0200
+4c99dea477baa3057b8517c788c8e220bac2bbb0|feat(): ajout de la commande poke et des notifications|Sun, 11 Oct 2015 15:03:12 +0200|Sun, 11 Oct 2015 15:03:12 +0200
+de7db8455e7fda7e828ab35eeccde2c4d61ba433|feat(): ajout de la commande /ban list|Sun, 11 Oct 2015 13:25:33 +0200|Sun, 11 Oct 2015 13:25:33 +0200
+2cbf467ecc45ef931d8990f4867ede1e7dcb14a9|feat(): messages privés|Sun, 11 Oct 2015 12:53:52 +0200|Sun, 11 Oct 2015 12:53:52 +0200
+ac74b216e5bc35c5e49f252ddeb3fc77f41ccd71|del(): stockage des messages "s'est connecté/déconnecté"|Sun, 11 Oct 2015 11:22:14 +0200|Sun, 11 Oct 2015 11:22:14 +0200
+798fbba403d7d1215c8fac27771a2faa3cae4cf8|feat(): ajout des commandes kick et unban|Sun, 11 Oct 2015 11:16:56 +0200|Sun, 11 Oct 2015 11:16:56 +0200
+ac4e406bb633f7d36ffe85a6db2be1f8a06fd76a|chore(): utilisation du mode 'strict'|Sat, 10 Oct 2015 23:58:06 +0200|Sat, 10 Oct 2015 23:58:06 +0200
+d9aa947e6286ce0c11df5c35738a0ce099421429|feat(): ajout des notifications (via le titre)|Sat, 10 Oct 2015 22:59:39 +0200|Sat, 10 Oct 2015 22:59:39 +0200
+68090b50f3f742a38770b9752fb29ad32450efd4|fix(vagrant): correction de la configuration|Sat, 10 Oct 2015 21:38:50 +0200|Sat, 10 Oct 2015 21:38:50 +0200
+cd3e21429a7d3111e945c9fe4a068fc3a3053638|feat(): ajout du mode AFK|Sat, 10 Oct 2015 17:14:13 +0200|Sat, 10 Oct 2015 17:14:13 +0200
+318417406bd4d2f1ec79ad14d1fcf865f4877a9d|feat(): ajout du smiley :hap: + quelques modifs|Sat, 10 Oct 2015 13:15:26 +0200|Sat, 10 Oct 2015 13:15:26 +0200
+f7456bd46587a8ca4d7d107c2e179fdbd04c92ab|feat(): ajout des emojis au niveau du front-end|Sat, 10 Oct 2015 12:52:39 +0200|Sat, 10 Oct 2015 12:52:39 +0200
+c597f6c844f0db20661ac3457596e0f24f78290a|feat(): Smileys personnalisés (noel, kappa, aviator)|Sat, 10 Oct 2015 01:30:13 +0200|Sat, 10 Oct 2015 01:30:13 +0200
+b53069753ba1f534e323b87369698489296b0e58|feat(): Ajout des smileys (EmojiOne)|Sat, 10 Oct 2015 00:46:53 +0200|Sat, 10 Oct 2015 00:46:53 +0200
+62aa2cad36b65f5460fddcb2de0e0f55bb9a4d5f|refactor(): réorganisation des models en classes|Fri, 9 Oct 2015 00:50:49 +0200|Fri, 9 Oct 2015 00:50:49 +0200
+310b332c20d9b04eaacec8f66ef4c7fee8dd5cba|fix(): correction de la fonction messages.list() #3|Wed, 7 Oct 2015 21:06:02 +0200|Wed, 7 Oct 2015 21:06:02 +0200
+13633df441bf3f05f794d8e6e6e1dbbd0a3831bc|fix(): correction de la gestion de l'event keyHandled|Mon, 5 Oct 2015 19:44:06 +0200|Mon, 5 Oct 2015 19:44:06 +0200
+36009342a28a17fab40d75ffe9b402a1fa6bf8d6|feat(): envoi des messages avec la touche entrée|Mon, 5 Oct 2015 19:09:18 +0200|Mon, 5 Oct 2015 19:09:18 +0200
+f15ca0f277d9b925d7c41973edc74e9f3ff17d00|fix(): oubli du fichier favicon|Mon, 5 Oct 2015 18:14:31 +0200|Mon, 5 Oct 2015 18:15:37 +0200
+13506301a65763f46550362172cb363b578e4cba|style(): ajout du logo mondedie.fr + favicon|Mon, 5 Oct 2015 18:12:54 +0200|Mon, 5 Oct 2015 18:12:54 +0200
+4db425de69d16ab1c6cf31d288a6b96998030236|fix(): quelques ajustements au niveau de l'interface|Mon, 5 Oct 2015 17:21:08 +0200|Mon, 5 Oct 2015 17:21:08 +0200
+e442721b23ec3d843cbcebc43478aac0cf662169|Merge branch 'mithril'|Mon, 5 Oct 2015 12:48:38 +0200|Mon, 5 Oct 2015 12:48:38 +0200
+6770377857f856f48d833f2808eb0e2ddfea3e36|fix(): correction de la tâche mithril-map|Mon, 5 Oct 2015 12:45:48 +0200|Mon, 5 Oct 2015 12:45:48 +0200
+719ba7c610d9a3f8c1c03baf6d436e7c93e44a03|refactor(): finalisation de la mise en place de Mithril|Mon, 5 Oct 2015 12:30:23 +0200|Mon, 5 Oct 2015 12:30:23 +0200
+d08461c98d9b7a94f0db6f9daeb0db5eaf642b15|refactor(): ajout de l'éditeur markdown|Mon, 5 Oct 2015 01:08:10 +0200|Mon, 5 Oct 2015 01:09:05 +0200
+65d0c36824a2b220e2d84bf63b607e25f4760be3|refactor(): simplification du reset du textarea|Mon, 5 Oct 2015 00:35:40 +0200|Mon, 5 Oct 2015 00:35:40 +0200
+e50c8581dd98419a0003d23a301f8aa7ff35845a|refactor(): quelques corrections|Sun, 4 Oct 2015 23:53:19 +0200|Sun, 4 Oct 2015 23:53:19 +0200
+38ac2e5bd2d4c116870517a8ade525b6bdb74bff|refactor(): Ajout de la liste des users connectés|Sun, 4 Oct 2015 22:52:00 +0200|Sun, 4 Oct 2015 22:52:00 +0200
+00bd0b5a71bc33a1e10eadedb5b4f63334319bc6|refactor(): correction de quelques éléments|Sun, 4 Oct 2015 18:43:36 +0200|Sun, 4 Oct 2015 18:44:01 +0200
+3413c7aa42a743a2ee2a4d4b9e858c7c4a49dc5a|refactor(): initialisation de la liste des messages|Sun, 4 Oct 2015 17:37:07 +0200|Sun, 4 Oct 2015 17:37:07 +0200
+dea64d9eac21d44f33be2fc79e69ca4a4138f1a1|refactor(): mise en place de mithril + ajout des events|Sun, 4 Oct 2015 16:25:33 +0200|Sun, 4 Oct 2015 16:25:33 +0200
+78adc254f612db8dee406855b62e355dc7587d88|fix(): correction du script côté client|Sat, 3 Oct 2015 19:48:15 +0200|Sat, 3 Oct 2015 19:48:15 +0200
+d79c90c610f817a4f628e3f9f8a8d7283f074d24|refactor(): client-side avec Mithril.js|Sat, 3 Oct 2015 19:35:58 +0200|Sat, 3 Oct 2015 19:45:53 +0200
+c04b6941810180c5315eb6928cc3c6c25eb13483|fix(): correction de l'event ban|Tue, 29 Sep 2015 23:47:20 +0200|Tue, 29 Sep 2015 23:47:20 +0200
+9210f1e3122c41749a2cc859ac7e4667c6ecfdfc|fix(): Quelques corrections|Tue, 29 Sep 2015 23:39:47 +0200|Tue, 29 Sep 2015 23:39:47 +0200
+bf3f0b04e57e895bc664e5b2ac4f960edaeb34b0|fix(redis): correction d'un bug de session #1|Tue, 29 Sep 2015 22:52:02 +0200|Tue, 29 Sep 2015 22:52:02 +0200
+c9881ef5cc5e9dea989045a9f8f41fb648a81199|fix(): correction du middleware d'erreur|Tue, 29 Sep 2015 22:45:05 +0200|Tue, 29 Sep 2015 22:47:17 +0200
+b3a67e4770dfe289c97c493f37e9355ec75e893e|style(): modification de l'apparence des boutons de suppression|Tue, 29 Sep 2015 22:39:22 +0200|Tue, 29 Sep 2015 22:39:22 +0200
+0b4b2a761549ff22a9a8eba549deef09a82d519d|fix(): correction des commits 7b5f4f3 & c0f24b5|Tue, 29 Sep 2015 22:29:28 +0200|Tue, 29 Sep 2015 22:29:28 +0200
+abf81f6e50a1ea3a3f7359a56c4d755d00956811|fix() : Fix del message|Mon, 28 Sep 2015 22:07:34 +0200|Mon, 28 Sep 2015 22:07:34 +0200
+7b5f4f36333f29188706cc1c7e7d5e180588fd47|feat() : Suppression de message|Mon, 28 Sep 2015 21:46:14 +0200|Mon, 28 Sep 2015 22:05:31 +0200
+c0f24b531dd7b651084e92f4e610694b1ab971b3|feat() : Suppression de message|Mon, 28 Sep 2015 21:46:14 +0200|Mon, 28 Sep 2015 21:46:14 +0200
+60537ac1f5dd4ab050edff3ef3f0ae73db776e2d|style(): Suppression des espaces avant ) et après (|Mon, 28 Sep 2015 18:46:48 +0200|Mon, 28 Sep 2015 18:46:48 +0200
+076aa0cf144738590feb68357c3340936b6c3fc8|chore(): Nettoyage + activation du stacktrace en prod|Sun, 27 Sep 2015 22:45:03 +0200|Sun, 27 Sep 2015 22:45:03 +0200
+2202b99d043da3fe57a11836fbf401e055aa8ce6|Merge branch 'master' of bitbucket.org:mondediefr/nodechat-flarum|Sun, 27 Sep 2015 22:37:54 +0200|Sun, 27 Sep 2015 22:37:54 +0200
+7170448af950f4815c41cfb0e92fe15b9f8bd05f|Refactor(): Mise en place des Promises|Sun, 27 Sep 2015 22:36:01 +0200|Sun, 27 Sep 2015 22:36:01 +0200
+c17368f03eb5c6efbf6d04437a899570141041dd|indent size 2 spaces|Sun, 27 Sep 2015 17:51:58 +0200|Sun, 27 Sep 2015 17:51:58 +0200
+32c192c09f91f8abe3799297f3251e7b86b25c80|bugfix cache nginx|Sun, 27 Sep 2015 17:41:27 +0200|Sun, 27 Sep 2015 17:41:27 +0200
+28074b553c81af25d4d3b5b9efc7a3c806790f8e|ajout .editorconfig|Sun, 27 Sep 2015 14:24:46 +0200|Sun, 27 Sep 2015 14:24:46 +0200
+d6e3bba647810d14cc9d85ebc928e2fcb68a27ce|Ajout de la coloration syntaxique|Sat, 26 Sep 2015 23:43:16 +0200|Sat, 26 Sep 2015 23:43:16 +0200
+62b392ec12f32fcb0c7ed0c5108c0fd4979a894e|Ajout de la selection du pseudo|Sat, 26 Sep 2015 22:54:14 +0200|Sat, 26 Sep 2015 22:54:14 +0200
+9b9676e69e0add372e48060ca85a323b0dbfd2b4|Ajout de la tâche pour le déploiement sur Heroku|Sat, 26 Sep 2015 21:47:08 +0200|Sat, 26 Sep 2015 21:47:08 +0200
+6e284b4089b45c2cdc1cf8010a836cd9b13e9215|bug jshint|Sat, 26 Sep 2015 21:39:50 +0200|Sat, 26 Sep 2015 21:39:50 +0200
+00086459b1696794bddd7bd2e905cc4aa9e56247|astuce soyuka :)|Sat, 26 Sep 2015 21:30:56 +0200|Sat, 26 Sep 2015 21:30:56 +0200
+911d348fe94e9e3f8dece6e170a814233449b011|improve gulpfile|Sat, 26 Sep 2015 21:26:45 +0200|Sat, 26 Sep 2015 21:26:45 +0200
+71749ea323120d8d48643048017d18d378f2e89f|Ajout de jshint + modification du readme|Sat, 26 Sep 2015 20:57:06 +0200|Sat, 26 Sep 2015 20:57:06 +0200
+cc48d8369102faaad150e34bc34c619678f77071|migration de grunt vers gulp|Sat, 26 Sep 2015 19:45:22 +0200|Sat, 26 Sep 2015 19:45:22 +0200
+c9583815e6d32a2cc97fa6204071b6dd6095870d|Ajout proxy nginx (vagrant)|Sat, 26 Sep 2015 17:11:12 +0200|Sat, 26 Sep 2015 17:11:12 +0200
+6a19c6877f4b49864be9c88998efea94e87ac5a1|Ouverture des liens dans un onglet différent|Sat, 26 Sep 2015 16:38:08 +0200|Sat, 26 Sep 2015 16:38:08 +0200
+2210bdca921046a38fe1bb70c886d77a1a8ff8e5|Ajout d'un message en broadcast lors du deban|Sat, 26 Sep 2015 14:44:58 +0200|Sat, 26 Sep 2015 14:44:58 +0200
+f7a4bfb626a23d014648177479f61dc6445a19e4|Fix d'un bug avec le système de kick/ban|Sat, 26 Sep 2015 14:26:16 +0200|Sat, 26 Sep 2015 14:26:16 +0200
+add931187d432442b670a7c82c8605860b458e9e|Merge branch 'master' of bitbucket.org:mondediefr/nodechat-flarum|Sat, 26 Sep 2015 12:27:01 +0200|Sat, 26 Sep 2015 12:27:01 +0200
+c1f25cee7ea307eb147eada83a5c8f46e007edf9|Ajout d'un editeur markdown + système de kick/ban|Sat, 26 Sep 2015 12:24:59 +0200|Sat, 26 Sep 2015 12:24:59 +0200
+4730fb29989bde2c48bdb2b18af5d99015a3dd28|adding vagrant-hostmanager|Sat, 26 Sep 2015 03:57:58 +0200|Sat, 26 Sep 2015 03:57:58 +0200
+90c4b5d71c959e3c0564c73acf20192f8f0e54a6|improve config vagrant|Sat, 26 Sep 2015 03:32:02 +0200|Sat, 26 Sep 2015 03:32:02 +0200
+bfb69b3cf0830c3924f2f8a07620162f3e1b0c19|Ignorer les paquets TSD (TypeScript Definition)|Fri, 25 Sep 2015 23:35:49 +0200|Fri, 25 Sep 2015 23:35:49 +0200
+0930025bc1845e2709fb26d9f933f9169ff14208|fix previous commit (bower.json)|Fri, 25 Sep 2015 23:28:53 +0200|Fri, 25 Sep 2015 23:28:53 +0200
+f95a6552c8a7d1cc7d2dfc65e2f6884fe2def8fc|update bower.json|Fri, 25 Sep 2015 21:36:19 +0200|Fri, 25 Sep 2015 21:36:19 +0200
+23e1c8fd16a1d823950ae3ef3c1286518ee39e36|Fix du bug de duplication lors du redémarrage de l'instance|Fri, 25 Sep 2015 01:30:20 +0200|Fri, 25 Sep 2015 01:30:20 +0200
+bdd6e6bc24b72f9bbb485de306a9754fcdaf8154|Désactivation du cache des fichiers statiques|Tue, 22 Sep 2015 12:55:13 +0200|Tue, 22 Sep 2015 12:55:13 +0200
+ae4de87d3c254b13728a3d132993a675740e7dd3|Ajout d'une limite de caractères au niveau des messages|Mon, 21 Sep 2015 18:14:45 +0200|Mon, 21 Sep 2015 18:14:45 +0200
+a6bea4e7e49fcb4180eca1db47412421cc38c0df|Ajout d'un Heartbeat entre le client et le serveur|Mon, 21 Sep 2015 17:15:15 +0200|Mon, 21 Sep 2015 17:15:15 +0200
+ab3c22e12ec6d6ff55fe5160902cd941b2966724|Nettoyage du code|Mon, 21 Sep 2015 16:05:24 +0200|Mon, 21 Sep 2015 16:05:24 +0200
+5567620bea8a16c83b615fadf7993711a6c5d547|Fix d'un problème concernant les messages|Mon, 21 Sep 2015 15:32:29 +0200|Mon, 21 Sep 2015 15:32:29 +0200
+36c551381eeaba8a730e14b801658c9fd73607df|Refactor du schéma de la base de données|Mon, 21 Sep 2015 14:24:14 +0200|Mon, 21 Sep 2015 14:24:14 +0200
+c559953d9b0cceb0d3cd38d6c0cf4d052af6192a|Ajout du parser markdown (+ sanitize HTML et donc XSS)|Mon, 21 Sep 2015 01:38:58 +0200|Mon, 21 Sep 2015 01:38:58 +0200
+18724474d92a48219d66627a021ca42db2d1b22d|Modification de la config ssh de vagrant|Mon, 21 Sep 2015 00:09:47 +0200|Mon, 21 Sep 2015 00:09:47 +0200
+472bf73857a010fa3b15b06182106f0721749a9d|Provisioning du fichier known_hosts pour se clone le repo|Sun, 20 Sep 2015 23:52:40 +0200|Sun, 20 Sep 2015 23:52:40 +0200
+59b3923b038bf445787a6a9f9e2dc0ab0e069166|Suppression du chemin vers la clé ssh|Sun, 20 Sep 2015 22:13:24 +0200|Sun, 20 Sep 2015 22:13:24 +0200
+c419360cd084fae0c889b227244649c454020565|Modification de la configuration ssh de Vagrant|Sun, 20 Sep 2015 19:26:38 +0200|Sun, 20 Sep 2015 19:26:38 +0200
+596118f784681ecb699b952d1f52edbcd92bced0|Modification de l'url du dépôt|Sun, 20 Sep 2015 18:54:05 +0200|Sun, 20 Sep 2015 18:54:05 +0200
+2eb276edbf822bd371946a7d6ea579edbc3792b4|Suppression de deux variables d'env|Sun, 20 Sep 2015 18:19:51 +0200|Sun, 20 Sep 2015 18:19:51 +0200
+2c426e1bf3c1805b9ac7a87e9361d242771fbb0a|Un peu de nettoyage|Sun, 20 Sep 2015 18:18:22 +0200|Sun, 20 Sep 2015 18:18:22 +0200
+cd394b7c0209405ec984a3fbdb94837567a0bca1|Modification du readme|Sun, 20 Sep 2015 17:08:41 +0200|Sun, 20 Sep 2015 17:08:41 +0200
+12f507d02e3d291d4be0d50a27c5b4868a5ce99c|Démarrage de l'app avec pm2|Sun, 20 Sep 2015 16:54:18 +0200|Sun, 20 Sep 2015 16:54:18 +0200
+e6528a123906e1f030b31fcd19b34161b47aa2f5|Modification du fichier d'installation|Sun, 20 Sep 2015 16:48:24 +0200|Sun, 20 Sep 2015 16:48:24 +0200
+47dc851745bcfe602fc2605c957d7eaaec60371b|Ajout de Vagrant et Chef|Sun, 20 Sep 2015 16:46:20 +0200|Sun, 20 Sep 2015 16:46:20 +0200
+7e527a95c3fa61a9d393c82c440afb69b61bcada|Ajout d'une protection contre les messages vides|Sat, 19 Sep 2015 23:27:01 +0200|Sat, 19 Sep 2015 23:27:01 +0200
+c97cd58cf29f064435f0943d4edb3d9f8271ff13|Fix d'une faille XSS (noobz power -_-)|Sat, 19 Sep 2015 23:15:49 +0200|Sat, 19 Sep 2015 23:15:49 +0200
+53c07914f5e4304fdf833579da9f5ac47d6d83f1|Correction du système de notification|Sat, 19 Sep 2015 22:47:15 +0200|Sat, 19 Sep 2015 22:47:15 +0200
+cb25aed5b7f538d7142a5f5b24b299535db2c184|Correction d'un bug avec l'event 'already_connected'|Sat, 19 Sep 2015 21:15:38 +0200|Sat, 19 Sep 2015 21:15:38 +0200
+813d5923bf45100a164fc675346bcaf61748f140|Modification du readme et du port|Sat, 19 Sep 2015 20:15:25 +0200|Sat, 19 Sep 2015 20:15:25 +0200
+2bdb863a5b980fb1cdf680bd03ccd2982d75f9a2|Correction d'une erreur de syntaxe jade|Sat, 19 Sep 2015 19:40:25 +0200|Sat, 19 Sep 2015 19:40:25 +0200
+1eb041b927c4b489c973eedd2162cbb680c8d8ce|Ajout d'un menu déroulant + deconnexion|Sat, 19 Sep 2015 17:15:25 +0200|Sat, 19 Sep 2015 17:15:25 +0200
+fc7a90e49a2510d0895bcec85210014c5149b4e9|Stockage des sessions avec Redis|Sat, 19 Sep 2015 16:15:01 +0200|Sat, 19 Sep 2015 16:15:01 +0200
+f9f97635b44f3a9f9d158ab3ab9e878bb04c6e47|Modification du readme et avertissement à propos du cache|Sat, 19 Sep 2015 15:35:20 +0200|Sat, 19 Sep 2015 15:35:20 +0200
+7e1d869509f60a0a48c732d48fabdb1f39ee2bdd|Correction d'un problème de synchronisation|Sat, 19 Sep 2015 14:56:38 +0200|Sat, 19 Sep 2015 14:56:38 +0200
+9d0e788f2e2c1f6f3719f00ea202dabf8a0f041f|Fix chat.js|Sat, 19 Sep 2015 11:45:15 +0200|Sat, 19 Sep 2015 11:45:15 +0200
+51c911997aa971290d1b3003ce627ff87ab4f8e3|Ajout d'une notification en cas de nouveau message|Sat, 19 Sep 2015 11:39:04 +0200|Sat, 19 Sep 2015 11:39:04 +0200
+d994e4cbf2aa47b97ee2d3f3b3cf8c66b0d485b7|Modification du fuseau horaire|Fri, 18 Sep 2015 22:59:38 +0200|Fri, 18 Sep 2015 22:59:38 +0200
+408a33d8081e26d5bd347f35973aeadabb448535|Ajout de l'avatar|Fri, 18 Sep 2015 22:32:58 +0200|Fri, 18 Sep 2015 22:32:58 +0200
+91db5fd99f89500ee0ffd3e112d1e2b6f96fc9b4|Ajout d'un avatar par défaut|Fri, 18 Sep 2015 22:25:46 +0200|Fri, 18 Sep 2015 22:25:46 +0200
+4c3e0df016470349b64e4c23c75c4e0aa731da80|Stockage des messages du bot|Fri, 18 Sep 2015 21:03:16 +0200|Fri, 18 Sep 2015 21:03:16 +0200
+016cd087159da7bce85afcb12c6bab531e041ba9|Stockage des message avec redis|Fri, 18 Sep 2015 19:52:35 +0200|Fri, 18 Sep 2015 19:52:35 +0200
+f7888327d629e37b8099cf990b366c1437f3de25|Fermeture de la connexion à redis après chaque req|Thu, 17 Sep 2015 21:37:04 +0200|Thu, 17 Sep 2015 21:37:04 +0200
+e5fd6514f59591494c4bd3d03b6adc140867e8de|Fix de l'url de l'avatar|Thu, 17 Sep 2015 18:48:06 +0200|Thu, 17 Sep 2015 18:48:06 +0200
+deaa58718a0e4a82d78b229798eca76e01b1aff0|Implémentation de la liste des utilisateurs connectés avec Redis|Thu, 17 Sep 2015 18:31:34 +0200|Thu, 17 Sep 2015 18:31:34 +0200
+d75f06e33d7507bf4963d0204731b0af48277441|Suppression préventive|Mon, 14 Sep 2015 21:27:47 +0200|Mon, 14 Sep 2015 21:27:47 +0200
+8659af0b5ca77cf791113c6f47a0bda32ae5a9df|Fix user list (2nd round)|Sun, 13 Sep 2015 23:32:57 +0200|Sun, 13 Sep 2015 23:32:57 +0200
+5544d4d060758890fc5b044800ffb8ae0e5110a8|Fix user list bug|Sun, 13 Sep 2015 19:57:04 +0200|Sun, 13 Sep 2015 19:57:04 +0200
+96156010e07869f8ec14a4e63f918c7151b556eb|Convert special characters to HTML entities|Sun, 13 Sep 2015 16:25:48 +0200|Sun, 13 Sep 2015 16:25:48 +0200
+032b42c3593956b1a968d094b16a990e5b3f8b5b|Merge branch 'master' of bitbucket.org:mondediefr/nodechat-flarum|Sun, 13 Sep 2015 16:04:43 +0200|Sun, 13 Sep 2015 16:04:43 +0200
+e1380d220629878e84d177d42a35fb7c833384ed|Correction de la liste des utilisateurs connectés|Sun, 13 Sep 2015 16:04:08 +0200|Sun, 13 Sep 2015 16:04:08 +0200
+52e5302955cbc5266b6970864f5fa43bcff6af00|Merge branch 'master' of https://bitbucket.org/mondediefr/nodechat-flarum|Sun, 13 Sep 2015 15:15:33 +0200|Sun, 13 Sep 2015 15:15:33 +0200
+d15b6f4d4b3ade28c63d641e2518252b5347a053|Ajout de l'avatar a coté du user|Sun, 13 Sep 2015 15:06:31 +0200|Sun, 13 Sep 2015 15:13:59 +0200
+eb57a8715a7867c56becadeed62921ad9ed059cb|Ajout de l'avatar a coté du user|Sun, 13 Sep 2015 15:06:31 +0200|Sun, 13 Sep 2015 15:06:31 +0200
+7e3c32dc55ed122e0630d130591954fb6f71888e|Reduice img in message|Sun, 13 Sep 2015 14:45:30 +0200|Sun, 13 Sep 2015 14:45:30 +0200
+90cd8aa1c1354a907b61d6794731f211b4731fe7|Add node-xss for xss hack|Sun, 13 Sep 2015 13:39:47 +0200|Sun, 13 Sep 2015 13:39:47 +0200
+32ed37f087e33ac88eaffc9723f58df7a0c27984|Ajout de la couleur + nettoyage|Sun, 13 Sep 2015 12:35:15 +0200|Sun, 13 Sep 2015 12:35:15 +0200
+3e059559ce3528932b17fa52210d29246cbe9e31|Ajout de la date|Sun, 13 Sep 2015 12:07:20 +0200|Sun, 13 Sep 2015 12:07:20 +0200
+bbbb59a4b478c049f4c72c66c4c233d3cf6051ae|Modification du package.json|Sun, 13 Sep 2015 11:26:41 +0200|Sun, 13 Sep 2015 11:26:41 +0200
+d81b78967bdf1fe5a42683b8df2145c9cdf1b2ec|Modification du .gitignore|Sun, 13 Sep 2015 11:21:29 +0200|Sun, 13 Sep 2015 11:21:29 +0200
+3dadd5268c826857a658de2389626662cafdd42d|Ajout du partage de la session entre socket.io et express|Sun, 13 Sep 2015 11:17:28 +0200|Sun, 13 Sep 2015 11:17:28 +0200
+98317ab92a7ffbd4410d6259aeb38bcffc95b410|README.md edited online with Bitbucket|Sun, 13 Sep 2015 07:21:54 +0000|Sun, 13 Sep 2015 07:21:54 +0000
+7226fabfc50717e382c0d301c2327c2f2b41a087|Ajout d'une dépendance|Sat, 12 Sep 2015 22:29:21 +0200|Sat, 12 Sep 2015 22:29:21 +0200
+6278471352112479d45812941f480e6a086d0a86|Ajout de la tâche heroku prod et modification du package.json|Sat, 12 Sep 2015 22:21:30 +0200|Sat, 12 Sep 2015 22:21:30 +0200
+6f0ab802e230361ab78fd2576d940cade938809d|Initial commit|Sat, 12 Sep 2015 22:05:58 +0200|Sat, 12 Sep 2015 22:05:58 +0200

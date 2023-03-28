@@ -1,0 +1,1037 @@
+81cbcd3f11a513b9626b17dcc63d044ceeb86b62|Remove un-necessary internal promise creation from handler|Mon, 27 Mar 2023 23:49:31 +0200|Mon, 27 Mar 2023 23:49:31 +0200
+6c8fe5abc0d4e2bbc924bec4c6851ba27177ccac|OracleDriver.newPool shall return OraclePool type|Fri, 24 Mar 2023 18:29:01 +0100|Fri, 24 Mar 2023 18:29:51 +0100
+6236b0cbd792d17dbf0d641e34e0b529634d2d30|Implement cursors / streaming (#1293)|Fri, 24 Mar 2023 17:56:54 +0100|Fri, 24 Mar 2023 17:56:54 +0100
+2abe4964f6081bd43948c3b681f9e6ded76e69c3|Oracle RxJava bindings added in 4.3|Fri, 24 Mar 2023 17:20:26 +0100|Fri, 24 Mar 2023 17:20:26 +0100
+838a066409a52826bd053784c819edaf04d0a17a|Dynamic connection provider documentation (#1292)|Wed, 22 Mar 2023 15:12:06 +0100|Wed, 22 Mar 2023 15:17:23 +0100
+1cfc1bc4b12beb4491cdc2c6203844af86bef4d7|Remove remaining callback|Thu, 16 Mar 2023 18:15:17 +0100|Thu, 16 Mar 2023 18:15:17 +0100
+a306add8603e2fc40d6f68396d718120b4c1afbe|Remove callback methods and use only futures|Thu, 16 Mar 2023 09:19:09 +0100|Thu, 16 Mar 2023 09:38:00 +0100
+43b0992ca2943af9d6d79c691a6ed216ac89f169|Fix JNA scope to test|Tue, 14 Mar 2023 18:50:44 +0100|Tue, 14 Mar 2023 18:50:44 +0100
+963aa521c1948ff1d7bbf894316afb5a1df56b8a|DB2 client: avoid System.out logging|Mon, 13 Mar 2023 16:15:45 +0000|Tue, 14 Mar 2023 10:03:01 +0100
+50dc506acb1e961bed602a7ace5a7c3ea8a661a9|Update CI to correctly checkout a PR|Mon, 13 Mar 2023 23:35:14 +0100|Mon, 13 Mar 2023 23:35:14 +0100
+5640164f4b87229b838dbe668f2292e225e05d62|Merge pull request #1286 from eclipse-vertx/remove-callback-usage|Mon, 13 Mar 2023 13:32:33 +0100|Mon, 13 Mar 2023 13:32:33 +0100
+807ca6c520992717b8cfdfdf95067b064b10cabc|Remove callback usage in tests|Mon, 13 Mar 2023 13:16:41 +0100|Mon, 13 Mar 2023 13:23:10 +0100
+98a435dca381f2de3ed4d60166f2767b8d426de3|Remove callbase usage in implementation|Sun, 12 Mar 2023 22:40:47 +0100|Mon, 13 Mar 2023 13:08:32 +0100
+0934c803c0d283899589bca029b326ba42311554|Remove callback usage from examples|Sun, 12 Mar 2023 22:28:58 +0100|Mon, 13 Mar 2023 13:08:23 +0100
+6577aabd0b5f2f6707789d901ebb783e6dd65a42|Revert "Remove callback usage from examples"|Mon, 13 Mar 2023 12:56:43 +0100|Mon, 13 Mar 2023 12:56:43 +0100
+e531268de4e583183623dd94339644c0defa601f|Revert "Remove callbase usage in implementation"|Mon, 13 Mar 2023 12:56:36 +0100|Mon, 13 Mar 2023 12:56:36 +0100
+d34a2744e488584914256f7e08e941f80254813e|Revert "Remove callback usage in tests"|Mon, 13 Mar 2023 12:56:29 +0100|Mon, 13 Mar 2023 12:56:29 +0100
+306bcebb03679d174c996e1bdaae9e0222b505ed|Bump test libraries so it works on Apple Silicon|Mon, 13 Mar 2023 12:53:42 +0100|Mon, 13 Mar 2023 12:53:42 +0100
+390f4087b069accabc86c24b5d996a6ad886b645|Remove callback usage in tests|Sun, 12 Mar 2023 23:59:27 +0100|Mon, 13 Mar 2023 00:17:40 +0100
+53b09aef2ceb8b251a4d5faa9bf8fee37b5ad143|Remove callbase usage in implementation|Sun, 12 Mar 2023 22:40:47 +0100|Sun, 12 Mar 2023 22:40:47 +0100
+dcef9e6499cb325519208d5fddb4f498fc27b8c7|Remove callback usage from examples|Sun, 12 Mar 2023 22:28:58 +0100|Sun, 12 Mar 2023 22:33:20 +0100
+5c3ac73e1787e545099d711fa782d40b72a6ac5b|More meaningfull name|Wed, 8 Mar 2023 08:47:18 +0100|Wed, 8 Mar 2023 08:47:18 +0100
+730ab99473ac09c221b9f3c0d06d27deaa0dbb99|Update README CI badges|Tue, 7 Mar 2023 18:26:03 +0100|Tue, 7 Mar 2023 18:26:03 +0100
+e67838bf55c2a54d7f8be3a2b666e82578c7ac31|Fix invalid job identifier in CI|Tue, 7 Mar 2023 16:25:35 +0100|Tue, 7 Mar 2023 16:25:35 +0100
+f26a04cf9d9ab509aa61a215a3a648446d7c40e9|Need to specifically deploy Oracle client with Java 17|Tue, 7 Mar 2023 16:24:15 +0100|Tue, 7 Mar 2023 16:24:15 +0100
+1fe0a832f0ff3dcad67182f1050c57a84296777c|Deployment should require CI to pass|Tue, 7 Mar 2023 16:09:27 +0100|Tue, 7 Mar 2023 16:09:27 +0100
+1c13b2d0e88558698dc6f339ca1e1c047e562059|Fix CI trigger scripts|Tue, 7 Mar 2023 16:06:31 +0100|Tue, 7 Mar 2023 16:06:31 +0100
+c17a4cbc352abd39c7fe59ca20dd90dfa842333a|Decouple deploy from ci|Tue, 7 Mar 2023 15:59:55 +0100|Tue, 7 Mar 2023 15:59:55 +0100
+8050ff486e272cb6fef80123c47346e07cb69246|Try back oracle|Tue, 7 Mar 2023 15:43:40 +0100|Tue, 7 Mar 2023 15:47:28 +0100
+fa283e81e8ada58918905b9b7d8c40ea2ad67325|Remove oracle testing for now|Tue, 7 Mar 2023 15:37:47 +0100|Tue, 7 Mar 2023 15:37:47 +0100
+d528e5ddac49acac4e105b1bb94e5790bd770afc|Remove oracle testing for now|Tue, 7 Mar 2023 15:35:53 +0100|Tue, 7 Mar 2023 15:35:53 +0100
+72ac279d3a18e5cd5cbaf40a19f9ecba4e634f17|Toolchain should target 17 instead of 11 now|Tue, 7 Mar 2023 15:26:55 +0100|Tue, 7 Mar 2023 15:26:55 +0100
+d027111403cccae5fba028f16ae555ae003cea26|Toolchain should target 17 instead of 11 now|Tue, 7 Mar 2023 15:19:32 +0100|Tue, 7 Mar 2023 15:19:32 +0100
+4598b8df28adc118e8539810316a0a36b01df5ba|Toolchain should target 17 instead of 11 now|Tue, 7 Mar 2023 15:11:25 +0100|Tue, 7 Mar 2023 15:11:25 +0100
+a2c1ded9301d9cfed690444c9c7b743e02112dab|Fix incorrect CI profile|Tue, 7 Mar 2023 15:07:44 +0100|Tue, 7 Mar 2023 15:07:44 +0100
+e0a09111dcd732c1494553fab6fc1c3fb87ddff8|Update CI to nightly builds|Tue, 7 Mar 2023 15:06:02 +0100|Tue, 7 Mar 2023 15:06:02 +0100
+a85a00270bc96b3fd140aeaef9fe4177c8d97c23|Deprecate callback methods|Fri, 3 Mar 2023 14:46:00 +0100|Fri, 3 Mar 2023 14:56:06 +0100
+4966aa6d6c59217fd47133cad1f16b6b173eb0f2|Set version to 5.0.0-SNAPSHOT|Wed, 1 Mar 2023 15:57:42 +0100|Wed, 1 Mar 2023 15:57:42 +0100
+fe5d51f1a0eaa267c1ca66e1f70a655bb63fc84f|Releasing 4.4.0|Wed, 1 Mar 2023 15:14:53 +0100|Wed, 1 Mar 2023 15:14:53 +0100
+883a144f37c848a5bdea785aff89602d4650dfeb|The new withTransaction method should be a default method so the JDBC implementation does not need to implement it|Tue, 28 Feb 2023 16:50:57 +0100|Tue, 28 Feb 2023 16:50:57 +0100
+8b28a020614fcc50fff7734a4876c52dc80182a8|Merge pull request #1231 from technical-debt-collector/master|Tue, 28 Feb 2023 15:38:42 +0100|Tue, 28 Feb 2023 15:38:42 +0100
+cad7a739ade143ee1a46deccade195555eb78412|Exceptions improvements (#1275)|Wed, 22 Feb 2023 18:37:43 +0100|Wed, 22 Feb 2023 18:37:43 +0100
+4583b09b00aeba240ff433d278adf7a12f22aad3|Point to the correct documentation - fixes #1280|Fri, 17 Feb 2023 09:27:32 +0100|Fri, 17 Feb 2023 09:27:32 +0100
+e1729af8ea336dfdff69d18a478e5a3ea063702f|Update to SSLHelper changes|Tue, 7 Feb 2023 15:15:36 +0100|Tue, 7 Feb 2023 15:15:36 +0100
+76c6083ebce9670c55c5b91fa006bbb4bf5dcf8c|DB2 Client documentation uses wrong parameter placeholder|Fri, 3 Feb 2023 17:14:16 +0100|Fri, 3 Feb 2023 17:14:16 +0100
+54d1bdd131fc596d58c0636e5d11a7267523e0c6|Rename enum to TransactionPropagation|Wed, 25 Jan 2023 17:18:38 +0100|Wed, 25 Jan 2023 17:18:38 +0100
+49be6febf1e22a34f1fdffc57bb6b3d80aa3a051|Doc: Row / Tuple indexes start at 0, not at 1 (#1271)|Fri, 13 Jan 2023 18:19:56 +0100|Fri, 13 Jan 2023 18:19:56 +0100
+969cf873045d010f0255d298e515c8b52e951836|MSSQL fix converting DB decimal type to java BigDecimal (#1267)|Thu, 5 Jan 2023 16:40:16 +0100|Thu, 5 Jan 2023 16:40:16 +0100
+e5b25517d4baafa15b456943b7717e2ebc55bd9d|Update to the latest SSLHelper changes|Mon, 19 Dec 2022 09:21:34 +0100|Mon, 19 Dec 2022 09:21:34 +0100
+361bf393b20456e12a86ceff60ded973b66bed1b|Update docs: client is reactive and non-blocking|Fri, 16 Dec 2022 16:08:33 +0100|Fri, 16 Dec 2022 16:08:33 +0100
+f98cfd1d6f2bf9d5ff64461a1ca89bdef9ab6d98|Upgrade Oracle JDBC to 21.7.0.0 (#1264)|Wed, 30 Nov 2022 11:04:15 +0100|Wed, 30 Nov 2022 11:04:15 +0100
+cd24b8c55feda9568b3c8e40c9d747fa0d09369e|Upgrade Oracle Database to 21c (See: #1263) (#1263)|Wed, 30 Nov 2022 10:03:54 +0000|Wed, 30 Nov 2022 11:03:54 +0100
+dd7ad9153ef97197b28aa7f9a247098c980aea3c|Verify cached PreparedStatement can be reused when a param was initially set to null (#1262)|Tue, 29 Nov 2022 17:01:15 +0100|Tue, 29 Nov 2022 17:01:15 +0100
+f6e4dd85c8d985d44c3235529f95091dde1a3032|Fixed typo in MS SQL doc|Tue, 29 Nov 2022 16:14:51 +0100|Tue, 29 Nov 2022 16:14:51 +0100
+ea71f5d9e11f3f964009974896db643a90b2243d|MSSQL: tck collector test was missing (#1261)|Tue, 29 Nov 2022 11:39:40 +0100|Tue, 29 Nov 2022 11:39:40 +0100
+d2294d2103384236b1783b8b71db7a6170c32cbc|Set version to 4.4.0-SNAPSHOT|Fri, 18 Nov 2022 01:05:13 +0100|Fri, 18 Nov 2022 01:05:13 +0100
+904d7310dd671fab704cfbb6b96fe39c47fbddb3|Releasing 4.3.5|Fri, 18 Nov 2022 01:04:32 +0100|Fri, 18 Nov 2022 01:04:32 +0100
+d00b8ae2ff8d915854b9ded53802b07a70a325ff|Do not send MySQL batches at once if pipelining is disabled (#1257)|Wed, 16 Nov 2022 11:42:48 +0100|Wed, 16 Nov 2022 11:42:48 +0100
+2e09f594adbd30d6ec07521495f149351bbdcc8e|Document MySQL cursor API limitation with ProxySQL (#1259)|Tue, 15 Nov 2022 21:40:33 +0100|Tue, 15 Nov 2022 21:40:33 +0100
+a985c7e1921e22e4c5892f6024d1344e31313d9b|Merge pull request #1252 from Sanne/typePollution|Mon, 14 Nov 2022 14:09:25 +0100|Mon, 14 Nov 2022 14:09:25 +0100
+fec314bb3cdb65556873b4d8cc704bc3d4d40cc0|Converted TupleInternal from interface to abstract class|Wed, 9 Nov 2022 12:00:48 +0000|Wed, 9 Nov 2022 12:00:48 +0000
+d4a3edab2acdc594cc5e4338e9d0d713d4e4cacf|Type cache pollution: consistently check for TupleInternal instead of Tuple type compatibility|Mon, 7 Nov 2022 11:05:34 +0000|Mon, 7 Nov 2022 15:00:40 +0000
+356d134b0e436647cb9ef6e105cf153a64b62431|Some OracleConnectOptions methods must be annotated with @GenIgnore|Thu, 20 Oct 2022 18:01:06 +0200|Thu, 20 Oct 2022 18:01:06 +0200
+2cfa9b3ad78c47093f75eab3348b6704c8560a5b|Revert Buffer slice() call replacement in SQL Clients where it makes sense (no overlap between slices) (#1244)|Fri, 14 Oct 2022 19:04:32 +0200|Fri, 14 Oct 2022 19:04:32 +0200
+efb9927f620c0da04e8bb3662a34dbed4cb02486|Documentation for Oracle Client Encryption setup (#1242)|Tue, 4 Oct 2022 11:32:56 +0200|Tue, 4 Oct 2022 11:32:56 +0200
+2f75f29ba0e769c0a2924d2b61b7dc998ccf8db1|Releasing 4.3.5-SNAPSHOT|Fri, 30 Sep 2022 12:14:42 +0200|Fri, 30 Sep 2022 12:14:42 +0200
+fd329cbff59a8617c92270bc380db73683ebacef|Releasing 4.3.4|Fri, 30 Sep 2022 10:12:53 +0200|Fri, 30 Sep 2022 10:12:53 +0200
+c7e2543052106366e0c20333250fae94799ef007|Merge pull request #1237 from tsegismont/sql-client-improvements|Thu, 29 Sep 2022 09:06:45 +0200|Thu, 29 Sep 2022 09:06:45 +0200
+50497aba3a82c14d3f264d049d3c09d967c980e3|Rename method, add missing header, javadoc|Wed, 28 Sep 2022 22:31:40 +0200|Wed, 28 Sep 2022 22:31:40 +0200
+92492cc7bc53901429f6cf5fdc5aef34e1b91bee|Removed redundant use of ReferenceCountUtil|Tue, 27 Sep 2022 17:59:35 +0200|Tue, 27 Sep 2022 17:59:35 +0200
+2c619c672a0ae5c601b55dff1a40cad0990baca6|Get rid of ByteBuf slice / retainedSlice calls|Tue, 27 Sep 2022 17:34:29 +0200|Tue, 27 Sep 2022 17:56:02 +0200
+edb479f89778016b54ac0b576d26a33d1ace56b0|Rollback to ArrayListRowAccumulator|Tue, 27 Sep 2022 10:25:31 +0200|Tue, 27 Sep 2022 17:56:02 +0200
+7c28f6859cd8a39b36bb39c058bb5ff96cd10e01|Apply RowDesc improvements to all clients|Tue, 27 Sep 2022 10:20:17 +0200|Tue, 27 Sep 2022 17:56:02 +0200
+36574ee1805f9067342d01421dbe9a4a80e8c16d|Remove redundant slice calls in MySQLDecoder|Fri, 23 Sep 2022 18:07:10 +0200|Fri, 23 Sep 2022 18:07:10 +0200
+97039b662b73531fd398055acf2a8e8e14b408f0|Improve RowAccumulator benchmarks|Fri, 23 Sep 2022 16:56:58 +0200|Fri, 23 Sep 2022 16:56:58 +0200
+3d28b7d1ccd7e0faf8c6d1a746973aab245403a4|PropertyKindMap key comparison: use identity before equality|Fri, 23 Sep 2022 16:21:15 +0200|Fri, 23 Sep 2022 16:21:15 +0200
+8620798d34eb9f84942f2a13f78bfa33d3d4831d|Get rid of computed count in PropertyKindMap|Fri, 23 Sep 2022 16:10:06 +0200|Fri, 23 Sep 2022 16:10:06 +0200
+336ca94351fba8d3e234893832e7453ff33b3133|Rename Accumulator to RowAccumulator|Fri, 23 Sep 2022 15:51:54 +0200|Fri, 23 Sep 2022 15:51:54 +0200
+bfad1118c236c3ef609ed9af2fa1a788bac3b84c|Comment about ColumnDefinition decoding|Fri, 23 Sep 2022 15:48:37 +0200|Fri, 23 Sep 2022 15:48:37 +0200
+85370c1eaa4912999ea62e2400c90d43c3fdecea|Make MySQLRowDesc columnDefinitions private|Fri, 23 Sep 2022 15:45:45 +0200|Fri, 23 Sep 2022 15:45:45 +0200
+1d9c859ff5b252a8316b4e5005482cc176743881|MySQLRowDesc: faster column lookups|Thu, 22 Sep 2022 19:19:18 +0200|Thu, 22 Sep 2022 19:19:18 +0200
+0ba8d5803837886f6440f8ff9ef970681295e845|Use PropertyKindMap to store result properties|Thu, 22 Sep 2022 11:43:18 +0200|Thu, 22 Sep 2022 16:15:11 +0200
+af17d93b093706f0613e2e4919589371e16791b0|Make sure column name lookup is fast and does not create iterators|Thu, 22 Sep 2022 10:36:21 +0200|Thu, 22 Sep 2022 16:15:07 +0200
+7e16769a827a3820948460c68e5a15ea2e46a8dc|RowSetImpl: only two types of RowIterator is more JIT-friendly|Wed, 21 Sep 2022 14:53:07 +0200|Wed, 21 Sep 2022 14:54:04 +0200
+3219bca202210c22984125e9bbf025d8d5fa45fd|MySQLDecoder: remove redundant ByteBufAllocator field|Wed, 21 Sep 2022 14:30:04 +0200|Wed, 21 Sep 2022 14:54:04 +0200
+8a57cd5ed418e0185f0a8991f1d6d9fc0487c679|MySQL: reduce skipBytes invocations in decodeColumnDefinitionPacketPayload|Wed, 21 Sep 2022 14:26:22 +0200|Wed, 21 Sep 2022 14:54:04 +0200
+cf1da8a1652f5d1cefaec7c17cd892bfbb4d1448|Bound checks are redundant in MySQLRowDesc|Wed, 21 Sep 2022 12:17:40 +0200|Wed, 21 Sep 2022 14:53:58 +0200
+42b6d2ae098c4c95b6783cb1328e5b072de5a600|Introduce Accumulator data structure|Wed, 14 Sep 2022 15:19:27 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+d0b7db2bc1fc7a1a8275ec3400b8ab6a2eb05a91|Do not create list in RowSetImpl if database returns no rows or a single row|Wed, 14 Sep 2022 15:15:25 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+77a44f783aa8a20c82466ec41d58d776c81b3793|Decode MySQL protocol without using sliced buffers|Tue, 6 Sep 2022 16:30:36 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+b857f40ded46cc87299f74b0e702daa0bd991444|Do not decode MySQL column or param definition strings|Fri, 2 Sep 2022 18:11:13 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+0ea3f3b2fd62200e7c855a8caaa52e23146b0a24|Remove unnecessary array copies in MySQLRowDesc|Fri, 2 Sep 2022 17:12:44 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+5468af7eb6f776e5db624fe5f327b267647c5349|Optimize MySQL OKPacket decoding|Fri, 2 Sep 2022 16:51:04 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+ab5903d29285ba62cc22ee1f126220198df8bfbf|QueryResultBuilder properties map optimization|Fri, 2 Sep 2022 16:21:06 +0200|Tue, 20 Sep 2022 19:18:53 +0200
+39587558fa28be338fb199f52d77ca9064c4e97e|Fixes to MySQL pipelining (#1236)|Tue, 20 Sep 2022 19:18:01 +0200|Tue, 20 Sep 2022 19:18:01 +0200
+c70bab663a38e9f638a74e1384d799d849c79772|Add limits for nofile to MySQLRule (#1238)|Tue, 20 Sep 2022 18:55:28 +0200|Tue, 20 Sep 2022 18:55:28 +0200
+c47516a0aeeec21de882c64903944f9f877367ee|Define modes for withTransaction, rename withPropagatedTransaction, adhere to code style guidelines|Mon, 19 Sep 2022 23:55:20 +0200|Mon, 19 Sep 2022 23:55:20 +0200
+1ec3edc36cc34a523726f5577eb783e2738639e0|Updates following up to eclipse-vertx/vert.x#4468 (#1233)|Fri, 16 Sep 2022 16:46:45 +0200|Fri, 16 Sep 2022 16:46:45 +0200
+777604a9d15fee62c119224383fbf9552ae3f1e2|Associate futures under propagated connection handling with the current context|Tue, 13 Sep 2022 10:04:55 +0200|Tue, 13 Sep 2022 10:04:55 +0200
+db554f0bdfb47a8b4f7c6502e933d2e7762e4b15|Use current context, store connection locally|Mon, 12 Sep 2022 23:27:36 +0200|Mon, 12 Sep 2022 23:27:36 +0200
+2ea0ee80dd4bab7c7cd33f1e5b979ef0a1ad027f|Simplify handling of propagated connections, place connection in context|Sun, 11 Sep 2022 14:18:42 +0200|Sun, 11 Sep 2022 14:18:42 +0200
+bf4690de98ae5cf4687ce63712638651c1871f01|Create propagatable connection, add Transaction accessor|Thu, 8 Sep 2022 23:13:12 +0200|Thu, 8 Sep 2022 23:13:12 +0200
+45983da6dc7b7fb675e31de159f7d27225a08230|mysql client should retry to establish an unsecured connection when failing to complete the SSL handshake in PREFERRED SSL mode (#1229)|Tue, 30 Aug 2022 23:27:23 +0800|Tue, 30 Aug 2022 17:27:23 +0200
+492849769f009c2d34ecbe635d931c867f4a9c16|mysql client clear text authentication password should end with a 0x00 byte (#1216)|Tue, 30 Aug 2022 22:25:14 +0800|Tue, 30 Aug 2022 16:25:14 +0200
+2a046911a5146bf3e157304a0d793c39572a3f48|These versions are controlled by vertx-dependencies import in parent and are not required, also the jackson version was set to 2.10.2 and the one managed in the BOM is 2.13.2.20220324|Fri, 19 Aug 2022 10:26:23 +0100|Fri, 19 Aug 2022 11:46:31 +0200
+e10806d309897dc6ff4c4ed3a5ac6571b187869b|Fix wrong javadoc (#1227)|Wed, 17 Aug 2022 00:37:53 +0800|Tue, 16 Aug 2022 18:37:53 +0200
+39f9cedefe6cebfeba9e2dc82d9652bab3636cff|Set version to 4.3.4-SNAPSHOT|Tue, 9 Aug 2022 08:11:35 +0200|Tue, 9 Aug 2022 08:11:35 +0200
+a761ea4910559156fdb59914f03bde0921ae7ed8|Releasing 4.3.3|Tue, 9 Aug 2022 07:45:42 +0200|Tue, 9 Aug 2022 07:45:42 +0200
+42a81c57870707e0b17587cf46aa83ba9a3438cb|Merge pull request #1224 from tsegismont/mssql_info|Tue, 9 Aug 2022 07:35:12 +0200|Tue, 9 Aug 2022 07:35:12 +0200
+4e5fec9a0cf30f45caa1e72aa635c7d703b3cf16|Missing toJson method in MSSQLInfo|Mon, 8 Aug 2022 23:24:19 +0200|Mon, 8 Aug 2022 23:24:19 +0200
+88872b040b1ab29193d52b8b6ab13b0ff6980c84|Log MSSQL INFO token content or let users handle it|Mon, 8 Aug 2022 23:14:15 +0200|Mon, 8 Aug 2022 23:14:15 +0200
+c6b38d710e421c5696f5200b7f73910f8dc14fda|Enable MS SQL testInflightCommandsFailWhenConnectionClosed|Mon, 8 Aug 2022 19:02:46 +0200|Mon, 8 Aug 2022 19:02:46 +0200
+d896dba088d2f545ad9c1f6f16670e9026bc0d4f|MSSQL failure when using streaming on non cursor-friendly statements (#1222)|Mon, 8 Aug 2022 11:19:15 +0200|Mon, 8 Aug 2022 11:19:15 +0200
+bc5627aa5fbb3152bf8e43ddb3ffd3f8fa8041b9|Do not mix Future terminal operations with other operations (#1221)|Tue, 2 Aug 2022 19:01:32 +0200|Tue, 2 Aug 2022 19:01:32 +0200
+f7354c601afa22f0ac752c30d3835bb353a61b2a|Releasing 4.3.3-SNAPSHOT|Wed, 6 Jul 2022 14:19:42 +0200|Wed, 6 Jul 2022 14:19:42 +0200
+d88684bcecd91b063678cd05eeb508a8c8963439|Releasing 4.3.2|Wed, 6 Jul 2022 10:52:39 +0200|Wed, 6 Jul 2022 10:52:39 +0200
+c4572f3c1a89131c0061188048792a3e6902bbe6|Improve doc about connection URI configuration (#1211)|Tue, 5 Jul 2022 22:07:57 +0200|Tue, 5 Jul 2022 22:07:57 +0200
+6fdd6a43eaeed1a6e5a3c9e0d159036dc1c6f5cc|Oracle doc: use EZConnect URI Format|Mon, 4 Jul 2022 15:21:45 +0200|Mon, 4 Jul 2022 15:21:45 +0200
+1275189a58b873b3050fcc79ff59a0ff63ae9210|throw ClassCastException if enum value is instance of another class|Mon, 23 May 2022 20:45:13 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+81c6d21ad67f0e2dc2ca7420ee71e80c95694c57|update test case|Mon, 23 May 2022 17:30:57 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+a2edcda7ac4b27b39705b487c0ffce687db019d6|throw exception if value is instance of another class|Mon, 23 May 2022 17:21:07 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+4356666cab90c9462d73a06520b43709024fc048|add Copyright header|Mon, 23 May 2022 17:03:34 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+5dfdfd109273e15ba73b92241ae97328e55e3f6b|return null when row contains null enum value|Mon, 23 May 2022 16:57:31 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+75ee2e4ad73d0fcf736efd80f5ea4569b72f898a|fix typo|Mon, 23 May 2022 16:56:04 +0700|Wed, 22 Jun 2022 10:45:37 +0200
+57162efb5e06a7e9301cd6a03e593cd7390aa3fc|Fixing z/os support and updating some related tests|Tue, 21 Jun 2022 22:30:03 -0500|Wed, 22 Jun 2022 10:25:03 +0200
+6cb61af8da2aa1f0a8a10b3c10d1eaac63919a9a|NPE when MSSQL query fails to be prepared for streaming (#1202)|Mon, 13 Jun 2022 21:05:29 +0200|Mon, 13 Jun 2022 21:05:29 +0200
+bd7e7ff50eac12be8a549645725deedd9bd88d5a|Make sure no cursors are left open when starting a transaction (#1198)|Wed, 8 Jun 2022 17:34:47 +0200|Wed, 8 Jun 2022 17:34:47 +0200
+45979e0ac7050f5c27f40d27b6bb64b3bb293f9d|Support options parameter in PostgreSQL url format - fixes #1197|Thu, 2 Jun 2022 10:21:20 +0200|Thu, 2 Jun 2022 10:24:53 +0200
+47a0bf6d3d93edd1f8fc4f0dbc49441d928e9304|Added NOTE for CockroachDB DBaaS configuration|Wed, 1 Jun 2022 15:45:00 -0400|Thu, 2 Jun 2022 10:21:11 +0200
+ed020474fabf15c2cc38b34a9c3d128908558a61|Implement a notice handler to handle notice messages sent by the database. When a notice is received, it will be logged on the console like previously or consumed by the handler.|Tue, 31 May 2022 10:09:05 +0200|Tue, 31 May 2022 10:30:13 +0200
+01b6d12277d86404b4f28b736488d876cb463965|Releasing 4.3.2-SNAPSHOT|Wed, 25 May 2022 09:45:55 +0200|Wed, 25 May 2022 09:45:55 +0200
+cb261ee4d2faaa5667e408b50964a30578eb4cfb|Releasing 4.3.1|Wed, 25 May 2022 09:01:33 +0200|Wed, 25 May 2022 09:01:33 +0200
+0b0c76e7d4ee1a6ce7e04e33e0fa19c881815899|Implement Oracle binary types encoding and decoding (#1192)|Tue, 24 May 2022 23:06:43 +0200|Tue, 24 May 2022 23:06:43 +0200
+8f4e11e9e51fe3f011af043f1b353804e28a5387|Turn off auto-generated keys retrieval by default. (#1193)|Tue, 24 May 2022 21:31:14 +0200|Tue, 24 May 2022 21:31:14 +0200
+2e4e44d413e4132db4206d836ce20ce62f0844a8|Offload Oracle row decoding to the worker pool (#1191)|Mon, 23 May 2022 15:34:13 +0200|Mon, 23 May 2022 15:34:13 +0200
+c9ee6a0f8ed9e0f403931336a76df182d5a35599|MSSQL Doc: remove note about data type not supported|Thu, 19 May 2022 16:52:59 +0200|Thu, 19 May 2022 16:52:59 +0200
+16bee767fd51a7c3d2a3913b6550a1f831d484ef|Set version to 4.3.1-SNAPSHOT|Wed, 11 May 2022 13:58:43 +0200|Wed, 11 May 2022 13:58:43 +0200
+bb242890c623566fe8d050e169b1987ac50fa1b9|Releasing 4.3.0|Wed, 11 May 2022 12:03:51 +0200|Wed, 11 May 2022 12:03:51 +0200
+dd5f40fc45a7fbc32d3d9510b02b3a90ef1e29f2|Improve pipelining documentation for PG and MySQL|Tue, 10 May 2022 14:33:13 +0200|Tue, 10 May 2022 14:33:13 +0200
+bef0b4b736e09e00d480d5891758f8223222bc1a|Merge pull request #1168 from BillyYccc/feature/mysql-query-pipelining-support|Mon, 9 May 2022 15:47:30 +0200|Mon, 9 May 2022 15:47:30 +0200
+f71739f5415aa66194788f80f640e7a0b42e6a2d|optimize using shift operator|Mon, 9 May 2022 20:59:49 +0800|Mon, 9 May 2022 20:59:49 +0800
+324d5a9c38f4ff727a1939de24143ad578c61a67|rename methods|Mon, 9 May 2022 20:55:35 +0800|Mon, 9 May 2022 20:55:35 +0800
+31e0affcf0e97ba92be813b2218886c02d5f13c8|fix license header|Mon, 9 May 2022 20:54:50 +0800|Mon, 9 May 2022 20:54:50 +0800
+a70e6c8db841bda811186cc3b954955e736602eb|fix incorrect testcases|Sat, 7 May 2022 22:06:59 +0800|Sat, 7 May 2022 22:06:59 +0800
+3204c0cc19f676dbb00eb221e52a75115eb505e1|move mysql pipelining query tests to TCK and enable them in postgres client|Wed, 4 May 2022 01:28:01 +0800|Wed, 4 May 2022 01:28:01 +0800
+78ba717a258aa93abbb73d87a0a54c53376efab1|Remove un-necessary pool close hook|Tue, 3 May 2022 09:24:08 +0200|Tue, 3 May 2022 09:24:08 +0200
+99d61a1fcb3c312c76e387831b4859648d8b83a8|rework pipelining tests|Sun, 1 May 2022 19:17:50 +0800|Sun, 1 May 2022 19:17:50 +0800
+a7c429f77ea5b4801e38e2987d72907677075b33|rename according to reviews|Sun, 1 May 2022 19:13:25 +0800|Sun, 1 May 2022 19:13:25 +0800
+1353264c8ab345e7f83a79aae0c14f3e93c2e9b4|Missing fields when copying Oracle or MSSQL connect options (#1184)|Thu, 28 Apr 2022 14:21:32 +0200|Thu, 28 Apr 2022 14:21:32 +0200
+b62191dd61e722ced5182cd4c4c79a9a0f702bff|MSSQL data types enhancements (#1179)|Wed, 27 Apr 2022 16:59:42 +0200|Wed, 27 Apr 2022 16:59:42 +0200
+d89e0c0ef32067fb496887fc52c615bbf6348be7|Adding DB2 inflight handling and a manual test (#1135)|Mon, 25 Apr 2022 07:51:47 -0500|Mon, 25 Apr 2022 14:51:47 +0200
+4234d9916de9358c061d9c2f389ab9de30438e6e|MSSQL Cursor and Row streaming implementation (#1175)|Mon, 25 Apr 2022 14:33:09 +0200|Mon, 25 Apr 2022 14:33:09 +0200
+4b229e57a199dff053a0776755c33c587d7adde4|MSSQL testing enhancements (#1178)|Fri, 15 Apr 2022 14:58:20 +0200|Fri, 15 Apr 2022 14:58:20 +0200
+dbb3a7c054b45a957e7d33dc451faa160a9f9a46|Close Oracle connection if reported SQLException is fatal (#1177)|Wed, 13 Apr 2022 11:43:50 +0200|Wed, 13 Apr 2022 11:45:16 +0200
+5c95c9dba05c3dd18b5a8de673fd9a4c43939597|update the mysql batching exception field|Mon, 4 Apr 2022 22:54:22 +0800|Mon, 4 Apr 2022 22:54:22 +0800
+7a26b23cfce27cabe0b3ca09dc261e4fab313c96|Oracle Transaction demarcation broken when using OraclePool (#1170)|Mon, 4 Apr 2022 12:20:29 +0200|Mon, 4 Apr 2022 12:21:54 +0200
+bc4bd111438e7964919c46266fec89f6c22b5f7b|improve the MySQLBatchException javadoc|Fri, 1 Apr 2022 20:01:01 +0800|Fri, 1 Apr 2022 20:01:01 +0800
+7f77b3ecccf7a23d30c2b9f27c516b4fa413a80c|refactor the repeated code|Fri, 1 Apr 2022 19:52:14 +0800|Fri, 1 Apr 2022 19:52:14 +0800
+56298bad14fb6d1c710f68527ff2d9b9bd3cf407|A pooled PgClient can be cast to a PgPool and getConnection can be inadvertently called resulting in leasing the connection several times which is not supported (so far) by SQL connections.|Mon, 14 Mar 2022 16:33:26 +0100|Fri, 1 Apr 2022 10:53:49 +0200
+511b2883e18a1e0064e4152b113b9eed5329ce8d|minors|Mon, 28 Mar 2022 23:51:32 +0800|Mon, 28 Mar 2022 23:51:32 +0800
+c8519e0e988e6630d34cd53fe3b024f36a5221de|update to the newest code|Mon, 28 Mar 2022 04:00:34 +0800|Mon, 28 Mar 2022 23:29:41 +0800
+cf334e0fe2c5b6533aa98b2c417ef27cb4123f5b|minors for the MySQL pipelining javadoc|Wed, 20 Jan 2021 01:05:33 +0800|Mon, 28 Mar 2022 23:29:41 +0800
+7183c915f42169578103e8004204b6be99deb7f2|rework the MySQL batch execution to use pipeling mode by default|Wed, 20 Jan 2021 01:02:11 +0800|Mon, 28 Mar 2022 23:29:32 +0800
+14a9a7f4842ff728dbc34311819f92043176fb33|managed prepared statement closing command should be sent as soon as execution command being sent|Tue, 19 Jan 2021 00:55:28 +0800|Mon, 28 Mar 2022 23:24:37 +0800
+1c42d9abf057b47299a33cad06463d0a0ab00b29|MySQL fire-and-forget commands should be handled in order|Tue, 19 Jan 2021 00:45:39 +0800|Mon, 28 Mar 2022 23:23:43 +0800
+df387a1d4d44e60472feada6f24202d6fe2187cc|initial work|Tue, 22 Dec 2020 01:02:22 +0800|Mon, 28 Mar 2022 23:23:43 +0800
+5042cc5154700bae542927f1374f4a5f5ddfe32b|MySQL: close PreparedStatement if needed when server replies with error (#1166)|Mon, 28 Mar 2022 09:59:23 +0200|Mon, 28 Mar 2022 09:59:23 +0200
+eac7f23dbd4994bea0643229db42d612b707ed2b|Reduce MSSQL Client ByteBuffer operations where possible (#1164)|Mon, 28 Mar 2022 09:58:59 +0200|Mon, 28 Mar 2022 09:58:59 +0200
+98c50d8cb463e352931688ff35948435c3abefef|Keep a ref on the PgPool in verticle tests otherwise pools might be GCED|Tue, 15 Mar 2022 11:27:45 +0100|Tue, 15 Mar 2022 11:27:57 +0100
+2fa9952e2b55606e61d331afbefb2bac64ecab1a|Use Oracle specific exception when error occurs in the client (#1161)|Fri, 11 Mar 2022 18:04:30 +0100|Fri, 11 Mar 2022 18:04:30 +0100
+7c1c8f6b9af818ed0788ce5f026d243a1257bd24|Support Oracle connection url format using TNSNames alias (#1158)|Fri, 4 Mar 2022 18:53:15 +0100|Fri, 4 Mar 2022 18:53:15 +0100
+bc9f4da72171fc9f339be6f8de331b2371ee0d18|Fail properly when Oracle url format is not supported (#1157)|Fri, 4 Mar 2022 16:12:27 +0100|Fri, 4 Mar 2022 16:12:27 +0100
+48cd465665a7515a5ac013c48013a7e2828e5b7e|Set Oracle connection props on OracleDataSource instead of connection url|Fri, 4 Mar 2022 12:02:00 +0100|Fri, 4 Mar 2022 12:02:00 +0100
+47eb6dc74c37eb85e719c343e804b223267c3d8f|Fix lifecycle bug in MSSQL and Oracle rule (#1154)|Thu, 3 Mar 2022 15:17:48 +0100|Thu, 3 Mar 2022 15:17:48 +0100
+a6a2c0143a8cbe32b977041cadf5296f041f1422|Oracle URL parsing enhancements (#1153)|Wed, 2 Mar 2022 21:57:47 +0100|Wed, 2 Mar 2022 21:57:47 +0100
+8ade82ea8243ea6d3de3f07f8d4cd49608dcd080|Wrong JDBC type for timestampz (#1138)|Tue, 1 Mar 2022 11:35:28 +0100|Tue, 1 Mar 2022 11:35:28 +0100
+ae3708f2774e343a0a058f4ff42043090a32d07d|Always use dedicated eventloop context in SqlConnectionPool (#1149)|Wed, 23 Feb 2022 17:12:02 +0100|Wed, 23 Feb 2022 17:24:54 +0100
+4b8eb3f18a256912d7d6e2a24bec959e6249b077|Invoke CommandHandler beforeRecycle and afterRecycle hooks on connection context|Wed, 23 Feb 2022 16:29:33 +0100|Wed, 23 Feb 2022 16:29:45 +0100
+002466a22a01b78b79ed47bbaa03400128082c39|Pooled Postgres connections do not always send a terminate command to the database upon a pool close.|Tue, 22 Feb 2022 10:19:47 +0100|Wed, 23 Feb 2022 11:35:59 +0100
+627d305b89068e4b832bc60d9f534f90a2013376|Set version to 4.3.0-SNAPSHOT|Wed, 16 Feb 2022 14:28:13 +0100|Wed, 16 Feb 2022 14:28:13 +0100
+7870f906ae6f19e652c80448662d107aeb238be1|Releasing 4.2.6-SNAPSHOT|Wed, 16 Feb 2022 13:33:21 +0100|Wed, 16 Feb 2022 13:33:21 +0100
+67e5d54e23d82577314d1eaf803ec7146aa6e508|Releasing 4.2.5|Wed, 16 Feb 2022 13:09:17 +0100|Wed, 16 Feb 2022 13:09:17 +0100
+6fee6662a5725a63d7391ccea5297f484b7262ab|The pool notifies the connect handler after the connection has been created and inserted in the pool and before the first time it is used. This is implemented for connection acquisitions but not for scheduled commands.|Tue, 15 Feb 2022 11:04:35 +0100|Tue, 15 Feb 2022 14:02:02 +0100
+6ef2b6e9a930ad0be8446cd01f5bd182f63f5d00|Merge pull request #1139 from eclipse-vertx/few-fixes|Mon, 14 Feb 2022 11:42:37 +0100|Mon, 14 Feb 2022 11:42:37 +0100
+1d5f513f9bbedb4e35c00ad47273e11dc45bfd1b|Pool hook improvements|Mon, 14 Feb 2022 11:23:49 +0100|Mon, 14 Feb 2022 11:24:38 +0100
+a58127877a6fbb5b9ece9c58509637f699181826|Pool lifecycle hooks can be passed right away instead of being volatile fields|Mon, 14 Feb 2022 10:14:36 +0100|Mon, 14 Feb 2022 10:14:40 +0100
+9cc001f55ced263a53ff57bc4592b2717ddd1e52|Connection pool event loop sizing option actually is not correct - fixes #1136|Mon, 14 Feb 2022 10:02:17 +0100|Mon, 14 Feb 2022 10:09:47 +0100
+ffbc07cf438f2292bafe9b7702b2bf14715e045c|Merge pull request #1128 from tsegismont/oracle_pool|Mon, 14 Feb 2022 10:08:10 +0100|Mon, 14 Feb 2022 10:08:10 +0100
+ff605db14c58b72c047b233d6aabfc07add35f62|Doc: added connection pooling to the features list|Tue, 1 Feb 2022 18:03:59 +0100|Fri, 11 Feb 2022 18:08:50 +0100
+2e3321f7c181e96cb30ad22ddb720c05ac9b220f|OracleConnection may leak if handler is null|Tue, 1 Feb 2022 17:10:58 +0100|Fri, 11 Feb 2022 18:08:50 +0100
+921ad970eaa8d7a49383ea02128c8383b823313c|Add Oracle Tracing and Metrics tests|Tue, 1 Feb 2022 17:06:45 +0100|Fri, 11 Feb 2022 18:08:50 +0100
+9474601fa0aefe3bba036755c18c57f102e9e1b5|afterRequire and beforeRecycle hooks|Mon, 31 Jan 2022 18:36:24 +0100|Fri, 11 Feb 2022 18:08:50 +0100
+db75d8fb538f1eb2537d1885814403e82423985b|Added tests for the OraclePool implementation|Wed, 26 Jan 2022 15:39:18 +0100|Wed, 2 Feb 2022 15:28:53 +0100
+a959f9ab6b74d7925ef72b9487cd48261be62218|Override a couple methods in OraclePool for fluent usage|Wed, 26 Jan 2022 14:32:02 +0100|Wed, 2 Feb 2022 15:28:53 +0100
+a5723dfa4b382e112f3ba17cf56f2f211582ca9f|Initial implementation of OraclePool|Thu, 20 Jan 2022 19:04:48 +0100|Wed, 2 Feb 2022 15:28:53 +0100
+d33c811fe7a0c38984c99bfa1d7d487a57615e0c|Oracle container testing improvements (#1130)|Wed, 2 Feb 2022 11:30:11 +0100|Wed, 2 Feb 2022 11:30:11 +0100
+d2878dcde051ec209be30ee880dbe145a2f6dae8|OracleConnection may leak if handler is null|Tue, 1 Feb 2022 17:58:42 +0100|Tue, 1 Feb 2022 17:58:42 +0100
+a466715e1c215425402e30e4ab39c05ae4146fbc|Removed unused pooled connection eviction check (#1126)|Tue, 1 Feb 2022 14:23:46 +0100|Tue, 1 Feb 2022 14:23:46 +0100
+0d10efe2bbedea3c27b380d69add2f1e036da9ad|Releasing 4.2.5-SNAPSHOT|Wed, 19 Jan 2022 16:30:12 +0100|Wed, 19 Jan 2022 16:30:12 +0100
+41b48ed48fa15cec1e4b5f1cc4f4e6296f23f7d7|Releasing 4.2.4|Wed, 19 Jan 2022 14:56:24 +0100|Wed, 19 Jan 2022 14:56:24 +0100
+55a7282047b3297338caad9565b2b038fc2b2704|Fix MSSQL testEncodeDateTime intermittent failure|Wed, 19 Jan 2022 12:11:20 +0100|Wed, 19 Jan 2022 12:11:20 +0100
+646db363d766964bc489206b9ee84219c89d0338|MSSQL: varchar(max) column type support (#1120)|Wed, 19 Jan 2022 11:26:55 +0100|Wed, 19 Jan 2022 11:26:55 +0100
+a7a03fa2bd8c9c02441cec0f6cfdb514e9e948fa|Fix typos in pg-client|Mon, 17 Jan 2022 10:39:18 +0800|Mon, 17 Jan 2022 09:23:43 +0100
+b2ee7bc05280028033d92a6eeb114d275870f1af|Bump Oracle ojdbc version to 21.4.0.0 (#1117)|Thu, 13 Jan 2022 17:34:02 +0100|Thu, 13 Jan 2022 17:34:02 +0100
+64fe7fd0776e7c4895c64688117e84c3b395cdf2|Add mailto prefix to email address (#1116)|Wed, 12 Jan 2022 18:13:26 +0800|Wed, 12 Jan 2022 11:13:26 +0100
+352e8da205598ffd9730ef36891dbc28ff544e53|Creating a client with a domain socket options should only work when the transport supports it|Mon, 3 Jan 2022 09:57:19 +0100|Mon, 3 Jan 2022 09:57:19 +0100
+7365faaff0c25d219b4ec501e45048208e604078|Set version to next snapshot|Tue, 21 Dec 2021 11:45:20 +0100|Tue, 21 Dec 2021 11:45:20 +0100
+1b4e12b35d785f14f7607f244a92a06d08dec396|Releasing 4.2.3|Tue, 21 Dec 2021 11:09:43 +0100|Tue, 21 Dec 2021 11:09:43 +0100
+beb5cb3a3f90f0f44d2eeea2585c55610f1a7eb1|Merge branch 'Yaytay-master'|Tue, 21 Dec 2021 10:52:20 +0100|Tue, 21 Dec 2021 10:52:20 +0100
+eae2ae602ae821677cbda9983da9346624ac904c|Assign JDBCType.OTHER to MSSQL GUID|Tue, 21 Dec 2021 10:52:01 +0100|Tue, 21 Dec 2021 10:52:01 +0100
+0ef4af68964e4d0a07154be62b1289de3a26de78|Merge branch 'master' of https://github.com/Yaytay/vertx-sql-client into Yaytay-master|Tue, 21 Dec 2021 10:38:08 +0100|Tue, 21 Dec 2021 10:38:08 +0100
+6d631b9bbbf9baeb0fe87b6e29bde093958bda01|Update vertx-mssql-client/src/test/java/io/vertx/mssqlclient/data/MSSQLGuidDataTypeTest.java|Mon, 20 Dec 2021 20:45:16 +0000|Mon, 20 Dec 2021 20:45:16 +0000
+e430bd8a25327854b35ab3f2e2bca2ea76b1207b|fix typo in document Connection URI|Mon, 20 Dec 2021 14:36:02 +0800|Mon, 20 Dec 2021 08:42:08 +0100
+2493627ef51590ace4346b3a5bc6ad80d77f9d6f|Merge branch 'eclipse-vertx:master' into master|Sat, 18 Dec 2021 22:53:16 +0000|Sat, 18 Dec 2021 22:53:16 +0000
+858d28e01649c008a5b43dea76bb1dad27de1baf|Support for UUID/uniqueidentifier data type|Sat, 18 Dec 2021 22:52:38 +0000|Sat, 18 Dec 2021 22:52:38 +0000
+cee3d78495017ab8097fafe703714d462f826f94|Set version to 4.2.3-SNAPSHOT|Tue, 14 Dec 2021 11:36:20 +0100|Tue, 14 Dec 2021 11:36:20 +0100
+e29b086ba4c84f3b80551a31fe9d45c1e7023b6c|Releasing 4.2.2|Tue, 14 Dec 2021 11:12:23 +0100|Tue, 14 Dec 2021 11:12:23 +0100
+f5820032c780ca3bfee432750db1d75ec4e751d8|Handle postgres error code 42P08 among the lazyly rewritten prepared statements with parameters. Also similar tests have been refactored to use the eventually close and ensure the connection is closed on a test failure as well.|Mon, 13 Dec 2021 09:58:09 +0100|Mon, 13 Dec 2021 10:11:07 +0100
+a6c50686a24c0476160ebf3c93a4c1fdfde32dec|Merge pull request #1104 from tsegismont/more_tests|Thu, 9 Dec 2021 23:19:49 +0100|Thu, 9 Dec 2021 23:19:49 +0100
+465eae9395449749947d39ab304c7e43969e5123|Implement OraclePreparedQueryTest|Thu, 9 Dec 2021 23:10:03 +0100|Thu, 9 Dec 2021 23:10:03 +0100
+6f19c7f9c3b526137f53292dadd3fc48609cc821|Implement OracleTransactionTest|Thu, 9 Dec 2021 22:50:24 +0100|Thu, 9 Dec 2021 22:50:24 +0100
+a14559406e3894d18aa796a17a0d56cc69e11e02|Implement OracleNullValueEncodeTest|Thu, 9 Dec 2021 22:39:20 +0100|Thu, 9 Dec 2021 22:39:20 +0100
+08496be0fcc6f2bce852cf70d4f30d7dafd4850b|Oracle: implement DataTypeTest|Thu, 9 Dec 2021 22:29:06 +0100|Thu, 9 Dec 2021 22:29:06 +0100
+071f1594e1abbc2b8a7c9ada32162e6b4f6b5fa7|Support OraclePrepareOptions config from JSON (#1099)|Thu, 9 Dec 2021 18:18:45 +0100|Thu, 9 Dec 2021 18:18:45 +0100
+0db0b361f2ec7a292f41fa73becfad4d00da9bdf|Implement conversion for Oracle TIMESTAMPZ (#1100)|Thu, 9 Dec 2021 17:43:20 +0100|Thu, 9 Dec 2021 17:43:20 +0100
+d0d4c557c88a13dbc508033e3a36ce200213843b|Driver should be able to parse a connection URI into specific connect options so the user does not need the precise connect options to create a client in a generic fashion. Also the connect options should provide json merging to allow further generic configuration of the parsed URI.|Thu, 9 Dec 2021 11:27:05 +0100|Thu, 9 Dec 2021 14:25:43 +0100
+cd15f2e40c04bf53975994a1cbcc04146b7da550|Connect auto retry does actually retry one more time than expected - fixes #1102|Thu, 9 Dec 2021 13:10:32 +0100|Thu, 9 Dec 2021 13:20:32 +0100
+0ffea4efaba0c43da6a53e3880444c6995d3229c|MySQL column definitions from fetch or execute response should be used prior to prepare response when decoding rows using cursors|Sat, 4 Dec 2021 20:36:24 +0800|Thu, 9 Dec 2021 09:01:50 +0100
+448bd747f1be01e7a6145a2424eb06ea21dd973d|Simplify OracleSimpleQueryTest (#1098)|Wed, 8 Dec 2021 17:36:13 +0100|Wed, 8 Dec 2021 17:36:13 +0100
+17719e5db4d305ebeb5f0feac40b11277f0bcd90|Merge pull request #1096 from eclipse-vertx/shared-pool|Wed, 8 Dec 2021 14:55:48 +0100|Wed, 8 Dec 2021 14:55:48 +0100
+92d0591b6f076cbbccc06a298f2492618fda44cc|Missing async in a test|Wed, 8 Dec 2021 14:05:03 +0100|Wed, 8 Dec 2021 14:05:03 +0100
+700eee6e2b35b5c546c6f73d5a0d9de899667647|Fix regression with templates|Wed, 8 Dec 2021 13:56:09 +0100|Wed, 8 Dec 2021 13:56:09 +0100
+5cf597a5152e5ac7956b1096e72e132bb7d6f029|Missing async in a test|Wed, 8 Dec 2021 13:35:34 +0100|Wed, 8 Dec 2021 13:35:34 +0100
+356b81ffca1c3260e604a131a54ab3e30c59183a|Improve racy shared pool test|Wed, 8 Dec 2021 13:26:03 +0100|Wed, 8 Dec 2021 13:26:03 +0100
+27f8a745e8a487137356c512fff45997298cfe16|A pool can declare a number of event loop to use instead of using borrower's event loop - fixes #1095|Wed, 8 Dec 2021 11:19:33 +0100|Wed, 8 Dec 2021 12:07:13 +0100
+a439953b4fa8941308b572a251fc60fee6852763|Implement reference counted pools - fixes #1094|Wed, 8 Dec 2021 10:37:04 +0100|Wed, 8 Dec 2021 12:06:39 +0100
+71532e4b3179e743ad460ad8f2596244077058e6|Do not subclass anymore the current pool implementation with Pool sub interfaces and instead use a proxy to a single pool implementation|Tue, 7 Dec 2021 19:44:58 +0100|Wed, 8 Dec 2021 12:01:49 +0100
+ca464a53effe11fe31a6cb71e5ab98b51b29de9b|Move the connection wrapping to the driver api|Tue, 7 Dec 2021 19:25:16 +0100|Wed, 8 Dec 2021 12:01:49 +0100
+65f7a8d8ea4d94b7a83c894d5fcae973de913685|Merge SqlConnectionBase and SqlConnectionImpl in a single class|Tue, 7 Dec 2021 19:06:15 +0100|Wed, 8 Dec 2021 12:01:49 +0100
+8d2e10d33b1e7409f591fa15a6c2abaa2650f456|Move the query place holder mechanism from the SqlClientInternal interface to the Driver interface|Tue, 7 Dec 2021 17:53:27 +0100|Wed, 8 Dec 2021 12:01:33 +0100
+a811fa5936dc33783989fa4c7ad99cdceea13e43|Refactor pool creation in the driver|Mon, 6 Dec 2021 14:50:50 +0100|Tue, 7 Dec 2021 17:40:40 +0100
+bf091c82da6ac8543fc3146c138da08cb3646cc0|Remove code duplication|Mon, 6 Dec 2021 09:09:55 +0100|Mon, 6 Dec 2021 09:09:55 +0100
+9527c5618fe4bf9a779f578c02eb6ceeb77c9a04|Improve a couple of tests|Thu, 25 Nov 2021 16:21:22 +0100|Mon, 6 Dec 2021 08:20:04 +0100
+ae2d36f25b659831910f07b9e172eb2ffc5b30e3|Avoid Oracle test suite failures in OracleConnectionTest|Thu, 2 Dec 2021 18:03:18 +0100|Thu, 2 Dec 2021 18:05:34 +0100
+8abdd7141fed7135b95927b8d9f121448ee2acc2|Removed redundant overridden test methods from OracleConnectionTest|Thu, 2 Dec 2021 17:38:21 +0100|Thu, 2 Dec 2021 17:38:21 +0100
+2aeed29e6de293ebeb8f4aaed477acff562bbd12|Implement MSSQLMetricsTest|Thu, 2 Dec 2021 17:32:01 +0100|Thu, 2 Dec 2021 17:32:01 +0100
+90aa1c30ddcb6ee25051e39d317a448e6584e22d|Fix MSSQLPreparedQueryNotNullableDataTypeTest#testEncodeSmallDateTime|Thu, 2 Dec 2021 17:22:12 +0100|Thu, 2 Dec 2021 17:22:12 +0100
+ce0b5216858970b75a61a8234b9e3c88b2a7fee2|Implement Oracle generated keys retrieval (#1083)|Thu, 2 Dec 2021 15:20:32 +0100|Thu, 2 Dec 2021 15:20:32 +0100
+bec6046c8803f47212b2b9712c4cb81b0852f720|Merge branch 'Cermellus-patch-1'|Wed, 1 Dec 2021 17:35:21 +0100|Wed, 1 Dec 2021 17:35:21 +0100
+54f0d9647fccb28bac33a8087a8f692b52e544c4|MSSQL URI Parser: added test for circumflex|Wed, 1 Dec 2021 17:34:37 +0100|Wed, 1 Dec 2021 17:34:37 +0100
+d4f7029f8d0b3cfb7b8eac3e82557d58cf00fc29|Merge branch 'patch-1' of git://github.com/Cermellus/vertx-sql-client into Cermellus-patch-1|Wed, 1 Dec 2021 16:58:33 +0100|Wed, 1 Dec 2021 16:58:33 +0100
+7ffbdaf44d151fb3ef8b0edf1ef2d5a8a044a563|Sanitize Oracle error messages (#1081)|Tue, 30 Nov 2021 19:23:26 +0100|Tue, 30 Nov 2021 19:23:26 +0100
+b0b97bc04b7ce0b0dcd1b7dc884f2fd61c5ec774|Configure Oracle client from URI (#1075)|Tue, 30 Nov 2021 19:22:28 +0100|Tue, 30 Nov 2021 19:22:28 +0100
+4c7b3551b79d992ff4b5d4d81bf92dabdbded6e5|Fix 404 urls in MySQL client document (#1079)|Fri, 26 Nov 2021 16:12:58 +0800|Fri, 26 Nov 2021 09:12:58 +0100
+f6623d6107f5439be47709a8235b6d0b1c8db9ab|Implement PostgreSQL money type.|Thu, 25 Nov 2021 14:50:36 +0100|Thu, 25 Nov 2021 15:53:46 +0100
+f614899a88d839a6bba36d92a8ec033d4a345d94|Avoid recompiling pattern in Connection URI parsers|Wed, 24 Nov 2021 17:39:09 +0100|Wed, 24 Nov 2021 17:39:09 +0100
+c376b57bef8a3254d7037c357e7d70a42416ca7d|Mention support of INET type in readme (#1072)|Mon, 22 Nov 2021 04:07:05 -0500|Mon, 22 Nov 2021 10:07:05 +0100
+adbf505ffc8f5152ff799a4dbba0a761662fd584|SqlResult columnDescriptor is always empty for Oracle (#1069)|Mon, 15 Nov 2021 14:52:05 +0100|Mon, 15 Nov 2021 14:52:05 +0100
+d03d098470e36fb04fd94a742938ee78dec31fe4|Oracle Client Rule: do not start container in static block|Fri, 12 Nov 2021 15:47:39 +0100|Fri, 12 Nov 2021 15:47:39 +0100
+2add7acf0ce5a562577e6c88f5da8dbad889c1bd|Oracle Client Rule: use classpath resource mapping|Fri, 12 Nov 2021 11:15:45 +0100|Fri, 12 Nov 2021 11:15:45 +0100
+c26b1c143657bd96c412cc5cfc07c2765d482273|MSSQL doc: wrong name of prepared parameters|Tue, 9 Nov 2021 15:14:32 +0100|Tue, 9 Nov 2021 15:14:32 +0100
+0ebea022b0915e2e644e3772ec46a6e0e2d14fd5|Set version to 4.2.2-SNAPSHOT|Wed, 3 Nov 2021 10:30:15 +0100|Wed, 3 Nov 2021 10:30:15 +0100
+52b20b259c9cd75cfa86eaf2ce179028178926b9|Releasing 4.2.1|Wed, 3 Nov 2021 09:49:56 +0100|Wed, 3 Nov 2021 09:49:56 +0100
+a89b716a1d7f24380a527f87cdedd7ff5b9d1945|Update MSSQLConnectionUriParser.java|Wed, 3 Nov 2021 07:23:13 +0100|Wed, 3 Nov 2021 07:23:13 +0100
+d626737a47146c43d668e38148ac3ee366de3557|Reduce parameter status change log level from WARN to DEBUG|Fri, 29 Oct 2021 17:45:57 +0200|Tue, 2 Nov 2021 08:09:09 +0100
+d6f279dcfb84975239d7cbf92538bdab925e58c9|Releasing 4.2.1-SNAPSHOT|Thu, 28 Oct 2021 09:52:53 +0200|Thu, 28 Oct 2021 09:52:53 +0200
+8542c37e01db7a254cdc15372bf9e73008d38b98|Releasing 4.2.0|Thu, 28 Oct 2021 09:12:05 +0200|Thu, 28 Oct 2021 09:12:05 +0200
+5032a3173f378ca13fbdd6ecc038f6b70615f407|Support JsonObject params when using SqlTemplate#mapFrom|Fri, 22 Oct 2021 10:40:48 +0200|Mon, 25 Oct 2021 10:37:49 +0200
+a65d3079646470b075f948edcb2f9b6c9df51a36|Releasing 4.2.0-SNAPSHOT|Tue, 19 Oct 2021 14:36:23 +0200|Tue, 19 Oct 2021 14:36:23 +0200
+47bc46dffc980c78793287b60d81e23f99f2280e|Releasing 4.2.0.CR1|Tue, 19 Oct 2021 14:15:32 +0200|Tue, 19 Oct 2021 14:15:32 +0200
+5a0d16d59386ea2d236b0e1a11d0107010c7dfda|The oracle row reader implements SQL client RowSet which can lead to a class cast exception. Instead it should build the result from the collector that the command provides and let the client build the RowSet through the collector.|Tue, 12 Oct 2021 23:52:13 +0200|Wed, 13 Oct 2021 14:50:05 +0200
+ed8c1e708a35ccd30029e6276207846069285500|Close stream in createStream example (#1051)|Mon, 11 Oct 2021 16:55:06 +0200|Mon, 11 Oct 2021 16:55:06 +0200
+1525ba18bd6f20de0939986347eff28df5850467|Add missing oracle client ref in README|Tue, 28 Sep 2021 17:27:39 +0200|Tue, 28 Sep 2021 17:27:39 +0200
+9a12a8e39403d99a220dec1af089a1248049abea|Test MSSQL with Java 17|Thu, 23 Sep 2021 17:05:54 +0200|Thu, 23 Sep 2021 17:05:54 +0200
+2d0a6f6530169cb1efdc002cbbaa673db848ec28|MSSQL Datetime2 and Time tests fixes|Thu, 23 Sep 2021 17:04:09 +0200|Thu, 23 Sep 2021 17:04:14 +0200
+ebb3eb1d3883e051f67429f39ed3b994e854f636|Add lost mvn option in a previous commit|Thu, 23 Sep 2021 16:12:34 +0200|Thu, 23 Sep 2021 16:12:37 +0200
+3f77058175ba17491f5e8f9b510d866adbf55250|Exclude from 17 for DB2 and MSSQL|Thu, 23 Sep 2021 16:11:32 +0200|Thu, 23 Sep 2021 16:11:32 +0200
+5b15aee5e421ed134d8c9b2046360866e7822ea5|Revert "Make work with Java 17"|Thu, 23 Sep 2021 16:05:50 +0200|Thu, 23 Sep 2021 16:05:50 +0200
+13b47a7e197ebb946b94a88ac336d6630d2c544f|Revert "Make work with Java 17"|Thu, 23 Sep 2021 16:05:43 +0200|Thu, 23 Sep 2021 16:05:43 +0200
+3be3d8b067b3ecebc52ae0eacdf6ebb56635ce51|Make work with Java 17|Thu, 23 Sep 2021 15:52:26 +0200|Thu, 23 Sep 2021 15:52:26 +0200
+2ed3bc497956d888b0091510f794f9e33f6476e3|Make work with Java 17|Thu, 23 Sep 2021 15:52:06 +0200|Thu, 23 Sep 2021 15:52:06 +0200
+71e519fd754b30560a1a2f9d12be83c25d8dd6c7|Update CI to run with JDK 17 instead of JDK 11|Thu, 23 Sep 2021 09:46:00 +0200|Thu, 23 Sep 2021 09:46:00 +0200
+54b20a176ffe4e6ef7462d4b3b02ee08c68bdb57|MSSQL: Add support for money and smallmoney datatypes (#1049)|Tue, 21 Sep 2021 15:44:20 +0200|Tue, 21 Sep 2021 15:44:20 +0200
+58981ae00557bd917fa86888e983d7b07fa1b0f7|Minor adapt to latest pool|Tue, 21 Sep 2021 11:15:35 +0200|Tue, 21 Sep 2021 11:16:04 +0200
+5677860f68b80ba6c739229a0fc5dd368e9c454c|MS SQL: Add support for smalldatetime (#1048)|Mon, 20 Sep 2021 18:15:04 +0200|Mon, 20 Sep 2021 18:15:04 +0200
+d645c86d97e95be42064268b4973f7ab3a1537dd|MSSQL: Implement support for type datetime  (#1041)|Fri, 17 Sep 2021 14:55:58 +0200|Fri, 17 Sep 2021 14:55:58 +0200
+358d24cad0965a4d6a10ff535a46a8bd72311b0f|Implement redirection with TDS ENV_CHANGE ROUTING token (#1038)|Thu, 16 Sep 2021 16:52:06 +0200|Thu, 16 Sep 2021 16:52:06 +0200
+6fa1180ad8c3d8683716d0de3b81ecdac394ca3f|Simplify PgException detailled message - fixes #1045|Thu, 16 Sep 2021 15:19:56 +0200|Thu, 16 Sep 2021 15:19:56 +0200
+cbfcbe635cf1dae84f20c1ad47d5feab01160b07|Experimental group query execution API. - fixes #1042|Thu, 16 Sep 2021 13:36:39 +0200|Thu, 16 Sep 2021 14:39:36 +0200
+5b6c4cd4d627b1fea28340c2aef0046786e53d9e|MSSQL: IndexOutOfBoundsException when a Netty buffer encompasses several TDS Packets (#1036)|Fri, 3 Sep 2021 15:20:17 +0200|Fri, 3 Sep 2021 15:20:17 +0200
+dbc396fb8b1ab5459d40ed4fdda6a0524c4cf275|Ignore comments in Queries|Sat, 28 Aug 2021 11:51:57 -0500|Mon, 30 Aug 2021 11:50:29 +0200
+3593259a9fa9de0b99429dd5ec8c12774cac8409|Improve PG returning documentation and add a test to ensure it works with a delete query - see #1026|Wed, 25 Aug 2021 14:41:22 +0200|Wed, 25 Aug 2021 14:41:28 +0200
+98596313a1566f2fdc14252148e84c50fd896269|Missing oracle client documentation|Tue, 24 Aug 2021 17:30:31 +0200|Tue, 24 Aug 2021 17:31:13 +0200
+1e14df7de79672214186f0a54a4e44fa03160434|Back to snapshots|Tue, 24 Aug 2021 14:55:03 +0200|Tue, 24 Aug 2021 14:55:03 +0200
+e5a1c4eb13e301ee8cfb9b4f2a4f9f65c24554f2|Releasing 4.2.0.Beta1|Tue, 24 Aug 2021 14:32:58 +0200|Tue, 24 Aug 2021 14:46:02 +0200
+d69e6a65e18c0e4b175fa45ac3697ea40f6933af|Oracle build improvements for javadoc|Tue, 24 Aug 2021 14:45:10 +0200|Tue, 24 Aug 2021 14:45:53 +0200
+8a93c9e7b6af97e9f83e3747e3b45ae9af1d4edc|Merge pull request #1027 from eclipse-vertx/use-toolchain-to-build-oracle-client|Tue, 24 Aug 2021 14:07:20 +0200|Tue, 24 Aug 2021 14:07:20 +0200
+04aedf058ecf46df074ccc394163af0b201b833c|Incorrect maven profile activation trigger|Tue, 24 Aug 2021 13:56:50 +0200|Tue, 24 Aug 2021 13:56:50 +0200
+e6bc01cd233a4c4209cceddf3b2d2a9b076a26a1|Descriptor cleanup|Tue, 24 Aug 2021 13:47:39 +0200|Tue, 24 Aug 2021 13:47:39 +0200
+d66d9c0c2e9bb9f43a28446f1ae1de4de3018866|Allow building with JAVA 8 using a JAVA 11 toolchain to compile Oracle Client|Tue, 24 Aug 2021 13:46:04 +0200|Tue, 24 Aug 2021 13:46:04 +0200
+830ad4865a58585fa1cab6c5636777e741e4b250|MSSQL Client Encryption support (#1017)|Thu, 19 Aug 2021 16:50:17 +0200|Thu, 19 Aug 2021 16:50:17 +0200
+983570ee900faffd147bb45a7674e315ac78e391|Deploy snapshots with Java 11 as it is required by Oracle Client|Wed, 18 Aug 2021 16:37:44 +0200|Wed, 18 Aug 2021 16:37:44 +0200
+e4bf6161be606a313c6a7dce5add06c11aed70fd|Merge pull request #1023 from eclipse-vertx/oracle|Wed, 18 Aug 2021 14:30:04 +0200|Wed, 18 Aug 2021 14:30:04 +0200
+3b303d98f2410455eb47f01ac54d03f1c3dfccdf|Add OracleColumnDesc that implements ColumnDesc|Tue, 17 Aug 2021 23:06:49 +0200|Tue, 17 Aug 2021 23:06:49 +0200
+cb2c73922ff4ac8095b6fa56ef7c8cd7fc8c6235|Remove unused stuff for now|Tue, 17 Aug 2021 16:25:10 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+bb2a9d80de45d7ea8dd183faf54b94235b42651f|Add PrepareOptions to allow passing specific options for prepared queries as well as OraclePrepareOptions to pass specific poptions to Oracle|Tue, 17 Aug 2021 16:21:34 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+a5b15f20f2cd687cd3357edc075d60e1be0806c8|Remove unused options to avoid incorrect expectations|Tue, 17 Aug 2021 09:56:42 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+5923dfeac3f2f0040f194a2a737e72d35123348e|Set tech preview status warniing|Tue, 17 Aug 2021 09:50:47 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+2ab6214c9e5a3f71da70ee24cda6e0b44d037d8b|Initial base doc|Thu, 12 Aug 2021 15:56:44 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+4bf610c05740b1530d36dbaa5637289031ececad|Add missing break instruction|Thu, 12 Aug 2021 15:40:08 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+e421a6aa10ec2539eb4fc9e69b2f52bcbaab9bcf|Improve context / promise|Thu, 12 Aug 2021 15:39:48 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+d98af0263de217bb4e71e8cc7d89947adb4ac672|The spi package should be visible at the top level and not nested in the impl package|Thu, 12 Aug 2021 15:17:52 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+0826c1b784e70ecd9dbb91b86bafb2eb1647c0a9|Remove unused and untested stuff. We can still re add them later and most of them were specified on oracle connect options and it is not the appropriate place, e.g ResultSetConcurrency would be rather in a specific OracleQuery that extends Query|Thu, 12 Aug 2021 14:36:20 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+ac54870aa275327da8746258c63a2be3cdc94453|Rename package io.vertx.oracle -> io.vertx.oracleclient|Thu, 12 Aug 2021 14:28:17 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+4eb691d24951c91db8deeffb3574dda1c79a83b2|Empty doc|Wed, 11 Aug 2021 10:18:10 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+e2213d265b803bca0bea3605e84f29193266ca5e|Update driver for Vert.x 4.2|Wed, 14 Jul 2021 16:02:09 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+c5ff16c32b951fee422d82acace18705ed50d08a|Temporary workaround to get the logs|Tue, 13 Jul 2021 16:59:17 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+ffedbce6f91425ce603d47da6290ac30e19fd2e5|Initial contribution of the Vert.x Oracle Client|Tue, 13 Jul 2021 16:47:53 +0200|Tue, 17 Aug 2021 22:43:54 +0200
+4c7a056e3853aef69581cad6487581137bb8bf69|Expose column data type name|Tue, 17 Aug 2021 18:51:37 +0200|Tue, 17 Aug 2021 22:43:42 +0200
+d484dc8009116bf0fbfd8af4ef449c475262c592|remove useless assembly files|Wed, 11 Aug 2021 11:10:16 +0200|Wed, 11 Aug 2021 11:10:16 +0200
+ce6ed23633270355999209ba6034009946ffa1ae|Add uri parsing test|Thu, 5 Aug 2021 17:19:31 +0800|Tue, 10 Aug 2021 09:40:26 +0200
+6844f701c47e36bcf57dcb971e196a53209bf893|Fix userinfo and database parsing in uri parser|Thu, 5 Aug 2021 16:44:58 +0800|Tue, 10 Aug 2021 09:40:26 +0200
+c1d064ed9f8affc711c0c83f2230af3b05c87c22|Fix password parsing in uri parser|Thu, 5 Aug 2021 12:06:59 +0800|Tue, 10 Aug 2021 09:40:26 +0200
+006016b73e3f28829b4f0d70801f3379a8713818|Update CI/CD actions|Tue, 10 Aug 2021 09:30:57 +0200|Tue, 10 Aug 2021 09:30:57 +0200
+c86e6503f7e8bea614b90a8ef7ca8b6d3e8cfb2a|true|Tue, 10 Aug 2021 09:24:17 +0200|Tue, 10 Aug 2021 09:24:17 +0200
+1cd70f21f37f6797c297e6ce4d0989dd55ed4d55|Fix testEncodeOffsetDateTime on JDK11|Wed, 28 Jul 2021 14:27:24 +0200|Mon, 2 Aug 2021 10:10:39 +0200
+7c28f4b69f2ac59a0b76cedd84e608906f839907|rollback: reformatting the code|Tue, 13 Jul 2021 22:55:20 +0800|Tue, 13 Jul 2021 17:13:14 +0200
+6190ba7b1df9de004b951d151eaa148f9830c707|javadoc improvements in Tuple.java|Tue, 13 Jul 2021 22:02:10 +0800|Tue, 13 Jul 2021 17:13:14 +0200
+037fdc28d22b5755d01087d365b8001a05c5edc8|When a transaction times out, PostgreSQL will send an unsolicited 25P03 error and then close the connection. The decoder should handle specifically this error not related to a command and handle it gracefully.|Tue, 13 Jul 2021 11:38:36 +0200|Tue, 13 Jul 2021 11:52:06 +0200
+04842a517484c24c8d0fce08042e6a40088e9879|MSSQL PrepExec Return value is not present in case of an error|Fri, 2 Jul 2021 16:00:18 +0200|Wed, 7 Jul 2021 10:10:34 +0200
+a4c24a55229b083d37e2d4048cba3a0459d5c2af|Set version to 4.2.0-SNAPSHOT|Thu, 1 Jul 2021 12:06:17 +0200|Thu, 1 Jul 2021 12:06:17 +0200
+f4c2e2b03e1a9e60777f0230b1a2cfa4d1a31930|Releasing 4.1.1|Thu, 1 Jul 2021 11:38:22 +0200|Thu, 1 Jul 2021 11:38:22 +0200
+d3bda95e6629e764f18fb5d7da5dc02dc5ffd84d|For now remove the generic pool creation with list as all implementation may not support it|Thu, 1 Jul 2021 10:46:56 +0200|Thu, 1 Jul 2021 11:03:25 +0200
+413ea3fbc1be67f85864995c364c9065339874b3|Decode MSSQL Database Metadata (#999)|Wed, 30 Jun 2021 18:54:22 +0200|Wed, 30 Jun 2021 18:54:22 +0200
+c8001b705a35c46d487b6e45ac072eb9af2ac300|Merge pull request #994 from tsegismont/packet_codec|Wed, 30 Jun 2021 17:50:03 +0200|Wed, 30 Jun 2021 17:50:03 +0200
+12a8bfe4816feaf78f90430ce1140ec6ee57a32e|Apply suggestions from 2nd code review|Wed, 30 Jun 2021 15:08:49 +0200|Wed, 30 Jun 2021 15:08:49 +0200
+76cbac32654d56d52e4321ea7c25095d1558a2a0|Apply suggestions from code review (2/2)|Tue, 29 Jun 2021 16:17:51 +0200|Tue, 29 Jun 2021 16:28:16 +0200
+f22bbe5b40212e4fdb2748cc397702783ce8378c|Apply suggestions from code review (1/2)|Tue, 29 Jun 2021 16:00:00 +0200|Tue, 29 Jun 2021 16:28:16 +0200
+d94833fcb467afc70279a7bbd11f63f31a9fe65f|TDS packet splitting support|Mon, 21 Jun 2021 18:53:35 +0200|Tue, 29 Jun 2021 16:28:11 +0200
+14796611ddc07667c32fd377053be86b8fb2bcad|Refactored MSSQL codec implementation|Mon, 21 Jun 2021 15:37:08 +0200|Tue, 29 Jun 2021 16:19:31 +0200
+9ebe55e0d9ed1b5a27378279d470ea750b7d70b7|Merge pull request #737 from julianladisch/HexSequence-PgPreparedStatement|Tue, 29 Jun 2021 14:29:27 +0200|Tue, 29 Jun 2021 14:29:27 +0200
+9143c90114fe37c87f4a1860982eef53cc8e6bad|Merge pull request #986 from eclipse-vertx/pool-hook|Mon, 28 Jun 2021 11:27:16 +0200|Mon, 28 Jun 2021 11:27:16 +0200
+4e97b37ab6325aa082f47d70910e3e5e3195f809|Minor rename|Mon, 28 Jun 2021 11:14:50 +0200|Mon, 28 Jun 2021 11:14:50 +0200
+2fe6cb31459e38659adbdce18e5363c12fa1b28c|Cleanup|Mon, 28 Jun 2021 11:13:04 +0200|Mon, 28 Jun 2021 11:13:04 +0200
+8c5c7f316ddf79bb51f20ee4df1783577c2af8be|Make sure we handle correctly invalid connections before inserting them in the pool|Mon, 28 Jun 2021 09:02:36 +0200|Mon, 28 Jun 2021 11:03:48 +0200
+18ccf346833e5839d7e030ce9f5307c0d6002ecb|Javadoc improvements|Thu, 24 Jun 2021 16:45:36 +0200|Thu, 24 Jun 2021 16:45:36 +0200
+d8114e9d4b87d0084f048508496470538556a488|minor|Thu, 24 Jun 2021 15:41:25 +0200|Thu, 24 Jun 2021 15:41:28 +0200
+5319989c93ff473f00403000fc1f3ec053fe8a1e|Minor|Thu, 24 Jun 2021 15:31:34 +0200|Thu, 24 Jun 2021 15:31:34 +0200
+f8d03eb92ca2a32f586680b4a281e0ea300dc4ab|Rewrite the API differently|Thu, 24 Jun 2021 08:14:20 +0200|Thu, 24 Jun 2021 15:16:31 +0200
+c3bdc06587a9d35e45346b8e5a424f1a44a16081|The transaction end execution ignores failures, e.g a transaction commit might fail due to a lazy constraint check.|Wed, 23 Jun 2021 16:00:33 +0200|Wed, 23 Jun 2021 16:17:41 +0200
+ae93de11e1c346358657801fad0b408274a0bd77|Make the server provider async|Wed, 23 Jun 2021 14:07:49 +0200|Wed, 23 Jun 2021 16:10:41 +0200
+9ec6a944d2419d9c3ca81cd69855bd4eb632806e|pg line type integrity check|Tue, 22 Jun 2021 20:50:07 +0300|Wed, 23 Jun 2021 09:09:08 +0200
+abd48edd49699934c1fed7ab98d5489bb69ac5f8|Documentation|Tue, 22 Jun 2021 17:53:12 +0200|Tue, 22 Jun 2021 17:53:12 +0200
+26cd14b19cbe16cec8c5f31ecd455ede03358a70|Introduce pool multi connect options|Tue, 22 Jun 2021 16:38:56 +0200|Tue, 22 Jun 2021 17:01:39 +0200
+6631131aedefb98bf6bc9bf9a592aded70a4d6b0|Decouple the ConnectionFactory from database connection data|Tue, 22 Jun 2021 12:19:23 +0200|Tue, 22 Jun 2021 12:19:23 +0200
+d2e964630e423b598aea4ad04cdd930349cc0c36|List of connect options|Thu, 17 Jun 2021 15:41:40 +0200|Mon, 21 Jun 2021 23:01:50 +0200
+6daab441b3105d7e0a2e6110c4469c2f1af8596e|Initial implementation of connect handler|Tue, 15 Jun 2021 16:49:23 +0200|Mon, 21 Jun 2021 18:38:26 +0200
+001ac66eee585ffc954e2707438f669e4ddaccaa|Implement pool config|Thu, 17 Jun 2021 10:53:26 +0200|Mon, 21 Jun 2021 18:38:26 +0200
+462669508b351327db4958dc2a39467a3774a060|Merge pull request #993 from eclipse-vertx/postgresql-inet-support|Mon, 21 Jun 2021 18:37:28 +0200|Mon, 21 Jun 2021 18:37:28 +0200
+7cebcca4b3823463fc4b80e126e886dc0f13e826|Support INET array|Mon, 21 Jun 2021 18:17:27 +0200|Mon, 21 Jun 2021 18:17:27 +0200
+48554276e8742d6a77e2468b42994a77daa9e0ab|Implement Inet PostgreSQL data type support - fixes #992|Mon, 21 Jun 2021 17:21:25 +0200|Mon, 21 Jun 2021 17:37:43 +0200
+665b017d136350c720ea9dcb332ae6f128847fb4|Merge pull request #989 from tsegismont/superfluous_enum|Thu, 17 Jun 2021 16:16:31 +0200|Thu, 17 Jun 2021 16:16:31 +0200
+9de3037fe6d2f1ade2d04e6217bc780542c48ac9|Moved ProcId to codec package|Thu, 17 Jun 2021 15:52:17 +0200|Thu, 17 Jun 2021 15:52:17 +0200
+4573412f943c87c42d4ead9c4e8fc67259916e98|Moved DoneToken to codec package|Thu, 17 Jun 2021 15:47:48 +0200|Thu, 17 Jun 2021 15:47:48 +0200
+9d282675db33db95e20b289c512805fe423f1784|Converted MessageType enum to constants class|Thu, 17 Jun 2021 15:46:38 +0200|Thu, 17 Jun 2021 15:46:38 +0200
+89b479087d606a4998c4963c6fbcbc575b39d8cf|Fixup|Thu, 17 Jun 2021 15:33:52 +0200|Thu, 17 Jun 2021 15:33:52 +0200
+063211a1668c363405dff35166c0444910a3577a|Converted MessageStatus enum to constants class|Thu, 17 Jun 2021 15:33:15 +0200|Thu, 17 Jun 2021 15:33:15 +0200
+980a72f0c6b19e030cf1ef8b69c16f8be9ea8f49|Moved EnvChange to codec package|Thu, 17 Jun 2021 15:24:32 +0200|Thu, 17 Jun 2021 15:24:32 +0200
+443536e306ee09c77521b93bbf1b104e4a856451|Converted TokenType enum to constants class|Thu, 17 Jun 2021 15:22:13 +0200|Thu, 17 Jun 2021 15:22:13 +0200
+1381e4897bf389847eded717bbd1f53234c7e0dd|Allow to configure database container with a fixed port (#988)|Thu, 17 Jun 2021 12:03:05 +0200|Thu, 17 Jun 2021 12:03:05 +0200
+0374daf5e2f2e177de5f426114836c9d24ae0653|Run tests that were previously ignored|Wed, 16 Jun 2021 17:54:56 +0200|Wed, 16 Jun 2021 17:54:56 +0200
+560041bb849dd6f80de9e50dfef8704e6b20c87b|Simplify data type codec maintenance (#987)|Wed, 16 Jun 2021 17:17:15 +0200|Wed, 16 Jun 2021 17:17:15 +0200
+67cb4c5320b7b2894f1ba31d38e937ac7c7c0e7d|Move i++ into separate line for readability|Tue, 15 Jun 2021 13:00:43 +0200|Tue, 15 Jun 2021 13:00:43 +0200
+d0b00bb6e2b57ec914a055d207a25226ee1a19f4|Delete unused StringLongSequence|Tue, 15 Jun 2021 12:43:03 +0200|Tue, 15 Jun 2021 12:43:03 +0200
+0cd43556f0a5bc4da6653aa7403cd36afe91f358|Use EMPTY_STRING constant|Tue, 15 Jun 2021 12:41:39 +0200|Tue, 15 Jun 2021 12:41:39 +0200
+8eca81b91141e9e686eb3bd25f448e6b42ba563e|Implement batch queries for MSSQL Client (#985)|Mon, 14 Jun 2021 16:06:41 +0200|Mon, 14 Jun 2021 16:06:41 +0200
+118f3e7026a07f04afa29acf86223e112248f78b|Remove dead code|Mon, 14 Jun 2021 14:07:20 +0200|Mon, 14 Jun 2021 14:07:20 +0200
+8dc6bd228d0d935545fe4e4cc6b2b32edd8be04c|Update doc for external SQL Server test database|Fri, 11 Jun 2021 09:46:13 +0200|Fri, 11 Jun 2021 09:46:13 +0200
+023bdd393daa340eda32aadaf42a501dc462bffa|Disable DB2SecureTest which fails consistently|Fri, 11 Jun 2021 09:39:49 +0200|Fri, 11 Jun 2021 09:40:03 +0200
+1cc902053f541f6690641d5324c715d38a1b4cc9|MSSQL: Fix datetime2 encoding (#982)|Fri, 11 Jun 2021 09:36:13 +0200|Fri, 11 Jun 2021 09:36:13 +0200
+dd9d0fdada57266007ec59b86fc6d7a01e65c8f8|Merge pull request #971 from mswatosh/master|Fri, 11 Jun 2021 09:08:04 +0200|Fri, 11 Jun 2021 09:08:04 +0200
+92322c48272e3d8c7d4bdce12e4611d1adab1efe|MSSQL: Document identity column retrieval (#976)|Wed, 9 Jun 2021 17:59:39 +0200|Wed, 9 Jun 2021 17:59:39 +0200
+efebfec9684149d88f886949fc15a917ce28ce03|Merge pull request #975 from tsegismont/use_jdbc_options|Wed, 9 Jun 2021 16:33:31 +0200|Wed, 9 Jun 2021 16:33:31 +0200
+70ac98aace8a145445d78c874d9327ac721ec538|MS SQL Connection Options: same as JDBC|Wed, 9 Jun 2021 16:24:24 +0200|Wed, 9 Jun 2021 16:24:24 +0200
+59a2187dfb498f99748d2f2f88034f704f82d11a|RxJava API docs updated to RxJava3 (#973)|Mon, 7 Jun 2021 10:45:10 +0200|Mon, 7 Jun 2021 10:45:10 +0200
+37fe67c1a1325a9614882bc481ea9e8c44207a6b|Directly calculate bytes, avoid Long.toUnsignedString|Fri, 4 Jun 2021 00:36:11 +0200|Fri, 4 Jun 2021 00:36:11 +0200
+a5276825d28f130b5ac3f75bf246c37a27e5ffe0|Merge branch 'master' into HexSequence-PgPreparedStatement|Fri, 4 Jun 2021 00:35:06 +0200|Fri, 4 Jun 2021 00:35:06 +0200
+49991144ee87d788dde4ab210c455f598b1cdd3d|Adding and handling QRYBLKFCT codepoint (0x215F)|Tue, 1 Jun 2021 14:00:16 -0500|Wed, 2 Jun 2021 15:03:59 -0500
+363ab81323e748b5c43c40a65f5c801760e13cb6|[#887] Add testcase for select with fetch first|Sun, 14 Feb 2021 17:16:25 +0000|Wed, 2 Jun 2021 15:02:43 -0500
+55bb3668ab54a2c5b26d4b39e0a76faf555bbe51|Add bin folders to .gitignore|Sun, 14 Feb 2021 17:28:48 +0000|Wed, 2 Jun 2021 15:02:28 -0500
+b748d80c0d73e9fda44f36ff362c5b1cc7f1d825|Add 'generated' folders to .gitignore|Sun, 14 Feb 2021 17:25:36 +0000|Wed, 2 Jun 2021 15:02:17 -0500
+8d6017bf70af8cd6471f34044724b2a39bb01a6e|Releasing 4.1.1-SNAPSHOT|Tue, 1 Jun 2021 15:59:26 +0200|Tue, 1 Jun 2021 15:59:26 +0200
+c1ba9ee3bff48dc97190a0a1c9c4083fdd6aad3a|Releasing 4.1.0|Tue, 1 Jun 2021 15:37:14 +0200|Tue, 1 Jun 2021 15:37:14 +0200
+11d8868ab4698612d790956d43542ae0e358f9d5|Prepare MS SQL Server doc before 4.1 release (#970)|Tue, 1 Jun 2021 13:45:33 +0200|Tue, 1 Jun 2021 13:45:33 +0200
+330e1d7d6e5bc1242852b58b374e06b6112c91aa|Releasing 4.1.0-SNAPSHOT|Thu, 27 May 2021 15:49:14 +0200|Thu, 27 May 2021 15:49:14 +0200
+9b218a8b6e9dde2632c369b18d3d32f3b60f32c5|Releasing 4.1.0.CR2|Thu, 27 May 2021 15:26:58 +0200|Thu, 27 May 2021 15:26:58 +0200
+f4849638d043652f29b62ed01b2bbf74cb02777b|Release TdsMessage after it's been decoded|Wed, 26 May 2021 18:31:49 +0200|Thu, 27 May 2021 09:05:15 +0200
+c4ae9a3b07db18e6ae3d3227f66b9b17fbb8061f|MSSQL binary/varbinary data type support (#964)|Wed, 26 May 2021 17:51:52 +0200|Wed, 26 May 2021 17:51:52 +0200
+848b72acceb8f46689c8819b0477e6d3513c206f|Add a NullValue API type for internal Tuple storage (#961)|Wed, 26 May 2021 15:05:02 +0200|Wed, 26 May 2021 15:05:02 +0200
+646f9ee8eb491490f1acf85f9f0b91c7128cf057|Releasing 4.1.0-SNAPSHOT|Thu, 20 May 2021 16:11:10 +0200|Thu, 20 May 2021 16:11:10 +0200
+8880e6660d904cd202560b13db89ff733afc6db5|Releasing 4.1.0.CR1|Thu, 20 May 2021 15:44:06 +0200|Thu, 20 May 2021 15:44:06 +0200
+24f24577021feff5c8147390422c14974aee74eb|Remove duplicate temporary test|Wed, 19 May 2021 11:02:53 +0200|Wed, 19 May 2021 11:02:53 +0200
+1bb8ec9f0041d850f93972cf499dacb7431b2fe8|The text array element end detector fails to find the end the second element {foo,bar\}, the parsed string by the data type codec is {foo,"bar\\"}. When the current detector handles a backslash char, it does not check if it was already escaped and thus the escaped backslash does escapes the ending quotes.|Wed, 19 May 2021 10:03:52 +0200|Wed, 19 May 2021 10:58:32 +0200
+fc79e2a972f6b3548ec8148f9691b4e3515654e3|Remove old connection pool mock tests|Fri, 14 May 2021 09:34:57 +0200|Fri, 14 May 2021 09:34:57 +0200
+480f4245ce7e63a949e61792ce898745e303e825|Update Numeric's javadoc to remove the PostgreSQL mention and instead mentions the purpose of this type|Mon, 10 May 2021 15:50:00 +0200|Mon, 10 May 2021 15:50:00 +0200
+ae2fd83c9705ca16f80d39e0856758e71a1497ff|MS SQL numeric/decimal column support with BigDecimal instead of Numeric (#956)|Fri, 7 May 2021 16:20:00 +0200|Fri, 7 May 2021 16:20:00 +0200
+1ebfc0c0235ceeb39f12acfae7896ad3c8f07e49|Releasing 4.1.0-SNAPSHOT|Fri, 7 May 2021 15:34:09 +0200|Fri, 7 May 2021 15:34:09 +0200
+3a9930bccf0eb951623d36b4466a5af0a3a43ade|Releasing 4.1.0.Beta1|Fri, 7 May 2021 15:32:00 +0200|Fri, 7 May 2021 15:32:00 +0200
+7934684555cc6181bf8db20106f95f7536325ae3|Merge remote-tracking branch 'eclipse-vertx/master' into HexSequence-PgPreparedStatement|Fri, 7 May 2021 10:29:35 +0200|Fri, 7 May 2021 11:01:20 +0200
+c804cc7f2d5fb2aa3a4b4d178e4e90bca3ce561d|Don't override toString in MSSQLException|Thu, 6 May 2021 18:47:48 +0200|Thu, 6 May 2021 18:47:48 +0200
+d71466ec064e07bb8358dbab8508f518c92c5ac6|Use 4000 varchar limit instead of max (#955)|Wed, 5 May 2021 18:02:23 +0200|Wed, 5 May 2021 18:02:23 +0200
+1721afc9c61feae552b44a4905eb6f13c7daf388|MS SQL response can have multiple error tokens (#954)|Wed, 5 May 2021 17:33:51 +0200|Wed, 5 May 2021 17:33:51 +0200
+3c103f2f9bfc5c43d8460b45002265243598d18e|MS SQL Always use max precision/scale when inferring column type (#952)|Tue, 4 May 2021 16:35:01 +0200|Tue, 4 May 2021 16:35:01 +0200
+d87159c3ec3ea2fb28f38a84ccf44923aadcf7dd|MSSQL Client support for datetime columns (#951)|Tue, 4 May 2021 16:34:52 +0200|Tue, 4 May 2021 16:34:52 +0200
+ddd67483f8dbf2a1f563afe241d4b6584678fd7a|Fix missing context handling|Tue, 4 May 2021 11:30:23 +0200|Tue, 4 May 2021 11:30:23 +0200
+8627c1a4179534c6bd49005825ad048df1e45430|Handle correctly all kind of contexts|Tue, 4 May 2021 11:14:07 +0200|Tue, 4 May 2021 11:14:07 +0200
+e6de7f22e3327a70cf3dc48583f765d4dc5078c7|MSSQL queries failure when ORDER BY clause is present (#950)|Tue, 4 May 2021 10:31:43 +0200|Tue, 4 May 2021 10:31:43 +0200
+badc5efb7ed8f4267c4db4b82fd446e515ad1e16|Fixes for numeric/decimal support (#946)|Tue, 4 May 2021 10:31:29 +0200|Tue, 4 May 2021 10:31:29 +0200
+997dbf1736879314856dd7163a956c1df58fde91|Update to old pool removal|Fri, 30 Apr 2021 14:44:57 +0200|Fri, 30 Apr 2021 14:44:57 +0200
+6c3dcdee1a557a9a50a0e7d5903e6507de7cecdd|Test for connection leaks (#936)|Mon, 26 Apr 2021 15:19:37 +0200|Mon, 26 Apr 2021 15:19:37 +0200
+3da0ed9ff7eade8de20b40b08f9758b04fc4d5e9|Prepared query execution attempts to get the value it needs from the provided tuple according to the types expected by the prepared query. This step coerces the tuple element to the expected element prior encoding, this step can fail with an uncaught exception such as a class cast. The PostgreSQL implementation catches a class cast exception but it does not for uncaught exception, e.g providing an incorrect UUID as a string that cannot be parsed.|Fri, 23 Apr 2021 16:14:28 +0200|Mon, 26 Apr 2021 09:05:39 +0200
+de62db9514fc9cfa1a45ad20cb9dcc708b926341|Use a java.security file for DB2 that allows TLS 1.1 since latest OpenJDK distribution disables it|Sun, 25 Apr 2021 22:36:17 +0200|Sun, 25 Apr 2021 22:37:29 +0200
+b1da9b1249dcddc3e3d259a3fa6c28745865aa82|Avoid automatic roll back of a transaction on a query failure. The PostgreSQL implementation notifies the transaction instance when the database transaction is failed and cannot succeed allowing the transaction to rollback when it ends instead of commit.|Wed, 21 Apr 2021 09:16:05 +0200|Wed, 21 Apr 2021 18:48:33 +0200
+6e7f76b54d13f29b7dd0e733729861770bdfdf06|Use a smaller pool requests as this sometimes times out|Mon, 19 Apr 2021 16:16:12 +0200|Mon, 19 Apr 2021 16:16:12 +0200
+5fb935ff9ede1896e4fdf272a803099717b3877d|Fixe tests passing anymore due to d03f06806a1aad71f078259861f7705fb50200bb|Mon, 19 Apr 2021 11:19:20 +0200|Mon, 19 Apr 2021 11:19:20 +0200
+0bd1571d033ba35f57d188472c902b81b35dbd11|Log the change of a parameter reported by parameter status notification|Mon, 19 Apr 2021 08:55:45 +0200|Mon, 19 Apr 2021 08:56:00 +0200
+d03f06806a1aad71f078259861f7705fb50200bb|Merge pull request #928 from tsegismont/datetimeoffset|Fri, 16 Apr 2021 10:52:12 +0200|Fri, 16 Apr 2021 10:52:12 +0200
+d98199aaa1ef8e05894acbd1c668131d9b6eb46d|MSSQL: fixed null bitmap compression decoding|Tue, 13 Apr 2021 15:06:07 +0200|Tue, 13 Apr 2021 15:06:07 +0200
+f4fdcd97d98a5579f5d7e86949c2fdb9cb7fe363|int40 encoding: writer index increased automatically|Mon, 29 Mar 2021 18:39:14 +0200|Tue, 13 Apr 2021 12:53:47 +0200
+e1f52781612ea16b2799911fce5f20b6bfbc2407|SQL Server: more for datetimeoffset support|Mon, 29 Mar 2021 18:11:36 +0200|Tue, 13 Apr 2021 12:53:47 +0200
+e5f5fdb3dd436448cb0c224bf79a6c8c75dec9bf|Initial work for datetimeoffset support|Sat, 27 Mar 2021 11:09:49 +0100|Tue, 13 Apr 2021 12:53:47 +0200
+f2f883c06beb8a405a451afec098a87b6d1f3c51|Merge pull request #874 from eclipse-vertx/new-pool-impl|Mon, 12 Apr 2021 17:30:58 +0200|Mon, 12 Apr 2021 17:30:58 +0200
+b4768ca6c0ae5faec164ec06b36c97c364883aff|Reimplement connection pool|Sat, 16 Jan 2021 15:19:43 +0100|Mon, 12 Apr 2021 15:31:02 +0200
+ad7bbf4aac841af7cb6b3acd125f4f21b1dacc43|Merge pull request #925 from tsegismont/sqlserver-tests-changes|Wed, 7 Apr 2021 12:19:03 +0200|Wed, 7 Apr 2021 12:19:03 +0200
+db66eb6a4867e45070147cb915297f02c4ed83cd|Refactor CommandScheduler to return a Future|Sat, 16 Jan 2021 16:12:08 +0100|Fri, 2 Apr 2021 15:35:38 +0200
+ca3136d310c0fd7a0401c785821a15bd432266e5|Decouple ConnectionFactory from Context|Sat, 16 Jan 2021 13:25:41 +0100|Fri, 2 Apr 2021 15:35:38 +0200
+2362737ae8ec5ab164ad18bcf39beca85a903e10|Rename ConnectionPool -> SqlConnectionPool|Sat, 16 Jan 2021 12:17:20 +0100|Fri, 2 Apr 2021 15:35:38 +0200
+d60af7950df7a1af2da45263b776274a5554d768|Added a test to ensure pipelining on a pool|Mon, 25 Jan 2021 15:24:53 +0100|Fri, 2 Apr 2021 15:35:38 +0200
+1271efb19983bfead15acfd04ae63b73bb167967|Merge pull request #757 from tsegismont/ps-handle|Tue, 30 Mar 2021 17:53:37 +0200|Tue, 30 Mar 2021 17:53:37 +0200
+478618d9d0e71bc84ac7190cce5ecf73bfe95d4a|Set version to 4.1.0-SNAPSHOT|Tue, 30 Mar 2021 10:36:22 +0200|Tue, 30 Mar 2021 10:36:22 +0200
+dedbc8ff20d87181a7e49ad3b833395648f0902e|Support external SQL Server testing|Mon, 29 Mar 2021 11:14:12 +0200|Mon, 29 Mar 2021 11:14:12 +0200
+f1767798f2f607f38d711220016dadd3a87e40f6|Fix MS SQL container versions|Wed, 24 Mar 2021 14:46:25 +0100|Mon, 29 Mar 2021 10:29:42 +0200
+fb39afa48ae84dbe9c57a438cd277a0c08819cfe|Test latest major MSSQL versions|Wed, 24 Mar 2021 14:32:38 +0100|Mon, 29 Mar 2021 10:29:42 +0200
+6826b83aad7754b91de5a2801bb97da2a9bc1ec5|Make MS SQL Server container image version configurable|Wed, 24 Mar 2021 12:07:22 +0100|Mon, 29 Mar 2021 10:29:42 +0200
+90ee7b2c38ef94138210eb72e78a257e7c605fb4|Removed redundant slice method call|Sat, 27 Mar 2021 11:14:07 +0100|Sat, 27 Mar 2021 11:14:07 +0100
+e6b7bf7d32e39efd3c1297794015f2fc1483ef57|DataPacketStreamTokenType: replace HashMap with IntObjectMap|Wed, 24 Mar 2021 18:49:11 +0100|Sat, 27 Mar 2021 11:11:44 +0100
+04b855f024fb5c0d2bb5121411c75a42a508335d|Support sp_execute and sp_unprepare|Wed, 9 Sep 2020 17:51:56 +0200|Sat, 27 Mar 2021 11:11:44 +0100
+5ffbac928599d78d26ea5a7e7ca4cd8a8a947a1b|Read prepared statement handle|Tue, 8 Sep 2020 23:44:19 +0200|Sat, 27 Mar 2021 11:11:44 +0100
+85b7a3578cbdbfc2f4861443ac2e00f6ef585e96|Merge pull request #927 from tsegismont/scaling-fixes|Sat, 27 Mar 2021 11:03:21 +0100|Sat, 27 Mar 2021 11:03:21 +0100
+9896b03064cbebfa3a5cd1fd7a2463f72a5c215c|Updated the list of supported types|Fri, 26 Mar 2021 15:42:07 +0100|Fri, 26 Mar 2021 15:42:07 +0100
+09e88e53f45908f720a938b1a3d535e09c44e2b8|Add support for SQL Server connection URI (#859)|Fri, 26 Mar 2021 21:41:15 +0800|Fri, 26 Mar 2021 21:41:15 +0800
+38b461a83e6aabd9bcf3b5eb035d9e2abe04dd9c|MS SQL: Fix time and datetime2 scale handling|Fri, 26 Mar 2021 11:55:54 +0100|Fri, 26 Mar 2021 11:57:26 +0100
+7959db79f15e5bc0c158fc5b685903a1026a2b2c|Remove obsolete dataobjects.adoc|Mon, 22 Mar 2021 15:47:01 +0100|Mon, 22 Mar 2021 15:47:01 +0100
+6427a6706de13aad1831c315a619129714fd9008|The DB2 protocol decoder computeLength incorrectly check the max amount of bytes it can read and can perform a read beyond the writer index.|Wed, 17 Mar 2021 15:27:29 +0100|Wed, 17 Mar 2021 15:38:47 +0100
+4fc7a3501ab48ddb46b139f589b5ebaade8802a9|Adapt to CloseFuture internal API change|Tue, 16 Mar 2021 14:46:36 +0100|Tue, 16 Mar 2021 14:46:36 +0100
+64926991464f1734feeefce359146c048ac9ae74|Releasing 4.0.4-SNAPSHOT|Fri, 12 Mar 2021 16:16:45 +0100|Fri, 12 Mar 2021 16:16:45 +0100
+8fdfc98dd41b21b75c852b898f94b8d4001371ea|Releasing 4.0.3|Fri, 12 Mar 2021 15:46:56 +0100|Fri, 12 Mar 2021 15:46:56 +0100
+0ae23af26de5120d97387a5b82a7381ae6e60c71|Pool#withTransaction rolls back a transaction when the future returned by the method fails. When the transaction rolls back, we should avoid trying to roll back this transaction for an obvious reason.|Fri, 12 Mar 2021 08:23:21 +0100|Fri, 12 Mar 2021 08:24:36 +0100
+3aad37c10193db43d1fcdbdc7011f59be3914005|update README (#912)|Sat, 6 Mar 2021 11:19:31 +0800|Sat, 6 Mar 2021 11:19:31 +0800
+7d7e32cbd38b9140a62c94f2a6213baf286352e1|Fix incorrect CI snapshot deployment|Mon, 1 Mar 2021 10:07:04 +0100|Mon, 1 Mar 2021 10:07:04 +0100
+c276171f2db59ccf7b8d407889b6aa4a5788e787|fix format problems|Fri, 26 Feb 2021 08:37:27 +0800|Fri, 26 Feb 2021 08:35:17 +0100
+cf9660c75065ed94f0aed3731c1dbf24da8e9e8c|Document batch queries using a RETURNING clause on PostgreSQL  - fix #903|Tue, 23 Feb 2021 21:56:48 +0100|Tue, 23 Feb 2021 21:58:03 +0100
+9af73678e6c352959dc1b6181cc6f9b69574a67b|Fix MySQL server version parser for whitespaces (#898)|Fri, 19 Feb 2021 17:11:14 +0700|Fri, 19 Feb 2021 18:11:14 +0800
+773a246ab6d6cc2edf6588e9eb2452a8112b8a8c|Configure new distribution infrastructure|Wed, 17 Feb 2021 11:34:32 +0100|Wed, 17 Feb 2021 11:34:32 +0100
+573ec892e1fbc207c73311d9ee5f2f2d366649a8|Merge pull request #895 from tsegismont/pool-idle-4.x|Tue, 16 Feb 2021 17:24:53 +0100|Tue, 16 Feb 2021 17:24:53 +0100
+c1d3ba156bdcf71117a945a1cbcb8bd4a1eb45a4|Port pool idle timeout changes from 3.9|Tue, 16 Feb 2021 16:42:38 +0100|Tue, 16 Feb 2021 16:48:23 +0100
+8e577af6238cb5538b9dea52164645106ccdb13a|The PostgreSQL codec uses a read and write buffers that accumulate data to be sent. Sometimes the codec can be closed before the flush operation leading to un released buffers.|Tue, 16 Feb 2021 09:46:32 +0100|Tue, 16 Feb 2021 10:47:34 +0100
+a9100061eeda31cd5060ff96276c6222d5b3ea66|Revert "Port pool idle timeout changes from 3.9"|Tue, 16 Feb 2021 00:29:44 +0100|Tue, 16 Feb 2021 00:29:44 +0100
+cec071365d60136571f7b62684fcb5430199d0b6|Set a reasonnable repeat value for checkBorderConditionBetweenIdleAndGetConnection|Tue, 16 Feb 2021 00:20:18 +0100|Tue, 16 Feb 2021 00:20:18 +0100
+acfa2f19562326dbefec6e78fdaf667c69644652|Disable lead detector in tests as it really make tests slower|Tue, 16 Feb 2021 00:12:46 +0100|Tue, 16 Feb 2021 00:13:21 +0100
+99ba93bd70b8bbb7730ccc0f83e0b436d0460293|Upgrade Testcontainers to 1.15.2|Mon, 15 Feb 2021 09:19:46 +0000|Mon, 15 Feb 2021 23:16:16 +0100
+0864c663167a177eebab46faefc63657cc8ef574|Remove un-necessary repeat|Mon, 15 Feb 2021 23:12:13 +0100|Mon, 15 Feb 2021 23:12:25 +0100
+ee3e4667449aec424dd344e7f578d091d4a2d916|Port pool idle timeout changes from 3.9|Mon, 15 Feb 2021 18:11:46 +0100|Mon, 15 Feb 2021 18:11:46 +0100
+6bff3294a806ecffe561f20108d6f9624b0dae55|Revert "Upgrade Testcontainers to 1.15.2"|Mon, 15 Feb 2021 14:23:57 +0100|Mon, 15 Feb 2021 14:23:57 +0100
+33f9331707058234da04a5c3795819edaf57b8ad|Merge pull request #890 from DavideD/update-testcontainers|Mon, 15 Feb 2021 12:35:14 +0100|Mon, 15 Feb 2021 12:35:14 +0100
+4bc0c8fa1e8cdceb9ad65a0f189f878f69d44d24|Upgrade Testcontainers to 1.15.2|Mon, 15 Feb 2021 09:19:46 +0000|Mon, 15 Feb 2021 09:21:12 +0000
+e26f72f48e116ac1a7468eed2047f0719eb26a46|Releasing 4.0.3-SNAPSHOT|Fri, 5 Feb 2021 09:47:46 +0100|Fri, 5 Feb 2021 09:47:46 +0100
+e5c218311b9c858c5bd7298c3b93e38aceab3ba1|Releasing 4.0.2|Fri, 5 Feb 2021 08:49:54 +0100|Fri, 5 Feb 2021 08:49:54 +0100
+0d8a725d8e682dd0b0a97fea3d37f74632979bf1|Releasing 4.0.2-SNAPSHOT|Wed, 3 Feb 2021 11:42:14 +0100|Wed, 3 Feb 2021 11:42:14 +0100
+ff64163ea01e72bf40caa66fa7c2549a61b66b32|Releasing 4.0.1|Wed, 3 Feb 2021 10:41:11 +0100|Wed, 3 Feb 2021 10:41:11 +0100
+938131c53d76e1fc2a433f1d0f5450a44040405d|Netty channel write and flush should try to use void channel promise|Sun, 20 Dec 2020 20:32:29 +0800|Wed, 3 Feb 2021 10:28:35 +0100
+2ef215879a8d139ff30b0dd82d6c43326f6b1e96|Force the pool to use the same event loop context than the connection to avoid races with workers - see #823|Tue, 2 Feb 2021 23:22:27 +0100|Tue, 2 Feb 2021 23:23:01 +0100
+e7f38e798512e17c7958d3faad41633b60b81abf|Merge pull request #880 from gunnarmorling/patch-1|Mon, 1 Feb 2021 11:00:42 +0100|Mon, 1 Feb 2021 11:00:42 +0100
+34937cc0e6c91c6a2544a8c1f9b7f2780faa2da6|Fixing incorrect link syntax|Sun, 31 Jan 2021 10:39:09 +0100|Sun, 31 Jan 2021 10:39:09 +0100
+fbbdb6d19242b53472520b748132e0b6549787cf|Merge pull request #876 from tsegismont/issue/243|Mon, 25 Jan 2021 11:05:30 +0100|Mon, 25 Jan 2021 11:05:30 +0100
+daa2a85d02d95f5fa64e21732a9923290a2549ef|Add cast method to connection classes|Fri, 22 Jan 2021 13:15:49 +0100|Fri, 22 Jan 2021 13:15:49 +0100
+fd19bdb9f2e1e1d1318708b860e43dbe422507fc|Fixed error on empty DATE handling in binary and text protocol (#872)|Fri, 15 Jan 2021 02:04:33 +0100|Fri, 15 Jan 2021 09:04:33 +0800
+566f8ad0966d78b70bce9a910271f86c7814e95d|Merge pull request #751 from tsegismont/datetime2|Wed, 13 Jan 2021 21:01:49 +0100|Wed, 13 Jan 2021 21:01:49 +0100
+a889b1391501e69d91b5d6d3ceb55d9cde11a7be|Support for datetime2 data type|Wed, 13 Jan 2021 17:59:54 +0100|Wed, 13 Jan 2021 17:59:54 +0100
+60fdcd786fbbd7565d5c4e93a9bf905f07b8045f|Removes unused decodor from 'PgEncoder' and 'PgCodec'|Sun, 27 Dec 2020 13:57:05 +0300|Mon, 4 Jan 2021 10:15:48 +0100
+6ce6413cb6f96de2b5e78ba98506ad8aec76d9ed|Add tests for checking pooled MySQL connections closed by server due … (#865)|Thu, 24 Dec 2020 00:52:07 +0800|Thu, 24 Dec 2020 00:52:07 +0800
+e3773a3f523407e13a7ece2c909f0a893c752c55|Fix the incorrect hostname of proxy server in connection auto retry testsuite (#857)|Thu, 17 Dec 2020 17:07:13 +0100|Fri, 18 Dec 2020 00:07:13 +0800
+bba29f932efea909a9800f877823b55eff653a38|Merge pull request #855 from tsegismont/issue/851|Wed, 16 Dec 2020 10:53:23 +0100|Wed, 16 Dec 2020 10:53:23 +0100
+dd0000ced0d80e2ad146aa6024112a0012eb5794|skip the failing sql server test as the command response is not handled correctly for now|Wed, 16 Dec 2020 01:12:58 +0800|Wed, 16 Dec 2020 01:12:58 +0800
+93b12a0ed0205093e1cf933f637eab9ea9e1dbed|Added 42804 to indeterminate statement errors|Tue, 15 Dec 2020 17:42:35 +0100|Tue, 15 Dec 2020 17:42:35 +0100
+cc3b6c99c7110ad98fd350c3d7f51b997c907305|Use UTC timezone when testing LocalDate|Tue, 15 Dec 2020 08:58:22 +0100|Tue, 15 Dec 2020 10:20:16 +0100
+36e9b9c3ec454839ce41fe683bd02c89db1b251e|Force actual connections to use an EventLoopContext to ensure all operations are done on the event-loop, allowing API to use worker concurrency - close #825|Mon, 14 Dec 2020 08:56:19 +0100|Mon, 14 Dec 2020 09:14:03 +0100
+f8755dc812191130cea8a1b3558957806386ba1e|Improve examples using future composition|Fri, 11 Dec 2020 22:29:00 +0100|Fri, 11 Dec 2020 22:29:00 +0100
+bdf4464e14afe9a20f829c5d39bd25c00e04f824|Improve examples|Fri, 11 Dec 2020 22:12:31 +0100|Fri, 11 Dec 2020 22:12:31 +0100
+a9e38b7995395dadedf708880ac9de796da54f32|Doc typo|Fri, 11 Dec 2020 00:57:14 +0100|Fri, 11 Dec 2020 00:57:14 +0100
+4cd08b8e59b67a3e4a33a2ee7fb4389536138774|Improve SqlConnectionImpl#close(Promise) to use context.execute rather than checking the context|Thu, 10 Dec 2020 09:09:19 +0100|Thu, 10 Dec 2020 09:09:19 +0100
+9f594c72ed76200cbd09464687658cf73286f0c9|Merge pull request #848 from BillyYccc/issues/847|Thu, 10 Dec 2020 08:58:59 +0100|Thu, 10 Dec 2020 08:58:59 +0100
+ce73aae89f5b511e222bceb2c6d7650fa164d448|update according to reviews|Thu, 10 Dec 2020 08:03:24 +0800|Thu, 10 Dec 2020 08:03:30 +0800
+d081780616c31bcc923121ece8b2099ea96ab456|the close handler should be called when the sql connection is closed|Wed, 9 Dec 2020 23:55:17 +0800|Wed, 9 Dec 2020 23:55:17 +0800
+33407c3ddfc8cd7affe2e77c585b97a5afd62f19|Use fail-fast false so a failing DB will not prevent other DB to be tested|Wed, 9 Dec 2020 15:58:20 +0100|Wed, 9 Dec 2020 15:58:20 +0100
+ef3bc5e48cf84945a08215b7cdf0511e2d712c13|Releasing 4.0.1-SNAPSHOT|Mon, 7 Dec 2020 17:15:46 +0100|Mon, 7 Dec 2020 17:15:46 +0100
+9d9d56dc8bcd30e525e177ff462212b11c55dd07|Releasing 4.0.0|Mon, 7 Dec 2020 14:23:03 +0100|Mon, 7 Dec 2020 14:23:03 +0100
+6a30c91c5025b0c78dcb46e9b303c307edb76269|Missing future methods|Sun, 6 Dec 2020 18:56:51 +0100|Sun, 6 Dec 2020 18:56:51 +0100
+bdafc65c3888e8ca05186fc746dbd91d057c533b|Create Tuple a tuple from a list/array that is copied - fixes #845|Sun, 6 Dec 2020 11:36:43 +0100|Sun, 6 Dec 2020 11:36:43 +0100
+f94ac56b07e1940a167e6407148b3e46998f8630|Docs for retries|Sun, 6 Dec 2020 11:29:39 +0100|Sun, 6 Dec 2020 11:29:39 +0100
+6fa139fc3963c0f4cb7976a9b3b3b39bfef12b33|Merge pull request #843 from BillyYccc/feature/connection-retry|Sun, 6 Dec 2020 11:09:18 +0100|Sun, 6 Dec 2020 11:09:18 +0100
+cf2d0563d850ab5c263982ffbc860ba4d89cbbe7|add support for connection retry|Sat, 5 Dec 2020 13:16:31 +0800|Sun, 6 Dec 2020 08:14:25 +0800
+21af78cc8332b2217716be3e607b6e5b8814078f|build a SqlConnectionFactoryBase to reduce duplicating common connection factory code|Sat, 5 Dec 2020 09:54:55 +0800|Sun, 6 Dec 2020 08:14:25 +0800
+68997bc1703c5f105cdebd9be197775e1c93ac22|Merge pull request #844 from BillyYccc/fix-race-inflight-failure|Sun, 6 Dec 2020 08:13:41 +0800|Sun, 6 Dec 2020 08:13:41 +0800
+2ced7db42a8ca15cae2b1dd9ca151a7c1d225a5b|fix race for the inflight requests failure reporting|Sun, 6 Dec 2020 07:58:15 +0800|Sun, 6 Dec 2020 07:58:15 +0800
+b11928a542916a1a7ee0413f04976088035b7df5|SQL Server inflight commands should be reported failure when connection gets closed (#842)|Sat, 5 Dec 2020 21:18:02 +0800|Sat, 5 Dec 2020 21:18:02 +0800
+df3b6d24f16e668308db96afcd4019dbe1bc329f|MySQL inflight commands should be reported failure when connection gets closed (#840)|Sat, 5 Dec 2020 21:16:43 +0800|Sat, 5 Dec 2020 21:16:43 +0800
+a08a7d7d97bdfa9b209afd76d866f4915d448712|add a test for verifying postgres inflight commands being reported failure when connection gets closed (#838)|Sat, 5 Dec 2020 21:14:31 +0800|Sat, 5 Dec 2020 21:14:31 +0800
+f2eb0c03a2c2dedffa42254e5ece4d6cad68e5cb|The Tuple wrap method is overloaded to handle a list or an array, however calling wrap with a list will actually wrap it as an array with a list as single value. We should change wrap(List<Object>) → wrap(List<T>) and wrap(Object...) → wrap(Object[]). - fixes #801|Fri, 4 Dec 2020 17:53:29 +0100|Fri, 4 Dec 2020 17:53:29 +0100
+28051806bad5cf9c415c460ebd37635b4277f1c2|Use Future#eventually in PoolBase to close metrics to ensure they are always closed|Fri, 4 Dec 2020 17:07:13 +0100|Fri, 4 Dec 2020 17:07:26 +0100
+07ad32aa46a323b36700f1bd0c6c76e22f065475|Fix the incorrect execution flow for handling MySQL infile request empty file (#830)|Fri, 4 Dec 2020 22:38:54 +0800|Fri, 4 Dec 2020 22:38:54 +0800
+e6076f73905480b5bab8082a7d431a706b48d693|MySQL default authentication plugin support and cleartext password support (#829)|Fri, 4 Dec 2020 22:38:30 +0800|Fri, 4 Dec 2020 22:38:30 +0800
+3eb309340e52e0aa088120bf67af59875b0497fe|Rewrite the internal state transition of the Transaction to better handle reentrancy. A few simplification have been made too. fixes #833|Thu, 3 Dec 2020 18:37:20 +0100|Thu, 3 Dec 2020 19:37:41 +0100
+bb56e651a9c851fd475631e1e9acace69bd006bc|Deploy SNAPSHOT on cron GitHub events|Wed, 2 Dec 2020 18:25:30 +0100|Wed, 2 Dec 2020 18:25:30 +0100
+79ed7de95b18b272783b8b45cf83bf07d06caaf5|remove println in test|Thu, 3 Dec 2020 00:58:05 +0800|Thu, 3 Dec 2020 00:58:05 +0800
+d1406208b0ae06a49b7b9e15f6cb412c5381ca00|Remove Maven repository caching from CI action|Wed, 2 Dec 2020 14:07:43 +0100|Wed, 2 Dec 2020 14:07:43 +0100
+47291ec2aca02b0e6798c596308bf1df5ca030f0|Add json element accessor for row (#816)|Wed, 2 Dec 2020 09:05:11 +0800|Wed, 2 Dec 2020 09:05:11 +0800
+07ef44d1d2a31ce53299ea47b3758dc2e9640571|Fix typo getArrayOfXXX → getArrayOfXXXs|Tue, 1 Dec 2020 13:58:36 +0100|Tue, 1 Dec 2020 13:58:36 +0100
+8285165fabbda192745563cb3804be10398581c6|Add getArrayOfXXX/addArrayOfXXX and remove getXXXArray/addXXXArray in Tuple and Row - see #821|Mon, 30 Nov 2020 17:26:04 +0100|Mon, 30 Nov 2020 20:39:03 +0100
+86dada57a8af30b62c48b54db4ab585f922810f8|Remove <ul><li> markup that is not exported to apidocs|Fri, 20 Nov 2020 15:19:12 +0100|Mon, 30 Nov 2020 16:00:05 +0100
+8e037c6fac3e2ad8229d187a8142987706773fd5|Fix method summary of Transaction.completion javadoc|Thu, 22 Oct 2020 16:53:57 +0200|Mon, 30 Nov 2020 16:00:05 +0100
+4a90fc5f1c30041b6eea3304760f0cb50acde9c3|fix MySQL buffer reference leak (#813)|Sun, 29 Nov 2020 09:24:20 +0800|Sun, 29 Nov 2020 09:24:20 +0800
+a6dba023704e922b02ce6c7dd8e1bb6c23acb417|DataTypeCodec with Locale causes DateTimeParseException on '4714-11-24 00:00:00 BC'|Fri, 27 Nov 2020 23:46:14 +0100|Sat, 28 Nov 2020 09:08:14 +0100
+df400dd473ebe745aec1ba8ab9c6961be70ac732|withTransaction and withConnection should return nullable values|Thu, 26 Nov 2020 21:29:08 +0100|Thu, 26 Nov 2020 21:29:08 +0100
+299e1a11ff4f2647ec6aa57759e2a493d641c596|Update CI badge|Mon, 23 Nov 2020 19:01:52 +0100|Mon, 23 Nov 2020 19:01:52 +0100
+4aff11c41d577d9588fc01ad568be4a5221c29a4|Cleanup useless travis CI files|Mon, 23 Nov 2020 17:38:21 +0100|Mon, 23 Nov 2020 17:38:21 +0100
+0608a41825e68e21e6a2b694f344e2ca81c58a1b|Remove junit publish action that can't work with PR from forkeks|Mon, 23 Nov 2020 17:29:36 +0100|Mon, 23 Nov 2020 17:29:36 +0100
+c072b47e296ee66f7c7c1d4629ada0560f07c5c7|Only publish junit results when the PR comes from the same repo|Mon, 23 Nov 2020 16:23:24 +0100|Mon, 23 Nov 2020 16:23:24 +0100
+cb2eeebe1b593ea217e2cd3f2a7ed29ba3d23841|Releasing 4.0.0-SNAPSHOT|Mon, 23 Nov 2020 12:39:05 +0100|Mon, 23 Nov 2020 12:39:05 +0100
+2a4a8cec8cbc6f3ba89132e8c7c24cfa95058f7e|Releasing 4.0.0.CR2|Mon, 23 Nov 2020 11:55:11 +0100|Mon, 23 Nov 2020 11:55:11 +0100
+328cb5c7164fd8b51a23911a692b03a56a2aae05|decoding MySQL JSON data type should only use UTF-8 charset (#803)|Sun, 22 Nov 2020 17:31:30 +0800|Sun, 22 Nov 2020 17:31:30 +0800
+4ec061747b95647546ea39a8f20260f455cf74e8|Add missing async handler method|Thu, 19 Nov 2020 15:59:27 +0100|Thu, 19 Nov 2020 15:59:27 +0100
+6330df941a826633b467c12766a21dc88ff719ac|Change junit report action|Sat, 14 Nov 2020 09:53:24 +0100|Sat, 14 Nov 2020 09:53:24 +0100
+8c55351b0931c21e327a2325a0ed474629b5a100|GitHub actions CI|Wed, 11 Nov 2020 10:05:31 +0100|Fri, 13 Nov 2020 16:09:32 +0100
+ab051005de80102c8ec3b22f6d1ffd735d90cdc1|Remove system.out.println in test|Mon, 9 Nov 2020 14:47:59 +0100|Mon, 9 Nov 2020 14:47:59 +0100
+f48daa2803084d2aab33f6d65d5cb102d1c3411b|Support PostgreSQL timestamp/timestamptz/localdate special values - close #800|Mon, 9 Nov 2020 10:07:27 +0100|Mon, 9 Nov 2020 14:47:30 +0100
+f5ceca20591dff280a25f43529a7ed4cd0a26815|Releasing 4.0.0-SNAPSHOT|Sun, 1 Nov 2020 15:11:25 +0100|Sun, 1 Nov 2020 15:11:25 +0100
+2ca3d925181f98a5d2e62049d8c8d1b3f4069550|Releasing 4.0.0.CR1|Sun, 1 Nov 2020 11:23:36 +0100|Sun, 1 Nov 2020 11:23:36 +0100
+e70cad7e106d7bc95769c7d45fe98217bef578d1|Tracing documentation|Fri, 30 Oct 2020 15:53:27 +0100|Fri, 30 Oct 2020 15:53:27 +0100
+9291170f09f8360c1c0547c680151c361867d382|Support SpanKind|Wed, 28 Oct 2020 17:04:20 +0100|Wed, 28 Oct 2020 17:04:20 +0100
+e3375682a24488b8b7d475f0fd4831a5aef735c3|Support tracing policy configuration.|Fri, 23 Oct 2020 14:36:34 +0200|Sat, 24 Oct 2020 10:03:16 +0200
+d4d60e3594058e21736e17079161dfba6056c8dc|Minor|Thu, 22 Oct 2020 13:50:13 +0200|Thu, 22 Oct 2020 13:50:13 +0200
+4d9e1ffcda16ca38714fce48063689bef26e6302|Increase delay in PgPoolTest.testUseAvailableResources|Tue, 20 Oct 2020 13:06:08 +0200|Wed, 21 Oct 2020 12:57:41 +0200
+bfb46b5e82a96f214377d1c33a2974dc20239089|Merge pull request #783 from eclipse-vertx/dependabot/maven/junit-junit-4.13.1|Tue, 13 Oct 2020 09:59:14 +0200|Tue, 13 Oct 2020 09:59:14 +0200
+22867c043940819076cc66df36f05a6cb2c85822|Bump junit from 4.12 to 4.13.1|Tue, 13 Oct 2020 04:58:20 +0000|Tue, 13 Oct 2020 04:58:20 +0000
+c869c319a523f18df092326c51f90d9620b7cb72|Change Pool.withTransaction to provide an SqlConnection in order to allow prepared queries and stream possible. Added withConnection that is similar but does not demarcate a transaction|Fri, 25 Sep 2020 14:06:17 +0200|Fri, 25 Sep 2020 14:33:20 +0200
+dce4520381b1bb905b571e3223e3ae65ee82ac35|RowStream fetch implementation should take in account when a read operation is in progress otherwise it might take incorrect decisions - see #778|Fri, 25 Sep 2020 11:20:02 +0200|Fri, 25 Sep 2020 11:49:10 +0200
+fa0e5a8ae33b2973bbb52ad09b1f1ed9caba5795|Removed unused import|Thu, 24 Sep 2020 16:29:33 +0200|Thu, 24 Sep 2020 16:29:33 +0200
+b2ef15484bdbf8ecc326f537bee6da6f97a0c613|Rework mappers to generate @VertxGen mappers that can then be rxified|Thu, 24 Sep 2020 11:38:50 +0200|Thu, 24 Sep 2020 15:25:11 +0200
+bad605c13e2cadcb08a63d6b4972a96708a0e389|Merge pull request #771 from eclipse-vertx/tuple-improvements|Thu, 24 Sep 2020 10:19:26 +0200|Thu, 24 Sep 2020 10:19:26 +0200
+6c94fbda5b1665f3a9710248557f0c992f7b6cf5|Anemic JSON parameters for SQL templates using a JSON tuple - close #776|Tue, 22 Sep 2020 17:21:04 +0200|Thu, 24 Sep 2020 09:53:43 +0200
+ae671aae53fa09fcbfd740bc71df55cf9e7a1eea|Reimplement PostgreSQL query parameter preparation to use tuple typed getters instead of the generic getValue.|Mon, 21 Sep 2020 08:38:36 +0200|Thu, 24 Sep 2020 09:47:34 +0200
+6d681fa2412cec238502dd79e8292df4d4aaf7e5|Tuple now throws ClassCastException or NoSuchElementException instead of returning null when the returned type is not correct or the column does not exist|Tue, 22 Sep 2020 10:40:19 +0200|Thu, 24 Sep 2020 09:38:26 +0200
+cf6ee2fb6ec8f96f9fcc0836c4a7e7896d42c222|Rework SQL template to use index lookup|Wed, 23 Sep 2020 22:32:11 +0200|Wed, 23 Sep 2020 22:55:20 +0200
+c036b2ea5329dd483a507bb8e737b9f380628871|Releasing 4.0.0-SNAPSHOT|Thu, 17 Sep 2020 16:53:39 +0200|Thu, 17 Sep 2020 16:53:39 +0200
+8bcabd814913aa8b9ceb8e8ca1a05f9dda964bd6|Releasing 4.0.0.Beta3|Thu, 17 Sep 2020 16:05:58 +0200|Thu, 17 Sep 2020 16:34:36 +0200
+d37fca537a86b1038ac601156113ac1ee07f4412|Remove kotlin version set|Thu, 17 Sep 2020 16:34:04 +0200|Thu, 17 Sep 2020 16:34:04 +0200
+9dbd37a8d8365fc1dc91173517b9be7114b84694|Merge pull request #763 from eclipse-vertx/column-descriptor-master|Mon, 14 Sep 2020 12:01:44 +0200|Mon, 14 Sep 2020 12:01:44 +0200
+b5bed768bf336f7be1099db71476a3bcda0f572e|Column descriptor MSSQL implementation|Mon, 14 Sep 2020 11:45:35 +0200|Mon, 14 Sep 2020 11:45:35 +0200
+c6dbb9f6a29ca7c73845a5f033a9c0aa1b5440a6|Column descriptor (#750)|Mon, 14 Sep 2020 11:10:18 +0200|Mon, 14 Sep 2020 11:14:49 +0200
+2409e7f0f9cba466ad42dc5a2ed152ead0a9c1ac|Merge pull request #756 from tsegismont/issue/610|Thu, 10 Sep 2020 10:57:22 +0200|Thu, 10 Sep 2020 10:57:22 +0200
+eb4cd4bfa674479fdd53adde6543b82c06fd6fc7|Add contributing.md file|Wed, 9 Sep 2020 22:50:25 +0200|Wed, 9 Sep 2020 22:50:25 +0200
+3020fbae25234c75ed66a70cfea84e6f2e325793|Transaction support for MSSQL|Mon, 7 Sep 2020 11:16:18 +0200|Mon, 7 Sep 2020 11:16:18 +0200
+4d4e1c1f734601ca4a6e5f0beb610ae4b3822bfa|Increment a long as counter|Fri, 4 Sep 2020 15:47:40 +0200|Fri, 4 Sep 2020 15:47:40 +0200
+16005295bea4447e98fe1484df5985b788ed8b38|Merge branch 'master' into HexSequence-PgPreparedStatement|Fri, 4 Sep 2020 15:46:01 +0200|Fri, 4 Sep 2020 15:46:01 +0200
+03ebaa086ee73cbad147b073b2632c6eb48c9160|Merge pull request #755 from eclipse-vertx/row-to-json|Fri, 4 Sep 2020 08:42:04 +0200|Fri, 4 Sep 2020 08:42:04 +0200
+17ec0e8e527cb266f62d65b090715d13441fa99a|Row to JSON conversion - close #754|Thu, 3 Sep 2020 11:08:27 +0200|Thu, 3 Sep 2020 12:52:06 +0200
+aa55658d24a80877cba6177d49f4230bf53fe3bf|Releasing 4.0.0-SNAPSHOT|Wed, 2 Sep 2020 10:34:29 +0200|Wed, 2 Sep 2020 10:34:29 +0200
+135e75240cd5270670cdbb87389f648e22b91147|Releasing 4.0.0.Beta2|Wed, 2 Sep 2020 10:03:41 +0200|Wed, 2 Sep 2020 10:03:41 +0200
+2009fda5be5d13a9edb3add79a960e601f324b7e|Revert "Windows build for SQL templates"|Tue, 1 Sep 2020 16:21:41 +0200|Tue, 1 Sep 2020 16:21:41 +0200
+a2f76957c4a9f83d39c744145afa98a8989f54b8|Add missing generator service loader|Tue, 1 Sep 2020 16:18:09 +0200|Tue, 1 Sep 2020 16:18:09 +0200
+6193a636cc3771252d5d6deed2a6a03d91e82700|Windows build for SQL templates|Tue, 1 Sep 2020 14:23:24 +0200|Tue, 1 Sep 2020 15:28:13 +0200
+16fc62765f6321e7a6f21c86039645bec1b011cc|Merge pull request #744 from tsegismont/port-762|Fri, 28 Aug 2020 15:26:19 +0200|Fri, 28 Aug 2020 15:26:19 +0200
+56fa2fb7aab6ca92f486dab72984b3a4aec8698c|Minor javadoc|Fri, 28 Aug 2020 10:47:35 +0200|Fri, 28 Aug 2020 10:47:48 +0200
+0b35f13a48097c5c705bc903951fe732d4246281|Property kind should be matched on a name and not on object identity - see #749|Fri, 28 Aug 2020 10:35:57 +0200|Fri, 28 Aug 2020 10:35:57 +0200
+9fb9f129cbdcda3e7617defdf3c2de73adf39c89|Wrapped NetClient should be closed by the connection factory instead of Vertx, connection outside a pool should register a close hook when associated with a Vert.x instance|Sun, 23 Aug 2020 13:48:11 +0200|Sun, 23 Aug 2020 13:58:41 +0200
+45ce1581ed87867443e3196c6fd5c26d3b0372ee|Pool withTransaction triggered rollback overrides the triggering failure with a potential rollback failure - close #745|Thu, 20 Aug 2020 15:21:03 +0200|Thu, 20 Aug 2020 15:35:54 +0200
+5e9a97a6b92e0c702fd3fd37f9178c7345d1472d|Prepared statement cache eviction should be done before statement preparation - close #740|Tue, 18 Aug 2020 15:04:00 +0200|Thu, 20 Aug 2020 12:00:12 +0200
+24ba30925cc44bb38df9733a0093acf18d3f4a34|Pool implementation for one-shot queries does not use all available resources|Thu, 20 Aug 2020 11:29:03 +0200|Thu, 20 Aug 2020 11:29:03 +0200
+d54a97cdfe48697a7b937821ea2e6909852a83c7|Update pom parent version|Thu, 20 Aug 2020 09:51:37 +0200|Thu, 20 Aug 2020 09:51:37 +0200
+e1461b2810a3125ec4b29fd82800c992ea5595a8|Update to latest future/promise changes|Tue, 18 Aug 2020 11:46:01 +0200|Tue, 18 Aug 2020 11:46:01 +0200
+430e91ab251b58974fc0667a6b9af999408505f8|Unlimited HexSequence for name of PgPreparedStatment|Mon, 17 Aug 2020 19:23:40 +0200|Mon, 17 Aug 2020 19:23:40 +0200
+475dda57129adb8555f8eb09f2c3dbaa3c10eb02|Properties example update (#734)|Thu, 13 Aug 2020 15:00:22 +0200|Thu, 13 Aug 2020 15:00:22 +0200
+a5b8bee3652326399654be1ef69b416c9e1fb1ea|Be a bit more protective against potential NPE|Wed, 12 Aug 2020 15:38:45 +0200|Wed, 12 Aug 2020 15:38:45 +0200
+99a9ad05a97e0df38fbae44ee884ce6fecc0952a|Handle unsolicited 57P01 error from PostgreSQL - see #731 - see #713|Wed, 12 Aug 2020 15:34:04 +0200|Wed, 12 Aug 2020 15:34:43 +0200
+6e73811d8f385708ba27de4ffa033b9630fd8e19|RowStream implementation fixes - close #730|Wed, 12 Aug 2020 13:43:52 +0200|Wed, 12 Aug 2020 13:47:21 +0200
+fa5128c63a89e4ac07b2a733cdaffd9a26dbefac|Merge pull request #727 from eclipse-vertx/improve-command-exec-pipeline|Wed, 12 Aug 2020 10:53:43 +0200|Wed, 12 Aug 2020 10:53:43 +0200
+be0bfc636ec3c4235b97d731398c51b1a97c4544|separate MySQL bind and prepare phase so that it does not send incorrect execution metadata any more|Tue, 11 Aug 2020 09:05:55 +0800|Tue, 11 Aug 2020 09:05:55 +0800
+0831906e72764527a348df593575ccf1a237d6a7|Command execution pipeline fixes - see #725 - see #726|Mon, 10 Aug 2020 11:58:42 +0200|Mon, 10 Aug 2020 15:12:39 +0200
+6c7b5cb19131e969288f315997586849afe8c81f|Releasing 4.0.0-SNAPSHOT|Thu, 23 Jul 2020 15:34:20 +0200|Thu, 23 Jul 2020 15:34:20 +0200
+b6b141720e1f8150d90df89d4f49d7bbbe848af4|Releasing 4.0.0.Beta1|Thu, 23 Jul 2020 14:53:52 +0200|Thu, 23 Jul 2020 14:53:52 +0200
+961820bb837461ac039c3a2a4f29f263a20724c5|Update for latest changes in metrics SPI|Tue, 21 Jul 2020 10:51:23 +0200|Tue, 21 Jul 2020 10:51:23 +0200
+ca93d3ae55d32b6f39f962a4a7a33354b49d7773|Update for latest changes in metrics SPI|Tue, 21 Jul 2020 10:50:18 +0200|Tue, 21 Jul 2020 10:50:18 +0200
+b16a075bc1577ed389406353d2db2604ac0e767c|Merge pull request #706 from aguibert/db2-ps-caching-bug|Mon, 20 Jul 2020 21:55:41 -0500|Mon, 20 Jul 2020 21:55:41 -0500
+b55ec10eccc1a0527fa74addcaf915bc9ea04fec|Merge pull request #715 from gjwatts/615-db2-enable-enum-tuple-row|Mon, 20 Jul 2020 18:17:32 -0500|Mon, 20 Jul 2020 18:17:32 -0500
+7a211b0ba827074439215a223b317a58d705c9c6|Tests pass and ready for review|Tue, 14 Jul 2020 19:00:36 -0500|Mon, 20 Jul 2020 17:20:05 -0500
+09da9aacd99ffa9ade791775e54c953a736a7b4d|Merge pull request #712 from eclipse-vertx/decouple-tracer-from-options|Thu, 9 Jul 2020 12:40:35 +0200|Thu, 9 Jul 2020 12:40:35 +0200
+17ed5bfae155b56578e2cb9f743838ca6eae1589|Decouple the tracer from SqlConnectionOptions|Thu, 9 Jul 2020 10:59:13 +0200|Thu, 9 Jul 2020 10:59:13 +0200
+daea3fa3ee65cd3b120161b724d6e5af36079766|MySQL Client: Unix Domain Socket support (#709)|Wed, 8 Jul 2020 12:15:53 +0200|Wed, 8 Jul 2020 12:15:53 +0200
+b854f6ce91b9bc856b3c9fe50adb1601824341bc|Fix issue when prepared statement caching is enabled for DB2 driver|Wed, 1 Jul 2020 12:28:03 -0500|Wed, 1 Jul 2020 17:18:13 -0500
+1456727c0d1f2fcd29eafd0ae1601e5853357ebc|Improve PostgreSQL version parsing - see #705|Wed, 1 Jul 2020 16:36:56 +0200|Wed, 1 Jul 2020 16:41:48 +0200
+70e5a7b7756f736a5e556a578f701a5175d8e310|Prepared statement can be prepared with binding types when an undeterminate type prevents preparing the type.|Mon, 29 Jun 2020 11:34:35 +0200|Wed, 1 Jul 2020 15:57:39 +0200
+0ff45b2f21ed61c657a1ab20d3c4ff9a04fb7b29|Add missing ClientMetrics#requestEnd event callback|Tue, 30 Jun 2020 07:30:02 +0200|Tue, 30 Jun 2020 07:30:02 +0200
+5468b9f2d70a8c5d59bd82c49cc4b2c64e5759ca|Replace tabs by spaces|Mon, 29 Jun 2020 09:42:36 +0200|Mon, 29 Jun 2020 09:42:36 +0200
+54c4551c77ee7fced8cf4007c361240d98266193|support MySQL LOCAL INFILE request with file size larger than 0xFFFFFF - fixes #691 (#693)|Sat, 27 Jun 2020 14:34:29 +0800|Sat, 27 Jun 2020 14:34:29 +0800
+c74f87618cd045fa737d8d69c9c7dc8dc76bd88e|Scope client metrics using the metrics name provided in the options|Fri, 26 Jun 2020 09:19:10 +0200|Fri, 26 Jun 2020 09:19:10 +0200
+e8b9e0437d0ae30978d03d203d3f0d90feb45600|SQL client metrics - closes #698|Wed, 24 Jun 2020 19:03:53 +0200|Thu, 25 Jun 2020 20:00:44 +0200
+1106a5a9aaaa4d62154e7f43ee7566ec052605fc|Annotate SQL statement cache filter with @GenIgnore|Mon, 22 Jun 2020 09:57:00 +0200|Mon, 22 Jun 2020 09:59:52 +0200
+692a63c572f422ba606e606f851a2201af93c4fd|the empty packet needs to be sent after the file is sent for MySQL load data local file command - fixes #688 (#689)|Sat, 20 Jun 2020 09:11:26 +0800|Sat, 20 Jun 2020 09:11:26 +0800
+b83783bbde9c5f53ceac110771127ead5749bd47|Rework prepared queries (#677)|Fri, 19 Jun 2020 14:09:26 +0200|Fri, 19 Jun 2020 14:09:26 +0200
+87241e8eb4f9f062f0415e0ea534a722272737e7|PreparedStatement: added createStream variant with empty args (#684)|Thu, 18 Jun 2020 17:21:52 +0200|Thu, 18 Jun 2020 17:21:52 +0200
+86970cce5af1233bb542cda8efbe8a76f2ce132f|Minor test improvements|Thu, 18 Jun 2020 14:40:45 +0200|Thu, 18 Jun 2020 14:40:54 +0200
+db2d886cebb99459ac06eb644c9913834e33575a|Reuse a cached empty array when initializing ArrayTuple with len 0|Wed, 17 Jun 2020 11:46:21 +0200|Wed, 17 Jun 2020 11:46:21 +0200
+b838d6219aa33218534fe5c859fc8b442d8e3712|ArrayTuple resizing multiply the capacity by 4 instead of doubling and adding 1 - fixes #680|Wed, 17 Jun 2020 11:21:09 +0200|Wed, 17 Jun 2020 11:33:12 +0200
+17de0b2183d096b282ec063f28e4536d15f40537|Merge extended and batch extended in a single command to simplify|Fri, 5 Jun 2020 10:55:02 +0200|Tue, 16 Jun 2020 13:29:12 +0200
+42d2078af5b8dc91cb1b42dcb586d73af0a2596f|Merge pull request #679 from aguibert/db2-tls|Mon, 15 Jun 2020 10:20:14 -0500|Mon, 15 Jun 2020 10:20:14 -0500
+b7c5af7c6f4a9169d449596e263e9bac0dea3641|Enable docs for SQL client templates|Tue, 9 Jun 2020 15:47:47 +0200|Tue, 9 Jun 2020 15:47:47 +0200
+7f422e23987ffc127cf3ea009259157e300ca02c|Test clenaup and reduce DB2 server logging|Sun, 7 Jun 2020 23:46:33 -0500|Sun, 7 Jun 2020 23:47:12 -0500
+b6e4b6ce1d7bde529242234ddf876ce5a80ad13d|Add support for DB2 with TLS|Thu, 4 Jun 2020 00:29:20 -0500|Sun, 7 Jun 2020 23:47:12 -0500
+11cea3b14f04a4f2f501f3619c42457b6c6f5829|Merge pull request #678 from aguibert/db2-errcode-601|Sun, 7 Jun 2020 22:32:26 -0500|Sun, 7 Jun 2020 22:32:26 -0500
+f7459a8d01714ecb2336df72f59b7a399aea3317|Add error message and test for sqlcode -601|Fri, 5 Jun 2020 14:38:37 -0500|Sun, 7 Jun 2020 22:24:24 -0500
+d8e07a0bcd4e6bea4cd6b7044f98227419a693ee|Merge pull request #674 from aguibert/db2-uuid|Thu, 4 Jun 2020 17:18:49 -0500|Thu, 4 Jun 2020 17:18:49 -0500
+e7562c4989df67b317c7a422480426e65c15e446|DB2 support for UUID|Wed, 3 Jun 2020 23:19:17 -0500|Wed, 3 Jun 2020 23:19:17 -0500
+ef2a1621f1d4d9f49f377933bc59c8ddd839db22|Add error message for DB2 sqlcode -798|Wed, 3 Jun 2020 23:07:55 -0500|Wed, 3 Jun 2020 23:07:55 -0500
+94719636af84430b7397ae711a9282cdf28575cc|Merge pull request #670 from aguibert/db2-error-path-cleanup|Tue, 2 Jun 2020 12:16:50 -0500|Tue, 2 Jun 2020 12:16:50 -0500
+c7e067a7d3341efd734bc9db93635983a13b4dcc|Add error message for sqlcode -542|Tue, 2 Jun 2020 11:53:46 -0500|Tue, 2 Jun 2020 12:08:22 -0500
+cfc1a0121ba87da1b226adf71e78f7d037c966a4|Add english messages for a few common sqlcodes|Mon, 1 Jun 2020 22:47:43 -0500|Mon, 1 Jun 2020 22:47:43 -0500
+1b5a9ad794823a3a318f196ed303b275ce356e50|Enable remaining prepared statement DB2 TCK tests|Mon, 1 Jun 2020 17:28:45 -0500|Mon, 1 Jun 2020 17:28:45 -0500
+bc23009af1d01c82b1a63c308d02590ef65b76e2|Merge pull request #669 from aguibert/db2-uri-parsing-test|Mon, 1 Jun 2020 17:28:02 -0500|Mon, 1 Jun 2020 17:28:02 -0500
+9860108fd45cde006a5b154ba2567a68dca492d8|Resolve most remaining TODOs in db2client code|Mon, 1 Jun 2020 17:16:16 -0500|Mon, 1 Jun 2020 17:16:16 -0500
+8c33c419f73c502cd432ba7d48a5924fedd80644|Remove unused URI parsing path and add URI parsing tests|Mon, 1 Jun 2020 15:14:49 -0500|Mon, 1 Jun 2020 15:19:04 -0500
+1c007f035a1521dd7c18bb153aa46a353182f102|Fix tracing failure test that has an asynchronous failure|Mon, 1 Jun 2020 10:04:40 +0200|Mon, 1 Jun 2020 10:04:40 +0200
+686da493905d0beeff1903c193b044f66948b4bd|Rework MySQL client server version parsing (#667)|Sat, 30 May 2020 21:14:02 +0800|Sat, 30 May 2020 21:14:02 +0800
+e87b0a1488d6320b6c8fb1f9179079ae732b69a3|Merge pull request #665 from aguibert/db-metadata|Fri, 29 May 2020 08:55:46 -0500|Fri, 29 May 2020 08:55:46 -0500
+952f753613eb6530255bdcb33f974fb1790c331f|Merge pull request #662 from BillyYccc/fix-pooled-connection-hang|Fri, 29 May 2020 09:11:13 +0200|Fri, 29 May 2020 09:11:13 +0200
+a9eeabb05c9bf8075a00609aca40870aff8c0d35|Merge pull request #663 from aguibert/decimal-precision|Thu, 28 May 2020 22:41:34 -0500|Thu, 28 May 2020 22:41:34 -0500
+c9a48e22c394b2e5e44751896967c9fedc387fb9|Perform client side decimal rounding based on defined DB precision and scale|Thu, 28 May 2020 13:51:59 -0500|Thu, 28 May 2020 22:41:20 -0500
+c56cb017496e700f8564a362f8b2b82f358d68da|Handling for MariaDB versions|Thu, 28 May 2020 13:34:10 -0500|Thu, 28 May 2020 21:30:24 -0500
+db11f4da2ea4ef31e00f0d0822c98ad7c4148c7a|Merge pull request #656 from aguibert/db2-doc|Thu, 28 May 2020 14:09:10 -0500|Thu, 28 May 2020 14:09:10 -0500
+c671fe2ede20312b6217472b16e78cf40ca1a204|Initial database metadata API|Thu, 28 May 2020 00:54:26 -0500|Thu, 28 May 2020 13:33:41 -0500
+4ce65f3e87ec4dc8cc48de03ecc8cd3c17f48f3c|make recycling pooled connection events emitted on the eventloop context associated with connection pool|Fri, 29 May 2020 00:48:44 +0800|Fri, 29 May 2020 00:48:44 +0800
+04f1f415e274a2e2d7a911067aaf9422d292799d|Releasing 4.0.0-SNAPSHOT|Thu, 28 May 2020 11:00:48 +0200|Thu, 28 May 2020 11:00:48 +0200
+27fe6ddb558ce3a8acf2782d8531f671ef2d4ddb|Releasing 4.0.0-milestone5|Thu, 28 May 2020 10:58:43 +0200|Thu, 28 May 2020 10:58:43 +0200
+2cbb5177792db22d0e2c5ff9f71008c029600822|stress the pool test checking acquiring pooled connections working properly|Thu, 28 May 2020 03:30:24 +0800|Thu, 28 May 2020 03:30:24 +0800
+30be4a2d2476cdc3c2e0c01826c79478f7cc35bc|fix polling null from the available pooled connections|Thu, 28 May 2020 03:28:56 +0800|Thu, 28 May 2020 03:28:56 +0800
+a4e49c55966a87043b078e70f1594029d5dadea6|reduce network communication cost for pg pool test so that it does not timeout|Thu, 28 May 2020 02:28:20 +0800|Thu, 28 May 2020 02:28:20 +0800
+03a49fff3e8893d493f52b141111f9f89698ee3d|Rework Tracing tests (#661)|Thu, 28 May 2020 02:10:14 +0800|Thu, 28 May 2020 02:10:14 +0800
+e8faee82fdda14c7967f419e3beffc6a87f2a5a0|replace SQL template placeholder $ with # instead - fixes #655 (#659)|Wed, 27 May 2020 00:41:25 +0800|Wed, 27 May 2020 00:41:25 +0800
+0a24a15843b723962b6829a7ee7a64b83823c8f6|Move some code from PoolBase as default methods in Pool to ease reuse|Tue, 26 May 2020 14:58:48 +0200|Tue, 26 May 2020 14:58:48 +0200
+8047a924383e61495c0a4316164347df8c570611|Minor change in SQL client template property parsing|Tue, 26 May 2020 14:26:06 +0200|Tue, 26 May 2020 14:26:06 +0200
+8bcbc742d88d9bf7bb4d5da736753ac970727f8c|Minor doc|Mon, 25 May 2020 17:55:48 +0200|Mon, 25 May 2020 17:55:48 +0200
+4d13bf80d424fd461f513880e9015f3f39171249|Adapt to tracing options setEnabled removal|Mon, 25 May 2020 17:29:27 +0200|Mon, 25 May 2020 17:29:27 +0200
+aa8236578d858a196faee21494b1d8891504d222|Adapt to Case class changes|Mon, 25 May 2020 17:10:38 +0200|Mon, 25 May 2020 17:10:38 +0200
+05ed43bd168738ffdacc45530f6d7de36902cac3|Merge pull request #625 from eclipse-vertx/tracing|Sun, 24 May 2020 15:47:20 +0200|Sun, 24 May 2020 15:47:20 +0200
+32ebb46bf67bee69b3cd3d92dab07a3e3d72b9db|Rename SqlTracer -> QueryTracer|Sun, 24 May 2020 10:05:06 +0200|Sun, 24 May 2020 10:05:06 +0200
+ada9240b11eaa58407f8a56450f669c47e6b246e|A few internal renaming|Sat, 23 May 2020 11:36:09 +0200|Sat, 23 May 2020 11:36:09 +0200
+c950b72051d734d1aab730042afd315f7d9ad093|Revert some assertEquals operands to get correct failure reporting|Sat, 23 May 2020 11:29:55 +0200|Sat, 23 May 2020 11:29:55 +0200
+899deeafc3869268e20d3324020f853337352ea8|Remove peer.service that does not make any sense here|Sat, 23 May 2020 11:28:06 +0200|Sat, 23 May 2020 11:28:06 +0200
+970d55e748eb317b8eba3eeffed1ef1251464b9f|Add documentation for DB2 client|Fri, 22 May 2020 14:37:43 -0500|Fri, 22 May 2020 14:37:43 -0500
+680b3291f4337a589877766b214b7348049fccb5|Minor|Fri, 22 May 2020 13:38:53 +0200|Fri, 22 May 2020 13:38:53 +0200
+624a111d7badfdc61c2d48f0090f49ce06fb5237|Initial implementation of SQL client tracing|Fri, 22 May 2020 12:17:59 +0200|Fri, 22 May 2020 12:17:59 +0200
+f9792f826aea3ecf14e8acb42a8c7fd75b0baea0|Move all query command execution method in SqlResultBuilder|Thu, 21 May 2020 09:29:28 +0200|Fri, 22 May 2020 10:58:23 +0200
+4b05f19b2dbdf2190e5c082b1a5356671fa0c175|Merge pull request #650 from aguibert/db2-localtime-bigdecimal|Thu, 21 May 2020 19:52:29 -0500|Thu, 21 May 2020 19:52:29 -0500
+9a56c6c61491d8b0a1cdc66c6c8725ee8aeefd78|DB2 support for LocalTime and BigDecimal|Thu, 21 May 2020 17:40:57 -0500|Thu, 21 May 2020 17:40:57 -0500
+9a5ecefe0b9164ee20c1ef3b7d0927877d9a30d5|Merge pull request #649 from aguibert/db2-query-error-npe|Wed, 20 May 2020 13:45:28 -0500|Wed, 20 May 2020 13:45:28 -0500
+682f620626ed5ceb7563653746a37b70213e0e04|Fix NPE on query error path and improve error reporting|Wed, 20 May 2020 11:44:28 -0500|Wed, 20 May 2020 11:49:05 -0500
+82532d473923aee1dbb7ea4fd06e9c24bd2bd0fa|Fix the built I broke|Wed, 20 May 2020 16:53:12 +0200|Wed, 20 May 2020 16:53:12 +0200
+95848915a455ee290dc140258077d3e08a682430|Futurized docs|Wed, 20 May 2020 16:35:00 +0200|Wed, 20 May 2020 16:49:12 +0200
+a7657dc85737fdacc4a5ce87c368112b752567fe|Client async close - closes #648|Wed, 13 May 2020 23:27:09 +0200|Wed, 20 May 2020 16:15:25 +0200
+4e508a93b2d252767aacdf99117967d468d6c4a2|PgException getter and getMessage with all fields, PgErrorCodes (#642)|Wed, 20 May 2020 11:06:26 +0200|Wed, 20 May 2020 11:06:26 +0200
+9a9d4408a967a01441f24305577e75bbfbdc2610|Remove PgErrorCodes.java|Wed, 20 May 2020 00:27:23 +0200|Wed, 20 May 2020 00:27:23 +0200
+0a1a0588ba9893cf1855e496bd2193cbfb6569ff|Add automatic module names|Sun, 17 May 2020 11:30:15 +0300|Tue, 19 May 2020 16:22:56 +0200
+81bc0f6f418aebd31b9f39f4207032ca5fda897b|Add license header|Mon, 18 May 2020 18:31:30 +0200|Tue, 19 May 2020 09:25:26 +0200
+b9a9be663c9ed7ec6205ed64d6bd2e1f5510c698|Copy Response fields into PgException, revert Response/ResponseImpl|Mon, 18 May 2020 16:43:12 +0200|Mon, 18 May 2020 16:43:12 +0200
+9d61cc0639d6aa089c619ca9e62c101faa7df527|PgException getter and getMessage with all fields, PgErrorCodes|Mon, 18 May 2020 15:01:30 +0200|Mon, 18 May 2020 15:01:30 +0200
+462d993c1dec93028deaf23f52e174fd6ba28218|Enable column checker for MSSQL datatype testing (#638)|Sat, 16 May 2020 14:38:20 +0800|Sat, 16 May 2020 14:38:20 +0800
+961e67092359ecb3476e437b7df4df5447f670d6|add enum support for mssql (#637)|Sat, 16 May 2020 08:44:37 +0800|Sat, 16 May 2020 08:44:37 +0800
+1d2848777d4f10e5ccdaa630580d5a3d94115d71|Fix NPE in generic connection init path (#633)|Fri, 15 May 2020 19:26:13 -0500|Sat, 16 May 2020 08:26:13 +0800
+b282bd78298f3efb51449bda301d86e06d8815ab|Merge pull request #636 from BillyYccc/issues/635|Fri, 15 May 2020 13:26:32 -0500|Fri, 15 May 2020 13:26:32 -0500
+4b71025a1924805eae6d2683d7035e6fd677468a|fix MSSQL placeholders|Sat, 16 May 2020 00:56:29 +0800|Sat, 16 May 2020 00:56:29 +0800
+4756abbf4bc0c4da690b20f833880fb22c820029|add support for enum data type in MySQL (#620)|Sat, 16 May 2020 00:08:50 +0800|Sat, 16 May 2020 00:08:50 +0800
+58946526ba422bee5a0a0c993e603771b5a07dc7|use default properties for mssql when connection properties does not exist|Fri, 15 May 2020 23:59:31 +0800|Sat, 16 May 2020 00:00:09 +0800
+ca6c8b8626a7f70daf74f07fab29638f195e20de|Add support for mssql nbcrow & nullable datatypes (#628)|Fri, 15 May 2020 23:49:43 +0800|Fri, 15 May 2020 23:49:43 +0800
+f1fa2583b7c4e6721c81eb02c9c89f4740d449f8|Merge pull request #629 from aguibert/db2-connect-flow-optimization|Thu, 14 May 2020 19:24:59 -0500|Thu, 14 May 2020 19:24:59 -0500
+cc4799579e8691bf4864578cdf2fac3c358667a0|Reduce initial handshake from 2 server round-trips to 1 round-trip|Thu, 14 May 2020 14:46:13 -0500|Thu, 14 May 2020 14:52:09 -0500
+74caf09322240abdd31f234ab6ecf3d07fa10817|Simplify a bit the pool implementation and move the actual connection pool in the PoolBase class|Wed, 13 May 2020 15:31:05 +0200|Wed, 13 May 2020 16:15:56 +0200
+862d443fe27c0a4cab172d768923c7def938d235|Merge pull request #538 from eclipse-vertx/sql-template|Wed, 13 May 2020 12:56:54 +0200|Wed, 13 May 2020 12:56:54 +0200
+96611e6f5f2d77e5c5e5a2d66f6b647394b768a8|replace deprecated vertx logger|Wed, 13 May 2020 08:03:02 +0800|Wed, 13 May 2020 08:03:02 +0800
+a97bde2f85ba25f74f7f288766f29984b10a0a9f|MySQL geometric data type should not be Vert.x data object (#622)|Wed, 13 May 2020 07:24:13 +0800|Wed, 13 May 2020 07:24:13 +0800
+07cb34c26da9c1a33a9733ea1f2586a2d066c3b1|Rework the prepared statement cache and evict the statement from the … (#597)|Wed, 13 May 2020 07:23:22 +0800|Wed, 13 May 2020 07:23:22 +0800
+a266727ca1aca7f69a23ec331fe215c5531e0cf1|Use ${maven.artifactId} instead of vertx-sql-client-templates|Tue, 12 May 2020 18:29:36 +0200|Tue, 12 May 2020 18:29:36 +0200
+28f6820d5ab9e890dce13941b3b76a3ef9fcd98a|Merge pull request #623 from aguibert/db2-source-formatting|Tue, 12 May 2020 10:52:06 -0500|Tue, 12 May 2020 10:52:06 -0500
+ce85ec3396a721b82a0f477cd82b14857facda05|Apply source formatting for DB2 module|Tue, 12 May 2020 10:41:49 -0500|Tue, 12 May 2020 10:41:49 -0500
+93e6e0ffc5dffe66834b8c138ab847ff7fc51d09|Ported MySQL concurrent pool prepared query test|Tue, 12 May 2020 09:04:25 +0200|Tue, 12 May 2020 09:04:25 +0200
+82275e1a7fc51d454d79e86f7dcf73fa912989ed|Merge pull request #618 from aguibert/driver-service-master|Mon, 11 May 2020 17:37:14 -0500|Mon, 11 May 2020 17:37:14 -0500
+64cfee70f14613c5561d9cf81485946c46cd4469|Update parent pom version|Mon, 11 May 2020 22:55:25 +0200|Mon, 11 May 2020 22:55:25 +0200
+32de528e912cf4b0f9131983906b5f4ccbe8420c|Review comments for driver service|Mon, 11 May 2020 12:15:13 -0500|Mon, 11 May 2020 12:15:13 -0500
+f11fe45ca130729a6c8935f596295c1d20d3c8e1|Driver service for generic API entry point|Sun, 10 May 2020 23:53:04 -0500|Mon, 11 May 2020 09:39:38 -0500
+b75cdcc7870e5090d064ef45c65586d5535e12af|Fixup|Mon, 11 May 2020 15:42:27 +0200|Mon, 11 May 2020 15:42:27 +0200
+0a9aaffbc187fdaa39b0b3c6c9edf244f8022301|Finally rename to Vert.x SQL Templates|Mon, 11 May 2020 15:40:32 +0200|Mon, 11 May 2020 15:40:32 +0200
+e81b867f2fd752e30183c33039fead92dbac2883|Rename to SQL Templates|Mon, 11 May 2020 10:53:07 +0200|Mon, 11 May 2020 10:59:34 +0200
+3d4ac5d0926c70be7649bfda161fa6a2c453ed40|Rename ParamsMapper -> ParametersMapped and ParamMapper -> ParametersMapper|Mon, 11 May 2020 10:19:45 +0200|Mon, 11 May 2020 10:42:03 +0200
+2effe5a6275af21ad6adeb6c485dd747fa1d3b92|Map any java class using its class and consequently mapping MySQL duration and PosgreSQL specific data types|Sun, 10 May 2020 23:51:59 +0200|Mon, 11 May 2020 10:07:42 +0200
+c7c8cd3ce3cc2f4886acbc6a2307f12d7028822a|Support enum types|Sun, 10 May 2020 15:02:35 +0200|Mon, 11 May 2020 10:06:02 +0200
+61df1b54e91dd0e2c1b1dc2c969d2ed795f2e402|Minor cleanup|Sat, 9 May 2020 09:26:39 +0200|Mon, 11 May 2020 10:06:02 +0200
+d15073af21cd13f06c860d3b8c0792e4fc35ad59|MS SQL uses the same parameter mapping than PG|Sat, 9 May 2020 09:14:33 +0200|Mon, 11 May 2020 10:06:02 +0200
+8155345d5a13a0c670c9b3c7c5cec2a07ba61989|Typo|Sat, 9 May 2020 09:10:54 +0200|Mon, 11 May 2020 10:06:02 +0200
+9e7a564b72e9befd48b5d54ada2c7ea857616c6a|Javadoc|Sat, 9 May 2020 09:10:04 +0200|Mon, 11 May 2020 10:06:02 +0200
+c3458e3a290e65d7c3340ef7a4ff248dfcb89e7a|Typos|Thu, 7 May 2020 16:06:22 +0200|Mon, 11 May 2020 10:06:02 +0200
+182bb749ab8a32bd8e81c3d40000aa03a486a430|Typos|Thu, 7 May 2020 16:04:49 +0200|Mon, 11 May 2020 10:06:02 +0200
+2082edbc58b130bb97e025e67c6f81dfb8ecdb91|Typo|Thu, 7 May 2020 16:01:03 +0200|Mon, 11 May 2020 10:06:02 +0200
+abddc8531f6e94ce14b7c9372a46daa07ee785e5|Use ${...} for properties as it eliminates ambiguity when parsing templates|Thu, 7 May 2020 13:21:53 +0200|Mon, 11 May 2020 10:06:02 +0200
+ac84a73ddf132750187d1209ed55320dcd5008f1|Implement correctly the actual SQL formatting for each database independently of place holder syntax|Tue, 5 May 2020 17:09:36 +0200|Mon, 11 May 2020 10:06:02 +0200
+da90c8d93aa4225205ebb19da528c0c17d763583|Project modifications|Tue, 5 May 2020 11:42:28 +0200|Mon, 11 May 2020 10:06:02 +0200
+2228b0280dcad79604c6d7c2be77f756713baee6|SQL template feature|Tue, 5 May 2020 11:42:03 +0200|Mon, 11 May 2020 10:06:02 +0200
+88237f8bea9373e30dc9a453edc0510939c3f377|Don't have anymore PG data type be data objects otherwise they will get mapped to JSON in SQL templates|Mon, 11 May 2020 09:00:14 +0200|Mon, 11 May 2020 09:57:02 +0200
+2dade7ddd22e926636520d01d4c60a00a067e3fa|Cleanup in Row/Tuple: the getValues(Class) is replaced by get (e.g instead of getValues(String.class, 0) then get(String[].class, 0)) and addValues is replaced by addValue.|Sun, 10 May 2020 15:13:17 +0200|Sun, 10 May 2020 23:05:54 +0200
+5732cff27b2a701fe140717593b1c3834deac1ab|Java enum Row/Tuple support for PostgreSQL - fixes #612|Sun, 10 May 2020 14:41:32 +0200|Sun, 10 May 2020 23:05:43 +0200
+c07160dd70054ae40db14aa18e8476b25ca3d20b|Improve type casting in Tuple#get and Tuple#getValues|Sat, 9 May 2020 18:00:53 +0200|Sat, 9 May 2020 18:00:53 +0200
+bd0f74d90a7d5634af49d2ad7b2813cea30bb3b9|Merge pull request #598 from aguibert/db2-unique-prdid|Thu, 7 May 2020 19:59:02 -0500|Thu, 7 May 2020 19:59:02 -0500
+0720d755d874761c8dc07e6e5f4e988c8fccdc4a|Merge pull request #603 from gjwatts/490-connection-error-path-handling|Fri, 1 May 2020 08:13:06 -0500|Fri, 1 May 2020 08:13:06 -0500
+ec8042616d64badc59810c7f0eb6f9337c0f326f|Change testTimestamp to handle DBs without nano precision|Thu, 30 Apr 2020 19:37:03 -0500|Thu, 30 Apr 2020 19:37:03 -0500
+bad574b9535cc9ebdde61d13829d6212179cfb34|Merge branch 'master' of github.com:eclipse-vertx/vertx-sql-client into 490-connection-error-path-handling|Wed, 29 Apr 2020 15:46:20 -0500|Wed, 29 Apr 2020 15:47:23 -0500
+0b4b87a3e182004ebb0067b6c4cc87e87e93a5e9|MySQL simplify connection ctx access (#602)|Tue, 28 Apr 2020 22:40:55 +0800|Tue, 28 Apr 2020 22:40:55 +0800
+c62acc5d341132a7441b9575d25990b9560a19a4|Additional basic DB2 input validation|Mon, 27 Apr 2020 22:42:42 -0500|Mon, 27 Apr 2020 23:19:20 -0500
+ebab50afea7cc5c2184e69e79906903352e9af35|MySQL binary decoding BLOB type should use a copied heap buffer instead of referencing the slice of direct buffer. (#600)|Sat, 25 Apr 2020 15:08:22 +0800|Sat, 25 Apr 2020 15:08:22 +0800
+aa41b3d62437ffcd30bc06acd74d7232aa410d3d|Use unique PRDID of JNT|Fri, 24 Apr 2020 13:44:59 -0500|Fri, 24 Apr 2020 13:45:56 -0500
+d7eebc0cbd38ecfb2c0224114a8e05c358bf2229|Add test case name delimiters to TCK tests|Mon, 20 Apr 2020 19:35:25 -0500|Fri, 24 Apr 2020 13:45:56 -0500
+0cea83ba26fd640305bff49daad1f165d5f5346c|rework MySQL prepared statement binding parameters (#587)|Wed, 22 Apr 2020 22:36:34 +0800|Wed, 22 Apr 2020 22:36:34 +0800
+e53235cbe2bc2fd96aabe35350ab05ba840b164f|Prepared statement created by SqlConnection#prepare should not be cached  (#578)|Wed, 22 Apr 2020 21:34:11 +0800|Wed, 22 Apr 2020 21:34:11 +0800
+1be779b1679a9de409211007717085a420e179d0|Merge pull request #594 from aguibert/db2-timestamp|Mon, 20 Apr 2020 19:57:52 -0500|Mon, 20 Apr 2020 19:57:52 -0500
+7b05343f6bbfa1fe0f867050890697a45f393c31|Support for DB2 TIMESTAMP column type|Mon, 20 Apr 2020 17:30:52 -0500|Mon, 20 Apr 2020 17:37:45 -0500
+b2cac478865af90a814a0142236a3865d307e155|Merge pull request #591 from aguibert/db2-null-values|Thu, 16 Apr 2020 18:00:03 -0500|Thu, 16 Apr 2020 18:00:03 -0500
+83fc06d2323e0d4530867f9ddc17d824fd249cc4|Merge pull request #592 from gjwatts/490-connection-error-path-handling|Thu, 16 Apr 2020 17:51:00 -0500|Thu, 16 Apr 2020 17:51:00 -0500
+996de3e9979c3c8006eaca4e1ee69702efa9e38a|490-connection-error-path-handling|Thu, 16 Apr 2020 17:37:03 -0500|Thu, 16 Apr 2020 17:37:03 -0500
+2639d7426277b4f91977e0e1907631419eec6eb0|Disable sequence tests for DB2/z until implemented|Tue, 14 Apr 2020 18:07:15 -0500|Tue, 14 Apr 2020 18:07:15 -0500
+77bd99dea649e70df0d8f4b04e2d43e6c1655390|Disable new TCK test for MSSQL as it requires further investigation|Tue, 14 Apr 2020 16:50:10 -0500|Tue, 14 Apr 2020 16:50:10 -0500
+04105053de4b3e11927079fc9eddfed3482ce579|Fix for storing Buffer and ByteBuf into binary columns|Tue, 14 Apr 2020 15:33:59 -0500|Tue, 14 Apr 2020 15:33:59 -0500
+c735c41d96bd61ac3c6c4b5de6358541a38b3780|Fixes for storing a Java byte into a SMALLINT column|Tue, 14 Apr 2020 15:30:19 -0500|Tue, 14 Apr 2020 15:30:19 -0500
+6e9d39e55cbba400095715dde61545efd7b68c3f|Fix issue encoding a Java float into a DB2 FLOAT column type|Mon, 13 Apr 2020 16:26:29 -0500|Mon, 13 Apr 2020 16:26:29 -0500
+20376cc6be4d95bb82087a98c6a7fa8e2b66a08f|Handling for columns renamed in queries|Mon, 13 Apr 2020 15:34:39 -0500|Mon, 13 Apr 2020 15:34:39 -0500
+4d892c41a52c37f18f93d601d9e3a741b1fd51b2|Fix issue encoding null values|Mon, 13 Apr 2020 15:33:54 -0500|Mon, 13 Apr 2020 15:33:54 -0500
+0cfe1eea4f8762ddecbdb9752a3ee21b69935178|MySQL codebase clean up (#588)|Mon, 13 Apr 2020 22:15:56 +0800|Mon, 13 Apr 2020 22:15:56 +0800
+b170bdc05859ced53d1eb02a2a629e8053fe72db|Simplified transaction API improvements (#574)|Sat, 11 Apr 2020 09:11:59 +0200|Sat, 11 Apr 2020 09:11:59 +0200
+c3e9a3b71318d3ecc73c61e618cf769d6011975c|Merge pull request #581 from aguibert/db2-sequence-query|Fri, 10 Apr 2020 16:16:15 -0500|Fri, 10 Apr 2020 16:16:15 -0500
+87fa87814ed408b644967a8439d20daceb703095|Add handling for sequence-based queries used by Hibernate|Fri, 10 Apr 2020 15:57:19 -0500|Fri, 10 Apr 2020 15:57:19 -0500
+fee33d5ffd2fad989e57eb4ab682652afd9fabae|Merge pull request #580 from aguibert/db2-invalid-db2-name|Fri, 10 Apr 2020 15:55:11 -0500|Fri, 10 Apr 2020 15:55:11 -0500
+f12cf6e4c30ee274c47f5e1346291feb661745e3|Add handling for ACCSEC error path|Fri, 10 Apr 2020 10:28:03 -0500|Fri, 10 Apr 2020 15:07:30 -0500
+e8893a2680c100d39524901dce2e881ce9c124a2|Merge pull request #573 from aguibert/db2-immediate-sections|Mon, 6 Apr 2020 13:54:57 -0500|Mon, 6 Apr 2020 13:54:57 -0500
+746fe9aa936d4d10cfc19bbac15442dfe2193cf3|Change SectionManager scope to per-connection instead of global singleton|Fri, 3 Apr 2020 18:07:50 -0500|Fri, 3 Apr 2020 18:51:55 -0500
+c14dbda8084ffc552a263e538309a79001d21de4|Use special immediate section for non-SELECT statements|Fri, 3 Apr 2020 17:58:47 -0500|Fri, 3 Apr 2020 17:59:53 -0500
+273239bec4fecd7138de25b52064c9833c3b5b43|Missing asciidoc files in sources jar - see #571|Thu, 2 Apr 2020 23:02:38 +0200|Thu, 2 Apr 2020 23:13:01 +0200
+5cd3455d7d448bb4ba7fd5b0a5bb2523bfcbb2d1|Merge pull request #570 from aguibert/db2-pipelining|Thu, 2 Apr 2020 15:08:21 -0500|Thu, 2 Apr 2020 15:08:21 -0500
+d3f6f7e5e59a0697a7a67f3981f035d4ba596e3e|Add handling for query failure and data stream syntax error paths|Thu, 2 Apr 2020 09:39:36 -0500|Thu, 2 Apr 2020 15:07:59 -0500
+b1f03d20499f492060f0bffdc440ac59fccb5c64|Merge pull request #565 from eclipse-vertx/avoid-beta-releases-master|Thu, 2 Apr 2020 16:45:11 +0200|Thu, 2 Apr 2020 16:45:11 +0200
+a293d7d59399a4ed211e934a0c241ae2d4a6b06e|Update the version on the documentation|Thu, 2 Apr 2020 13:57:46 +0200|Thu, 2 Apr 2020 13:57:46 +0200
+d34a80dc135a229aedb9be9783efeec6cf832cba|minors|Thu, 2 Apr 2020 19:34:32 +0800|Thu, 2 Apr 2020 19:34:32 +0800
+bf370120f3cad71b4bf4d399a544a6f88463e069|Initial progress on DB2 pipelining|Wed, 1 Apr 2020 22:39:11 -0500|Wed, 1 Apr 2020 22:39:11 -0500
+b43ca7b5e6e14e104680dd14e86a3d20aa193f9f|Merge pull request #567 from aguibert/db2-rowid-type|Wed, 1 Apr 2020 14:33:17 -0500|Wed, 1 Apr 2020 14:33:17 -0500
+9c167d5b02058df0fd637603dfe3bcfac3aa29db|Add support for ROWID column type|Tue, 31 Mar 2020 20:07:36 -0500|Wed, 1 Apr 2020 14:10:38 -0500
+8a26424d23a9f46c28978f0c91393862ab469dd2|Merge pull request #562 from aguibert/db2-zos-tests|Wed, 1 Apr 2020 11:35:26 -0500|Wed, 1 Apr 2020 11:35:26 -0500
+693cd28874c4df337594f2a4bd043da24b6f9c28|Avoid using a beta release and use the latest stable|Tue, 31 Mar 2020 20:45:21 +0200|Tue, 31 Mar 2020 20:45:21 +0200
+6131097107fc3e90d66ff0d297a9ef704c603ead|Enable DB2BinaryDataTypeEncodeTest testDouble|Tue, 31 Mar 2020 10:00:49 -0500|Tue, 31 Mar 2020 10:00:49 -0500
+e940942bd62bff1b4b0a625ec730435401f7177f|Get all DB2 tests passing with DB2 on Z|Tue, 31 Mar 2020 00:34:43 -0500|Tue, 31 Mar 2020 00:34:43 -0500
+bec5f330ac3dc9fdae058ea1e4a530bdc19240bd|Do not show object values in default Tuple#toString|Mon, 30 Mar 2020 16:55:07 -0500|Mon, 30 Mar 2020 16:55:07 -0500
+4aaaf2bd75fd7dc6fec29592ff5291a6c5ab284b|Merge pull request #556 from aguibert/db2-zos|Fri, 27 Mar 2020 09:26:44 -0500|Fri, 27 Mar 2020 09:26:44 -0500
+6505405d87ce4ffe5d181c1a72946e413497e8f1|Add option to run automated tests with DB2/z|Tue, 24 Mar 2020 14:06:42 -0500|Fri, 27 Mar 2020 09:26:18 -0500
+96348e929c126cd7b940317651fcc154ac713775|Support for updates on DB2 z/OS|Tue, 24 Mar 2020 08:54:48 -0500|Thu, 26 Mar 2020 17:09:50 -0500
+248c460cbe87abea081a766656c701264f11035c|Support for invoking queries on DB2 z/OS|Mon, 23 Mar 2020 23:12:35 -0500|Thu, 26 Mar 2020 17:09:50 -0500
+900d523226525ef4daad999905a6d7bae6be6ea0|Support for getting a connection on DB2 z/OS|Sat, 21 Mar 2020 10:33:55 -0500|Thu, 26 Mar 2020 17:09:49 -0500
+4e4a1a5ef8f6c81166f06df7cb8a6467b8fa49b6|Merge pull request #557 from gjwatts/db2-ping-test-add|Wed, 25 Mar 2020 22:58:57 -0500|Wed, 25 Mar 2020 22:58:57 -0500
+52b58e2070a52370ddf88655ed2e2d7a1e4464d4|Throw IAE when isQuery param is null|Wed, 25 Mar 2020 12:08:50 -0500|Wed, 25 Mar 2020 12:08:50 -0500
+0cab8246f66de761309e6ac04a4ea21844665cd0|Merge branch 'master' of github.com:eclipse-vertx/vertx-sql-client into db2-ping-test-add|Wed, 25 Mar 2020 10:51:30 -0500|Wed, 25 Mar 2020 10:51:30 -0500
+4958879db486102cbbfde74cf57c33903f835c01|Added Ping test to DB2|Tue, 24 Mar 2020 16:29:58 -0500|Wed, 25 Mar 2020 10:46:52 -0500
+68469731cdd522bc963799e548ddd45bd18c62c6|Fluent queries (#554)|Wed, 25 Mar 2020 16:37:03 +0100|Wed, 25 Mar 2020 16:37:03 +0100
+34259512c1b345e9fa3669b343adacfbde90e5d3|remove redundant Postgres property intervalStyle (#541)|Tue, 24 Mar 2020 21:55:31 +0800|Tue, 24 Mar 2020 21:55:31 +0800
+6067454484716613087cb960031f4fa533abd08f|Merge pull request #553 from aguibert/db2-query-variations|Mon, 23 Mar 2020 11:37:53 -0500|Mon, 23 Mar 2020 11:37:53 -0500
+bfc9e3572d729dc9c30eadd3246ce7d19df1cbd2|Remove another un necessary fluent method in PreparedQuery|Mon, 23 Mar 2020 17:21:16 +0100|Mon, 23 Mar 2020 17:21:16 +0100
+6c1a6b8d81ca89006ba5798599352c7c0da0ad5a|Avoid self bound generic in SqlResultBase for sake of clarity|Mon, 23 Mar 2020 16:32:13 +0100|Mon, 23 Mar 2020 16:59:17 +0100
+4ac6f92cd14cade78f5144ded21fc7f961deeaa8|Keep a current pointer instead of walking the linked list in SqlResultBuilder|Mon, 23 Mar 2020 16:19:41 +0100|Mon, 23 Mar 2020 16:59:17 +0100
+be7829453172df08aeb01848985ed81499b671af|Move SqlResultBase failure to SqlResultBuilder|Mon, 23 Mar 2020 15:45:35 +0100|Mon, 23 Mar 2020 16:59:17 +0100
+067270c53628d2b8b62ba7d6b8acda9b6e5797cc|Change PreparedQuery API to remove unecessary API fluency in terminal methods and add missing collector future method|Mon, 23 Mar 2020 16:53:54 +0100|Mon, 23 Mar 2020 16:59:17 +0100
+67fcd3f5c66bbf5ffdeb9fa161fe8306c3eb2eca|Add tests for table joins and subqueries|Fri, 20 Mar 2020 16:16:07 -0500|Fri, 20 Mar 2020 16:16:07 -0500
+772962202c4d246796080ac6d5f530dab3c5e4a5|Merge pull request #550 from aguibert/db2-binary-data-types|Fri, 20 Mar 2020 15:58:45 -0500|Fri, 20 Mar 2020 15:58:45 -0500
+8adfb8b583d47a491cd238f21cbaa409ee36aa12|Enable binary data type TCK tests|Thu, 19 Mar 2020 09:26:18 -0500|Thu, 19 Mar 2020 12:29:29 -0500
+44d5e87e3191b12273e9b9c6d46aef53e3ea8e95|Merge pull request #547 from aguibert/db2-generated-keys|Wed, 18 Mar 2020 08:26:00 -0500|Wed, 18 Mar 2020 08:26:00 -0500
+cb82e2f5a442a305d7776acf2daedfa945e31f05|Adding missing license headers (#545)|Tue, 17 Mar 2020 20:30:06 +0800|Tue, 17 Mar 2020 20:30:06 +0800
+5bbfc62c01867462f2064d79d4c49c2dd9133797|Support for queries that return auto-generated keys|Sat, 14 Mar 2020 17:27:09 -0500|Mon, 16 Mar 2020 08:23:09 -0500
+7e0adea4644021bebcf0bee17acae5d52293fd39|Validate prepared statement parameter sizes and types|Sat, 14 Mar 2020 00:38:35 -0500|Mon, 16 Mar 2020 08:23:09 -0500
+9733aed73561a273e603d9b52b64df194e9ddfca|Merge pull request #537 from aguibert/db2-query-batch-2|Mon, 16 Mar 2020 08:20:43 -0500|Mon, 16 Mar 2020 08:20:43 -0500
+c3a29d2783f73d0338dd88408296db3c9901c2c9|The ColumnChecker should take in account the getJsonObject/getJsonArray method from Tuple|Mon, 16 Mar 2020 12:10:59 +0100|Mon, 16 Mar 2020 12:14:51 +0100
+1a51e42781b3ada8da6029524ddfff840997ac54|Actually checking an object is exactly Object[] should not use instanceof due to java array being covariants|Mon, 16 Mar 2020 11:54:51 +0100|Mon, 16 Mar 2020 11:54:51 +0100
+f66333562c4e9aae2121ae3923efccae90193134|Tuple getters coercion improvements - fixes #548|Mon, 16 Mar 2020 09:44:41 +0100|Mon, 16 Mar 2020 09:54:19 +0100
+d2f4c4db5742f291b7506c26fa3459d2423d885c|Minor simplification in MySQLRule, ssl is already a field of the rule and does not need to be passed in private methods|Sat, 14 Mar 2020 18:49:19 +0100|Sat, 14 Mar 2020 18:49:19 +0100
+2f24f5d54f605eae4b3b0429397a6d1b74001f03|Merge pull request #542 from aguibert/travis-stage-ordering|Sat, 14 Mar 2020 09:09:30 -0500|Sat, 14 Mar 2020 09:09:30 -0500
+4d8888aa4dd9615fdcc32f6012b3832d7476a1bb|add documentation of practices for MySQL client (#540)|Sat, 14 Mar 2020 12:24:31 +0800|Sat, 14 Mar 2020 12:24:31 +0800
+72a567dce66fc0123423111391e5027dbe8084dd|Merge pull request #543 from aguibert/db2-collector-err-paths|Fri, 13 Mar 2020 20:55:29 -0500|Fri, 13 Mar 2020 20:55:29 -0500
+237161121e987bd0650bb6344cfa431e4d1b6286|Enable DB2Collector error path tests|Fri, 13 Mar 2020 15:38:46 -0500|Fri, 13 Mar 2020 15:38:46 -0500
+bde0ec629addb472c1276e85e51e812a8a69a9e4|Reorder TravisCI jobs so all DBs run sooner (i.e. fail faster)|Fri, 13 Mar 2020 14:49:14 -0500|Fri, 13 Mar 2020 14:49:14 -0500
+35ed5029757280aabfa1d5aa4bbbfd5801b06fe1|Common TCK tests for batch query error paths|Fri, 13 Mar 2020 13:58:50 -0500|Fri, 13 Mar 2020 14:40:14 -0500
+1b7e6078a9259e9a2fb854eeace017cd20386b17|Refactoring of query command codecs|Fri, 13 Mar 2020 10:52:35 -0500|Fri, 13 Mar 2020 13:58:17 -0500
+aa6510c2d4070245e491c94c7294047fb6419bc5|Merge pull request #539 from BillyYccc/mysql-transaction-tck|Fri, 13 Mar 2020 13:38:53 -0500|Fri, 13 Mar 2020 13:38:53 -0500
+afe6dcecc01aed81628e4a512c4dd91036efbcfe|remove duplicated MySQL transaction tests|Sat, 14 Mar 2020 00:53:02 +0800|Sat, 14 Mar 2020 00:53:02 +0800
+48a65ff6b23d809c26d3c3a71c3e3c710504ad0f|enable MySQL transaction TCK tests|Sat, 14 Mar 2020 00:51:39 +0800|Sat, 14 Mar 2020 00:51:39 +0800
+bee8a4c90d0bfea7558ebe70d3f47576557a5206|rework transaction TCK base|Sat, 14 Mar 2020 00:51:01 +0800|Sat, 14 Mar 2020 00:51:01 +0800
+32f67305ec50f922939d70556b0b33d5766a65cd|DB2 support for batch statements|Thu, 12 Mar 2020 15:23:02 -0500|Thu, 12 Mar 2020 15:23:02 -0500
+830921d3c2216be68436a2a0d2196f77377d05ef|Merge pull request #523 from aguibert/db2-tx-initial|Thu, 12 Mar 2020 15:13:11 -0500|Thu, 12 Mar 2020 15:13:11 -0500
+ccb2584090fcc14769a5d3c4a3c72e5f1cd55a7d|Move transaction tests to common TCK|Thu, 12 Mar 2020 11:31:26 -0500|Thu, 12 Mar 2020 11:31:26 -0500
+9c8e44211fd754608e9dda3899935791ab77f295|add missing override methods for MySQLConnection interface (#535)|Wed, 11 Mar 2020 23:17:32 +0800|Wed, 11 Mar 2020 23:17:32 +0800
+32f2b87243a67f7888a4d8f1498751ed6dba55a3|Initial transaction implementation for DB2 module|Fri, 28 Feb 2020 11:35:23 -0600|Tue, 10 Mar 2020 10:59:42 -0500
+62b7eac6151510d8337c700e8c2d1a3abc56d997|Add autoCommit property to internal SqlClientBase and QueryCommandBase|Fri, 28 Feb 2020 11:35:05 -0600|Tue, 10 Mar 2020 10:59:42 -0500
+8cc47811d656354eb41341b8cefcb0b7a016cdb3|Use Future#onComplete|Mon, 9 Mar 2020 12:44:44 +0100|Mon, 9 Mar 2020 12:44:44 +0100
+514cad90da31ede9ee55655022a2d7cb438b6852|MySQL TLS testing fix (#533)|Sat, 7 Mar 2020 15:18:03 +0800|Sat, 7 Mar 2020 15:18:03 +0800
+6dff894ee31e288fcfb94bc0a9caba19c52068e2|Retrofit the public interfaces and javadoc (#527)|Sat, 7 Mar 2020 13:26:13 +0800|Sat, 7 Mar 2020 13:26:13 +0800
+042b6c5551c9279b4b4c03f6405d95f4a78411f8|Merge pull request #531 from eclipse-vertx/transaction-command|Thu, 27 Feb 2020 11:37:26 -0600|Thu, 27 Feb 2020 11:37:26 -0600
+e6a62a632950d585fd9165146e15d079f14bf781|Merge pull request #529 from mswatosh/db2-error-path|Thu, 27 Feb 2020 11:06:01 -0600|Thu, 27 Feb 2020 11:06:01 -0600
+1df2564df19f2bc0636b905d732dfbd5d7835e7b|Review: Changing to DB2Exception|Thu, 27 Feb 2020 10:13:31 -0600|Thu, 27 Feb 2020 10:23:13 -0600
+90ef00c69e231bd7aafefda8a0486f7858e3e6ff|Add transaction demarcation command - fixes #530|Thu, 27 Feb 2020 15:13:32 +0100|Thu, 27 Feb 2020 15:13:32 +0100
+e4d1e6a3d618030419939474fa048be618e0e68e|Regen converters|Thu, 27 Feb 2020 13:46:03 +0100|Thu, 27 Feb 2020 13:46:03 +0100
+b3bd44bf9343162e457ec9c1c0ff424fe7eb3640|Fixing invalid database path and close connection handling|Mon, 24 Feb 2020 13:29:59 -0600|Wed, 26 Feb 2020 15:35:18 -0600
+1fabc1a0eaf7df00f60f1f4edde3394feff3e8d2|Add support for MySQL spatial data type (#525)|Sun, 23 Feb 2020 20:08:24 +0800|Sun, 23 Feb 2020 20:08:24 +0800
+70e16237c0656f730d43141f4664f73771b3be10|Move pool todo list to the actual pool instead of PoolBase|Sun, 16 Feb 2020 17:18:40 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+b5208bd4e12e1095eb797d86e77c684dfd229a0d|SqlConnectionImpl does not need to be abstract|Sun, 16 Feb 2020 17:16:02 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+c42e3111f5f9ad90effe0a5a75c45c58229e1991|Move the Postgres specific notification/notice to the pgclient module|Sun, 16 Feb 2020 17:15:06 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+df09f4c21000640bd5dff08eefb58513becb8ea3|Improve self bound generic declaration in implementation|Sun, 16 Feb 2020 16:56:11 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+bdc26ef16f4214a5d388ba5ee81a7df1bba8f410|PoolBase should not be attached to a particular context, subclasses might be instead|Sun, 16 Feb 2020 16:38:27 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+8e6728cf09f64092999698b897ff48a61e7523d5|- PoolBase should less opinionated   - avoid to use directly the actual connection pool and let subclasses perform the acquire operation so it can be more easily reused   - avoid trampolining on a context and instead let the ConnectionPool do it - Define a ConnectionFactory interface implemented by existing factories - ConnectionPool uses the ConnectionFactory instead of a Consumer<Hander<AsyncResult<Connection>>>|Sat, 15 Feb 2020 16:44:24 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+4fb8d5b987a2044cc8e63dff6c0fe062afa87ce4|ParamDesc does not need to define parameter validation as it is done by the PreparedStatement interface already|Sat, 15 Feb 2020 16:30:31 +0100|Sun, 16 Feb 2020 17:27:16 +0100
+09510ed25f6b4f6c47462642164e11cbf9b55d98|typo|Sat, 15 Feb 2020 08:39:39 +0800|Sat, 15 Feb 2020 08:39:39 +0800
+c65d00d470b1460427f61b30e90aa0997fc52b3e|Add the DB2 client in top README|Thu, 13 Feb 2020 10:42:36 +0100|Thu, 13 Feb 2020 10:42:36 +0100
+e8f378d31e317e1d1172cb172c81d207a3c479f9|Merge pull request #519 from aguibert/db2-ps-query-cached-tests|Mon, 10 Feb 2020 12:05:09 -0600|Mon, 10 Feb 2020 12:05:09 -0600
+30ea5544031f23552c41b77c082e9ce2c3e2f9f0|Enable tests in DB2PreparedQueryCachedTest related to incremental cursor fetch|Mon, 10 Feb 2020 11:52:26 -0600|Mon, 10 Feb 2020 11:52:26 -0600
+76499e0f1862fa14e393a5524561f2892a733c22|Merge pull request #517 from aguibert/db2-incremental-fetch|Mon, 10 Feb 2020 10:42:24 -0600|Mon, 10 Feb 2020 10:42:24 -0600
+cf6b8e2b1db4969395bd4d699c13fb8d976374f8|Implement cursor close|Thu, 23 Jan 2020 18:31:38 -0600|Mon, 10 Feb 2020 10:05:24 -0600
+bf2abb3ac862ef8b8bd659bc1fdc85c80aece9b1|Implement incremental cursor fetch|Thu, 23 Jan 2020 17:18:41 -0600|Mon, 10 Feb 2020 09:57:25 -0600
+a33b4254d5266e996d505172659231ed1f0a3ad9|Merge pull request #515 from mswatosh/db2|Thu, 6 Feb 2020 15:58:31 -0600|Thu, 6 Feb 2020 15:58:31 -0600
+3a622ab2358426d9af7603cb0d4c56269385b68a|Enabling uri string and tests|Mon, 13 Jan 2020 15:35:54 -0600|Thu, 6 Feb 2020 13:59:20 -0600
+b2519ae950297a137a52878e0db546d8bef0846d|Merge pull request #503 from aguibert/db2|Thu, 6 Feb 2020 10:22:16 -0600|Thu, 6 Feb 2020 10:22:16 -0600
+a5e3e3a8541c7c1dabb7b3915bc6ba7bed0b6468|Update pom's descriptions|Wed, 5 Feb 2020 15:37:19 +0100|Wed, 5 Feb 2020 15:37:19 +0100
+08f071b5d7036dfbdc90ba144f5d675d0fccfb30|Merge pull request #512 from BillyYccc/mysql-accessor-rework|Wed, 5 Feb 2020 08:02:02 +0800|Wed, 5 Feb 2020 08:02:02 +0800
+960568aefe49a28ae02c7d5026bcd2648f81b4ee|add tests for MySQL BigDecimal support|Sat, 1 Feb 2020 23:13:35 +0800|Sat, 1 Feb 2020 23:13:35 +0800
+e9d3d857c1b54dcd745707469876f8783c12d673|improve MySQL row accessors|Sat, 1 Feb 2020 22:48:36 +0800|Sat, 1 Feb 2020 22:48:36 +0800
+c0e0baa0b96d524b770dd7b69894dc53bfc79d89|add support for mapping MySQL TIME data type to java.time.LocalTime|Sat, 1 Feb 2020 22:34:19 +0800|Sat, 1 Feb 2020 22:34:19 +0800
+65c1e6b4d9b56506a1ccca9b387e33f30f384d15|reconstuct MySQL package structure|Sat, 1 Feb 2020 20:39:04 +0800|Sat, 1 Feb 2020 20:39:04 +0800
+c955a8a37197e68121fc8354e5e28ce4514aa1e1|Review comments from Julien|Fri, 24 Jan 2020 11:59:55 -0600|Fri, 24 Jan 2020 12:37:37 -0600
+00db92ef1705e35be47437bb6a4eac27804eaf0b|adapt to use the upgradeToSsl method (#505)|Fri, 24 Jan 2020 00:41:24 +0800|Fri, 24 Jan 2020 00:41:24 +0800
+7f1f3585d187fdf9d38ce7fd47e1b4bbd5c0b489|Address review comments|Fri, 17 Jan 2020 11:21:29 -0600|Fri, 17 Jan 2020 11:21:29 -0600
+c327f4cee09403596a9cc1806d3d9ba5388b98a4|Prepare DB2 module for initial PR|Tue, 14 Jan 2020 10:24:43 -0600|Tue, 14 Jan 2020 10:24:43 -0600
+2519bc4d455261d64d5024be6989f14029228db0|Enable DB2 PreparedQueryCached TCK test|Mon, 13 Jan 2020 18:30:00 -0600|Tue, 14 Jan 2020 09:19:55 -0600
+d174c3dfd3a65c60f6fa8418de4bde68aacbfb43|Eliminate CCSIDManager usage as an instance|Sat, 11 Jan 2020 18:30:48 -0600|Tue, 14 Jan 2020 09:19:55 -0600
+a3d6ecfd39ffef15b3c0d6f4546a62404c4c40c5|Implement section pooling|Sat, 11 Jan 2020 12:12:10 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+a938e10bb816336ed07bef7dda41d86f62077cb4|Get prepared query tests working|Thu, 9 Jan 2020 10:29:59 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+6a39093ef09f914aa9c9aece56f57ff9cda14c61|Enable non-error-path Collector TCK tests|Wed, 8 Jan 2020 17:48:04 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+b230f55c6da65a13ea15a4d13f0d6d88418f94f5|Tolerate benign Sqlcodes for closing connections and updates with no updated rows|Wed, 8 Jan 2020 17:44:21 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+47184c65d8a96f6ad539a6e859be716852166153|Parse prepared statement input and output columns separately|Wed, 8 Jan 2020 16:37:20 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+d33fc2961e912421f203706384cd7a6c8077a07e|Replace System.out with Vertx logging|Wed, 8 Jan 2020 13:20:13 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+49b317fd66dd1171a46a14052b2fe80ace2bd31d|Implement basic DB2 data types|Tue, 7 Jan 2020 16:38:27 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+df6f63ac362937585e87081a9724784ede1ddc9f|Update README with information on how to test|Tue, 7 Jan 2020 10:21:39 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+16e0e7e17681bcb7ab6ff106a1460d82b94449fc|Rebase work on 4.0|Tue, 7 Jan 2020 09:37:38 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+c66455bf6cbb38d86c3df3b4a8288b9eb8529b28|Add all TCK tests with only passing tests enabled for now|Tue, 7 Jan 2020 08:43:57 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+c6e18e22f00dbf7cb3fbe79027436b03ac9ff0c2|Implement prepeard statements|Tue, 7 Jan 2020 08:43:32 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+ce72b3417962ee68e10ca0e8f5afad4f5d461aaa|Add DRDA code ported from Apache Derby|Tue, 7 Jan 2020 08:43:14 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+7e857caa458b2d78e337c08b24f16efd477076b2|Implement standard queries|Tue, 7 Jan 2020 08:42:56 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+e7ae8597a73963108805d0b77fc7eda700e9397c|Initial version of DB2 module|Tue, 7 Jan 2020 08:42:06 -0600|Tue, 14 Jan 2020 09:19:54 -0600
+d96e53f80c0066b377c43efbd1c6466bb0d06e51|support SASL SCRAM-SHA-256 as an authentication mechanism.|Tue, 10 Sep 2019 15:42:58 +0200|Mon, 6 Jan 2020 11:48:35 +0100
+c768ce2305a57b7b4a697d9d20cc532fc5c28ac0|Use collation id instead of BINARY_FLAG to distinguish between binary and nonbinary data (#483)|Mon, 6 Jan 2020 18:03:20 +0800|Mon, 6 Jan 2020 11:03:20 +0100
+04366c888eda7725182e8678758e5dc7b9828809|Factor out common code in Row and add missing types in Row and Tuple|Mon, 16 Dec 2019 17:37:44 +0100|Mon, 16 Dec 2019 22:24:54 +0100
+ad5e82fa2dbf1aa9add1ec44b732c841d183e90e|Reimplement ArrayTuple to avoid extending ArrayList|Mon, 16 Dec 2019 17:18:33 +0100|Mon, 16 Dec 2019 17:23:05 +0100
+18aaa7ca9d9cffcba226c87cfa20dd687ea65304|MySQL unsigned numeric data type support (#477)|Mon, 16 Dec 2019 18:26:16 +0800|Mon, 16 Dec 2019 11:26:16 +0100
+4267eb9e54fbcb3272664401724bfbff72a5a143|MySQL preparedStatement rework (#475)|Sun, 15 Dec 2019 17:11:21 +0800|Sun, 15 Dec 2019 10:11:21 +0100
+f34b81de35f31475f20fa77c319b578ff20cee5f|Removed duplicated code|Sun, 1 Dec 2019 21:51:19 +0200|Fri, 13 Dec 2019 11:33:00 +0100
+b4f8ec225180f3bf1aea9e9ebf899bdcb16bfee5|improve the charset parsing of row decoding|Wed, 20 Nov 2019 02:29:33 +0800|Fri, 13 Dec 2019 11:30:39 +0100
+b861ebf84803060fe26cab70e15c6141c1aa135e|add support for MySQL characterEncoding option|Wed, 20 Nov 2019 02:27:53 +0800|Fri, 13 Dec 2019 11:30:39 +0100
+ab36dc902ff531b40698f738d6d78bcfebbacdca|improve prepared statement validation error messages|Sat, 23 Nov 2019 02:39:40 +0800|Fri, 13 Dec 2019 11:30:19 +0100
+7842ad13a3eaafc220c19e0026977a4b2db14146|minor MySQL datatype mapping|Sun, 24 Nov 2019 04:30:17 +0800|Fri, 13 Dec 2019 11:29:49 +0100
+12d5aaee925a6d4326c65765f6b1c4164160d266|add support for MySQL BIT data type|Sun, 24 Nov 2019 04:10:50 +0800|Fri, 13 Dec 2019 11:29:49 +0100
+47dd2cd1f7f528db28061f857ff09f4dde5567f1|Releasing 4.0.0-SNAPSHOT|Fri, 6 Dec 2019 15:10:11 +0100|Fri, 6 Dec 2019 15:10:11 +0100
+2f36e165c2f4a6385e909b31ece228e6b80a66d8|Releasing 4.0.0-milestone4|Fri, 6 Dec 2019 14:34:29 +0100|Fri, 6 Dec 2019 14:34:29 +0100
+217f4fabeb3171368fe5469cc78fc92f83dfc0a8|MySQL lastInsertId should be represented as Long type instead of Integer|Thu, 5 Dec 2019 22:43:05 +0800|Thu, 5 Dec 2019 16:43:05 +0100
+ed4bf01ee0c26ef9de04569627a0b1bcca293504|Fixes #465|Sun, 1 Dec 2019 01:04:42 +0200|Sun, 1 Dec 2019 10:56:34 +0100
+53175f56fcf181e578ebe8010f30005362aafcac|Futurisation of the API - closes #456|Fri, 22 Nov 2019 14:26:41 +0100|Fri, 22 Nov 2019 14:35:50 +0100
+ac339ee0355edd94ac70f0a04fe74ecf655bbb87|Per SQL connection context - closes #453|Tue, 19 Nov 2019 10:22:02 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+9d33256cc1b49c5c9a0cb794eebf1a3cb8991fe6|Remove usage of CommandResponse contract between the SqlConnection implementation and the actual Connection|Mon, 18 Nov 2019 09:40:33 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+ef2fbc056ff1f88a36cd9d1648d621fce1a8ad56|SqlConnectionImpl#schedule(CommandBase) should be private|Mon, 18 Nov 2019 08:25:59 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+832acd42fbd77e9ae62ecf2e589b304ae3172351|Remove TxStatus|Mon, 18 Nov 2019 00:05:00 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+ab98346d79aac73b106a9cba48728f061a1df48a|Refactor to have CommandResponse not anymore extend AsyncResult|Sun, 17 Nov 2019 23:01:14 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+e72a2a4c7870e98bb272b639147aa79833e00e10|Use PgException as type|Sun, 17 Nov 2019 20:27:23 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+dd2313310b7a7fba60ac859502ae13846acc8732|Set only scheduler when success|Sun, 17 Nov 2019 19:53:30 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+b265121cecc873e48eb8c98c4c88391d363e38cf|Remove confusing variance|Sun, 17 Nov 2019 18:43:44 +0100|Thu, 21 Nov 2019 17:47:38 +0100
+a1cdc6e9bf55d67fd344a608f3d657b2e0868c2d|PgConnection connect should always perform the native transport check|Tue, 19 Nov 2019 09:29:16 +0100|Thu, 21 Nov 2019 17:47:34 +0100
+db70d6ae67b91cba97f581682818eb3a38fa1232|Merge pull request #452 from eclipse-vertx/issues/polyglot-master|Thu, 21 Nov 2019 15:32:11 +0100|Thu, 21 Nov 2019 15:32:11 +0100
+f80d9f3e50d9df86e6efdb0e6012ebf4378467db|Add missing annotations|Thu, 21 Nov 2019 14:11:13 +0100|Thu, 21 Nov 2019 14:11:13 +0100
+fd6890e49abd0944f3aaf10e16bfdcc94dc9c10f|improve MySQL documentation|Thu, 17 Oct 2019 22:26:13 +0800|Sun, 17 Nov 2019 14:18:41 +0100
+5991f413b9dfb1b8f38b19d2de891d6b447888e8|rework capabilities flags setting in MySQL|Thu, 17 Oct 2019 22:15:57 +0800|Sun, 17 Nov 2019 14:18:35 +0100
+0129cc124bbf7608803c53375279154471fa00aa|add support for MySQL JSON data type|Sun, 20 Oct 2019 17:51:42 +0800|Sun, 17 Nov 2019 14:10:38 +0100
+23a417442c5625619078a756b9bc82d87fa48eb8|fix incorrect text decoding MySQL DATETIME type|Thu, 7 Nov 2019 00:39:02 +0800|Sun, 17 Nov 2019 14:02:57 +0100
+a061c506c850d2d1fb7316e3f4fc5461872c788e|Update README with MSSQL|Sun, 17 Nov 2019 12:25:53 +0100|Sun, 17 Nov 2019 12:25:53 +0100
+26aa9473ab6be8b779800b552669f915a5459249|Integrate mssqlserver with 4.0.0|Sun, 17 Nov 2019 12:00:33 +0100|Sun, 17 Nov 2019 12:20:28 +0100
+4ae174dbff4620b9c1a04174d7bcbb5208e793bf|initial import for vertx-mssql-client|Fri, 18 Oct 2019 00:31:20 +0800|Sun, 17 Nov 2019 11:59:46 +0100
+c2a32df36acf14e5698da514130d77cfc2189652|Update for NetSocketInternal package change|Thu, 17 Oct 2019 23:22:31 +0200|Thu, 17 Oct 2019 23:22:31 +0200
+d3522b33555ea05fb0d3bc8f576e941ac718e737|MySQL transaction management fix. (#415)|Thu, 17 Oct 2019 18:30:59 +0800|Thu, 17 Oct 2019 12:31:35 +0200
+929292686ae2375c832142f5871f33670366a0c1|MySQL ENUM and SET data type support (#425)|Tue, 24 Sep 2019 16:43:52 +0800|Thu, 17 Oct 2019 12:16:04 +0200
+235ef14f5b17fe4b1eac4944abd26fd39dbefd8f|Migrate Postgresql tests on Testcontainers|Mon, 30 Sep 2019 11:34:13 +0200|Thu, 17 Oct 2019 12:14:52 +0200
+dc68a837928527815d0cc74acbd74283b3a10420|Tests clean up (#430)|Sun, 29 Sep 2019 17:17:22 +0800|Thu, 17 Oct 2019 12:14:28 +0200
+5037851829ff08f71d26cae31eef63f8a2cf277e|The client should not assume that Tuple will always extends List, instead we introduce TupleInternal which provides operation that are internally necessary to use the tuple wihtout requiring to be a List instance - fixes #413|Fri, 27 Sep 2019 12:51:07 +0200|Thu, 17 Oct 2019 12:14:02 +0200
+0f5d0a8b24e3607fb68a28979ed1a65b8f55da4f|User can configure how affected rows are counted (#436)|Thu, 17 Oct 2019 12:11:16 +0200|Thu, 17 Oct 2019 12:11:16 +0200
+08d419c5c9a07b2a15476c348376dfd816ad92fd|Releasing 4.0.0-SNAPSHOT|Thu, 19 Sep 2019 13:33:24 +0200|Thu, 19 Sep 2019 13:33:24 +0200
+b7030a0657271eb9b35d0e10d8d22e7645c682b9|Releasing 4.0.0-milestone3|Thu, 19 Sep 2019 13:32:38 +0200|Thu, 19 Sep 2019 13:32:38 +0200
+4bf3fd5d1da1c88830a10ea0b09b6594ec8f94ee|Misc tests clean up (#419)|Sun, 15 Sep 2019 18:11:08 +0200|Wed, 18 Sep 2019 17:08:03 +0200
+ed7b7b74681107552e9ffc91679ba10e22329405|Avoid un necessary object creation when decoding MySQL types|Sun, 15 Sep 2019 10:50:36 +0200|Wed, 18 Sep 2019 17:06:46 +0200
+f48f6e4aec827862e275f56fe3fc315c0bc1ac4b|MySQL 8 support (#420)|Wed, 18 Sep 2019 15:01:56 +0800|Wed, 18 Sep 2019 17:03:35 +0200
+2ff6b8ae9421198f26b524547ec687f443cc7351|Fix to use Json#decodeValue method|Mon, 16 Sep 2019 12:13:26 +0200|Mon, 16 Sep 2019 12:14:28 +0200
+b6f1f6de84b168ab696d161722c83e51784e947e|MySQL TLS support (#411)|Mon, 16 Sep 2019 00:11:47 +0800|Mon, 16 Sep 2019 12:14:28 +0200
+1d95164297ecc8f4e01026da215ff3d7e91b3017|Fixed copy of direct buffers causes leak. (#416)|Sun, 15 Sep 2019 10:14:59 +0200|Sun, 15 Sep 2019 10:14:59 +0200
+79f72ae12d520741d9e366d0f2fbab76049af5d6|Regen converters|Fri, 13 Sep 2019 18:31:54 +0200|Fri, 13 Sep 2019 18:31:54 +0200
+fb1da6012bc0d26538114ba90a2db64bf448954f|Incorrect implementation of tuple factory method - fixes #400|Sat, 24 Aug 2019 10:33:03 +0200|Mon, 9 Sep 2019 13:32:54 +0200
+f443913d9b57dc6fc14b457d79dee33d715edb00|MySQL pool connection factory properties should not be mutated when creating new connections - fixes #365 (#383)|Mon, 29 Jul 2019 00:21:55 +0800|Mon, 9 Sep 2019 13:30:41 +0200
+1aa06f9555a0badf41ef0519bbbec9a21255cde5|add links to the manuals in the README - fixes #375|Thu, 25 Jul 2019 20:12:18 +0800|Mon, 9 Sep 2019 13:30:33 +0200
+a160c70996d77d1ea3b008dd9c94182b5d0c45e7|Remove direct usage of jackson and use JsonCodec|Fri, 30 Aug 2019 13:29:01 +0200|Mon, 9 Sep 2019 11:36:48 +0200
+35188239370f3ad3d19b18a0b1b43e54d160d2a7|Improve RowDecoder|Sat, 7 Sep 2019 21:05:13 +0200|Mon, 9 Sep 2019 11:36:48 +0200
+c50538baf60ee935ecc26574b5f5a4e9d808cdf4|Handle failures in user collector|Sat, 7 Sep 2019 11:25:58 +0200|Mon, 9 Sep 2019 11:36:48 +0200
+810bee5f4192d6bbc8094bd21d1cc341703e0694|Get away with RowInternal|Sat, 7 Sep 2019 10:29:34 +0200|Mon, 9 Sep 2019 11:36:47 +0200
+7921839189f93540211c3107aba89e5ab61b22d5|Make RowSet generic instead of beying an SqlResult<Row> - fixes #408|Fri, 6 Sep 2019 17:19:43 +0200|Mon, 9 Sep 2019 11:36:47 +0200
+7cbd4ef7fed708a74ed05d6dd16d1215bfcc1e87|More doc improvements|Sun, 8 Sep 2019 00:26:35 +0200|Mon, 9 Sep 2019 11:36:47 +0200
+c04aa4415b2f6d3726c5934fb3146bb7ee8627da|Improve documentation|Sun, 8 Sep 2019 00:11:18 +0200|Mon, 9 Sep 2019 11:36:47 +0200
+4c3413d9eec284cb12c445429de60ff717018dd5|fix the stored program test for MariaDB (#406)|Fri, 30 Aug 2019 01:52:10 +0800|Mon, 9 Sep 2019 11:36:47 +0200
+d959e92c9d6e1af398d383adb383ce85b1682317|MySQL stored procedures support (#403)|Thu, 29 Aug 2019 23:16:20 +0800|Mon, 9 Sep 2019 11:36:47 +0200
+5ca09eb04e9da50bcf4faf15559ac0ae510cb442|Add support for MariaDB and migrate MySQL testing to TestContainers (#381)|Thu, 29 Aug 2019 23:15:43 +0800|Mon, 9 Sep 2019 11:36:47 +0200
+510ade10371699855f37e04e9e4a3beabb58f763|Create Pool With vertx connectionUrl and default PoolOptions|Wed, 21 Aug 2019 17:59:50 +0800|Mon, 9 Sep 2019 11:36:16 +0200
+fabe27bc5ff8710498251cdc940d728c6f7a2e3b|Documentation improvements (#393)|Wed, 21 Aug 2019 15:30:45 +0800|Mon, 9 Sep 2019 11:36:16 +0200
+c5d118f0aa041bfeff833132a0f117ea0234dffa|We need @GenIgnore for array type arguments|Tue, 20 Aug 2019 19:04:05 +0200|Mon, 9 Sep 2019 11:36:16 +0200
+73cbbce35b5bba65b7acee6d1a743ad9a7029cbf|Add a Tuple wrap method for wrapping existing data structures - closes #395|Tue, 20 Aug 2019 15:07:53 +0200|Mon, 9 Sep 2019 11:36:16 +0200
+9f7d3f2a77885a0dcc915d7cabbe504e980bc209|Create default methods in Tuple to ease alternate implementations of this interface|Tue, 20 Aug 2019 15:00:20 +0200|Mon, 9 Sep 2019 11:36:16 +0200
+faee8a3bdf94adbc08a5f2a85affbc62bf979cd6|Add support for SqlResultProperty (#392)|Tue, 13 Aug 2019 21:56:15 +0800|Mon, 9 Sep 2019 11:36:16 +0200
+4fa9e3beb94ae61e3f6fbdf9d9bd71993cd32974|MySQL LOCAL INFILE support (#391)|Tue, 13 Aug 2019 20:21:19 +0800|Mon, 9 Sep 2019 11:36:16 +0200
+ee984b44d6c743d44d7cd6fd0ced7daf6527040e|Releasing 4.0.0-SNAPSHOT|Mon, 26 Aug 2019 13:41:17 +0200|Mon, 26 Aug 2019 13:41:17 +0200
+82a3c553597cfa2b22f9f8edb6ffc46dc78cceb6|Releasing 4.0.0-milestone2|Mon, 26 Aug 2019 11:49:30 +0200|Mon, 26 Aug 2019 11:49:30 +0200
+f31fe4dc213946bcb5ff97243b8913d8d9f56bcb|Improve InitiateSslHandler so it works for 3.8 and master|Sat, 27 Jul 2019 14:06:45 +0200|Sat, 27 Jul 2019 14:13:14 +0200
+f37b701fde8788a0f5a1256465b98fee468b73af|Add support for testing with external MySQL server - fixes #368  (#379)|Fri, 26 Jul 2019 22:07:44 +0800|Sat, 27 Jul 2019 14:13:14 +0200
+bbbcca7b8b64abff322d056c0a0491f798c81acb|Releasing 4.0.0-SNAPSHOT|Thu, 25 Jul 2019 17:56:56 +0200|Thu, 25 Jul 2019 17:56:56 +0200
+165af1cbd14dc9c418b063dd0656dbbf669fc657|Releasing 4.0.0-milestone1|Thu, 25 Jul 2019 17:55:14 +0200|Thu, 25 Jul 2019 17:55:14 +0200
+fd22b94668f868114ebff10944fabd16ffc67f14|Releasing 4.0.0-milestone1|Thu, 25 Jul 2019 15:12:39 +0200|Thu, 25 Jul 2019 15:23:44 +0200
+c6fef1aa5a1dc42b30603396557ddf64d812bb1a|Set version to 4.0.0-SNAPSHOT|Thu, 25 Jul 2019 09:42:18 +0200|Thu, 25 Jul 2019 15:22:51 +0200
+f8823616dac331a09657d75cf671a1c869ed74e0|Remove setUsePooledBuffer covariance as it's not used anyway|Thu, 25 Jul 2019 15:22:38 +0200|Thu, 25 Jul 2019 15:22:38 +0200
+3caa10a458e4f505f41f8dd3d54e52134712f38b|Remove override so master won't complain when removed|Thu, 25 Jul 2019 15:17:52 +0200|Thu, 25 Jul 2019 15:17:52 +0200
+ee836a5a2aa716ab4fbb78826b1f5123063605f0|Remove unecessary version declarations|Thu, 25 Jul 2019 15:04:26 +0200|Thu, 25 Jul 2019 15:04:26 +0200
+52afa203546dd061412b3a3e044a93af32844173|Improve pom dependencies|Thu, 25 Jul 2019 13:29:58 +0200|Thu, 25 Jul 2019 13:51:03 +0200
+930c58795d0969dacafba92735601188f63e8819|Improve test failure reporting|Wed, 24 Jul 2019 16:00:44 +0200|Wed, 24 Jul 2019 23:12:16 +0200
+bcfafdc61271ed820735a4655f7364ea5a252be1|Fix inconsistency in text search tests (#373)|Wed, 24 Jul 2019 23:12:01 +0200|Wed, 24 Jul 2019 23:12:01 +0200
+5dce513e6cd81ff1a947590dd03f2e9a35031e20|Add support for tuple accessor methods (#367)|Wed, 24 Jul 2019 23:56:43 +0800|Wed, 24 Jul 2019 17:56:43 +0200
+198efac759a971c3bb7838b1f7749eab50315df5|support for ts types (#370)|Tue, 23 Jul 2019 18:07:34 +0200|Tue, 23 Jul 2019 18:07:34 +0200
+3fcbb7cbd533ec14cb3cf0a32ca5f2319f2f2758|Add support for MySQL charset (#361)|Fri, 19 Jul 2019 19:43:50 +0800|Fri, 19 Jul 2019 13:43:50 +0200
+70350e723dc9d75151cccd5ba756ebf42e49bf42|io.vertx:vertx-sql-client:test-jar should't in compile scope - fixes #364|Thu, 18 Jul 2019 09:47:34 +0200|Thu, 18 Jul 2019 09:47:34 +0200
+f9c846ddeb5f1524e0711cde8217c37b7791a19e|Releasing 3.8.1-SNAPSHOT|Wed, 17 Jul 2019 10:13:36 +0200|Wed, 17 Jul 2019 10:13:36 +0200
+55e6cccc2fc9c137f65c35c238b423e96a455990|Releasing 3.8.0|Tue, 16 Jul 2019 11:33:46 +0200|Tue, 16 Jul 2019 11:33:46 +0200
+5583e1efe171a1f35e3ab9bcd8395e4c15e451fb|parsing MySQL version should be able to handle unstable server version number - fixes #357 (#360)|Tue, 16 Jul 2019 17:24:17 +0800|Tue, 16 Jul 2019 11:24:17 +0200
+b5795163881a51794daf3fe362350740705da8a2|MySQL collation support (#352)|Tue, 16 Jul 2019 17:23:28 +0800|Tue, 16 Jul 2019 11:23:28 +0200
+8661184728dde7172bc747512c09099141255e59|Support Mysql ParsingUserInfoContainExclamationMark (#359)|Mon, 15 Jul 2019 22:40:10 +0800|Mon, 15 Jul 2019 16:40:10 +0200
+b3b433ea30f049c812f458b1a01a79ecabc8e681|Build matrix for MySQL and make client compatible with MySQL 5.6 (#356)|Sun, 14 Jul 2019 19:28:16 +0800|Sun, 14 Jul 2019 13:28:16 +0200
+7739297d152f2e6b4ba7893de41875b6e7851e83|Fix the incorrect MySQL DATETIME/TIMESTAMP datatype encoding implementation (#351)|Tue, 9 Jul 2019 00:13:44 +0800|Mon, 8 Jul 2019 18:13:44 +0200
+a384fd35572374829c81703ed0a287e4b18d14c7|minor decode optimisations|Mon, 8 Jul 2019 15:41:57 +0200|Mon, 8 Jul 2019 15:41:57 +0200
+884caf5d8a868f20081a76487e0e85cb7c3615d0|MySQL client does not correctly check if a database row value is null for prepared statement results - fixes #350|Mon, 8 Jul 2019 15:28:34 +0200|Mon, 8 Jul 2019 15:28:34 +0200
+7129766732ce7e73ff2138f0a2f927efec42bcdf|Remove non null constraint on basicdatatype table|Mon, 8 Jul 2019 15:16:44 +0200|Mon, 8 Jul 2019 15:16:44 +0200
+4045e58d2d308c09a6ad61edc78ee364a627c4d6|wrap the default properties to make it possible for adding properties (#347)|Sun, 7 Jul 2019 13:55:25 +0800|Sun, 7 Jul 2019 07:55:25 +0200
+0fe1c80dc9a52d1473128c038cc27f0e9fee99d6|More pom simplification|Fri, 5 Jul 2019 11:42:13 +0200|Fri, 5 Jul 2019 11:42:13 +0200
+594f5f8da796f4928086980dd5f7188e25728bde|Pom cleanup + remove JDBC related stuff|Fri, 5 Jul 2019 09:06:01 +0200|Fri, 5 Jul 2019 09:06:01 +0200
+4cef68490ded61778415d97d9d6c65471b6e3691|Add support for configuring properties (#344)|Fri, 5 Jul 2019 05:31:38 +0800|Thu, 4 Jul 2019 23:31:38 +0200
+e1b66df4329b951fc4083ad6bdbc0df53ce71a36|remove unused parameter|Sun, 23 Jun 2019 17:22:39 +0800|Sun, 23 Jun 2019 13:34:53 +0200
+647870527fad92855d9356e1920c7d5b7afcd7c7|MySQL Connection Uri support (#338)|Sun, 23 Jun 2019 15:14:33 +0800|Sun, 23 Jun 2019 09:14:33 +0200
+da0cffeae34a8770893658c33b1552587647ad3e|Postgres logging minors (#336)|Sun, 23 Jun 2019 15:13:39 +0800|Sun, 23 Jun 2019 09:13:39 +0200
+d709a9b93da8a5d7327b54bd224037793df63b0d|MySQL prepared batch support (#335)|Sun, 23 Jun 2019 15:13:07 +0800|Sun, 23 Jun 2019 09:13:07 +0200
+f14747cd39a28184bb4e17840e94320731782d4d|Use promise instead of future when needed|Fri, 21 Jun 2019 17:23:30 +0200|Fri, 21 Jun 2019 17:23:30 +0200
+59f2cd6fa3c8c76d8e03d974a1781d53906162a4|Tests structure clean up (#328)|Tue, 18 Jun 2019 14:22:57 +0800|Tue, 18 Jun 2019 08:22:57 +0200
+9ff23c9d6970d67233aa0ffa8f226c67afd04b89|MySQL closehook support (#332)|Tue, 18 Jun 2019 14:22:30 +0800|Tue, 18 Jun 2019 08:22:30 +0200
+8ca1caefe772251adb2c44e3514b1d19c3766616|improve unsupported operation failure handling for MySQL|Sun, 16 Jun 2019 12:59:05 +0800|Sun, 16 Jun 2019 10:36:08 +0200
+1bb0d24ac4a18724db7bf0e9bbdb9be11cf2e1b1|Minor readme|Sat, 15 Jun 2019 21:39:13 +0200|Sat, 15 Jun 2019 21:39:13 +0200
+37b86b0367a6a6971fc2e61aa825895666c6bb5f|Extract common part of documentation to a new section - this closes #319|Sat, 15 Jun 2019 10:34:52 +0200|Sat, 15 Jun 2019 17:30:42 +0200
+552bee31c44ed0297eeb998b8f892832f947b950|Prepared statement cache retrofit (#325)|Sat, 15 Jun 2019 16:36:25 +0800|Sat, 15 Jun 2019 10:36:25 +0200
+e251839ff8307fd6b00285df9b6cd9a7060801e2|Fix the CI and improvements for Postgres RowImpl (#324)|Fri, 14 Jun 2019 04:29:51 +0800|Thu, 13 Jun 2019 22:29:51 +0200
+badb88a12f3f7ae865a1f4b4c072d33cbb497bbf|Update .travis.yml|Wed, 12 Jun 2019 17:10:16 +0200|Wed, 12 Jun 2019 17:12:31 +0200
+30635d37acb8dd108866c28d72295f224155f311|JSON types should not use code generation - this closes #320|Tue, 11 Jun 2019 10:12:16 +0200|Tue, 11 Jun 2019 14:56:46 +0200
+494d7c8321c8b0a8b33ab39ae72d1b91978a4ac5|MySQL row improvements (#316)|Tue, 11 Jun 2019 02:41:26 +0800|Mon, 10 Jun 2019 20:41:26 +0200
+045011e631a2cf66f6c5afdb8e735c64d96559e0|MySQL documentation (#318)|Tue, 11 Jun 2019 02:40:52 +0800|Mon, 10 Jun 2019 20:40:52 +0200
+3dbd6b5ac7e1cb226f548e8cc43a7e914827e8a2|Fix documentation for transaction to show correct code|Mon, 10 Jun 2019 18:22:44 +0200|Mon, 10 Jun 2019 20:40:01 +0200
+1e8fcdc3730041be9963ef203cdb65c01e031fe0|Clean up MySQL package and classes (#315)|Sat, 8 Jun 2019 14:49:29 +0800|Sat, 8 Jun 2019 08:49:29 +0200
+dde120b837c4bf17d41e9194cf6896ad494a9589|Add support for MySQL utility commands (#313)|Fri, 7 Jun 2019 21:30:33 +0800|Fri, 7 Jun 2019 15:30:33 +0200
+8b7070bbc5d035300aa6797f30336fca85d6acbc|introduce MySQLException class and remove ErrPacket in MySQL (#311)|Mon, 3 Jun 2019 14:24:53 +0800|Mon, 3 Jun 2019 08:24:53 +0200
+dc5a0627c07e5134f29151b3c79b8ad16c69f8d1|Update README.adoc|Sun, 2 Jun 2019 18:24:15 +0200|Sun, 2 Jun 2019 18:24:15 +0200
+ac028b5857ab97967c2002e1e4a193f43e777356|Project clean up (#309)|Sun, 2 Jun 2019 22:06:42 +0800|Sun, 2 Jun 2019 16:06:42 +0200
+233d366f243b32bcd71cfeaaa0f3281e1db234af|Rename examples|Sun, 2 Jun 2019 14:34:21 +0200|Sun, 2 Jun 2019 14:34:21 +0200
+bb033ec9805e15a4eda266b29b4b200fbe5a256a|Add RxJava doc hook|Sun, 2 Jun 2019 14:30:27 +0200|Sun, 2 Jun 2019 14:30:27 +0200
+7c2d5a9f57e9771f8e517dbb642253d7e3cf0195|Split the project into modules - this closes #306|Fri, 31 May 2019 10:56:54 +0200|Sun, 2 Jun 2019 13:06:37 +0200
+d2b298b71d00e9afcceb0d318458ecada0d840e4|Remove what will be now in stack|Fri, 31 May 2019 10:49:30 +0200|Sat, 1 Jun 2019 11:48:43 +0200
+03cbc7dc1b3ae409d5e233e216ca07bafa14101a|Set version to 3.8.0-SNAPSHOT|Fri, 31 May 2019 10:30:35 +0200|Fri, 31 May 2019 10:36:54 +0200
+092af7f9e823046c2681ffd5bdcdbf745c9f86d4|Use vertx 3.8|Fri, 31 May 2019 10:24:56 +0200|Fri, 31 May 2019 10:36:54 +0200
+36cd160a16b0c7cadb993a55a019aae725d1bb36|Send travis notifications to vertx CI google group|Fri, 31 May 2019 10:27:37 +0200|Fri, 31 May 2019 10:36:54 +0200
+73ddd0807353b134165fb3070e71c9c945a57285|separate pool options and connect options (#305)|Fri, 31 May 2019 16:11:39 +0800|Fri, 31 May 2019 10:11:39 +0200
+ea4b795043c1f58d6ddecc11393082c28a6a57a8|introduce MySQLConnectOptions and extract the common options to SqlConnectOptions (#304)|Fri, 31 May 2019 15:30:41 +0800|Fri, 31 May 2019 09:30:41 +0200
+951cc64a1b2b125554f6831d4ae0e84654883827|Add support for MySQL 16MBytes+ size packet codecs (#298)|Thu, 30 May 2019 19:12:59 +0800|Thu, 30 May 2019 13:12:59 +0200
+0a4aec72b5d94138c15796ec7e52ce62270c54e7|Upgrade Vert.x to 3.7.1 (#297)|Sat, 25 May 2019 18:37:23 +0800|Sat, 25 May 2019 12:37:23 +0200
+0de1c24878fb0d93be447ff17331de0f2b57805d|Mysql codec improvements (#295)|Sat, 25 May 2019 18:36:40 +0800|Sat, 25 May 2019 12:36:40 +0200
+07d287f5f6c6ab57691a10f59315b4ffd85e3c44|MySQL API update and pooling support (#294)|Fri, 24 May 2019 22:22:10 +0800|Fri, 24 May 2019 16:22:10 +0200
+c0c8fb1d55ba30dcb8d5c3bcba5602b708d26c56|MySQL datatype improvements (#293)|Fri, 24 May 2019 16:49:22 +0800|Fri, 24 May 2019 10:49:22 +0200
+959f525902227ed6e1a2989075bc415aa5ee9001|Add support for Postgres BYTEA escape format (#287)|Thu, 23 May 2019 17:29:58 +0800|Thu, 23 May 2019 11:29:58 +0200
+4269caaf85ce36b46c2f747cb02f51a5ed0fef99|Rename ClosePortalCommand to CloseCursorCommand|Thu, 23 May 2019 11:27:22 +0200|Thu, 23 May 2019 11:27:48 +0200
+71d8c887633ebd5f59ab3bb6523b1904fcfc61ec|Minor renames|Thu, 23 May 2019 11:19:40 +0200|Thu, 23 May 2019 11:27:44 +0200
+c13783c69f14b4f503cd4921044f1519a66b6e6e|support for MySQL cursor codecs without changing the SPI|Wed, 22 May 2019 18:15:30 +0800|Thu, 23 May 2019 11:18:19 +0200
+a4abcd62ae8b0285e63552f0e2cc6c7d1717d4c2|add support for cursor codecs & minor query codecs in MySQL|Sat, 6 Apr 2019 16:43:48 +0800|Thu, 23 May 2019 11:18:19 +0200
+f34ad82d3cce9b279d21d7194228923ebe63abd2|minor ExtendedQueryCommand execution mode names|Sat, 6 Apr 2019 16:16:52 +0800|Thu, 23 May 2019 11:18:19 +0200
+6fc73bde514c2af8f786219bfea55c7a53d3eb35|add support for MySQL prepared-statement close & reset message codecs|Sat, 6 Apr 2019 14:51:37 +0800|Thu, 23 May 2019 11:18:19 +0200
+57234697a88486868edc058f27fa09ea27b8ef2b|prototype new SPI for cursor|Fri, 5 Apr 2019 17:26:34 +0800|Thu, 23 May 2019 11:18:19 +0200
+605988bf563217aa8ce028abcee94fa2e2a14ffa|migrate tests for cursor from PG to TCK|Tue, 2 Apr 2019 22:06:57 +0800|Thu, 23 May 2019 11:18:19 +0200
+1e57cca40e547c1f49f2b17d7951874eb487c0a0|fix typo|Thu, 23 May 2019 09:17:58 +0800|Thu, 23 May 2019 08:18:25 +0200
+aa43d03a020e5ce114c64384273546b2b0e19818|SqlClient close method - this closes #290|Tue, 21 May 2019 15:58:18 +0200|Tue, 21 May 2019 15:58:18 +0200
+ade44ecb11c8764c91e72d99ac74e52f3d8eaa93|Minor doc update|Mon, 20 May 2019 23:30:37 +0200|Mon, 20 May 2019 23:30:37 +0200
+08cd01b18e687795783a7ed9e30a54dcd530f94a|Remove unnecessary files|Mon, 20 May 2019 17:57:27 +0200|Mon, 20 May 2019 17:57:27 +0200
+535f119bbebc8e38e53f4cdf2c1560e6928f63ee|Update README|Mon, 20 May 2019 17:56:33 +0200|Mon, 20 May 2019 17:56:33 +0200
+536f76f1662c52c65c06532ef599f2a2744517e1|Remove unecessary dependencies|Fri, 10 May 2019 08:28:01 -0400|Mon, 20 May 2019 17:50:53 +0200
+e6897848f42e95257aa2cdd1496e258f32e120ad|minors|Tue, 2 Apr 2019 20:55:43 +0800|Mon, 20 May 2019 15:21:18 +0200
+e0962f60f152252070caf2ab3b2183fc43ba10c0|refactor to use MyRowDesc instead of ColumnMetadata in MySQL|Sun, 24 Mar 2019 04:36:56 +0800|Mon, 20 May 2019 15:21:18 +0200
+32fb3a2394a3f754ee68187d2f6ae69969ce7b34|prototype multi-resultset support|Sun, 24 Mar 2019 04:05:08 +0800|Mon, 20 May 2019 15:21:18 +0200
+8913f2ec42802ae833a6905dc7b9cda7b266b0e4|rename MySQL related package and classes - fixes #276|Fri, 10 May 2019 21:43:36 +0800|Sat, 11 May 2019 01:49:58 -0400
+5dba57acdaa9a4f11048141132cfc63fa325ce45|Fix travis badge link|Fri, 10 May 2019 07:58:13 -0400|Fri, 10 May 2019 07:58:13 -0400
+5f50493b1eed7db049745a44ce19a09d0f3798aa|Stop mysql in Travis|Fri, 10 May 2019 07:10:11 -0400|Fri, 10 May 2019 07:46:56 -0400
+d3cfd77cf42f342974adb1120facc735aa4f0517|Rename package to io.vertx instead of io.reactiverse|Thu, 9 May 2019 16:38:17 -0400|Fri, 10 May 2019 07:46:56 -0400
+1e37dd416108903b9045f6de1548d4aca674307a|Change project coordinates for Eclipse Vert.x|Thu, 9 May 2019 16:28:47 -0400|Fri, 10 May 2019 07:46:56 -0400
+851cdaef0f59c956d699fb2c37ae420c14167958|New initial commit|Thu, 2 May 2019 08:47:32 +0200|Thu, 2 May 2019 08:47:32 +0200

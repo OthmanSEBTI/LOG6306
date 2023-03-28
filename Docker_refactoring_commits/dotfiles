@@ -1,0 +1,12 @@
+,repo_name,sha,message
+232,dotfiles,6c1feafb16e299f8e818013e804adc8c67a5ef26,refactor: configuration dockerfile (#270)
+242,dotfiles,1df5268ab4c129994b3e6162bcd9cb01eedeee89,refactor: configuration docker and docker-compose (#268)
+286,dotfiles,ff3367dc1c2cbd8326255312bdd22f60670e19e7,refactor: maintainer for dockerfile (#239)
+288,dotfiles,34cdb715eeb2a8f6ec886dab539af2589c43876d,refactor: hooks shell lint and docker (#239)
+343,dotfiles,9c81fee8849fc3e696efa5b04aad762eb04cfe0f,refactor: settings shell docker and docker-compose (#213)
+347,dotfiles,eb7ede0c0276b21c30742120b0665e84ca840ed1,refactor: settings docker and docker-compose (#213)
+437,dotfiles,587d3b33060d349eb720991515226091ab170a05,refactor: service for docker (#188)
+471,dotfiles,4d4620d13dde2b1f0a74143bb017146520cba9a7,refactor: change settings for docker-compose (#179)
+526,dotfiles,4c69d905c52d03c4ceeaea5b4b93f9af7da3a21d,refactor:  move file docker-compose to root (#159)
+582,dotfiles,8d411bf6168fc97f1364101ffd28e19480b8045e,refactor: path for docker to provision (#148)
+740,dotfiles,eedb2b854ab13146871d65d5a335247ae2adc7e2,refactor: update version 3 for docker-compose (#118)

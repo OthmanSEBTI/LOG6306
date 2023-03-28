@@ -1,0 +1,292 @@
+9f857676268c67713efe0a8b8cb5461219afaaf8|developed backend architecture to dynamically start services composed of 1 or more docker images and automatic publication of ports as defined in the docker image metadata (#70)|Tue, 24 Apr 2018 11:57:04 -0400|Tue, 24 Apr 2018 11:57:04 -0400
+5b39e2c035dc463ddc1557d2a878c7af89f6300d|Update CODEOWNERS|Tue, 24 Apr 2018 15:28:32 +0200|Tue, 24 Apr 2018 15:28:32 +0200
+0b9b627aaec8d7c2f4028e87a4ab37d10e2f04d2|Changed code ownership. Language based assignement replaced by linters (see .*rc files at root folder) (#71)|Tue, 24 Apr 2018 15:26:34 +0200|Tue, 24 Apr 2018 15:26:34 +0200
+7d1712db30504019970fc5162f7de25831bb9b65|Feature/boilerplate (#69)|Mon, 23 Apr 2018 18:05:52 +0200|Mon, 23 Apr 2018 18:05:52 +0200
+f121502f9c10d15b0a8460e2a05c82b70242d71e|Workflow (#67)|Mon, 23 Apr 2018 09:49:55 +0200|Mon, 23 Apr 2018 09:49:55 +0200
+095cdd9936b5f66f9709b6f5cb220078e706fc00|Merge pull request #68 from odeimaiz/feature/boilerplate|Fri, 20 Apr 2018 14:37:37 +0200|Fri, 20 Apr 2018 14:37:37 +0200
+5e6abb24c7619a3e359ef0ad433cae8a543ba2ac|Update package.json|Fri, 20 Apr 2018 10:38:04 +0200|Fri, 20 Apr 2018 10:38:04 +0200
+cc6bf23bab932d6c570265ecab4ed09fdbf06f33|Making Eslint happy|Fri, 20 Apr 2018 09:49:28 +0200|Fri, 20 Apr 2018 09:49:28 +0200
+b2fcd6741b487f1922554fd2493fa81b9f61d565|Added Linting to boilerplate|Fri, 20 Apr 2018 09:49:04 +0200|Fri, 20 Apr 2018 09:49:04 +0200
+2db7dfd20b0fc87a5bd837cbce227b4197f8e58b|Merge pull request #66 from odeimaiz/feature/boilerplate|Thu, 19 Apr 2018 11:39:19 +0200|Thu, 19 Apr 2018 11:39:19 +0200
+a00420947082b22e5978e6889d0f99e00dfcbe28|Merge branch 'master' into feature/boilerplate|Thu, 19 Apr 2018 11:05:52 +0200|Thu, 19 Apr 2018 11:05:52 +0200
+53c78ae9e5163ce51f3aa929d731cb1b41a8583e|Feature/updatenodejsboilerplate (#65)|Thu, 19 Apr 2018 04:59:02 -0400|Thu, 19 Apr 2018 04:59:02 -0400
+7d92c3eb9dff105838b107ed8697fd3686f8942b|thrift files moved one dir up|Thu, 19 Apr 2018 10:36:10 +0200|Thu, 19 Apr 2018 10:36:10 +0200
+df01734540b7abcd5e5a5133719736abe1bf2939|eslinter added and client fixed|Thu, 19 Apr 2018 10:20:44 +0200|Thu, 19 Apr 2018 10:20:44 +0200
+5e51919b7fde65304bdad92ff112f8a0ed7cd0dd|Merge branch 'master' into feature/boilerplate|Thu, 19 Apr 2018 10:08:50 +0200|Thu, 19 Apr 2018 10:08:50 +0200
+28f72f45cb9f3dfd9a207bfb70bc3dcc6635dd7f|Merge remote-tracking branch 'upstream/master'|Thu, 19 Apr 2018 10:07:39 +0200|Thu, 19 Apr 2018 10:07:39 +0200
+cf74421281a845be6ecc699e17ab4081187e5053|Merge branch 'master' into feature/boilerplate|Thu, 19 Apr 2018 10:06:43 +0200|Thu, 19 Apr 2018 10:06:43 +0200
+cd710f06bf1bf2fe385bea1a2b534f6d652c4633|Merge pull request #64 from sanderegg/feature/updatenodejsboilerplate|Mon, 16 Apr 2018 10:00:00 +0200|Mon, 16 Apr 2018 10:00:00 +0200
+07a3f9ad9c2159062bf62068baba93dea4f89f63|added promise to boilerplate added dockerfile to build node with nodemon for development purposes fixed docker-compose.dev|Fri, 13 Apr 2018 17:20:50 +0200|Fri, 13 Apr 2018 17:20:50 +0200
+c8bc6315a975a794623f9b0cc80504428a2f57a9|Merge branch 'master' of github.com:ITISFoundation/oSPARC_Test|Wed, 11 Apr 2018 15:44:12 +0200|Wed, 11 Apr 2018 15:44:12 +0200
+63f688215255bfd3efe4893926fba539caa71b0b|Feature/add rpc boilerplate (#63)|Mon, 9 Apr 2018 15:35:00 +0200|Mon, 9 Apr 2018 15:35:00 +0200
+8ad7954493c838c7804eda4b0098c0fb8c84ed13|Feature/bp pythonserver (#62)|Wed, 4 Apr 2018 18:46:47 +0200|Wed, 4 Apr 2018 18:46:47 +0200
+8d580b951879bfc6800825929f550b7fe8d3f01a|Merge remote-tracking branch 'upstream/master'|Thu, 15 Mar 2018 10:28:54 +0100|Thu, 15 Mar 2018 10:28:54 +0100
+bc045c9aef10862548ccdc516bce07998dc59cf7|Feature/boilerplate (#60)|Thu, 8 Mar 2018 21:53:00 +0100|Thu, 8 Mar 2018 21:53:00 +0100
+ad9a833590a8862d312b09eb3dd69207b2f81c87|qooxdoo-plotly dir doesn't belong to this branch|Thu, 8 Mar 2018 13:55:50 +0100|Thu, 8 Mar 2018 13:55:50 +0100
+2ca0f5476eee15fdd066a7f2dbc19bb026feb1f3|Default ports for S4L 909X|Wed, 7 Mar 2018 14:16:28 +0100|Wed, 7 Mar 2018 14:16:28 +0100
+2e75ed9583450b9b6c8b27d14835d98cb2e18a0d|last fix|Wed, 7 Mar 2018 14:06:39 +0100|Wed, 7 Mar 2018 14:06:39 +0100
+95ce2e1a0c287fd93f60f47541e3bc5882322036|minor fixes|Wed, 7 Mar 2018 14:01:46 +0100|Wed, 7 Mar 2018 14:01:46 +0100
+8f477bd8bb6d192ffae6d89fd8223b28f4d93db7|Working with the modeler|Tue, 6 Mar 2018 17:43:36 +0100|Tue, 6 Mar 2018 17:43:36 +0100
+894f5f4eff1b5f83eaafebd809ac4a2cd34879ba|4th button added for the modeler version|Tue, 6 Mar 2018 17:43:04 +0100|Tue, 6 Mar 2018 17:43:04 +0100
+7025a3cc9899f9482689743f642709e8ee78974a|Modeler thrift interface added|Tue, 6 Mar 2018 17:42:46 +0100|Tue, 6 Mar 2018 17:42:46 +0100
+f7ae5507a0494d9e6987a0836231f1325096156f|minor|Tue, 6 Mar 2018 09:54:21 +0100|Tue, 6 Mar 2018 09:54:21 +0100
+d2745701b20f2328ef2a89aeaf71cdf067250787|Make qooxdoo-plotly pass the tests|Tue, 6 Mar 2018 09:51:29 +0100|Tue, 6 Mar 2018 09:51:29 +0100
+2d3ac0a61ea2662fd2b12d60ea4ab9df0156e569|Dockerfile expects S4L to be in localhost|Tue, 6 Mar 2018 09:41:15 +0100|Tue, 6 Mar 2018 09:41:15 +0100
+1a227bca5599827488531df05517ade96c42de00|S4L IP and Port defined in docker-compose|Mon, 5 Mar 2018 16:30:45 +0100|Mon, 5 Mar 2018 16:30:45 +0100
+c6570492a89ea224a6149238d983104f9972828b|Server asks Sim4Life service, using thrift interface, what its API version is|Mon, 5 Mar 2018 16:25:26 +0100|Mon, 5 Mar 2018 16:25:26 +0100
+fae2cbffd5313fb6a300bca0ad57d019acc3673c|Client asks for S4L API version|Mon, 5 Mar 2018 16:23:16 +0100|Mon, 5 Mar 2018 16:23:16 +0100
+ca2bf58e27870df4b19f5c4ca9467f790a261995|Website serving port is defined in docker-compose|Mon, 5 Mar 2018 15:37:12 +0100|Mon, 5 Mar 2018 15:37:12 +0100
+6b3d5ef0af0e3fd4f72c40e3a68c86f7878b6b73|Removing hardcode parts and warnings: - qooxdoo client expects the socket to be in the same port as the website is served - port is defined in Dockerfile - improved environment variable names|Mon, 5 Mar 2018 15:24:57 +0100|Mon, 5 Mar 2018 15:24:57 +0100
+f51659bb3e50e6b99b5a9c8f39e20fb6c9d9465e|Merge pull request #4 from pcrespov/feature/boilerplate|Mon, 5 Mar 2018 11:25:10 +0100|Mon, 5 Mar 2018 11:25:10 +0100
+1483d826ad5dd8f6b1a281cbe20eafd40ebbf9f5|Remapped ports to 8000 in compose to temporatilly avoid the bug in qxapp with sockets|Tue, 27 Feb 2018 18:53:56 +0100|Tue, 27 Feb 2018 18:58:21 +0100
+985a01f7d5dc33234d3c210fb370617ba75fbc51|Fixes qx build and renamed production docker|Tue, 27 Feb 2018 00:03:41 +0100|Tue, 27 Feb 2018 00:03:41 +0100
+50dcdd9348a7633d565ccf040176ac7e68f8c4a9|Adding docker env to compile qx mapping from source|Mon, 26 Feb 2018 23:51:35 +0100|Mon, 26 Feb 2018 23:51:35 +0100
+d77b1edba23450d411f955c0622854c33e067196|Minor fixes on static path|Mon, 26 Feb 2018 23:34:50 +0100|Mon, 26 Feb 2018 23:34:50 +0100
+20f73e9a568652d8405fd2464641b62e28e9f49c|Dockerized qx application in a express nodejs server. Builds but has some issues connecting sockets|Mon, 26 Feb 2018 14:09:06 +0100|Mon, 26 Feb 2018 14:21:23 +0100
+f84e9e78f690a063c51c4691b9a227d6a288036f|started python server|Mon, 26 Feb 2018 09:19:55 +0100|Mon, 26 Feb 2018 09:19:55 +0100
+84d89fda9d2f64aafad1a3561867b5ed3010bbbf|Node server works|Thu, 22 Feb 2018 17:09:16 +0100|Mon, 26 Feb 2018 09:19:25 +0100
+9b0a88049329f55ea047e1c161ea2ad972b5d3f6|renamed qxapp by client-qx and moved node-express server to a different repo|Thu, 22 Feb 2018 16:44:32 +0100|Thu, 22 Feb 2018 16:50:17 +0100
+ce59e14665f529ea01e960466ea20c8f5e5963c6|Merge branch 'odeimaiz-boilerplate' into feature/boilerplate|Tue, 20 Feb 2018 14:14:53 +0100|Tue, 20 Feb 2018 14:14:53 +0100
+97bcf8237d5794b25c35d86193777ceaa277273d|Merge branch 'feature/boilerplate' of github.com:odeimaiz/oSPARC_Test into odeimaiz-boilerplate|Tue, 20 Feb 2018 14:12:31 +0100|Tue, 20 Feb 2018 14:12:31 +0100
+ba809cc13d83eddb7a221ed5feb98ab5c37aba78|Compiler copies socket.io.js to output dir|Mon, 19 Feb 2018 17:06:31 +0100|Mon, 19 Feb 2018 17:06:31 +0100
+faeb7615a2bfd6ecdd92619f457234773ef2652e|- Socket connected - Two buttons sending input number - Slots listening to what comes from socket|Mon, 19 Feb 2018 16:45:45 +0100|Mon, 19 Feb 2018 16:45:45 +0100
+68fe36b4d09b8b8d8ef4954f02f7deb8ae4c2796|minor|Mon, 19 Feb 2018 16:44:52 +0100|Mon, 19 Feb 2018 16:44:52 +0100
+82169357f771268e41f7919cdc3cb2a35ae807ba|server returns operation result|Mon, 19 Feb 2018 16:44:40 +0100|Mon, 19 Feb 2018 16:44:40 +0100
+c540360cf712d908ab8fd04e109133fff8fef16e|socketio wrapper added|Mon, 19 Feb 2018 16:13:28 +0100|Mon, 19 Feb 2018 16:13:28 +0100
+eebbf621d32a379c5bddf080ece81b731dae1028|express server with socketio and two operations added|Mon, 19 Feb 2018 16:13:10 +0100|Mon, 19 Feb 2018 16:13:10 +0100
+0a937a6c6d42f1ffaeafd77e9609e6cd005f65d8|socket.io added|Mon, 19 Feb 2018 16:12:42 +0100|Mon, 19 Feb 2018 16:12:42 +0100
+985def1d1c0adbc0777ab8a11588aa929e3e37a9|Merge pull request #59 from pcrespov/feature/cleanup_doc|Thu, 8 Feb 2018 11:06:46 +0100|Thu, 8 Feb 2018 11:06:46 +0100
+20f6c26cb7571daf49ced0d380617b9db0f9f164|gitignore added|Mon, 5 Feb 2018 08:13:20 +0100|Mon, 5 Feb 2018 08:13:20 +0100
+f4d4920c1be672f6bb85959890ccd28ce56a0e2d|qx-py-s4l boilerplate #24: - Hello world button in qooxdoo|Fri, 2 Feb 2018 17:05:23 +0100|Fri, 2 Feb 2018 17:05:23 +0100
+99a830202231eef9c1ed8b9b8dfd3a24083fe880|Removed all doc related with report. Was moved to osparc-doc repo.|Fri, 2 Feb 2018 15:36:37 +0100|Fri, 2 Feb 2018 15:36:37 +0100
+4db7c01d2e9d88e7fc6efeba1b610b5a0aacb74d|Merge branch 'master' of github.com:ITISFoundation/oSPARC_Test|Wed, 24 Jan 2018 16:45:13 +0100|Wed, 24 Jan 2018 16:45:13 +0100
+cefcf6ba820bd7be297afd0d43adb01c6456d9eb|Merge remote-tracking branch 'upstream/master'|Wed, 17 Jan 2018 16:25:47 +0100|Wed, 17 Jan 2018 16:25:47 +0100
+4378630ca231f3cbb4a71557e20462ba11af6903|Issue50/documentation for v box docker (#51)|Wed, 17 Jan 2018 10:25:07 -0500|Wed, 17 Jan 2018 16:25:07 +0100
+63a231fe07db4a3aa11232a82cb884a075dc40ce|Merge remote-tracking branch 'upstream/master'|Mon, 15 Jan 2018 09:53:18 +0100|Mon, 15 Jan 2018 09:53:18 +0100
+53438a737b9a11516f0733ec00a991647c9757da|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 17:23:11 +0100|Thu, 21 Dec 2017 17:23:11 +0100
+25682db9d392628943d2edd4a6daf0d1f6de8ef2|Adding CODEOWNERS file (#46)|Thu, 21 Dec 2017 17:16:22 +0100|Thu, 21 Dec 2017 17:16:22 +0100
+af41320f593cddeb8faae4579d4c100ca420e144|Feature/front end wt (#47)|Thu, 21 Dec 2017 17:05:25 +0100|Thu, 21 Dec 2017 17:05:25 +0100
+008f7f063c360c4a68a2f64e28c08dda51b2d2cf|Feature/report review (#45)|Thu, 21 Dec 2017 16:59:37 +0100|Thu, 21 Dec 2017 16:59:37 +0100
+57a2e28be30776d1bc1585111a59a525cfd10b4e|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 16:52:49 +0100|Thu, 21 Dec 2017 16:52:49 +0100
+9c23609e800c9b0d933432fcc28aea617f1b3238|Finalize react (#43)|Thu, 21 Dec 2017 16:50:07 +0100|Thu, 21 Dec 2017 16:50:07 +0100
+cde77411bf37db5544b20f5e2a5eaf119c9df64a|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 16:30:14 +0100|Thu, 21 Dec 2017 16:30:14 +0100
+b4829a389f36e5ebc86546c2d147019884cf5b51|Finalize vue (#44)|Thu, 21 Dec 2017 15:31:49 +0100|Thu, 21 Dec 2017 15:31:49 +0100
+722c486548ceb46f09a5b7d2fa4beea755822aad|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 15:28:59 +0100|Thu, 21 Dec 2017 15:28:59 +0100
+90446e61c9c8eeee93faa5d4d0984c0bb4a66d7c|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 14:43:23 +0100|Thu, 21 Dec 2017 14:43:23 +0100
+548c066bee407325f8d35784f302bd43f70383a2|Setup CI #24 (#40)|Thu, 21 Dec 2017 13:46:59 +0100|Thu, 21 Dec 2017 13:46:59 +0100
+6dc8d1aa19b1c95e834a5d0090f0f16f614f2d0d|Merge remote-tracking branch 'upstream/master'|Thu, 21 Dec 2017 11:44:04 +0100|Thu, 21 Dec 2017 11:44:04 +0100
+b73b4f40c0b65a832807db2bee274c8960e9c91c|Qooxdoo prototype (#41)|Thu, 21 Dec 2017 11:37:59 +0100|Thu, 21 Dec 2017 11:37:59 +0100
+4975ab1fbc7b1974b016c0d13edf7a8bace92d9b|Merge branch 'master' of github.com:odeimaiz/oSPARC_Test|Mon, 18 Dec 2017 14:11:08 +0100|Mon, 18 Dec 2017 14:11:08 +0100
+b9982c100b313cf776081ca734d3aefe31715863|Update SingleCell_S2.json|Mon, 18 Dec 2017 10:47:29 +0100|Mon, 18 Dec 2017 10:47:29 +0100
+d377cccd3677b9be0293aaaa5b98e4c1ce4cac8e|Update SingleCell_S1.json|Mon, 18 Dec 2017 10:37:45 +0100|Mon, 18 Dec 2017 10:37:45 +0100
+b7f725c8188a65378470c9a9f488210d44c9af5e|Update SingleCell_S2.json|Mon, 18 Dec 2017 10:32:40 +0100|Mon, 18 Dec 2017 10:32:40 +0100
+3ba29c30f11b2753660a94055e7b06e781dd5698|Update SingleCell_S1.json|Mon, 18 Dec 2017 10:03:28 +0100|Mon, 18 Dec 2017 10:03:28 +0100
+dcf5479f2f708f85fcb16596c6379872258fc2d4|Update SingleCell_S1.json|Mon, 18 Dec 2017 09:54:10 +0100|Mon, 18 Dec 2017 09:54:10 +0100
+e1c7c2ef4bf0c35735a0ac7ce8368f7c6fd55281|Merge remote-tracking branch 'upstream/master'|Fri, 15 Dec 2017 19:59:02 +0100|Fri, 15 Dec 2017 19:59:02 +0100
+2158a5dda8753673b2a58f7f8b0ee07d6367a02d|Update SingleCell_S2.json|Thu, 14 Dec 2017 17:46:43 +0100|Thu, 14 Dec 2017 17:46:43 +0100
+ba8ea3ea4b330cf113d2c7264af9e2df156b83bf|Rename SingleCell_S2 to SingleCell_S2.json|Thu, 14 Dec 2017 17:46:11 +0100|Thu, 14 Dec 2017 17:46:11 +0100
+382d402ddc7b26b4de0dedd4fb13fe5c5d16f517|Update SingleCell_S1.json|Thu, 14 Dec 2017 17:45:13 +0100|Thu, 14 Dec 2017 17:45:13 +0100
+22286821ca287ad0e67556fd1bd1f31f783d632b|Create SingleCell_S1.json|Thu, 14 Dec 2017 17:43:55 +0100|Thu, 14 Dec 2017 17:43:55 +0100
+a07c53129a4b5cd81bc0f530fc423f3dfb1aa410|SingleCell dummy data uploaded|Thu, 14 Dec 2017 15:46:43 +0100|Thu, 14 Dec 2017 15:46:43 +0100
+1def38def7ea30ea373743caec10d683a7f7f162|Create ServiceRegistry.json|Thu, 14 Dec 2017 15:45:41 +0100|Thu, 14 Dec 2017 15:45:41 +0100
+bc41fbe5442e9bcf2ab4fb08533d72d69ab1163c|Workflow (#35)|Wed, 13 Dec 2017 22:30:47 +0100|Wed, 13 Dec 2017 22:30:47 +0100
+68ae415d59f906fdcfb4a1c82284774e9a1739e6|Merge pull request #38 from odeimaiz/qooxdoo-prototype|Mon, 11 Dec 2017 18:37:44 +0100|Mon, 11 Dec 2017 18:37:44 +0100
+91d399a836e31834b4e71db868a6442900fe55b2|Qooxdoo review added|Mon, 11 Dec 2017 17:13:05 +0100|Mon, 11 Dec 2017 17:13:05 +0100
+7a8f1c74e96f64fb52b48973750e3741a67ca1e3|Front-End comparison added|Mon, 11 Dec 2017 16:35:09 +0100|Mon, 11 Dec 2017 16:35:09 +0100
+56c21a8ffad3214b2beeb4892528deba4caa95ab|Merge pull request #34 from sbenkler/feature/SB/Issue24_SetupCI|Mon, 11 Dec 2017 11:50:12 +0100|Mon, 11 Dec 2017 11:50:12 +0100
+020ee41b9df5a61e96e58479b44cf17f89bc2225|Screenshot added|Fri, 8 Dec 2017 15:06:16 +0100|Fri, 8 Dec 2017 15:06:16 +0100
+14cd2e41bbb0261a5e78462b250639d74252b33d|minor|Fri, 8 Dec 2017 14:47:34 +0100|Fri, 8 Dec 2017 14:47:34 +0100
+5bc7fd2d62993db9b4d1540b1e2240fdce88758c|Dynamic styling added|Fri, 8 Dec 2017 13:39:01 +0100|Fri, 8 Dec 2017 13:39:01 +0100
+47f355d2868b0dce471c3bf42e2134b4e9b26dd0|minor|Fri, 8 Dec 2017 10:52:31 +0100|Fri, 8 Dec 2017 10:52:31 +0100
+29511e7a897ec797cd240c6b4f111ebabdd4e241|- Modeler service added - Minor fix|Fri, 8 Dec 2017 10:35:10 +0100|Fri, 8 Dec 2017 10:35:10 +0100
+b6354bff592f9c6781adeb10ca0532616f64b8ca|3D viewer working with three different type of meshes|Fri, 8 Dec 2017 10:34:09 +0100|Fri, 8 Dec 2017 10:34:09 +0100
+b3267e129058ddfb6ded60ecfc807f0db71d2056|Settings allow booleans|Fri, 8 Dec 2017 10:24:32 +0100|Fri, 8 Dec 2017 10:24:32 +0100
+116dc42a0ca20ea74424b5228e0f3cfe0c94d362|Setup CI #24 - so picky! The first comment line ended with a space ...|Fri, 8 Dec 2017 04:16:42 -0500|Fri, 8 Dec 2017 04:16:42 -0500
+4a2e02b5deb4ebef5cde5f993a7db0eac669329c|Setup CI #24 - fixing too long lines|Fri, 8 Dec 2017 03:53:07 -0500|Fri, 8 Dec 2017 03:53:07 -0500
+04441a400e26c22b96a65e0cd65a0e263c8e7104|Setup CI #24 - disabling PEP8 tests on demos folder due to too many incompatibilities|Fri, 8 Dec 2017 03:41:15 -0500|Fri, 8 Dec 2017 03:41:15 -0500
+3ecbd2521931091b76b7f3397d77b79934d54655|Setup CI #24 - autopep8-ed all Python scripts - still is not pep8 compatible|Fri, 8 Dec 2017 03:36:18 -0500|Fri, 8 Dec 2017 03:36:18 -0500
+86491150245772348e5d8da96d4ef5fe89cb6875|Setup CI #24 - added PEP8 Python coding convention script - adapted demos-folder-file-structure script to fulfill pep8|Fri, 8 Dec 2017 03:18:51 -0500|Fri, 8 Dec 2017 03:18:51 -0500
+6e73a3e0ce0dab1dbe4d7ae7e9bfdbff315fe9d4|Merge branch 'master' into qooxdoo-prototype|Thu, 7 Dec 2017 13:26:52 +0100|Thu, 7 Dec 2017 13:26:52 +0100
+df7b83a8c739d3bf00bdd9b0e8d0bb534da19bf8|Merge remote-tracking branch 'origin/master'|Thu, 7 Dec 2017 13:19:01 +0100|Thu, 7 Dec 2017 13:19:01 +0100
+3eb4bcff2fe7d7ce254abc384b4a84d4d5004905|Merge remote-tracking branch 'upstream/master'|Thu, 7 Dec 2017 13:18:51 +0100|Thu, 7 Dec 2017 13:18:51 +0100
+06457cb0aad98e7a75539024faa356f0c0918b70|Merge remote-tracking branch 'upstream/master'|Thu, 7 Dec 2017 13:16:35 +0100|Thu, 7 Dec 2017 13:16:35 +0100
+2fd00e2c870c47f60858eef7e1410114915b26cf|minor 2|Thu, 7 Dec 2017 13:14:00 +0100|Thu, 7 Dec 2017 13:14:00 +0100
+f52307598427e7e88145c11166e8538f7e61f9bf|minor|Thu, 7 Dec 2017 13:10:47 +0100|Thu, 7 Dec 2017 13:10:47 +0100
+b7894cfdf7d4fbc65071aeb7ea2143e89d4e1b4b|Results view. Dynamic layout attempt aborted|Thu, 7 Dec 2017 11:57:21 +0100|Thu, 7 Dec 2017 11:57:21 +0100
+1142b413a2fa8e8b2747c901daadfb3dc4c99d4b|Load head. Working|Thu, 7 Dec 2017 11:54:06 +0100|Thu, 7 Dec 2017 11:54:06 +0100
+340a001fe3691c39d295be5b526fd07808910304|Load head. Working|Thu, 7 Dec 2017 11:53:21 +0100|Thu, 7 Dec 2017 11:53:21 +0100
+24b5e7e1a321d3a5a8234167d7d91ca8612277f0|Resize 3D view|Thu, 7 Dec 2017 11:07:13 +0100|Thu, 7 Dec 2017 11:07:13 +0100
+f19b27df4c7e233de9d86ef57c7e0fd94bb99a7c|Load head. 1st attempt|Thu, 7 Dec 2017 10:45:50 +0100|Thu, 7 Dec 2017 10:45:50 +0100
+46441adceb003e27e95d1c7c2d49fbd72aba8cda|Setup CI #24 - converted test scripts into a ctest project|Wed, 6 Dec 2017 17:32:04 +0100|Wed, 6 Dec 2017 17:32:04 +0100
+1ce81cd4ba0b89cd3282c8d39794483dc4125d92|Loading from file instead of sphere|Wed, 6 Dec 2017 17:29:07 +0100|Wed, 6 Dec 2017 17:29:07 +0100
+b487d4d80ba257bb8c7a3ba7713ea604a3c014e9|Showing dummy results|Wed, 6 Dec 2017 14:44:06 +0100|Wed, 6 Dec 2017 14:44:06 +0100
+6d396487025bc9da5970f2a828c31933eb9bf202|Merge pull request #32 from sbenkler/feature/SB/Issue24_SetupCI|Wed, 6 Dec 2017 11:01:22 +0100|Wed, 6 Dec 2017 11:01:22 +0100
+56a88bb6926b687f242821bf89ef917ef9bdd15d|Setup CI #24 - fixing Python 3.6 issue|Tue, 5 Dec 2017 16:31:40 +0100|Tue, 5 Dec 2017 16:31:40 +0100
+aa513cb28d27074f155a204e09f0f593d8733804|Setup CI #24 - try to fulfill Pedro's wishes :)|Tue, 5 Dec 2017 16:27:01 +0100|Tue, 5 Dec 2017 16:27:01 +0100
+5ac23ea9cfd90e41f1c3678f86d004573d35d256|random generator interacts with sphere size|Tue, 5 Dec 2017 16:12:25 +0100|Tue, 5 Dec 2017 16:12:25 +0100
+e0739a27c5ad790c2a9b00bc21d231ff015f4cce|multilink enabled|Tue, 5 Dec 2017 15:22:50 +0100|Tue, 5 Dec 2017 15:22:50 +0100
+17fcad45a211f0ac21c97c29d050a0a9d7aeb6a6|Setup CI #24 - after synchronizing with main repo, these two were added ... Manuel suggested to add a dummy empty make file|Tue, 5 Dec 2017 15:14:51 +0100|Tue, 5 Dec 2017 15:14:51 +0100
+56a41d3816a05a5e4cecd951c9799bb88c31fc74|Merge remote-tracking branch 'upstream/master' into feature/SB/Issue24_SetupCI|Tue, 5 Dec 2017 15:10:28 +0100|Tue, 5 Dec 2017 15:10:28 +0100
+c39d898a04b817708ef8953b82e70b69f9498a14|workbench connects if possible|Tue, 5 Dec 2017 15:08:35 +0100|Tue, 5 Dec 2017 15:08:35 +0100
+5f1c634235d05d5bb03987a44c2e9a039152d5e5|Setup CI #24 - tried to capitalize the naming (Linux is case sensitive but I commit from Windows here)|Tue, 5 Dec 2017 15:07:15 +0100|Tue, 5 Dec 2017 15:07:15 +0100
+eb9fab7f75d62273d23a7daade7432c3e3358ffd|Setup CI #24 - fixing wrong path in travis.yml file|Tue, 5 Dec 2017 14:58:48 +0100|Tue, 5 Dec 2017 14:58:48 +0100
+b9a48026d5ef7517ca9d493a78c44c074224cb85|Setup CI #24 - added comments to check scripts - with Odei, added a makefile to vue|Tue, 5 Dec 2017 14:54:28 +0100|Tue, 5 Dec 2017 14:54:28 +0100
+1ccf922014b4fa0ffa666775fdf926e3aac316f1|Setup CI #24 - added check of targets within Makefile ... not final, needs to make sure, they make sense to be always present|Tue, 5 Dec 2017 14:49:11 +0100|Tue, 5 Dec 2017 14:49:11 +0100
+36ee93d87d7313f8d339493698f2accf92eaafd1|Setup CI #24 - added initial test to check for file existance|Tue, 5 Dec 2017 14:32:01 +0100|Tue, 5 Dec 2017 14:32:01 +0100
+c768aa81f8ebb2abf1ae4c1cd899cb08ba07d461|styling|Tue, 5 Dec 2017 14:23:56 +0100|Tue, 5 Dec 2017 14:23:56 +0100
+14be535c9af006eac374f15bc947e93e58f5f035|SettingsView responding to workbench selection|Tue, 5 Dec 2017 12:29:05 +0100|Tue, 5 Dec 2017 12:29:05 +0100
+433e570c4fc921a56d461b3c37dc26560d7bbbb3|Merge pull request #27 from mguidon/director|Tue, 5 Dec 2017 12:23:52 +0100|Tue, 5 Dec 2017 12:23:52 +0100
+01a707bea6299bd78cdac4e44db64923eb67d1e8|Merge pull request #28 from mguidon/sidecar|Tue, 5 Dec 2017 12:23:25 +0100|Tue, 5 Dec 2017 12:23:25 +0100
+1416c24db830ccb61703b527c8977f445a46811f|select/unselect node. Working|Tue, 5 Dec 2017 11:47:12 +0100|Tue, 5 Dec 2017 11:47:12 +0100
+1a955a03a4817ba035075c1b3ad80d0d8dbab9d0|select/unselect node. 1st attempt|Tue, 5 Dec 2017 11:40:38 +0100|Tue, 5 Dec 2017 11:40:38 +0100
+e62b2b3a577ca7f0ea3ea5a583acaedd1423920c|dynamic buttons|Tue, 5 Dec 2017 11:03:26 +0100|Tue, 5 Dec 2017 11:03:26 +0100
+40dcf7d9f3cedda9d237afd0a60214149bd4f255|Adding nodes to workbench (2)|Tue, 5 Dec 2017 10:42:01 +0100|Tue, 5 Dec 2017 10:42:01 +0100
+62fb80ab273d1acad15895ab2fef54a7ca2d81a3|Adding nodes to workbench|Tue, 5 Dec 2017 10:40:21 +0100|Tue, 5 Dec 2017 10:40:21 +0100
+cb050c92e337c4156369ea60a49d2e287b9a906d|separation of concerns: workbench cares about workbench|Tue, 5 Dec 2017 09:46:33 +0100|Tue, 5 Dec 2017 09:46:33 +0100
+23e8ffe68ef53dfaba40290710995743575ae02b|selected node doesn't belong to workbench (2)|Tue, 5 Dec 2017 09:26:01 +0100|Tue, 5 Dec 2017 09:26:01 +0100
+e47b222d3d693ebe58e6d335c2b32347f83a808a|selected node doesn't belong to workbench|Tue, 5 Dec 2017 09:21:04 +0100|Tue, 5 Dec 2017 09:21:04 +0100
+8549bca2f43a75940eeb11ea6d0141c225f88395|before changing initial state|Tue, 5 Dec 2017 09:17:29 +0100|Tue, 5 Dec 2017 09:17:29 +0100
+9dd527ba8b41f82ccec17fdbd149625c32680e2e|binding data: newServiceRequested shows service settings|Mon, 4 Dec 2017 17:38:25 +0100|Mon, 4 Dec 2017 17:38:25 +0100
+95abab8155b6bc8a57806464ea804f17b11d5d7c|Change sphere radius from outside|Fri, 1 Dec 2017 15:30:26 +0100|Fri, 1 Dec 2017 15:30:26 +0100
+2ae4b4cf14e9fef7559a6e5a83ef459258ea88a4|Minor layout changes (2)|Fri, 1 Dec 2017 14:50:16 +0100|Fri, 1 Dec 2017 14:50:16 +0100
+767b7b8a27f64bd25e60e1fdf06979ed64af27bd|Minor layout changes|Fri, 1 Dec 2017 14:40:52 +0100|Fri, 1 Dec 2017 14:40:52 +0100
+dd42ad4a05e6eda4d911896b8eae0548dcb9fced|store created with defaults|Fri, 1 Dec 2017 14:07:03 +0100|Fri, 1 Dec 2017 14:07:03 +0100
+3827705c764d49bedb62cfefa3f28a3fcf6292ae|First signal-slot in place|Thu, 30 Nov 2017 16:31:47 +0100|Thu, 30 Nov 2017 16:31:47 +0100
+2868baaea0e451e99728d2dd3e4a109c3a240f78|Showing hardcoded services|Thu, 30 Nov 2017 13:14:24 +0100|Thu, 30 Nov 2017 13:14:24 +0100
+7b320bf429240bd994dc675a5ab943c39091e141|Available Services moved to a class|Wed, 29 Nov 2017 14:04:11 +0100|Wed, 29 Nov 2017 14:04:11 +0100
+688a4df899557eedb38e47766e73c3524dff46a4|Removed unfinished demo that got through review|Wed, 29 Nov 2017 13:37:12 +0100|Wed, 29 Nov 2017 13:37:12 +0100
+f9e2fb1078e9bd54316ef66397d9c8b5cc853e46|Merge pull request #29 from pcrespov/cleanup_structure|Wed, 29 Nov 2017 13:08:21 +0100|Wed, 29 Nov 2017 13:08:21 +0100
+37b9bc80e49485f31aebaf3ace9185f343567c48|minor|Wed, 29 Nov 2017 10:23:55 +0100|Wed, 29 Nov 2017 10:23:55 +0100
+7c091d7d23834d3bdb7b76bf8c7ddbdb83bc892f|Minor|Tue, 28 Nov 2017 23:46:54 +0100|Tue, 28 Nov 2017 23:46:54 +0100
+50f0cb16c79fd0afc100cced3c0c74189aa30f52|Updated sample to new demo workflow|Tue, 28 Nov 2017 23:36:34 +0100|Tue, 28 Nov 2017 23:39:24 +0100
+c923370feb57c36301443b85df6bb11a9a552822|Cleanup of doc|Tue, 28 Nov 2017 23:23:50 +0100|Tue, 28 Nov 2017 23:35:35 +0100
+57d3643ecebc3d1a7f8747c21f6086b90fcb6c5a|Updated to comply with new demo workflow|Tue, 28 Nov 2017 23:23:03 +0100|Tue, 28 Nov 2017 23:23:30 +0100
+aa5326149642f9cefb3d6eecec86902b9c4ebbdd|Dummy workflow in workbench|Tue, 28 Nov 2017 17:02:06 +0100|Tue, 28 Nov 2017 17:02:06 +0100
+5339d3749a07d3f5f749fbaf26bca594c3ac0d6d|TransformControls added and working|Tue, 28 Nov 2017 15:10:44 +0100|Tue, 28 Nov 2017 15:10:44 +0100
+449d36729adc33973ede73d428afd064558b6489|OrbitControls working!!|Tue, 28 Nov 2017 13:55:14 +0100|Tue, 28 Nov 2017 13:55:14 +0100
+29ef4b9352c27c5adc12600c51086c72f80a889c|OrbitControls: one more example|Tue, 28 Nov 2017 11:43:34 +0100|Tue, 28 Nov 2017 11:43:34 +0100
+cdcdae145195ad84e05e1a80569a714f4df597cc|some extra info about OrbitControls|Tue, 28 Nov 2017 11:41:32 +0100|Tue, 28 Nov 2017 11:41:32 +0100
+4d7c230d5a34278b954c7fb0cbc52acf4247437c|OrbitControls added but not working|Tue, 28 Nov 2017 11:31:12 +0100|Tue, 28 Nov 2017 11:31:12 +0100
+fc4dc883a316fb34984bbae8cf8800052cc4fd1e|minor|Mon, 27 Nov 2017 18:27:11 +0100|Mon, 27 Nov 2017 18:27:11 +0100
+53ad3c9685186c6bd0e3fc53c787268123c25d32|refactoring threeDView|Mon, 27 Nov 2017 15:26:07 +0100|Mon, 27 Nov 2017 15:26:07 +0100
+0a2c4051b635f1b7c338585859e7f1865748543e|threejs is in the game!|Mon, 27 Nov 2017 14:37:13 +0100|Mon, 27 Nov 2017 14:37:13 +0100
+23426a6981801e5789deff749354ce65e640a7b6|compiler updated|Mon, 27 Nov 2017 09:37:50 +0100|Mon, 27 Nov 2017 09:37:50 +0100
+f55686d53ee53d00385de6ad1082b71b0cee298c|- readme updated - minor|Fri, 24 Nov 2017 16:40:19 +0100|Fri, 24 Nov 2017 16:40:19 +0100
+8993c7211517695b20d8b5593bb07428cbbf55ea|qooxdoo prototype created using qx-cli|Fri, 24 Nov 2017 16:36:21 +0100|Fri, 24 Nov 2017 16:36:21 +0100
+ab228b5f360b07b241b1a0f136de3f22752c4667|minor fixes in markup|Fri, 24 Nov 2017 14:08:14 +0100|Fri, 24 Nov 2017 14:08:14 +0100
+cf788d9555f8f983d241d43f1d61584a28cd8238|initial commit for sidecar project|Fri, 24 Nov 2017 14:03:58 +0100|Fri, 24 Nov 2017 14:03:58 +0100
+decdff68001df4bff6b122af917c675800e6f285|add ignore file|Fri, 24 Nov 2017 12:59:59 +0100|Fri, 24 Nov 2017 12:59:59 +0100
+698cab7946ad595293b48b43a453d52b7a3bf7c7|merge|Fri, 24 Nov 2017 12:59:28 +0100|Fri, 24 Nov 2017 12:59:28 +0100
+336d9449fd4981dae9aff70b8670b726767087ce|cosmetics|Fri, 24 Nov 2017 11:54:31 +0100|Fri, 24 Nov 2017 11:54:31 +0100
+6e9bd12f11bd24e8d0d301bbaad8f3c62017fe61|Update Readme|Fri, 24 Nov 2017 11:34:06 +0100|Fri, 24 Nov 2017 11:34:06 +0100
+c222b1dd7ba529fe0a649c9321fea6b312471e7b|more refactoring|Fri, 24 Nov 2017 11:17:50 +0100|Fri, 24 Nov 2017 11:17:50 +0100
+5eca11137641a7f39142cacdb30bd9e9fe06f08d|refactoring|Fri, 24 Nov 2017 10:26:20 +0100|Fri, 24 Nov 2017 10:26:20 +0100
+f0be160721cdd88909a09145adb13c18a0c675dc|refactoring|Fri, 24 Nov 2017 10:23:45 +0100|Fri, 24 Nov 2017 10:23:45 +0100
+6faf95569c717c4122c8e007bf66789438a99314|minor cleaning|Thu, 23 Nov 2017 16:46:11 +0100|Thu, 23 Nov 2017 16:46:11 +0100
+51b40e52e6ca3f70be3c342f2998d4dee80b8433|Windows taken out from Application|Thu, 23 Nov 2017 16:45:07 +0100|Thu, 23 Nov 2017 16:45:07 +0100
+48b10224523c8cf1ee46773affc4eba9047c7c68|Tree view added and listening to events|Thu, 23 Nov 2017 14:04:44 +0100|Thu, 23 Nov 2017 14:04:44 +0100
+52c9461fbdb2c879eac62e1f85c77f7412c5a354|Available services section in|Thu, 23 Nov 2017 13:30:29 +0100|Thu, 23 Nov 2017 13:30:29 +0100
+4a27fd67e43a08710745106a6e630aaf6037e372|build dir added to ignore|Thu, 23 Nov 2017 11:41:41 +0100|Thu, 23 Nov 2017 11:41:41 +0100
+7ea798c5c1df96771bc1802302c6c15110de044a|layout with three panes: - Settings - Workbench - Results  - Folder  - Viewer|Thu, 23 Nov 2017 11:41:20 +0100|Thu, 23 Nov 2017 11:41:20 +0100
+9373d3e27c6c3374ddc9522e3222147c72a04e28|hello world with qooxdoo|Wed, 22 Nov 2017 15:06:53 +0100|Wed, 22 Nov 2017 15:06:53 +0100
+f1f062e638986b3fa1545f3d8092e3b669aad07f|bug|Wed, 22 Nov 2017 14:39:28 +0100|Wed, 22 Nov 2017 14:39:28 +0100
+25cbab87268227aa6262b93e89a3d5cb63b64b53|minor cosmetics|Wed, 22 Nov 2017 14:39:01 +0100|Wed, 22 Nov 2017 14:39:01 +0100
+ba219e7797ed28a1643b3aa64549c0b91e381687|Udpate graph|Wed, 22 Nov 2017 09:44:24 +0100|Wed, 22 Nov 2017 09:44:24 +0100
+6065b9abf15c77970e126861348592d54a63da27|one more try|Wed, 22 Nov 2017 09:28:43 +0100|Wed, 22 Nov 2017 09:28:43 +0100
+dcf7d0e7f4cc3ba2ad21feed97dc13cd55ad634d|oops|Wed, 22 Nov 2017 09:06:20 +0100|Wed, 22 Nov 2017 09:06:20 +0100
+9e8857041716c0764b95acc6b36357a4bd8713a3|Add image|Wed, 22 Nov 2017 09:04:40 +0100|Wed, 22 Nov 2017 09:04:40 +0100
+d37cf18dd634265bf4d434e0be48ad77f5a6b643|Update doc|Wed, 22 Nov 2017 09:03:04 +0100|Wed, 22 Nov 2017 09:03:04 +0100
+9f9ab8c46a7aa2d5a70de506ef19dd605b141b38|oops|Tue, 21 Nov 2017 15:28:44 -0500|Tue, 21 Nov 2017 15:28:44 -0500
+f38b06a657bb6c0b09cc53731fb1a85189ef7285|add rabbitmq|Tue, 21 Nov 2017 20:34:27 +0100|Tue, 21 Nov 2017 20:34:27 +0100
+a72175f50d60c861f195d33b20529d24e74ff0d1|Registry in github|Tue, 21 Nov 2017 17:48:07 +0100|Tue, 21 Nov 2017 17:48:07 +0100
+2358633d703d35b951e229c7a10fedf8641e35e5|Create .travis.yml|Tue, 21 Nov 2017 15:14:51 +0100|Tue, 21 Nov 2017 15:14:51 +0100
+b7a14c70d08bc27e891d4619ee03f976e0f8562f|add director to the game|Tue, 21 Nov 2017 14:24:00 +0100|Tue, 21 Nov 2017 14:24:00 +0100
+dc69767c9b721f88087fed2966e3fc8ee1f4d22d|add file based communication and communication via mongo db|Tue, 21 Nov 2017 13:51:22 +0100|Tue, 21 Nov 2017 13:51:22 +0100
+10b207c89c435d4fe33e1fa01eac8cc50f7a6542|get rid of makefile approach|Tue, 21 Nov 2017 13:50:29 +0100|Tue, 21 Nov 2017 13:50:29 +0100
+baa97e5cff71a097295006b8436c30e504be6ad5|Merge pull request #22 from odeimaiz/hello-director|Tue, 21 Nov 2017 10:53:27 +0100|Tue, 21 Nov 2017 10:53:27 +0100
+f87e3cf95e7a9c789f4d3026d5895063ba002b89|minor|Tue, 21 Nov 2017 10:44:55 +0100|Tue, 21 Nov 2017 10:44:55 +0100
+7bb4fdf733089c3f5bebdc71c4b414119e44279c|Merge branch 'master' into hello-director|Tue, 21 Nov 2017 09:35:00 +0100|Tue, 21 Nov 2017 09:35:00 +0100
+980da89d7fdfd55ec0bb2f8f875d45930720a24c|minor|Mon, 20 Nov 2017 17:22:49 +0100|Mon, 20 Nov 2017 17:22:49 +0100
+80fa453832fdea9255ce7d7b29e56d58f1007044|refactoring|Mon, 20 Nov 2017 17:12:41 +0100|Mon, 20 Nov 2017 17:12:41 +0100
+b36c3f6233dc162c3255e7c63a97f98c66cd00da|minor|Mon, 20 Nov 2017 14:01:55 +0100|Mon, 20 Nov 2017 14:01:55 +0100
+426b8eb620360e880431375580b08ec452db4fd2|Displaying html and csv in results view|Mon, 20 Nov 2017 13:25:28 +0100|Mon, 20 Nov 2017 13:25:28 +0100
+f9d5676eebbd5b375ffed2b38891a87d9b0c0cec|reafctoring|Fri, 17 Nov 2017 17:16:27 +0100|Fri, 17 Nov 2017 17:16:27 +0100
+6d94768a56decb529e99ab4b05ae38329b8fd36d|More flexible Results Viewer|Fri, 17 Nov 2017 16:14:44 +0100|Fri, 17 Nov 2017 16:14:44 +0100
+9c1f6ee3dde05c6576bb5618124cee301512764d|Prettify frontend|Fri, 17 Nov 2017 16:00:07 +0100|Fri, 17 Nov 2017 16:00:07 +0100
+182bd4cecb7122143bc17fb07891f7ee1c11fc68|Adds some examples for images and build script|Fri, 17 Nov 2017 15:59:28 +0100|Fri, 17 Nov 2017 15:59:28 +0100
+722b9d546b1f3eb794ef94355b59114a493ee075|dirTree only allows local paths|Fri, 17 Nov 2017 14:27:00 +0100|Fri, 17 Nov 2017 14:27:00 +0100
+13c946e80a0d4e92b54518232330924175060487|Results folder and Result viewer connected|Fri, 17 Nov 2017 11:30:53 +0100|Fri, 17 Nov 2017 11:30:53 +0100
+53198515e1e3b27a34534bf76790c6b7256a2fc4|Show_output_data action & reducer added|Fri, 17 Nov 2017 11:11:17 +0100|Fri, 17 Nov 2017 11:11:17 +0100
+1c0190872420160c4afad2a8347778bf8f83a5a6|Each service has its own outputDir|Fri, 17 Nov 2017 11:09:54 +0100|Fri, 17 Nov 2017 11:09:54 +0100
+eb9d94441947092a690dad6c7c34e705335edb42|initial commit for director services|Thu, 16 Nov 2017 20:43:56 +0100|Thu, 16 Nov 2017 20:43:56 +0100
+bd9fd17f073355fc68bc2b4f6d6e111d012135b4|Results viewer panel added|Thu, 16 Nov 2017 16:11:08 +0100|Thu, 16 Nov 2017 16:11:08 +0100
+bd67e6ce344fbda74fb184e3ed4fd3446d7967e1|Delete LICENSE|Wed, 15 Nov 2017 22:11:01 +0100|Wed, 15 Nov 2017 22:11:01 +0100
+19fa25213ff896b74c81edc28b6564af7d3594da|Merge pull request #19 from odeimaiz/react-in-docker|Wed, 15 Nov 2017 22:10:14 +0100|Wed, 15 Nov 2017 22:10:14 +0100
+5d827d37d0ec0812dcf747133f250bad040cca25|Merge pull request #20 from mguidon/pipelines|Wed, 15 Nov 2017 22:10:02 +0100|Wed, 15 Nov 2017 22:10:02 +0100
+25e84b2efbed6e389d0c34f5e88f8f7e9ecb713b|Socket component out|Wed, 15 Nov 2017 16:48:22 +0100|Wed, 15 Nov 2017 16:48:22 +0100
+e0be4fb058c343a8cc5dcc9d849dce943500eef0|- Cleaning code - Italia working|Wed, 15 Nov 2017 16:45:11 +0100|Wed, 15 Nov 2017 16:45:11 +0100
+ff4f9f03ab1d42fdaa00951fff7717bd020df1af|Refactoring and cleaning nodejs part|Wed, 15 Nov 2017 16:26:13 +0100|Wed, 15 Nov 2017 16:26:13 +0100
+8c9eca177b475b1a19a496edaa22b68bd3bc0fb0|no so special routine for the rabbit service|Wed, 15 Nov 2017 16:04:07 +0100|Wed, 15 Nov 2017 16:04:07 +0100
+fe7b8ae0cf6570be1ed061d3b27201a47bd55eaa|Refactoring nodejs part|Wed, 15 Nov 2017 15:55:04 +0100|Wed, 15 Nov 2017 15:55:04 +0100
+04aa1091e77da964f253e99699845e2e739794d7|minor|Wed, 15 Nov 2017 15:40:13 +0100|Wed, 15 Nov 2017 15:40:13 +0100
+35e1c40248fa8d180dddd6df576a094cb3cc871c|minor cosmetics|Wed, 15 Nov 2017 15:24:09 +0100|Wed, 15 Nov 2017 15:24:09 +0100
+cdef4cb3e5504f5c40aba175e4c0dd2d59c1aa85|Result Folder path is part of the state|Wed, 15 Nov 2017 15:00:51 +0100|Wed, 15 Nov 2017 15:00:51 +0100
+96ff39b5f1943832bc2b6b5bb21d6dd4c1f0b0ab|Showing folder content in tree|Wed, 15 Nov 2017 14:39:50 +0100|Wed, 15 Nov 2017 14:39:50 +0100
+1832216d4dc77298488c9debc38c25df28e6479e|Settings knows how to render property enums (fixed)|Wed, 15 Nov 2017 10:56:33 +0100|Wed, 15 Nov 2017 10:56:33 +0100
+45121d77b3363fd6757223c99c201e1765623ff4|Settings knows how to render property enums|Wed, 15 Nov 2017 10:55:19 +0100|Wed, 15 Nov 2017 10:55:19 +0100
+72cc7262df5656983fdcd51946611218e12ba96f|Getting services from a url|Wed, 15 Nov 2017 10:29:04 +0100|Wed, 15 Nov 2017 10:29:04 +0100
+bef2d94c3e0b73e446d35f14505486889f7ca1f8|calling a function to ask for services|Wed, 15 Nov 2017 08:17:51 +0100|Wed, 15 Nov 2017 08:17:51 +0100
+25242f094085b311db42425d526fe1cb19a18724|Missing files|Tue, 14 Nov 2017 16:26:43 +0100|Tue, 14 Nov 2017 16:26:43 +0100
+756d5c6d89c3506678156416e666e4bc75b0ad5d|Merge branch 'master' into react-in-docker|Tue, 14 Nov 2017 16:24:57 +0100|Tue, 14 Nov 2017 16:24:57 +0100
+7605b917eeaff238e8f2cb4c05d030884644d63e|Merge pull request #18 from odeimaiz/add-workbench-to-react|Tue, 14 Nov 2017 14:57:51 +0100|Tue, 14 Nov 2017 14:57:51 +0100
+7922acf8e0630b1a6c3aed0964e76122f3ff1f30|React in docker: Working for both, development and production|Tue, 14 Nov 2017 14:55:06 +0100|Tue, 14 Nov 2017 14:55:06 +0100
+8f8647ea73a8891b9334439e8fe47d61b98e574a|React in docker: Corrections: - exposing port 6001 - minor changes|Tue, 14 Nov 2017 11:11:56 +0100|Tue, 14 Nov 2017 11:11:56 +0100
+d4a96d7896ffbe1f0c5ddec7b6af40d25e24af1a|Ignore node_modules|Mon, 13 Nov 2017 16:22:33 +0100|Mon, 13 Nov 2017 16:22:33 +0100
+86844acd37d11dd07e70a38d5a8151da1efc598e|Merge pull request #2 from pcrespov/feature/dockerize_react|Mon, 13 Nov 2017 16:17:40 +0100|Mon, 13 Nov 2017 16:17:40 +0100
+2a827dd1567c8d6de84d5de7480dcc45244a591c|react prototype: following template ReadMe convention|Mon, 13 Nov 2017 15:00:08 +0100|Mon, 13 Nov 2017 15:00:08 +0100
+f3ed14593e7fee564197d73c496d2f543298109e|react prototype: No need to mention ReadMe in the ReadMe|Mon, 13 Nov 2017 14:24:27 +0100|Mon, 13 Nov 2017 14:24:27 +0100
+b67130e4499500d7c70af20919d212cf43cff6c9|#16: Workbench added to react prototype|Mon, 13 Nov 2017 14:10:06 +0100|Mon, 13 Nov 2017 14:10:06 +0100
+3b05ae4ec0bb76117d31b0b979b054fe44129714|Merge pull request #14 from ITISFoundation/react-review|Fri, 10 Nov 2017 13:32:27 +0100|Fri, 10 Nov 2017 13:32:27 +0100
+e0d3b74a6fb5c10c850a7abb6086afe97f65e547|Merge pull request #15 from ITISFoundation/Vue-review|Fri, 10 Nov 2017 13:29:19 +0100|Fri, 10 Nov 2017 13:29:19 +0100
+ff99f07987e29049add8c17d95c24ae6f5b59b0b|Added review.md template|Fri, 10 Nov 2017 12:45:27 +0100|Fri, 10 Nov 2017 12:45:27 +0100
+5de0d6a52a873a16ed2806019daab3d9ecff9591|Vue review added|Fri, 10 Nov 2017 11:09:50 +0100|Fri, 10 Nov 2017 11:09:50 +0100
+b91ba703ba89deb9d8fcd4ec6125539de6b3cfe1|React Review added|Fri, 10 Nov 2017 11:08:34 +0100|Fri, 10 Nov 2017 11:08:34 +0100
+f0c5326f0002e01a47e145aba7b32d41ba76cc8c|Add example for passing data via shared file|Thu, 9 Nov 2017 11:12:53 +0100|Thu, 9 Nov 2017 11:12:53 +0100
+efc90f699e42f50557a18b15f39c1f4c46d866e7|Udpate Readme|Wed, 8 Nov 2017 15:09:28 +0100|Wed, 8 Nov 2017 15:09:28 +0100
+e49e270a22a2cb74d5df59214dd9209847b95447|Udpate Readme|Wed, 8 Nov 2017 15:08:00 +0100|Wed, 8 Nov 2017 15:08:00 +0100
+2f1ba406d73480807c1c7acab9371cd277041894|Udpate Readme|Wed, 8 Nov 2017 15:07:00 +0100|Wed, 8 Nov 2017 15:07:00 +0100
+90fec8bd5b40b784e062736a53947a201c76da4e|Typo from vim|Wed, 8 Nov 2017 14:54:08 +0100|Wed, 8 Nov 2017 14:54:08 +0100
+79811447e81d99de4b3530b7a042817f0981b675|Add pipelines sample project|Wed, 8 Nov 2017 14:49:38 +0100|Wed, 8 Nov 2017 14:49:38 +0100
+9e7bc036b3d83d55b3e6b5b24a17a287493e4c63|dockerize_react: missed files|Wed, 8 Nov 2017 10:38:40 +0100|Wed, 8 Nov 2017 10:38:40 +0100
+313c5a05d2c7670f7d44471017e1d9dafa36b8f5|dockerize_react: adapted to new folder layout. Now all front-end_prototypes/react -> demos/frontend-react|Wed, 8 Nov 2017 09:58:38 +0100|Wed, 8 Nov 2017 10:02:59 +0100
+1bec18f0d5e1f8b8a6617986e4ea1b1b29eb80ad|Merged 'master'.|Wed, 8 Nov 2017 09:53:13 +0100|Wed, 8 Nov 2017 09:53:13 +0100
+aec2aeeee2455f3771e6a625f0d4a2e6f5feb8bb|Merge pull request #13 from pcrespov/feature/new_repo_layout|Wed, 8 Nov 2017 09:25:32 +0100|Wed, 8 Nov 2017 09:25:32 +0100
+d75045f83ce0abd1b238aa16ad5bb1dbecf6cfcd|New repo layout: minor|Wed, 8 Nov 2017 02:14:56 -0500|Wed, 8 Nov 2017 02:14:56 -0500
+3a57af212ca28e87c8cd821f94ae8b57387125dc|New repo layout:   - adding some documentation to explain every part|Wed, 8 Nov 2017 02:01:18 -0500|Wed, 8 Nov 2017 02:01:18 -0500
+e20cd3a0d9435a7827cb2127f1c82f43780134d6|New repo layout:   - moved all prototypes into demos/   - created new first layer folder structure: demos, docs, templates, tools|Wed, 8 Nov 2017 01:37:39 -0500|Wed, 8 Nov 2017 01:37:39 -0500
+4f6b77986f451fca3b5b9509da657a3df9e59bae|Improving make commands|Tue, 7 Nov 2017 21:27:50 +0100|Tue, 7 Nov 2017 21:27:50 +0100
+598638d88f9d19de93d187abefaaf3d4db01e88a|Merged 'master'.|Tue, 7 Nov 2017 13:50:32 +0100|Tue, 7 Nov 2017 13:50:32 +0100
+8e15957c36517c4d1f014fdeb94c2051b877210f|Merge remote-tracking branch 'upstream/master'|Tue, 7 Nov 2017 13:47:26 +0100|Tue, 7 Nov 2017 13:47:26 +0100
+f4c01d9ec64ec07b2160baeed36203a219cb7597|Merge pull request #10 from odeimaiz/remove-switch|Tue, 7 Nov 2017 10:22:30 +0100|Tue, 7 Nov 2017 10:22:30 +0100
+5274e8ef3ccaa1702bb88eb078079a7fac37b8ca|react prototype: Got rid of the switch|Tue, 7 Nov 2017 10:20:47 +0100|Tue, 7 Nov 2017 10:20:47 +0100
+f35d39eb83d55b7db6028a70fff253a26d78acae|Merge pull request #9 from odeimaiz/dependency-failure|Tue, 7 Nov 2017 09:36:50 +0100|Tue, 7 Nov 2017 09:36:50 +0100
+d55761d50b64dfafdcccc49b62b5f2cd04dc6e2b|react prototype: react-switch-button dependency fixed|Tue, 7 Nov 2017 09:28:42 +0100|Tue, 7 Nov 2017 09:28:42 +0100
+2530bea082d1c67961f6dedd0dc5afd528d5b90a|react prototype: react-switch-button dependency fixed|Tue, 7 Nov 2017 09:27:18 +0100|Tue, 7 Nov 2017 09:27:18 +0100
+e0665dee480bd0fddfb51114cb2048d1eff5c423|dockerzing react: Adding docker config (dev & production) and some makefile helper commands  (draft)|Mon, 6 Nov 2017 11:19:56 -0500|Mon, 6 Nov 2017 12:26:21 -0500
+33b77b817c15ba2940736b4bf718e57a5dc7d5ba|dockerzing react: moved all inside app/ folder and added Dockerfile|Mon, 6 Nov 2017 11:15:42 -0500|Mon, 6 Nov 2017 11:15:42 -0500
+c3f1c24f0ac6599d8d4fea8ae11d6c8d96ecc9e3|Merge remote-tracking branch 'upstream/master'|Mon, 6 Nov 2017 14:25:44 +0100|Mon, 6 Nov 2017 14:25:44 +0100
+5d5471960ec98e3646c3b0ffd17cef4f255727b0|Delete foo|Mon, 6 Nov 2017 11:32:38 +0100|Mon, 6 Nov 2017 11:32:38 +0100
+8e46c7ad84eb717ab0ca64b0beaad19d695b3ff1|Merge pull request #8 from odeimaiz/master|Mon, 6 Nov 2017 11:30:45 +0100|Mon, 6 Nov 2017 11:30:45 +0100
+b3d92259649bccee4b1b1b8c789cd04d59b5a7cf|prototyping: - fixed rdn-ndr issue|Fri, 3 Nov 2017 18:10:52 +0100|Fri, 3 Nov 2017 18:10:52 +0100
+377c283171217efea3c94fc3238b2626541e5c3e|prototyping: - react added - vue-prototype -> vue|Fri, 3 Nov 2017 14:07:03 +0100|Fri, 3 Nov 2017 14:07:03 +0100
+b3d00a64cce3a4b81d4f0fa2f5cf2aba9c80dc5f|Merge remote-tracking branch 'origin/master'|Mon, 30 Oct 2017 13:04:22 +0100|Mon, 30 Oct 2017 13:04:22 +0100
+ca5862543b0dcbbe664bec00281bf9af3d7d3aa5|Create foo|Mon, 30 Oct 2017 13:00:12 +0100|Mon, 30 Oct 2017 13:00:12 +0100
+7c346477f636232d2d1a4d3a317bec9e6349c24a|Finish Issue_3_check_vue.js|Mon, 30 Oct 2017 10:48:01 +0100|Mon, 30 Oct 2017 10:48:01 +0100
+36641d2b83cc9166a2b389ecedeccc13d31195b5|vue prototype: moved everything to 'vue-prototype' dir|Mon, 30 Oct 2017 10:44:03 +0100|Mon, 30 Oct 2017 10:44:03 +0100
+9a88ae8ce6a41210c0332c5b46f6c1b0e3afd9d6|vue prototype: working version|Mon, 30 Oct 2017 10:24:41 +0100|Mon, 30 Oct 2017 10:24:41 +0100
+e2b8cf6d9431604e36c4801abdf1b1db7030c5eb|Merge pull request #5 from ITISFoundation/add-license-1|Fri, 27 Oct 2017 22:02:35 +0200|Fri, 27 Oct 2017 22:02:35 +0200
+160dc7280871f25f7de523bafad018589f6deba8|Create License|Fri, 27 Oct 2017 22:01:00 +0200|Fri, 27 Oct 2017 22:01:00 +0200
+478048fb5cd40b039f3a4a3660f1c44b5731c56b|Dockerizing apps: Using docker's python API|Fri, 27 Oct 2017 20:05:26 +0200|Fri, 27 Oct 2017 20:05:26 +0200
+dc79293b172c7d9d596f84cef9cefd2e4cb07a2a|Dockerizing apps: Fixed scripts following good practices guidelines|Fri, 27 Oct 2017 19:10:12 +0200|Fri, 27 Oct 2017 19:10:12 +0200
+dfb6377cf98884ca34704a9a55ef93a63ea2a0d9|Dockering nodejs|Fri, 27 Oct 2017 18:04:57 +0200|Fri, 27 Oct 2017 18:04:57 +0200
+32503513a2c7340c54f1644adb71692839c3209b|first commit|Fri, 27 Oct 2017 17:59:40 +0200|Fri, 27 Oct 2017 17:59:40 +0200

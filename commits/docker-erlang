@@ -1,0 +1,20 @@
+255487ee82a5553a228185163b920a66f7ea6449|Merge branch 'master' of github.com:unbalancedparentheses/docker-erlang|Thu, 12 Feb 2015 23:14:13 +0000|Thu, 12 Feb 2015 23:14:13 +0000
+9787e1af27210812805e92a5b70f78db37921013|refactor of dockerfile to generate images that ocupy less space|Thu, 12 Feb 2015 23:12:53 +0000|Thu, 12 Feb 2015 23:12:53 +0000
+0cf54a3663c7db211a75b0eb99095b213fe990db|Update Dockerfile|Mon, 2 Feb 2015 17:47:06 -0300|Mon, 2 Feb 2015 17:47:06 -0300
+f5dd01b2bbbc378cc77625b680d7e0f441ec48dd|updated url and version|Mon, 2 Feb 2015 00:52:20 +0000|Mon, 2 Feb 2015 00:52:20 +0000
+3e5cefeebebda43620f2a7250c1919860ef4a24c|corrected version number|Mon, 2 Feb 2015 00:18:45 +0000|Mon, 2 Feb 2015 00:18:45 +0000
+2fd6dd2141f7d5d8f028016d6667b1ad72fa4446|updates relx version adds erlang 17.4 version|Sun, 1 Feb 2015 21:36:45 +0000|Sun, 1 Feb 2015 21:36:45 +0000
+833087f17f7cdeccc1f525f94cc3f6d56230a60f|Update README.md|Tue, 18 Nov 2014 14:26:16 -0300|Tue, 18 Nov 2014 14:26:16 -0300
+5101e158757e095ac7dfb1c3021c24b11077633f|adds support for all erlang versions|Tue, 18 Nov 2014 14:07:17 -0300|Tue, 18 Nov 2014 14:07:17 -0300
+9e1451754bb49605e1889bc7d9f0a1c1cace8561|rename update to generate|Tue, 18 Nov 2014 14:07:04 -0300|Tue, 18 Nov 2014 14:07:04 -0300
+5fdac014fa9e30c89d00592d01f7a48ca7c642cc|update otp versions working|Tue, 18 Nov 2014 14:05:11 -0300|Tue, 18 Nov 2014 14:05:11 -0300
+b4904436013d3222949a18e79d14d7a961fde828|added update script|Tue, 18 Nov 2014 13:52:34 -0300|Tue, 18 Nov 2014 13:52:34 -0300
+49ce79f49c0a0959ce1db9606da0b08ee47a29c2|updated 17.0 and 17.1|Sun, 16 Nov 2014 11:57:35 -0300|Sun, 16 Nov 2014 11:57:35 -0300
+0e348bf4a1b902201b969b5025882e0abf949cb5|added xml deps|Sun, 16 Nov 2014 11:52:13 -0300|Sun, 16 Nov 2014 11:52:13 -0300
+05542c781c7bc877c334ab023f87ca3356f30e65|compile without kerl|Sun, 16 Nov 2014 11:07:49 -0300|Sun, 16 Nov 2014 11:07:49 -0300
+5e4c3239a476bc861076a4cc71a6b92dc39150cc|added cmd|Sun, 16 Nov 2014 01:19:10 -0300|Sun, 16 Nov 2014 01:19:10 -0300
+5ce6ea7658b6cfb9afbcb9c1c75214fcc612a6ea|added locales|Sat, 15 Nov 2014 19:09:19 -0300|Sat, 15 Nov 2014 19:09:19 -0300
+c199bc5b06394acfee398f0fa2ff8bd879e12234|updated 17.1|Sat, 15 Nov 2014 19:08:37 -0300|Sat, 15 Nov 2014 19:08:37 -0300
+86cab2f38c38de08b8cbfe85e957a48252dfbe51|Merge branch 'master' of github.com:unbalancedparentheses/docker-erlang|Fri, 14 Nov 2014 17:50:27 -0300|Fri, 14 Nov 2014 17:50:27 -0300
+8e091665614e195852da0688bd109640ff1921cd|initial commit|Fri, 14 Nov 2014 17:48:33 -0300|Fri, 14 Nov 2014 17:48:33 -0300
+f722f99a5e75ef63900d472fe792d390e4f1c110|Initial commit|Fri, 14 Nov 2014 17:48:09 -0300|Fri, 14 Nov 2014 17:48:09 -0300

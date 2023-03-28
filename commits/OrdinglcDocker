@@ -1,0 +1,69 @@
+d38931d197d151b3e25dd8107e4c1dc21ea25c07|aspnet_web refactoring|Sun, 30 Oct 2016 18:06:17 +0100|Sun, 30 Oct 2016 18:06:17 +0100
+3703672ff75c012538c5a2c4b55925bdfd5e73eb|aspnet_wen refactoring|Sun, 30 Oct 2016 18:02:08 +0100|Sun, 30 Oct 2016 18:02:08 +0100
+d502cccd678334bb6b43cafae5924a9369eb9ff0|aspnet_web refactoring|Sun, 30 Oct 2016 17:54:42 +0100|Sun, 30 Oct 2016 17:54:42 +0100
+c210763bafb65afa5305f8b1459924327dd5a5e6|aspnet_web refactoring|Sun, 30 Oct 2016 17:47:30 +0100|Sun, 30 Oct 2016 17:47:30 +0100
+2ec3da8620dd37a4499eace890ced03e61e997c4|aspnet_web refactoring|Sun, 30 Oct 2016 17:39:56 +0100|Sun, 30 Oct 2016 17:39:56 +0100
+2fed4542f3b035b763c7f27961f57525bc87bf72|aspnet_web env variables|Sun, 30 Oct 2016 12:55:02 +0100|Sun, 30 Oct 2016 12:55:02 +0100
+ca6ada483236e2b326f42b82df15228a766c3585|node_processing with env variables|Sun, 30 Oct 2016 12:41:27 +0100|Sun, 30 Oct 2016 12:41:27 +0100
+c7ddff97b7697d4a8b0db84657a63d917343cc5c|docker-compose dev|Sun, 30 Oct 2016 12:30:31 +0100|Sun, 30 Oct 2016 12:30:31 +0100
+cd1347b62069f05b5ca9d23cb1b969db7c650781|using node:6 image|Sun, 30 Oct 2016 12:23:33 +0100|Sun, 30 Oct 2016 12:23:33 +0100
+095abe54c81b2dbf4a4298800fc5be8641f30349|file ocker-compose for development|Sun, 30 Oct 2016 10:57:02 +0100|Sun, 30 Oct 2016 10:57:02 +0100
+ab13e31f99821a16b6e138dfa247fe50a97a8c2e|introduzione variabili d'ambiente|Sun, 30 Oct 2016 10:46:09 +0100|Sun, 30 Oct 2016 10:46:09 +0100
+d6ede7a9b883a3a3e27a30952e1c0009ff8fd5f1|refactoring|Sun, 23 Oct 2016 16:44:16 +0200|Sun, 23 Oct 2016 16:44:16 +0200
+4bd063903fc8452331522957f7fed987e8af0210|refactoring|Sun, 23 Oct 2016 16:31:23 +0200|Sun, 23 Oct 2016 16:31:23 +0200
+d1229955fdf3bed4574a595395033c6b37cd3b27|refactoring|Sun, 23 Oct 2016 16:29:57 +0200|Sun, 23 Oct 2016 16:29:57 +0200
+60f8692ac5ec84efdd89a99cf4786d88d6e48a89|refactoring|Sun, 23 Oct 2016 16:15:03 +0200|Sun, 23 Oct 2016 16:15:03 +0200
+3f256e7b4e7e9b8ae74b2f922f4575c9587b3688|docker-compose refactoring|Sun, 23 Oct 2016 15:02:49 +0200|Sun, 23 Oct 2016 15:02:49 +0200
+c12c7d6ef54e3c7fe5ba9628d2bb5a17f13e6aeb|docker-compose refactoring|Sun, 23 Oct 2016 15:02:09 +0200|Sun, 23 Oct 2016 15:02:09 +0200
+0eb6d13dfe9d3017ca450e82421fb00572fe495d|docker-compose refactoring|Sun, 23 Oct 2016 15:00:31 +0200|Sun, 23 Oct 2016 15:00:31 +0200
+c4bafddd9e61cee3631394bc80083be0653b1513|refactoring aspnet_web folder|Sun, 23 Oct 2016 14:47:08 +0200|Sun, 23 Oct 2016 14:47:08 +0200
+412c73d6b566703b22729167104d07f6df01e31c|refactoring aspnet_web folder and dockerfile|Sun, 23 Oct 2016 14:46:26 +0200|Sun, 23 Oct 2016 14:46:26 +0200
+a837da726596e74ab041eb14eaafafa1159a4d88|refactoring|Sun, 23 Oct 2016 13:45:50 +0200|Sun, 23 Oct 2016 13:45:50 +0200
+f1df7110162e0f2473b4868c871629883f784c33|refactoring|Sun, 23 Oct 2016 13:43:09 +0200|Sun, 23 Oct 2016 13:43:09 +0200
+fc30c6fb8e40bea48597084f34dd8be89f889c95|refactoring|Sun, 23 Oct 2016 12:10:13 +0200|Sun, 23 Oct 2016 12:10:13 +0200
+fb6e1744d6a64714318a60e623378472dfc4b72a|refactoring|Sun, 23 Oct 2016 10:33:08 +0200|Sun, 23 Oct 2016 10:33:08 +0200
+1821fd98c768ddbb1881b8be684d0f45f342f815|added bash script for docker swarm|Sun, 23 Oct 2016 10:30:32 +0200|Sun, 23 Oct 2016 10:30:32 +0200
+61f3ebebc4b64395a80f115ccfd2c97915c7bac1|aspet_web: refactring dockerfile|Sun, 23 Oct 2016 09:10:18 +0200|Sun, 23 Oct 2016 09:10:18 +0200
+4371b14b50374979d579586f1686bf4799d9e3e0|aspnet_web: refactoring deploy docker|Sun, 23 Oct 2016 08:59:40 +0200|Sun, 23 Oct 2016 08:59:40 +0200
+f0e23881675f3022daffa4d761b9a2eba5f4077d|aspnet_web added|Sun, 23 Oct 2016 08:53:12 +0200|Sun, 23 Oct 2016 08:53:12 +0200
+05e8b2a5d2885a416d836ea6eb3d2ce479a01fda|docker-compose refactoring|Sun, 23 Oct 2016 00:35:10 +0200|Sun, 23 Oct 2016 00:35:10 +0200
+801f0d55afa47c77a981ab29be5d1c97a05cb136|refactoring docker-compose|Sun, 23 Oct 2016 00:31:21 +0200|Sun, 23 Oct 2016 00:31:21 +0200
+a15bdb179c74cc945f8485ab9d3e9c4dfd326cd5|node_processing refactoring|Sun, 23 Oct 2016 00:19:28 +0200|Sun, 23 Oct 2016 00:19:28 +0200
+31b4f765cc3135f8f6aa781e6c966edd77354360|node_processing refactoring|Sun, 23 Oct 2016 00:11:22 +0200|Sun, 23 Oct 2016 00:11:22 +0200
+55e98c36940f5550acd36ca687c6c74ef6ead3b1|node_processing refactoring|Sun, 23 Oct 2016 00:02:28 +0200|Sun, 23 Oct 2016 00:02:28 +0200
+c21b5a51f340c3404a8bb5cdd41c5b7da6775dbf|node_processing refactoring|Sat, 22 Oct 2016 23:52:00 +0200|Sat, 22 Oct 2016 23:52:00 +0200
+50126c0160aa27c9cd26d3866222397d10480942|node_processing: refactoring|Sat, 22 Oct 2016 23:44:37 +0200|Sat, 22 Oct 2016 23:44:37 +0200
+41d8963db16247c4b73a5ac0901b9722e96f1db0|node_processing: refactoring|Sat, 22 Oct 2016 20:58:15 +0200|Sat, 22 Oct 2016 20:58:15 +0200
+04a7e3089189a4f7b388402cdf8fd27873d99ea3|node_processing: refactoring fake delay|Sat, 22 Oct 2016 20:44:54 +0200|Sat, 22 Oct 2016 20:44:54 +0200
+ba32cfc8240a751e308b53d704380c3f753abe54|node_processing: fake delay modified|Sat, 22 Oct 2016 19:23:06 +0200|Sat, 22 Oct 2016 19:23:06 +0200
+1514684322626911fe6589c2ad74dfba7a75a21a|node_processing: fake delay added|Sat, 22 Oct 2016 19:13:32 +0200|Sat, 22 Oct 2016 19:13:32 +0200
+c06d246de60a2f1741917dc9669e8881e862e3df|node_processing refactoring|Sat, 22 Oct 2016 19:01:23 +0200|Sat, 22 Oct 2016 19:01:23 +0200
+f4bef551173f54d304089153ef8c33da637b0976|nde_processing refactoring|Sat, 22 Oct 2016 18:49:46 +0200|Sat, 22 Oct 2016 18:49:46 +0200
+2249d9793374f1684352a89f663a0c7fe7a99af4|node_processing refactoring|Sat, 22 Oct 2016 18:38:40 +0200|Sat, 22 Oct 2016 18:38:40 +0200
+9425b3fd0216e4e582ed7d05e790d1d54d8a0356|node_processing refactoring|Sat, 22 Oct 2016 18:29:34 +0200|Sat, 22 Oct 2016 18:29:34 +0200
+57de00c506c67f66e06a72266bc97512e2f859b0|node_processing refactoring|Sat, 22 Oct 2016 18:21:40 +0200|Sat, 22 Oct 2016 18:21:40 +0200
+dc269a2e962444cbff8520a20b430e560c8eccb9|node_processing: refactoring|Sat, 22 Oct 2016 18:14:32 +0200|Sat, 22 Oct 2016 18:14:32 +0200
+06efbaa568eab0ba81beb127f1c0a11a88395b98|node_processing: refacoring|Sat, 22 Oct 2016 18:02:26 +0200|Sat, 22 Oct 2016 18:02:26 +0200
+d7b0362af00b133057b0f3af2e37f6f3ffbea98f|node_processing: refactoring|Sat, 22 Oct 2016 17:49:17 +0200|Sat, 22 Oct 2016 17:49:17 +0200
+d4e2ee515df8d988ae73248f81d04f8e534f9e46|node_processing: rafactoring|Sat, 22 Oct 2016 17:28:52 +0200|Sat, 22 Oct 2016 17:28:52 +0200
+d6b383bda0d0dabff1f4ea1b57acd39a4371f673|docker-compose refactoring|Sat, 22 Oct 2016 17:22:53 +0200|Sat, 22 Oct 2016 17:22:53 +0200
+d3c89cf3740e7f7f0b2db918657839e6fca4043e|node_processing: refactoring|Sat, 22 Oct 2016 17:20:28 +0200|Sat, 22 Oct 2016 17:20:28 +0200
+83ead108285fe883945656f23a2dd90e5bcdf408|docker-compose refactoring|Sat, 22 Oct 2016 17:08:26 +0200|Sat, 22 Oct 2016 17:08:26 +0200
+1a1c534c7e866abf4f4c29e247ec70e201dc0cf8|refactoring node_processing, docker-compose|Sat, 22 Oct 2016 16:57:30 +0200|Sat, 22 Oct 2016 16:57:30 +0200
+1cf2a24f9f5d656f4e793dc856810e594215b058|docker-compose refactoring|Sat, 22 Oct 2016 16:52:01 +0200|Sat, 22 Oct 2016 16:52:01 +0200
+92d910a3a34c4873844f1ee64ffc0bf7d8d0b315|node_processing: first version|Sat, 22 Oct 2016 16:43:05 +0200|Sat, 22 Oct 2016 16:43:05 +0200
+a5673201b6d06bd97102e12644d9515f31b2d1e8|node_ingestion: itemsProcessed mehod added|Sat, 22 Oct 2016 16:02:04 +0200|Sat, 22 Oct 2016 16:02:04 +0200
+69ffe83de88568347999c6407cac8a009129d5d8|node_ingestion: refactoring|Sat, 22 Oct 2016 15:42:32 +0200|Sat, 22 Oct 2016 15:42:32 +0200
+3b839ba65b090abe370c6da9958ea41346b1fc9d|mongo_ingestion: refactoring|Sat, 22 Oct 2016 15:27:27 +0200|Sat, 22 Oct 2016 15:27:27 +0200
+f6ac4f5ebfeb87638753707086f5b0843da71968|node_ingestion: refactoring|Sat, 22 Oct 2016 15:14:40 +0200|Sat, 22 Oct 2016 15:14:40 +0200
+a8cf4429f0f0a66f305207df8504b248ef19b895|node_ingestion: refactoring|Sat, 22 Oct 2016 13:18:14 +0200|Sat, 22 Oct 2016 13:18:14 +0200
+607f6d6c0aaf930d5a0f80cdf87c506051988c94|node_ingestion: refactoring|Sat, 22 Oct 2016 13:08:20 +0200|Sat, 22 Oct 2016 13:08:20 +0200
+b8b116f37b0b9d3f216412d86714370306431180|refactoring docker-compose|Sat, 22 Oct 2016 13:00:27 +0200|Sat, 22 Oct 2016 13:00:27 +0200
+b3c6f0c7321d3369398ee79bd29f9f09126d7b28|node_ingestion: send message to queue|Sat, 22 Oct 2016 12:56:55 +0200|Sat, 22 Oct 2016 12:56:55 +0200
+b7effe60c0049200e56c0450502d2a064587ab13|node_ingestion ping method|Sat, 22 Oct 2016 12:41:13 +0200|Sat, 22 Oct 2016 12:41:13 +0200
+14142b5150ab4988dda244c97f5ecdc7ebc8c978|added node_ingestion a docker-compose|Sat, 22 Oct 2016 12:22:26 +0200|Sat, 22 Oct 2016 12:22:26 +0200
+e8d06dee7494b8d69722853c31fcab9554428999|refactoring filename|Sat, 22 Oct 2016 11:57:57 +0200|Sat, 22 Oct 2016 11:57:57 +0200
+05505b399f8945a80265d3afe1e73d82acab40f3|refactoring typos|Sat, 22 Oct 2016 11:53:38 +0200|Sat, 22 Oct 2016 11:53:38 +0200
+4a07f10d2cd9b43a023071f83f3faf15d228037e|setup server di injestion|Sat, 22 Oct 2016 11:26:00 +0200|Sat, 22 Oct 2016 11:26:00 +0200
+cd9f690cd5e2f8af8b82d746b2ff96d307cf2f7d|prima versione docker ompose con mongo e rabbitmq|Sat, 22 Oct 2016 10:26:34 +0200|Sat, 22 Oct 2016 10:26:34 +0200
+237700068fb99d3dad835a96bf614ad339fa6f41|Initial commit|Sat, 22 Oct 2016 10:08:56 +0200|Sat, 22 Oct 2016 10:08:56 +0200

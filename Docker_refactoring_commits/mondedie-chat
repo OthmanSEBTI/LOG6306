@@ -1,0 +1,8 @@
+,repo_name,sha,message
+47,mondedie-chat,a5d5a77cbbe8584edc008b184561fac17eb69154,refactor(): docker-compose_dev
+52,mondedie-chat,5c7294993a2eebb3e7597cc82f3df151abae95b8,refactor(): improve docker-composer_dev file
+118,mondedie-chat,1c0e16a9ae8878dc887c55c0fc66a992108625f2,refactor(docker): Change base image
+133,mondedie-chat,6980125650253db7e74ceb46c9113c272e929c53,refactor(docker): Change base image on docker-compose.yml
+134,mondedie-chat,325f1d17e645de78b226b8c6c096725660c33ca2,refactor(docker): Change base image
+143,mondedie-chat,1fb06719ea6c91919afe3a554499e85c0582c9a9,refactor(docker): Add comment in docker-compose.yml
+144,mondedie-chat,b59dbdaa53ffb021ab30981b580128e01a80dd11,refactor(docker): anonymize docker and del duplicate in Dockerfile

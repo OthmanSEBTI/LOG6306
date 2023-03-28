@@ -1,0 +1,145 @@
+dd252212a90774511917493aca7ced5f5d3ac0cf|upgrade clojure to 1.8.0|Mon, 3 Oct 2016 13:35:01 -0600|Mon, 16 Jan 2017 10:38:11 -0700
+0f4ba5a1580e90a3beb967d4a62e650f10ddca42|upgrade go to 1.7.1|Mon, 3 Oct 2016 13:24:34 -0600|Mon, 3 Oct 2016 13:24:34 -0600
+3759a724ccddf66449165b78258c00289d4fb1d7|support tags other than "latest"|Mon, 3 Oct 2016 13:24:07 -0600|Mon, 3 Oct 2016 13:24:07 -0600
+549c86ed600814dca53dd8fbf2ffe73001fe62a6|update packer ami|Tue, 27 Sep 2016 16:02:50 -0600|Tue, 27 Sep 2016 16:02:50 -0600
+b8d953272495021a14b1122cd22f561ad172b053|update ubuntu, go and dockerclient|Tue, 27 Sep 2016 14:30:57 -0600|Tue, 27 Sep 2016 15:12:40 -0600
+9b79228bc081bdd2df28d5b39ccfb7cec9021f9f|fix nil dereference error on createContainer failure|Thu, 22 Sep 2016 15:36:55 -0600|Thu, 22 Sep 2016 15:36:55 -0600
+b58200397eccdf6a690f270b2dfe72f60996d73e|wait for messages to be written before closing the websocket|Thu, 17 Dec 2015 14:27:26 -0700|Thu, 17 Dec 2015 14:27:26 -0700
+6367737f929c1f12bba7f7ffc809a79ddac5c6b3|switch ELB to TCP listener|Mon, 14 Dec 2015 14:31:21 -0700|Mon, 14 Dec 2015 14:31:21 -0700
+218463ad6d25ed5995fd4f850e0c15cecacd43b6|fix goroutine leak in compilation|Mon, 14 Dec 2015 13:13:03 -0700|Mon, 14 Dec 2015 13:13:03 -0700
+1d64a103a5a9bd0d0ae2b787e5202226f023beb5|improve the ws shutdown behavior|Fri, 11 Dec 2015 14:14:03 -0700|Fri, 11 Dec 2015 14:14:03 -0700
+e5402c30cd46f04643da4bb5c5fd3671d9389645|shared volume for compilation, not image commit|Fri, 11 Dec 2015 11:18:21 -0700|Fri, 11 Dec 2015 11:18:21 -0700
+02d6937972343ef125036445769ac0d215f68cb7|remove now-unused tmp mount|Thu, 10 Dec 2015 22:37:11 -0700|Thu, 10 Dec 2015 22:37:11 -0700
+da3add416e43ec91255206de38d9612b916c84a2|new ami|Thu, 10 Dec 2015 22:34:11 -0700|Thu, 10 Dec 2015 22:34:11 -0700
+73cfd5d9225e26dea4622ad2a09b956a0a0a7586|publish containers to the public registry|Thu, 10 Dec 2015 15:37:27 -0700|Thu, 10 Dec 2015 15:37:27 -0700
+5d92a42659113faa6b2e8ce12e7b0dcf78f9eaae|test fix|Thu, 10 Dec 2015 13:56:03 -0700|Thu, 10 Dec 2015 13:56:03 -0700
+47b1fb2f6a93d4919b75495c1c753b9a7dd2d256|websocket protocol|Tue, 8 Dec 2015 14:51:51 -0700|Tue, 8 Dec 2015 14:51:51 -0700
+60751cb471c40def9743beb64281fc7a0aeca3c2|swagger api improvements|Fri, 4 Dec 2015 09:15:30 -0700|Fri, 4 Dec 2015 09:15:30 -0700
+adb52a7a71847339b25bfba2556f807dbb0c1094|refactor to separate compilation from execution|Wed, 2 Dec 2015 13:51:28 -0700|Wed, 2 Dec 2015 14:26:52 -0700
+d17f5dbc6e4ef5a58a7e1505a34478883af6aa25|upgrade to go 1.5 and vendor|Tue, 13 Oct 2015 14:01:36 -0600|Tue, 13 Oct 2015 14:01:36 -0600
+b9d103fc05979e95c4f1bde7792dccc0c1f09733|support streaming i/o in the executor|Tue, 13 Oct 2015 13:45:25 -0600|Tue, 13 Oct 2015 13:45:25 -0600
+e4a8d65085602e03fa0e438d1c25d6f5975eb27c|support a separate compilation timeout|Mon, 14 Sep 2015 11:00:04 -0600|Thu, 17 Sep 2015 16:12:18 +0000
+73b96207fa07de7b9f5931b1da7f6abe6620a218|Renamed guile and scheme to better reflect reality.|Mon, 14 Sep 2015 12:23:24 -0600|Thu, 17 Sep 2015 15:44:52 +0000
+7637ef40c3569e700b8519049b5de217fc1e1d02|add -lm to c/cpp compilation|Sat, 12 Sep 2015 10:37:08 -0600|Sat, 12 Sep 2015 10:37:08 -0600
+e925e6c0755ea0238226605674af73dfa7aa4f55|volume for /tmp|Sat, 12 Sep 2015 10:36:56 -0600|Sat, 12 Sep 2015 10:36:56 -0600
+9181f9e52411249904fa29b3169f3e0dcecd3114|update base ami|Fri, 11 Sep 2015 21:36:17 -0600|Fri, 11 Sep 2015 21:36:17 -0600
+75faa0efdf6246858558fd1da6598cb86172ee1a|allow ghc a higher sigpending limit|Fri, 11 Sep 2015 21:33:04 -0600|Fri, 11 Sep 2015 21:33:04 -0600
+0bb943a8b395dcf123cfbe426f92f1341ef3e7b3|more general perl stdlib fix|Fri, 11 Sep 2015 20:46:17 -0600|Fri, 11 Sep 2015 20:46:17 -0600
+91c180196b433cf71ff8c6553f846b66a4d65f24|allow perl to access the rest of its stdlib|Fri, 11 Sep 2015 20:26:52 -0600|Fri, 11 Sep 2015 20:26:52 -0600
+27c43123da77ad56ef70971c220ca6cf90005f4f|haskell: added optimization flag|Fri, 11 Sep 2015 11:53:37 -0600|Fri, 11 Sep 2015 11:53:37 -0600
+8c819dd36c2368f72bb8350e8fef09e2f5cb2f41|update base ami|Wed, 9 Sep 2015 21:48:29 -0600|Wed, 9 Sep 2015 21:48:29 -0600
+16d5787aec188a0e0b59822d840e0754f15db2ed|update ocaml to 4.02|Wed, 9 Sep 2015 21:01:38 -0600|Wed, 9 Sep 2015 21:07:11 -0600
+0cee2b1a623ecc339e1a24aa2a399458cbc41ebd|update the ami build process to use the previous ami|Wed, 9 Sep 2015 19:36:40 -0600|Wed, 9 Sep 2015 21:07:11 -0600
+1214c4b52acb706aec1a83406ac3fbaebc2f68e3|avoid sending the stdin to the compile step|Wed, 9 Sep 2015 18:06:38 -0600|Thu, 10 Sep 2015 02:21:25 +0000
+35fd9a11ccb3cf7109777f3fc7456bcb69136dc9|Haskell: using haskell platform 7.10|Fri, 4 Sep 2015 13:46:58 -0600|Wed, 9 Sep 2015 09:21:20 -0600
+cc48eb7ae2686734ec05b2fe951bf28f0975ba00|Add Clojure Support|Tue, 1 Sep 2015 16:41:32 -0600|Wed, 9 Sep 2015 15:20:15 +0000
+e051ef1ab6f1c906131481b56945f21a72db037d|update to c++14|Tue, 8 Sep 2015 21:05:33 -0600|Wed, 9 Sep 2015 14:19:11 +0000
+327da298884cf85168f056e7709d2d41cbff3aa1|set the elb timeout to 120s|Tue, 8 Sep 2015 20:06:24 -0600|Tue, 8 Sep 2015 20:06:27 -0600
+720fa69e5413b6b8e0a6e99139a99f64a9b4b62c|grow the asg|Tue, 8 Sep 2015 13:39:25 -0600|Tue, 8 Sep 2015 20:06:27 -0600
+9ec34244c218a5d1575f440bc5678cee1f44569a|wildcard the elixir version patchlevel|Tue, 8 Sep 2015 10:02:05 -0600|Tue, 8 Sep 2015 21:35:33 +0000
+b4cfc4b0bda40c70203fbc18f7340099eb6756f3|c++ -O2|Thu, 3 Sep 2015 11:06:37 -0600|Thu, 3 Sep 2015 21:43:32 +0000
+6ceb6b976cc04b1e5b0d9e7ee45dc03eae2c6809|simpler language templates|Thu, 27 Aug 2015 12:43:52 -0600|Thu, 27 Aug 2015 19:10:05 +0000
+e0b9343ca54d9b93a1067de589b6d441e8f0188d|increase max stdin size|Wed, 26 Aug 2015 10:39:54 -0600|Wed, 26 Aug 2015 17:31:56 +0000
+c2dd22c02c1bd4ee3836b3b4214ebef1d3640386|install the haskell platform|Thu, 20 Aug 2015 16:29:09 -0600|Thu, 20 Aug 2015 22:55:18 +0000
+52b05ea3b2668c8e370e9b0fd42f90e1e5878cf6|Add CoffeeScript Support|Tue, 18 Aug 2015 16:21:17 -0600|Wed, 19 Aug 2015 20:05:51 +0000
+083331213ceaf1c12be874013f718949109f375e|Run Node in Harmony mode|Tue, 18 Aug 2015 15:55:35 -0600|Wed, 19 Aug 2015 17:09:39 +0000
+720f84028ecf083a5338a66e8ced498b0618e5a7|Add Scala support|Fri, 10 Jul 2015 17:39:13 -0600|Mon, 17 Aug 2015 21:23:32 +0000
+2fe48ceeb00c78d0f7f9ebbc0d4cd010f8dc388d|limit output size|Fri, 7 Aug 2015 16:52:11 -0600|Tue, 11 Aug 2015 20:43:00 +0000
+ffa73a2448be31542b75114e6d17a89620f2cc71|update go-dockerclient dependency|Mon, 10 Aug 2015 13:24:31 -0600|Tue, 11 Aug 2015 20:42:56 +0000
+fb63c0d1bb46a79c2f35e1eb4b757cc8fe86c772|limit request source and stdin size|Fri, 7 Aug 2015 13:57:43 -0600|Tue, 11 Aug 2015 20:42:48 +0000
+3187a6161be7586d54eb6d91579b2a5acec81fcb|fully disable container networking|Fri, 7 Aug 2015 10:52:10 -0600|Mon, 10 Aug 2015 20:41:30 +0000
+ede93c14d572182217afb699b056f8adbd0282d1|return language templates in info response|Wed, 5 Aug 2015 10:26:49 -0600|Fri, 7 Aug 2015 20:36:11 +0000
+38f374ec7107ba09052e7b7b56e7b8d855b4160c|Adds a basic IO template to fortran example|Wed, 5 Aug 2015 14:59:57 -0600|Thu, 6 Aug 2015 15:57:50 +0000
+c08a02d9a49cc3198d7f0894a6e317a13ba24901|use cloudformation to set enviornment variables|Fri, 24 Jul 2015 14:02:04 -0600|Wed, 5 Aug 2015 09:48:54 -0600
+a6422d2bd0511ae3162eaf9bff0c647552c8fff8|Dynamic Language Options on Index Page|Mon, 3 Aug 2015 12:36:33 -0600|Mon, 3 Aug 2015 19:17:15 +0000
+ae39d6f07208386411242e27a7b6bf64f8be207b|add sentry error reporting|Thu, 23 Jul 2015 16:49:54 -0600|Tue, 28 Jul 2015 20:56:29 +0000
+5a8ab8a15526d8512530b4dfbaf64156c4f45a5a|additional ocaml/opam dependency|Mon, 27 Jul 2015 13:04:19 -0600|Tue, 28 Jul 2015 18:54:45 +0000
+bb7ccf7f481ae3097d4a72fbd480f6bc55d56bcd|fix up racket support|Tue, 28 Jul 2015 09:52:24 -0600|Tue, 28 Jul 2015 16:27:02 +0000
+a081e44b3518e772cf268593b8fa8ad507c5234f|fix ruby apparmor profile name|Tue, 21 Jul 2015 11:06:06 -0600|Tue, 28 Jul 2015 15:52:39 +0000
+f7388d230c51c05b4f8808cf993ff763ea2c17b6|part 2: updating language stdin/stdout checks|Fri, 17 Jul 2015 17:54:53 -0600|Sat, 18 Jul 2015 18:50:48 +0000
+8c02de46806c3be736bb1108dcc33d88ccb24a51|remove bash support|Fri, 17 Jul 2015 17:50:12 -0600|Sat, 18 Jul 2015 18:50:45 +0000
+ef6cc9a0fe71364742963725d2bd824c15c2f362|part 1: updating language stdin/stdout checks|Thu, 16 Jul 2015 16:53:57 -0600|Sat, 18 Jul 2015 18:50:41 +0000
+8ea64a7950854371f66a2d826878832d158b8d2a|change info response format for easier consumption|Thu, 16 Jul 2015 10:00:50 -0600|Thu, 16 Jul 2015 16:15:38 +0000
+8fa74338fb74efccee0eaec5eea7c7933c814580|switch to json logging|Wed, 15 Jul 2015 15:39:15 -0600|Thu, 16 Jul 2015 15:20:20 +0000
+a8f5f091711e1e1a2e055eaa0f54153af4143425|enforce http methods|Wed, 15 Jul 2015 13:28:31 -0600|Thu, 16 Jul 2015 15:20:17 +0000
+c070d9b22ef2202f0689d5065fe11dc60258ecbb|organize and document the execution engine package|Wed, 15 Jul 2015 09:34:51 -0600|Thu, 16 Jul 2015 15:20:14 +0000
+9df8140fe5fbbaa4690611c6805c3130c32c6ae6|http-level handler tests checking json responses|Tue, 14 Jul 2015 21:41:51 -0600|Thu, 16 Jul 2015 15:20:10 +0000
+ad0904199e4a33666403ed332a36627602484292|start handlers unit test suite|Tue, 14 Jul 2015 19:28:20 -0600|Thu, 16 Jul 2015 15:20:06 +0000
+9deb24868c1b32d2eb76cabc18346b6809104d99|swagger API definition|Tue, 14 Jul 2015 15:07:02 -0600|Thu, 16 Jul 2015 15:20:01 +0000
+c0ba5dc79bb3f4ef5ab52e97b0fb54e608b75064|return all information for both execution steps|Tue, 14 Jul 2015 15:05:59 -0600|Thu, 16 Jul 2015 15:19:56 +0000
+925a9a8e0bbe7456b42427e8ffafd9579c23e989|set ASG pause time|Tue, 14 Jul 2015 10:58:09 -0600|Thu, 16 Jul 2015 15:19:50 +0000
+0e967ebd2d788dae68327f4733bc90233292d09a|add to the extension map for the new langs|Tue, 14 Jul 2015 09:26:10 -0600|Wed, 15 Jul 2015 18:20:15 +0000
+41ddcac7d2a3552c135bbe4177d7164c74bec23b|fix typo in elixir conf|Tue, 14 Jul 2015 09:46:12 -0600|Tue, 14 Jul 2015 09:48:07 -0600
+110bc49a88e89a8bc2c29b753ffb66aaf7fe0813|support python2 as well as python3|Mon, 13 Jul 2015 16:30:50 -0600|Mon, 13 Jul 2015 22:46:02 +0000
+a36469e2a827bfa8cdca190ee788ebf957bec595|upgrade our images from wheezy -> jessie|Mon, 13 Jul 2015 15:19:58 -0600|Mon, 13 Jul 2015 22:45:58 +0000
+d317f21841f433cc9465b5a0ae55ed1e7e171d3d|new: support erlang and elixir|Mon, 13 Jul 2015 14:57:53 -0600|Mon, 13 Jul 2015 22:45:52 +0000
+817e3ba62b39760cd3c4668e16d56a74ed3ed3cc|Added C# test case|Mon, 13 Jul 2015 10:31:54 -0600|Mon, 13 Jul 2015 18:58:14 +0000
+016bfcb24dd22363d6728a8efe7a7688229ee759|Add fortran support|Fri, 10 Jul 2015 14:46:26 -0600|Mon, 13 Jul 2015 16:25:58 +0000
+5e14249eff14d6d153e2806e4afb71856475e3ad|Add Haskell support|Fri, 10 Jul 2015 12:58:00 -0600|Mon, 13 Jul 2015 16:25:48 +0000
+529f43a9eab1ead8f48b31b2d62fcd2399cb4ed6|Add Scheme support|Fri, 10 Jul 2015 16:03:04 -0600|Mon, 13 Jul 2015 16:25:39 +0000
+906098592326af0b664657889b7757c43eba370d|Add C++ support|Fri, 10 Jul 2015 10:14:49 -0600|Fri, 10 Jul 2015 17:45:25 +0000
+3d60f7879ec654198ccf20e2bf83e00e026a63a1|Fixes to C Support|Fri, 10 Jul 2015 10:31:12 -0600|Fri, 10 Jul 2015 17:22:49 +0000
+b75b00e209ab9e218e3d4d521cc55db8334111e5|new language: rust 1.1.0|Fri, 10 Jul 2015 09:30:21 -0600|Fri, 10 Jul 2015 15:41:58 +0000
+f039a6b28e946e3b9789fd463d193b39bc35a68e|add php support|Thu, 9 Jul 2015 17:15:11 -0600|Thu, 9 Jul 2015 23:51:53 +0000
+539cf1b04474c8c44ba87fc0bf2d47a8ea4dec25|add perl support|Thu, 9 Jul 2015 17:04:15 -0600|Thu, 9 Jul 2015 23:51:50 +0000
+a54aa06addcefa2cf1633a7eda80a82909f4f275|add guile support|Thu, 9 Jul 2015 16:31:12 -0600|Thu, 9 Jul 2015 23:51:45 +0000
+c642c83d7fddd16bb877a7c17a9bbdaabb412774|Add C lang|Thu, 9 Jul 2015 13:04:09 -0600|Thu, 9 Jul 2015 23:01:31 +0000
+139d50759575cc50c0484383f51ce3f05542eec4|basic jenkins build|Thu, 9 Jul 2015 15:06:03 -0600|Thu, 9 Jul 2015 21:56:17 +0000
+cf8ad6abf259a6a4c17a477a70378932d9245701|allow running tests for a single language|Thu, 9 Jul 2015 14:12:12 -0600|Thu, 9 Jul 2015 21:56:12 +0000
+0bcfabf0df441c3f452e39b079ed32208a982f9f|golang support|Thu, 9 Jul 2015 14:46:45 -0600|Thu, 9 Jul 2015 21:15:21 +0000
+0dd49cdf08cc26af1cddc85ea8c1c7d798c0ae07|run compilation steps with a separate apparmor profile|Thu, 9 Jul 2015 14:34:47 -0600|Thu, 9 Jul 2015 21:15:11 +0000
+d957a00f6c8b6051348f82f17b64c82b483ba4d0|Add Extensions Mappings to Info Handler|Thu, 9 Jul 2015 13:24:21 -0600|Thu, 9 Jul 2015 20:22:15 +0000
+6fc493f1d871dab6eae792bdfabc9bf67669fd99|whoops, add the test timeout back in, but higher|Thu, 9 Jul 2015 11:03:17 -0600|Thu, 9 Jul 2015 18:24:59 +0000
+b1032b7e39f37718da86b20aa998556c5b9d9bb8|return the error string in the json response|Wed, 8 Jul 2015 15:56:49 -0600|Thu, 9 Jul 2015 18:24:46 +0000
+08524a0547246a221bad5b325f1549caa2ee5952|use the default timeout for tests|Thu, 9 Jul 2015 09:25:33 -0600|Thu, 9 Jul 2015 15:27:39 +0000
+36935d485e2006947c34d2171d64867619a249bd|add timeout support, and return the elapsed time|Wed, 8 Jul 2015 15:26:20 -0600|Wed, 8 Jul 2015 23:06:08 +0000
+35caf801f8aa86289d396b7b30b12c3a727e99f3|bash support|Wed, 8 Jul 2015 16:29:25 -0600|Wed, 8 Jul 2015 23:05:10 +0000
+ba96690cdb18ce291b099ee5e074bc9f3b6ea025|lua support|Wed, 8 Jul 2015 16:19:01 -0600|Wed, 8 Jul 2015 23:05:05 +0000
+e1e52ed415d9767953b9dbc053f3f573fb0921fa|cloudformation template for deploying|Wed, 8 Jul 2015 12:38:02 -0600|Wed, 8 Jul 2015 22:31:04 +0000
+c93e98a459fc0fb04ed91805a975462d78715c41|Add OCaml Support|Wed, 8 Jul 2015 16:00:19 -0600|Wed, 8 Jul 2015 22:14:02 +0000
+fa15b17e3a988107f203beb3e6e877afbd4fde43|Add Java Support|Wed, 8 Jul 2015 12:52:15 -0600|Wed, 8 Jul 2015 22:02:36 +0000
+9f88bd4d414558c61294e4b4253c90733602c276|no longer hard-code languages to build in straitjacket-setup.sh|Wed, 8 Jul 2015 09:29:03 -0600|Wed, 8 Jul 2015 16:31:41 +0000
+e151e991dca86747198c454c2c0f201764b16246|lowercase lang names|Tue, 7 Jul 2015 14:40:46 -0600|Wed, 8 Jul 2015 09:19:39 -0600
+ef7b5d050b9d1ae5c244ad48e048d2e2637c90ce|Support Python Language Exec Profile|Tue, 7 Jul 2015 13:04:09 -0600|Wed, 8 Jul 2015 15:19:34 +0000
+f4f14d483e161e2b112c067eee014fdfbd9e1131|add dlang support|Tue, 7 Jul 2015 15:38:30 -0600|Wed, 8 Jul 2015 15:02:28 +0000
+e94f9c1a6f3e8a884358a75073219d793a2e0898|run the language tests when flag is given|Tue, 7 Jul 2015 13:47:58 -0600|Tue, 7 Jul 2015 20:33:42 +0000
+b8870b6d3bd78e38e12266b99d6f3f0049f02718|more comprehensive setup script and dev instructions|Tue, 7 Jul 2015 13:59:19 -0600|Tue, 7 Jul 2015 20:16:10 +0000
+15c4bc1d499a6665c2fb32c59604227387f34be0|update README for v2.0|Tue, 7 Jul 2015 12:38:34 -0600|Tue, 7 Jul 2015 20:07:10 +0000
+cba4332c977ea6c1581bdfb0cba1761df0e39fe4|Make /info endpoint backwards compatible|Tue, 7 Jul 2015 13:57:36 -0600|Tue, 7 Jul 2015 20:06:24 +0000
+104d3be0ed44ddbc616a8588b86c36a87261956c|get rid of the global engine state|Tue, 7 Jul 2015 13:00:07 -0600|Tue, 7 Jul 2015 19:23:19 +0000
+84697ffecf059c44b13428d62827a14f380261b0|AMI build|Tue, 7 Jul 2015 09:57:10 -0600|Tue, 7 Jul 2015 12:15:43 -0600
+e6e4a1fe3acad41ba4f0d39c6f8188371f400a53|remove python impl|Tue, 7 Jul 2015 10:11:02 -0600|Tue, 7 Jul 2015 10:11:12 -0600
+88c3782e7bb755bfccddf959541e2afe6e467466|fix reading multipart form values so curl works|Mon, 6 Jul 2015 18:43:37 -0600|Mon, 6 Jul 2015 18:43:37 -0600
+e9f7e9fbc01a3793f79f4b861620485ea1cede09|hook the execution engine up to the API|Mon, 6 Jul 2015 18:29:58 -0600|Mon, 6 Jul 2015 18:29:58 -0600
+978ca012cc8b920cb1900d31dbb85a71a2bc882a|run server by default|Mon, 6 Jul 2015 18:08:38 -0600|Mon, 6 Jul 2015 18:08:38 -0600
+6cba757c12754f0df1b9fbd23b5457cb5ff3cdbd|go fmt fixes|Mon, 6 Jul 2015 17:28:56 -0600|Mon, 6 Jul 2015 17:29:58 -0600
+b28d700749b0ed12b3b1605629edfd32afeb0248|update go version|Mon, 6 Jul 2015 17:24:57 -0600|Mon, 6 Jul 2015 17:24:57 -0600
+6c84fbb6eea3faadc856989b4f8ec7bb32ec8a3c|switch to yaml, get stdin working|Mon, 6 Jul 2015 17:17:17 -0600|Mon, 6 Jul 2015 17:22:34 -0600
+3d68c770c3fa61f9ee2c7b036507602238773be7|commit missing godeps|Mon, 6 Jul 2015 17:17:05 -0600|Mon, 6 Jul 2015 17:19:32 -0600
+15ec4b7582aa6fc28e9c19d8f033811a6491c202|Simple API Server|Mon, 6 Jul 2015 14:54:30 -0600|Mon, 6 Jul 2015 16:18:08 -0600
+6fc5332abef0cd3982b4b4a50606971ab9aa3bc8|refactor into separate functionality|Mon, 6 Jul 2015 15:24:35 -0600|Mon, 6 Jul 2015 15:24:35 -0600
+3221460fbf3d8a73df6c73c388958d93c55c7d1f|golang+docker implementation beginnings|Tue, 30 Jun 2015 17:18:22 -0500|Mon, 6 Jul 2015 09:19:13 -0600
+c4728b57ede8c2b664db4b773f4518471347217c|vagrant dev setup|Fri, 26 Jun 2015 14:49:44 -0600|Tue, 30 Jun 2015 17:15:46 -0500
+2c80770486f6c32b95737d17a654ff7518a02f55|fortran support for kyle|Wed, 5 Sep 2012 15:58:16 -0600|Wed, 5 Sep 2012 15:59:26 -0600
+68300c4ee937b7b40dbfa0934e1eb629bfe8c131|adding ami to readme|Fri, 31 Aug 2012 16:24:23 -0600|Fri, 31 Aug 2012 16:24:23 -0600
+777b4fdfbc67ca66b1c71be43ffe0f9b3038a420|small go fixes|Fri, 31 Aug 2012 15:46:52 -0600|Fri, 31 Aug 2012 15:46:52 -0600
+e923204a06dbb900434276da6bafcc841986b82b|bumping supported ubuntu version number|Fri, 31 Aug 2012 14:26:30 -0600|Fri, 31 Aug 2012 14:32:51 -0600
+7f668313bd3750389d31487086480ee6906cda73|scala return values started being weird, so switching to java for vm profile tests|Fri, 31 Aug 2012 14:25:57 -0600|Fri, 31 Aug 2012 14:32:51 -0600
+bd971de42094e6bd61cbab92efc18d92fb5984bf|bumping memory a little more|Fri, 31 Aug 2012 14:25:37 -0600|Fri, 31 Aug 2012 14:25:37 -0600
+669145aa774bc4dad656fb53b3562493e1000804|scala fixes|Fri, 31 Aug 2012 14:15:44 -0600|Fri, 31 Aug 2012 14:15:44 -0600
+2e898a0c59313aede61ec3a695054286f7b845cd|doubling java memory limits too|Fri, 31 Aug 2012 14:10:10 -0600|Fri, 31 Aug 2012 14:10:10 -0600
+8c59516abb1d9632723c3171845ce724c685fea6|doubling base memory limits (seems needed on 64bit 12.04)|Fri, 31 Aug 2012 13:55:17 -0600|Fri, 31 Aug 2012 13:55:17 -0600
+ed88bbb99bbdafa64c8e34b4de2d1b6143a633c2|racket v5.1.3 has a different exit status|Fri, 31 Aug 2012 13:39:30 -0600|Fri, 31 Aug 2012 13:39:30 -0600
+05c2623d192e6ef9aa0a132b4e00b67dfaca549f|haskell fixes|Fri, 31 Aug 2012 13:37:00 -0600|Fri, 31 Aug 2012 13:37:00 -0600
+3b763e4635153ff599963be6d76c8955645b2d44|go support doesn't break other compiled nproc limits now|Fri, 31 Aug 2012 10:42:01 -0600|Fri, 31 Aug 2012 10:42:01 -0600
+871e113861a905129b866b284104e01803599969|go1 support|Wed, 29 Aug 2012 18:10:45 -0600|Wed, 29 Aug 2012 18:10:45 -0600
+023cd8d1369906f0e7e766e987aabea036e166d5|use absolute paths|Thu, 22 Mar 2012 18:17:39 -0600|Thu, 22 Mar 2012 19:55:28 -0600
+eade261f4ef9124d20461c2d76e3ab2c8fde551c|don't need to return execution profile info|Thu, 22 Mar 2012 12:57:55 -0600|Thu, 22 Mar 2012 12:57:55 -0600
+760d275962fbe314b610f17c1a9fb943f0240823|don't require libapparmor for remote server tests|Thu, 22 Mar 2012 12:57:21 -0600|Thu, 22 Mar 2012 12:57:21 -0600
+a94ef71ee68ed61831e0a152e8b9056cc9d1ea5f|name go object file something that will get cleaned up|Thu, 22 Mar 2012 12:02:35 -0600|Thu, 22 Mar 2012 12:35:21 -0600
+e740a49068fbe5e2ebfcb39691a86412e17cbf29|more permissive settings for racket|Thu, 22 Mar 2012 11:56:47 -0600|Thu, 22 Mar 2012 12:35:21 -0600
+c6a3cb2992c0c8753af08d7534ef745e1eeab873|less confusion around ruby versions|Thu, 22 Mar 2012 11:56:57 -0600|Thu, 22 Mar 2012 12:35:20 -0600
+6330f81a508efa8501358d43fbd3f8c374ca0418|fixing scala for oracle jdk 7|Thu, 22 Mar 2012 11:56:32 -0600|Thu, 22 Mar 2012 12:27:33 -0600
+12f562f00432b90990210afeeffc093657d5fc25|don't enable languages that weren't safe when skipping language checks|Thu, 22 Mar 2012 11:14:27 -0600|Thu, 22 Mar 2012 12:27:32 -0600
+52ce0359a18f1d55d144e31616c39154a72b3996|updating instructions, language support|Wed, 21 Mar 2012 14:59:30 -0600|Wed, 21 Mar 2012 15:45:23 -0600
+5f8b9fa86bd5a586c9114acb5846fd8104cc07d1|initial commit|Mon, 12 Sep 2011 11:56:32 -0600|Mon, 12 Sep 2011 11:59:15 -0600

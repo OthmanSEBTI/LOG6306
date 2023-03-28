@@ -1,0 +1,4 @@
+,repo_name,sha,message
+5640,rdrf,f7d2b4d1643254297a22554a1c3d7a3b20cc50e8,docker-compose: refactor with common operations into docker-compose-common.yml
+5666,rdrf,a27071e91d6dbdf6898cac1d1ccd6c0a4c8788b0,docker-compose: correct selenium refactor
+5670,rdrf,43c2494fe8532670de2d894c5f2c21ec26e1c7b1,docker-compose: refactor selenium for docker-compose 1.5

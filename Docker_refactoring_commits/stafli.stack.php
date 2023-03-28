@@ -1,0 +1,2 @@
+,repo_name,sha,message
+33,stafli.stack.php,968a5ecda35db4598154b2f37718cf0c3d88dc02,"Likewise with the upstream project, refactored docker-compose.yml and .env files to abandon the bash variable substitution in favor of using the supported docker-compose.override.yml files, which may also use the unsupported .env files; Added sample docker-compose.override.yml files; Updated the readme to reference these changes; Removed unused arguments from docker-compose and dockerfiles"

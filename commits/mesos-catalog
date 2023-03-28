@@ -1,0 +1,120 @@
+af8714b867892c8e3194e7b8ef02d106d902251f|Expose docker data directory to mesos-slave|Tue, 28 Jun 2016 15:30:43 -0700|Tue, 28 Jun 2016 15:30:43 -0700
+2b546147c2accb21a1cee69c6d7357e41ad8b257|Move commands into scripts|Tue, 28 Jun 2016 14:49:35 -0700|Tue, 28 Jun 2016 14:49:35 -0700
+066939408ec2f57e1778ba557dd136cd94a14709|capitalize|Tue, 28 Jun 2016 13:32:17 -0700|Tue, 28 Jun 2016 13:32:17 -0700
+8f8952b9233adb2035b6627b1fa472c862f3289f|temporary chronos cattle template|Tue, 28 Jun 2016 13:29:12 -0700|Tue, 28 Jun 2016 13:29:12 -0700
+9531391d91045cc67a9703634a3d9857ccee1b83|Symlink didn't work, cp for now|Mon, 27 Jun 2016 14:54:56 -0700|Mon, 27 Jun 2016 14:54:56 -0700
+1011407589bc075374b76c1d8ef6d632c70d57ea|Test symbolic links WRT rancher-catalog-service|Mon, 27 Jun 2016 14:52:38 -0700|Mon, 27 Jun 2016 14:52:38 -0700
+ce889471c32fa80861dc771ad013e2e74cacd348|add dns to master, renaming|Mon, 27 Jun 2016 14:46:48 -0700|Mon, 27 Jun 2016 14:46:48 -0700
+aae0415f85489f1e7f247f212e4bd88d012db6cf|Host networking for master and slave|Mon, 27 Jun 2016 14:38:11 -0700|Mon, 27 Jun 2016 14:38:11 -0700
+a3fe148411525232d2cda6ced2eb57e0f0a583af|Capture deployment order via links|Mon, 27 Jun 2016 14:34:18 -0700|Mon, 27 Jun 2016 14:34:18 -0700
+0409c16714c7f4f2f0f13988bd309e6cf044cc26|D'oh|Mon, 27 Jun 2016 14:26:51 -0700|Mon, 27 Jun 2016 14:26:51 -0700
+b5a42592ac38341f7ee9ae6c92f0261aa16ad0e0|static chroot, host networking means no stack context|Mon, 27 Jun 2016 14:23:37 -0700|Mon, 27 Jun 2016 14:23:37 -0700
+3601a7c7f30fd37338627170de54c357cf314790|No exposing necessary with host networking|Mon, 27 Jun 2016 12:48:59 -0700|Mon, 27 Jun 2016 12:48:59 -0700
+2310457e07882b5ad0691b1fd1193373d0f012ec|case-sensitive|Mon, 27 Jun 2016 12:14:27 -0700|Mon, 27 Jun 2016 12:14:27 -0700
+f14fad70342c3c8fa9ae222f3220056feabcddff|Mesos cattle template for fast iterating|Mon, 27 Jun 2016 12:11:30 -0700|Mon, 27 Jun 2016 12:11:30 -0700
+2438a74dcfcbd1c51cb4f1aa4db016902e942ece|New entrypoint for scheduler|Fri, 24 Jun 2016 13:53:07 -0700|Fri, 24 Jun 2016 13:53:07 -0700
+2bb7c2b15bf88a18be4ba6ad74bed2f3e11934a3|scheme|Fri, 24 Jun 2016 13:09:17 -0700|Fri, 24 Jun 2016 13:09:17 -0700
+a69f42740a626cadf3937a45df0256520f3a3048|controller manager and scheduler|Fri, 24 Jun 2016 13:04:56 -0700|Fri, 24 Jun 2016 13:04:56 -0700
+bbb817aa28497b983c9599330f78840bd9630f8c|Bind all ifaces|Fri, 24 Jun 2016 12:56:14 -0700|Fri, 24 Jun 2016 12:56:14 -0700
+cbcd033df4878841753203fe41aae6970bfe6ec6|Verbosity|Fri, 24 Jun 2016 12:50:15 -0700|Fri, 24 Jun 2016 12:50:15 -0700
+6dcbd51655dc5530fb250d22eb26e877dc245547|directory|Thu, 23 Jun 2016 15:31:23 -0700|Thu, 23 Jun 2016 15:31:23 -0700
+ee1f4917b13f9a900b41adfb208604e3e21b6810|apiserver|Thu, 23 Jun 2016 15:27:37 -0700|Thu, 23 Jun 2016 15:27:37 -0700
+455f6633565d86720fccb4b260d6da83c018c49d|Fixes|Thu, 23 Jun 2016 14:52:51 -0700|Thu, 23 Jun 2016 14:52:51 -0700
+120ad179d3b986b79ddf235990378af9b710b00b|Add etcd, use llparse image|Thu, 23 Jun 2016 14:51:28 -0700|Thu, 23 Jun 2016 14:51:28 -0700
+9d49e0fa0f6979890b436937b3d7a7a9d95d2475|new icon|Thu, 23 Jun 2016 13:43:46 -0700|Thu, 23 Jun 2016 13:43:46 -0700
+daba11727d09dcaf3e25dd3139eff449177bbcb4|Adjust env variables|Thu, 23 Jun 2016 12:08:30 -0700|Thu, 23 Jun 2016 12:08:30 -0700
+cb9e98839006b7cbab63d2ee36f8e5621aa76f7b|k8s template test|Thu, 23 Jun 2016 11:19:37 -0700|Thu, 23 Jun 2016 11:19:37 -0700
+f6368588205856ea1dac491e95c1bca6377a7da0|more versions|Wed, 25 May 2016 11:57:07 -0700|Wed, 25 May 2016 11:57:07 -0700
+a56c2a8c1c5842afa4553d87909c9da2bc94cb86|marathon|Tue, 24 May 2016 16:25:45 -0700|Tue, 24 May 2016 16:25:45 -0700
+1aafdb08fff24f4ccbf4ba7d19097f11c1fc2a3d|Networking hack|Tue, 24 May 2016 13:01:29 -0700|Tue, 24 May 2016 13:01:29 -0700
+f4287915b21202fd2cd9f32256a07ef784e7842c|privileged|Tue, 24 May 2016 11:57:31 -0700|Tue, 24 May 2016 11:57:31 -0700
+4bdbdf59df64c6d731e5fe6eb882415ea4d68a1d|add SYS_ADMIN capability to unmount /etc/hosts|Tue, 24 May 2016 11:49:32 -0700|Tue, 24 May 2016 11:49:32 -0700
+3ccc98cce860a36881440e52220c68a8485de7c2|elevate privileges|Tue, 24 May 2016 11:36:40 -0700|Tue, 24 May 2016 11:36:40 -0700
+559422e69247663a0829c05bfc64e887c8fd14a2|add NET_ADMIN|Mon, 23 May 2016 17:14:56 -0700|Mon, 23 May 2016 17:14:56 -0700
+aa85287eb04e904f743de5075dcd6f4a7d4a2b2e|oof|Mon, 23 May 2016 12:42:25 -0700|Mon, 23 May 2016 12:42:25 -0700
+ae264ab3f034b20782fbddc8be3560f64f04a5f8|net none|Mon, 23 May 2016 12:39:37 -0700|Mon, 23 May 2016 12:39:37 -0700
+c3479fffd3e2f5aaa51845338f334b37ed5f192c|Remove zookeeper/mesos template parameters, hard-code to system stack|Mon, 23 May 2016 11:19:35 -0700|Mon, 23 May 2016 11:19:35 -0700
+9119f277d1d058dff1b5b62e13640b823232bc21|remove components that belong in system stack|Mon, 23 May 2016 11:19:08 -0700|Mon, 23 May 2016 11:19:08 -0700
+661dfe5faef76b7327b16e8ebab89945c2c9de71|Add build script back|Thu, 28 Apr 2016 09:35:28 -0700|Thu, 28 Apr 2016 09:35:28 -0700
+1addd6c365a99631050aa149acd655f9a74d3e20|use rancher images, hide system components|Thu, 28 Apr 2016 09:24:21 -0700|Thu, 28 Apr 2016 09:24:21 -0700
+104af7d6fb72792ff3f2b498da4e139f2125b33b|remove logstash|Wed, 27 Apr 2016 02:37:28 -0700|Wed, 27 Apr 2016 02:37:28 -0700
+4c86099f6cb7a2564f40676d5a7edee7efa53044|dash not underscore|Wed, 27 Apr 2016 02:36:55 -0700|Wed, 27 Apr 2016 02:36:55 -0700
+dbd87e8f92b5520eb2581f73d255b2fd92c0171b|Rename base folder to denote templates for Mesos environment only|Tue, 26 Apr 2016 14:11:08 -0700|Tue, 26 Apr 2016 14:11:08 -0700
+fcbf1cf61b3451dd49b9edda635008f222ec5cae|Bugfixes|Tue, 26 Apr 2016 14:10:38 -0700|Tue, 26 Apr 2016 14:10:38 -0700
+662c0050a327148f4fc3f2c1f305c65bd65bcff3|Eliasticsearch image|Tue, 26 Apr 2016 14:09:45 -0700|Tue, 26 Apr 2016 14:09:45 -0700
+0d2a32ac93511f35693e0695fa1e41abcb7be029|Aurora image|Tue, 26 Apr 2016 14:08:46 -0700|Tue, 26 Apr 2016 14:08:46 -0700
+e5b64116e1b8139bcd3a7eef8cd25092db7172d9|Add icon|Tue, 26 Apr 2016 14:08:03 -0700|Tue, 26 Apr 2016 14:08:03 -0700
+af5a0bf46e0bc215a58a6c200a38679fc7ad5674|Remove version|Tue, 26 Apr 2016 14:07:55 -0700|Tue, 26 Apr 2016 14:07:55 -0700
+e68d79d5d0b5b0d5d022ea48604d3a16b9b2d936|health check fix|Mon, 25 Apr 2016 16:06:20 -0700|Mon, 25 Apr 2016 16:06:20 -0700
+1e410b1b8d770b756d3770b8f1ef2575696fefde|Aurora template|Mon, 25 Apr 2016 16:02:40 -0700|Mon, 25 Apr 2016 16:02:40 -0700
+ecfab8b55ceec8ee80e217828abae2fd1cde865b|Genericize build script, refactor docker images, remove multiple base image support|Fri, 22 Apr 2016 16:42:32 -0700|Fri, 22 Apr 2016 16:42:32 -0700
+6ccb78f51cff21ceaceeae28c7ddbd992b3a9998|Refactor mesos into base image|Thu, 21 Apr 2016 16:46:01 -0700|Thu, 21 Apr 2016 16:46:01 -0700
+f2301d2368c438b11147b8ca39459c5fe68a8a54|Move readme|Thu, 21 Apr 2016 16:44:49 -0700|Thu, 21 Apr 2016 16:44:49 -0700
+c316e70d9a200c9fe0cadf23f96207812155aaa7|Move icon|Thu, 21 Apr 2016 16:43:58 -0700|Thu, 21 Apr 2016 16:43:58 -0700
+3571dd32827647b5f77d8916c28b62e8b4ce03b0|add icon|Thu, 21 Apr 2016 16:42:55 -0700|Thu, 21 Apr 2016 16:42:55 -0700
+40a0069b17dfc15e1f0fdc3119faa7a7f425bca9|Tweaks, documentation|Thu, 21 Apr 2016 16:39:11 -0700|Thu, 21 Apr 2016 16:39:11 -0700
+a09c5622ce23a9292d87800268f95f446ffe3ba1|Kafka scheduler template|Thu, 21 Apr 2016 15:25:15 -0700|Thu, 21 Apr 2016 15:25:15 -0700
+20df47b06198dc207d37cc595fc7b1ce98d682fa|Update description|Thu, 21 Apr 2016 12:39:18 -0700|Thu, 21 Apr 2016 12:39:18 -0700
+6108f86af5e8e9611d0185e9d14e3fa1cb3e6ede|Hostname fix|Thu, 21 Apr 2016 12:38:07 -0700|Thu, 21 Apr 2016 12:38:07 -0700
+1e4d3c540c94dd2e94a16f4aaf836c72f140e220|Hostname fix|Thu, 21 Apr 2016 12:37:42 -0700|Thu, 21 Apr 2016 12:37:42 -0700
+ddc7c8dc87dd0ab51dc47a8ea1f77f3fbb66b6e6|Passthrough environment variables|Thu, 21 Apr 2016 12:04:48 -0700|Thu, 21 Apr 2016 12:04:48 -0700
+fb30e0110ee42cbbb3da521bafdf6f15d085ec89|Parameterize node scale|Thu, 21 Apr 2016 10:52:50 -0700|Thu, 21 Apr 2016 10:52:50 -0700
+edd7ecf846c7e0dd4151ecdb999279c532db0184|Fix zk timeout|Thu, 21 Apr 2016 10:18:00 -0700|Thu, 21 Apr 2016 10:18:00 -0700
+6e7c2cee2b14a074fe299bee4111b634e9cc7b6f|remove old image|Tue, 19 Apr 2016 14:42:25 -0700|Tue, 19 Apr 2016 14:42:25 -0700
+cc40b9e055ea510d6c5a1ca1143f5f59127d5186|Fix name|Tue, 19 Apr 2016 14:40:47 -0700|Tue, 19 Apr 2016 14:40:47 -0700
+2bda293ba24153b7b5b966973d2231b8bc9ac360|Aurora framework initial commit|Tue, 19 Apr 2016 14:38:12 -0700|Tue, 19 Apr 2016 14:38:12 -0700
+5332a59aa02dc9714581b9b600995b693f113b02|Add icons contributed by Lauren Vuchetich|Tue, 19 Apr 2016 14:34:29 -0700|Tue, 19 Apr 2016 14:34:29 -0700
+a7214284d4af45133cd91c03ad91fe744593c80e|Parameterize scheduler port|Tue, 19 Apr 2016 13:22:24 -0700|Tue, 19 Apr 2016 13:22:24 -0700
+3dbbb3a05d6ac203abe04f59ec7358a95c543843|Elasticsearch framework initial commit|Tue, 19 Apr 2016 13:19:37 -0700|Tue, 19 Apr 2016 13:19:37 -0700
+dd45e29d0791f0c8ecbe63ba50c49cc2d5d8f7b0|Simplify|Mon, 18 Apr 2016 22:32:08 -0700|Mon, 18 Apr 2016 22:32:08 -0700
+423f9b6c1cf8dbc45053b16eebd72c09dc11c5a9|Adjust scale|Mon, 18 Apr 2016 22:10:40 -0700|Mon, 18 Apr 2016 22:10:40 -0700
+6205478395e67816de146e739143c18503f6a889|Adjust scale|Mon, 18 Apr 2016 22:04:09 -0700|Mon, 18 Apr 2016 22:04:09 -0700
+351c6525de910d66454d273b09fea2422d0270d1|update description|Mon, 18 Apr 2016 21:53:47 -0700|Mon, 18 Apr 2016 21:53:47 -0700
+e9570fe4808356fea9f950ccca6b1a8f27ade2fe|Adjust scale|Mon, 18 Apr 2016 21:38:55 -0700|Mon, 18 Apr 2016 21:52:30 -0700
+41f242de9f5f16a0b00f2aee5ff65ed68c1c7313|icon contributed by Lauren Vuchetich|Mon, 18 Apr 2016 21:14:29 -0700|Mon, 18 Apr 2016 21:14:29 -0700
+1b054b41b450ae79a6f7f007941f4cb56564d37c|Updated icon contributed by Lauren Vuchetich|Mon, 18 Apr 2016 15:09:10 -0700|Mon, 18 Apr 2016 15:09:10 -0700
+bd66dde6c09a40c0029e32fc5cbe86be9dadc19a|version tweaks|Fri, 15 Apr 2016 16:35:39 -0700|Fri, 15 Apr 2016 16:35:39 -0700
+2a47aca79dcf2bd6db56da54ad6552cb4fc3e9eb|Chronos framework image and template|Fri, 15 Apr 2016 16:31:33 -0700|Fri, 15 Apr 2016 16:31:33 -0700
+b3d010ddc7144752d4000584fdcd4a4acb7b0898|do not use System category|Fri, 15 Apr 2016 15:39:28 -0700|Fri, 15 Apr 2016 15:39:28 -0700
+b8f7b04620c686f68e49112ee0d544fbc061a712|Ubuntu/centos marathon image template|Fri, 15 Apr 2016 15:34:14 -0700|Fri, 15 Apr 2016 15:34:14 -0700
+21bd2bc2a3b3273b8327558a1d20b72a8a0466a6|Recategorize|Fri, 15 Apr 2016 14:39:39 -0700|Fri, 15 Apr 2016 14:39:39 -0700
+28b97df3110ef0a8609c0928aa6d7a4cf1bd386c|Increase health check frequency|Fri, 15 Apr 2016 12:12:26 -0700|Fri, 15 Apr 2016 12:12:26 -0700
+f5a5f482fc7c8053bf0bcaeb8a0e1f5e67d8fdbf|derive framework name from stack name|Fri, 15 Apr 2016 12:07:01 -0700|Fri, 15 Apr 2016 12:07:01 -0700
+5200a1fed9073b93841fd6146909e8193c669963|stack, not service as chroot|Fri, 15 Apr 2016 12:00:21 -0700|Fri, 15 Apr 2016 12:00:21 -0700
+27d063744a8e188182601cbdcca62e4abb8f75ac|refactor|Fri, 15 Apr 2016 11:57:39 -0700|Fri, 15 Apr 2016 11:57:39 -0700
+c81223936ac15ddebfbe6ff4dc71f3ac788da03a|Slave port fix|Fri, 15 Apr 2016 11:35:08 -0700|Fri, 15 Apr 2016 11:35:08 -0700
+e1ac2c0b17943c3f258885e81e40edc32cf4ba4f|Expose parameterized slave port for sandbox communication|Fri, 15 Apr 2016 11:28:20 -0700|Fri, 15 Apr 2016 11:28:20 -0700
+6a2ac97a7ef3166144d0000796b388261960ddfb|marathon image fixes|Fri, 15 Apr 2016 11:21:58 -0700|Fri, 15 Apr 2016 11:21:58 -0700
+0b93b42bd0068d12ceb86f62e8274f63943bc7ad|Fix marathon port variable|Fri, 15 Apr 2016 11:17:14 -0700|Fri, 15 Apr 2016 11:17:14 -0700
+d62c8cf5b9b22579788c95fa6763331c16f22dda|yaml fix|Fri, 15 Apr 2016 11:04:27 -0700|Fri, 15 Apr 2016 11:04:27 -0700
+4bfbb67a42cf67c0f6fce01dc4ff8cd3e43ddf62|Health check, parameterize port|Fri, 15 Apr 2016 11:03:08 -0700|Fri, 15 Apr 2016 11:03:08 -0700
+691e2dafaab39f7996bb2286446dc325f8166f1e|Fix port|Fri, 15 Apr 2016 10:47:26 -0700|Fri, 15 Apr 2016 10:47:26 -0700
+3a11d89b3e793f22c6d4e5120f9c4dacc71440ce|Update description|Fri, 15 Apr 2016 10:31:05 -0700|Fri, 15 Apr 2016 10:31:05 -0700
+34565e5ca16522df2835588ade335046fec2d252|Cleanup descriptions|Fri, 15 Apr 2016 10:28:38 -0700|Fri, 15 Apr 2016 10:28:38 -0700
+2e6d1dd678a69ce9784e14053ac77eb014f0476c|Upstream master/slave images to override work dir|Fri, 15 Apr 2016 05:09:41 -0700|Fri, 15 Apr 2016 05:09:41 -0700
+c1a0eab55c78e09e41c326ddc6399e6da9d1c0fe|d'oh|Fri, 15 Apr 2016 04:04:50 -0700|Fri, 15 Apr 2016 04:04:50 -0700
+3c6d61892f833c35c793e80aa0855ca70f96d8c2|persistent data|Fri, 15 Apr 2016 03:58:48 -0700|Fri, 15 Apr 2016 03:58:48 -0700
+2936732b6752e3dc6c4a291ab0167642eaa265e5|Move marathon image|Fri, 15 Apr 2016 03:25:38 -0700|Fri, 15 Apr 2016 03:25:38 -0700
+bb8073b9d2a1a5a2a178d60eb8e7696639e5deac|Categorize|Fri, 15 Apr 2016 03:13:07 -0700|Fri, 15 Apr 2016 03:13:07 -0700
+d39af388fece25a8ab0c1473025ba5b6a5a780d1|Organize|Fri, 15 Apr 2016 03:07:53 -0700|Fri, 15 Apr 2016 03:07:53 -0700
+47dbe0abff0a3e56eba496721e2326fda0ecaf06|Remove slave port configuration, there is no purpose|Fri, 15 Apr 2016 02:22:48 -0700|Fri, 15 Apr 2016 02:22:48 -0700
+e6f5f7c641f0f82a4277eee39f9ab7a3b7d6fe97|Combine master/slave templates|Fri, 15 Apr 2016 02:21:54 -0700|Fri, 15 Apr 2016 02:21:54 -0700
+f36f7fab26eaed997861b7a7235bbb0b33199d96|TCP health check instead of HTTP|Fri, 15 Apr 2016 01:40:31 -0700|Fri, 15 Apr 2016 01:40:31 -0700
+939a27e5754cac198df30d5253c35c5d5e73f3f7|Define port but do not expose|Fri, 15 Apr 2016 01:22:53 -0700|Fri, 15 Apr 2016 01:22:53 -0700
+df6e430113898b7255f38456655ead7333f488be|parameterize slave port|Fri, 15 Apr 2016 01:15:07 -0700|Fri, 15 Apr 2016 01:15:07 -0700
+5608f2748d979419d37041765cf4de53b24bd131|interpolation fix|Fri, 15 Apr 2016 01:07:54 -0700|Fri, 15 Apr 2016 01:07:54 -0700
+c08fe7dfc48cdee6217cec5fee163849bee1ab3c|Chroot tweak|Fri, 15 Apr 2016 01:02:53 -0700|Fri, 15 Apr 2016 01:02:53 -0700
+92c22f7b81bbf83b304d9e852e0dade3e4b4bf85|Entrypoint refactor, mesos slave health check|Fri, 15 Apr 2016 00:58:54 -0700|Fri, 15 Apr 2016 00:58:54 -0700
+79844ae206ade347385041d8e1a4dc77c7b9a174|Remove|Thu, 14 Apr 2016 23:45:32 -0700|Thu, 14 Apr 2016 23:45:32 -0700
+e11e8ecea0f2b54a01a5144f76443d2583e2fd2a|Update icon|Thu, 14 Apr 2016 23:45:12 -0700|Thu, 14 Apr 2016 23:45:12 -0700
+a603011a72bbf13f01879205e874afe94a0d60c0|Put chroot back, stack_name doesn't evaluat|Thu, 14 Apr 2016 22:17:40 -0700|Thu, 14 Apr 2016 22:17:40 -0700
+198a6d2a66d91e0f9424eee640f5f6f0cdb858e2|Derive master chroot from stack name|Thu, 14 Apr 2016 22:08:12 -0700|Thu, 14 Apr 2016 22:08:12 -0700
+cf8db3f508a6c63b1befef049cb84b6683b346a4|Default to HA quorum=2 setup|Thu, 14 Apr 2016 21:50:34 -0700|Thu, 14 Apr 2016 21:50:34 -0700
+0c48e1852c687b2bc142d4c3b2797cf69a293acf|Cleanup mesos image versions|Thu, 14 Apr 2016 21:46:22 -0700|Thu, 14 Apr 2016 21:46:22 -0700
+d03a574535564fa2f343c9694a711a474c0bfef7|mesos master health check|Thu, 14 Apr 2016 21:24:39 -0700|Thu, 14 Apr 2016 21:24:39 -0700
+8a5aab8796b8d1ad1170c7fb8c3beb166ffc4803|Add readme|Thu, 14 Apr 2016 21:05:52 -0700|Thu, 14 Apr 2016 21:05:52 -0700
+94cdd716cce886f0b86ebf8a76646a155cf90a8c|Reorganize|Thu, 14 Apr 2016 21:00:25 -0700|Thu, 14 Apr 2016 21:00:25 -0700
+d9d61e25fb570ee70ddf2f51d1e4003c66d0a4fb|Marathon template|Thu, 14 Apr 2016 20:58:14 -0700|Thu, 14 Apr 2016 20:58:14 -0700
+cf3bec7fb0ec2cec7da25a7332ce89d141e767e0|HA Mesos master/slave templates|Thu, 14 Apr 2016 20:57:30 -0700|Thu, 14 Apr 2016 20:57:30 -0700
+ce32d2c997c9dc80d6e295405e712133fa2c1bd4|Port zookeeper from community catalog|Thu, 14 Apr 2016 20:57:13 -0700|Thu, 14 Apr 2016 20:57:13 -0700
+cb8916969c2e95fc2908b08f00626cbd98106497|Initial commit|Thu, 14 Apr 2016 20:52:03 -0700|Thu, 14 Apr 2016 20:52:03 -0700

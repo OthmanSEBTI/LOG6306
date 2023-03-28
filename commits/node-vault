@@ -1,0 +1,307 @@
+18597dde8d435f564f47b7780fb2edf2d9084e4f|0.9.22|Wed, 23 Jun 2021 21:27:43 +0200|Wed, 23 Jun 2021 21:27:43 +0200
+e8e91549dc7b8c53364235a7d307d0318874565e|Not modifying imports to avoid maximum callstack error|Fri, 5 Feb 2021 16:38:44 +0100|Wed, 23 Jun 2021 21:25:48 +0200
+70097269d35a58bb560b5290190093def96c87b1|0.9.21|Mon, 28 Dec 2020 20:04:14 +0100|Mon, 28 Dec 2020 20:04:14 +0100
+bb059cf4452bc6bcf0df513bca70c5603ee7efc6|fix: add gcpLogin type definition|Wed, 11 Mar 2020 14:39:37 -0400|Mon, 28 Dec 2020 20:03:05 +0100
+0fa666afb9da14f25cf054e195c18b5a560fcaed|Update README.md|Sun, 4 Oct 2020 21:25:43 +0200|Sun, 4 Oct 2020 21:25:43 +0200
+3236ec706ab6acfbde8c8e62b522355be461f3ae|Update README.md|Sun, 4 Oct 2020 21:24:01 +0200|Sun, 4 Oct 2020 21:24:01 +0200
+5d123812eeadd447f30503bdd9e59ea5fe3a5a7a|0.9.20|Mon, 3 Aug 2020 19:40:55 +0200|Mon, 3 Aug 2020 19:40:55 +0200
+00d7ce5bba5d6d154f45f6112544043236207ecb|add aws authentication using the IAM method|Mon, 15 Jun 2020 15:03:39 -0600|Mon, 3 Aug 2020 19:39:18 +0200
+01cf59af4649ada41adef87e37eb3d85b71c7311|0.9.19|Mon, 3 Aug 2020 19:26:12 +0200|Mon, 3 Aug 2020 19:26:12 +0200
+82da0470eba8def4c79ca560f06b1556f44f9fd1|added Kevin Stiehl as contributor|Mon, 3 Aug 2020 19:26:00 +0200|Mon, 3 Aug 2020 19:26:00 +0200
+4ff39fef0c62fb08a10093b800a625bb19db9f1f|added namespace to VaultOptions (#162)|Mon, 3 Aug 2020 19:19:20 +0200|Mon, 3 Aug 2020 19:19:20 +0200
+4fb2c1d345367d934119a35d98ebe948319bd775|Added missing attributes to VaultOptions model (#154)|Mon, 3 Aug 2020 13:11:30 -0400|Mon, 3 Aug 2020 19:11:30 +0200
+496657bedf19e1129fd790c23ae932c6fbd424af|0.9.18|Thu, 11 Jun 2020 21:33:52 +0200|Thu, 11 Jun 2020 21:33:52 +0200
+ccd7942f1382f5a6b9fa6f9857db94e859d25097|add Konstantin Matsiushonak as contributor|Thu, 11 Jun 2020 21:33:40 +0200|Thu, 11 Jun 2020 21:33:40 +0200
+ee3d8725189991a439f60a91dfa13a8d94f3960a|feat(vault-namespace): set 'X-Vault-Namespace' when a client has it (#137)|Thu, 11 Jun 2020 19:32:11 +0000|Thu, 11 Jun 2020 21:32:11 +0200
+6d6a6fa6e1757f999893988c12a473e38a23d780|0.9.17|Thu, 11 Jun 2020 21:11:17 +0200|Thu, 11 Jun 2020 21:11:17 +0200
+6aca501d0ac1e6e7f92dde6337f2a7851f02e93c|Adding ability to supply an HTTP Agent (#125)|Thu, 11 Jun 2020 12:03:43 -0700|Thu, 11 Jun 2020 21:03:43 +0200
+b9e794f4d8468e6ba6f7728d8fee89beaece972a|0.9.16|Wed, 3 Jun 2020 12:08:50 +0200|Wed, 3 Jun 2020 12:08:50 +0200
+7797e13514668cfa3b57ef61534d0b02e9fccf68|remove snyk from dependencies|Wed, 3 Jun 2020 12:08:40 +0200|Wed, 3 Jun 2020 12:08:40 +0200
+17f06aa3dfd17ed7bf477c1dfa4e2cedfd7a7cd6|0.9.15|Thu, 26 Mar 2020 23:43:44 +0100|Thu, 26 Mar 2020 23:43:44 +0100
+a767fa5e7999d5666c4b4be0ad757128bd0d136d|add Mark Frost as contributor|Thu, 26 Mar 2020 23:43:22 +0100|Thu, 26 Mar 2020 23:43:22 +0100
+c6efbde3efbe662a64f09dfca406f12b59433a3c|update yarn.lock|Thu, 26 Mar 2020 23:42:26 +0100|Thu, 26 Mar 2020 23:42:26 +0100
+6d3bee6172e77473980d2a332a8a26c3d67cf8a3|approleSecretAccessorLookup() requires parameter 'secret_id_accessor' (#117)|Thu, 26 Mar 2020 22:38:37 +0000|Thu, 26 Mar 2020 23:38:37 +0100
+f397ed89158660a7adb8daf2d577edba84dcbc6f|0.9.14|Thu, 26 Mar 2020 23:25:58 +0100|Thu, 26 Mar 2020 23:25:58 +0100
+3827df0d307a78312faad0476697e68b1a6edf61|Marked all methods that generate a tokenResponse as tokenSource methods (#104)|Thu, 26 Mar 2020 18:22:10 -0400|Thu, 26 Mar 2020 23:22:10 +0100
+1794100874b4fcb9401948a71b692bc4d9ad7ad5|fix: .snyk & package.json to reduce vulnerabilities (#132)|Sun, 1 Mar 2020 13:49:20 +0100|Sun, 1 Mar 2020 13:49:20 +0100
+9ae0ac4045d61e8fcbf4e369e9936a11c99f6323|0.9.13|Sun, 1 Mar 2020 13:28:46 +0100|Sun, 1 Mar 2020 13:28:46 +0100
+bcd3aa53e34ed1467f4c1060f1724aa160b4503f|add Brandon Ross as contributor|Sun, 1 Mar 2020 13:28:41 +0100|Sun, 1 Mar 2020 13:28:41 +0100
+9a27b0d74104ab94ab0a23203f3fe44b47c703a2|Ship index.d.ts (#142)|Sun, 1 Mar 2020 07:25:15 -0500|Sun, 1 Mar 2020 13:25:15 +0100
+f31565d3f540b2fa9de967c7c9340072b2074dd0|Bump handlebars from 4.1.2 to 4.5.3 (#144)|Sun, 1 Mar 2020 13:02:22 +0100|Sun, 1 Mar 2020 13:02:22 +0100
+bca2822ee670c02ac3c4de12720f6272beae5c34|Merge branch 'master' of github.com:kr1sp1n/node-vault|Tue, 3 Dec 2019 11:27:46 +0100|Tue, 3 Dec 2019 11:27:46 +0100
+d760e3eea745c062d36372580b3930b1df618697|0.9.12|Tue, 3 Dec 2019 11:26:02 +0100|Tue, 3 Dec 2019 11:26:02 +0100
+0951e25e13c55d256c696264f8fa9b6a1659636c|Add TypeScript definition + transit/database support (#115)|Tue, 3 Dec 2019 05:25:14 -0500|Tue, 3 Dec 2019 11:25:14 +0100
+c1d91b9973c0f02256112bed02cf8c4c7c5d5a31|Bump mixin-deep from 1.3.1 to 1.3.2 (#138)|Fri, 30 Aug 2019 22:27:57 +0200|Fri, 30 Aug 2019 22:27:57 +0200
+f4f8d1a66c0b920b31bb4b023776fcab77264675|Add Open Collective badge and button|Tue, 27 Aug 2019 23:32:26 +0200|Tue, 27 Aug 2019 23:32:26 +0200
+551a93c2bcbd3f59b16f46a13c6b0a14506875af|Create FUNDING.yml|Tue, 27 Aug 2019 23:05:33 +0200|Tue, 27 Aug 2019 23:05:33 +0200
+df8f69b470cf78fb75fd263bada9d3ce4bdd7480|0.9.11|Wed, 14 Aug 2019 09:04:48 +0200|Wed, 14 Aug 2019 09:04:48 +0200
+10f72a5bd0434cf3c63d376299b41bb80b491758|update contributors|Wed, 14 Aug 2019 09:04:27 +0200|Wed, 14 Aug 2019 09:04:27 +0200
+6a45ae86fd57894c91addac6686d9fb9f9b23a16|Bump lodash from 4.17.11 to 4.17.14 (#134)|Wed, 14 Aug 2019 08:27:43 +0200|Wed, 14 Aug 2019 08:27:43 +0200
+cc0ebb065cd7ea9c578897ffbcf7fdf476f2af22|fix: Avoid multiple `defaults` wrapping for request. (#127)|Tue, 13 Aug 2019 11:08:49 -0700|Tue, 13 Aug 2019 20:08:49 +0200
+1f2edc3ef190187e023f6441d10a55a590d268db|0.9.10|Thu, 27 Jun 2019 09:30:09 +0200|Thu, 27 Jun 2019 09:30:09 +0200
+f7cb8894a31a32ef5997fdc0d664eaff34792bf6|fixing addApproleRole command (#120)|Thu, 27 Jun 2019 00:19:02 -0700|Thu, 27 Jun 2019 09:19:02 +0200
+48a0864460fa660a00c71322428318e1929ccc30|Bump handlebars from 4.0.10 to 4.1.2 (#130)|Tue, 25 Jun 2019 23:26:42 +0200|Tue, 25 Jun 2019 23:26:42 +0200
+39b07316a1508a3825704b02c64600c0d336f2e1|Bump sshpk from 1.13.1 to 1.16.1 (#129)|Tue, 25 Jun 2019 23:15:12 +0200|Tue, 25 Jun 2019 23:15:12 +0200
+105cf299e70d972d988b31e5e8e1cce87d14b2ed|0.9.9|Fri, 31 May 2019 18:51:57 +0200|Fri, 31 May 2019 18:51:57 +0200
+100942397de82738008b945f477ec0d3ce63bd33|add Ryan Lewis as contributor|Fri, 31 May 2019 18:51:37 +0200|Fri, 31 May 2019 18:51:37 +0200
+67ad57376287335d1dd8d9b18e91ebaecb8c7e93|secret_id is no longer required (#89)|Fri, 31 May 2019 17:49:11 +0100|Fri, 31 May 2019 18:49:11 +0200
+cf64fd5e616c85a272545960876aa5a59befb881|0.9.8|Thu, 18 Apr 2019 11:12:59 +0200|Thu, 18 Apr 2019 11:12:59 +0200
+65fffd83834da664d51f794da1e92af1932d6b66|Update contributors|Thu, 18 Apr 2019 11:12:28 +0200|Thu, 18 Apr 2019 11:12:28 +0200
+1123c419d425488ed0b0772db3a07abd434484df|providing an alternative to the LIST verb (#121)|Thu, 18 Apr 2019 02:10:15 -0700|Thu, 18 Apr 2019 11:10:15 +0200
+05257198098304250b169108f4a350fd99890f6d|Merge pull request #112 from mpareja/patch-3|Thu, 18 Apr 2019 11:02:42 +0200|Thu, 18 Apr 2019 11:02:42 +0200
+4fd925023d7a06d9df51d27ed87b1d7665a3832e|Merge branch 'master' into patch-3|Thu, 18 Apr 2019 10:57:26 +0200|Thu, 18 Apr 2019 10:57:26 +0200
+8149bf12685d33af31d492a4c8dbc2aa84758a31|0.9.7|Wed, 6 Mar 2019 16:00:32 +0100|Wed, 6 Mar 2019 16:00:32 +0100
+c136ff3d98f76d5029b821fefbafb98a843522ce|upgrade outdated packages and add more contributors|Wed, 6 Mar 2019 16:00:12 +0100|Wed, 6 Mar 2019 16:00:12 +0100
+6980d48571e3fb619f4cf32db9a773d50526a9b9|Merge pull request #109 from mpareja/patch-1|Fri, 22 Feb 2019 22:10:23 +0100|Fri, 22 Feb 2019 22:10:23 +0100
+6e284138904a3c5acc6870137dd1f043e59f0c9c|travis: run tests for node 10|Wed, 20 Feb 2019 10:05:41 -0500|Fri, 22 Feb 2019 15:51:59 -0500
+6cc279b6497a72cfdfd1780978197fc61a857f15|kubernetesLogin: make it a token source|Tue, 12 Feb 2019 21:39:39 -0500|Fri, 22 Feb 2019 15:50:51 -0500
+b473a1683f7af2a30da78590be9da44332268a82|0.9.6|Fri, 22 Feb 2019 17:42:06 +0100|Fri, 22 Feb 2019 17:42:06 +0100
+97463f159649c0a2337dc00edfdcb271ee6de6e2|Merge pull request #106 from saranrapjs/gcp-login|Fri, 22 Feb 2019 17:38:47 +0100|Fri, 22 Feb 2019 17:38:47 +0100
+3eee3cde16c74f72653e977e7ebc6745d4ec82b3|Merge remote-tracking branch 'upstream/master' into gcp-login|Wed, 20 Feb 2019 07:24:43 -0500|Wed, 20 Feb 2019 07:24:43 -0500
+06c1860168cbbe3adcfac334dd29b3afa9833466|Merge pull request #111 from kr1sp1n/feature/remove-nsp|Wed, 20 Feb 2019 08:17:43 +0100|Wed, 20 Feb 2019 08:17:43 +0100
+733936b245b983303ae1a24d73cc2312bf0842a9|remove nsp|Wed, 20 Feb 2019 08:09:09 +0100|Wed, 20 Feb 2019 08:09:09 +0100
+e2c087a4a567d84fe03ee4565869f73dcbd2507e|adding gcp login to auth types|Tue, 15 Jan 2019 11:41:19 -0500|Tue, 15 Jan 2019 11:41:19 -0500
+92bbc914366ad403bff4900acb50105936d23151|0.9.5|Tue, 4 Dec 2018 11:30:59 +0100|Tue, 4 Dec 2018 11:30:59 +0100
+cc0049cf94229463d4caed1502cb53691d2d4ae8|Merge pull request #105 from telus/fix-unseal|Tue, 4 Dec 2018 11:27:40 +0100|Tue, 4 Dec 2018 11:27:40 +0100
+533e538c6ad1de518701702ea2d1daa9556f0646|Merge branch 'master' into fix-unseal|Mon, 3 Dec 2018 13:19:34 -0800|Mon, 3 Dec 2018 13:19:34 -0800
+efdbedcd6fc6790ed1720ef10de47a6957fa0c01|fix(unseal): add unseal schema|Mon, 3 Dec 2018 13:11:27 -0800|Mon, 3 Dec 2018 13:11:27 -0800
+1e1a7a28b41d97e493077fbe2624bec2841e9410|0.9.4|Thu, 29 Nov 2018 08:51:32 +0100|Thu, 29 Nov 2018 08:51:32 +0100
+369f6a74067d869ffc0a26c236e5e3648b45d4b5|add Saverio Proto, Tom Vogel and Jonathan Bastnagel to the list of contributors|Thu, 29 Nov 2018 08:51:13 +0100|Thu, 29 Nov 2018 08:51:13 +0100
+c8ad20c9c0b27f202be2c07d9cbd9749bc9d36bf|Merge pull request #94 from inkadnb/master|Thu, 29 Nov 2018 08:35:06 +0100|Thu, 29 Nov 2018 08:35:06 +0100
+976b6046241a7b130c892bcf3f84a92a35c5c015|Merge branch 'master' into master|Thu, 29 Nov 2018 08:18:44 +0100|Thu, 29 Nov 2018 08:18:44 +0100
+d8861f30548e2e3e5f82fa63eef7877e9767eccb|Merge pull request #102 from telus/master|Thu, 29 Nov 2018 08:17:20 +0100|Thu, 29 Nov 2018 08:17:20 +0100
+abfeb84d53d0237db2ebb482b76c1d36497c0f66|Merge branch 'master' into master|Thu, 29 Nov 2018 07:24:34 +0100|Thu, 29 Nov 2018 07:24:34 +0100
+3daa67e086ea0512fd412b79ca85a59e17b045af|Merge pull request #100 from zioproto/okta-example|Thu, 29 Nov 2018 07:23:38 +0100|Thu, 29 Nov 2018 07:23:38 +0100
+2cc38dd883b4ecfbab81b6d2178ec165fa701c9d|Add tests for request & schemaless|Wed, 28 Nov 2018 11:22:43 -0800|Wed, 28 Nov 2018 11:22:43 -0800
+9d323ac7be8ba480a666eeb9f3dcd9d42b3b994e|Merge branch 'master' into okta-example|Wed, 28 Nov 2018 07:32:01 +0100|Wed, 28 Nov 2018 07:32:01 +0100
+dc6d8fd17ffd2b37d1120d1698153aef264686ae|Add request body validation|Tue, 27 Nov 2018 18:15:26 -0800|Tue, 27 Nov 2018 18:15:26 -0800
+891fde104aa475315d82a0fca1024568d7050f02|Add auth okta example|Sat, 24 Nov 2018 14:18:55 +0100|Tue, 27 Nov 2018 15:20:38 +0100
+46b8d9f9c661bfb0f0194857b7e38cda5c78a455|Merge branch 'master' into master|Tue, 27 Nov 2018 15:02:47 +0100|Tue, 27 Nov 2018 15:02:47 +0100
+348d511f8eff12709d5596c802e46bb8622921b6|0.9.3|Tue, 27 Nov 2018 14:53:38 +0100|Tue, 27 Nov 2018 14:53:38 +0100
+01a92071a702ec42fe836bb18d9e900e77b0b81b|Merge pull request #93 from mpareja/token-source|Tue, 27 Nov 2018 14:52:31 +0100|Tue, 27 Nov 2018 14:52:31 +0100
+dad04e69283360dd04cfc0bb01ee6d126e61c622|Merge branch 'master' into token-source|Tue, 27 Nov 2018 14:42:19 +0100|Tue, 27 Nov 2018 14:42:19 +0100
+42c02740ed5b2da35ae85a956e95627fba1a1b37|0.9.2|Tue, 27 Nov 2018 14:36:04 +0100|Tue, 27 Nov 2018 14:36:04 +0100
+d055378ddb7a41f98f658915e9bec4548db8a8ae|add Mario Pareja and Karthik Kumar Viswanathan to the list of contributors|Tue, 27 Nov 2018 14:35:38 +0100|Tue, 27 Nov 2018 14:35:38 +0100
+a2ecbc97610011a4badb5424af98c59b5ae98464|Merge pull request #92 from mpareja/add-kubernetes|Tue, 27 Nov 2018 14:24:28 +0100|Tue, 27 Nov 2018 14:24:28 +0100
+34b4ca54e874df57ade51b0b8810bccf7d5e4824|Merge branch 'master' into add-kubernetes|Tue, 27 Nov 2018 14:15:35 +0100|Tue, 27 Nov 2018 14:15:35 +0100
+4104f7151b60e9bb9b2b8ea08eab291bb0e2fc6c|0.9.1|Tue, 27 Nov 2018 14:10:23 +0100|Tue, 27 Nov 2018 14:10:23 +0100
+7b26313993ec7cbf86862e9aa360ceba2e58ec9b|Merge pull request #91 from guilt/master|Tue, 27 Nov 2018 14:06:29 +0100|Tue, 27 Nov 2018 14:06:29 +0100
+5c2e4ddb3fbe1e05b0cb9c1e1909f8f017a229e8|Allow X-Vault-Token header override.|Sun, 9 Sep 2018 07:02:44 -0500|Sun, 9 Sep 2018 07:02:44 -0500
+d5caebf32f77b47095167545dae9a4f14b3e4046|update all login commands to be token sources|Sun, 26 Aug 2018 08:44:52 -0400|Sun, 26 Aug 2018 08:52:24 -0400
+d301a3abc7f45b03b88bd4f203bce8c15c3a344a|support updating vault token for configured commands|Sun, 26 Aug 2018 08:43:33 -0400|Sun, 26 Aug 2018 08:52:24 -0400
+87db80c865a0cb418ba99cae5e31e0d615684788|add kubernetesLogin command|Sat, 25 Aug 2018 08:55:28 -0400|Sat, 25 Aug 2018 08:55:28 -0400
+db33d75559dcd97633d28eb078a721d3765d6feb|Fixes for path prefixing on Vault. Use client.handleVaultResponse than handleVaultResponse|Thu, 16 Aug 2018 14:53:49 -0700|Thu, 16 Aug 2018 14:53:49 -0700
+ec108f7f36fec99dbbda099705433d64f9254510|0.9.0|Wed, 11 Jul 2018 15:07:24 +0200|Wed, 11 Jul 2018 15:07:24 +0200
+e119ba1f1072e336dff7b968501ee87511090ed8|Merge pull request #87 from etjung/CustomError|Wed, 11 Jul 2018 15:02:46 +0200|Wed, 11 Jul 2018 15:02:46 +0200
+63a07e5c36ed350d8f2104079e2ecb8785b0d65c|Throw custom ApiResponseError for handleVaultResponse|Fri, 6 Jul 2018 07:45:51 -0700|Fri, 6 Jul 2018 08:22:03 -0700
+3fd7a99205f1020a77b0d9ffc7e36d5b67d5d95c|0.8.0|Thu, 18 Jan 2018 11:44:29 +0100|Thu, 18 Jan 2018 11:44:29 +0100
+ecfe68e382ea344a029e4dc949e091a3266c10a4|Merge pull request #77 from DaniGuardiola/token-if-fix|Mon, 8 Jan 2018 09:59:45 +0100|Mon, 8 Jan 2018 09:59:45 +0100
+c08b360e7dbb07fa7af78437a5fdbbee50abcfbb|Fixed broken token conditional|Sun, 7 Jan 2018 04:35:48 +0100|Sun, 7 Jan 2018 04:35:48 +0100
+1b801bf8dbbcbf7754a7ee50be89da749d1df2bc|Merge pull request #74 from seyfert/lease-renew-revoke|Mon, 6 Nov 2017 20:45:03 +0100|Mon, 6 Nov 2017 20:45:03 +0100
+0ed592f9744ee6541ccba2aae45a941720cb0330|Linting|Mon, 6 Nov 2017 13:34:41 -0600|Mon, 6 Nov 2017 13:34:41 -0600
+0f4380e02a87ebc00bd08227aa330db38661c103|Fix renew and revoke lease|Sat, 4 Nov 2017 22:49:10 -0500|Sat, 4 Nov 2017 22:49:10 -0500
+7c0906b394e3cc9af42fc30437f7d3c7866d7449|Merge pull request #72 from kr1sp1n/release-0.7.1|Thu, 26 Oct 2017 18:56:21 +0200|Thu, 26 Oct 2017 18:56:21 +0200
+649ab2a8e212482e6c072ff9da9d4e4b0ce30c59|version bump|Thu, 26 Oct 2017 18:49:12 +0200|Thu, 26 Oct 2017 18:49:12 +0200
+731870b10575890ae53705246d1c36e7552bf42a|0.7.1|Thu, 26 Oct 2017 18:27:54 +0200|Thu, 26 Oct 2017 18:27:54 +0200
+f7b0ddac279f87133f0f97c331f1ab24d961e688|0.7.0|Thu, 26 Oct 2017 18:26:44 +0200|Thu, 26 Oct 2017 18:26:44 +0200
+2c42a554e7da59f17e7436eaf4df8a86ef3fa919|Merge pull request #71 from kr1sp1n/release-0.7.0|Thu, 26 Oct 2017 18:23:26 +0200|Thu, 26 Oct 2017 18:23:26 +0200
+8a5852ad65ada3550b2c9f3e06a6731b55b293e6|0.7.0|Thu, 26 Oct 2017 18:10:44 +0200|Thu, 26 Oct 2017 18:10:44 +0200
+2ab817ee96362a1bfa00f4069d853577a0189d9a|Merge pull request #61 from owenfarrell/master|Tue, 24 Oct 2017 01:36:22 +0200|Tue, 24 Oct 2017 01:36:22 +0200
+85d2109a0beb09b3588ceb083077e4fec51df3f4|Added support for multiple authentication mount points, defaulting to conventional paths Added schema attributes to userpassLogin Added LDAP, Okta, and RADIUS login commands|Tue, 10 Oct 2017 09:48:43 -0400|Sun, 22 Oct 2017 18:00:25 -0400
+7abd09a6532c48b9084e9367023f900b97db81a7|Merge pull request #69 from at88mph/master|Fri, 13 Oct 2017 09:45:47 +0200|Fri, 13 Oct 2017 09:45:47 +0200
+6e670d874ebf2c62380ad8a9539f62a8bd7c5d6b|Merge branch 'master' of https://www.github.com/kr1sp1n/node-vault|Wed, 11 Oct 2017 09:00:34 -0700|Wed, 11 Oct 2017 09:00:34 -0700
+06ae2eecf9d4dfe320622388493482eb149f1e7d|Fix tests on Travis CI|Wed, 11 Oct 2017 13:15:18 +0200|Wed, 11 Oct 2017 13:15:18 +0200
+a4b1c7dbbbeca1755b49726473bb32a546da3f8e|Merge branch 'master' of https://github.com/at88mph/node-vault|Tue, 10 Oct 2017 09:41:15 -0700|Tue, 10 Oct 2017 09:41:15 -0700
+4889e32a9d8291b6ef980eb1020704e189e92bb7|Fix Travis build errors.|Tue, 10 Oct 2017 09:40:50 -0700|Tue, 10 Oct 2017 09:40:50 -0700
+8ce5040720ddc61eee73f9bfa102da92d90c4853|Modifications post code review.|Sun, 8 Oct 2017 20:06:23 -0700|Sun, 8 Oct 2017 20:06:23 -0700
+fb6726bc92e9eae01c0b07d053cbff29f644c281|Fixes Issue #68.|Fri, 6 Oct 2017 14:13:35 -0700|Fri, 6 Oct 2017 14:13:35 -0700
+726acee477556f5cd35c226e8178cb9238636537|0.6.1|Mon, 2 Oct 2017 21:47:29 +0200|Mon, 2 Oct 2017 21:47:29 +0200
+ea394a585f8e089fd5372b711713737fd20c801c|Add 'docker version' and 'docker ps' to script section in .travis.yml|Mon, 2 Oct 2017 21:37:11 +0200|Mon, 2 Oct 2017 21:37:11 +0200
+6f22700f9ef3de24587bc0231c6ecfd6f70f9343|Add husky for precommit hook in package.json|Mon, 2 Oct 2017 21:27:48 +0200|Mon, 2 Oct 2017 21:27:48 +0200
+9ffa675cea32051456e3cd70c6e53e6478933eaf|Add node v6 and v7 to .travis.yml|Mon, 2 Oct 2017 21:21:10 +0200|Mon, 2 Oct 2017 21:21:10 +0200
+addf523e46a7e2df7557c33926c3da463d17042d|Add test-unit script to package.json|Mon, 2 Oct 2017 21:19:29 +0200|Mon, 2 Oct 2017 21:19:29 +0200
+a4491609f53cfd034b51c10f1f34d23cdc877800|Remove gulp from dev dependencies|Mon, 2 Oct 2017 21:17:34 +0200|Mon, 2 Oct 2017 21:17:34 +0200
+aba1786850692b21665c37b58ca441f375de5cfa|Merge pull request #64 from firefoxNX/master|Mon, 2 Oct 2017 21:13:45 +0200|Mon, 2 Oct 2017 21:13:45 +0200
+726b7c3f8b1491aec2b3e61d340fac4d7dd25885|changed to 8.6-alpine|Mon, 2 Oct 2017 11:03:42 -0400|Mon, 2 Oct 2017 11:03:42 -0400
+8380ad846c1924c96efd04835ca113b87f13809a|code review comments|Mon, 2 Oct 2017 09:20:54 -0400|Mon, 2 Oct 2017 09:20:54 -0400
+7c046457c918ae47ae5a6a86f06ee93c80064122|use native promise instead of bluebird removed babel use node 8 use request-promise-native|Sun, 1 Oct 2017 12:54:41 -0400|Sun, 1 Oct 2017 12:54:41 -0400
+077e190d4e39b4890dfe3b330c94024fc98a4251|0.6.0|Sun, 1 Oct 2017 05:03:20 +0200|Sun, 1 Oct 2017 05:03:20 +0200
+f98d74ce8715978b690285e7bb895818e41e333b|Fix config for travis|Sun, 1 Oct 2017 04:52:20 +0200|Sun, 1 Oct 2017 04:52:20 +0200
+eb13e9ab179549ee44684eee188365c1956c6cbe|Upgrade bluebird, debug and request-promise|Sat, 30 Sep 2017 22:27:18 +0200|Sat, 30 Sep 2017 22:27:18 +0200
+81357f844698196cf31f2543c30135612b2469c5|Merge pull request #43 from fearphage/simplify|Sat, 30 Sep 2017 22:07:29 +0200|Sat, 30 Sep 2017 22:07:29 +0200
+45eae01371ae686c56030b8552459c0dc65e6bc8|Merge branch 'master' into simplify|Thu, 7 Sep 2017 11:15:47 -0500|Thu, 7 Sep 2017 11:15:47 -0500
+55f6ec69a5b27171ca7fc3f03b3caca1c25bc7ff|Merge pull request #44 from fearphage/fix-dockerfile|Wed, 6 Sep 2017 22:51:31 +0200|Wed, 6 Sep 2017 22:51:31 +0200
+d462e490e2917cf9744f5286de6aee5186f2ffd0|Merge pull request #59 from jsdream/patch-1|Wed, 23 Aug 2017 20:57:54 +0200|Wed, 23 Aug 2017 20:57:54 +0200
+056c530c1c88402e87beb085ff30f125a5968e89|Fix promise chain|Sun, 6 Aug 2017 00:16:14 +0300|Sun, 6 Aug 2017 00:16:14 +0300
+fdcfe5de66c5bb64e21f7b6b34847eee0e5ba2d6|0.5.10|Wed, 26 Jul 2017 10:10:56 +0200|Wed, 26 Jul 2017 10:10:56 +0200
+a50cf9411e24b2d003593cded42b0c2bde6e3c24|Merge pull request #58 from siboulet/unwrap|Wed, 26 Jul 2017 10:09:03 +0200|Wed, 26 Jul 2017 10:09:03 +0200
+d99b889399f583071f3d63e0c913c40030e81051|Add support for unwrap|Wed, 26 Jul 2017 00:10:45 -0400|Wed, 26 Jul 2017 00:34:04 -0400
+e0aff1471d02095fba50a4fc44b932249775f814|0.5.9|Thu, 29 Jun 2017 17:12:25 +0200|Thu, 29 Jun 2017 17:12:25 +0200
+3560ba0440c34f4b576bba7d9fd781bd2a72244c|Merge pull request #55 from uLan08/approle|Thu, 29 Jun 2017 17:04:51 +0200|Thu, 29 Jun 2017 17:04:51 +0200
+094445a4ab831147d2b7658582fe2d159b08a761|label not matching file name|Wed, 28 Jun 2017 10:22:42 +0800|Wed, 28 Jun 2017 10:22:42 +0800
+79520d0dc409400ccdfecd67ab12379d5d76e557|0.5.8|Tue, 27 Jun 2017 14:22:43 +0200|Tue, 27 Jun 2017 14:22:43 +0200
+543f596095ee48ffa75c2f7cf3b35fcb753ae7f0|Merge pull request #54 from uLan08/master|Tue, 27 Jun 2017 14:18:52 +0200|Tue, 27 Jun 2017 14:18:52 +0200
+4d40b5fa817f14826b4a3a81a087c4ac2d5e17ba|Add required newline at end of file|Tue, 27 Jun 2017 12:13:46 +0800|Tue, 27 Jun 2017 12:13:46 +0800
+f5a1c710ae5bae7a7ed24525c220bfe6415f4526|Eslint errors|Fri, 23 Jun 2017 18:57:42 +0800|Fri, 23 Jun 2017 18:57:42 +0800
+728cac9a8097716918e844a1948cc8d631b6cef0|Example for approle route|Fri, 23 Jun 2017 18:57:25 +0800|Fri, 23 Jun 2017 18:57:25 +0800
+3be3b2e7f57da3e9a451b6cfba518f16c212cf0d|Fix eslint errors|Thu, 22 Jun 2017 18:05:18 +0800|Thu, 22 Jun 2017 18:05:18 +0800
+10b8d966ec2dd6d6a74b9561dc1c9e3b908bcbce|Add schema for approle routes|Thu, 22 Jun 2017 18:01:10 +0800|Thu, 22 Jun 2017 18:01:10 +0800
+a2288dbfbfe8a249d59666471ee4e061614aec3d|Fix typo tokenLookupAccesspr|Thu, 22 Jun 2017 15:18:31 +0800|Thu, 22 Jun 2017 15:18:31 +0800
+28db59d3b06ddf3f05e211c1e0b5a6f82dfc1a3e|0.5.7|Thu, 15 Jun 2017 11:15:50 +0200|Thu, 15 Jun 2017 11:15:50 +0200
+a6202b7ca8b4c5b13a8b207b26c9c5d20c33c1e1|Merge pull request #51 from sjparkinson/patch-1|Wed, 14 Jun 2017 20:10:51 +0200|Wed, 14 Jun 2017 20:10:51 +0200
+4e61a6519a7c1ef439037dc3374d138fcf6944ae|Don't include request or response body in errors.|Wed, 14 Jun 2017 18:14:02 +0100|Wed, 14 Jun 2017 18:14:02 +0100
+f02e80fc45cb86a2908cce5f7e2c2e0272da3f92|Merge branch 'simplify' of github.com:fearphage/node-vault into simplify|Mon, 10 Apr 2017 04:58:01 -0500|Mon, 10 Apr 2017 04:58:01 -0500
+25c83a66498f0cef98e2a7f40c6b69862c110ebe|removed --include-all-sources flag|Mon, 10 Apr 2017 04:56:36 -0500|Mon, 10 Apr 2017 04:56:36 -0500
+5bab6d16e4d3c6759462c5729fa5eb41ea434fad|Merge branch 'master' into simplify|Mon, 10 Apr 2017 04:40:03 -0500|Mon, 10 Apr 2017 04:40:03 -0500
+0bd429a362db46eddee0e22351dfcf66f9dae37c|Add yarn.lock and fix peer dependency in package.json|Sun, 9 Apr 2017 22:10:54 +0200|Sun, 9 Apr 2017 22:10:54 +0200
+18de4d66464aa98029d672fed19bc758122358a2|Merge pull request #45 from fearphage/skip-ssl-check|Sun, 9 Apr 2017 21:55:30 +0200|Sun, 9 Apr 2017 21:55:30 +0200
+3a2a192be8574a51f0a3d2c5fd2b75ce6d38c31f|added missing dependency - istanbul|Wed, 8 Mar 2017 21:55:33 -0600|Wed, 8 Mar 2017 21:55:33 -0600
+1daec89c7f6e826985d52bf669a49a74e87c7c8a|made library respect VAULT_SKIP_VERIFY|Wed, 8 Mar 2017 20:02:16 -0600|Wed, 8 Mar 2017 20:03:27 -0600
+5519fbb83f8238bf703fbec100a71587ed00874b|speed-optmized Dockerfile|Wed, 8 Mar 2017 19:21:32 -0600|Wed, 8 Mar 2017 19:21:32 -0600
+bc793c48f484295c43fa8372ae39d51d6975a818|use `npm run coverage` instead of `npm test`|Wed, 8 Mar 2017 19:13:34 -0600|Wed, 8 Mar 2017 19:13:34 -0600
+e4beac18b707496280cc316054d19a6b624309f9|simplified tooling by using native tools instead of wrappers|Wed, 8 Mar 2017 19:09:51 -0600|Wed, 8 Mar 2017 19:09:51 -0600
+13a5e7c5d4daec218e531b7d1ecdf528485d87d6|0.5.6|Fri, 3 Mar 2017 22:25:50 +0100|Fri, 3 Mar 2017 22:25:50 +0100
+d8b243d61fd81eb760ef68e22f09834a58362bb6|Merge pull request #42 from EXPEddrewery/master|Fri, 3 Mar 2017 22:18:56 +0100|Fri, 3 Mar 2017 22:18:56 +0100
+d4b3a3d9883b8c146bef184f4fb574a4d4d735b4|Added unit test for errors returned from non-health check endpoints|Tue, 28 Feb 2017 15:43:31 +1000|Tue, 28 Feb 2017 15:43:31 +1000
+fe21c30bef0902816fff8c398ee5bfbf32af437e|Added sys/ to match on health check endpoint|Tue, 28 Feb 2017 14:36:31 +1000|Tue, 28 Feb 2017 14:36:31 +1000
+7e473ff48593ebcc0f803f213e2ccf11c9be84bf|Update README.md|Wed, 28 Sep 2016 17:32:00 +0200|Wed, 28 Sep 2016 17:32:00 +0200
+8c76fd3d1fb8e060f45118638c7d0ffcc931660b|0.5.5|Wed, 28 Sep 2016 17:24:38 +0200|Wed, 28 Sep 2016 17:24:38 +0200
+f30a5501d5196970a6a77c4d043000f555305db1|Merge pull request #41 from kr1sp1n/token-optional|Wed, 28 Sep 2016 17:23:27 +0200|Wed, 28 Sep 2016 17:23:27 +0200
+7a94c834acdf910ae8496fb6ad5004bf872844fd|Fixes #40 and fixes error handling in examples|Wed, 28 Sep 2016 16:42:31 +0200|Wed, 28 Sep 2016 16:42:31 +0200
+277eeb7e815de6a3ff541be8e6f378f1aa98e963|TODO fix example for leases because generic backend does not generate a lease_id anymore|Wed, 28 Sep 2016 10:33:31 +0200|Wed, 28 Sep 2016 10:33:31 +0200
+01605941e22cbbc796e1af604584ec63fe76406e|Merge branch 'master' of github.com:kr1sp1n/node-vault|Wed, 28 Sep 2016 09:45:57 +0200|Wed, 28 Sep 2016 09:45:57 +0200
+713b1e5f7cd1c00e1b7bbe194f0b8291df6f8888|refactor and add more tests|Wed, 28 Sep 2016 09:45:50 +0200|Wed, 28 Sep 2016 09:45:50 +0200
+4a12f9f5a845fa99d14f08f1ed4510de513fa8c0|Update README.md|Mon, 19 Sep 2016 23:25:00 +0200|Mon, 19 Sep 2016 23:25:00 +0200
+4811cf21765bcd6fae0ff6c2717b2a65e5f4f042|Merge pull request #39 from kr1sp1n/codecov|Mon, 19 Sep 2016 23:22:23 +0200|Mon, 19 Sep 2016 23:22:23 +0200
+1a7b655bef58b0c892b9ee0d7a4e1fb1f783ba68|remove coveralls and cleanup|Mon, 19 Sep 2016 23:15:37 +0200|Mon, 19 Sep 2016 23:15:37 +0200
+9c1e68083d7f0f48f90fa3eeac7ae7fb3f722f16|try to fix codecov|Mon, 19 Sep 2016 20:15:33 +0200|Mon, 19 Sep 2016 20:15:33 +0200
+c9bdaf005fdd4d0a17a72e72e7cdf8c41a7179f3|try to fix codecov|Mon, 19 Sep 2016 20:08:44 +0200|Mon, 19 Sep 2016 20:08:44 +0200
+c09acd31e7af6b14ef8d8d338adc739523430f61|try to fix codecov|Mon, 19 Sep 2016 20:01:11 +0200|Mon, 19 Sep 2016 20:01:11 +0200
+021e9e9c173c9400672bb20f957c39a526ba0884|add codecov|Mon, 19 Sep 2016 19:49:06 +0200|Mon, 19 Sep 2016 19:49:06 +0200
+7b36ff743274e8645f0a7222bab4f86d87e57f51|Update .travis.yml|Mon, 19 Sep 2016 16:30:53 +0200|Mon, 19 Sep 2016 16:30:53 +0200
+5a11ffc42ff3b8a3251c0e81827a43aa4ead75dd|0.5.4|Mon, 19 Sep 2016 16:21:24 +0200|Mon, 19 Sep 2016 16:21:24 +0200
+10ff7018491061ef3a3531433549ea81b5fc79d1|Merge pull request #38 from kr1sp1n/health-handling|Mon, 19 Sep 2016 16:07:39 +0200|Mon, 19 Sep 2016 16:07:39 +0200
+8d2065685b1ed70c5395643441f4eb0fb6964e5c|Fixes #37|Mon, 19 Sep 2016 15:38:58 +0200|Mon, 19 Sep 2016 15:38:58 +0200
+e927e9cb348ec3b5afb85f501bef59b7e1c2763e|switched to official vault docker image for tests|Mon, 19 Sep 2016 14:26:33 +0200|Mon, 19 Sep 2016 14:26:33 +0200
+83e71da414b834457befb2af7979c7c57701f7fb|Merge pull request #36 from trevorr/token-lookup-post|Fri, 9 Sep 2016 21:57:58 +0200|Fri, 9 Sep 2016 21:57:58 +0200
+c157accd37a4f2db514e151239361cb8dabb3ee9|Merge pull request #34 from trevorr/list-keys|Fri, 9 Sep 2016 21:57:20 +0200|Fri, 9 Sep 2016 21:57:20 +0200
+82a53a95124201b8435942fa4c066c67c6a234a3|Merge branch 'master' into token-lookup-post|Wed, 7 Sep 2016 11:31:04 -0500|Wed, 7 Sep 2016 11:31:04 -0500
+9820f5a9b23c5ee21ef59678ec30a258565609b5|Merge branch 'master' into list-keys|Wed, 7 Sep 2016 11:30:08 -0500|Wed, 7 Sep 2016 11:30:08 -0500
+32eaeb23ea75e9a457dea48a3534c82c4affcf52|Merge pull request #35 from trevorr/error-response|Wed, 7 Sep 2016 18:26:50 +0200|Wed, 7 Sep 2016 18:26:50 +0200
+622d97e566af558b0066efc8007e9331f971fcd8|Use POST forms of token lookup, since GET forms are deprecated in Vault 0.6.2|Tue, 6 Sep 2016 16:15:16 -0500|Tue, 6 Sep 2016 18:05:32 -0500
+15608d87ebb38d9eb4b7890195407d2cdeb4723a|Include response as property of error on failed request|Thu, 1 Sep 2016 11:12:05 -0500|Tue, 6 Sep 2016 14:38:25 -0500
+ae57b064ba441370fa05105a86e82b7bed16b3fa|Handle error responses that do not include an 'errors' array|Tue, 23 Aug 2016 14:54:03 -0500|Tue, 6 Sep 2016 14:38:25 -0500
+7a21adb38bdfdd74c0dc916bc138708e6b78724a|Add list method to enumerate keys of path|Fri, 2 Sep 2016 14:38:16 -0500|Tue, 6 Sep 2016 14:32:55 -0500
+457891908faa9fab3f60238def10cf20e7ab3ca1|cleanup|Mon, 5 Sep 2016 16:37:12 +0200|Mon, 5 Sep 2016 16:37:12 +0200
+dc3cfe6dcc9f14ee80f7cd98488bb7e8ca7f747f|0.5.3|Mon, 5 Sep 2016 16:33:55 +0200|Mon, 5 Sep 2016 16:33:55 +0200
+87e1ed3207c6ec6af9f4e56d8f90ede8006b2eb7|add build task as dependency to prepublish task|Mon, 5 Sep 2016 16:33:20 +0200|Mon, 5 Sep 2016 16:33:20 +0200
+00707db5bb8b06118676eceac98be642ee73302f|0.5.2|Mon, 5 Sep 2016 16:08:57 +0200|Mon, 5 Sep 2016 16:08:57 +0200
+d4f47c39035b83ba572f74b4049029ed1ddf44b4|fix generated feature list and add contributors to package.json|Mon, 5 Sep 2016 15:38:07 +0200|Mon, 5 Sep 2016 15:38:07 +0200
+254e83e9cc1c83bb0fe1d4074c72c42e774735d9|remove dist folder and add it to .npmignore to keep it when publishing|Mon, 5 Sep 2016 14:21:18 +0200|Mon, 5 Sep 2016 14:21:18 +0200
+a042b90f45a7217e394c6e4e96ccc2488e58c3b1|Merge pull request #31 from trevorr/more-commands|Sat, 3 Sep 2016 21:59:42 +0200|Sat, 3 Sep 2016 21:59:42 +0200
+0bfc5cc6765f78b12e67951f710e42f151b11809|Merge pull request #33 from trevorr/default-request-options|Sat, 3 Sep 2016 21:58:55 +0200|Sat, 3 Sep 2016 21:58:55 +0200
+35303f13d35bc8055a325b7e674f090df06c1b21|Add default requestOptions to config and avoid modifying per-request requestOptions for help/read/write/delete|Thu, 1 Sep 2016 12:12:53 -0500|Thu, 1 Sep 2016 12:13:44 -0500
+132d6ff040e15df16cd41d88a80f5458d72881be|Allow token renewal increment to be string as well as integer|Tue, 30 Aug 2016 11:12:10 -0500|Tue, 30 Aug 2016 11:12:10 -0500
+403db7da598e931e443c889073bcb62263785e26|Add default requestOptions to config and avoid modifying per-request requestOptions|Wed, 24 Aug 2016 19:36:46 -0500|Wed, 24 Aug 2016 19:56:12 -0500
+b86ac49360ddabfb6ab0a3b4d9725bcab1331253|Add token accessor list and token creation commands|Wed, 24 Aug 2016 19:38:51 -0500|Wed, 24 Aug 2016 19:40:34 -0500
+033f485eb1fcf90a222c895db33f9ed512875ba6|Add query parameter schema support and use it for health endpoint|Wed, 24 Aug 2016 18:09:13 -0500|Wed, 24 Aug 2016 18:10:30 -0500
+4e36972c21e90478e2b63beb2f8ecfa2de2160e7|Add health, leader, token, and root token generation commands|Mon, 22 Aug 2016 18:45:43 -0500|Wed, 24 Aug 2016 17:13:57 -0500
+3abd5997566ffa6ae1953fa12c972706b0365c61|Don't concatenate source in transpile, to avoid require() failing to find './commands.js'|Mon, 22 Aug 2016 18:45:01 -0500|Wed, 24 Aug 2016 15:50:37 -0500
+d7754aa70a3d2020252ba979c333fd7263f3d713|Merge pull request #26 from julianbei/master|Tue, 26 Jul 2016 11:09:53 +0200|Tue, 26 Jul 2016 11:09:53 +0200
+f079f718155bcc17a199eee49bd9354aedd86a2b|refactoring and cleaning up|Mon, 25 Jul 2016 17:47:59 +0200|Mon, 25 Jul 2016 17:47:59 +0200
+3ed4318652b3e643e1a75c64585360c2384b1bbb|performance tuning and package.json fixes|Mon, 25 Jul 2016 17:07:56 +0200|Mon, 25 Jul 2016 17:07:56 +0200
+11f450b39646f39c9dc0d90389be79abfae7a35f|added gulp build and test utility including linting and transpiling|Mon, 25 Jul 2016 16:37:37 +0200|Mon, 25 Jul 2016 16:37:37 +0200
+dbd1f62e1ecb0e00cc75787a26826c2753dc0549|fix for auth_github.js function shortener|Mon, 25 Jul 2016 16:06:59 +0200|Mon, 25 Jul 2016 16:06:59 +0200
+33476a6e4e3757f9a5d3d7b227c0c5c1453e6695|fix for the failing pipeline|Mon, 25 Jul 2016 15:58:34 +0200|Mon, 25 Jul 2016 15:58:34 +0200
+3ddc7da43f701ecea78741945c81cf8f3a1abca8|fixed guard clauses and linting errors|Mon, 25 Jul 2016 15:47:56 +0200|Mon, 25 Jul 2016 15:47:56 +0200
+ab418e6d64d21693457a05571ed828589526c959|Node 6 ES 6 and Airbnb styleguide|Mon, 25 Jul 2016 13:08:06 +0200|Mon, 25 Jul 2016 13:08:06 +0200
+01b100cbc9253abd44cc563bcdaccaaf45fc7915|0.5.1|Tue, 12 Jul 2016 08:56:35 +0200|Tue, 12 Jul 2016 08:56:35 +0200
+1eb975ae5b910ecd83648d003f8f816047475dbf|add more integration tests and fix issue #24 by merging PR #25|Tue, 12 Jul 2016 08:55:54 +0200|Tue, 12 Jul 2016 08:55:54 +0200
+c6f7b3364ecde75cb29642ae51c8f50d5a263606|Merge pull request #25 from adamkelsall/master|Tue, 12 Jul 2016 08:49:44 +0200|Tue, 12 Jul 2016 08:49:44 +0200
+5d51ed686504dcbf1b46a6481ccf872364ae569f|Pointed to new main file|Fri, 8 Jul 2016 10:03:09 +0100|Fri, 8 Jul 2016 10:03:09 +0100
+86b1883473904e07984f0b88132963fa2ee8118f|Update README.md|Thu, 7 Jul 2016 00:06:41 +0200|Thu, 7 Jul 2016 00:06:41 +0200
+a168210eae75ba705beb4534de0d2bff1eec5e0b|add example for passing request options|Wed, 6 Jul 2016 23:51:33 +0200|Wed, 6 Jul 2016 23:51:33 +0200
+74662ec1fb145e93dd736794e0bce08ce9cae9e5|0.5.0|Wed, 6 Jul 2016 23:34:47 +0200|Wed, 6 Jul 2016 23:34:47 +0200
+6655e4da2ccef0e8566f45950159e0fcb346bcc4|add userpass auth backend|Wed, 6 Jul 2016 23:33:48 +0200|Wed, 6 Jul 2016 23:33:48 +0200
+e6db4fe97227fb249b0dd53dcbc9ba89443b8879|Merge pull request #20 from kr1sp1n/javascript|Wed, 6 Jul 2016 23:27:31 +0200|Wed, 6 Jul 2016 23:27:31 +0200
+5452a2248216969834ee7fc4fb49b70e2c48dc09|add userpass auth|Wed, 6 Jul 2016 23:22:39 +0200|Wed, 6 Jul 2016 23:22:39 +0200
+c8887a69e89ef0526c426c5343eea9cea5ee1c79|Merge branch 'javascript' of github.com:kr1sp1n/node-vault into javascript|Wed, 6 Jul 2016 23:09:21 +0200|Wed, 6 Jul 2016 23:09:21 +0200
+afb260cc8e943f61721e8f8dda09e25cbf8106f1|update features.md|Wed, 6 Jul 2016 23:09:00 +0200|Wed, 6 Jul 2016 23:09:00 +0200
+621e7778803257d36e817dc986021a62d3cdb31b|Update README.md|Wed, 6 Jul 2016 23:06:24 +0200|Wed, 6 Jul 2016 23:06:24 +0200
+32d93d29c068269c43d699a0e21edb26502f5463|add coverage report to docker-compose.yml|Wed, 6 Jul 2016 22:47:41 +0200|Wed, 6 Jul 2016 22:47:41 +0200
+c150f133037fdd3b153f47b0ae428b5537acaa11|add coveralls to docker-compose.yml|Wed, 6 Jul 2016 22:31:55 +0200|Wed, 6 Jul 2016 22:31:55 +0200
+524ca316f13c02a1cea00d0c05d31c55c5c449bb|cleanup Travis CI config|Wed, 6 Jul 2016 21:49:22 +0200|Wed, 6 Jul 2016 21:49:22 +0200
+be4751e35a31316635562e926016446e990b35f0|try to fix Travis CI build chain with docker-compose|Wed, 6 Jul 2016 21:35:42 +0200|Wed, 6 Jul 2016 21:35:42 +0200
+bfe6d46a0e83351b4d4ab4ea6d62c4db7b3b1c4b|try to fix Travis CI build chain with docker-compose|Wed, 6 Jul 2016 21:13:57 +0200|Wed, 6 Jul 2016 21:13:57 +0200
+56ab63ba059067a49e76a7e6be033fb97fab3e15|try to fix Travis CI build chain with docker-compose|Wed, 6 Jul 2016 21:06:30 +0200|Wed, 6 Jul 2016 21:06:30 +0200
+582f3f064e80b9aaf80318fd64482981519733ea|try to use docker-compose for Travis CI build chain|Wed, 6 Jul 2016 20:56:32 +0200|Wed, 6 Jul 2016 20:56:32 +0200
+1c3ea1fe254c304263196df6a8451ee23ae7a6c8|remove testing node v0.10|Wed, 6 Jul 2016 20:42:31 +0200|Wed, 6 Jul 2016 20:42:31 +0200
+3f00d65eb8d2bf9c8613e74b94bdc42289aa0e3c|add docker support to Travis CI build chain|Wed, 6 Jul 2016 20:39:58 +0200|Wed, 6 Jul 2016 20:39:58 +0200
+c81353ead66ffb5403dfaca70d125917f3c05695|refactor examples and dockerize tests|Wed, 6 Jul 2016 20:32:01 +0200|Wed, 6 Jul 2016 20:32:01 +0200
+b745a0bb91934c5cd96566debe0a7caf6b78fc2a|fix unit tests|Tue, 12 Apr 2016 22:58:32 +0200|Tue, 12 Apr 2016 22:58:32 +0200
+bc8f899ca9ea112ca99fc2cf641fbca70c5a96b1|add bluebird as dependency|Tue, 12 Apr 2016 15:58:57 +0200|Tue, 12 Apr 2016 15:58:57 +0200
+e13e8c8be7fb69348e386060a7e70f19c296dd16|remove string extrapolation|Tue, 12 Apr 2016 15:43:54 +0200|Tue, 12 Apr 2016 15:43:54 +0200
+b16c861987b7d2971c42ad1a593d808e28da4ee6|add CI for nodejs 4 and 5|Tue, 12 Apr 2016 15:35:57 +0200|Tue, 12 Apr 2016 15:35:57 +0200
+a198396bfa20b4713992bd16701997de37ed4b18|solve conflicts|Tue, 12 Apr 2016 14:59:09 +0200|Tue, 12 Apr 2016 14:59:09 +0200
+1e8fcf3fdca7d6930eaf47cebac367257e76860b|refactor tests|Tue, 12 Apr 2016 14:50:21 +0200|Tue, 12 Apr 2016 14:50:21 +0200
+973dbca6f8c66974671253b2345640c84eb279be|fix travisCI badge|Fri, 8 Apr 2016 22:12:46 +0200|Fri, 8 Apr 2016 22:12:46 +0200
+afbef5e30819d47b9372394f7ad63340058a7ea8|fix travisCI badge|Fri, 8 Apr 2016 22:11:52 +0200|Fri, 8 Apr 2016 22:11:52 +0200
+58aeefaa0b47968f0ccce08f32659c963e743483|start refactoring|Fri, 8 Apr 2016 22:02:23 +0200|Fri, 8 Apr 2016 22:02:23 +0200
+601174e0fae91c66c4c174d9e7574992e0e001cb|solve conflict|Fri, 8 Apr 2016 15:31:04 +0200|Fri, 8 Apr 2016 15:31:04 +0200
+0283cbe3b43272e1c8baf28deffdeeba1a08b4a4|0.4.5|Mon, 4 Apr 2016 15:56:40 +0200|Mon, 4 Apr 2016 15:56:40 +0200
+90d15a1eea983cb906f4b067375c48ee35158024|add tests|Mon, 4 Apr 2016 15:55:42 +0200|Mon, 4 Apr 2016 15:55:42 +0200
+7dac4fe5ab6155a69c33047e7025a674ccac47a0|Merge pull request #18 from doublerebel/master|Tue, 22 Mar 2016 20:54:39 +0100|Tue, 22 Mar 2016 20:54:39 +0100
+1988a341ba323da20f4e4a795e64912a27403bec|[dist,fix] compile and distribute js with source maps [Fixes #17]|Sun, 20 Mar 2016 21:35:18 -0700|Mon, 21 Mar 2016 16:10:24 -0700
+e7667045f20b01a8ed10b6cf5c0ccfbfed3769fc|add docco and update docs|Wed, 13 Jan 2016 01:05:38 +0100|Wed, 13 Jan 2016 01:05:38 +0100
+482e9b2d09be9aab29d8a32ef00540bf39e0902a|add json schema validation for routes and add much more tests|Tue, 12 Jan 2016 23:49:29 +0100|Tue, 12 Jan 2016 23:49:29 +0100
+4ab64bec55a50d36da04096377bf382bb800115e|0.4.4|Fri, 1 Jan 2016 22:26:33 +0100|Fri, 1 Jan 2016 22:26:33 +0100
+aa30864fa5ac31b79d78a0794c5886983556e70d|fix examples|Fri, 1 Jan 2016 22:25:08 +0100|Fri, 1 Jan 2016 22:25:08 +0100
+7ae5c0fb55eac4071d3cc5a2e0bf40a4ee78f94a|Update README.md|Wed, 23 Dec 2015 17:16:22 +0100|Wed, 23 Dec 2015 17:16:22 +0100
+96228069777aa5157dc82885e72bf4228cf95edb|0.4.3|Wed, 23 Dec 2015 16:50:08 +0100|Wed, 23 Dec 2015 16:50:08 +0100
+5c4dc7f88efcb1ffedf722a1f1752b26091b7aab|Merge pull request #11 from samhiatt/master|Wed, 23 Dec 2015 15:37:56 +0100|Wed, 23 Dec 2015 15:37:56 +0100
+dd453a7f46f706210f52f12e05a4de92767a3e28|added getPolicy method|Sat, 19 Dec 2015 21:27:22 -0800|Sat, 19 Dec 2015 21:27:22 -0800
+44cafa0dd69836f387b647cfd076ff799223acac|0.4.2|Tue, 15 Dec 2015 22:20:57 +0100|Tue, 15 Dec 2015 22:20:57 +0100
+6854477ce134a36196bb604a97a22b566b9e409f|upgrade mustache pkg|Tue, 15 Dec 2015 22:20:12 +0100|Tue, 15 Dec 2015 22:20:12 +0100
+f2882d16f33a6c43f62a611fc1a7b18bfddfa9c9|upgrade all packages and refactor a bit|Tue, 15 Dec 2015 22:15:50 +0100|Tue, 15 Dec 2015 22:15:50 +0100
+dba28c6d6b54323ac45c06a13b8e3d0371ad7e67|0.4.1|Mon, 23 Nov 2015 22:25:02 +0100|Mon, 23 Nov 2015 22:25:02 +0100
+d1310326728c660f58d1d6bf91d2caa9cc5e0cb2|fix issue #10 and add example|Mon, 23 Nov 2015 22:24:38 +0100|Mon, 23 Nov 2015 22:24:38 +0100
+3611402247332472e36952e4fee94910bf9a9713|0.4.0|Mon, 23 Nov 2015 22:17:45 +0100|Mon, 23 Nov 2015 22:17:45 +0100
+a7bc48f5b08c3d63da0b1707c6455a1345212e1d|Fix issue #9 and add example|Mon, 23 Nov 2015 22:17:24 +0100|Mon, 23 Nov 2015 22:17:24 +0100
+6c38e12825fba4cc227792fa928ebb10ac18c482|0.3.1|Thu, 12 Nov 2015 14:06:27 +0100|Thu, 12 Nov 2015 14:06:27 +0100
+e6b5556b0409d685a4e6268281ed4950fdf26f53|fix issue #8|Thu, 12 Nov 2015 14:06:22 +0100|Thu, 12 Nov 2015 14:06:22 +0100
+64aa74bc3bd3b3c0ea3309717336ad6309999877|0.3.0|Mon, 24 Aug 2015 08:24:59 +0200|Mon, 24 Aug 2015 08:24:59 +0200
+b66e58cf0d5fb9f1374919466ea4520e987e2391|Fixes issue #7|Mon, 24 Aug 2015 08:24:11 +0200|Mon, 24 Aug 2015 08:24:11 +0200
+45299cdffa068d9e47b9a73d38adbb7ae4571ea9|Update README.md|Fri, 21 Aug 2015 15:36:49 +0200|Fri, 21 Aug 2015 15:36:49 +0200
+0dc4ddbe0c2247af0c423f9e249d1e0910babb1c|Merge branch 'master' of github.com:kr1sp1n/node-vault|Fri, 21 Aug 2015 15:11:33 +0200|Fri, 21 Aug 2015 15:11:33 +0200
+41df00c1ef45de11caebb382ac813ede4813272c|Update README.md|Thu, 20 Aug 2015 15:30:34 +0200|Thu, 20 Aug 2015 15:30:34 +0200
+2da5f6f5e19ec4484e1aec443041295cdf8ff16e|Update README.md|Thu, 20 Aug 2015 11:46:37 +0200|Thu, 20 Aug 2015 11:46:37 +0200
+21c7e0fa1dc2c9d2ec793c38cff6f008684e78c3|add postgresql backend example and add postgres as docker image for testing|Thu, 20 Aug 2015 10:57:31 +0200|Thu, 20 Aug 2015 10:57:31 +0200
+6b8c08fa82f60adc47e69005249aae4fa7ccee22|Merge pull request #5 from mscheker/master|Mon, 10 Aug 2015 23:20:20 +0200|Mon, 10 Aug 2015 23:20:20 +0200
+506f2a6e45c3ecce0109e85b663800b53f59a48f|Fixed issue in which the _handleErrors function was not returning the status code and message returned by the vault server.|Thu, 6 Aug 2015 09:45:53 -0400|Thu, 6 Aug 2015 09:45:53 -0400
+d7e7bc5a243348e42d73eb33cb1aed05c1bc5a59|0.2.0|Wed, 1 Jul 2015 16:36:40 +0200|Wed, 1 Jul 2015 16:36:40 +0200
+25d9dc7565ca6d9d8703de9142c0c870d97be17f|Update package.json|Tue, 23 Jun 2015 22:06:34 +0200|Tue, 23 Jun 2015 22:06:34 +0200
+7646c5c4645fecd2ef28ff6c0994f53d8b8485af|Merge pull request #2 from timjrobinson/javascript-index|Tue, 23 Jun 2015 22:04:20 +0200|Tue, 23 Jun 2015 22:04:20 +0200
+561b7e006388189e5129a620cd97798e70c3b7e9|Update README.md|Tue, 23 Jun 2015 22:03:16 +0200|Tue, 23 Jun 2015 22:03:16 +0200
+fd5f62f36c1d4dcf6c200bed4319ad53060ad4bb|Merge pull request #1 from timjrobinson/javascript-examples|Tue, 23 Jun 2015 22:02:12 +0200|Tue, 23 Jun 2015 22:02:12 +0200
+f30e7cd6df752863a601dc32b1ec87a79b5555a7|Update README.md|Tue, 23 Jun 2015 21:58:24 +0200|Tue, 23 Jun 2015 21:58:24 +0200
+b8d06ed5337d5febaefab51c2a9c7b4c66c38b16|Making index a javascript file so this module can be used by javascript projects|Mon, 22 Jun 2015 09:02:48 +0000|Mon, 22 Jun 2015 09:03:31 +0000
+c44bae66c48b06a4500c49ebb0d3ffb6319e5c47|Changed examples to javascript|Thu, 11 Jun 2015 12:27:21 +0000|Thu, 11 Jun 2015 12:27:21 +0000
+05ccb5307cca4ecb395a5115feca7e117495969d|0.1.2|Wed, 20 May 2015 22:49:59 +0200|Wed, 20 May 2015 22:49:59 +0200
+414bcceda98589a062d84d4760fb4637f0c98c60|refactor tests|Wed, 20 May 2015 22:48:58 +0200|Wed, 20 May 2015 22:48:58 +0200
+aeea47a75c9edd8d07d07556a0e023e1c45df974|Merge branch 'master' of github.com:kr1sp1n/node-vault|Wed, 20 May 2015 22:40:05 +0200|Wed, 20 May 2015 22:40:05 +0200
+f0d7d4bd33dca31c98084b47f258a8792d20f0fe|add black box testing via docker|Wed, 20 May 2015 22:39:56 +0200|Wed, 20 May 2015 22:39:56 +0200
+368f89039c71905000e628f5ce60cc6198486ca2|Update README.md|Wed, 20 May 2015 21:42:48 +0200|Wed, 20 May 2015 21:42:48 +0200
+0698b0a0a3eca748e4885d869bc5f9efd53831e8|Update README.md|Wed, 20 May 2015 21:39:03 +0200|Wed, 20 May 2015 21:39:03 +0200
+13c53be10856f4e4f92da3bfa7e1357a256ad462|add Dockerfile and docker-compose|Sun, 17 May 2015 21:04:44 +0200|Sun, 17 May 2015 21:04:44 +0200
+d7bcaedf06f4aaf3863ff4e5f2a3ea94a34aad91|0.1.1|Fri, 15 May 2015 13:29:17 +0200|Fri, 15 May 2015 13:29:17 +0200
+28714fcf3497370ab55137909dffc92fed5a77c9|add coveralls support|Fri, 15 May 2015 13:25:11 +0200|Fri, 15 May 2015 13:25:11 +0200
+0841f6a522ca1af8f726ece35f096c81f8f02087|add coveralls and travisCI|Fri, 15 May 2015 13:11:57 +0200|Fri, 15 May 2015 13:11:57 +0200
+ba57f1ed32ab90e01a2dde2b07c2c57a14adc129|add coverage reporting|Mon, 11 May 2015 09:29:33 +0200|Mon, 11 May 2015 09:29:33 +0200
+cfbe16278bf7027e5459e25c2a9ef5e9b7691faa|0.1.0|Thu, 7 May 2015 20:30:22 +0200|Thu, 7 May 2015 20:30:22 +0200
+a12d6c7d03ddb209cfd9b8a4d61a4abc2cb1a7e3|add example for leases|Thu, 7 May 2015 20:29:26 +0200|Thu, 7 May 2015 20:29:26 +0200
+a26ab9513dfa262dcffc17b3039a740cff4e84f6|add examples and refactor|Thu, 7 May 2015 09:13:51 +0200|Thu, 7 May 2015 09:13:51 +0200
+a602dcafe2bbd83de3c4880278bc7115562c88f9|initial package release|Mon, 4 May 2015 20:22:43 +0200|Mon, 4 May 2015 20:22:43 +0200
+8df88050fe82c4cf9149f69a491b94d8b063b58a|first draft|Mon, 4 May 2015 06:45:56 +0200|Mon, 4 May 2015 06:45:56 +0200
+824deaeb189c2b84e6c9fc6e671439fc5cb1c529|add support for init|Thu, 30 Apr 2015 08:36:41 +0200|Thu, 30 Apr 2015 08:36:41 +0200
+0914504cf767dacc82ed40790aa6ee04231a8ee4|Create index.coffee|Wed, 29 Apr 2015 16:20:27 +0200|Wed, 29 Apr 2015 16:20:27 +0200
+ec4adea11e690de9721b2461ed0f76e8f1c56c06|Initial commit|Wed, 29 Apr 2015 15:27:58 +0200|Wed, 29 Apr 2015 15:27:58 +0200

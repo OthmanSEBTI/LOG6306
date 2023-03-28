@@ -1,0 +1,600 @@
+bfb81c32c014e1732f28d3ca1c61ab62eaa512ab|image|Tue, 11 Jun 2019 18:51:46 +0200|Tue, 11 Jun 2019 18:51:46 +0200
+8a4f9b356d20b3a4223768a3a7c003dee4344907|bootstrap|Sun, 9 Jun 2019 22:46:58 +0200|Sun, 9 Jun 2019 22:46:58 +0200
+605449fed6594871096a38b73dd5aedd2ff9a0d6|bootstrap|Sun, 9 Jun 2019 18:42:28 +0200|Sun, 9 Jun 2019 19:03:56 +0200
+ae3b8d3d1fc3a8382ea22aaa32297be0d6ec40c5|bootstrap|Sun, 9 Jun 2019 13:18:34 +0200|Sun, 9 Jun 2019 19:03:56 +0200
+0f7b3da5d8db02532bb808b9cc8332d13897477a|bootstrap|Sun, 9 Jun 2019 13:08:21 +0200|Sun, 9 Jun 2019 13:08:21 +0200
+d19ed71ef8273cbf0ac0e4b22ddf933b8f9426a4|carrier - appliance volume|Thu, 5 Jul 2018 13:52:22 +0000|Thu, 5 Jul 2018 13:52:22 +0000
+8b30746923db16bb8e325c74746dcb2d47c0e901|carrier - appliance volume|Wed, 4 Jul 2018 13:26:54 +0000|Wed, 4 Jul 2018 13:26:54 +0000
+b8bc67e4dc3968d88ee87b7efe0d1a388f77befd|carrier - appliance volume dump|Wed, 4 Jul 2018 12:55:51 +0000|Wed, 4 Jul 2018 12:55:51 +0000
+d49a38ed6210175c56903a392747f3ed5ad0baca|carrier - appliance volume|Tue, 3 Jul 2018 15:31:48 +0000|Tue, 3 Jul 2018 15:31:48 +0000
+adad6e5261683a0e2c3546059b4779a5474500a2|carrier - appliance volume|Tue, 3 Jul 2018 15:22:28 +0000|Tue, 3 Jul 2018 15:22:28 +0000
+7f42005c4f098f68e36ea218b82b15d90d7254f9|carrier - appliance volume|Tue, 3 Jul 2018 14:42:08 +0000|Tue, 3 Jul 2018 14:42:08 +0000
+d0737c4056c3c5fb43e1fd6558edf9e38a7a9265|carrier - appliance volume|Tue, 3 Jul 2018 14:24:13 +0000|Tue, 3 Jul 2018 14:24:13 +0000
+bace06a791f7eb0e4845bf6f310fb5a789d6e62a|Revert "docker - lib"|Wed, 27 Jun 2018 16:10:17 +0000|Wed, 27 Jun 2018 16:13:39 +0000
+b68e33bead4cb9d69063438d848589af6dff0b5d|docker - lib|Wed, 27 Jun 2018 16:08:08 +0000|Wed, 27 Jun 2018 16:08:08 +0000
+62fd7c74f66eeae42cdb6abdc75599cfbfae5e2f|docker - lib|Wed, 27 Jun 2018 16:04:49 +0000|Wed, 27 Jun 2018 16:04:49 +0000
+2a6704ccc3d90cafb0fc801cb9c9151c5e9f1815|docker image - vim|Mon, 25 Jun 2018 16:45:42 +0000|Mon, 25 Jun 2018 16:45:42 +0000
+d90d4827d7ba551c77ac5a057246bd8370dcfd36|image - git|Mon, 25 Jun 2018 16:14:44 +0000|Mon, 25 Jun 2018 16:14:44 +0000
+99bb423fd1483460b49d40a61bbd3367767066dd|image - vim|Mon, 25 Jun 2018 15:51:20 +0000|Mon, 25 Jun 2018 15:51:20 +0000
+50fae5531ccfba1f28b28a898f4d9bacb40be0f0|carrier - image factorize|Mon, 25 Jun 2018 12:39:28 +0000|Mon, 25 Jun 2018 12:39:28 +0000
+4bf113cc59a56615fd716aa24f0bacfa4cfa5b45|carrier - image factorize|Mon, 25 Jun 2018 12:31:42 +0000|Mon, 25 Jun 2018 12:31:42 +0000
+0870ec16fa9bb851f2164f69169338b8fbf33a52|carrier - image factorize|Mon, 25 Jun 2018 12:15:43 +0000|Mon, 25 Jun 2018 12:15:43 +0000
+3097dbb06fafd88cdde9ceab90a79d2d261161a1|carrier - image factorize|Mon, 25 Jun 2018 10:25:19 +0000|Mon, 25 Jun 2018 10:25:19 +0000
+17984fa407935c4a008f88c550031024c7bf06a7|carrier - utilities|Mon, 25 Jun 2018 10:20:25 +0000|Mon, 25 Jun 2018 10:20:25 +0000
+4f182a87bdd87b1a99c9cf63413a595abae82e18|carrier - image factorize|Fri, 22 Jun 2018 15:26:50 +0000|Fri, 22 Jun 2018 15:26:50 +0000
+e00ff7011234d89aad8db3f23baf4a3748ba7fc2|carrier - image factorize|Fri, 22 Jun 2018 15:23:24 +0000|Fri, 22 Jun 2018 15:23:24 +0000
+6cbebbdf16406a3e39d92f2e110266e52721a53e|Revert "appliance - devenv_trinitycore"|Wed, 13 Jun 2018 10:52:57 +0000|Wed, 13 Jun 2018 10:56:35 +0000
+85e259fbdf6884099c845d0501634e6466c18e08|appliance - devenv_trinitycore|Wed, 13 Jun 2018 11:15:15 +0200|Wed, 13 Jun 2018 11:15:15 +0200
+0f9135c41749a2ccb474355c7daf1fef34aec084|carrier - appliance|Wed, 13 Jun 2018 10:47:38 +0200|Wed, 13 Jun 2018 10:47:38 +0200
+fd1f83d9e324c7b5cee7ab60302c67bee869dc40|appliance - devenv_trinitycore|Tue, 12 Jun 2018 23:04:31 +0200|Tue, 12 Jun 2018 23:04:31 +0200
+51e9e5bdbf94abd8063cb82ee61f532f8dc6ed1a|appliance - devenv_trinitycore|Tue, 12 Jun 2018 20:11:58 +0000|Tue, 12 Jun 2018 20:11:58 +0000
+5e3934fde4f67962a6657127a4e5419963d849f8|carrier - image build|Tue, 12 Jun 2018 14:19:16 +0000|Tue, 12 Jun 2018 14:19:16 +0000
+8c75d4b44d63ec2dabca978342e590c729b294cc|carrier - appliance volume clone|Thu, 7 Jun 2018 20:22:31 +0200|Thu, 7 Jun 2018 20:22:31 +0200
+ce7b7bb011aabed14ff7c1e84de93379bd0b2d6a|carrier - appliance volume clone|Thu, 7 Jun 2018 15:01:50 +0200|Thu, 7 Jun 2018 15:01:50 +0200
+d659452c2a83f81618e54d9108619d91498a0fd0|carrier - appliance volume clone|Thu, 7 Jun 2018 11:59:27 +0200|Thu, 7 Jun 2018 11:59:27 +0200
+1048d0e1b752bad88fe441f4ccb1382585f38464|carrier - appliance volume|Thu, 7 Jun 2018 10:47:40 +0200|Thu, 7 Jun 2018 10:47:40 +0200
+6ae891e96a8a1fa8a77b9d206dd5cbdf98a784d8|carrier - appliance|Wed, 6 Jun 2018 15:54:03 +0200|Wed, 6 Jun 2018 15:54:03 +0200
+6a7384a488b481b85f81274b7f4b47d41dbcbd0d|carrier - appliance volume|Wed, 6 Jun 2018 14:55:06 +0200|Wed, 6 Jun 2018 14:55:06 +0200
+15a80d865420d9100b436c800fefc10ea34c7efa|carrier - appliance volume|Wed, 6 Jun 2018 11:57:29 +0200|Wed, 6 Jun 2018 11:57:29 +0200
+7c9c90487304c4069d1306db79b559c5062c7121|carrier - appliance|Tue, 5 Jun 2018 21:45:26 +0200|Tue, 5 Jun 2018 21:45:26 +0200
+f0dcd8394689588002170b163d5b9fb3b9ab7fc4|lib - functions|Tue, 5 Jun 2018 21:39:47 +0200|Tue, 5 Jun 2018 21:39:47 +0200
+06f2efde95fd8effe9e95728df9bb54e2f0d359e|carrier - appliance|Tue, 5 Jun 2018 21:19:18 +0200|Tue, 5 Jun 2018 21:19:18 +0200
+7b9f148c60bf64e3e09512ddd48636795c411e53|carrier - appliance|Mon, 4 Jun 2018 21:59:45 +0200|Mon, 4 Jun 2018 21:59:45 +0200
+82794b3ae8ba7e88f60e3a09c632ef588a63e6ff|carrier - appliance|Fri, 1 Jun 2018 17:23:20 +0200|Fri, 1 Jun 2018 17:23:20 +0200
+73cdbb08c8eb9c6bcf16c78eb2d6cdf66faf74e0|carrier|Thu, 17 May 2018 14:33:55 +0200|Thu, 17 May 2018 14:33:55 +0200
+7e438295e63c1981b6d826764335e2b107038855|carrier|Thu, 17 May 2018 13:20:54 +0200|Thu, 17 May 2018 13:20:54 +0200
+b689120264a322969318ce1457c9abbb8cbbebcf|carrier|Wed, 16 May 2018 20:58:18 +0200|Wed, 16 May 2018 20:58:18 +0200
+3b3db3cf224144d86a8df2037f83bf6fd945cb0f|carrier|Wed, 16 May 2018 20:21:57 +0200|Wed, 16 May 2018 20:21:57 +0200
+d2a9e4df9cccb0bf11749e7d65584723a696c295|upgrade|Wed, 16 May 2018 17:51:21 +0200|Wed, 16 May 2018 17:51:21 +0200
+75b4ab1ffa64dba8291ba54904809c1a7de555fa|carrier|Wed, 16 May 2018 11:58:52 +0200|Wed, 16 May 2018 11:58:52 +0200
+4e6be17bbfb626b917164f6b660597af5a5c7598|carrier|Wed, 16 May 2018 11:48:03 +0200|Wed, 16 May 2018 11:48:03 +0200
+57c3a05c66c130f40605d48fdb70684457ad0fca|carrier - image factorize|Wed, 16 May 2018 11:31:40 +0200|Wed, 16 May 2018 11:31:40 +0200
+28e82271704ccf2da1f144005751acc89dbc628a|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Wed, 16 May 2018 10:43:05 +0200
+b2a93f3ae926152967149459dcbd2db5f40c96c8|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Wed, 16 May 2018 10:00:15 +0200
+2edcfeecb1c33a91cb39a791edf235043d9e4d80|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Wed, 16 May 2018 09:48:23 +0200
+54f7c9b86ba5945db71f4a58430559f948f12fcf|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Wed, 16 May 2018 09:17:05 +0200
+3598277774def0a218d5b568f8664f7ec9c63729|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Wed, 16 May 2018 09:08:38 +0200
+c0917bf25fba55605e031efe7554174b5251f61d|carrier - image factorize|Tue, 15 May 2018 23:24:15 +0200|Tue, 15 May 2018 23:24:15 +0200
+cbaf854315eb5f4cfc607ababc650837d95e1957|carrier - image factorize|Tue, 15 May 2018 22:28:03 +0200|Tue, 15 May 2018 22:28:03 +0200
+8d6dda158195b0fcf33f21fc901e1e6a117a157b|carrier - image factorize|Tue, 15 May 2018 22:26:43 +0200|Tue, 15 May 2018 22:26:43 +0200
+889a47612b72c07f28db89899ab233c7bfecc04a|carrier - image factorize|Tue, 15 May 2018 21:39:46 +0200|Tue, 15 May 2018 21:39:46 +0200
+50db9cf9e9ad802e6594835b09b5c545774e3771|carrier - image factorize|Tue, 15 May 2018 20:59:13 +0200|Tue, 15 May 2018 20:59:13 +0200
+dea95b1ae5dd3bb4b6d2505bbc7d3d8e12e3001a|carrier - image factorize|Tue, 15 May 2018 20:38:40 +0200|Tue, 15 May 2018 20:38:40 +0200
+219d0737fddb8b10bf0dcafdac1eb03bef32bf93|carrier - image factorize|Tue, 15 May 2018 17:27:23 +0200|Tue, 15 May 2018 17:27:23 +0200
+b51a9d1ce3d1df203d2a89e3d0c75b70f36cfa99|carrier - image factorize|Mon, 14 May 2018 18:59:49 +0200|Mon, 14 May 2018 18:59:49 +0200
+cff3c136b5feea0b9d2029d75c2b235cacc1a7a5|carrier - image factorize|Mon, 14 May 2018 18:46:56 +0200|Mon, 14 May 2018 18:46:56 +0200
+44b9e28fed682110e98270c4a9a3f7230052e343|carrier - image factorize|Mon, 14 May 2018 17:28:31 +0200|Mon, 14 May 2018 17:28:31 +0200
+c1d02f7946385bc575e1886c1805b25456f9ff6f|carrier - image factorize|Mon, 14 May 2018 17:13:17 +0200|Mon, 14 May 2018 17:13:17 +0200
+71f3996f926a1dc469de7972bdda145598f71a5a|carrier - image factorize|Mon, 14 May 2018 16:12:29 +0200|Mon, 14 May 2018 16:12:29 +0200
+b56d380f6258210618d3169b88dc0f9fe1a75c97|carrier - image factorize|Mon, 14 May 2018 15:54:45 +0200|Mon, 14 May 2018 15:54:45 +0200
+04da03554698f82c9571fe3d2184ada4dac0bd74|carrier - image factorize|Thu, 26 Apr 2018 19:09:32 +0200|Thu, 26 Apr 2018 19:09:32 +0200
+13c8766c1e72fafb46e504aef81dc39d0f9b8a0c|carrier - image factorize|Thu, 19 Apr 2018 22:49:28 +0200|Thu, 19 Apr 2018 22:49:28 +0200
+3b55396d2f018fc621619319d19f7efed4d1d0f3|carrier - image factorize|Thu, 19 Apr 2018 11:12:08 +0200|Thu, 19 Apr 2018 11:12:08 +0200
+b951d738a5d9ff830421fce890c76ed25e825736|carrier - image factorize|Thu, 19 Apr 2018 10:50:47 +0200|Thu, 19 Apr 2018 10:50:47 +0200
+ebcd3fba7e5a2fafe5ac9c4be31ca3f0fbc8ac72|carrier - image factorize|Thu, 19 Apr 2018 10:25:46 +0200|Thu, 19 Apr 2018 10:25:46 +0200
+75735af4dfbf5abe8df6b7c39de690e3a5fd491c|carrier - image factorize|Thu, 19 Apr 2018 09:36:53 +0200|Thu, 19 Apr 2018 09:36:53 +0200
+e0d4bf77441661cb3b6f94392f404a44c6913f9c|carrier - image factorize|Thu, 19 Apr 2018 09:20:29 +0200|Thu, 19 Apr 2018 09:20:29 +0200
+6f7573f2f542f61d988d42cb76af0c90b88a19d3|carrier - image factorize|Wed, 18 Apr 2018 23:21:26 +0200|Wed, 18 Apr 2018 23:21:26 +0200
+3443793d54742ce255ddd0bdc7af07774c70c90b|carrier - image factorize|Wed, 18 Apr 2018 11:39:38 +0200|Wed, 18 Apr 2018 11:39:38 +0200
+b88da14d47bbdd0108b864203b6ef803b31eb49a|carrier - image factorize|Mon, 16 Apr 2018 21:35:31 +0200|Mon, 16 Apr 2018 21:35:31 +0200
+80779294cb13211e2f0fdd5583dacc69ae5d3dd6|carrier - image factorize|Thu, 12 Apr 2018 20:01:18 +0000|Thu, 12 Apr 2018 20:01:18 +0000
+316370b1615857121abefee0082eedb6311d5d56|carrier - image factorize|Thu, 12 Apr 2018 13:03:41 +0000|Thu, 12 Apr 2018 13:03:41 +0000
+a11a63d4797441efc53c39f46902ed8ef5fd8995|carrier - image factorize|Wed, 11 Apr 2018 18:13:51 +0000|Wed, 11 Apr 2018 18:13:51 +0000
+076d13cf80e75c79a7c2f3e4b07f93d7e589d4b6|carrier - image factorize|Wed, 11 Apr 2018 15:04:16 +0000|Wed, 11 Apr 2018 15:04:16 +0000
+1193f78dd78cc0e392e7e10a5a375fa2e4d12cc6|carrier - factorize image|Wed, 11 Apr 2018 13:19:01 +0000|Wed, 11 Apr 2018 13:19:01 +0000
+d2322c53cf12cc5c1f82c506e9c7cfe38f6e3075|Merge branch 'master' into 04-image-factorize|Wed, 11 Apr 2018 12:03:40 +0200|Wed, 11 Apr 2018 12:03:40 +0200
+ba834881439d9e9b5ff7e44c4f8f4ce089c574e8|carrier - bootstrap|Wed, 11 Apr 2018 12:03:10 +0200|Wed, 11 Apr 2018 12:03:10 +0200
+f5639e336638cf0539df18a14cc7a859bfe9bece|Merge branch 'master' into 04-image-factorize|Tue, 10 Apr 2018 16:48:12 +0200|Tue, 10 Apr 2018 16:48:12 +0200
+9a0ba737ec2abbb1df4925b1a425f058c3704e4c|devenv_trinitycore|Tue, 10 Apr 2018 16:47:16 +0200|Tue, 10 Apr 2018 16:47:16 +0200
+1ca38fbea42ba89d750681450d03c27f563fa447|carrier - misc|Mon, 9 Apr 2018 20:34:50 +0200|Mon, 9 Apr 2018 20:34:50 +0200
+88e42b7acc9f6716b83e2bb708f188c2e2f26899|docker - image|Mon, 9 Apr 2018 16:55:08 +0200|Mon, 9 Apr 2018 16:55:08 +0200
+af55ff4a5198c308096a7734dac1238abcfe7144|carrier - tech-debt|Mon, 9 Apr 2018 16:54:44 +0200|Mon, 9 Apr 2018 16:54:44 +0200
+414df7825407e4c4625b0c26d39b8073e4c3c427|carrier - tech-debt|Mon, 9 Apr 2018 14:56:12 +0200|Mon, 9 Apr 2018 14:56:12 +0200
+411ef269b71554fc094866dbde30f777da114249|carrier - tech-debt|Mon, 9 Apr 2018 14:42:08 +0200|Mon, 9 Apr 2018 14:42:08 +0200
+90967a49617d075b2e48c2c35ae3e94ce7d31dba|carrier - tech debt|Mon, 9 Apr 2018 13:57:13 +0200|Mon, 9 Apr 2018 13:57:13 +0200
+05130ebf304abe17520f426ac9015d3a5d211903|carrier - tech debt|Mon, 9 Apr 2018 12:26:32 +0200|Mon, 9 Apr 2018 12:26:32 +0200
+3b2c44e96a0ff5aeae6c8d0edda12dea51b67254|carrier - tech debt|Sun, 8 Apr 2018 09:32:45 +0200|Sun, 8 Apr 2018 09:32:45 +0200
+9ab3c356004081627ecf85e1a431b0c75df9ce9e|carrier - tech debt|Sun, 8 Apr 2018 09:26:43 +0200|Sun, 8 Apr 2018 09:26:43 +0200
+6937f0b9deaa7f28c996bf2a6caaa8766f76f10b|carrier - tech debt|Sun, 8 Apr 2018 09:17:43 +0200|Sun, 8 Apr 2018 09:17:43 +0200
+c3963c5495d9673bfb4c059655f15c1c9d63a5aa|carrier - tech debt|Fri, 6 Apr 2018 18:37:39 +0200|Fri, 6 Apr 2018 18:37:39 +0200
+f3ad9a04b901b94e45a67345b8ca585b1702bd19|carrier - tech debt|Fri, 6 Apr 2018 18:26:57 +0200|Fri, 6 Apr 2018 18:26:57 +0200
+576e380fad61776880dad8c5e31417ef1de4d4a8|carrier - tech debt|Fri, 6 Apr 2018 18:02:48 +0200|Fri, 6 Apr 2018 18:02:48 +0200
+af253e68a9da60d722f51abb705238a14905134b|carrier - tech debt|Fri, 6 Apr 2018 17:58:24 +0200|Fri, 6 Apr 2018 17:58:24 +0200
+9eb79eb6f3b109c80557b14020d5d8a3b508b647|carrier - tech debt|Fri, 6 Apr 2018 17:42:33 +0200|Fri, 6 Apr 2018 17:42:33 +0200
+a9090ea171ab86cdb4edd7c350666c1c318eac00|carrier - todolist|Fri, 6 Apr 2018 17:38:21 +0200|Fri, 6 Apr 2018 17:38:21 +0200
+330a55923d9c65edbcc6c6d02b09e12bb6de6c7b|carrier - fix|Fri, 6 Apr 2018 17:25:56 +0200|Fri, 6 Apr 2018 17:25:56 +0200
+693fca0ef3ff16fa22fe0193bbfbb3a6c1ee1b57|carrier - fix|Fri, 6 Apr 2018 16:51:52 +0200|Fri, 6 Apr 2018 16:51:52 +0200
+75710dd516f04d23ef010e58ffeb12101bf427cf|carrier - todolist|Fri, 6 Apr 2018 16:13:12 +0200|Fri, 6 Apr 2018 16:13:26 +0200
+fb2109a97301b2225d888291741d1afdd1b3bb95|carrier - todolist|Fri, 6 Apr 2018 15:35:14 +0200|Fri, 6 Apr 2018 15:35:14 +0200
+73690899c54d71e42fb86c6914a65af92eede05b|carrier - todolist|Fri, 6 Apr 2018 13:35:33 +0200|Fri, 6 Apr 2018 13:35:33 +0200
+ca08f84f2f03d2b0a2efce793f7e162db3ef205e|carrier - todolist|Fri, 6 Apr 2018 10:51:17 +0200|Fri, 6 Apr 2018 10:51:17 +0200
+ef4aed8f6dcce7bbef4575a42251a04e9d34d59e|carrier - todolist|Fri, 6 Apr 2018 10:40:01 +0200|Fri, 6 Apr 2018 10:40:01 +0200
+94a2263a63000b941b7c1e90dda50d80ed5f53a9|carrier - todolist|Thu, 5 Apr 2018 18:21:14 +0200|Thu, 5 Apr 2018 18:21:14 +0200
+ecac577cc2dfbca8143413929a448cc1ba1c4426|carrier - todolist|Thu, 5 Apr 2018 14:45:59 +0200|Thu, 5 Apr 2018 14:45:59 +0200
+524df40c73eeac2f8acdf52c7fa60273697a2310|carrier - todlist and fixes|Thu, 5 Apr 2018 14:36:23 +0200|Thu, 5 Apr 2018 14:36:23 +0200
+9df45762b88af1a6ecd9c91cf59ac3f7df5bb52f|carrier - todolist|Thu, 5 Apr 2018 09:22:52 +0200|Thu, 5 Apr 2018 09:22:52 +0200
+abd41afeb5c2c7a1d9196af92c51895a25f18d86|Merge branch 'master' into 04-image-factorize|Thu, 5 Apr 2018 08:57:38 +0200|Thu, 5 Apr 2018 08:57:38 +0200
+26c81d19781365a575d53c0e37753bd8a1529261|docker images|Thu, 5 Apr 2018 08:54:24 +0200|Thu, 5 Apr 2018 08:56:42 +0200
+13b47d52b17850aaa1bd24b89aead68ccb4bc10d|carrier - todolist|Wed, 4 Apr 2018 17:00:13 +0200|Wed, 4 Apr 2018 17:00:13 +0200
+61b18b46006d011b5a411e84655c86904d038cb5|carrier - todolist|Wed, 4 Apr 2018 16:53:57 +0200|Wed, 4 Apr 2018 16:53:57 +0200
+7f4b735682dc1a58179553c264b71512bedbabf8|carrier - todolist|Wed, 4 Apr 2018 15:47:29 +0200|Wed, 4 Apr 2018 15:47:29 +0200
+baac416d421a6319ff7bcc57c983ac0c803e1537|carrier - todolist|Wed, 4 Apr 2018 15:33:26 +0200|Wed, 4 Apr 2018 15:33:26 +0200
+14d46edd5aa49696fdfe2ce418438c0036205a63|carrier - todolist|Wed, 4 Apr 2018 11:51:42 +0200|Wed, 4 Apr 2018 11:51:42 +0200
+be90ef51d9780b65ba993c614dc230cb00fed853|carrier - todolist|Tue, 3 Apr 2018 17:30:43 +0200|Tue, 3 Apr 2018 17:30:43 +0200
+d6ace9abdee841f397ace6c306a5d726c1c8e0c8|carrier - todolist|Tue, 3 Apr 2018 17:21:35 +0200|Tue, 3 Apr 2018 17:21:35 +0200
+14346b46ea8ba419eb5f2d06f2948cb94fa6f821|carrier - todo list|Tue, 3 Apr 2018 16:54:02 +0200|Tue, 3 Apr 2018 16:54:02 +0200
+72fd42baf091398043c72196912248282c9782a6|carrier - todo list|Tue, 3 Apr 2018 16:48:35 +0200|Tue, 3 Apr 2018 16:48:35 +0200
+0bee0f67881b4a9c3a895345899c0f7b7bfbf451|carrier - global|Tue, 3 Apr 2018 14:49:53 +0200|Tue, 3 Apr 2018 14:49:53 +0200
+27e2d3d5e73a4f2827980ffbba07aeb4a1806d7c|carrier - image factorize|Thu, 29 Mar 2018 22:43:47 +0200|Thu, 29 Mar 2018 22:43:47 +0200
+335e329f822df9eb3aee79c521a231a661866695|carrier - image factorize|Thu, 29 Mar 2018 15:36:36 +0200|Thu, 29 Mar 2018 15:36:36 +0200
+59200a9b83ba45670b147ae42b116cc36b2d152e|carrier - image build|Thu, 29 Mar 2018 15:11:33 +0200|Thu, 29 Mar 2018 15:11:33 +0200
+20d25f26025ae77c45b2f6c44d26716ca513e7f1|carrier - image build/factorize|Thu, 29 Mar 2018 14:21:46 +0200|Thu, 29 Mar 2018 14:21:46 +0200
+314238396d0c32096e0efeb1198b848086e189ef|carrier - image build|Wed, 28 Mar 2018 22:25:14 +0200|Wed, 28 Mar 2018 22:25:14 +0200
+18779d7ef04c19a1e8f11b52d5c8aa20f99a8bee|docker - image factorization|Wed, 28 Mar 2018 22:21:29 +0200|Wed, 28 Mar 2018 22:21:29 +0200
+fa285d733c08bc5aa58b876a52cd363041398c50|carrier - factorize image|Wed, 28 Mar 2018 17:10:23 +0200|Wed, 28 Mar 2018 17:10:23 +0200
+a0e3c117e15ed01097b9c9458a18823f138f118c|carrier - image factorization|Wed, 28 Mar 2018 16:47:29 +0200|Wed, 28 Mar 2018 16:47:29 +0200
+c4e94d95c7e092cb6566ccb5010069f0a2ce294c|carrier - image factorize|Wed, 28 Mar 2018 12:20:38 +0200|Wed, 28 Mar 2018 12:20:38 +0200
+53280193047c201d031d21e62fe12bdf6278d430|carrier - image factorize|Tue, 27 Mar 2018 09:20:54 +0200|Tue, 27 Mar 2018 09:20:54 +0200
+232d0e5dc82c4c799e8d2fff58892f2b6ea6c069|carrier - image factorization|Mon, 26 Mar 2018 22:29:05 +0200|Mon, 26 Mar 2018 22:29:05 +0200
+9ed1157d2afa705ea15705c5d726a74e0f5c059b|carrier - factorize images|Mon, 26 Mar 2018 22:15:41 +0200|Mon, 26 Mar 2018 22:15:41 +0200
+7a9e223cb58d9ceae38943e8fa2b8db8e5e7f794|carrier - image factorize|Mon, 26 Mar 2018 21:58:20 +0200|Mon, 26 Mar 2018 21:58:20 +0200
+7424ed26aca47a057ced402a566a1b3ada314244|carrier - image factorization|Mon, 26 Mar 2018 21:11:59 +0200|Mon, 26 Mar 2018 21:11:59 +0200
+36571a38701329601b27c22e92265504056ea7a2|carrier - factorize image|Mon, 26 Mar 2018 21:08:39 +0200|Mon, 26 Mar 2018 21:08:39 +0200
+ac1a58f23b88ac182e6a6da4dc383b28d80b301f|carrier - factorize image|Mon, 26 Mar 2018 20:29:00 +0200|Mon, 26 Mar 2018 20:29:00 +0200
+75e453acbe300fa44ecdcdd142978eb9d0c20624|carrier - factorize images|Mon, 26 Mar 2018 16:06:54 +0200|Mon, 26 Mar 2018 16:06:54 +0200
+a3bd57f4459b2e7184786d5319fd8cb9e17a61fc|carrier - image factorize|Thu, 22 Mar 2018 21:52:19 +0100|Thu, 22 Mar 2018 21:52:19 +0100
+38d9926446bf7afddab3e0e61c128cc1e5d66978|carrier - doc|Thu, 22 Mar 2018 12:15:57 +0100|Thu, 22 Mar 2018 12:15:57 +0100
+423f3208f1f52eb6192abaadfe0f036ab3e49dcc|license|Thu, 22 Mar 2018 12:06:51 +0100|Thu, 22 Mar 2018 12:06:51 +0100
+1919e5f33ea4049b29e4e4f9f785c040544daa4a|doc|Thu, 22 Mar 2018 12:05:58 +0100|Thu, 22 Mar 2018 12:05:58 +0100
+a6c49edcc730b8e93e77218f2f647faafb344ed6|Merge branch '01-doc-refacto' into 02-unique-script|Thu, 22 Mar 2018 09:58:14 +0100|Thu, 22 Mar 2018 09:58:14 +0100
+6c795a0b73853f551b91a350280e0c3173825851|carrier - unique script|Thu, 22 Mar 2018 09:30:06 +0100|Thu, 22 Mar 2018 09:30:06 +0100
+62f21c541c1ae3a19d3d9f80f014d1c6e2db6474|carrier - unique script|Mon, 19 Mar 2018 17:51:12 +0100|Mon, 19 Mar 2018 17:51:12 +0100
+6f42cd95afb50a25dd95013da0e3f0d49287f089|carrier - unique script|Mon, 19 Mar 2018 17:04:53 +0100|Mon, 19 Mar 2018 17:04:53 +0100
+6e6b46cb2c9edec96b7e7f29b456d5f449056e14|carrier - unique script|Mon, 19 Mar 2018 17:03:15 +0100|Mon, 19 Mar 2018 17:03:15 +0100
+f59a45e04516f3430fa8d536b8d2e0c9a2a2d791|carrier - unique script|Mon, 19 Mar 2018 16:14:47 +0100|Mon, 19 Mar 2018 16:14:47 +0100
+7b303320610b87c1ca8fcda412159bc619811f09|carrier - unique script|Mon, 19 Mar 2018 15:31:55 +0100|Mon, 19 Mar 2018 15:31:55 +0100
+452a7f464ddf169fdf74041fe1979d8786f840bd|carrier - unique script|Mon, 19 Mar 2018 15:05:37 +0100|Mon, 19 Mar 2018 15:05:37 +0100
+e5ac69e9162b056f80c6346c0cd0538516709057|carrier - unique script|Sun, 18 Mar 2018 11:13:16 +0100|Sun, 18 Mar 2018 11:13:16 +0100
+60d8871cb1973b7899e94b9506bbe5459e94709e|carrier - unique script|Sun, 18 Mar 2018 11:11:14 +0100|Sun, 18 Mar 2018 11:11:14 +0100
+91fff5e558b7f9a020022aacf6dba819f91ce34f|carrier - unique script|Sun, 18 Mar 2018 10:34:47 +0100|Sun, 18 Mar 2018 10:34:47 +0100
+d6c8c0f44e8ea28a480219816acf420175c94e7a|carrier - unique script|Sat, 17 Mar 2018 08:18:20 +0100|Sat, 17 Mar 2018 08:18:20 +0100
+17b7095961be5d31e1ddeaa394e0543a622a5e80|carrier - unique script|Fri, 16 Mar 2018 17:23:34 +0100|Fri, 16 Mar 2018 17:23:34 +0100
+e686de6856a2a87e0776f27f7228dd75356bee87|carrier - unique script|Fri, 16 Mar 2018 17:23:16 +0100|Fri, 16 Mar 2018 17:23:16 +0100
+7bc74b76876e6d46b978af605cd801f666f81513|carrier - unique script|Fri, 16 Mar 2018 17:18:04 +0100|Fri, 16 Mar 2018 17:18:04 +0100
+1ffffd47cb56f473e79aeb01bedf1c3635186b78|bootstrap - fix|Fri, 16 Mar 2018 10:49:18 +0100|Fri, 16 Mar 2018 10:49:18 +0100
+0dcd02aee5f03e9cbe88f52ce6cdad6ea2bfdc6a|carrier - unique script|Fri, 16 Mar 2018 09:36:51 +0000|Fri, 16 Mar 2018 09:36:51 +0000
+7b5e73846fb4bc45789ca34c56a8cc9e6def1c01|carrier - unique script|Fri, 16 Mar 2018 09:20:48 +0000|Fri, 16 Mar 2018 09:20:48 +0000
+a4dd62b3f284461ad2733819bd0b3c80e5a96bd2|carrier - unique script|Fri, 16 Mar 2018 09:00:58 +0000|Fri, 16 Mar 2018 09:00:58 +0000
+d7721c04be7eb9280e1c7b1a669d1af0c68f125d|carrier - unique script|Fri, 16 Mar 2018 08:39:39 +0000|Fri, 16 Mar 2018 08:39:39 +0000
+23e4026ff6d37da48c80cbb5977161cb82e4be3a|Merge branch 'master' into 02-unique-script|Thu, 15 Mar 2018 10:50:53 +0100|Thu, 15 Mar 2018 10:50:53 +0100
+0f28aecf3e08e538a4dcfebcf1b415b8f3fa23b1|Merge branch 'master' into 01-doc-refacto|Thu, 15 Mar 2018 10:50:39 +0100|Thu, 15 Mar 2018 10:50:39 +0100
+365643a143fb70abfbd50fa83fccbf6d79c966ee|docker - image|Thu, 15 Mar 2018 10:47:54 +0100|Thu, 15 Mar 2018 10:47:54 +0100
+5e27d605033d3866b12c3d4f26b30bcef4c7f7aa|Merge branch '01-doc-refacto' into 02-unique-script|Wed, 14 Mar 2018 23:15:40 +0100|Wed, 14 Mar 2018 23:15:40 +0100
+802b7842481e822341c2952b00d78b586d7ca1ab|Merge branch 'master' into 02-unique-script|Wed, 14 Mar 2018 20:44:48 +0100|Wed, 14 Mar 2018 20:44:48 +0100
+b916d7c2233fc6a4d9e7a67aa3be6dc58dad02c0|Merge branch 'master' into 01-doc-refacto|Wed, 14 Mar 2018 20:44:37 +0100|Wed, 14 Mar 2018 20:44:37 +0100
+3c366ff936e3759f35263d8ae48a8f3890e86e41|docker - image|Wed, 14 Mar 2018 20:43:15 +0100|Wed, 14 Mar 2018 20:43:15 +0100
+693bef554a28377b23de1347b8f44300748274fb|docker - image|Wed, 14 Mar 2018 16:29:28 +0100|Wed, 14 Mar 2018 16:29:28 +0100
+e6bc7e289a43e860bacc5c2780fecdd5387ed0d4|docker - image|Wed, 14 Mar 2018 15:44:38 +0100|Wed, 14 Mar 2018 15:44:38 +0100
+8dc479c636cf0e966bde863a509c9c50dd51b644|docker - image|Wed, 14 Mar 2018 15:33:26 +0100|Wed, 14 Mar 2018 15:33:26 +0100
+cdc01a6cc48122790f5ad54c459ab0ec05af9d95|Merge branch 'master' into 02-unique-script|Wed, 14 Mar 2018 15:22:27 +0100|Wed, 14 Mar 2018 15:22:27 +0100
+228dc0f7c65cf3af145d034af34969274fb532d0|Merge branch 'master' into 01-doc-refacto|Wed, 14 Mar 2018 15:22:18 +0100|Wed, 14 Mar 2018 15:22:18 +0100
+c6c5a8b2e8acf0cdc4dba8bcaa6daaa82e05cb5b|docker - image|Wed, 14 Mar 2018 15:21:06 +0100|Wed, 14 Mar 2018 15:21:06 +0100
+1b2b9cc78e24fa9e7a64abc8616179889d061182|docker - image building|Wed, 14 Mar 2018 14:52:57 +0100|Wed, 14 Mar 2018 14:52:57 +0100
+d22a34ca96555ea9b0a037feb1e38035d1666d8b|docker - image|Tue, 13 Mar 2018 23:05:19 +0100|Tue, 13 Mar 2018 23:05:19 +0100
+9f5be5c3ddebca4681f8cf6700e0b12ff9c59605|docker - image|Tue, 13 Mar 2018 21:58:40 +0000|Tue, 13 Mar 2018 21:58:40 +0000
+5a56ffc25e7ec4c0d1e2aeebab91af0cd634ba96|carrier - unique script|Tue, 13 Mar 2018 22:46:29 +0100|Tue, 13 Mar 2018 22:46:29 +0100
+b7f69e6e3e04635bdf04482fcb8a5e2d4ce92eea|carrier - unique script|Tue, 13 Mar 2018 18:24:12 +0100|Tue, 13 Mar 2018 18:24:12 +0100
+f78865a85a0779184abbdbbecee9fa224ab4c804|carrier - unique script|Tue, 13 Mar 2018 17:53:45 +0100|Tue, 13 Mar 2018 17:53:45 +0100
+0a85f2d7f5ba747b3f3cf19c327e6530aeb32f6c|carrier - unique script|Tue, 13 Mar 2018 17:29:43 +0100|Tue, 13 Mar 2018 17:29:43 +0100
+0501ff5cb463a6b0a4170a8ed70d2cfe3d30c548|carrier - unique script|Tue, 13 Mar 2018 15:28:31 +0100|Tue, 13 Mar 2018 15:28:31 +0100
+8d2eafd50fec7f906863a9f1b3934c803467a4c2|carrier - unique script|Tue, 13 Mar 2018 11:01:02 +0100|Tue, 13 Mar 2018 11:01:02 +0100
+0d1665a57f2e834903b251c3a21c24ee14cf27e5|carrier - unique script|Tue, 13 Mar 2018 10:58:17 +0100|Tue, 13 Mar 2018 10:58:17 +0100
+c2af276e2a7f5f7a59345c7b43eef4db11053baa|carrier - unique script|Tue, 13 Mar 2018 10:39:47 +0100|Tue, 13 Mar 2018 10:39:47 +0100
+e2de05929b554facf5441ddb56e134ffdff262c2|carrier - unique script|Mon, 12 Mar 2018 18:11:07 +0100|Mon, 12 Mar 2018 18:11:07 +0100
+a82bbc35ccffff7d1595b777031efea234b6a622|carrier - unique script|Mon, 12 Mar 2018 17:29:15 +0100|Mon, 12 Mar 2018 17:29:15 +0100
+d4bed39c2d54205149eaf176f0b3fddbc4adf95f|carrier - unique script|Mon, 12 Mar 2018 16:27:54 +0100|Mon, 12 Mar 2018 16:27:54 +0100
+670116a6d43085089462366f60bbccf7ceadd11a|carrier - unique scripts|Mon, 12 Mar 2018 16:12:49 +0100|Mon, 12 Mar 2018 16:12:49 +0100
+7caebce33efe01c6041600f224f1ea3e6abed0ec|carrier - unique script|Mon, 12 Mar 2018 15:46:24 +0100|Mon, 12 Mar 2018 15:46:24 +0100
+531aa5b6b88960b645636890938c0c5146ff1b1e|carrier - unique script|Mon, 12 Mar 2018 14:40:59 +0100|Mon, 12 Mar 2018 14:40:59 +0100
+be07034324f5d288cd066fa29148de11f1decbe6|carrier - unique script|Sun, 11 Mar 2018 18:13:01 +0100|Sun, 11 Mar 2018 18:13:01 +0100
+f7280b8e789a39bdc630ba15087c7db9ca7d03b0|carrier - unique script|Sun, 11 Mar 2018 17:40:59 +0100|Sun, 11 Mar 2018 17:40:59 +0100
+bf2fa2043fbe6b0ed389a0b1e25849c82273ccbe|carrier - unique script|Sun, 11 Mar 2018 15:04:34 +0100|Sun, 11 Mar 2018 15:04:34 +0100
+63a1f14f781d6b57b528225d2710508330cc8893|carrier - unique script|Fri, 2 Mar 2018 22:19:42 +0100|Fri, 2 Mar 2018 22:19:42 +0100
+d35b41eeb41b5cb7dd31cb98c2c901f4b07de5d9|carrier - unique script|Fri, 2 Mar 2018 18:35:24 +0100|Fri, 2 Mar 2018 18:35:24 +0100
+cad1b34fec734ac503fa729991c40fd882f4c31d|carrier - unique script|Fri, 2 Mar 2018 15:55:46 +0100|Fri, 2 Mar 2018 15:55:46 +0100
+7246b38b5fced67f541267b211b3f5eefa36dce6|carrier - unique script|Fri, 2 Mar 2018 15:52:28 +0100|Fri, 2 Mar 2018 15:52:28 +0100
+ac7f6b0d7d216ad05e77476554e2e557d68e513c|carrier - unique script|Fri, 2 Mar 2018 14:16:40 +0100|Fri, 2 Mar 2018 14:16:40 +0100
+68a90aee81e2409d69c4c249d59c676cffa2d5b3|carrier - unique script|Fri, 2 Mar 2018 13:56:42 +0100|Fri, 2 Mar 2018 13:56:42 +0100
+a0a0fd1468ad66715ec2579d206204d1b40504fa|carrier - unique script|Fri, 2 Mar 2018 12:24:22 +0100|Fri, 2 Mar 2018 12:24:22 +0100
+607e1e0cac0f683f483f319522a7031bd0fe1f71|carrier - unique script|Fri, 2 Mar 2018 11:58:00 +0100|Fri, 2 Mar 2018 11:58:00 +0100
+57b9444a932d8bf7c75de3c071b26ad529f06b59|carrier - unique script|Fri, 2 Mar 2018 10:07:59 +0100|Fri, 2 Mar 2018 10:07:59 +0100
+6acf26e004839f09a8b54ca86a3e45452ea4b75c|carrier - unique script|Fri, 2 Mar 2018 09:54:02 +0100|Fri, 2 Mar 2018 09:54:02 +0100
+0420dc04e14894ad56f0b72b105a2af5d162c1f7|carrier - unique script|Tue, 27 Feb 2018 11:27:58 +0100|Tue, 27 Feb 2018 11:27:58 +0100
+f61a2421099ad97b6f121825c8780f2fdaf467a2|doc - markdown|Tue, 27 Feb 2018 11:21:32 +0100|Tue, 27 Feb 2018 11:21:32 +0100
+9b1873c71bac1da64e693e054c3f8a8cbdf0561e|doc - markdown|Tue, 27 Feb 2018 11:19:39 +0100|Tue, 27 Feb 2018 11:19:39 +0100
+77d77ab238ad5a4c8df188527ead49d371cfaa85|general - doc|Tue, 27 Feb 2018 11:18:09 +0100|Tue, 27 Feb 2018 11:18:09 +0100
+1ace9bed91aaa721ffdf6169232faf466d1fe346|docker - appliance management system|Sat, 24 Feb 2018 11:47:01 +0100|Sat, 24 Feb 2018 11:47:01 +0100
+bfa0954ceab0bb8e82320cd5519bbca844e2d31d|docker - image build system|Fri, 23 Feb 2018 21:20:05 +0100|Fri, 23 Feb 2018 21:20:05 +0100
+a81e8d375f108c18c753455b946d081a1c028660|docker - image build system|Fri, 23 Feb 2018 15:57:27 +0100|Fri, 23 Feb 2018 15:57:27 +0100
+e195bc178b5cf1a57c6ef449568b1b00cab1eef6|docker - image build system|Fri, 23 Feb 2018 15:03:50 +0100|Fri, 23 Feb 2018 15:03:50 +0100
+8222472d527270d88688e41c45d5dc0118ebad1d|docker - image build system|Fri, 23 Feb 2018 14:54:03 +0100|Fri, 23 Feb 2018 14:54:03 +0100
+fab87f5ccaa12a67f3c0cf2ceb4a0786383d0541|docker - image build system|Fri, 23 Feb 2018 11:44:16 +0100|Fri, 23 Feb 2018 11:44:16 +0100
+4cff3e0de356ae4dce4dcf664bdc7c133a5df475|docker - image build system|Thu, 22 Feb 2018 20:15:15 +0100|Thu, 22 Feb 2018 20:15:15 +0100
+a894f6749341b3f8858530ea292e0b396ee85819|docker - image build system|Mon, 19 Feb 2018 22:39:56 +0100|Mon, 19 Feb 2018 22:39:56 +0100
+d55d02fe735d4af05882c2760585c70161c3f44d|docker - appliance - devenv_trinitycore|Fri, 16 Feb 2018 12:29:45 +0100|Fri, 16 Feb 2018 12:29:45 +0100
+d3c6d7422bb6cc138e205eaaee390b81cea43a1a|docker - images|Fri, 16 Feb 2018 12:03:25 +0100|Fri, 16 Feb 2018 12:03:25 +0100
+8a629e627f17b3effd95a553a7ce771f4ed25017|docker - appliances|Thu, 15 Feb 2018 14:19:39 +0100|Thu, 15 Feb 2018 14:19:39 +0100
+d4f2f64456995fd1e0845f77782b74cccdeb65d6|docker - images|Thu, 15 Feb 2018 14:17:16 +0100|Thu, 15 Feb 2018 14:17:16 +0100
+f98df71810bb17c4b0c9806d66d3d930513288ad|docker - images - libclang|Thu, 15 Feb 2018 14:16:33 +0100|Thu, 15 Feb 2018 14:16:33 +0100
+e354c7eceb168231c14a204b8c799e5363228abd|docker - image build system|Wed, 14 Feb 2018 16:16:21 +0100|Wed, 14 Feb 2018 16:16:21 +0100
+fad6b3d34ab2f9f9e69db8285bd682d9e3b77796|docker - image build system|Wed, 14 Feb 2018 15:55:52 +0100|Wed, 14 Feb 2018 15:55:52 +0100
+deefce47c93bfec9983a5f6bce4a21a992f9daed|docker - image buid system|Wed, 14 Feb 2018 15:34:32 +0100|Wed, 14 Feb 2018 15:34:32 +0100
+23518898bb7a63068d3814f081b6d645b6f01bda|docker - images - llvm|Wed, 14 Feb 2018 15:01:49 +0100|Wed, 14 Feb 2018 15:01:49 +0100
+44c637860470584d58840bbca30a4318ce2c56ef|Update README.md|Mon, 12 Feb 2018 15:56:10 +0100|Mon, 12 Feb 2018 15:56:10 +0100
+31d962ca6411647754cd2bcbd52b80696e566df6|docker - appliance - devenv_trinitycore|Sat, 10 Feb 2018 22:29:25 +0100|Sat, 10 Feb 2018 22:29:25 +0100
+d96e235e671a609e8b1dd84b1ddaaa56a5ba20d9|docker - appliance - devenv_trinitycore|Sat, 10 Feb 2018 18:59:49 +0100|Sat, 10 Feb 2018 18:59:49 +0100
+81fa49e5f3a5bbf75b9bed4072d378b111177e71|docker - image - mysql_cli|Sat, 10 Feb 2018 17:35:40 +0100|Sat, 10 Feb 2018 17:35:40 +0100
+1027e48a304056f265a374f355ef88d6167b5524|Revert "docker - appliance system"|Sat, 10 Feb 2018 15:44:56 +0100|Sat, 10 Feb 2018 15:44:56 +0100
+893187ac70fb345bb39fc62411c74e0ad8aaa2bc|docker|Sat, 10 Feb 2018 15:41:17 +0100|Sat, 10 Feb 2018 15:41:17 +0100
+360f31294146973b0391a00d767282712041ee69|docker - appliance system|Sat, 10 Feb 2018 14:22:28 +0100|Sat, 10 Feb 2018 14:22:28 +0100
+4d6952e9ffcb9f1c132f051d1449549ece375a67|docker - appliance - devenv_trinitycore|Fri, 9 Feb 2018 22:53:46 +0100|Fri, 9 Feb 2018 22:53:46 +0100
+25c96f166df112a4e75d0ddfa88a7b07156f20c6|docker - images|Fri, 9 Feb 2018 16:12:31 +0100|Fri, 9 Feb 2018 16:12:31 +0100
+17242f6dae4075ab810ea924603efc217fe89e91|docker - appliance - devenv_trinitycore|Fri, 9 Feb 2018 13:50:42 +0100|Fri, 9 Feb 2018 13:50:42 +0100
+f6576ed125f4463f19743112c4ffaaee02456619|docker - image|Fri, 9 Feb 2018 13:49:15 +0100|Fri, 9 Feb 2018 13:49:15 +0100
+76b71eb46335300ac1423d8ffc54c251efb61dd9|Merge branch 'master' into devenv_trinitycore|Thu, 8 Feb 2018 18:47:24 +0100|Thu, 8 Feb 2018 18:47:24 +0100
+bccbc47c900df53c798367dd4d4969c6dbfdb978|docker - image|Thu, 8 Feb 2018 18:46:39 +0100|Thu, 8 Feb 2018 18:46:39 +0100
+45d6a201e1f040fbddea0ea74bb54f1338f08aca|docker - image - readline|Thu, 8 Feb 2018 18:44:27 +0100|Thu, 8 Feb 2018 18:44:27 +0100
+bdfa8fc59b6e07251a6b21390fe2a1c9a4d05849|docker - appliance - devenv_trinitycore|Thu, 8 Feb 2018 15:37:45 +0100|Thu, 8 Feb 2018 15:37:45 +0100
+d2bdbff113808adee1db5a3dd2a24a214bdca5ce|docker - appliance - devenv_trinitycore|Thu, 8 Feb 2018 15:30:03 +0100|Thu, 8 Feb 2018 15:30:03 +0100
+d4ca152f5870814070d03b42b4fb7b9b8bb67c55|Merge branch 'master' into devenv_trinitycore|Thu, 8 Feb 2018 14:43:25 +0100|Thu, 8 Feb 2018 14:43:25 +0100
+592223190b3d21c36cc92c04c945c2f755dd4e3e|docker - appliance - devenv_cpp|Thu, 8 Feb 2018 14:41:51 +0100|Thu, 8 Feb 2018 14:43:04 +0100
+db6085efae75ffd4b4dc9eee8f0ac39cc996dd9d|docker - appliance - devenv_cpp|Thu, 8 Feb 2018 14:41:51 +0100|Thu, 8 Feb 2018 14:41:51 +0100
+2b27f49641fe9743cf54c2f3beeb5b02e9289646|Merge branch 'master' into devenv_trinitycore|Thu, 8 Feb 2018 09:55:04 +0100|Thu, 8 Feb 2018 09:55:04 +0100
+a1e4a948f916ed998f96bfb25d5700ba540d1622|docker - image - coreutils|Thu, 8 Feb 2018 09:52:40 +0100|Thu, 8 Feb 2018 09:54:33 +0100
+a2c3ee25452ebbf43a07e2265b6a11fdfd63c18c|docker - image and appliance building|Thu, 8 Feb 2018 09:50:16 +0100|Thu, 8 Feb 2018 09:54:26 +0100
+95aa86173a1cb3e87d31bb9e794a82e61ef1fe6b|docker - image - coreutils|Thu, 8 Feb 2018 09:52:40 +0100|Thu, 8 Feb 2018 09:52:40 +0100
+928a12caadfc777def4c69c258a7d31868a7d5cb|docker - image and appliance building|Thu, 8 Feb 2018 09:50:16 +0100|Thu, 8 Feb 2018 09:50:16 +0100
+48c5cf88c77b72ada7f77d03ca5fa865a8908c84|docker - appliance - devenv_trinitycore|Wed, 7 Feb 2018 10:00:34 +0100|Wed, 7 Feb 2018 10:00:34 +0100
+95c66bfcc3d6307d6c2f3484442b33e0ee15044e|docker - appliance - devenv_trinitycore|Tue, 6 Feb 2018 21:37:49 +0100|Tue, 6 Feb 2018 21:37:49 +0100
+708a6a44c828f5135340e89e74175fb47db38e6a|vagrant - configuration|Sun, 4 Feb 2018 14:43:32 +0100|Sun, 4 Feb 2018 14:43:32 +0100
+0586079baf9c0571fa996aa472ec5a2a935a9bc8|docker - appliance management system|Sun, 4 Feb 2018 12:38:04 +0100|Sun, 4 Feb 2018 12:38:04 +0100
+362ff90f147ffd8dcf6262c309fe3608b65f37a8|docker - appliance management system|Sat, 3 Feb 2018 14:39:30 +0100|Sat, 3 Feb 2018 14:39:30 +0100
+4b88b965df903ccab26ad5c0e453bedbda168dbc|docker - appliance - devenv_cpp|Thu, 1 Feb 2018 11:04:38 +0100|Thu, 1 Feb 2018 11:04:38 +0100
+d4b11605fd2c73d108cee166779bd30201f7ca46|vagrant - update|Thu, 1 Feb 2018 10:03:08 +0100|Thu, 1 Feb 2018 10:03:08 +0100
+93bb387d4036e33a502b3c6a424e9f2ab216e954|docker - bootstrap and appliance|Wed, 31 Jan 2018 22:28:08 +0100|Wed, 31 Jan 2018 22:28:08 +0100
+8efe45e6684afaa25ba25e11ebc5c09700e7190f|Merge branch 'master' of github.com:MetaBarj0/carrier|Wed, 31 Jan 2018 09:20:28 +0100|Wed, 31 Jan 2018 09:20:28 +0100
+ff08e40fbee1f8f7157fe3091caef8db90cefc9e|vagrant - update|Wed, 31 Jan 2018 09:19:38 +0100|Wed, 31 Jan 2018 09:19:38 +0100
+05466e61942670c3d99e68434ef67bbaf4e8a736|Update README.md|Tue, 30 Jan 2018 22:38:32 +0100|Tue, 30 Jan 2018 22:38:32 +0100
+1a0bacc65cb9df41736f1e4cceb919a1c89a0503|Merge branch 'bootstrap_update'|Tue, 30 Jan 2018 21:33:38 +0100|Tue, 30 Jan 2018 21:33:38 +0100
+a3c6ca41a5a33ede3762fe1b10a18cf0efc1d5fb|docker|Tue, 30 Jan 2018 21:32:41 +0100|Tue, 30 Jan 2018 21:32:41 +0100
+b28e8a77978a9ef7a65933c511ef47102ed96c62|docker - appliance - devenv_cpp|Tue, 30 Jan 2018 21:10:39 +0100|Tue, 30 Jan 2018 21:10:39 +0100
+3fcd6c65990a8eb7a6ef12a627d6f532c1e94c39|docker - appliance - devenv_cpp|Tue, 30 Jan 2018 20:50:38 +0100|Tue, 30 Jan 2018 20:50:38 +0100
+9e3706d4246934339ff60e63dab205817feb129e|docker - bootstrap|Tue, 30 Jan 2018 17:24:32 +0100|Tue, 30 Jan 2018 17:24:32 +0100
+a13bdf07f1ee0c1cfa76b2fc776e44e0e0f68004|docker - appliances and images|Tue, 30 Jan 2018 17:21:01 +0100|Tue, 30 Jan 2018 17:21:01 +0100
+f6b3a63bd37cca4b65bf218319b29e0664a0024b|docker - bootstrap|Tue, 30 Jan 2018 12:34:38 +0100|Tue, 30 Jan 2018 12:34:38 +0100
+4dc5be41373ac580a388564cab224b333d99db29|docker - appliance - devenv_cpp|Mon, 29 Jan 2018 18:21:23 +0100|Mon, 29 Jan 2018 18:21:23 +0100
+d3282ad9ef29f26d23a7a172deac2173df459668|docker - appliance - devenv_cpp|Mon, 29 Jan 2018 16:09:46 +0100|Mon, 29 Jan 2018 16:09:46 +0100
+52d234f40d50d56b4be0f6639921f204e538715f|docker - appliance - devenv_cpp|Mon, 29 Jan 2018 15:09:22 +0100|Mon, 29 Jan 2018 15:09:22 +0100
+0fb4366b229cd75c68b36ac97fd47c20a1eefa63|docker - appliance - devenv_cpp|Mon, 29 Jan 2018 14:49:47 +0100|Mon, 29 Jan 2018 14:49:47 +0100
+53b28cc580cf36654bb29d40bc5a293eff93c2ee|docker - appliance management system|Mon, 29 Jan 2018 11:57:13 +0100|Mon, 29 Jan 2018 11:57:13 +0100
+3b0f3db5daedab5d3a45caa0345c1da21aae61e5|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 11:44:37 +0100|Mon, 29 Jan 2018 11:44:37 +0100
+1b2498784ea5069e8268275a91c418b6204d642d|docker - image - git|Mon, 29 Jan 2018 11:43:56 +0100|Mon, 29 Jan 2018 11:43:56 +0100
+e2505b195cfa8cb1f55b6b785f1d944dcd953f03|docker - appliance management system|Mon, 29 Jan 2018 11:06:45 +0100|Mon, 29 Jan 2018 11:06:45 +0100
+df17b9d0cafe0acd65c982fd02a05d95f56b90a2|docker - appliance management system|Mon, 29 Jan 2018 11:02:17 +0100|Mon, 29 Jan 2018 11:02:17 +0100
+5d0e068066642be02d6f8872706dd816c563828e|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 10:58:31 +0100|Mon, 29 Jan 2018 10:58:31 +0100
+2c445a4592ff6b5a12aeb96351823a6fa12915cc|docker - image - git|Mon, 29 Jan 2018 10:57:58 +0100|Mon, 29 Jan 2018 10:57:58 +0100
+c5c277ef97b101810fca6ed64bea030c9303c179|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 10:56:04 +0100|Mon, 29 Jan 2018 10:56:04 +0100
+d8890582b836f7eae6a6d0453ece6c9e76baa47a|docker - image build system|Mon, 29 Jan 2018 10:55:30 +0100|Mon, 29 Jan 2018 10:55:30 +0100
+56081611fa69a0a545f4d0815167a054fa2ed816|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 10:34:33 +0100|Mon, 29 Jan 2018 10:34:33 +0100
+c25626a4fecbe119339e753e781de81f25d340c8|docker - image build system|Mon, 29 Jan 2018 10:33:15 +0100|Mon, 29 Jan 2018 10:33:15 +0100
+0c782e217cb4508399d2ee6db542c4ba08c5668b|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 09:37:46 +0100|Mon, 29 Jan 2018 09:37:46 +0100
+4fe0b4eaf61a863046380c91a4b570e8110926fd|docker - images build system|Mon, 29 Jan 2018 09:37:10 +0100|Mon, 29 Jan 2018 09:37:10 +0100
+90e92aa0aeafafd53887fd053b4d798851097a98|docker - appliance management system|Mon, 29 Jan 2018 09:36:25 +0100|Mon, 29 Jan 2018 09:36:25 +0100
+10cf6b45f16d0d3d21d5b6429f5f34f8a3752796|Merge branch 'master' into devenv-c++|Mon, 29 Jan 2018 09:18:54 +0100|Mon, 29 Jan 2018 09:18:54 +0100
+babfe6348e72c83681b6fbf290fafbbfd333571d|docker - scripts|Mon, 29 Jan 2018 09:15:49 +0100|Mon, 29 Jan 2018 09:15:49 +0100
+455a1783a1354762322aecef8fdccc8e92f68046|docker - devenv_cpp|Sun, 28 Jan 2018 18:31:45 +0100|Sun, 28 Jan 2018 18:31:45 +0100
+88c7453d1072042665c04724cae273562fc5c7db|Merge branch 'master' into devenv-c++|Sun, 28 Jan 2018 16:46:09 +0100|Sun, 28 Jan 2018 16:46:09 +0100
+e39ce97a111d260cd495124c4a0e10b13e56eae8|docker - images - mysql|Sun, 28 Jan 2018 16:44:36 +0100|Sun, 28 Jan 2018 16:44:36 +0100
+73faeaead0e52e2715d1643fed301e6ae025c433|docker - images - git|Sun, 28 Jan 2018 16:12:57 +0100|Sun, 28 Jan 2018 16:12:57 +0100
+b87dd65e31e81bc20832a7388b815f7501c49560|docker - git image|Sun, 28 Jan 2018 15:27:28 +0100|Sun, 28 Jan 2018 15:27:28 +0100
+863f0b219fe224a1f6e45b945d6e8b30b3b7ce12|docker - devenv_cpp|Sat, 27 Jan 2018 16:44:00 +0100|Sat, 27 Jan 2018 16:44:00 +0100
+1736dba106ab476e0d1cf306e9e71985ba337894|docker - appliances|Sat, 27 Jan 2018 15:42:24 +0100|Sat, 27 Jan 2018 15:42:24 +0100
+04936f51596a5a4187d6303ce3622425867ad333|docker - refacto|Sat, 27 Jan 2018 13:59:57 +0100|Sat, 27 Jan 2018 13:59:57 +0100
+1b7c5f3f20d104ffa82c9a5888f86522c4c8c97b|docker - doc|Sat, 27 Jan 2018 13:46:51 +0100|Sat, 27 Jan 2018 13:46:51 +0100
+8cfc88857b7c9994760fa08eacfab00577d065d3|docker - appliances management system|Sat, 27 Jan 2018 13:25:16 +0100|Sat, 27 Jan 2018 13:25:16 +0100
+c342c84b40a09eae53ee87b0016cafc089531b96|docker - appliance management system|Sat, 27 Jan 2018 09:32:38 +0100|Sat, 27 Jan 2018 09:32:38 +0100
+ec4f94aa3a03c1d0b19629657878148b388fef95|docker|Fri, 26 Jan 2018 22:03:57 +0100|Fri, 26 Jan 2018 22:03:57 +0100
+df99e8e1b54e325dc5dc3908ff05687dbb13686f|Merge branch 'master' into devenv-c++|Fri, 26 Jan 2018 19:24:07 +0100|Fri, 26 Jan 2018 19:24:07 +0100
+c10db1eca3e0b8939cec5e10d4864f52569565a4|docker - images building system|Fri, 26 Jan 2018 19:22:58 +0100|Fri, 26 Jan 2018 19:22:58 +0100
+4a2437459b5075847608707a6f41e6db855de1dc|docker - appliance management system|Fri, 26 Jan 2018 17:48:21 +0100|Fri, 26 Jan 2018 17:48:21 +0100
+da09363233481dc564199503eb10dab8518b84bd|docker - appliance management system|Fri, 26 Jan 2018 17:42:08 +0100|Fri, 26 Jan 2018 17:42:08 +0100
+06ad08a44b8a6327c3967730ee7cfdf748242b15|docker - appliance management system|Fri, 26 Jan 2018 14:31:54 +0100|Fri, 26 Jan 2018 14:31:54 +0100
+4509f649d84376f6eb9a5fe74577844f3b227c74|Merge branch 'master' into devenv-c++|Fri, 26 Jan 2018 13:41:18 +0100|Fri, 26 Jan 2018 13:41:18 +0100
+1bc8e383726833b2249908428ea5219a671f8217|docker - images|Fri, 26 Jan 2018 11:12:44 +0100|Fri, 26 Jan 2018 13:40:43 +0100
+2a7dc4671fceb8d1d49a37d9474f61d8ca77c43c|docker - appliance management system|Fri, 26 Jan 2018 13:40:01 +0100|Fri, 26 Jan 2018 13:40:01 +0100
+aed94fd573efa1346f4e0c82debb7f2abb57c871|docker - images|Fri, 26 Jan 2018 11:12:44 +0100|Fri, 26 Jan 2018 11:12:44 +0100
+4816bc0d61c4c8967998a549c77c8b518caf5271|docker - appliance|Fri, 26 Jan 2018 11:11:50 +0100|Fri, 26 Jan 2018 11:11:50 +0100
+f8d4c95f8c46667cb2883b9161983d715919217d|docker - appliance - devenv_cpp|Thu, 25 Jan 2018 20:18:28 +0100|Thu, 25 Jan 2018 20:18:28 +0100
+8c9387f795f623c277394a2a0988f73d3a3a09f8|docker - devenv-c++ appliance|Thu, 25 Jan 2018 18:30:17 +0100|Thu, 25 Jan 2018 18:30:17 +0100
+cd289efa3132ca3c48e2f0dfe4f6553383a52f0c|docker - devenv-c++ appliance|Thu, 25 Jan 2018 18:29:35 +0100|Thu, 25 Jan 2018 18:29:35 +0100
+36585d4c14341b38b597499c7f623a76fc41298f|Merge branch 'master' into devenv-c++|Thu, 25 Jan 2018 15:23:47 +0100|Thu, 25 Jan 2018 15:23:47 +0100
+8d2d0eeca476d2dd941841e8f6ebee1a2f649d72|docker - image|Thu, 25 Jan 2018 15:22:11 +0100|Thu, 25 Jan 2018 15:22:11 +0100
+38e3602ef507e07b315347bb9cac187a7967b389|docker - appliances|Thu, 25 Jan 2018 15:02:41 +0100|Thu, 25 Jan 2018 15:02:41 +0100
+df3b9f27d69c839c93aaae5ac0437f4b2e5aa0a8|docker - images|Thu, 25 Jan 2018 12:46:25 +0100|Thu, 25 Jan 2018 12:46:25 +0100
+4b396cf164a0a84ed9d487d6d8ea701f3d734241|docker|Thu, 25 Jan 2018 12:12:04 +0100|Thu, 25 Jan 2018 12:12:04 +0100
+9e0bf9e03af6287384a96141579df3d8f7adf2f2|docker - appliance system|Wed, 24 Jan 2018 20:43:31 +0100|Wed, 24 Jan 2018 20:43:31 +0100
+92d6c37b706031f56deeda1f3011c0f2ef06cb3f|docker - image|Wed, 24 Jan 2018 20:28:55 +0100|Wed, 24 Jan 2018 20:28:55 +0100
+b4fc2dae735a16bf16ad1cf92c3016c603799c62|docker - doc|Wed, 24 Jan 2018 19:24:53 +0100|Wed, 24 Jan 2018 19:24:53 +0100
+c16976a921bcb4fb29fd788a4920661c6eac7602|docker - auto build dependency resolver|Wed, 24 Jan 2018 19:01:49 +0100|Wed, 24 Jan 2018 19:01:49 +0100
+b86fd04f31030b25797395ccfcc47bf24ceabe0f|docker - bootstrap|Wed, 24 Jan 2018 18:52:22 +0100|Wed, 24 Jan 2018 18:52:22 +0100
+2d11b1a265cd4dff1f43ca3fa12d166b078a84d0|docker - bootstrap|Wed, 24 Jan 2018 14:25:24 +0100|Wed, 24 Jan 2018 14:25:24 +0100
+e355c1bfcde7c41d819aaacf9c695a17a9dbc74e|docker - auto build dependency resolver|Wed, 24 Jan 2018 14:17:10 +0100|Wed, 24 Jan 2018 14:17:10 +0100
+85640646282ad38e1379ff73fe12a583ea5dbcb9|docker - auto build dependency resolver|Wed, 24 Jan 2018 14:00:24 +0100|Wed, 24 Jan 2018 14:00:24 +0100
+885a83497e59fdb3ee961df9dfbc6994610c6425|docker - auto build dependency resolver|Wed, 24 Jan 2018 13:38:11 +0100|Wed, 24 Jan 2018 13:38:11 +0100
+26cf6b585cc058830c703a38c3dcbdcb566c4829|docker - auto build dependency resolver|Wed, 24 Jan 2018 13:14:00 +0100|Wed, 24 Jan 2018 13:38:03 +0100
+0dddd26b02511ea414c20c6b1167cc3578e29412|docker - auto build dependency resolver|Wed, 24 Jan 2018 12:16:57 +0100|Wed, 24 Jan 2018 12:16:57 +0100
+c3c347e984081bb6baa60c6c1c1487a75223589f|docker - generic build system|Wed, 24 Jan 2018 11:57:42 +0100|Wed, 24 Jan 2018 11:57:42 +0100
+bbc2f4ddb475936e6abecaf1ccd30b9d3aa24cdf|docker/rewriting|Tue, 23 Jan 2018 17:21:39 +0100|Tue, 23 Jan 2018 17:21:39 +0100
+64df64a9ffa6c89f3c1221595c9caed3dd2ef101|docker - re-architecture|Thu, 11 Jan 2018 11:52:10 +0100|Thu, 11 Jan 2018 11:52:10 +0100
+09bd32e50830b4e284d7d7420b433657c3448cb4|vagrant|Tue, 9 Jan 2018 16:01:02 +0100|Tue, 9 Jan 2018 16:01:02 +0100
+2be5e976dd1e9d71bd2f1e7bbd2564a19c97f5e8|docker - appliance sub system|Tue, 9 Jan 2018 10:06:02 +0100|Tue, 9 Jan 2018 10:06:02 +0100
+06794588a2355ddfb8cf23f2f8da3ab8ebd41e4b|docker/appliance system|Sun, 24 Dec 2017 17:24:16 +0100|Sun, 24 Dec 2017 17:24:16 +0100
+0dfc8f9c7ab46dfdd0003176622c4566079121c6|docker|Mon, 11 Dec 2017 11:31:06 +0100|Mon, 11 Dec 2017 11:31:06 +0100
+fbb20306791cb83c3f9e243624496e029e4cda55|docker/build script|Sun, 10 Dec 2017 20:54:14 +0100|Sun, 10 Dec 2017 20:54:14 +0100
+6d86dbee929449210da45a29a1d1a304bdf29f80|docker|Sun, 10 Dec 2017 11:19:14 +0100|Sun, 10 Dec 2017 11:19:14 +0100
+44b8b985ccd513c6078df7ae2fefd412f03d98be|docker/bootstrap|Sun, 10 Dec 2017 11:18:26 +0100|Sun, 10 Dec 2017 11:18:26 +0100
+cc3193f16ebfe32f4c6f8ccd32c982c7a066f36d|Update README.md|Fri, 8 Dec 2017 19:21:42 +0100|Fri, 8 Dec 2017 19:21:42 +0100
+231333471e47d428717dff803eb6b7132693241e|Update README.md|Fri, 8 Dec 2017 19:20:20 +0100|Fri, 8 Dec 2017 19:20:20 +0100
+254628ab1dca8b9679a17286d3e08381642df3e2|Update README.md|Fri, 8 Dec 2017 19:16:17 +0100|Fri, 8 Dec 2017 19:16:17 +0100
+70134d8e7d64ebb480c891114a30c82e3f48a4c7|Update README.md|Fri, 8 Dec 2017 19:13:24 +0100|Fri, 8 Dec 2017 19:13:24 +0100
+9408abdcff71eed3673aa77127fbf3cedf2254ad|Update README.md|Fri, 8 Dec 2017 18:56:30 +0100|Fri, 8 Dec 2017 18:56:30 +0100
+cfeb56a8cc59103593cd7ae56949156906e64000|documentation|Fri, 8 Dec 2017 18:23:35 +0100|Fri, 8 Dec 2017 18:23:35 +0100
+6055442ea0dec66ae3e2bc4a2cfe123c31bf3235|vagrant|Fri, 8 Dec 2017 17:13:24 +0100|Fri, 8 Dec 2017 17:13:24 +0100
+512b6665e57434b02a92b381fc23058bb61ef8ca|docuementation|Fri, 8 Dec 2017 13:32:01 +0000|Fri, 8 Dec 2017 13:32:01 +0000
+31f086ec4a09f12914e8b7d2a54fca3ac85f81cc|docker/fix|Fri, 8 Dec 2017 12:37:41 +0000|Fri, 8 Dec 2017 12:37:41 +0000
+eca24af1e4fb9220a9f9c1e80e2eea2d957cafe4|documentation|Fri, 8 Dec 2017 07:53:12 +0000|Fri, 8 Dec 2017 07:53:12 +0000
+e0c3f1cc0731b8230f477b28acf573afd1be5893|docker|Fri, 8 Dec 2017 07:33:25 +0000|Fri, 8 Dec 2017 07:33:25 +0000
+6855c491432739277c6401d59f1fcc9a134d9b18|docker/ghostscript|Fri, 8 Dec 2017 07:27:17 +0000|Fri, 8 Dec 2017 07:27:17 +0000
+0e257bed5ca4e648852c6400857cc97da53b62a1|docker/vim|Fri, 8 Dec 2017 07:23:40 +0000|Fri, 8 Dec 2017 07:23:40 +0000
+9d80e5e7eaf36d539ca548ceefbfd30e3b213ff9|docker/lua|Thu, 7 Dec 2017 21:08:11 +0000|Thu, 7 Dec 2017 21:08:11 +0000
+c88c7dbab8a7ad45ec65c82161f17c617ed9f68e|docker/coreutils|Thu, 7 Dec 2017 21:05:52 +0000|Thu, 7 Dec 2017 21:05:52 +0000
+d2ea42df238e3c840427c80b87c1c696443c4918|docker/go|Thu, 7 Dec 2017 21:04:01 +0000|Thu, 7 Dec 2017 21:04:01 +0000
+b059a95cd5c05f9c7f41e3eb7ff6d9ea66abc07c|docker/mysql|Thu, 7 Dec 2017 20:55:57 +0000|Thu, 7 Dec 2017 20:55:57 +0000
+684e256357e530a5b7881b1ba9b775d0623ecb54|docker/bash|Thu, 7 Dec 2017 20:50:04 +0000|Thu, 7 Dec 2017 20:50:04 +0000
+5264db7fab7c7b21143f0c795b509e16c23f03a6|docker/boost|Thu, 7 Dec 2017 20:39:40 +0000|Thu, 7 Dec 2017 20:39:40 +0000
+772d0118bff3ccb8acb60fc493532d1af21bb36b|docker/ninja|Thu, 7 Dec 2017 20:37:05 +0000|Thu, 7 Dec 2017 20:37:05 +0000
+35b4531ff3725a244b8bd597c2211182c106f28f|docker/bzip2|Thu, 7 Dec 2017 20:33:15 +0000|Thu, 7 Dec 2017 20:33:15 +0000
+d5ce2e78429302be320814862fd7672b818c9666|docker/xzutils|Thu, 7 Dec 2017 20:28:52 +0000|Thu, 7 Dec 2017 20:28:52 +0000
+7aabb161269cea62ba4bab8c9fb38a29884e5480|docker/nodejs|Thu, 7 Dec 2017 20:24:12 +0000|Thu, 7 Dec 2017 20:24:12 +0000
+f831a897e44f8dd10832e3219b32b13e55b787f2|docker/pkgconfig|Thu, 7 Dec 2017 20:21:52 +0000|Thu, 7 Dec 2017 20:21:52 +0000
+350462fa08e852b2d2276a3134a619d222b064d4|docker/icu4c|Thu, 7 Dec 2017 20:20:15 +0000|Thu, 7 Dec 2017 20:20:15 +0000
+4a2aff4d3755027c5fca43f360941f8f33ef823d|docker/python3|Thu, 7 Dec 2017 20:12:21 +0000|Thu, 7 Dec 2017 20:12:21 +0000
+c5687295d20e7622c62464519491d79c4c060c6e|docker/git|Thu, 7 Dec 2017 20:06:21 +0000|Thu, 7 Dec 2017 20:06:21 +0000
+23ffa1d4cc03bd25dfcdd6a5862686d5d13dabb4|docker/diffutils|Thu, 7 Dec 2017 20:02:44 +0000|Thu, 7 Dec 2017 20:02:44 +0000
+78d6cdb344df8a5ea88da76f7328f44e7d091684|docker/gdb|Thu, 7 Dec 2017 19:57:25 +0000|Thu, 7 Dec 2017 19:57:25 +0000
+9a378858ad09b80a5d96df99576eed68d9e476e7|docker/texinfo|Thu, 7 Dec 2017 19:51:44 +0000|Thu, 7 Dec 2017 19:51:44 +0000
+1c88752ebef81cbcf5ec4673519e199c5f87c10e|docker/readline|Thu, 7 Dec 2017 19:46:53 +0000|Thu, 7 Dec 2017 19:46:53 +0000
+9a6f238f05310dfb92b3bb671f27a04ba5c09ad5|docker/isl|Thu, 7 Dec 2017 19:44:17 +0000|Thu, 7 Dec 2017 19:44:17 +0000
+c16204fc59b73a0426f365cf5f6894a2df009c3c|docker/mpc|Thu, 7 Dec 2017 19:41:27 +0000|Thu, 7 Dec 2017 19:41:27 +0000
+e49a958f6441fb63d7122add7562bf3fd810c3e9|docker/mpfr|Thu, 7 Dec 2017 19:38:38 +0000|Thu, 7 Dec 2017 19:38:38 +0000
+b77182864f88c3254b3ff52283a16e1aa7b784ad|docker/upx|Thu, 7 Dec 2017 19:23:59 +0000|Thu, 7 Dec 2017 19:23:59 +0000
+78748b576f93ee285173014e2f8f1844ea80d128|docker/ucl|Thu, 7 Dec 2017 19:10:37 +0000|Thu, 7 Dec 2017 19:10:37 +0000
+df3caa104d3d3bd2cf03ca688e75918aae871e5a|docker/python2|Thu, 7 Dec 2017 19:03:26 +0000|Thu, 7 Dec 2017 19:03:26 +0000
+10c241b0208cfd6b8e0ac9b26c26987efb12a2c5|docker/autoconf|Thu, 7 Dec 2017 17:48:21 +0000|Thu, 7 Dec 2017 17:48:21 +0000
+f04b0bb053465f6e322534dea579b6daa2ab5721|docker/gettext|Thu, 7 Dec 2017 17:43:27 +0000|Thu, 7 Dec 2017 17:43:27 +0000
+bf6178262f03ea174909e0d9f8c96c188aad9498|docker/pcre2|Thu, 7 Dec 2017 17:37:53 +0000|Thu, 7 Dec 2017 17:37:53 +0000
+5cc6f203d9cd12114fcde43bd31100a0c7bbd6e5|docker/expat|Thu, 7 Dec 2017 17:35:37 +0000|Thu, 7 Dec 2017 17:35:37 +0000
+65cec5dc6389d821755b3d70564b97834d41cc3e|docker/curl|Thu, 7 Dec 2017 17:32:05 +0000|Thu, 7 Dec 2017 17:32:05 +0000
+1f736267a0d033552daa8ac1acc2824ed164577a|docker/openssh|Thu, 7 Dec 2017 16:22:46 +0000|Thu, 7 Dec 2017 16:22:46 +0000
+acdf0833e2fd1b36be472b32db5aefff0c1465f6|docker/openssl|Thu, 7 Dec 2017 16:12:58 +0000|Thu, 7 Dec 2017 16:12:58 +0000
+7b545a683debc7a6a5007e8095e4cb48cedb7518|docker/perl|Thu, 7 Dec 2017 16:06:21 +0000|Thu, 7 Dec 2017 16:06:21 +0000
+132574cddcb62d1ba3095efdf1ec8d703cb066c9|docker/cmake|Thu, 7 Dec 2017 15:59:49 +0000|Thu, 7 Dec 2017 15:59:49 +0000
+56c96ac602ec212aaf9dfbfe2d35bb6952565a6c|docker/ncurses|Thu, 7 Dec 2017 15:55:47 +0000|Thu, 7 Dec 2017 15:55:47 +0000
+eb6c829353c1e7cd5c4c5d615c584bf3443a5bd6|docker/zlib|Thu, 7 Dec 2017 15:51:04 +0000|Thu, 7 Dec 2017 15:51:04 +0000
+3ae10c3b27a7491d68ae71976981834b1fa6feed|docker/wget|Thu, 7 Dec 2017 15:45:26 +0000|Thu, 7 Dec 2017 15:45:26 +0000
+b68f454e2ac722bb3915a93e9dbd7daee0a44c92|docker/gnutls|Thu, 7 Dec 2017 15:39:17 +0000|Thu, 7 Dec 2017 15:39:17 +0000
+65d1462975b377ec8c516c1cd3a15ce26fd22859|docker/nettle|Thu, 7 Dec 2017 15:25:03 +0000|Thu, 7 Dec 2017 15:25:03 +0000
+9da5a9a71877129693d85f8c0f03e4ad1433ff91|docker|Thu, 7 Dec 2017 14:40:04 +0000|Thu, 7 Dec 2017 14:40:04 +0000
+d30519d3e9b0be74f87c81bd7dceae4baec6da84|docker|Thu, 7 Dec 2017 14:22:58 +0000|Thu, 7 Dec 2017 14:22:58 +0000
+6125850bce27ba946fb47f9c331af66b714e67b6|docker|Thu, 7 Dec 2017 13:59:51 +0000|Thu, 7 Dec 2017 13:59:51 +0000
+7a43a8b413ba4012e0ca76de75a931e439f3185f|docker|Thu, 7 Dec 2017 13:57:57 +0000|Thu, 7 Dec 2017 13:57:57 +0000
+935b749ac7f900b31d2d29253e2d3d7e1e285edd|docker|Thu, 7 Dec 2017 13:40:04 +0000|Thu, 7 Dec 2017 13:40:04 +0000
+d01be8daacb007cfaf3a240fd6afba8ce1b1c33f|docker|Thu, 7 Dec 2017 13:29:31 +0000|Thu, 7 Dec 2017 13:29:31 +0000
+67cce40c3c7a76edff1f0af977178cb7e2a2fc16|docker|Thu, 7 Dec 2017 10:33:57 +0000|Thu, 7 Dec 2017 10:33:57 +0000
+b5fc5d6f67c486e304f6747699b35c5a3f160ae9|docker|Thu, 7 Dec 2017 09:22:55 +0000|Thu, 7 Dec 2017 09:22:55 +0000
+9c21f130584829d94453f7506abd77cba3492361|docker|Wed, 6 Dec 2017 21:57:43 +0000|Wed, 6 Dec 2017 21:57:43 +0000
+4edff61f12223de081f8620f954f25be5dea4228|docker|Wed, 6 Dec 2017 15:47:01 +0000|Wed, 6 Dec 2017 15:47:01 +0000
+c0a04f31d535d3e507882d08ae7c7c10f81da9e0|docker|Wed, 6 Dec 2017 15:38:46 +0000|Wed, 6 Dec 2017 15:38:46 +0000
+373e264b435fc5f747315ac851c90b26574e3cea|docker|Wed, 6 Dec 2017 15:37:13 +0000|Wed, 6 Dec 2017 15:37:13 +0000
+b8b1f7d6b01d688ca11fc04bc1aece49ec3a34a6|docker|Wed, 6 Dec 2017 15:17:31 +0000|Wed, 6 Dec 2017 15:17:31 +0000
+04eab70020ed57e836fa3e3f474b140291dbf999|docker/build tools|Tue, 5 Dec 2017 14:40:33 +0000|Tue, 5 Dec 2017 14:40:33 +0000
+c2906e439871ab365815364b0ba40a57acf7ea7e|docker/m4|Tue, 5 Dec 2017 14:37:19 +0000|Tue, 5 Dec 2017 14:37:19 +0000
+9012dca707cfa3e00bbde330d2fff329aa2f5899|docker/bootstrap|Tue, 5 Dec 2017 12:24:42 +0000|Tue, 5 Dec 2017 12:24:42 +0000
+0074ef1a32422e87294dc63cfb8e384a7eaab1c7|docker/bootstrap|Tue, 5 Dec 2017 11:15:22 +0000|Tue, 5 Dec 2017 11:15:22 +0000
+8a6c2c538cd13d9a26a6f6aa207d57126e922200|docker/build tools|Tue, 5 Dec 2017 10:31:16 +0000|Tue, 5 Dec 2017 10:31:16 +0000
+caf5209e285813fd7b99f344dc01fb4295fb5d13|docker/ghostscript|Wed, 29 Nov 2017 11:35:37 +0100|Wed, 29 Nov 2017 11:35:37 +0100
+c46ca2b23c794a9e0a6528756daa29fc7380a8eb|docker/go|Tue, 28 Nov 2017 20:25:08 +0000|Tue, 28 Nov 2017 20:25:08 +0000
+3a705497150c55a6aacc1470c540127f8dd7382a|docker|Tue, 28 Nov 2017 16:38:56 +0000|Tue, 28 Nov 2017 16:38:56 +0000
+a449a5259e97d8cc34ba66ab21bd8863742754fb|docker|Tue, 28 Nov 2017 13:23:20 +0000|Tue, 28 Nov 2017 13:23:20 +0000
+f7fdfce192807a5f8ce11260fc40ad37e8d2611e|docker|Tue, 28 Nov 2017 11:24:27 +0000|Tue, 28 Nov 2017 11:24:27 +0000
+55adba5595467700ccad00f3fabf996ac73eee69|docker/bash|Tue, 28 Nov 2017 10:42:52 +0000|Tue, 28 Nov 2017 10:42:52 +0000
+3ef871859d205c84cd40dc12db533e1dea338bf6|docker/go|Tue, 28 Nov 2017 09:19:41 +0000|Tue, 28 Nov 2017 09:19:41 +0000
+68d215452a757bbc77c27560b5cbed0f08ba7fbd|docker/mysql|Fri, 24 Nov 2017 23:22:02 +0000|Fri, 24 Nov 2017 23:22:02 +0000
+d691d49813303579e15ce8e81e828da3ac995c68|docker/ninja|Fri, 24 Nov 2017 19:47:51 +0000|Fri, 24 Nov 2017 19:47:51 +0000
+bcaa45829e9ff01b6e78176019fc617aefdbd0ad|docker/git|Fri, 24 Nov 2017 19:06:51 +0000|Fri, 24 Nov 2017 19:06:51 +0000
+5a76da87e1334e9fc695d6983a6a22cc828b14d3|docker|Fri, 24 Nov 2017 18:29:25 +0000|Fri, 24 Nov 2017 18:29:25 +0000
+d0fc9aff4cd2e90d92a36247e5681849c16a6de8|docker|Fri, 24 Nov 2017 16:00:33 +0000|Fri, 24 Nov 2017 16:00:33 +0000
+de2dbcb90e63279a5a02227d13bcec4373343864|docker|Fri, 24 Nov 2017 15:58:30 +0000|Fri, 24 Nov 2017 15:58:30 +0000
+994a9b3b7d4f11e0e6e2b666e19365434e739bdb|docker|Fri, 24 Nov 2017 09:36:53 +0000|Fri, 24 Nov 2017 09:36:53 +0000
+f90947e54e9c2940c394f5663d03d684bb5bef06|docker/pkgconfig|Thu, 23 Nov 2017 14:31:52 +0000|Thu, 23 Nov 2017 14:31:52 +0000
+d3a185a709fe3080e03bc1824d3148fb81c4e066|docker/icu4c|Thu, 23 Nov 2017 14:24:15 +0000|Thu, 23 Nov 2017 14:24:15 +0000
+15be184c11a5d847ed0e302a863f916bfd8e43e6|docker/python3|Thu, 23 Nov 2017 14:09:40 +0000|Thu, 23 Nov 2017 14:09:40 +0000
+9ee603701e43198fdd42c9a18d6171310c04fd59|docker|Thu, 23 Nov 2017 10:28:30 +0000|Thu, 23 Nov 2017 10:28:30 +0000
+333f8ce26830a25033be2f88ef350ece35999b9b|Merge branch 'dev' of github.com:MetaBarj0/scripts into dev|Tue, 21 Nov 2017 17:12:37 +0100|Tue, 21 Nov 2017 17:12:37 +0100
+65e3f0d2554d80d024eecf8a2839e233d5564690|docker/build-tools|Tue, 21 Nov 2017 17:12:08 +0100|Tue, 21 Nov 2017 17:12:08 +0100
+0cdc7178224ee41ebb4876550968d4b4be36dbbb|docker|Tue, 21 Nov 2017 09:21:47 +0000|Tue, 21 Nov 2017 09:21:47 +0000
+30676be0c07fd3b1c05e0441b370171e6622947e|docker/isl|Fri, 17 Nov 2017 16:33:30 +0000|Fri, 17 Nov 2017 16:33:30 +0000
+d860dfd3131071f76c2d084e61d8d11248e49ee0|docker/mpc|Fri, 17 Nov 2017 16:26:52 +0000|Fri, 17 Nov 2017 16:26:52 +0000
+8d855a348cccef6b741be26f5f14ec787cedc106|docker/mpfr|Fri, 17 Nov 2017 12:23:53 +0000|Fri, 17 Nov 2017 12:23:53 +0000
+ca4843b0e52291b412622508d1f7d98f39bfa7ee|docker|Fri, 17 Nov 2017 09:50:13 +0000|Fri, 17 Nov 2017 09:50:13 +0000
+fd7138f43eb509dc276e00cdb85ebe44109c561a|docker|Thu, 16 Nov 2017 21:18:32 +0000|Thu, 16 Nov 2017 21:18:32 +0000
+8ecb4a633a48081ddd207a12a607623e707c8e2e|docker|Thu, 16 Nov 2017 20:45:40 +0000|Thu, 16 Nov 2017 20:45:40 +0000
+505f7365de7fc1680869bfd39ed0dc6ebc5a8e49|docker/gettext|Thu, 16 Nov 2017 11:19:35 +0000|Thu, 16 Nov 2017 11:19:35 +0000
+3b4cb26b6916f42dcf2c6c533656758f614979cb|docker/pcre2|Thu, 16 Nov 2017 10:59:38 +0000|Thu, 16 Nov 2017 10:59:38 +0000
+c6fef952afff2e9b111d7e2884b1d27bd99bc7a7|docker/expat|Thu, 16 Nov 2017 10:50:29 +0000|Thu, 16 Nov 2017 10:50:29 +0000
+d3f7720676124b8e607fac96934ade20dcaad52d|docker|Thu, 16 Nov 2017 10:39:02 +0000|Thu, 16 Nov 2017 10:39:02 +0000
+63b7bd809dfc47c1cd2836b4f68faf2be7775f90|docker|Wed, 15 Nov 2017 22:15:12 +0000|Wed, 15 Nov 2017 22:15:12 +0000
+b910bda9c5590b10a38d8ee5c4361a1decff0464|docker/openssl|Wed, 15 Nov 2017 21:08:34 +0000|Wed, 15 Nov 2017 21:08:34 +0000
+1bfa95203e2795b82374c657209692adbf569154|docker|Wed, 15 Nov 2017 20:21:31 +0000|Wed, 15 Nov 2017 20:21:31 +0000
+117026f124da2ceb934ed8153c75f69a8f236534|docker|Wed, 15 Nov 2017 16:51:14 +0000|Wed, 15 Nov 2017 16:51:14 +0000
+e3e4c6ba6938b3b5e5f43377ee7aaad6d1320924|docker|Wed, 15 Nov 2017 14:04:54 +0000|Wed, 15 Nov 2017 14:04:54 +0000
+7504c647bf66ea98d2adb3b60c8620f7a8bcc102|docker/cmake|Wed, 15 Nov 2017 08:22:34 +0000|Wed, 15 Nov 2017 08:22:34 +0000
+fe19560e73b08c96693303473eeda5eff6507d99|docker|Wed, 15 Nov 2017 08:19:23 +0000|Wed, 15 Nov 2017 08:19:23 +0000
+553f6f773abf0582d2578b97e663116548591616|docker|Wed, 15 Nov 2017 08:08:47 +0000|Wed, 15 Nov 2017 08:08:47 +0000
+6b79fd27226cbbe04ce1147e3d5a4feebed1ecf8|docker/wget|Wed, 15 Nov 2017 08:04:19 +0000|Wed, 15 Nov 2017 08:04:19 +0000
+d36af6502387692c41382ca9cde2e75020a544b4|docker|Wed, 15 Nov 2017 07:26:53 +0000|Wed, 15 Nov 2017 07:26:53 +0000
+fa2df101b555047103cea517a1f00b7fd2c9685d|docker|Tue, 14 Nov 2017 21:53:37 +0000|Tue, 14 Nov 2017 21:53:37 +0000
+3466bfa0b35f024d7219f05cc033e47156069ca1|docker|Tue, 14 Nov 2017 21:44:05 +0000|Tue, 14 Nov 2017 21:44:05 +0000
+c8b1278fe06890456742e96a994e90e9e5abc37b|docker|Tue, 14 Nov 2017 20:33:15 +0000|Tue, 14 Nov 2017 20:33:15 +0000
+866fca9bee1e7c87ad09d5f32c8feafcea3a60e2|docker|Tue, 14 Nov 2017 19:41:13 +0000|Tue, 14 Nov 2017 19:41:13 +0000
+0d68d0c40ef84e78f554ea63e1e7c74b1c0b26d2|docker|Tue, 14 Nov 2017 15:24:38 +0000|Tue, 14 Nov 2017 15:24:38 +0000
+fc26aab73b37285cd769ba331e0ee0608f5406b0|docker|Tue, 14 Nov 2017 13:21:54 +0000|Tue, 14 Nov 2017 13:21:54 +0000
+4038cd8f44ca570fa604af1c4b3720289d2c759c|docker/build tools|Tue, 14 Nov 2017 11:10:15 +0000|Tue, 14 Nov 2017 11:10:15 +0000
+2fbfb662580778529e1d90c18370337e87168b23|docker/build tools|Tue, 14 Nov 2017 11:00:53 +0000|Tue, 14 Nov 2017 11:00:53 +0000
+37741de9a9db0cbb27f70410763086adb9003888|docker|Tue, 14 Nov 2017 10:09:31 +0000|Tue, 14 Nov 2017 10:09:31 +0000
+b932855f6bb230eac1a6cf62848401a7ecad97b5|docker|Mon, 13 Nov 2017 21:40:12 +0000|Mon, 13 Nov 2017 21:40:12 +0000
+e5b31073378c9f37ff36c25538e367480fe5bbc3|docker|Mon, 13 Nov 2017 14:09:22 +0000|Mon, 13 Nov 2017 14:09:22 +0000
+8f32bbc9cdd0668f3748f1d35046bf28040a95a7|docker/zlib|Mon, 13 Nov 2017 13:29:09 +0000|Mon, 13 Nov 2017 13:29:09 +0000
+0627b1bd2c8439aacad13e6affb98bdeedcbc3f7|docker|Mon, 13 Nov 2017 13:20:30 +0000|Mon, 13 Nov 2017 13:20:30 +0000
+72ad50f4c53977267f327f91921af0c0bcfee73b|docker/build tools|Mon, 13 Nov 2017 12:12:13 +0000|Mon, 13 Nov 2017 12:12:13 +0000
+4d692c66c4af3fcc5c055b4941ee5d44dfd5d4f3|docker|Mon, 13 Nov 2017 10:41:12 +0000|Mon, 13 Nov 2017 10:41:12 +0000
+ac6cf45b59487c656f0e408f7ef9e70f03f7a212|docker|Mon, 13 Nov 2017 10:30:21 +0000|Mon, 13 Nov 2017 10:30:21 +0000
+5ad9f6f27d7755878a7630acb0967cd6b57c4368|docker/build tools|Mon, 13 Nov 2017 10:03:48 +0000|Mon, 13 Nov 2017 10:03:48 +0000
+601f95e898f4c38fca1412b790602bf52e55052c|docker|Mon, 13 Nov 2017 08:27:47 +0000|Mon, 13 Nov 2017 08:27:47 +0000
+7d212e454c2f0eaf34d5f3612ff65e3f1aa511c8|docker|Mon, 13 Nov 2017 08:14:11 +0000|Mon, 13 Nov 2017 08:14:11 +0000
+274d36f0fa2b36efb1eaa1e168136664756b28b8|docker|Sun, 12 Nov 2017 21:09:15 +0000|Sun, 12 Nov 2017 21:09:15 +0000
+8491bedd59bfd4b4e0827b0914a8dc5b09f28776|docker|Sun, 12 Nov 2017 18:15:44 +0000|Sun, 12 Nov 2017 18:15:44 +0000
+999e10080f881a889c7ce7d97c0a41ad6ab28c9e|docker/gmp|Sun, 12 Nov 2017 13:16:43 +0000|Sun, 12 Nov 2017 13:16:43 +0000
+5a6c026d5df10c1d53675d24acdad508bf9af843|docker/nettle|Sun, 12 Nov 2017 10:12:01 +0000|Sun, 12 Nov 2017 10:12:01 +0000
+174788d4ac4441ec772c6eda46e4bb5188644801|docker|Sat, 11 Nov 2017 20:42:45 +0000|Sat, 11 Nov 2017 20:42:45 +0000
+306b2431f037b32528574f26b797a80c48b280d1|docker|Sat, 11 Nov 2017 10:44:09 +0000|Sat, 11 Nov 2017 10:44:09 +0000
+c0cf66bdf4c418df66b173b6d14c48c93fd81db8|docker|Fri, 10 Nov 2017 22:31:55 +0000|Fri, 10 Nov 2017 22:32:50 +0000
+97205c25d81603846d51173ae07a3690e5f67ba1|docker|Fri, 10 Nov 2017 22:08:42 +0000|Fri, 10 Nov 2017 22:08:42 +0000
+9134b51e5504cc31d89af8d46e08c94c946dea51|docker/bootstrap|Fri, 10 Nov 2017 10:34:31 +0000|Fri, 10 Nov 2017 10:34:31 +0000
+e44b53c5aa79b70d64e2b9b8f3039a59d7acc885|docker|Thu, 9 Nov 2017 20:20:28 +0000|Thu, 9 Nov 2017 20:20:28 +0000
+78942637f2ef6ed7617ac03a5a7fa9f8c52ccb3b|docker/git|Thu, 9 Nov 2017 20:18:33 +0000|Thu, 9 Nov 2017 20:18:33 +0000
+a83dcabc27bec53c70ca3736246d93c831d2172c|docker/cmake|Thu, 9 Nov 2017 20:18:08 +0000|Thu, 9 Nov 2017 20:18:08 +0000
+a31495e31e4033bbed8f869f2fc130bbf8591833|docker/ncurses|Thu, 9 Nov 2017 20:17:10 +0000|Thu, 9 Nov 2017 20:17:10 +0000
+38795c25d6dce33f079070bac50a258b89abcaae|docker/openssl|Mon, 6 Nov 2017 17:22:04 +0100|Mon, 6 Nov 2017 17:22:04 +0100
+17c71f32484f5f7d8f7fb67f633e7ded73937885|docker/openssl|Mon, 6 Nov 2017 17:20:01 +0100|Mon, 6 Nov 2017 17:20:01 +0100
+1f00ad307f992a9b401ec850218a054f7d45f74e|vagrant/Box4Docker|Mon, 6 Nov 2017 14:20:31 +0100|Mon, 6 Nov 2017 14:20:31 +0100
+a91ded24a86c0ae2a332c91512280ee54fb5c22a|vagrant/Box4Docker|Mon, 6 Nov 2017 12:29:56 +0000|Mon, 6 Nov 2017 12:29:56 +0000
+3429c0f5eabcf3b4cf4bfeb244257f1da41f0900|Merge branch 'dev' of github.com:MetaBarj0/scripts into dev|Mon, 6 Nov 2017 12:29:18 +0000|Mon, 6 Nov 2017 12:29:18 +0000
+17101e218ac66821d136386e233b9ce7e2400624|docker/mysql|Mon, 6 Nov 2017 12:28:24 +0000|Mon, 6 Nov 2017 12:28:24 +0000
+1f14622414b6a33fe0f37748539ddf35358323d6|Merge branch 'dev' of github.com:MetaBarj0/scripts into dev|Fri, 3 Nov 2017 14:42:49 +0100|Fri, 3 Nov 2017 14:42:49 +0100
+5c6b69665c192fd9553b076fe2788e35aa1708b1|vagrant/Box4Docker|Fri, 3 Nov 2017 14:42:10 +0100|Fri, 3 Nov 2017 14:42:10 +0100
+2342c70657b42895dd4be6e02b153c2baa1bbe0f|docker|Fri, 3 Nov 2017 12:27:50 +0000|Fri, 3 Nov 2017 12:27:50 +0000
+b37954d72fdb9220fd2385dd666f016b974c9575|docker|Wed, 1 Nov 2017 15:22:12 +0000|Wed, 1 Nov 2017 15:22:12 +0000
+2930166fd77a88d5fb1f3541329d0d224ac023cc|docker|Wed, 1 Nov 2017 12:39:34 +0100|Wed, 1 Nov 2017 12:39:34 +0100
+bd7155e2d87c079be540a656aebfb2142f046f38|docker|Mon, 30 Oct 2017 21:53:10 +0100|Mon, 30 Oct 2017 21:53:10 +0100
+89a592494eab922060dc0cdf0f144461dd9b4f93|docker|Mon, 30 Oct 2017 21:50:58 +0100|Mon, 30 Oct 2017 21:50:58 +0100
+c4002a76d10dc270708fa3133c39def9ecf2cb0d|doc|Mon, 30 Oct 2017 21:50:06 +0100|Mon, 30 Oct 2017 21:50:06 +0100
+1b7d2d0e41a211e18d4e2972e2e083723a426290|vagrant|Mon, 30 Oct 2017 19:15:53 +0100|Mon, 30 Oct 2017 19:15:53 +0100
+a039752b8801bf8e55fcbb63559f75f4b2f25736|docker/bootstrap|Mon, 30 Oct 2017 19:14:35 +0100|Mon, 30 Oct 2017 19:14:35 +0100
+9af89fce42c4cd7923e3dd55825446b810984ee7|docker|Mon, 30 Oct 2017 13:45:36 +0000|Mon, 30 Oct 2017 13:45:36 +0000
+ad9a1161f0c7e43d4fc5beb637011315149d0be9|docker/git|Sat, 28 Oct 2017 18:55:47 +0000|Sat, 28 Oct 2017 18:55:47 +0000
+8527926845438fbbb35c8244a98c0626470ee253|docker|Sat, 28 Oct 2017 09:51:34 +0200|Sat, 28 Oct 2017 09:51:34 +0200
+7cd2473a3f3944c325c3cebc030114db42c06fa9|docker|Fri, 27 Oct 2017 22:15:02 +0200|Fri, 27 Oct 2017 22:15:02 +0200
+74a2a4e4a01ff505caa8007b9b579d6dbd59b942|docker|Fri, 27 Oct 2017 22:05:43 +0200|Fri, 27 Oct 2017 22:05:43 +0200
+4c3b2f458e2c912ab9c59b1a5467ead001c38828|docker|Fri, 27 Oct 2017 21:59:07 +0200|Fri, 27 Oct 2017 21:59:07 +0200
+dd6657681533a77bce0a5bbe6bb2adbdda2f1b97|docker/git|Fri, 27 Oct 2017 12:44:47 +0000|Fri, 27 Oct 2017 12:44:47 +0000
+2903607adb2eb6aef6115f51efe8233af89eec6e|docker|Mon, 23 Oct 2017 16:50:43 +0000|Mon, 23 Oct 2017 16:50:43 +0000
+7923407cf2d58bce554f06243c344b33a1584d87|docker|Sun, 22 Oct 2017 16:09:40 +0000|Sun, 22 Oct 2017 16:09:40 +0000
+8928eafefd321bf912e8a3f156275bbccec80c72|docker|Sun, 22 Oct 2017 15:48:43 +0000|Sun, 22 Oct 2017 15:48:43 +0000
+949bbe236e9c8a11403bf90060267112ed0e7515|docker|Fri, 20 Oct 2017 18:41:20 +0000|Fri, 20 Oct 2017 18:41:20 +0000
+fb5f5cf906300029f84055b0391d0efd5cc19599|docker - bootstrap|Fri, 20 Oct 2017 18:34:47 +0000|Fri, 20 Oct 2017 18:34:47 +0000
+b153bb052f2c3a474fb2083f0b0f283289980b51|docker/published|Wed, 18 Oct 2017 22:20:05 +0000|Wed, 18 Oct 2017 22:20:05 +0000
+95fae045f0bda7c32bdfa814a08d315bc91d6663|docker/published|Wed, 18 Oct 2017 22:19:16 +0000|Wed, 18 Oct 2017 22:19:16 +0000
+8632d7cb18dd4e68107494154b975cc0935d14e3|docker/published/nettle|Wed, 18 Oct 2017 22:17:29 +0000|Wed, 18 Oct 2017 22:17:29 +0000
+9ad78bbd42a4e9d300ad7c856cc16ff4a60e026f|dockerfile/published|Wed, 18 Oct 2017 22:15:57 +0000|Wed, 18 Oct 2017 22:15:57 +0000
+d3b7b76de3336a64add8c180d5a9f674ec796e86|docker/published|Wed, 18 Oct 2017 22:15:09 +0000|Wed, 18 Oct 2017 22:15:09 +0000
+398358ac02bca1103fec9d6c05df0c09c1012426|docker/published/boost|Sun, 15 Oct 2017 03:30:32 +0000|Sun, 15 Oct 2017 03:30:32 +0000
+bb9dd9880db8e4ce1e5557b3f03bdfb17c185a4a|docker/published/nodejs|Sun, 15 Oct 2017 02:05:02 +0000|Sun, 15 Oct 2017 02:05:02 +0000
+5585fd734871a6401c95ac611fc7176a52440c0c|docker/published/python|Sun, 15 Oct 2017 02:00:08 +0000|Sun, 15 Oct 2017 02:00:08 +0000
+39acf7009cb9bf7b9b4cfd20e5baaa02926974a5|docker/published/icu|Sun, 15 Oct 2017 00:21:08 +0000|Sun, 15 Oct 2017 00:21:08 +0000
+dcf1cd807d08e59ad5681b56b6bba9b48acacf5d|docker/published/curl|Sun, 15 Oct 2017 00:19:03 +0000|Sun, 15 Oct 2017 00:19:03 +0000
+eb7643ed645e75bd4bb3b80d63479bbe45f35aed|docker/published/fixes|Sat, 14 Oct 2017 14:02:53 +0000|Sat, 14 Oct 2017 14:05:03 +0000
+5f1b75e0a8de20b307aec002569b58599c5269d0|docker/published/bootstrap|Sat, 14 Oct 2017 11:15:36 +0000|Sat, 14 Oct 2017 11:15:36 +0000
+a1d3e6e8fdbe583ee84afcd14eb4c18cb0e2ab6d|docker/published/docker-utils|Sat, 14 Oct 2017 07:20:03 +0000|Sat, 14 Oct 2017 07:28:21 +0000
+e47291f8f9d9edd52a37da67a538734af7389202|docker/published|Sat, 14 Oct 2017 05:31:49 +0000|Sat, 14 Oct 2017 06:09:13 +0000
+b47e1178d4e17217cd5210d8e1c3b2ce9eb2416a|Update build-gcc-7.2.0-musl.sh|Tue, 10 Oct 2017 21:43:57 +0200|Tue, 10 Oct 2017 21:43:57 +0200
+0822e9f0f6435b125801123d5aa5e694d2d6614d|shell/gcc build|Tue, 10 Oct 2017 19:43:22 +0200|Tue, 10 Oct 2017 19:43:22 +0200
+0ca9b5662604fc773487d97a433e877de7ac45e7|docker/published|Tue, 10 Oct 2017 18:38:25 +0200|Tue, 10 Oct 2017 18:38:25 +0200
+39de26444ab1c9d3199563b73f7e18b063ccebae|Update build-gcc-7.2.0-musl.sh|Tue, 10 Oct 2017 16:23:32 +0200|Tue, 10 Oct 2017 16:23:32 +0200
+10f13e5ad4cdcb986012fb63ce15c16140fd5693|docker/workspace/gcc|Tue, 10 Oct 2017 15:39:36 +0200|Tue, 10 Oct 2017 15:39:36 +0200
+0c88e36cc22d18c2ff6af0f48ba9e75cf3587fe7|docker/workspace/gcc|Tue, 10 Oct 2017 15:29:22 +0200|Tue, 10 Oct 2017 15:29:22 +0200
+3255af1a20f3109a4a39d472223030e0cd92eab8|docker/workspace/gcc|Tue, 10 Oct 2017 15:20:56 +0200|Tue, 10 Oct 2017 15:20:56 +0200
+0bf83bc02b12c276a9990fad6e7a036f81aaf8c8|docker/workspace/gcc|Tue, 10 Oct 2017 15:12:13 +0200|Tue, 10 Oct 2017 15:12:13 +0200
+daaa148076e18f17c9b0acff3fb6621c6ab3db70|docker/workspace/gcc|Tue, 10 Oct 2017 14:59:16 +0200|Tue, 10 Oct 2017 14:59:16 +0200
+136781e3254be0b018ece6fc9fdc8edf1737ebd0|docker/workspace/gcc|Tue, 10 Oct 2017 14:46:31 +0200|Tue, 10 Oct 2017 14:46:31 +0200
+e75d37744f07cb50df22890240e33aeda0c62652|docker/workspace/gcc|Tue, 10 Oct 2017 14:43:40 +0200|Tue, 10 Oct 2017 14:43:40 +0200
+799c75ea7b2c2a68b13119279131152ecaf35460|docker/workspace/gcc|Tue, 10 Oct 2017 14:41:47 +0200|Tue, 10 Oct 2017 14:41:47 +0200
+c5e86c5f4e614d741f10bd8fbf198627b8711ebf|docker/workspace/gcc|Tue, 10 Oct 2017 14:38:43 +0200|Tue, 10 Oct 2017 14:38:43 +0200
+581e0c57b27aa17f6371f80cb898ae759a859ca7|docker/workspace/gcc|Tue, 10 Oct 2017 14:23:52 +0200|Tue, 10 Oct 2017 14:23:52 +0200
+5104edd256b8ca01159bf3a33871257d1e033ddc|docker/workspace/gcc|Tue, 10 Oct 2017 14:20:20 +0200|Tue, 10 Oct 2017 14:20:20 +0200
+84a83eb8417b59ed5abe8a273dfdd961cb52825b|docker/workspace/gcc|Tue, 10 Oct 2017 12:25:17 +0200|Tue, 10 Oct 2017 12:25:17 +0200
+6cf3f7a3c947886580c93850e5190aca4461fc65|docker/workspace/gcc|Tue, 10 Oct 2017 12:15:34 +0200|Tue, 10 Oct 2017 12:15:34 +0200
+4c1e373361c84c007e09c46504a84153495e2fac|docker/gmp|Thu, 5 Oct 2017 21:23:08 -0700|Thu, 5 Oct 2017 21:23:08 -0700
+c04bf96adc4b9683b78a1fab8160633766c3bf8c|docker/m4|Thu, 5 Oct 2017 15:04:07 -0700|Thu, 5 Oct 2017 15:04:07 -0700
+611dfefdcaf1b789a5a2ec55267903e1fc0afad1|bootstrap/gcc|Thu, 5 Oct 2017 11:45:03 -0700|Thu, 5 Oct 2017 11:45:03 -0700
+70d7cb1373f0af7f8540646bc94ad1b85eae2b9b|bootstrap/gcc installation|Thu, 5 Oct 2017 08:26:43 -0700|Thu, 5 Oct 2017 08:26:43 -0700
+e4cfa6a6657c034cfdb403efddb1278f92fbe3c2|workspace/gcc|Thu, 5 Oct 2017 06:43:14 -0700|Thu, 5 Oct 2017 06:43:14 -0700
+f0a47e8a6ee55daa2972f34308976b9ba29c6767|workspace/gcc|Thu, 5 Oct 2017 06:27:20 -0700|Thu, 5 Oct 2017 06:27:20 -0700
+4dcfe0a88b128d6df64143b11e94bc16d0724396|bootstrap|Thu, 5 Oct 2017 05:00:08 -0700|Thu, 5 Oct 2017 05:00:08 -0700
+028ad79e12a961b48bef2d5e19af206f28124ed7|bootstrap|Thu, 5 Oct 2017 04:56:42 -0700|Thu, 5 Oct 2017 04:56:42 -0700
+66380e965fba65d94e6fff7e2e7167d595de304f|docker/bootstrap|Wed, 4 Oct 2017 05:36:21 -0700|Wed, 4 Oct 2017 05:36:21 -0700
+848507ba654ac7518f1fcbd46f3fb7e16a890b7f|shell/gcc * build|Tue, 3 Oct 2017 07:02:11 -0700|Tue, 3 Oct 2017 07:02:11 -0700
+e948e6f76fe0e2bf355117270e3592d3a9b39505|shell/build gcc *|Tue, 3 Oct 2017 06:35:07 -0700|Tue, 3 Oct 2017 06:35:07 -0700
+cb1d04508ca645a298cdc4994f97fa9ec12502fd|Revert "shell/gcc cross build"|Tue, 3 Oct 2017 02:45:31 -0700|Tue, 3 Oct 2017 02:45:31 -0700
+607bfac2cedc22224eff38aa36efd497745d265a|shell/gcc cross build|Mon, 2 Oct 2017 20:22:13 -0700|Mon, 2 Oct 2017 20:22:13 -0700
+91aed11e65e3c05098161f7f37215412574996fd|docker/bootstrap|Mon, 2 Oct 2017 17:07:59 -0700|Mon, 2 Oct 2017 17:07:59 -0700
+abce8fb8601b6f155008e5fd3e947c7d36beefcc|docker/bootstrap|Mon, 2 Oct 2017 14:24:39 -0700|Mon, 2 Oct 2017 14:24:39 -0700
+2f2cb7fae70897450c9fa95af7c964830fa55553|docker/bootstrap|Mon, 2 Oct 2017 13:44:50 -0700|Mon, 2 Oct 2017 13:44:50 -0700
+d28b611e1e7644d544281d37882ec6065778666a|docker/published/openssl|Thu, 28 Sep 2017 13:14:57 +0200|Thu, 28 Sep 2017 13:14:57 +0200
+5556855b29e54954dfbb85719f898d3b08b36a59|docker/published/wget|Wed, 27 Sep 2017 15:34:48 +0200|Wed, 27 Sep 2017 15:34:48 +0200
+bef93aef0e3d08952674694afe516a23ba2e2b73|docker/publisched/gnutls|Wed, 27 Sep 2017 14:23:30 +0200|Wed, 27 Sep 2017 14:23:30 +0200
+77d53e2677f8f326fc9402b929ffd73a1d651f06|docker/published/gmp|Wed, 27 Sep 2017 14:00:42 +0200|Wed, 27 Sep 2017 14:00:42 +0200
+d7c200c46ed230e7f950d615e9fa50ab9f820579|docker/published/nettle|Wed, 27 Sep 2017 11:56:30 +0200|Wed, 27 Sep 2017 11:56:30 +0200
+25906192fc145668615d3b8eac210db5516a7d0d|docker/published/nettle|Tue, 26 Sep 2017 21:37:33 +0200|Tue, 26 Sep 2017 21:37:33 +0200
+d24be5e05775fed0826940cd974839e01bdc0659|docker/publisched/m4|Tue, 26 Sep 2017 21:20:10 +0200|Tue, 26 Sep 2017 21:20:10 +0200
+2e4a57c53f6a922234fccebcbc176411a6e7eb7c|docker/published/cmake|Mon, 25 Sep 2017 22:57:47 +0200|Mon, 25 Sep 2017 22:57:47 +0200
+9fabb0f372cc682759acfea3a6695db658b8e710|Update README.md|Mon, 25 Sep 2017 18:00:25 +0200|Mon, 25 Sep 2017 18:00:25 +0200
+27519469691a1a512e5871dc046e0e47d413c08d|docker/published/upx|Mon, 25 Sep 2017 17:04:03 +0200|Mon, 25 Sep 2017 17:04:03 +0200
+0725950fda7fd02c91d10812ca29546235e34dcb|docker/published/zlib|Mon, 25 Sep 2017 14:07:27 +0200|Mon, 25 Sep 2017 14:07:27 +0200
+3af6aede78c03c1db7c50e1138881b8b490ade7c|docker/ucl|Sun, 24 Sep 2017 20:59:56 +0200|Sun, 24 Sep 2017 20:59:56 +0200
+e943136d30b5076b80a22a5a7d3c07e9c121535e|docker/ucl|Sun, 24 Sep 2017 20:57:41 +0200|Sun, 24 Sep 2017 20:57:41 +0200
+9ce2d099301124e972f5d748069bb52699560a91|docker/ucl|Sun, 24 Sep 2017 20:49:38 +0200|Sun, 24 Sep 2017 20:49:38 +0200
+9a6eff522c77a6627fca3c4e14497a1bad65e143|Merge branch 'dev' of github.com:MetaBarj0/scripts into dev|Sun, 24 Sep 2017 19:16:53 +0200|Sun, 24 Sep 2017 19:16:53 +0200
+83e187921b1c7a1e86f1faef2e40aa0f519e8b3e|docker/ucl|Sun, 24 Sep 2017 19:16:15 +0200|Sun, 24 Sep 2017 19:16:15 +0200
+22304d396dd30e595041b96a078f108f82b71e64|docker/bootstrap|Sun, 24 Sep 2017 16:51:42 +0200|Sun, 24 Sep 2017 16:51:42 +0200
+5213cb4520ac23e57173d1e4c9c15aff3d92487c|docker/bootstrap|Sun, 24 Sep 2017 16:49:03 +0200|Sun, 24 Sep 2017 16:49:03 +0200
+3e02873facafb04ed7cd9282064d7c88da14e616|docker/bootstrap|Fri, 22 Sep 2017 14:32:12 +0200|Fri, 22 Sep 2017 14:32:12 +0200
+b25898da2cc980f36f9c5848773a034499006192|docker/workspace/bootstrap|Thu, 21 Sep 2017 22:13:14 +0200|Thu, 21 Sep 2017 22:13:14 +0200
+2b2dc3462a0b125cbf288012e98e2754e9aec1f9|bootstrap|Wed, 20 Sep 2017 22:34:09 +0200|Wed, 20 Sep 2017 22:34:09 +0200
+2fe4a28d52a8209e4712649e766d8163264de498|bootstrap|Wed, 20 Sep 2017 13:52:41 +0200|Wed, 20 Sep 2017 13:52:41 +0200
+e79d8bf3a8ea3bcdffcf2f70ca1d08705010275f|gcc|Tue, 19 Sep 2017 23:17:28 +0200|Tue, 19 Sep 2017 23:17:28 +0200
+901ee930b606a54eb2be5b232b48af49190f26a7|gcc|Tue, 19 Sep 2017 23:11:51 +0200|Tue, 19 Sep 2017 23:11:51 +0200
+4eb04930a298f68b51bd40e1027bdcbd5afbde41|bootstrap/make|Tue, 19 Sep 2017 22:39:53 +0200|Tue, 19 Sep 2017 22:39:53 +0200
+7ed27c80d87b74c50e9f8dd4c17a90457a4f44aa|gcc build script|Tue, 19 Sep 2017 22:22:37 +0200|Tue, 19 Sep 2017 22:22:37 +0200
+2e999a06b3d0c992b56fd5e7f9ffa83afd058385|docker/bootstrap|Mon, 18 Sep 2017 20:55:25 +0200|Mon, 18 Sep 2017 20:55:25 +0200
+12676e53221f24d0429ed30344d05bb0fe7380f9|docker/bootstrap|Mon, 18 Sep 2017 20:45:55 +0200|Mon, 18 Sep 2017 20:45:55 +0200
+be0dc993cb3547e78b3a7f959b389a96d1482a9d|docker/bootstrap|Sun, 17 Sep 2017 22:17:27 +0200|Sun, 17 Sep 2017 22:17:27 +0200
+31b562e636638ba09436f3941caeb015402fca10|docker/bootstrap|Fri, 15 Sep 2017 17:32:16 +0200|Fri, 15 Sep 2017 17:32:16 +0200
+a0ddb9ff7c2a517ba8f0c53115446f4a3d861413|docker/bootstrap|Fri, 15 Sep 2017 10:29:19 +0200|Fri, 15 Sep 2017 10:29:19 +0200
+1615020be028036187cf6ad25e69c66aaa785ac9|docker|Fri, 15 Sep 2017 10:22:29 +0200|Fri, 15 Sep 2017 10:22:29 +0200
+9c591da9e340b31c160994fa58ed55c8fb8892be|Update README.md|Thu, 14 Sep 2017 13:42:50 +0200|Thu, 14 Sep 2017 13:42:50 +0200
+610bc10650db4a7156540d13b9f3b32d450ee4cd|updated README.md|Thu, 14 Sep 2017 13:41:58 +0200|Thu, 14 Sep 2017 13:41:58 +0200
+c1dbf15cfb6407cfdf494ad66e978cc700aab266|docker|Thu, 14 Sep 2017 13:39:48 +0200|Thu, 14 Sep 2017 13:39:48 +0200
+cbd1972ffb16e9f5f11f6eaa114de7da56c05bf3|Update README.md|Wed, 13 Sep 2017 18:49:37 +0200|Wed, 13 Sep 2017 18:49:37 +0200
+0f9752b9dd075c6f98be76465d4e87b3f3cc8094|added build-gcc-7.2.0-musl.sh|Wed, 13 Sep 2017 18:45:25 +0200|Wed, 13 Sep 2017 18:45:25 +0200
+935044779e18ea266603169fe863fba904263f0c|Initial commit|Wed, 13 Sep 2017 18:35:34 +0200|Wed, 13 Sep 2017 18:35:34 +0200
