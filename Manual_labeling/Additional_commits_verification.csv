@@ -1,0 +1,245 @@
+repo_name,sha,message,Type,Refactoring Type,Dockerfile/Docker-compose
+batimap,11ed7e485161678cf8350467cffe06af94dcd4a6,"refactor(CI): use same tasks for all docker images build
+",Type1,,
+batimap,a9602a9c6aa79da3b10853b7200b255fc945ada0,"refactor(docker): rename postgis-init container to initializer
+",Type2,,Dockerfile  
+batimap,15ff277694b96ed05f204ae6df7e752298549518,"refactor: configure docker-compose for dev
+",Type4,,Dockerfile  
+bookbrainz-site,495d2f6063fa67110606509beb5c5b91bd613123,"""refactor(docker): Moved compose file to root",Type1,,
+bookbrainz-site,7302921e0f41fdfdf011eecd908c539253a52ab8,"""refactor(docker): Sensible defaults using docker services names",Type1,,
+bridge-adaptivity,93b5fffb064ff02cbdec8c77077280a7cc401291,"refactor: depreciate entrypoint and simplify dockerfile
+",Type2,,Dockerfile  
+cloudfeaster,5ce3ff2fa63db990b5ede9a1b77b46a99b4e866e,"refactor: DRYup docker push in CirleCI config
+",Type1,,
+cloudfeaster,78ea531d0efb9cec0455ff4b24cf3c406b042389,"refactor: simplify build-docker-image.sh a bit
+",Type1,,
+cloudfeaster,ac75d5c87d0a8b0f7fdb65f1d01794effbeee7c3,"refactor: simplify docker image build for runtime
+",Type1,,
+cloudfeaster,4e68a55e4b7a3670df2fe8189047f8c769d08d83,"refactor: put existing docker stuff in dev-env
+",Type1,,
+cloudfeaster,47e280502dc60f580e0cf7dfcbe9c43c6280690a,"refactor: simplify dev_env/build-docker-image.sh
+",Type1,,
+cloudfeaster,0b7cdd56304d90f38dc82684ba2b0d7cea2c6967,"fix: docker build in CircleCI (minor refactor too)
+",Type1,,
+cloudfeaster,c18e9d18f7a6d312a8f1b990e5d1abf3f957dd21,"refactor: build-docker-image.sh
+",Type1,,
+cloudfeaster,a8407c8be29097d5073f00dcdff6c614b0a95707,"refactor: circleci docker image tag & push
+",Type1,,
+cloudfeaster,0183708facac79f0172f50bbf97a148bb0cac0d9,"refactor .travis.yml handling of docker iamges
+",Type1,,
+CogStack-Pipeline,8e9a8c371cf7cacbf5936fa1983ed61ab6956f93,"updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+",Type3,Update Base image TAG,Dockerfile  
+CogStack-Pipeline,8e9a8c371cf7cacbf5936fa1983ed61ab6956f93,"updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+",Type3,rename service,Docker-compose
+CogStack-Pipeline,cc36a624260bbdbc8a2ab800c927da39f1e03267,"updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+",Type3,Update Base image TAG,Dockerfile  
+CogStack-Pipeline,cc36a624260bbdbc8a2ab800c927da39f1e03267,"updated examples according to recentbuild refactoring; changed the names of services to be more descriptive; modified run_pipeline script to relay on SERVICES_USED variable to wait for provided services; kibana now uses ELASTICSEARCH_URL directly provided in docker-compose configuration file;
+",Type3,rename service,Docker-compose
+CogStack-Pipeline,c76a731dc09fbf5e06a7c1486160787def28deb2,"refactoring docker image build process -- using multi stage build
+",Type3, Extract Stage,Dockerfile  
+commander,21ae2bfe74f6ed1d1e114cac2f30bd3baad548ea,"refactoring; move docker-compose yml files into their own dir
+",Type1,,
+commander,eed59db227e75b967f0549cc79891c25b451f569,"refactoring; move [sh] and [update] into individual scripts that are docker-catted out of the commander image (like [start-point create])
+",Type1,,
+commander,95f40c68ca4e9dbe3a82883874608d839e769972,"refactoring; delete dead entries from .dockerignore file
+",Type1,,
+commander,5de1bb674db943f54a90624971fa2c2752ea3dd2,"refactoring; change [docker images] to [docker image ls]
+",Type1,,
+commander,34e7aad289fd3a225882c2ecfbb13fd96fe1e252,"refactoring; change [docker images] to [docker image ls]
+",Type1,,
+Contrast-Finder,338fc97ab0151ce37f2eaad5a1c796bb12e83118,"build_and_run-with-docker.sh - refactor + fixed #95
+",Type1,,
+crunchy-containers,2a29d40da4bbd648df8d5d0bbe7d17c9fc2b3092,"refactor docker examples
+",Type1,,
+crunchy-containers,671362972d7daeb0e037330bfe6384e14f7ee9bb,"refactor docker examples and related docs
+",Type1,,
+crunchy-postgresql-manager,c4d3c82b6fd2bbc7d7bee9d8f43813e161734312,"refactor cpm-node-proxy dockerfile and makefile
+",Type4,,Dockerfile  
+crunchy-postgresql-manager,8ba2c4c90fcb3576af50851c3418aea450d77d6d,"refactor cpm-node dockerfile and makefile
+",Type4,,Dockerfile  
+crunchy-postgresql-manager,9188a91807189f98dd67995b0d8c435c71503a07,"refactor dockerfile and makefile
+",Type4,,Dockerfile  
+crunchy-postgresql-manager,5bbee94526543fdf72804c0b49b6cef834875016,"refactor cpm-backup-job dockerfile and makefile
+",Type4,,Dockerfile  
+crunchy-postgresql-manager,05299bfd99d5df3cf62e178438d7d68114511568,"refactor cpm-admin dockerfile and makefile
+",Type4,,Dockerfile  
+cyber-dojo-web,bfabc1e2e9e95ed7349e3e8c9d324041e405825e,"[ci skip] refactoring; deleted dead lines from .dockerignore
+",Type1,,
+cyber-dojo-web,6edcc2e476a16901a1880c10b3b373a25cfc8300,"refactoring; kata_ids are now based on test's hex-id and not random-uuid; tests no longer leak docker volumes from runner-stateful
+",Type1,,
+cyber-dojo-web,5d8215c530bd8cf74e119692798bd6f4655ec8be,"refactoring; added comment on way to improve docker-container-up script file
+",Type1,,
+cyber-dojo-web,f1fac6e9da02138fb36c41d304746bb078cc3b92,"refactoring; create execute-around method in app-controller tests to reduce chance of leaking docker volumes
+",Type1,,
+cyber-dojo-web,a4ad258dc6c7ca72ab730c6ac337d87255d3a49b,"refactoring; use nearest-ancestors in docker-tar-pipe-runner
+",Type1,,
+cyber-dojo-web,0d3258faf093618f1dfbf3f30e206b13ad32f75e,"minor refactoring; still no way to filter on label on [docker volume ls]
+",Type1,,
+cyber-dojo-web,2ca8f35e157df25390f53ff82b09f5283877f03b,"[docker pull] on first use in setup page javascript refactoring
+",Type1,,
+cyber-dojo-web,0fdd3df7096c891bb009939a3d821bc73c1c0321,"refactoring - moved docker_runner.rb into docker_tar_pipe_runner.rb
+",Type1,,
+cyber-dojo-web,0988fbae9a3b194e5556c87b42d13388b5883f46,".gitignore and .dockerignore refactoring
+",Type1,,
+cyber-dojo-web,75e7634b867854ad2491b80409afb8b0bffe6a2f,"docker_tmp_runner.sh refactoring
+",Type1,,
+cyber-dojo-web,8676681c5985d2b8f553c6a3dd70397d940cf7e0,"refactor duplication now docker client is inside web image
+",Type1,,
+cyber-dojo-web,5e63add2a4b41d34c25c97d71e10944e8b6d1d6f,"refactored docker image cleanup file
+",Type5,,
+cyber-dojo-web,6b643ac4b026c17b7f1d5d7055682271635e55b3,"refactored hard-coded dir name in docker scripts
+",Type5,,
+cyber-dojo-web,50f4bc8ad11109f9360e7b993185bad2a3a591d8,"moved katas-image and dev-image Dockerfiles into dedicated directories so there is no extra docker-context; refactored Dockerfiles to fewer RUN commands
+",Type5,,
+cyber-dojo-web,88e8dd3840395aeaf655a83e1c368a8d971e009e,"refactor hard-codes node names in admin_scripts/docker_machine/tail_rsync_logs.sh
+",Type5,,
+cyber-dojo-web,faebfa77a3e43310f363cd49229eb2db8b4d6a08,"refactor cdf_docker_update_all.rb
+",Type1,,
+cyber-dojo-web,d5bd56ad0e339682be00e5667337e249a0743a6f,"refactor docker_rebuild_all.sh now no language depends on another
+",Type1,,
+cyber-dojo-web,0ef4f4fc8c9da48f76da12c0a87ac6bef3171249,"refactor test/lib/test_docker_runner.rb
+",Type1,,
+cyber-dojo-web,b77e371a0d7f733e3b05b80f8478f3738ef204e9,"refactor lib/docker volume-mount/rsync tests
+",Type5,,
+cyber-dojo-web,cf6ccc4011c6ae1eb88f7536759cabd137254413,"refactor docker_pull_all duplication
+",Type1,,
+cyber-dojo-web,b51960629f056e87584aa88f55899f2f0940dcd0,"updated refactoring_dojos.tgz after docker-container updates
+",Type1,,
+cyber-dojo-web,b3bb9b8900c66331dbb297bfafc6df9e3c76870f,"refactored cyberdojofoundation_docker_update_all.rb so it does not issue docker-pull unless old-container is present and new-container is not (should be much faster when only doing update on some containers)
+",Type1,,
+cyber-dojo-web,80f06d75a6f5d04f4d580637d587b9743c830c1e,"refactoring - admin_script docker_update_all is not used and is the same as docker_pull_all anyway so I moved it into dead sub folder
+",Type1,,
+cyber-dojo-web,19aec25b30280d585afabf6ebc63017b8afd0a76,"refactor admin_scripts/docker_pull_all.rb so it gets docker image-names from languages' manifest.json files
+",Type1,,
+cyber-dojo-web,cc4da8770b2ba10ce37beb913dacbdc67d8f9521,"made a start at refactoring test/installation/one-language-checker to know about new manifest.json keys and docker-runner
+",Type1,,
+denverdino.github.io,64ea94567b3136801c228efd7c1314b159c01ad6,"refactoring some duplicate code in parsing x509 certs to keys Signed-off-by: David Lawrence <david.lawrence@docker.com> (github: endophage)
+",Type1,,
+denverdino.github.io,50d5d55f566b65b506bf54ccf0d897a0cb95734e,"refactor the init function in docker_utils.go
+",Type1,,
+denverdino.github.io,8a95f8827231164acc3971cab7c0d0325d6ef31d,"""Add zsh completion for 'docker update' + refactoring of common options between 'build'",Type1,,
+denverdino.github.io,14f43406a38b1f66ab60b5235bde4b0121eed093,"refactor docker_cli_proxy_test.go part of #16756
+",Type1,,
+denverdino.github.io,79498b1c6124ab4faabb408ef7d973ac899ad1e1,"refactor integration-cli/docker_cli_login_test.go with Assert part of #16756
+",Type1,,
+denverdino.github.io,9d5e988586010e34ad60555c4406f076f7d10399,"working refactor Signed-off-by: David Lawrence <david.lawrence@docker.com> (github: endophage)
+",Type1,,
+denverdino.github.io,c858a4ba8981700e9d5acf8b482b62dbb0afab02,"Final polish to cloudfront and larger middleware refactor Signed-off-by: David Lawrence <david.lawrence@docker.com> (github: endophage)
+",Type1,,
+denverdino.github.io,6dcec265a0646a4dff8d1440306683d18998cf5d,"minor refactor + tests for app.go just to improve test coverage. Signed-off-by: David Lawrence <david.lawrence@docker.com> (github: endophage)
+",Type1,,
+denverdino.github.io,54f36078f4c7516d717987f94c4787c0566798c0,"do not show debug for docker install by default; refactor install out of drivers
+",Type1,,
+denverdino.github.io,1572989201cc54dc87d961fe9c5d6850c61d47b9,"dockerinit: refactor error handling
+",Type1,,
+dotfiles,6c1feafb16e299f8e818013e804adc8c67a5ef26,"refactor: configuration dockerfile (#270)
+",Type3,Remove ENV variables,Dockerfile  
+dotfiles,1df5268ab4c129994b3e6162bcd9cb01eedeee89,"refactor: configuration docker and docker-compose (#268)
+",Type5,,
+dotfiles,ff3367dc1c2cbd8326255312bdd22f60670e19e7,"refactor: maintainer for dockerfile (#239)
+",Type5,,
+dotfiles,34cdb715eeb2a8f6ec886dab539af2589c43876d,"refactor: hooks shell lint and docker (#239)
+",Type1,,
+dotfiles,9c81fee8849fc3e696efa5b04aad762eb04cfe0f,"refactor: settings shell docker and docker-compose (#213)
+",Type1,,
+dotfiles,eb7ede0c0276b21c30742120b0665e84ca840ed1,"refactor: settings docker and docker-compose (#213)
+",Type1,,
+dotfiles,587d3b33060d349eb720991515226091ab170a05,"refactor: service for docker (#188)
+",Type1,,
+dotfiles,4d4620d13dde2b1f0a74143bb017146520cba9a7,"refactor: change settings for docker-compose (#179)
+",Type3,Add ENV variable,Dockerfile  
+dotfiles,4c69d905c52d03c4ceeaea5b4b93f9af7da3a21d,"refactor:  move file docker-compose to root (#159)
+",Type3,remove image tag,Docker-compose
+dotfiles,8d411bf6168fc97f1364101ffd28e19480b8045e,"refactor: path for docker to provision (#148)
+",Type3,Add LABEL tag,Dockerfile  
+dotfiles,eedb2b854ab13146871d65d5a335247ae2adc7e2,"refactor: update version 3 for docker-compose (#118)
+",Type3,change restart attribute value,Docker-compose
+dotfiles,eedb2b854ab13146871d65d5a335247ae2adc7e2,"refactor: update version 3 for docker-compose (#118)
+",Type3,remove source_store attribute,Docker-compose
+dotfiles,eedb2b854ab13146871d65d5a335247ae2adc7e2,"refactor: update version 3 for docker-compose (#118)
+",Type3, remove volumes_from attribute ,Docker-compose
+FilterLists,0f3491192fd5461f045a39bb10a8599f13bed505,"refactor(docker): ♻ re-gen some docker config
+",Type3,remove source_store attribute,Docker-compose
+FilterLists,0f3491192fd5461f045a39bb10a8599f13bed505,"refactor(docker): ♻ re-gen some docker config
+",Type3,remove volumes_from attribute ,Docker-compose
+FilterLists,5c17cc415bec72686219b0fdd2ae70ce037aa4dd,"refactor(docker-compose): ♻ extract docker-compose dir
+",Type2,Type2,
+FilterLists,cba9373bfee95fce7f14c7cb31e00ab75c9304d2,"refactor(directory): ♻ exclude data from docker context
+",Type5,,
+FilterLists,9f4faab1a75a7ae2cbda83deafd90d83b06a1b03,"refactor: ♻🔨 update dockerignores
+",Type5,,
+FilterLists,a5d2aa21ece35ab3ff148ca9027e0df09daa3777,"refactor(directory): 🔥 rm dup docker-compose config
+",Type5,,
+FilterLists,a74e2e76834c0f07cdbbfdd6ea4ae04a2c27d4fb,"refactor(sln): 🎨 mv shared dockerignore to 'Solution Items'
+",Type5,,
+generator-jhipster,797fe2ff6841e453583a4c10865474c450ae185a,"refactor prompts to align with docker-compose and auto config shell script
+",Type5,,
+ggz,0896beb7d1388ff3a25b41a1b33851066dfe95e9,"refactor: move docker file
+",Type2,,Dockerfile  
+go-oauth2-server,b4b8c74b0c51bff7ac0d1f926996f87735cad905,"Linter fixed and docker-compose refactor.
+",Type3,Update RUN Instruction,Dockerfile  
+hydra,5508f2aba6ff56730d402f163e2b41387676a30f,"refactor: move Dockerfiles to .docker directory
+",Type2,,Dockerfile  
+image_builder,7cfe21ae16cecfae1be52e128c4e65371713c0e6,"refactoring; drop unneeded docker run volume-mount
+",Type1,,
+image_builder,350c5bffe859b0df44c8cff6e250e46db7b13493,"refactoring; add dir/ structure to dockerfile_augmenter
+",Type2,,Dockerfile  
+image_builder,82ce0e8a770d017f6bc8ebd532ca423748ddc622,"""[ci skip] refactor new build-script; move docker login",Type3,Update Base Image,Dockerfile  
+image_builder,28991d202db728bb539e317c2a9a0e2aa4f300de,"refactoring; rename method as the intention is for it to check start_point/ which does not have associated docker/ dir
+",Type1,,
+image_builder,fe79ece59bd1cea988d50d7daacf28c2043e4542,"refactoring; base inner Dockerfile on docker/latest image
+",Type3,Update Base Image,Dockerfile  
+image_builder,475f940f9f227c184b91f756e06bcff13e9e4cac,"refactoring; convert dockerhub to module
+",Type1,,
+image_builder,7ad582f0b0047838aed1b6c7bd6e7ad01d7793d7,"refactoring; delete check for env-vars which is already in dockerhub class
+",Type1,,
+image_builder,5aaf740236d2650005190d2d083987ffd59a2907,"refactoring; split docker-compose up into 3 separate ups
+",Type1,,
+image_builder,06b29b6236e9c8147f296abe5a1bc1bbce6786b5,"refactoring; docker/Dockerfile is required even if it is a single FROM line
+",Type1,,
+image_builder,312716a6937c83b82ca55a1f43b99316c26adb78,"refactoring; check env-vars for docker login at point it happens
+",Type1,,
+integration-prototype,6ff3abe1973b2a2fa80c5caaceea291040c053fc,"refactor and added alternative Docker files copied from the official Tango docker images
+",Type3,Move Service,Dockerfile  
+lagoon,87ad714a8ca465af40359788b6ff3efe168b5aa7,"refactor: fail builds early for invalid docker-compose files
+",Type1,,
+lagoon,dc0e180615539669ce5ad24b534ec83385b82c79,"refactor docker-host: use full lagoon image now
+",Type1,,
+lagoon,3b4fac34b6de5bae67da208982a3565b0201d53b,"refactoring of docker-host - it's now inside the lagoon project - it's built with a real docker image
+",Type2,,Dockerfile  
+lagoon,1b17fc77b0b8e1416e70faccca55082ef6f9c32e,"""refactor for creating of projects during deployment - no generation of openshiftRessourceAppName and NAME environment variable anymore",Type1,,
+linden-honey,d7bd2113a49d1810967a956ca56f538aeba86dfe,"refactor(docker): improve compose
+",Type2,,Docker-compose
+linden-honey,32ee6f25f12b5dcba8184ac20a9ba536e6a35239,"refactor(docker): add node_env
+",Type3,Add ENV variable,Dockerfile  
+linden-honey,3b23b4c095ba901c97ab7d91127a85105536ad8b,"refactor(docker): updates
+",Type3,Update Base Image,Dockerfile  
+linden-honey,3b23b4c095ba901c97ab7d91127a85105536ad8b,"refactor(docker): updates
+",Type3,Add ENV variable,Dockerfile  
+linden-honey,6e4a45970f76102509d9da7c24e7720c5f31add7,"refactor(docker): remove description
+",Type2,,Dockerfile  
+linden-honey,f380a3a465caaf3c1b274fc20e7c18383da6d202,"refactor(docker): reorganize build script
+",Type2,,Dockerfile  
+linden-honey,1a443145055ea76e204555d959e9d395b3d44282,"refactor(docker): use build args
+",Type3,Add ARG instruction,Dockerfile  
+linden-honey,03ed248085bfe505d80a5d87068df6ac637609c8,"refactor(docker): update dockerfile & ingnores
+",Type3,Add ENV variable,Dockerfile  
+mission_control,745523d50810439fd6d826e9005d4dd2442944a7,"""refactoring e2e tests",Type2,,Dockerfile  
+mondedie-chat,1c0e16a9ae8878dc887c55c0fc66a992108625f2,"refactor(docker): Change base image
+",Type3,Update Base Image,Dockerfile  
+mondedie-chat,325f1d17e645de78b226b8c6c096725660c33ca2,"refactor(docker): Change base image
+",Type3,Update Base Image,Dockerfile  
+OrdinglcDocker,412c73d6b566703b22729167104d07f6df01e31c,"refactoring aspnet_web folder and dockerfile
+",Type2,,Dockerfile  
+OrdinglcDocker,4371b14b50374979d579586f1686bf4799d9e3e0,"aspnet_web: refactoring deploy docker
+",Type3,Update Base Image,Dockerfile  
+rdrf,43c2494fe8532670de2d894c5f2c21ec26e1c7b1,"docker-compose: refactor selenium for docker-compose 1.5
+",Type3,Move Service,Docker-compose
+repairnator,a3f56b84c51e70241900f64958875b3ec42c4044,"refactor: move docker test cases to other repository (#1059)
+",Type2,,
+repairnator,3244c5346e49c0109e95d59e45bf4eefa4a45041,"refactoring to launch repairnator using docker images (#111)
+",Type3,Add ENV variable,Dockerfile  
+storer,d707c9bab52fbc69f3223a3eb211d0cc142f52c2,"refactoring; base client/server Dockerfiles off docker:latest so they build faster and to allow server to manage its own data-container
+",Type3,Update Base Image,Dockerfile  
+storer,c8596a078bcbdb8ffd13f713ca998f1704b173e7,"refactored Dockerfile so it is based FROM docker:latest image (docker outside-of docker) - intention is to make storer responsible for initial creation of the katas-data-container
+",Type3,Update Base Image,Dockerfile  
